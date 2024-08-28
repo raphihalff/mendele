@@ -1,0 +1,163 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.330
+April 24, 1994
+
+1) Ets/enk: from a reply to Peretz Mett (Mikhl Herzog)
+2) Sholem Aleichem (Louis Fridhandler)
+3) Loshn koydesh (Mikhl Herzog)
+4) Introduction and Query (Ken Kaminsky)
+5) Gzhibe - thinking aloud (Moyshe Taube)
+
+1)----------------------------------------------------
+Date: Sun Apr 24 10:58:55 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: ets/enk: from a reply to Peretz Mett
+
+Where they occur as the normal plural forms, "ets/enk/enker"
+are also used as the "honorific singular" (in the same sense as
+"ir/aykh/ayer" (German "Sie", Italian "lei", French "vous"),
+vs. singular "du-di:/dir/da(y)n".  They derive from an old dual
+along with the accompanying -ts suffix in "ets kimts/gayts". The
+ideal systems would be something like
+
+"ets gayts", imperative "gayts", interrogative "gayts ets?"
+as against "(ir) geyt/gayt" in the same contexts, and ets/enk
+would preclude ir/aykh.
+
+As you would expect, as we move from Western Poland, where we
+might find the ideal system, to Lithuania-Belorussia (where we're
+not accustomed to finding any of it), various mixed systems
+occur.
+
+Thus i) "ets gayts", imperative "gayts", but interrogative
+"gayt ets?" and ii)"ir geyt", interrogative "geyt ir"? but
+imperative "geyts", in Litvish sounding Northeastern Poland!! I
+almost flipped when I first heard it there.
+
+If you have access to people from Szczuczyn, check it out. As I
+learned later, the imperative -ts was known in Vilna as late as
+the mid 19th century.
+
+The geography of Yiddish "ets/enk" is instructive. In Western
+Poland and the Carpathians, it borders on the same feature in
+Bavarian German and its distribution in the two languages can
+profitably be examined as part of a geolinguistic continuum.
+Volume IV of the Yiddish Atlas will do just that.
+
+Mikhl Herzog
+
+2)----------------------------------------------------
+Date: Sun Apr 24 13:43:03 1994
+From: 74064.1661@CompuServe.COM
+Subject: Sholem Aleichem
+
+Khaver Andy Cassel,
+
+     I avidly accept your offer to E-mail me contents of the letters in
+Yiddishe Kultur.  Any other information about the other letters to your
+zeyde would be greatly welcome.  The years 1906 to 1908 were hard ones
+for Sholem Aleichem.  He left Russia at the end of 1905 because of the
+Kiev pogrom in the fall. Took the whole family with him resulting in loss
+of his royalties from Russian publications.  He had to make up income.
+Traveled, gave public readings.  Went to New York in Oct. 1906.  Couldn't
+get used to life in America.  Two plays failed in New York. Returned to
+Europe June 1907.  He may have started Motl Peysi on board ship.  Vol. 1
+was finished 1907.  (Vol 2 was 1914).  Toured in Europe again.  Fell ill
+with acute pulmonary TB in Baranovitch, Poland on July 28, 1908.  Entered
+an Italian Riviera sanitarium in the fall.  So you see, letters of those
+years are of special importance.  What is your zeyde's name?  Where was
+he 1906-08?  Did he meet Sholem Aleichem personally?
+
+Sincerely, Louis Fridhandler
+
+3)----------------------------------------------------
+Date: Sun Apr 24 15:19:51 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: An addendum to my diatribe about loshn-koydesh
+
+Among the most Yidishlekh (= Jewish?) features of Yiddish is its
+affective apparatus, no? It's system of diminution, for example. No
+loshn-koydesh features in "mamele, tatinke, bobeshi or of all things,
+even in gotenyu". Edward Stankiewicz has a major article on the subject
+of the emotive features of Yiddish but I don't have the bibliographic
+reference at hand
+
+I would refer you, though, to an article on "authenticity" in Yiddish] in
+The Field of Yiddish, Fifth Collection, by Christopher Hutton.
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Sun Apr 24 16:22:18 1994
+From: kaminsky@augsburg.edu
+Subject: Introduction and Query
+
+I have been eavesdropping now for more than two years and I guess it's
+time make an introduction.
+
+I'm a statistician working in the mathematics department of Augsburg
+College (with a strong Lutheran connection) in Minneapolis.  Strangely,
+my first formal study of Yiddish was here at Augsburg when I sat in on a
+Yiddish reading course taught by a linguist colleague in the Language
+Department. Since then I did the Columbia/YIVO summer course in 1989 and
+now I'm just coasting.  My mother was a native speaker of both Yiddish
+and Russian, but, alas, she did not pass either of them on to me. As with
+so many other second generation American Jews of my generation (b. 1938),
+Yiddish was a secret language spoken by the parents and grandparents. I
+was left with only a few phrases stored away for opening decades later
+(eyn kleynekeit, nisht gefelech, etc., etc.) and a good accent.
+
+That's enough introduction for now.  About my query.
+
+I have a copy of an album of Yiddish songs sung by Theodore Bikel.  Does
+anyone know if any of his Yiddish albums are available any more?  How
+about on CD?  I have a video he did in Austrailia a few years ago, but
+the sound reproduction is not so good. Thanks Mendelnicks.
+
+Ken Kaminsky
+
+5)----------------------------------------------------
+Date: Sun Apr 24 16:28:36 1994
+From: taube@HUM.HUJI.AC.IL
+Subject: gzhibe - thinking aloud
+
+After producing for Polish a non-existent *grzyba (although there is
+grzyb `mushroom') out of grzywa `mane', `cock's-comb' and grzebien'
+`comb', it occurred to me that this could have happened to yiddishophones
+before me, thus yielding the Yiddish gzhibe. But what about German ewig >
+Yiddish eybik? The Atlas does have map 74 (p. 123) with b/v alternations,
+but these seem to be different. Reb Mekhl, any comments?
+
+Moyshe Taube
+
+______________________________________________________
+End of Mendele Vol. 3.330
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

@@ -1,0 +1,143 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.116
+December 2, 1996
+
+1) Beregovski archive (Iosif Vaisman)
+2) Liubistik (Meyer Wolf)
+3) Liubistik (Hugh Denman)
+4) Liubistik and zschokke (Iosif Vaisman)
+5) Sholem Aleykhem's language(s) (Bernard Katz)
+
+1)----------------------------------------------------
+Date: Sun, 1 Dec 1996 14:36:10 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Beregovski archive
+
+I have another question about the Vernadskii Library collection and
+Beregovski archive. In 1992 the Library filmed and Norman Ross Pub Co
+(New York) released a set of four reels of microfilm under the title:
+"Jewish sheet music from the Vernadsky Library in Kiev, Ukraine
+(formerly the Central Scientific Library of the Academy of Sciences):
+Vocal and instrumental music, Hebrew, Yiddish, Russian, and Ukrainian
+words". The set contains 3616 pages of music and 24 p. guide. Ross also
+published a hard copy edition in 7 volumes (Boston, Chicago, and New
+York public libraries are among the libraries that have this paper
+version). What is the relation between this set and the collection
+discussed in the previous Mendele issues?
+
+Iosif Vaisman
+
+2)----------------------------------------------------
+Date: Sun, 1 Dec 1996 16:01:49 -0500 (EST)
+From: wolfim@chelsea.ios.com
+Subject: Liubistik
+
+Mechl Asheri quite rightly connected Shvues with milikhiks, but the
+connection of Shvues with "grins" must have slipped his mind. liubistik,
+registered in Stutchkoff along with other water plants on p. 209 (left
+col.), corresponds to the Ukrainian lyubistok 'lovage' (it also means
+sweetheart). The tender stalks of the young plant are eaten like celery.
+I dont know whether it was was also cooked as a shvues maykhl.
+
+Meyer Wolf
+
+3)----------------------------------------------------
+Date: Sun, 1 Dec 1996 23:12:55 +0100 (MET)
+From: h_denman@maier.vol.at
+Subject: Lyubisitik
+
+Lyubistik, as Mechl Asheri (6,114) rightly conjectures, is indeed a type
+of food, not, of course, 'Lebkuchen' (I presume he was pulling our
+leg!), but lovage (levisticum officinale) whose vaguely celery-scented
+roots and shoots can be used in salads.
+
+Hugh Denman
+London
+
+4)----------------------------------------------------
+Date: Sun, 1 Dec 1996 21:05:56 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Liubistik and zschokke
+
+Mechl Asheri asked about the word _liubistik_ in Sholom Aleichem's "A
+Vayse Kapore" [vol6.114]. Liubistok (Russsian and Ukrainian) is a plant
+from the _Umbelliferae_ family, with yellow flowers and specific
+pleasant flavor. It is used in various Shvous dishes (e.g. as an
+"additive" to the _knishes mit keyz_).
+
+In the very next sentence of "A Vayse Kapore" we read that the heroine's
+mother is an educated woman, she all the time speaks about Goethe and
+Schiller, and reads Zschokke every night. Later in the story Zschokke is
+mentioned again. Here is my question: today Zschokke seems to be much
+more obscure writer than Goethe and Schiller. What he is doing in their
+company? Was the situation different in Sholem Aleichem's times or
+Zschokke has some special meaning in the story? (Like a hint to the
+particular literary or ideological taste of the personage. If yes, which
+one?) The question arises in part because Zschokke wrote many "Christian
+devotional stories".
+
+Iosif Vaisman
+
+5)----------------------------------------------------
+Date: Sun, 1 Dec 1996 18:22:44 -0500 (EST)
+From: bkatz@uoguelph.ca
+Subject: Sholem Aleykhem's language(s)
+
+Louis Fridhandler comments in Mendele 6.116 about my astonishment in
+learning that the language used in Sholem Aleykhem's home was Russian
+and not Yiddish.  He puts forward the explanation that it was important
+to know Russian well in order to function well in that society and he
+offers the analogue with English in our own place and time.  I am with
+him in terms of his reasons for knowing Russian, but frankly and with
+respect, I don't see how those reasons adequately explain the fact that
+his grand- daughter (for example) never learned Yiddish at home. I'm
+still astounded.
+
+Bernard Katz
+
+______________________________________________________
+End of Mendele Vol. 6.116
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

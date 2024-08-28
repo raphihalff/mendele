@@ -1,0 +1,251 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 10.025
+July 2, 2000
+
+1) dalfen (J.B. den Besten)
+2) Musical memories (Lucas Bruyn)
+3) kale gevorn (Mikhl Herzog)
+4) di zogerke (Sylvia Schildt)
+5) di zogerke (Itsik Shteyn)
+6) Pledge of Allegiance (Shloyme-Khayim Cohen)
+7) Yiddish song books (Chane Honig)
+8) "zay mir nit keyn feter.." (Lilian Dubb)
+9) purimshpil (Moyshe-Shaye Steinlauf)
+
+1)----------------------------------------------------
+Date: Thu, 29 Jun 2000 06:41:10 -0400 (EDT)
+From: "J.B. den Besten" <h.den.besten@hum.uva.nl>
+Subject: etymology of "dalfen"
+
+In Dutch etymological discussions re "dalven" 'to beg, to vagabond' it is
+universally assumed that yidd. "dalfen" 'poor man, pauper' derives from
+hebr. "Dalfo:n", the name of one of the sons of Haman (scroll of Esther).
+
+Now this is in accordance with the official spelling of "dalfen" of course,
+which is <dlpwn>, but the everage Dutch etymologist cannot read Yiddish and
+their universal belief re "dalfen" goes back to Voorzanger & Polak's book
+on Dutch Yiddish (1915), where it is claimed that "Dalfo:n/Dalfen" could
+acquire the meaning of 'poor man' because Dalfo:n is the sole one among
+Haman's sons whose name does not contain an 'alef, which letter can be
+related to concepts like 'thousand' and 'prince' (hebr. "'elef" and
+"'alu:f" resp.).
+
+This is an ingenious but rather fanciful etymology, however, and Voorzanger
+& Polak concede that there may be alternatives. All alternatives I know of
+somehow try to read hebr./yidd. "dal" 'poor' into "dalfen". [And Voorzanger
+& Polak's alternative is again a very fanciful one, which I shall not
+discuss here.]
+
+My own hunch is that this is not good enough and that "dalfen" should be
+analyzed as a Hebrew "-a:n" agentive, either as a direct descendant of
+something like "*dalfa:n" or -- less likely -- as a folk-etymological
+reinterpretation of "Dalfen" (< "Dalfo:n") as an "-en" agentive due to "dal".
+
+My reasons for assuming this are the following:
+
+(a)	The plural of "dalfen" is "dalfonim". [Cf. "lamden" - "lamdonim", etc.]
+(b)	In West Yiddish there was an abstract noun "dalfones", comparable to
+	"lamdones', etc.
+(c)	On the basis of Bargoens and Rotwelsch evidence we may reconstruct a
+	West Yiddish verb "dalfenen" 'to beg, to vagabond', which clearly
+	derives from "dalfen", comparable to the derivation of de-agentive
+	"-enen" verbs in Yiddish. [Cf. Neil Jacobs's 1989 article.]
+
+Originally I did not dare to relate "dalfen" to the Hebrew root DLP 'to
+leak, to drip -- partly because I overlooked the fact that "-a:n" just like
+its Germanic counterpart "-er" has meanings going beyond a simple
+agentive/instrumental reading. However, Shlomo Berger pointed out to me
+that there is a Hebrew noun "dalfa:n" meaning 'somebody leaking' and he
+suggests that this may be a case of semantic specialization. i.e. somebody
+who leaks remains with nothing, ergo a poor man.
+
+Now I would like to ask the readers of this list:
+
+- Is there literature on this subject (the etymology of "dalfen")?
+- What is known about the history of hebr. "dalfa:n"?
+- When and why was it decided to write "dalfen" as <dlpwn>?
+
+Please (also) send your replies to:
+
+	h.den.besten@hum.uva.nl
+
+Hans den Besten
+
+2)----------------------------------------------------
+Date: Thu, 29 Jun 2000 07:11:23 -0400 (EDT)
+From: Marion Troia/Lucas Bruyn <troia@wxs.nl>
+Subject: Musical memories
+
+In I. Kotik's "Mayne Zikhroynes" the author gives 4 short scores of music
+composed by r' Yisroel, a Kostker Khosid, born in Serdlets, Poland ,who
+lived in Kamenits with Kotik's grand-parents and father after the death of
+his father in law, Mr. Eliezer. He was married to Sore-Beyle (who had two
+brothers) and they had a daughter, Zisele. He died in Warsaw after the
+Polish uprising of 1863. In Vol, I Chapt 5 we learn: "keyn notn hot er nisht
+gekent, ..."
+
+The scores were written out by Mr. Peysekh Kaplan, while Kotik sang him the
+tunes from memory. There are two Polish Marches, a Cossack March and a
+'nign'.
+
+The melodies by Mr. Yisroel form an integral part of Kotik's memoirs, he
+refers to them throughout the book. At the time Kotik wrote his memoirs
+pianos were a standard item in a middle-class household and many of his
+readers might have played the tune.
+
+I wonder whether someone on the list could computerize these literary tunes,
+to make them audible on computer by clicking a 'hotspot' in the electronic
+text. I could scan the scores and attach them as graphic files to an E-mail
+message.
+
+Lucas Bruyn
+
+3)----------------------------------------------------
+Date: Tue, 27 Jun 2000 00:31:12 -0400 (EDT)
+From: "marvin herzog" <mherzog@bestweb.net>
+Subject: kale gevorn
+
+[re: 10.023]
+
+Not I!! I didn't cite the phrase "di kahle iz kayle gevorn" .... Please look
+again. This is another example of "shraybn noyekh mit zibn grayzn".
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Fri, 30 Jun 2000 11:53:31 -0400 (EDT)
+From: Sylvia Schildt <creativa@charm.net>
+Subject: di zogerke
+
+Vegn "di zogerke" oder "zogerin" (10.024):
+
+Rohkl Brokhes hot ongeshribn a kurtze maysele, ibergezetzed fun der khaverte
+Shirley Kumove. Di iberzetung gefint zikh in s'bukh "Found Treasures "ISBN
+0-929005-53-8.
+
+Ikh tzitir fun araynfir  tzu der maysele (af english)...
+
+     The zogerin is  virtually unheard of in Jewish communities today but in
+     the communities of Eastern Europe she played a central in women's
+     religious participation.
+
+     .. To counteract their distance from what they consdered holy, women
+     designated a zogerin, a speaker or teller -- a position which was
+     highly respected and admired. The zogerin read the prayers aloud the
+     women, leading them in the service. The zogerin had a special
+     significance in representing the illiterate. Individual women would
+     also ask her to intercede on their behalf for something personal ...
+     from the serious, like the health of a child, to the more material or
+     frivolous.
+
+Sylvia Schildt
+Baltimore, Maryland
+
+5)----------------------------------------------------
+Date: Sat, 1 Jul 2000 11:50:31 -0400 (EDT)
+From: shteyn@juno.com
+Subject: di zogerke
+
+mayn mame o"h flegt nutzn dos vort"firzugern"oyf tsu batseykhenen a froy,
+wos hot gut gekent di tfiles (basunders fun rosh hashune un yom kipur) un
+flegt sey "firsugen" in der vayberisher shul far di andere froyen, velkhe
+fleygn ir getray nokhzogn. Harkavi taytsht azoy i dos vort"zogerke" (zayt
+213) i dos vort"firzugern" (zayt 408). mayn mame o"h flegt nokh dertseyln a
+vitz:"der firzogerns meydele is aroyfgekumen in der vayberisher shul un hot
+gemont essen. hot ir di firzogern oysgesungen mit dem selben nigun fun di
+tfiles:"gey aheym un nem dir a shtikl koyletsh mit dimpekhts (flomen
+ayngemakhts) un es". ale vayber hobn dos nokhgesogt". zayt ale gesund,
+
+itsik shteyn
+
+6)----------------------------------------------------
+Date: Fri, 30 Jun 2000 13:16:41 -0400 (EDT)
+From: Steve Cohen <scohen@rutchem.rutgers.edu>
+Subject: "Pledge of Allegiance" in Yiddish
+
+Mayn kimat 4-yoriker heybt on zikh lernen dem tsuzog der amerikanisher fon
+("The Pledge of Allegiance") in zayn biz-shul klas (af English). Tsi hot men
+a tekst af yidish fun di verter? Far di vos voynen nit in di Fareynikte
+Shtatn, me zogt ale tog in onheyb fun shul ot-di verter, mit der rekhter
+hand ibern harts:
+
+     I pledge allegiance to the flag of the United States of America, and to
+     the Republic for which it stands, one nation, under God, indivisible,
+     with liberty and justice for all.
+
+Ikh vil mit mayn zun praktikirn af Yidish oykh.
+
+My nearly 4-year-old is beginning to learn the Pledge of Allegiance in his
+pre-school class in English. Does anyone have a Yidish text of the words?
+For those of us who don't live in the USA, you say it at the beginning of
+the school-day, while placing the right hand over your heart. (The words are
+given above.)
+
+I would like to practice with my son the Pledge in Yiddish
+
+Shloyme-Khayim (Steve) Cohen
+
+7)----------------------------------------------------
+Date: Fri, 30 Jun 2000 13:54:26 -0400 (EDT)
+From: Alice Honig <ahonig@mailbox.syr.edu>
+Subject: Yiddish song books
+
+Gloria Cohen hot gefregt vegn yiddishe lider.  Ich hob gekoyft a sach bicher
+mit lider..vunderbar f..vi Pearls of Yiddish SOng...at the Workman's Circle
+Bookstore in Manhattan. they are a treasure trove!>
+
+also, i ordered years ago.. many second avenue yiddish sheet music songs
+from the Yiddish BOok Center in Amherst Massachusetts. nu,gay und koif..und
+kvell fun a sach yiddishe lider.!
+
+chane honig
+
+8)----------------------------------------------------
+Date: Fri, 30 Jun 2000 14:37:48 -0400 (EDT)
+From: "lilian dubb" <lildubb@iafrica.com>
+Subject: "zay mir nit keyn feter.."
+
+"zay mir nit keyn feter un ney mir nit keyn shich"  an expression used in
+the handing over of the money  after paying a debt. I learnt Yiddish from my
+parents who were from Lithuania, Poneveyz and Vilna and emigrated to South
+Africa in mid twenties. Has anyone out there any explanation of this rather
+strange saying? Many thanks!
+
+Lilian Dubb
+
+9)----------------------------------------------------
+Date: Fri, 30 Jun 2000 15:14:15 -0400 (EDT)
+From: "Michael Steinlauf" <msteinlauf@earthlink.net>
+Subject: purimshpil
+
+Would any of our kluge mendelyaner like to take a stab at the following
+exchange from a purimshpil published by Noyekh Prilutski in 1917? It's from
+an akeydes yitshok shpil, part of an insulting exchange between Avrom and
+Sotn. Although it appears in Polish dialect, to make things easier I'm
+transliterating it into standard Yiddish.
+
+Avrom: To zogt mir, ven di tkufe falt?
+
+Sotn: Di tkufe falt dray teg in rosh-hoydesh tamuz. Demolt iz groyse hitsn
+un groyse blitsn un groyse glitshn. Es zenen aroysgegangen tsvey yunge
+meydlekh, eyns fun zibetsik yor, un eyns fun akhtsik yor, un gefaln un zikh
+tsebrokhn a beyn in marz [sic].
+
+A sheynem dank,
+Moyshe-Shaye Steinlauf
+
+______________________________________________________
+End of Mendele Vol. 10.025
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://metalab.unc.edu/yiddish/mendele.html
+
+
+

@@ -1,0 +1,249 @@
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 17.007
+August 5, 2007
+
+1) Influence of Yiddish in Modern Hebrew (Aviad Eilam)
+2) petsha (Yehudit Permut)
+3) petsha (Mimi Halkin)
+4) etymologies and meanings (Hershl Glasser)
+5) loksh (Mike Hirsch)
+6) jaundice (Al Grand)
+7) Naylebn (Henry Srebrnik)
+8) The Forverts (Arieh Lebowitz)
+
+1)----------------------------------------------------
+Date:  July 16
+Subject: Influence of Yiddish on Modern Hebrew
+
+I am a PhD student in the Linguistics Dept. at UPenn, working among other
+things on the semantics of Modern Hebrew.
+
+I am working on a phenomenon which was apparently borrowed into Hebrew from
+Russian and/or Yiddish, and so I'd like to get the opinion of native
+Yiddish speakers on this phenomenon in their language.
+
+If you are a native speaker of Yiddish, I'd be very grateful if you could
+translate into Yiddish the 4 Hebrew sentences below (which I provide a
+gloss and English translation for) and answer the short questions following
+the sentences. It's really very simple and shouldn't take more than a few
+minutes of your time. You are obviously more then welcome to write me if
+you have any questions or comments at eilamavi@babel.ling.upenn.edu
+
+(1) dani yamshix lishon ad she-ha-mesiba lo tatxil
+     danny will.continue to.sleep until that-the-party NEG will.start
+     'Danny will continue sleeping until the party starts.'
+     =>Is negation in the until-clause obligatory in this case?
+
+(2) dani lo yishan ad she-ha-mesiba lo tatxil
+     danny NEG will.sleep until that-the-party NEG will.start
+     'Danny will not sleep until the party starts.'
+     =>Is negation in the until-clause obligatory in this case?
+
+(3) ma she-lo tixtov yikalel ba-sefer
+     what that-NEG you.write will.be.included in.the-book
+     'Whatever you write will be included in the book.'
+     =>Is negation obligatory in this case?
+
+(4) a. ma asiti etmol!
+        what I.did yesterday
+        'The thing I did yesterday!'
+     b. ma lo  asiti etmol!
+        what NEG I.did yesterday
+        'The things I did yesterday!'
+     =>Does Yiddish have counterparts for both (a) and (b)?
+     =>If so, do you get the difference in meaning as in Hebrew, i.e., (a)
+       expresses surprise at the identity of something while (b) surprise at
+       the quantity?
+
+Thanks in advance,
+Aviad Eilam
+
+2)----------------------------------------------------
+Date: July 18
+Subject: petsha
+
+Just to add what was already posted about petsha:
+
+I am working on my late mother's book recipe writings from over 25 years in
+Canada and here is the family recipe for petsha -- (Russian  origin).  I do
+remember that my father, who was Rumanian, preferred it with vinegar so she
+would make both.
+
+1 calf's foot or feet from about 6 chickens
+1 onion
+whole head of garlic
+1 bay leaf
+1/2 tsp. peppercorns
+salt to pepper to taste
+2 Tbsp. lemon juice
+2 hard boiled eggs
+
+Chop the feet in several pieces and clean well.
+Peel and slice onion. Chop garlic. Place foot, onion, garlic, bay leaf, and
+peppercorns into a pan. Cover with cold water. Simmer for about 3 hours
+until the meat drops off the bones. (In a pressure cooker it will take
+about an hour).  Remove the meat and cut into small pieces. Strain the
+liquid. Add the lemon juice and adjust the seasoning as required and mix
+with the meat.   Pour into a shallow dish, add slices of eggs and when cool
+place in refrigerator at least over night.
+
+Happy eating,
+Yehudit Permut
+
+3)----------------------------------------------------
+Date: July 19
+Subject:  petsha
+
+My mother, who came to the US as a child of 7, made petsha once or twice,
+and served it hot, as a soup, not chilled and jelled. In my home, as in
+David Spodick?s, it was a one- syllable word. I liked it hot, but could
+never stomach it cold, as it is usually served. In Israel one still sees it
+for sale, with sliced hard-boiled eggs embedded in it. As a soup it had the
+consistency of chicken soup, although greasier, with bits of meat and
+vegetables in it. And definitely made from calves? feet, not cows?.
+
+Mimi Halkin
+
+4)----------------------------------------------------
+Date:  July 18
+Subject: Etymologies and meanings
+
+For what it's worth:
+
+1) Amitai Halevi writes: "I recall a suggestion that "petsha" may be a
+corruption of the French "pied chaud" (heated foot), just as "cholent" is
+derived from "chaud lent" (slowly heated).
+
+As it happens, "tsholnt" does not derive from "chaud lent"; a more likely
+etymology is the one proposed by Max Weinreich in his History of the
+Yiddish Language (a full English translation of which will be published
+later this year by YIVO and Yale University Press): Latin "calentem"
+'(approx.) being heated'. To prove that "petsha" derives from "pied chaud,"
+you would have to explain, for example, why the final /o/ sound in French
+yields /a/ in Yiddish. You cannot ascertain an etymology merely from a
+chance phonetic resemblance.
+
+2) Jack Berger writes in reference to idioms in a yizker-bukh: A) A 'yold'
+is a lout, or rude, unmannered individual. This comment could be applied to
+anyone who was acting in a manner deemed unruly by the speaker.
+
+While "yold" may mean that, a more common meaning is the one given by Uriel
+Weinreich in his dictionary: 'chump, sucker.' There is also the meaning
+used by criminals: 'straight,' i.e., someone who is not a criminal.
+
+B) "Khotsh nem im un shnayd im op fun shtrikl. Literal meaning is clear,
+but I am unfamiliar with the idiomatic use."
+
+"Khotsh" in this case means 'you might as well.' The example in the Uriel
+Weinreich dictionary: "S'iz shlekht khotsh zets zikh un veyn" 'it is so bad
+one might as well sit down and cry.'
+
+C) "[nisht far keynem fun di mendelyaner gezogt!]. Bob [Rothstein] should
+say gedakht instead of gezogt."
+
+Bob may have mixed two expressions: "nisht far ... Gedakht" and "af mir
+gezogt (gevorn)."
+
+Paul (Hershl) Glasser
+
+5)----------------------------------------------------
+Date: July 20
+Subject: loksh
+
+  From Philadelphia days, I recall the term "loksh," for an Italian
+(possibly pejorative?). Pardon the folk etymology, but is it related to
+"lokshn" (noodles), as in "lokshn kugel"? Also, the alternative [was]
+"taleyne."  And yes, [we used] "gedule,? but a "big deal" was usually a
+"gantse gedule."
+
+Regards,
+Mike Hirsch (Shiye Meyer).
+
+6)----------------------------------------------------
+Date: July 21
+Subject: jaundice
+
+I need clarification of the Yiddish word for "jaundice."  I rely heavily on
+Uriel Weinreich for such help but in this case there is a discrepancy:  In
+the English section of Weinreich, "jaundice" is listed as a two-word
+feminine noun gele zokh.  In the Yiddish section, on page 671, gele zokh is
+not to be found but the one-word noun gelzukht is listed as "jaundice."  I
+would be grateful to anyone who can offer an explanation of this
+inconsistency.
+
+If I may be allowed a follow-up inquiry - can anyone help me out with
+"jaundiced?" That's the word I really need and it's neither in the English
+nor Yiddish section of Weinreich.
+
+Al Grand
+
+8)----------------------------------------------------
+Date: July 24
+Subject: Naylebn
+
+I wonder if anyone on this list can answer this query: the pro-Soviet ICOR
+magazine Naylebn (New Life) published two issues in 1941 prior to the
+Nazi invasion of the USSR. They were Vol. 15, Nos. 1 and 2. Does anyone
+have them and, if so, in what months were these two issues published?
+
+Henry Srebrnik
+
+9)----------------------------------------------------
+Date:  July 31
+Subject: The Forverts
+
+Re:  Rachel Rojanski's "A Neon Sign Overlooking the Manhattan Bridge," a
+few corrections:
+
+Today the Yiddish Forverts weekly continues to be published.  It is _not_
+"part of" the English-language Forward's internet edition.  [I should note
+that the English-language Forward appears in print as well as online -
+online at http://www.forward.com ]
+
+On the left-side of the web version of the English edition _is_ a link [no
+pun intended] to the web version of the Yiddish edition - which can be
+found at http://yiddish.forward.com/
+
+The online - not cybernetic - version of the English edition of this
+century-plus-ten old periodical (see http://www.forward.com) is indeed
+attractively designed.  And the print version is indeed well written and
+intellectually in the tradition of its namesake.  The Yiddish edition
+appears to be quite well-designed, much better in print form than on the
+web.  Interested individuals should write for a sample print copy and
+compare the two. [Yiddish Forvarts, 45 East 33rd Street, new York NY 10016]
+
+The short-lived Russian edition of the Forward was sold in I believe 2004,
+and not long thereafter ceased publication.
+
+Arieh Lebowitz
+
+______________________________________________________
+End of Mendele Vol. 17.007
+
+Please do not use the "reply" key when writing to Mendele. Instead, choose
+one of these, as appropriate:
+
+   Material for postings to Mendele Yiddish literature and language:
+
+      mendele@lists.yale.edu
+
+   Material for Mendele Personal Notices & Announcements:
+
+victor.bers@yale.edu (in the subject line write Mendele Personal)
+
+   Other messages to the shamosim: mendele@lists.yale.edu
+
+
+   Address for the list commands: listproc@lists.yale.edu
+
+To signoff from the list, email to listproc@lists.yale.edu with the
+following request:
+
+                 signoff MENDELE
+or
+                 unsubscribe MENDELE
+
+
+Mendele on the web: http://shakti.trincoll.edu/~mendele/index.htm

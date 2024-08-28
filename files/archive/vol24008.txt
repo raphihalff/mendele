@@ -1,0 +1,183 @@
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 24.008
+February 9, 2015
+
+1) In Bruklin in a shtibl (Eliezer Niborski)
+2) Yiddish stories in transliteration (Shaul Seidler-Feller)
+3) OCR of the complete works of Sholem Aleichem (Refoyl Finkel)
+4) Shtot (Chaim Werdyger)
+
+1)----------------------------------------------------
+Date: January 24
+Subject: In bruklin in a shtibl
+
+[See Volumes 24.006-7] Dos iz Mani Leybs a lid:
+
+http://www.archive.org/stream/nybc208349#page/n157/mode/1up
+
+di noyt
+
+in bruklin in a shtibl,
+on vent un on a dakh,
+hot zikh gevoynt an oreman
+mit kinderlekh a sakh.
+
+un dort bay zey in shtibl
+iz nit geven keyn broyt,
+vayl dort, in shtibl, hot mit zey
+gevoynt di groye noyt.
+
+der oreman flegt oyfshteyn
+az shlofn flegt di velt,
+un geyn tsu fus biz in nyu-york
+fardinen epes gelt.
+
+un az di zun flegt oyfgeyn
+un biz di zun fargeyt –
+di kinder flegn veynen shtark:
+– oy mame, mame, broyt!
+
+di groye noyt flegt zitsn
+baym oyvn oyf a shteyn
+un zen alts un freyen zikh
+un sharfn mit di tseyn.
+
+di mame flegt dos zen
+un veynen shtilerheyt
+un treystn ire kinderlekh:
+– vos darft ir, kinder, broyt?
+
+ir veyst dokh, az der tate
+iz in nyu-york avek.
+er vet aykh brengen fun nyu-york
+tsvey groyse, fule zek, –
+
+tsvey fule zek mit khales,
+mit epl un mit nis,
+mit kikhelekh un shokolad
+un tort vi honik zis.
+
+di kinder flegn hern,
+zey hobn zikh gefreyt,
+un flegn shoyn dem gantsn tog
+nit betn mer keyn broyt.
+
+un shtilinke un gute,
+gevart biz shpet bay nakht
+un zen tsi der tate hot
+tsvey zek aheym gebrakht!
+
+der oreman flegt kumen
+bay nakht, farzorgt un mid,
+un zogn tsu di kinderlekh:
+– haynt hob ikh gornisht nit.
+
+di kinder nemen veynen:
+– oy broyt, a shtikl broyt!
+der tate shvaygt, di mame ziftst
+un vintsht oyf zikh dem toyt.
+
+di groye noyt baym oyvn –
+zi zitst zikh oyf ir shteyn,
+un zet alts un freyt zikh alts,
+un sharft zikh alts di tseyn.
+
+nor eyn mol hot getrofn,
+geshlofn iz di velt,
+der oreman geyt in nyu-york
+fardinen epes gelt.
+
+ot ersht iz er fun shtibl
+tsu fus azoy avek, –
+un plutslung kumt er bald tsurik
+un trogt tsvey fule zek.
+
+tsvey fule zek mit khales,
+mit epl un mit nis,
+mit kikhelekh un shokolad
+un tort vi honik zis.
+
+un nemt di kinder vekn, –
+er vekt zey un er lakht:
+– shteyt oyf, ir libe kinderlekh,
+zet vos ikh hob gebrakht!
+
+nu, hot men dos in shtibl
+a bisl zikh gefreyt! –
+nor nit gefreyt hot zikh mit zey
+di beyze, groye noyt.
+
+fun shrek iz zi gevorn
+a kleyne, kleyne gril,
+un iz farkrokhn unter dil
+un hot tseveynt zikh shtil.
+
+
+mit di beste grusn
+eliezer niborski
+
+
+2)----------------------------------------------------
+Date: January 26
+Subject: Yiddish stories in transliteration
+
+To address the question of Lewis Santer [24.007] about resources available for those interested in reading Yiddish in transliteration only, see here: http://www.uni-trier.de/index.php?id=31033.
+
+Shaul Seidler-Feller
+
+[Moderator’s note: Maurice Wolfthal suggested the same link.]
+
+3)----------------------------------------------------
+Date: January 29
+Subject: OCR of the complete works of Sholem Aleichem
+
+I have run an OCR program on the complete works of Sholem Aleichem (Buenos Aeres edition from the 1950s, NYBC scans) and placed the result in a searchable archive:
+
+http://www.cs.uky.edu/~raphael/yiddish/searchSholem.cgi
+
+You can search based on any word or phrase, in Yiddish letters.  You can leave off marks (nekudes, the rofe line), in which case the search finds matches with any marks, or you can include them, to specify particular vowels/consonants.
+
+Example: You wonder what sort of adjectives Sholem Aleichem uses with the noun "khalystre".  Search for that word (you need to spell it in Yiddish letters: khof-alef-...).  You see ten results; at present my program limits the output to the first ten matches.  The first match is from volume 2 of the series, page 262 (in NYBC numbering; p 263 in the internal numbering).  You see the adjective "gantser".  You can then look further and find "freylekhe", "hipshe", and several more "gantser".
+
+I would like to crowd-source fixing the OCR.  To that end, I have placed a "redagir di zayt" button on each page you get back from a query.  I am still constructing/modifying the web pages you see if you click that button.  At the bottom is a place where you can sign up to be an editor. Authorized editors will be able to save the results of their changes.  I have not yet implemented that feature, though.
+
+Refoyl
+
+
+4)----------------------------------------------------
+Date: February 8
+Subject: Shtot
+
+I am looking for the source of the word 'shtot' not as a city but as a permanent seat in the synagogue as in 'koyfn a shtot far di yomin toyvim’. 
+
+Thanks,
+Chaim Werdyger
+
+______________________________________________________
+End of Mendele Vol. 24.008
+
+Please do not use the "reply" key when writing to Mendele. Instead, direct your mail as follows:  
+
+Material for Mendele Personal Notices & Announcements, i.e. announcements of events, commercial publications, requests to which responses should be sent exclusively to the request's author, etc., always in plain text (no HTML or the like) to:   
+
+   victor.bers@yale.edu (in the subject line write Mendele Personal)  
+
+Material for postings to Mendele Yiddish literature and language, i.e. inquiries and comments of a non-commercial or publicity nature:  
+
+    mendele@mailman.yale.edu  
+
+IMPORTANT:  Please include your full name as you would like it to appear in your posting.  No posting will appear without its author's name.  
+
+Submissions to regular Mendele should not include personal email addresses, as responses will be posted for all to read.  They must also include the author's name as you would like it to appear.
+
+In order to spare the shamosim time and effort, we request that contributors adhere, when applicable, as closely as possible to standard English punctuation, grammar, etc. and to the YIVO rules of transliteration into Latin letters. A guide to Romanization can be found at this site: http://www.yivoinstitute.org/about/index.php?tid=57&aid=275 
+
+All other messages should be sent to the shamosim at this address: 
+
+mendele@mailman.yale.edu  
+ 
+Mendele on the web [interim address]: https://sites.google.com/site/mendeledervaylik
+
+To join or leave the list: http://mailman.yale.edu/mailman/listinfo/mendele

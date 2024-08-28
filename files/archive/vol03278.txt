@@ -1,0 +1,197 @@
+______________________________________________________
+Contents of Vol. 3.278
+March 10, 1994
+
+1) Takeh (Rick Turkel)
+2) Take (David Sherman)
+3) Tako (Anatole Beck)
+4) Takeh and maynseh (Zev bar-Lev)
+5) Lecture on Chaim Grade's Poetry in Boston (Meyer David)
+6) Muzn/darfn (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Wed Mar  9 17:06:04 1994
+From: rmt51@cas.org
+Subject: takeh
+
+Anatole Beck asks (3.272) about the etymology of Yid. "takeh,"
+meaning "indeed." It is, in fact, from the Polish "takie," an adverb
+meaning "thus, in this/that fashion, etc."  It is, however, NOT
+cognate with Russian "da," meaning "yes," but rather with Russian
+"tak," which has the same meaning as in Polish, and with Czech "tak"
+and Serbocroatian "tako."
+
+As for the nasalization (e.g., Yankev for Hebrew Yaakov) coming from
+Polish, I don't buy it because there's no specific phonological
+environment to condition their appearance in Hebrew-derived Yiddish
+words.  Polish nasals didn't appear out of nowhere, but rather
+developed from the earlier Common Slavic nasals which were lost as
+independent phonemes in the other modern Slavic languages.  I seem
+to recall reading somewhere a long time ago about a Proto-Indo-
+European pharyngeal manifesting itself as an "n" in one or another
+family of daughter languages.  I don't recall the details, but it
+parallels what we see in Yiddish.
+
+Zayt mir ale gezunt.
+
+Rick Turkel
+
+2)----------------------------------------------------
+Date: Wed Mar  9 17:27:10 1994
+From: dave@cai.lsuc.on.ca (David Sherman)
+Subject: Re: Take
+
+I know no Slavic languages, but I've always understood that the
+Slavic (Polish/Russian?) "tak" means "thus", which isn't too far
+from the Yiddish meaning.  I heard it used once by chessplayers,
+speaking Polish, who were playing over a tournament game and
+demonstrating to each other ("tak" = "if you move here/thus").
+
+David Sherman
+
+3)----------------------------------------------------
+Date: Wed Mar  9 17:40:09 1994
+From: Anatole Beck <beck@math.wisc.edu>
+Subject: tako (fwd)
+
+I have a rather scholarly message from my Polish colleague at the
+London School of Economics, regarding  takeh.  It seems that it has
+a use in the meaning of  "thus", which could be the source of its
+use in Yiddish as  "indeed":
+
+ Sender: A.J.OSTASZEWSKI@lse.ac.uk
+
+ I looked up "tak" and discovered that in the 1500's the word was
+ "tako" and got abbreviated. Its opposite is still "jako" (as) .
+ THis is as in the pair talis qualis in Latin. Actually, the "t" is
+ the indo-european demonststartive, and exists in other slav
+ languages as plain "t" and in the duplicated "tet". It is clearly
+ the same word as "the" and "dass", but they have specialised their
+ usage in the other languages. As regards indeed, the owrd is very
+ much used as in "Thus spake Zaratrustra" (Tak rzecze Zaratrustra;
+ hey, I may have heard somewhere Tako rzecze Zaratrustra", no doubt
+ an archaisation as in spake). Adam.
+
+Anatole Beck
+
+4)----------------------------------------------------
+Date: Wed Mar  9 19:54:07 1994
+From: zbarlev@zeus.sdsu.edu
+Subject: on takeh and maynseh
+
+anatole beck's suggestions for takeh seem to need some fine-tuning.
+
+tak is polish for yes, but its root meaning in slavic in "so, thus,
+in this way".  (i'd have to check to see if russian /da/ "yes" is
+supposed to be related -- i doubt it, since there is a particle /da/
+in various slavic languages.)
+
+russian in fact has /taki/ whose meaning (difficult to translate)
+seems closer to yiddish /takeh/.
+
+polish nasalization as in "Walesa" is not a spontaneous insertion;
+on the contrary, it generally or always comes from an earlier /n/,
+thus polish "pie,c'"  (i'm trying to fake the polish spelling),
+pron. approx. /pyench/, comes ultimately from the same source as
+greek /pente/ "5".
+
+i haven't followed the discussion, and i'm sure it's been mentioned,
+but just in case: one assumption i heard long ago is that the nasal
+/maynse, yankev/ came (via sefardic pronunciation?) as an attempt to
+represent the 'ayin.
+
+Zev bar-Lev
+
+5)----------------------------------------------------
+Date: Wed Mar  9 21:35:09 1994
+From: mhd@world.std.com (Mark H David)
+Subject: Lecture on Chaim Grade's Poetry in Boston
+
+Zalmen Srebro, chairmen of the Boston Yiddish Culture Club, has sent
+this announcement for a lecture in Yiddish:
+
+   Chaim Grade and His Poetry
+
+   by Steven Simon, Principal of Temple Mishkan Tefila Hebrew School
+   Sunday, March 13, 1994
+   2:30 p.m.
+
+   Arbeter Ring Center
+   1762 Beacon Street
+   Boston, Massachusetts USA
+
+Cosponsors: Arbeter Ring and the Leventhal-Sidman JCC
+All are welcome.  Contribution: $1.00.
+
+Meyer David
+
+6)----------------------------------------------------
+Date: Wed Mar  9 17:25:52 1994
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: muzn/darfn
+
+i too was awaiting some scholarly replies, but, in the absence of
+anything better, i'll put in my 2 cents.
+
+i don't think either is artificial in yiddish--both seem very very
+common in everyday speech. they're sort of synonyms, with some
+exceptions:
+
+both can be modals, taking an infinitival complement (ikh muz/darf
+hobn gelt) but darfn can also be a simple transitive verb 'need'
+(ikh darf gelt) while muzn cannot (*ikh muz gelt is impossible).
+
+darfn, with an infinitive complement, can mean 'be due', as in (from
+weinreich's dictionary) 'er darf do zayn montik' = he is due here on
+monday; in contrast, i believe 'er muz do zayn montik' would mean
+only 'he must/is required to be here on monday'.
+
+question: is it true that a negative with both darfn and muzn always
+has 'wide scope'? that is, is it true that 1 and 2 can mean only 3
+and never the same as 4? (my sneaking suspicion is that 1 can
+possibly mean 4 but 2 can never mean 4. is that right?)
+
+1. men muz nit redn.
+2. men darf nit redn.
+3. one doesn't have to speak. (it's not the case that one must speak.)
+4. men tor nit redn. (the negative always has narrow scope with torn,
+   right? that is, 4 can ONLY mean 'one is obliged to not speak' and
+   never 'one is not obliged to speak'.)
+
+also, can both muzn and darfn have an epistemic as well as a root
+sense? that is, can both 5 and 6 mean 8 as well as 7? (my hunch is
+that 5 can possibly mean 8 but 6 cannot mean 8--is that right?)
+
+5. er muz zayn do.
+6. er darf zayn do.
+7. he needs/is obliged to be there (perhaps in the future).
+8. it must be the case that he's there (now).
+
+a dank.
+
+ellen prince
+
+______________________________________________________
+End of Mendele Vol. 3.278
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Mendele: Yiddish literature and language
+

@@ -1,0 +1,154 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.123
+October 6, 1994
+
+1) Introduction (Dan Jacobowitz)
+2) Introduction (Heidi Shetzer)
+3) Introduction (Lori Chinitz)
+4) Hebraica cataloging (Paul Maher)
+5) Milgroym and rabbis (Jules Levin)
+
+1)----------------------------------------------------
+Date: Mon, 3 Oct 1994 14:02:32 -0400 (EDT)
+From: djacobow@moose.uvm.edu
+Subject: Introduction
+
+I'm taking an introductory Yiddish course here at the University of
+Vermont. I'm 52 yor alt. I've been recovering my Hebrew writing skills
+because I haven't used them since before bar mitzvah. My maternal
+grandparents spoke several languages, among them Yiddish. My parents
+probably understood a bunch, but they didn't use it. I took German in
+high school and Russian in college (and also French, but only to pass an
+exam.) I really don't claim to know any of these languages, but I do seem
+to catch on pretty well in class.
+
+I'm looking for a project for the class and I though I would explore the
+use of Yiddish slang by stand-up comics. Any suggestions for sources?
+
+I see that there will be a new Yiddish Book Center at Hampshire College.
+My son is thinking of attending Hampshire. What do you think of this?
+
+Question: Is there a shareware or PD Yiddish editor that I can get
+through ftp or gopher? Where?
+
+Dave Jacobowitz
+
+2)----------------------------------------------------
+Date: Mon, 3 Oct 1994 18:01:17 -0500 (CDT)
+From: hshetzer@uxa.cso.uiuc.edu
+Subject: Introduction
+
+I'm Heidi Shetzer, a graduate student studying applied linguistics/TESOL
+at the University of Illinois at Urbana-Champaign.  I don't know a lot of
+Yiddish, only certain words and phrases that I've learned by listening to
+my parents, my grandmother and other relatives.
+
+I go to visit my grandmother a couple times a year in Boca Raton,
+Florida. She lives in a place called Century Village, where she attends a
+Yiddish Culture Club.  She also directs a Yiddish choir.  So when I go to
+see her, I hear so much Yiddish, that I really want to learn how to speak
+it.
+
+It's somewhat upsetting to me how the younger generations in my family
+seem to know less and less Yiddish.  The Yiddish language has pretty much
+disappeared in my family.  My grandmother uses the most Yiddish, and my
+parents use a few Yiddish phrases here and there, and my use is even
+less.  Anyway, this idea of language loss troubles me, and that's one of
+the reasons why I would like to study Yiddish.
+
+I am also interested in code-switching between Yiddish and English. I can
+remember when growing up that some of my relatives would switch from
+English to Yiddish when they were talking about something they didn't
+want us  grandchildren to hear.
+
+It's been interesting to read or try to read some of the messages in
+Yiddish--this is the first time I've seen it written out.
+
+Heidi Shetzer
+
+3)----------------------------------------------------
+Date: Mon, 3 Oct 1994 19:22:53 -0500 (CDT)
+From: lchinitz@uxa.cso.uiuc.edu
+Subject: Introduction
+
+I am a Philadelphia native and a grad student at the University of
+Illinois.  I don't speak Yiddish, but I've heard lots of it from my
+father and grandparents (mostly jokes).  I think Yiddish is a fascinating
+language, and I am particularly interested in the influence of Yiddish on
+the English language and vice versa.  Since I don't read much Yiddish, a
+lot will be lost on me, but maybe I'll learn something.
+
+Lori Chinitz
+
+4)----------------------------------------------------
+Date: 03 Oct 1994 10:05:10 GMT
+From: maher@mail.loc.gov
+Subject: Hebraica cataloging
+
+The question was raised recently on Mendele about scanning portions of
+Hebraica Cataloging and distributing it on Mendele.  Since the booklet
+is  a publication of  a federal agency (the Library of Congress), with
+regard to copyright, it  is  in  the public domain within  the  United
+States.
+     I should point  out  that ALA/LC romanization contains characters
+and diacritics which do  not transmit well over e-mail systems.  These
+diacritics  and  special characters,  which  form  part  of  the  "ALA
+character set",  are  also  referred  to  as  ANSEL (American National
+Standard for Extended Latin).
+
+Paul Maher
+
+5)----------------------------------------------------
+Date: Mon, 3 Oct 1994 11:15:13 -0700 (PDT)
+From: jflevin@ucrac1.ucr.edu
+Subject: Milgroym and rabbis
+
+Two comments re recent discussion:
+
+1. milgroym is NOT Slavic and since pomegranates are Biblical, is
+doubtless Semitic.  The Journal Biblical Archeology published some time
+ago a photo of a little pomegranate decoration from Jerusalem that may
+have been on a Cohan's garment!  Re the etymologies of "granate"...  Our
+military "grenade" comes from the name of the fruit, since the German WWI
+grenate sorta resembled one. What is the Yiddish for "handgrenade"?
+
+2.  I don't understand why we want a term that covers both an orthodox
+'rov' and the non-orthodox.  It is a problem of English that we can't
+conveniently distinguish what in our hearts we do distinguish.  Does
+Yiddish have separate terms for 'fish' and 'shell-fish'.  I'm sure the
+secular Yiddishists are willing to have one term for both, but they will
+still be different.  There is a Yiddish expression--'khazer-fis--kasher!'.
+If you are good enough at pilpul you can claim that pigs'feet are
+kosher...but of course the subtext of the expression is that pigs' feet
+are NOT kosher and never will be.  Or, as Abe Lincohen once said, "You
+can call a horse's tail a leg, but that doesn't make it a leg..."
+
+Jules Levin
+
+______________________________________________________
+End of Mendele Vol. 4.123
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

@@ -1,0 +1,154 @@
+Mendele: Yiddish literature and language
+---------------------------------------------------
+Contents of Vol. 1 no. 7
+May 29, 1991 
+ 
+1)  More on Yiddish in English (Ellen Prince)
+2)  Even more (Frank Silbermann)
+
+1)-------------------------------------------------
+Date: Wed, 29 May 91 13:52:48 -0400
+From: Ellen Prince <ellen@central.cis.upenn.EDU>
+Subject: RE: Mendele Vol. 1 No. 6
+
+i have a few comments in response to dave's comments.
+
+>Note also that in many cases there is no English word that *really*
+>has the same meaning, and carries the same connotations, as the
+>Yiddish word that's used.
+
+it's a little more complicated than that, i think. for many of the words,
+they had no particular connotion in YIDDISH--it's only as borrowings into
+ENGLISH that they acquire these connotations.
+
+>>     Whatever the reason one wants to be with a
+>>     Boro Park family--for a simcha, for a shid-
+>>     duch, for companionship, for chinuch, for
+>>     chizuck,...the Committee and its 90 baalei
+>>     battim welcome you (Jewish Journal, Dec. 12,
+>>     1975, p.22).
+>
+>Can you really translate simcha and shidduch?  Note that even
+>where these words do have English translations, the use of the
+>Yiddish word restricts the meaning to "a Jewish X".  One might
+>refer to a "celebration" or "festivity", but these have a much
+>wider meaning.  A simcha is specifically a Jewish event that is
+>celebrated within the Jewish traditions.
+
+according to my admittedly imperfect intuitions, if one is speaking YIDDISH,
+one can perfectly well speak of a shidekh between gentiles or even a mixed
+one (tho the presupposition of matchmaking makes a mixed one a bit unusual).
+and certainly there can be goyishe simkhes, no? it's only when they're used
+in english that they get specialized that way. (and i don't think they do
+for everyone.)
+
+>There's also some question as to whether these usages are Yiddish
+>brought into English, or Hebrew brought into English.  Some are
+>clearly Yiddish.  But, as a test, consider how many of the words
+>might be used by an Israeli living in the U.S. (with a different
+>accent on a word like "simcha", of course).
+
+don't brush aside the placement of the accent so easily! in fact that tells us
+that the word came into english from yiddish, not from hebrew. for example,
+many anglophone jews have two words in their english lexicons--shabes and
+shabat. it's very clear that shabes had to come in from yiddish (the old hebrew
+-th was pronounced in yiddish -s--typical german accent, after all), whereas
+shabat is clearly from modern hebrew. (old hebrew th became modern hebrew t,
+plus the stress remained on the second syllable.) (oh, sorry--the movement of
+the stress to the first syllable in a two syllable word is a typical germanic
+feature--english did it with all the french words it borrowed, too.) 
+
+i should add that, with simkhe, it's not only the difference in stress, it's
+also the last vowel--/a/ in hebrew and schwa (mid central lax vowel) in yiddish
+and english.
+
+>>     Since we had only one Sefer Torah it was
+>>     agreed that the Ashkenazim would leyn first
+>>     ...and we leyned after the roll call (Jewish
+>>     Life, July 1973, pp.45-46).
+>
+>What's unusual here?  To leyn has a specific meaning (to read
+>from the Torah during services).  What other word could you
+>possibly use?  "Read" would *not* have the same meaning.
+>The same goes for Sefer Torah, which is a specific object
+>for which there is no other convenient term.
+
+again, leyn in yiddish is read. men leyent a tsaytung, a briv, vos es zol
+nit zayn, even a porno novel... it's only in english that it's limited to
+torah reading.
+
+>I would agree that these are all examples of Judaeo-English.
+>Whether the words migrated into Judaeo-English through Yiddish
+>or through Hebrew is probably irrelevant.
+
+of course, leyn couldn't possibly have come from hebrew since it's not semitic.
+(it's claimed to have come into yiddish from some romance language, i believe.)
+
+i should add that, as a linguist, **i** don't find their origin irrelevant--tho
+i realize it's not an earth-shaking issue.
+
+>> And my favorite:
+>> 
+>>     We must practice Ahavoh not Sinoh; we must
+>>     build Yiddishkeit, not destroy it.  If a
+>>     non-frum boy moves into your neighborhood..
+>>     be mekarev him (Darkenu, July 1975, p.7).
+>
+>Again, perfectly normal speech, if you live in the Orthodox world.
+>Ahavoh and Sinoh have arrived in the language directly from Hebrew
+>rather than through Yiddish, I would venture to say.  Again, all the
+>words given are simply the most convenient and appropriate words to
+>use; the parallel English words pale in expressiveness, and would
+>not convey the right connotations.
+
+i agree that some of these are 'technical terms' and don't translate well. but
+others aren't. what does non-frum have that non-observant lacks, other than
+an ability to make the hearers feel warm and in-group? (i'm not putting down
+the importance of feeling warm and in-group--in fact, there's a long literature
+on that as a motivation for code-switching in general--i'm just pointing out
+that there's no NECESSITY for using most of these.)
+
+and now i'll stop hocking you a tshaynik, as we used to say in brooklyn.
+
+2)----------------------------------------------------
+Date: Wed, 29 May 91 13:43:49 CDT
+From: Frank Silbermann <fs@rex.cs.tulane.EDU>
+Subject: RE: Mendele Vol. 1 No. 6
+
+> Can you really translate simcha and shidduch?  Note that even
+> where these words do have English translations, the use of the
+> Yiddish word restricts the meaning to "a Jewish X".  One might
+> refer to a "celebration" or "festivity", but a simcha is
+> specifically a Jewish event that is celebrated within
+> the Jewish traditions.
+
+I presume, then, that Israeli Arabs don't have simchas.
+(Does this mean that modern Hebrew has a different word
+for the general concept of `celebration'?)
+
+> Next time you're in an Orthodox shul listening to a drosha
+> pretend you're not Jewish and don't understand a word of Hebrew,
+> Aramaic or Yiddish.  Then see if you can understand any of the drosha.
+
+I always assumed this was due to one of the following reasons:
+
+A) Ignorance of the English translations for some words.
+
+B) Inability to translate the concepts into English
+   due to a shallow understanding of the concept itself.
+
+C) Desire to distinguish in-group people from outsiders
+   via a special in-group slang, much as adolescents are prone to do.
+   (Why else must Pharoah be called `Paroh' in the middle of
+    a speech that otherwise is in English?  Was `Paroh' a
+    specifically-Jewish Egyption king?)
+
+It seems redundant to embed a declaration of one's Jewishness
+into every sentence.  I must admit, however, that since I've
+begun hanging around Orthodox people, I've started to pick up
+some of these habits (e.g. calling the Sabbath `Shabbas').
+
+Frank Silbermann	fs@cs.tulane.edu
+Tulane University	New Orleans, Louisiana  USA
+______________________________________________________
+End of Mendele Vol 1.007

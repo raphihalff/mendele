@@ -1,0 +1,153 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.251
+March 3, 1997
+
+1) Yiddish music in a 'race' film (Ellen Prince)
+2) Yiddish music in a 'race' film (Ron Robboy)
+
+1)----------------------------------------------------
+Date: Sun, 02 Mar 1997 12:50:01 EST
+From: ellen@central.cis.upenn.edu
+Subject: Yiddish music in a 'race' film
+
+many thanks to harold orbach for the information about that yiddish
+number in a black film -- very interesting! of course i knew that jews
+and blacks interacted a good deal (my mother was born and raised in
+harlem, btw) but i wouldn't have expected a yiddish song in a film
+made for black consumption. ya never know... :)
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Mon, 3 Mar 1997 01:58:00 -0800
+From: rrobboy@cts.com
+Subject: Yiddish music in a 'race' film
+
+Harold L. Orbach [6.249] writes that _The Black Network_, the "race
+film" with Yiddish music Ellen Prince [6.245] reported seeing, was
+copyright 1936 ("mcmxxxvi") by Vitaphone.  (It is confusing, however,
+that he gives a subtitle of "1945-1946.")
+
+Saul Chaplin, in his recent memoir _The Golden Age of Movie Musicals
+and Me_ (Norman, Oklahoma:  University of Oklahoma Press, 1994, 262
+pp.), describes the year or two he and his songwriting partner Sammy
+Cahn worked at Vitaphone cranking out novelty tunes.  It was in
+November 1937, while they were working at Vitaphone, that their song
+"Bei Mir Bist Du Schoen" was recorded by the Andrews Sisters, becoming
+a huge commercial hit by the end of that year.  The song was
+originally written, of course, in 1932 by Sholom Secunda and Jacob
+Jacobs for singers Aaron Lebedeff and Lucy Levin in the show _M'ken
+lebn nor m'lozt nit_ (also known as "I Would If I Could") at the
+Rolland Theater; and there are as many versions of the story of how
+the English-language version came to be as there were participants in
+the affair.  Secunda's daughter-in-law fills an entire chapter with
+several such versions in her book, Victoria Secunda, _Bei Mir Bist Du
+Schoen:  The Life of Sholom Secunda_ (Weston, Connecticut:  Magic
+Circle Press, 1982, 271 pp.).
+
+The differences between the various versions are not minor.  But one
+piece of information that both Cahn and Chaplin seem to agree upon is
+that, along with their manager Lou Levy, they heard the song being
+done in Harlem by black performers at the Apollo Theater -- IN
+YIDDISH.  Both men report being astounded at how good it was and how
+it captivated what I presume was a largely black audience.  Cahn, I
+believe, identified the performers as a duo called Johnny and George,
+and Victoria Secunda says Johnny and George had learned the song from
+Jennie Grossinger, the famous Catskill hotel owner.
+
+What Chaplin has added to a now substantial genealogy surrounding this
+song is that an arrangement they made after hearing it that night in
+Harlem was languishing on their piano top for some amount of time
+after the bandleader Tommy Dorsey had turned it down.  (Some versions
+of this part of the story indicate that it may have been for as long
+as two years.)  By late 1937, Patti, LaVerne, and Maxene Andrews,
+three Greek-Norwegian sisters from Minnesota, came and auditioned at
+Vitaphone, where Chaplin, Cahn, and manager Levy discovered them.
+(They were scouting for Decca Records on the side.)  The three New
+Yorkers had the three Minnesotans stay at their apartment during the
+day while they went to work at Vitaphone.  (That's his story -- I'm
+only reporting it.)  Chaplin then goes on to say the sisters simply
+chanced across the manuscript lying on the piano while he and Cahn
+were literally at the Vitaphone studio one day.  The sisters made
+their own arrangement, and went with manager Levy to Decca Records to
+record it. (Apropos Orbach's question of what is a "true" race film,
+according to Victoria Secunda, Maxene Andrews reported that, upon
+hearing the recording session in progress, the head of Decca demanded,
+"What are you making, a race record?"  He was referring, of course, to
+the Yiddish song.)
+
+Looking at the 1936 (if that is correct?) film copyright Orbach
+reports in the light of this new account of Cahn and Chaplin's day
+job, I find myself wondering if the Washboard Serenaders/Ochi Chornia
+sequence was a Cahn-Chaplin arrangement -- a way they made use of
+their original idea, the one turned down by Dorsey.  Because Vitaphone
+found it cheaper to pay Chaplin and Cahn for new tunes than to
+purchase rights for previously published ones (Chaplin says), they
+would have had to write a new tune or, easier still, arrange one in
+the public domain.  _Ochi chornia_ could not have been more ideal.
+Thus it seems entirely plausible to me that the routine that amazed
+Ellen Prince represents an early spin-off of Cahn and Chaplin's first
+efforts with "Bei Mir Bist Du Schoen."
+
+Vitaphone, incidentally, was the subsidiary of Warner Brothers film
+studio that had developed the "talkie" (sound) film ten years earlier.
+The first talkie, with sound sequences recorded at Vitaphone, was _The
+Jazz Singer_ (1927), which features a different permutation but
+strangely resonant conflation of these same elements of Yiddish and
+Afro-American musical culture.  The story, briefly, is a about a
+cantor's son who is disowned for singing popular, syncopated music.
+When the khazn is too ill to sing Kol Nidre, the son rushes back to
+take the place of his dying father, they atone, and he then fulfills
+his destiny as a commercial singer in blackface, winning back his
+proud mother and his shikse.  The soundtrack includes, among a variety
+of musical resources, Jewish musical sequences, both secular and
+liturgical.  The film opens with a montage of the Lower East Side.
+
+Ron Robboy
+
+______________________________________________________
+End of Mendele Vol. 6.251
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,174 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.154
+October 26, 1994
+
+1) Hefker petrishke (Bob Rothstein)
+2) Hefker petrishke (Mikhl Herzog)
+3) Hefker petrishke (Raphael Finkel)
+4) Groyser Verterbukh (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Mon, 24 Oct 1994 23:52:32 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: Hefker petrishke
+
+In Yiddish as well as in Russian, Polish, Ukrainian, etc., _petrushka_ is
+parsley and _pasternak_ is parsnips, but since the roots of the two
+plants are similar, parsnips are sometimes thought to be the root of the
+parsley plant (folk botany?).
+
+In vol. 14, no. 3 of _Yidishe shprakh_ (July-Sept. 1954), pp. 92-3, Alef
+Katz suggests that the expression _hefker petrishke_ comes from the world
+of the _beys-medresh_.  He cites a passage from the mishnah Sheviis 9,
+which lists various fruits and vegetables that are not subject to a tithe
+(_meyser_) and suggests that someone joked about parsley being a bargain
+since it grows wild (_hefker_) and is tax-free:  _hefker petrishke!_  The
+joke, he suggests, spread, and eventually the expression took on two
+meanings: 'worthless' (cf. _s'iz vert a petrishke_, cited by Harkavy) and
+'free, out of control.'
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: Tue, 25 Oct 94  09:46 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Parsnips
+
+Mottel Lakin. I've known nothing about "Punch and Judy" but "hefker
+pyetrishke" was always, well, "hefker pyetreshke", having something to do
+with wild parsley, I thought. The Jewish family name Petrushka is a
+prominent one in Montreal, by the way. Petrushka translated the Mishna
+into Yiddish.
+
+As for 'parsnips', another prominent family name, Pasternak.
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Tue, 25 Oct 1994 11:02:18 EDT
+From: raphael@ms.uky.edu
+Subject: Petruskhe
+
+A khaver mayner fun poyln lozt visn az 'pol: pietruszke'  iz 'eng:
+parsley', nit 'eng: parsnip', khotsh 'petrushke' iz zikher 'eng:
+parsnip'. (Vi zogt men 'eng: parsley'?)
+
+Tsveytns, zogt er mir az 'pol: siac pietruszke' meynt 'opnarn', vi in
+'pol: Nie siej mi tu pietruszki', vos iz der taytsh 'nar mikh nit op'.
+
+Ken zayn az 'hefker petrushke' meynt 'fardult' fun dem poylish.
+
+Raphael Finkel
+
+4)----------------------------------------------------
+Date: Tue, 25 Oct 94  00:07 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Groyser verterbukk
+
+In response to Ruben Frankenstein's timely question:
+
+Some history: The verterbukh project was conducted first under the aegis
+of the City College of CUNY, then at the City College in conjunction with
+the Hebrew University of Jerusalem (for a while in conjunction with
+Columbia University), and in the last phase of its activity, at Columbia
+University and the Hebrew University, with the cooperation of YIVO. An
+Editorial Board of linguists and literary specialists in the US and
+Israel oversaw the effort.
+
+Volumes 1-4 (covering the letter "alef") were published. The "beyz"
+entries for volume 5, and some selected entries for several later volumes
+are available in a partially edited manuscript and on disk. In addition,
+innumerable (would you believe a million?) hand-written 3 x 5
+"tsetelekh", with citations from the literature, for words with "giml" to
+"tof", are stored in filing cabinets.
+
+Copies of all the materials are housed both at the Hebrew University and
+at Columbia. Some are also housed at YIVO.
+
+The multi-dimensional problem:
+
+i) Funding. The project entered a "dormant" phase when funding was
+terminated in 1988. The termination of, largely US government, support
+came when progress over a period of time was deemed to have been
+inadequate. In large measure, the inadequacy was the result of unresolved
+computerization problems.
+
+I am not sufficiently well-versed in high-tech matters to be able to make
+these problems explicit myself but, I do know that if the project were to
+be resumed today, the problems would no longer be as formidable, and that
+help in resolving them would be forthcoming from previously unforseen
+quarters.
+
+ii) "Tofasto merubo lo tofasto". The _scope_ of the dictionary, as
+originally projected, was to include _all_ of Yiddish from its earliest
+(13th century?) records to the present day. Whether or not this was ever
+a realistic goal, it was evident to most of us engaged in the effort that
+we were probably insufficiently qualified to deal with pre-18th century
+materials.
+
+After 1988, an alternate scenario, proposed by the Editorial Board, was
+to restrict the corpus to the "modern" (post-18th century) period, in the
+event that the project was resumed.
+
+Still another possibility, now under investigation, is that it is
+possible to assemble quite a separate team of people especially qualified
+to work on pre-18th century materials.
+
+iii) Personnel. If funding were available to resume the project, there is
+good reason to think that the US, Israel, and Europe could still provide
+an adequate number of qualified lexicographic and editorial personnel, in
+addition to an advisory Editorial Board, to bring the effort to a
+successful conclusion.
+
+The paradox: No new funding can possibly become available before a fully
+qualified and committed lexicographic and editorial staff is demonstrably
+available, including an Editor-in-Chief and editorial associates,
+together with the FULL support of an appropriate institution and all that
+that implies. The latter is a sine qua non.
+
+Where do we stand?  Although interest in resuming the project has
+recently been expressed in new quarters, it would be premature to provide
+any details about these overtures before the Editorial Board of the
+Dictionary and its institutional partners have been satisfied that the
+conditions described in the preceding paragraph can actually be met.
+
+Is there anyone else out there who would like to try to meet them? All
+offers considered!
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 4.154
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,166 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 131
+January 3, 1992
+ 
+1) Ober/oder (David Sherman)
+2) Tshuve v'shayles (Borok Berk)
+3) Introduction (Dovid Hirsch)
+4) Folk etymology (Melekh Viswanath)
+5) Phonetics (Berl Hoberman)
+
+1)----------------------------------------------------
+Date: Thu, 2 Jan 92 13:41:17 EST
+From: dave@lsuc.on.CA
+Subject: RE: Mendele Vol 1.129
+
+> From: ZOGUR@CUVMB.BITNET
+> As for ober/oder. There's no
+> confusion. The usage is regionally consistent: ober do ober
+> dort: 'either here or there'. Standard Yiddish, of course:
+> oder....oder.
+
+Consistent to what region or regions, Mikhl?  Also, do
+people who use "ober" for "or" use "oder" for but?  If not,
+why does "or" get used in English in place of "but"?
+
+2)----------------------------------------------------
+Date: Thu, 2 Jan 1992 16:01 EST
+From: BERK@ZODIAC.BITNET
+Subject: RE: Mendele Vol 1.129
+
+dave - i think dollar comes from 'thaler' - which was a
+(germanic?) currency. tat makes the step to 'tuler' a bit
+less mysterious.
+ 
+moishe nussen: what kind of yiddish DO you speak? not being
+very fluent in the language, unusual (to me) accents can
+play havoc with my comprehension. in particular, the two
+words below stumped me. also, i understand the words of the
+third expression, but not its meaning in your context. can
+you help me out?
+ 
+*Akaide*
+[Noie`h mit ziben] *grazen*.
+be`hol doir vudoir
+ 
+borok [bob berk@zodiac.rutgers.edu]
+ 
+3)----------------------------------------------------
+Date: Thu, 02 Jan 92 20:52 PST
+From: "David Hirsch, Bibliographers Group" <ECZ5HIR@MVS.OAC.UCLA.EDU>
+Subject: Introduction
+
+Ikh heys Dovid Hirsch un ikh bin a bibliotekar inem
+bibliotek fun UCLA. Ikh hob zikh gelernt Yiddish fun di
+bobe un in University of Pennsylvania ober yetst ikh hob
+alts fargesen. Ikh hob gevoynt 3 yor in Mitsrayim vo ikh
+hob geredt a sakh yidish mit a gevezene aktrize fun der
+Keniglikhe Yidishe Teater in Kairo. Oyb ir vilt, ikh ken
+epes shraybn vegn di Yidishe khile in Mitsraim.
+
+dovid
+
+4)----------------------------------------------------
+Date: Fri, 3 Jan 1992 10:27 EDT
+From: VISWANATH@DRACO.BITNET
+Subject: folk etymology
+
+Regarding folk-etymology:
+ 
+Ellen Prince writes:
+ 
+ 'sparrow grass' is a nonstandard variant of 'asparagus',
+which was 'folk-etymologized' into 'sparrow grass'. in case
+the problem is the term 'folk etymology', that's when
+speakers hypothesize that some word comes from something on
+the basis of its sound (or spelling) but are wrong.
+ 
+Mikhl Herzog writes:
+ 
+reydl/redl, the diminutive of rod/rud 'wheel' does NOT come
+from a reading of dreydl as di reydl. Rather, the emergence
+of reydl as a regional variant of dreydl meaning 'spinning
+top' probably DOES come from such a reading; i.e., from a
+folk-etymological interpretation of dreydl the sequence "de
+reydl".
+ 
+Yugntruf DOES have something to do with ruf (call), but
+that says nothing about your assumptions about dreydl,
+which certainly SEEMS to derive from the verb dreyen. Check
+a German etymological dictionary to see if rod/redl is
+similarly related to dreyen. If yes, your "subconscious"
+assumptions happen to be well founded. If, no, your
+assumptions are evcidence of how folk-etymology works.
+ 
+****************
+ 
+Thoughts on 'how folk etymology works':
+ 
+Twice recently in Mendele, assertions have been made that a
+wrong etymology is folk-etymology (per evidence adduced
+above). I don't quite understand this.  Let us look at
+Herzog's statement. If my "subconscious" assumptions
+(regarding the origin of dreydl) are indeed evidence of how
+folk-etymology works, then they should be evidence whether
+or not they are well-founded. Rather, I would like to
+suggest that my hypothesizing is, in fact, closer to
+scientific hypothesis generation.  The difference between
+this and folk-etymology probably lies in the fact that a
+folk-etymology is typically asserted to be true, without
+any attempt at testing it.
+ 
+Consistent with my suggestion is the following
+characterization of folk-etymology: (if read with stress on
+'a tout prix') Vendryes: l'etymologie populaire est une
+reaction contre l'arbitraire du signe.  On veut a tout prix
+expliquer ce dont la langue est bien incapable de fournir
+l'explication.
+ 
+Other viewpoints on folk-etymology:
+ 
+Ramon Anttila defines folk-etymology as a process of
+replacing unfamiliar shapes with more familiar ones.  This
+would not seem to be true in my case.  dreydl is certainly
+not an unfamiliar construct to me, or indeed to anybody on
+mendele.  This definition would, however, justify the
+classification of sparrowgrass/asparagus as folk-etymology.
+ 
+Except on grounds such as I have suggested, it would seem
+difficult to qualitatively distinguish between scientific
+hypothesis generation and folk-etymology.  In fact, Orr,
+revue de linguistique romane, writes: l'etymologie
+populaire ne differe pas essentiellement de sa soeur
+savante, l'etymologie des philologues.  Plus vivante, plus
+'operative' que cette derniere, elle fait instinctivement,
+intuitivement et du premier jet ce que fait l'autre
+intentionellement a grand renfort de bouquins et de fiches.
+ 
+In any case, I submit, a hypothesis being wrong cannot make
+it an example of folk-etymology.  On the other hand,
+perhaps there is some other technical definition of
+folk-etymology that would make the uses of Herzog and Ellen
+correct.  Comments?
+ 
+melekh
+ 
+5)----------------------------------------------------
+Date: Fri, 3 Jan 1992 12:03 EST
+From: Robert D Hoberman <RHOBERMAN@SBCCMAIL.BITNET>
+Subject: RE: Mendele Vol 1.129
+
+As Mikhl Herzog requested in Mendele 1.129, I've
+retransmitted to him the comments I had made about ayin and
+the shift to n or nasalization in Yiddish.  I'll take this
+opportunity to mention farn tsiber that the critique of my
+suggestion by Arn Abramson (in 1.113) convinces me I was
+wrong.  He pointed out that the muscular gestures to
+produce an /n/ and a Middle Eastern ayin are quite
+different, and that a change from ayin to /n/ in Arabic is
+unknown.  So are we back to square one for Yankev, ma:nse?
+ 
+Berl
+
+______________________________________________________
+End of Mendele Vol 1.131
+ 

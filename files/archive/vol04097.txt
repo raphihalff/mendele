@@ -1,0 +1,271 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.097
+August 29, 1994
+
+1) A mishshprakhik lid (Bob Rothstein)
+2) Der Forverts (Shleyme Axelrod)
+3) No rationale for a "no" vote (Zellig Bach)
+4) Translating the Pincas Shkud (John Baskind)
+5) Self-deprecation (Jay Lee)
+6) Translation meditations (Bob Hoberman)
+
+1)----------------------------------------------------
+Date: Sun, 28 Aug 1994 16:39:11 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: A mishshprakhik lid
+
+The macaronic (Russian/Yiddish/Hebrew) text that Andrew Cassel quoted in
+4.096 from his grandfather's memoirs
+
+   "...Reb Leyzer Mendels, a kleyninker, velkher vert shiker fun
+   a halbe glezel, iz oykh rusish geshtimt, un zingt: 'Akh ti
+   reboyne-shel-oylem!  Zatshem ti ne smotrish, zatshem ti ne
+   vidish, mar goleseynu!' Un der oylem khapt unter: 'Mar
+   goleseynu perebudem, laretzeynu fort poidiom!'"
+
+includes the beginning of a _mishshprakhik lid_ that S. M. Ginzburg and
+P. S. Marek published as #17 in their 1901 collection of Yiddish
+folksongs in Russia (_Evreiskie narodnye pesni v Rossii_, reprinted by
+Bar-Ilan University in 1991 under Dov Noy's editorship).  Song #17 was
+recorded in the Kovno guberniia from B. M. Kassel' [!] and A. D. Pik.
+
+The first stanza is printed by Ginzburg and Marek (in their German-based
+transcription, in which "s" = [z], "ss" = [s], "z" = [ts] etc.) as
+follows (with my numbering of the lines for comments afterwords):
+
+ 1) Ach Ty Rybeinei schel Eilom,
+ 2) Satschem Ty nje smotrisch,
+ 3) Satschem Ty nje widisch
+ 4) Mar Golusseinu, Mar Golusseinu!
+ 5) --Mar Golusseinu--perebudjem,
+ 6)   L'arzeinu fort poidjom!
+ 7) Poidjom l'arzeinu,
+ 8) W'schom naidjom Adeineinu,
+ 9) W'schom naidjom Beir'einu,
+10) W'schom naidjom Geialeinu!
+11) --Ssynku, Ssynku, nje bjedui,
+12)   Sswoje Sserdze nje sapssui!
+13)  Bendsje Matka wykupliana,
+14)  Bendsje Chatka wybudowana,
+15)  Bondsj mondry, patschai Konza [acute accent on the "n"]!
+
+The Ginzburg-Marek text has seven stanzas; in each lines 1-7 and 11-15
+are repeated, but in lines 8-10 the last word varies with the list of
+words forming an alphabetical acrostic (Dejdejnu, Hadrosseinu, Wiudeinu,
+Swuleinu, Chachomeinu, Tohoreinu, etc.).
+
+Lines 1-10 mix Russian, Yiddish and Hebrew; Lines 11-15 are (more or
+less) in Polish ("Son, son, don't lament,/Don't ruin your heart!/Mother
+will be redeemed (ransomed),/The house will be built,/Be wise, wait for
+the end!).
+
+Andrew's translation of the part he quoted ("Oh, Lord of the Universe!
+Why don't you look at, why don't you see, our bitter exile!"  And the
+crowd sings along: "Our bitter exile let us throw off, to our own land
+let us go off!") seems fine except for the end, which should probably be:
+"We will survive our bitter exile, we will yet go to our land."   The
+Russian word _naidjom_ in lines 8-10 means 'we will find'.
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: Sun, 28 Aug 1994 18:53:52 -0400 (EDT)
+From: PTYAXEL@ubvms.cc.buffalo.edu
+Subject: Der Forverts
+
+Here's an echo to Bob Rothstein's praise of Yosl and Khane Mlotek's
+department "Perl fun der yidisher poezye" in the Forverts; it's a gold
+mine of verse and song.  Also in the Forverts, alternating with "Perl
+..." is "In der velt fun yidish" by  Y. Hamer (a pseudonym?), and other
+pieces about Yiddish; Hirsh-Dovid Katz (of the Oxford Programme) recently
+had separate articles on Max and Uriel Weinreich, for example.
+
+What the Forverts _doesn't_ have any longer is the two boxes in the upper
+corners of the front page, one saying "Arbeter fun ale lender fareynigt
+zikh" and the other "Di bafrayung fun di arbeter vendt zikh on di arbeter
+aleyn". Times change.
+
+On the fiftieth anniversary of the event, the Forverts reprinted part of
+the front page of their D-Day issue ("dzhun 6, 1944 ... price three
+cents").  The eight-column headline (the paper, then a daily, was
+standard size; it's a tabloid-size weekly now) was "INVEYZHON!", which
+must have made the YIVO folks cringe; elsewhere on the page, the word
+used was "invazye".  The Forverts has apparently never suffered from
+style-book rigidity.
+
+Finally, Alex Weinberger (4.080) wondered about the Yiddish for
+"survivor", presumably of the Nazi program of extermination.
+"Sheyres-hapleyte", a singular noun, can been used to refer collectively
+to the all the survivors of a catastrophe; but how to refer to a
+particular person?  The Forverts connection: a couple of issues ago, the
+paper ran an advertisement from a firm in Brooklyn and Tel Aviv that
+specializes in assisting survivors from Germany to obtain reparations.
+The ad was headed "AKHTUNG/SHEYRES HAPLEYTE IDN"; this appears to suggest
+"sheyres-hapleyte (y)id" for an individual.
+
+--Shleyme Axelrod
+
+3)----------------------------------------------------
+Date: Sun, 28 Aug 94 23:32:27 EDT
+From: Zellig@aol.com
+Subject: No rationale for a "no" vote
+
+Dvorah Halperin Biasca wrote (4.095,2):
+
+>  I guess you would have to count my vote as a "no"...  many of  our
+>  mitglider have no connection to a Shul/Temple... a name is such a
+>  personal thing, after all!
+
+In my _Oyneg Yiddish:  A Proposal_ (4.092,8) I anticipated a marked level
+of resistance to my idea, but I do not see the ratIonale for DHB's prompt
+"no."
+
+I mentioned oyneg shabes-the pleasure of Sabbath- merely as as analogy to
+my construction Oyneg Yiddish, totally unrelated to a shul or synagogue.
+
+Oyneg, a Hebrew-derived Yiddish word, means pleasure or enjoyment
+(occasionally it may even replace the treasured _nakhes_, as, for
+instance, in oyneg kinder or oyneg eyniklekh).
+
+I fully agree that a name is such a personal thing.  But what is so
+personal about _vinkl_ (corner)?  Putting aside the school-disciplinary
+notion of punishment for inappropriate behavior, it connotes isolation, a
+separation from the activity in the center.
+
+I would understand if a group of, let's say, ten or more years would wish
+to retain its old name.  But the Boulder vinkl just started its second
+year.  Having met once a month for the first year, did not im(h)o
+sufficiently establish a strong enough tradition to hold on to its Vinkl
+name.
+
+What is overlooked in this resistance to a change of the name of the
+club, and I am sure in other such negative reactions still to be heard
+of, are the distinct advantages of belonging to a centralized
+organization with a collective name, as in my proposal.  A chain of Oyneg
+Yiddish clubs would lend individual clubs a sense of connectedness.  And
+they would be the recipients of guidelines, projects, and activity
+suggestions, enabling them to carry on enriched and enriching  programs.
+
+Zellig Bach
+
+4)----------------------------------------------------
+Date: Mon, 29 Aug 1994 08:51:01 -0500
+From: jbaskind@panix.com
+Subject: Translating the Pincas Shkud (a nice project, but how to do it?)
+
+Some years ago, browsing at YIVO, I had the opportunity to look at, hold,
+puzzle over and take away a microfiche of the Pincas Shkud--the record of
+my family's ancestral shtetl in Lithuania. According to the archivist at
+YIVO, it is one of only two left in existence post-Holocaust. It
+apparently goes back to the early 1500s CE, and ends just before the
+Nazis came into Shkud. It was apparently discovered in the ruins of the
+Vilna Ghetto. Because it is written in cursive and often ancient Yiddish,
+it's way beyond my capacities, except for an occasional small passage.
+
+(The awful end of Jewish Shkud is also recorded, in a yizkor-buch written
+by a survivor --also in the YIVO archives-- and, horror of horrors, the
+Nazi film record of their murders  is now apparently being shown
+permanently in the Holocaust museum; for which reason I have been unable
+to force myself to visit that building.).
+
+I would love to see a translation, or even a printed version of the
+cursive Yiddish annotated for the less scholarly. My interest is mostly
+personal, but it strikes me that because the pincas is a continuing
+record of a very old Jewish settlement, which could be footnoted and
+amplified to some extent by the yizkor-buch, not to mention that bloody
+film, there should be considerable interest in it as a resource and
+record from a large number of academic standpoints, and also general
+interest from the Jewish community.
+
+I can't afford to have it privately translated, but I would be happy
+(driven, really) to put together a proposal for funding, with some help
+and guidance from the mavens here. I have two non-profit channels through
+which the funding could be made, but if there's interest here, you-all
+obviously have more.
+
+Any suggestions?
+
+A dank.
+
+John Baskind
+
+5)----------------------------------------------------
+Date: Mon, 29 Aug 94 08:29:27 EST
+From: JMLEE@ucs.indiana.edu
+Subject: Deprecation of One's Own and One's Culture's Self Worth anent
+         Jews in Weimar Germany
+
+Firstly, I don't use quotation marks in the manner proscribed by the
+gentleman who protested my Asch post.  I find this "use" to be cliquish,
+as if to suggest "this isn't a real word, but I'm using it anyway.  You
+know how it is".  And I use the term Jewish self hatred as I would to
+describe the White Man's Burden, otr any other psychological
+manifestation whereby the prejudices of a larger group cause individuals
+of a smaller group to question their own value in the face of
+institutionalized animosity.
+
+This agreement with the bigotted opinions of the dominant group is
+portrayed almost to the extreme of charicature in Dr. Bodenheimer.  The
+fact that the Bodenheimer family had the son Hans, last bearer of the
+family name, baptized a Christian even though the held to the traditions
+of Sabbath, is much more subtle.  It is also more believable, because I
+see this deprecation function among gays today.  Attacked by homophobes
+for so long, they either accept that there's something deficient in them,
+or they become militant.   Of course I mean more pre-Stonewall, when,
+like Weimar Germany at the time of Asch's novel, hate was a standard
+issue and accepted coin.
+
+Finally, I am not a scholar in the sense that I know when to use proper
+quotation mark to keep me from appearing Stalinist, or whatnot.  By
+sending out a general query, I had no intention of offending with a
+detail.
+
+Jay Lee
+
+6)----------------------------------------------------
+Date: Mon, 29 Aug 1994 12:16:32 -0400 (EDT)
+From: RHOBERMAN@ccmail.sunysb.edu
+Subject: Translation meditations
+
+Andrew Cassel's question about how to translate multilingual passages in
+Yiddish literature into English, or whether to, is very interesting from
+the point of view of the theory of translation.  My student Ken Wishnia
+has tackled a one-act play by Sholem Aleykhem in which a multilingual
+mess (Yiddish, Russian, English) is at the heart of the depiction of
+character.  It was written by Sholem Aleykhem in America, and in the
+author's trademark way looks like humor at first but turns into a painful
+reflection on the wrenching experience of migration to America.  Ken has
+translated the play and written a paper on the problems involved.  His
+paper has been accepted for publication, but meanwhile I'll put Ken in
+touch with Andrew directly, and if anyone else is interested they can let
+me know and I'll pass it on to Ken.
+
+Bob Hoberman
+
+______________________________________________________
+End of Mendele Vol. 4.097
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

@@ -1,0 +1,316 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.182
+April 6, 1998
+
+1) Chaver Paver's Labzig (Itsik Goldenberg)
+2) Chaver Paver (Nathan Kravetz)
+3) Chaver Paver (Marti Krow-Lucal)
+4) ladies (Maynard Wishner)
+5) Ladies? (Marvin Engel)
+6) A real Yiddish keyboard (Noyekh Miller)
+7) Transliteray iz foyleray (sylvia schildt)
+8) oder/bruder and barnyard linguistics (Mikhl Herzog)
+9) [eyf] = "oyf" (David Braun)
+
+1)----------------------------------------------------
+Date: Mon, 6 Apr 1998 08:45:59 -0400
+From: "Robert Goldenberg" <goldenbe@vaxxine.com>
+Subject: Chaver Paver's Labzig
+
+Harold Orbach asks in Mendele 07.179 about "Lobzig" the dog, stories, by
+Chaver Paver.  I have a copy of the sequel to the original Labzig book, by
+Chaver Paver.  It is called "Labzig" (Book 2): Nokh mayselekh vegn klugn
+hintele Labzig."  It was published in New York in 1937 by the Co-operative
+Folks Farlag. Both books are probably available from The National Yiddish
+Book
+Center in Amherst, Massachusetts. 
+
+Itsik Goldenberg
+
+2)----------------------------------------------------
+Date: Mon, 06 Apr 1998 10:28:58 -0700
+From: Nathan Kravetz <nathan.kravetz@email.csun.edu>
+Subject: Chaver Paver
+
+Harold Orbach asks about Chaver Paver and his writings.  I have a lovely
+copy
+in Yiddish of his "Vovik"--a story about a clever, charming dog.  The book
+is
+illustrated by Moses Soyer and was published in 1947 in Los Angeles.
+Chaver
+Paver wrote, as Harold said, in the Freiheit and elsewhere.  His name was
+Gershon Einbinder.  I have another volume called, "Zalmen der Shuster,"
+not a
+children's book, but chapters in the life of Zalmen (Chaver Paver).  It was
+published in 1955, inscribed to S. Miller by Chaver Paver himself.  What I'd
+like to do (or see someone else do) is translate the books into publishable
+English.  Suggestions for a publisher, anyone? 
+
+Nathan Kravetz
+Los Angeles
+
+3)----------------------------------------------------
+Date: Mon, 6 Apr 1998 14:44:06 EDT
+From: Kromobile <Kromobile@aol.com>
+Subject: Chaver Paver
+
+Khaver Orbach's ear has served him well.  "Chaver Paver" was the pen
+name of
+Gershon Einbinder (Bershad, Bessarabia, 1901- Los Angeles, 1964 - his
+son
+Michael and I attended the same shule).  He wrote for children and adults.
+The National Yiddish Book Center has some of his books in Yiddish, as
+well as
+a YKUF-published translation of a number of his stories entitled "'Clinton
+Street' and Other Stories" (it only contains two Lobzik stories, though).  I
+imagine other mendelyaner (Hershl Hartman?) could give more extensive
+information. 
+
+Marti Krow-Lucal
+Sunnyvale
+
+4)----------------------------------------------------
+Date: Mon, 6 Apr 1998 10:34:22 -0500 
+From: mwishner@jon.cjfny.org
+Subject: ladies
+
+Sean Martin's inquiry about the use of "ladies" by an American Yiddish
+speaking Socialist organization evoked memories of Bieletzerkover Branch
+541
+of the Arbeter Ring in Chicago which was the center of a good part of the
+lives of my parents.  It met Sean Martin's criteria. 
+
+It was Socialist. (Well sort of. Thay all voted for Franklin Roosevelt and not
+Norman Thomas). 
+
+It was Yiddish speaking. (Well sort of)
+
+And it had as an integral part of its being "The Ladies Auxiliary of Branch
+541" 
+
+At events where food was to be served the responsibiliy tended to to be
+tossed
+to "Di Veiber" An additional synonym (well sort of) to Sean Martin's list. 
+
+Maynard Wishner
+
+5)----------------------------------------------------
+Date: Mon, 06 Apr 1998 16:13:55 -0400
+From: marvin engel <maengel@erols.com>
+Subject: Ladies?
+
+Sean Andrew Martin asks about words used to address women in Yiddish
+socialist
+circles in the 1920's and 1930's. The all-purpose English "comrade"
+corresponds to "khaver"(masc), "khaverte"(fem); and the plural "comrades"
+becomes "khaverim" and "khavertes." The garment shop forelady was a
+different
+kettle of fish entirely. 
+
+gut paysakh aykh alemen.
+
+Marvin Engel
+
+6)----------------------------------------------------
+Date: Mon, 6 Apr 1998 13:46:44 -0400 (EDT)
+From: N. Miller <nmiller@Mail.Trincoll.Edu>
+Subject: A real Yiddish keyboard
+
+Many Mendelistn, myself included, yearn for the day when we can
+routinely send
+and read posts written in Yiddish.  But though that day isn't here yet,
+things
+are getting easier for those who want access to a Yiddish keyboard. 
+
+I've worked with a trial copy of QText 8.0, a Yiddish word processor by
+Dvir
+Software for a couple of weeks, and more recently I installed the
+commercial
+version. It works very well in English and Yiddish (it also offers French,
+German, Russian and just about every other European keyboard) and I
+recommend
+it to my fellow-Mendelists.  Not only does it offer all of the special Yiddish
+characters, not only is font-and-direction shift simple, it also enables
+users
+to mail and fax documents.  Owners of QText can thus write to one
+another in
+mame-loshn as simply as they've been able to do in English.
+
+There are other features as well, including HTML, sketching and matters
+that
+are far beyond my feeble understanding.  No matter. What counts is the
+Yiddish. 
+
+At this point I think a word of thanks is due our Meyer David who has
+devoted
+a tremendous amount of time and energy to persuading software firms
+(including
+Dvir) and anyone else who will listen to provide us with a real Yiddish
+keyboard.  The adage about water wearing away rock fits perfectly the way
+that
+gentle soul has worn down inertia and opposition. 
+
+But Mendele has more than one hero.  Here's another. 
+
+Learning a new keyboard for those of us who've been weaned on Roman
+or
+Cyrillic is not much fun.  And correct Yiddish spelling isn't always a
+straightforward affair.  So for those who hesitate to learn, our esteemed
+Refoyl Finkel has come up with a wonderful solution which links his
+famous
+Yiddish Typewriter up with QText. 
+
+Suppose, for instance, that you're writing a document in English (or
+Russian)
+and want to switch to Yiddish.  If you're working in a Windows
+environment and
+connected to the Internet, bring up the Yiddish Typewriter by setting the
+browser to: 
+
+http://www.cs.uky.edu/~raphael/yiddish/makeyiddish.html
+
+and compose the text in transcribed Yiddish.  When you're through, click
+the
+button that reads "QText Hebrew".  The result is a mess of coded symbols.
+Copy in the usual way, then switch back to the QText document and paste.
+And
+there in the document is the Yiddish equivalent, complete with vowel
+markings
+and special characters, of what you had written in transcribed form. 
+
+You can try it out for yourselves by downloading a 30-day trial copy from
+Dvir
+(http://www.qtext.com), and can buy it at an attractive price from Meyer
+David's new Yiddish Voice bookstore (http://www.yv.org).  (I have no
+hesitation in mentioning this since the proceeds go to producing his lively
+Yiddish radio program _Dos Yidishe Kol_.) 
+
+Noyekh Miller
+
+7)----------------------------------------------------
+Date: Mon, 6 Apr 1998 14:36:38 +0100
+From: creativa@charm.net (sylvia schildt)
+Subject: Transliteray iz foyleray 
+
+Ikh probir merstns redn pozitive diburim -- spetzyel tzu undzere
+mendelyaner.
+ober fun tzayt tzu tzayt farlir ikh dem geduld iber eyn inyen -- un dos iz
+der
+inyen fun lernen leyenen di yidishe oysyes. me zukht oys spetzyele
+verterbikher af roymishe oysyes -- me dreyt zikh in drayen kdey
+aroystzukumen
+funem drang tzu lernen a bisele alef beyz. bekitzer, vos iz der gantzer
+tzimes? a shtunde a tog -- un in a 3-4 vokhn iz dos mer nish kin problem. 
+
+staytch mentshn, hot a bisele derekh eretz far undzer mameloshn. es iz
+vert
+ayer bisele mi zikh oystzulernen di oysyes - aza greyse teyl iz fonetish --
+un
+mit ivre, fun a bisl un a bisl vert a fule shisl. 
+
+es zaynen faran genug tekstn, alte un naye vos dershaynen fun tzayt tzu
+tzayt.
+un klasn, avade un avade. leyenen alef beys iz a shlisl tzu der hanoye fun
+direkt contakt mit undzere greyse shrayber, dikhter un zhurnalistn. in di
+romanizirte tekstn farlirt men dem kontakt mitn shoyresh fun hebreyishe
+verter
+-- heyst es, der taytsh iz oft nit akurat. 
+
+amol meyn ikh poshet az men foylt zikh oystzulernen dem alef beyz. s'iz
+gor
+nit kin greyse horevanie. shraybn af romanizirte oysyes hot a vert af
+mendele,
+ober mendelyaner vos zogn az zey hobn lib mame loshn muzn eykh kenen
+leyenen
+yidish. 
+
+I mostly try to speak in positive terms -- espcially to our dear
+mendelyaner.
+but from time to time i lose patience over one subject -- and that is the
+subject of learning to read the yiddish alphabet. people are looking for
+special dictionaries in transliteration - they do gyrations in order to avoid
+the necessity of learning a little aleph beyz. in short, what's the big deal?
+an hour a day -- and in 3-4 weeks, it's no longer a problem. 
+
+come on guys, have a little respect for mameloshn. it's worth the little
+effort to learn the alphabet -- such a large part is purely phonetic, and
+the
+hebraisms, little by little, they will also become familiar. 
+
+there are enough textbooks around, old ones, new ones that come out
+from time
+to time. And classes, certainly. Yiddish literacy is the key to the pleasure
+of direct contact with our great writers, poets and journalists.  in the
+romanized texts you lose the contact with the shoresh (roots) words on
+the
+hebraisms -- which means, the translation is often innacurate. 
+
+sometimes i simply think that people are too lazy to learn the alef-beyz. 
+it's not really major hard work. while there may be a practicality to writing
+in translit over mendele,mendelyaner who profess a love of mameloshn
+should
+really be able to read yiddish. 
+
+sylvia schildt
+baltimore, maryland
+
+8)----------------------------------------------------
+Date: Mon, 6 Apr 1998 18:59:15 -0400
+From: "Mikhl Herzog" <mherzog@bestweb.net>
+Subject: oder/bruder and barnyard linguistics
+
+Bob Rothstein (#07.177) is right to query the cooccurrence of _uder_ (the
+month) and _bruder_. At best it's poetic licence. It doesn't happen in the
+real world. We find three cooccurrences: 1. NEY ("Litvish")
+_oder_/_bruder_,
+2. SY (Poland & S. Ukraine) _u(:)der_/bri:der_, or 3.Belorus-Northern
+Ukraine
+and Polish-Lithuanian border area _oder_/_bri:der_. NO *Uder/*brUder!! 
+
+Obviously, nothing is impossible, as witness the fact that Bob cites the
+rhyme. However, the consequence of a merger of the two vowels in
+question
+would be a disaster for farmers, fowl, and Jewish housewives alike:  A
+Yiddish
+dialect which failed to distinguish _oder_ (the month) and _bruder_, would
+be
+unable to differentiate the rooster (_hon_) from the hen (_hun_).  emerged
+before SY _hi:n_ 'hen'. 
+
+The problem of _hon_ and _hun_ in Yiddish, the problem of the French
+'rooster'
+(& 'vicar') about which so much has been written (cf. Gillieron, Bloomfield,
+Martinet?), and a similar problem in Hungarian (whose details escape me),
+together constitute the nascent field of "barnyard linguistics". Other
+contributions will be welcomed. 
+
+Mikhl Herzog
+ 
+9)----------------------------------------------------
+Date: Mon, 06 Apr 1998 20:14:29 EDT
+From: David S Braun <dovid@MIT.EDU>
+Subject: [eyf] = "oyf"
+
+The libavitsher rebe (Lubavitcher Rebbe) and other Yiddish-speakers of
+White
+Russian origin (where I mean "deep" W.R., not the border with Poland or
+Ukraine) use(d) [eyf] for prepositional "oyf".  Is it only in "careful
+speech," i.e. in rhetorical/literary/official style?  What's the form of the
+"converb"?  (Might it be [uyf]?  This is just a guess.) 
+
+David Braun
+Cambridge, MA
+______________________________________________________
+End of Mendele Vol. 07.182
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+

@@ -1,0 +1,171 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.265
+January 6, 1995
+
+1) Searching for electronic text (Howard Gershen)
+2) The old Forverts (Abe Bloom)
+3) Association of Jewish Ex-servicemen (Henry Mullish)
+4) Gedabrt (Garry Margolis)
+5) Grodne (Zachary Baker)
+
+1)----------------------------------------------------
+Date: Thu, 5 Jan 1995 09:53:59 -0500
+From: howard@boxhill.com
+Subject: Searching for electronic text
+
+Does anyone know if any of Sholem Aleichem's works are available on-line
+in an electronic text repository? It seems to me that, like Twain, most
+of the U.S. copyrights on the original works have run their course and
+these works are eligible to be scanned in and made available to all.
+
+Unfortunately, the texts would have to be English translations (due to
+the limited support for non-Roman alphabets in most computers.
+
+Howard Gershen
+
+2)----------------------------------------------------
+Date: Thu, 5 Jan 1995 12:30:31 -0500
+From: abebloom@aol.com
+Subject: The old Forverts
+
+My father worked for the Yiddish Forverts for many years, until he passed
+away in 1954.  As a result of his interest in Yiddish for all of his life
+(as an immigrant in 1905, ;he went to night school and then  translated
+some of the English language books and they were published in the
+newspapers of the time, like the Tsayt), us four children all went to the
+Sholem Aleichem Folkshulen.
+
+One of our neighbors in the Bronx (during the late 20s) was Avrum Reisen,
+the well known poet.  He was as I recalled a gentle soul and very easy to
+talk to and enjoy.
+
+One of the stories I heard from Pop was about the 'zetzers' (linotypists)
+and their ideas as to how Yiddish should be written and its correct form.
+He told me that some of them had the chutzpah to make changes to the copy
+submitted and revise it to conform to what they believed would be correct
+and better to read.  It seems that one of their favorite targets was ----
+Sholem Asch.   Vey!
+
+Just to add another thought.  In as much as I have a strong attachment to
+the memory of the Forverts that used to be, I felt it to be important to
+subscribe to the English language Forward.  For those that have not seen
+it, I strongly recommend it.
+
+Abe Bloom
+
+3)----------------------------------------------------
+Date: Thu, 05 Jan 1995 13:03:58 -0400 (EDT)
+From: mullish@acfcluster.nyu.edu
+Subject: The Association of Jewish Ex-servicemen (AJEX)
+
+Having just returned from a month's stay in Israel, I would like to bring
+the attention of the list to the fact that in Israel is a branch of the
+British Association of Jewish Ex-Servicemen (AJEX). This branch is run by
+an ex-Manchester man named Harold Greene now living at 33 Dov Hoz Street,
+Tel Aviv 63416 (tel:03-524-6412).
+
+The branch caters to ex-members of the British forces and the
+Commonwealth nations, many of whom are regular speakers of Yiddish. They
+are scattered throughout the state of Israel and are kept informed of the
+latest information via a regular newsletter sent out by Mr Greene.
+
+The Israeli branch is anxious to hear from any of the former members of
+AJEX so that they can be added to their list.
+
+While walking along Dizengoff Street I caught the sound of two men in a
+horse and cart repeatedly calling out "Alte zachen, alte zachen!" This
+was the first time I had heard the phrase since leaving the East End of
+London many years ago. This was a method many of us East Enders were
+forced to use in order to get a few pennies for discarded clothing. The
+only thing I wanted to mention here was that the two men in the cart were
+Arabs!
+
+Henry Mullish
+
+4)----------------------------------------------------
+Date: Thu, 5 Jan 1995 14:24:33 -0800
+From: garrym@netcom.com
+Subject: Gedabrt
+
+Not that I have any personal interest in learning the answer to this
+discussion, but couldn't someone contact the primary source, Theodore
+Bikel, and ask him?
+
+But that's not nearly as much fun as speculation ... ;>)
+
+Garry Margolis
+
+5)----------------------------------------------------
+Date: Thu, 5 Jan 95 15:31:46 PST
+From: bm.yib@rlg.stanford.edu
+Subject: Grodne
+
+Grodno:  Since you asked a librarian, here's a librarian's response.
+(This, in reference to Dovid Braun's posting on "Fershtot" [Mendele
+4.260].)
+
+Since Grodno (Yiddish:  Grodne) was the seat of a pre-1918 guberniia, it
+was much more than a shtetl, and the Jewish population was substantial
+(close to 35,000 at its peak, in 1912, or 60% of the city's total
+population).  It was also one of the oldest Jewish settlements in
+historical Lithuania.  See the Jewish Encyclopedia, the Evreiskaia
+Entsiklopediia, and the Encyclopaedia Judaica for background, in English
+and Russian.
+
+Yiddish sources include the post-Holocaust memorial book, "Grodnah -
+Grodne," edited by Dov Rabin (1973).  See also "Grodne zaml-heft,"
+published by the Farband fun Grodner yidn in Yisroel (no. 1- Dec. 1958-
+); "Grodne," by Eliyahu Gozhanski (Tel Aviv, 1945); "Grodner opklangen,"
+published in Buenos Aires from 1949-1981; and a curious pamphlet listed
+in the YIVO Library's subject catalog, "A shreklikhe geshikhte fun R'
+Eliezer hakodesh vos iz gegangen oyf kidesh hashem in Grodno in yohr
+1770" (Horodno:  Farlag A. L. Miller, 1913).  Other titles are also noted
+in the YIVO Library subject catalog, and YIVO has a number of newspapers
+published in Grodno.
+
+As the imprint for the last-cited title implies, another form of the
+place name is Horodno (and its variants).  A history of the community, in
+Hebrew, was published in Vilna in 1880:  "Sefer 'ir giborim:  yekalkel
+korot 'ir Horodno mi-reshit yeme hivsadah," by Shim'on Eliezer
+Fridenshtein.
+
+That's just for starters.
+
+Zachary Baker
+
+______________________________________________________
+End of Mendele Vol. 4.265
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

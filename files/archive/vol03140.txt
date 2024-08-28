@@ -1,0 +1,166 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.140
+November 22, 1993
+
+1) Starting with a verb (Moshe Taube)
+2) Lezn/sch/leading with verbs (Ellen Prince)
+3) Leyenen/lezn (Pe'rets Mett)
+4) Leyenen un lezn (un lernen) (Michael Shimshoni
+5) Jewish Years and Dovid Katz (Michael Shimshoni)
+
+1)----------------------------------------------------
+Date: Sun Nov 21 15:42:21 1993
+From: Taube Moshe <taube@HUM.HUJI.ac.il>
+Subject: Starting with a verb
+
+For Noyekh Miller,
+
+Of course you're missing nothing. Sentences in Yiddish can and do
+begin wit verbs, and the examples you gave are but a few of the
+various functions this word-order has in Yiddish.  Someone must have
+read too much grammars instead of literature (this coming from a
+linguist).
+
+Moshe Taube
+
+2)----------------------------------------------------
+Date: Sun Nov 21 16:14:15 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: lezn/sch/leading with verbs
+
+Subject: past participle of lezn
+
+mea culpa, i was wrong about 'remembering' /geleyznt/. the
+subsequent posts have had their proustian effect on me and of course
+it was /geleyzn/.
+
+-----------------------
+Subject: Yankel Lantz's _sch_:
+
+the problem with writing _sch_ for yiddish shin is that _sch_ always
+has the value /sh/ only in german and not in any known international
+phonemic transcription system and not in english. most english words
+i can think of which _sch_ are in fact pronounced /sk/ (school,
+scheme, schedule...). so, given that we're writing english here (if
+not yiddish), why use a german system? it is as strange as using the
+french one would be, where we'd represent /sh/ as _ch_. unless, of
+course, you think yiddish is a variety of german... ;)
+
+-----------------------
+Subject: reb noyekh's 'caper':
+
+well, you won't get any chiding from THIS linguist, just some
+additions to your list:
+
+3. bin ikh mir a shnayderl...
+4. forn mekhutonim...
+5. hob ikh a por oksn...
+6. zitst a shnayder, neyt un neyt...
+
+>So what am I missing?
+
+not a blessed thing. yiddish (like icelandic) has a very productive
+verb-first declarative form, only very incompletely (and,
+apparently, misleadingly) described in weinreich.
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Mon Nov 22 05:51:39 1993
+From: P.Mett@open.ac.uk (Percy Mett)
+Subject: Leyenen/lezn
+
+I am a bit puzzled about this. In fact I have always assumed lezn to
+be a germanism. We certainly use leynen (not *leyenen* !) for "read"
+whether it be koydesh or khol. When I started to hear people use
+Leyenen for "reading the toyre" as an =English= expression it took
+me a long time to get used to it. Maybe the distinction is  a purely
+litvishe one.
+
+Correct me if I am wrong, but my feeling is that the difference
+between koydesh and khol uses of words with otherwise similar
+meanings is rstricted to nouns, and in any event, the koydesh use is
+a word of Hebrew origin e.g. seyfer - bukh.
+
+pe'rets
+
+4)----------------------------------------------------
+Date: Mon Nov 22 08:26:30 1993
+From: Michael Shimshoni <MASH@WEIZMANN.WEIZMANN.AC.IL>
+Subject: Leyenen un lezn (un lernen)
+
+Using my  German Orthodox background, I can support the statement of
+Marion Aptroot.  In Germany (at least in the early  1930's) leinen
+(I spell it as if it was a German word) was used for reading at shul
+from the  Torah Scroll.   As far as I recall, it was not used for
+the Haftara.  Lesen was used for any other form or reading.
+
+There was also an unusual use of the word lernen (learn).  If
+applied to an ordinary subject, it was  like the English to learn or
+learning. When on  the other hand one  said about someone that  "er
+kann lernen" (he can learn) it did not mean that he was no imbecile,
+and could be taught, but that he was *knowledgeable*  in the Talmud
+etc.  Is that the same also in Yiddish?
+
+Michael Shimshoni
+
+5)----------------------------------------------------
+Date: Mon Nov 22 08:52:53 1993
+From: Michael Shimshoni <MASH@WEIZMANN.WEIZMANN.AC.IL>
+Subject: Re: Jewish Years and Dovid Katz
+
+Jeremy Stern explains and at the end he asks:
+
+>Ellen's question reminds me of a problem I had when I read Katz's
+>Grammar. In order to illustrate the principle of forming the Jewish
+>years and vocalizing them, he chose the example of 5748, or 1987/8.
+>However, whereas most Jews pronounced that year "tismakh," Katz had
+>it "tashmakh." It is common to deviate from the standard
+>vocalization, especially to avoid a ominous word or to change to a
+>hopeful one.  In a similar vein, the year 5744 was changed to
+>"tisdam" to avoid tashmad."  Does anyone remember if Israeli papers
+>followed the changed form, because I know that the Orthodox world
+>did so?
+
+To the best of my recollection, in general, outside the Orthodox
+world, tishdam was not much used and that in spite of the added
+danger that that year corresponded mostly to 1984! I remember that
+four years later,  5748, tismah with its implied happiness was the
+year the intifada started :-(.
+
+In my first year in Palestine, 5696, many looked forward to it as it
+could be read tirtzu, "if you want", reminding one of Herzl's motto at
+the beginning of Altneuland, "if you want it is no fable".  When that
+year turned out pretty badly, the me'ora'ot starting (the Arabs called
+it the Arab  Revolt) lasting till 1939, this was  "explained", that
+these four letters also stand for tzarot (tzores).  One should not try
+to beat numerologists, they will always win.
+
+Michael Shimshoni
+
+______________________________________________________
+End of Mendele Vol. 3.140
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

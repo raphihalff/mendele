@@ -1,0 +1,148 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 147
+January 24, 1993
+ 
+1) Gender of borrowed words (Khaim Bochner)
+2) Gender of nouns; word meanings (Mikhl Herzog) 
+3) Gender of borrowed words (Ellen Prince)
+4) Daniel/Doniel/Doniyel (David Sherman)
+5) Here's the problem (Zev Kesselman)
+
+1)----------------------------------------------------
+Date: Fri, 22 Jan 93 16:11:48 -0500
+From: bochner@das.harvard.edu
+Subject: RE: keeping gender of borrowed words
+
+David Sherman writes:
+> When words are borrowed into Yiddish from another language
+> where the word has a gender, is the gender preserved?
+> Borrowings from Hebrew are, but is that a special case?
+
+Alas, even this isn't right. "emes" is feminine in
+Hebrew, masculine in Yiddish. "rege" is masculine in
+Hebrew, feminine in Y. And the abstract nouns that end
+in -ut in H. tend to be neuter in Y. (but maybe that
+depends on dialect?)
+
+> Does the answer depend on whether the endings indicating
+> gender in the source language have any correspondence to
+> those in Yiddish?
+
+One factor is this: there's a strong tendency for
+nouns ending in -e to be feminine in Y. This accounts
+for a lot of the cases where Y & H agree (H has -ah, Y
+has -e): menoyre, mishpokhe, etc.
+
+But the -e doesn't have to be an ending: "rege" ends
+in -e just because the final ayin has become silent,
+but still the -e is probably the reason that the word
+is feminine in Yiddish.
+
+Shver tsu zayn a yidish-redner!
+
+-- Khaim
+
+2)----------------------------------------------------
+Date: Fri, 22 Jan 93  16:40 EST
+From: ZOGUR@CUVMB.Columbia.edu
+Subject: Gender of nouns; word meanings
+
+David Sherman: The donor language DOES NOT determine
+the gender of borrowed nouns in Yiddish; NOT even
+Hebrew! To wit:: Yiddish "der shabes", "dos ponim!".
+Actually, many Hebrew nouns were originally classified
+as neuters: dos mes, dos seyfer. The determining
+factors are, probably often, Formal and/or semantic".
+There is a bibliography on the subject.
+ 
+Dvosye: In working with early Yiddish texts, a good
+German dictionary is useful (in the absence of a
+historical Yiddish one). So, go directly to a good
+German dictionary, do not pass "Go" or collect $200
+and look up "ko(umlaut)stlich". And, zay gezunt.
+ 
+Mikhl.
+
+3)----------------------------------------------------
+Date: Fri, 22 Jan 93 18:03:25 EST
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Gender of borrowed words
+
+dave sherman asks whether yiddish words borrowed from
+other languages keep their original gender and vice
+versa--
+
+i don't know of any systematic study but i'd guess that
+the answer is: sometimes. given that even native yiddish
+words sometimes have different genders in different dialects
+of yiddish and that northeastern yiddish has no neuter, it
+would be extraordinary if all borrowed words always kept
+their original gender. one example that i know of that
+clearly doesn't keep its gender is shap 'workshop', masculine
+in yiddish but neuter in its original language, english.
+perhaps there are phonological and/or semantic reasons for
+the genders they wind up with, when it differs from the
+original one.
+
+as for yiddish words borrowed into other languages,
+clearly it depends on the other language's gender system.
+english, for example, has natural gender, while yiddish
+has grammatical gender. therefore a word like meydl will
+be feminine in english (neuter in non-NEY yiddish), yingl
+will be masculine (neuter in non-NEY yiddish), shmate
+will be neuter (feminine in yiddish), and pupik will be
+neuter (masculine in yiddish).
+
+this sort of gender variation is not at all unusual, by
+the way. (english opera is neuter singular, french opera
+is feminine singular, latin opera is neuter plural--the
+plural of opus, which went its own way in languages that
+borrowed it, for example.)
+
+ellen prince
+
+4)----------------------------------------------------
+Date: Sat, 23 Jan 93 19:19:33 EST
+From: dave@cai.lsuc.on.CA
+Subject: Daniel/Doniel/Doniyel
+
+> From: Michael Shimshoni <MASH@WEIZMANN.WEIZMANN.AC.IL>
+>      "David (Daniel Moishe) Sherman"
+> This makes me wonder, if, as I know, it is customary for
+> Yiddishist to write Moishe and not the Sefaradi way,
+> Moshe, why Daniel and not Doniel, or even Doniyel?
+
+Oh, please don't attribute anything to the way I spell
+my name. I don't have a Yiddish name, you see, since
+my parents never spoke Yiddish.  I have the Hebrew
+name I was given at my bris, which I always spelled
+Daniel Moshe.  I guess I'm slowly yiddishizing the
+spelling.  To his credit, Melekh Viswanath immediately
+switched to meylekh when someone pointed out the
+inconsistency in his orthography.  Maybe I'll do the
+same someday, but somehow doniyel looks awfully weird. 
+Names are such subjective things, after all.
+
+D (D M) S
+
+5)----------------------------------------------------
+Date: Sun, 24 Jan 93 11:46 JST
+From: ZEV%HADASSAH@VMS.HUJI.AC.IL
+Subject: Here's the problem
+
+	"Po kavur hakelev" is a Hebrew phrase which
+translates to "the dog is buried here," but means
+"this is the source of the problem".  The phrase was
+made popular in Israel by a Hebrew song about twenty
+years ago, but the Even-Shoshan Hebrew dictionary
+lists the source as a folk-'mashal', in Yiddish.
+
+	Does anyone in Mendel-velt know of this?  Is
+there a story involved? Or a known zaftig translation?
+
+Zev Kesselman
+
+______________________________________________________
+End of Mendele Vol 2.147

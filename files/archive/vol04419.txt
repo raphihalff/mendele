@@ -1,0 +1,178 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.419
+May 14, 1995
+
+1) Introduction (Linda Cantor)
+2) Ver'z ver (Zellig Bach)
+3) Esn fun a shisl (Dovid Braun)
+4) Does German mies come from Yiddish? (Anno Siegel)
+5) Does German mies come from Yiddish? (Louis Fridhandler)
+6) Genendel (Dan Leeson)
+
+1)----------------------------------------------------
+Date: Sat, 13 May 1995 21:08:29 -0400 (edt)
+From: lincan@amanda.dorsai.org
+Subject: Introduction
+
+I've received and enjoyed Mendele for several weeks now and thought it
+was time to introduce myself to other subscribers. As a New York City
+high school history teacher, I got tired of teaching about others and
+decided that I wanted to learn more about my own personal and family
+history and culture, and so got involved in Jewish genealogy.  That in
+turn has gotten me very interested in Eastern European history and
+Yiddish language and culture.
+
+My grandfather lived with us during my childhood and so I heard a great
+deal of Yiddish.  I can understand it reasonably well but, alas, never
+learned to speak it.  We always took the easy way out -- we listened to
+the Yiddish and replied in English.  I also spent many summers in Sharon
+Springs, NY, a spa that was very popular with our immigrant ancestors who
+brought the habit of visiting spas with them from Europe.  I hung around
+my grandfather's butcher shop there, where most conversations were in
+Yiddish.  I guess that helped some.
+
+I have traced my roots back to Lithuania and the Ukraine and my current
+family to all over the U.S., Canada, Israel, Australia, and South Africa.
+I'm currently working on going backwards and to that end, am planning a
+trip to Lithuania this summer.  I know that I will not find much of
+Jewish Lita but hope to get some feel for what it must have been like.  I
+would love to hear from Litvaks or those who have visited or have advice.
+
+Linda Cantor
+
+2)----------------------------------------------------
+Date: Thu, 11 May 1995 15:32:51 -0400
+From: zellig@aol.com
+Subject: Ver'z ver
+
+In Mendele Bulletin 4.411,6 our rosh khavruse Noyekh Miller wrote:
+
+  A New Who-is-Who on File: Anno  Siegel, a lebn af im, has compiled a
+  new  version  of introductions by our members.  The file is available
+  via anonymous ftp.
+
+A very worthwhile and laudable endeavor.
+
+In his initial announcement about this plan, Anno wrote (4.290,3):  "So
+if you have not yet sent in your introduction in Mendele and want to be
+in my Who's Who (_I like ver iz der doziker_), please do it now."
+
+I believe that in Yiddish the expression "ver iz der doziker" is in this
+case not well chosen because this structure calls for a negative, for a
+critical remark of belittlement or ridicule.  It is a challenging
+question, not confrontational (because always in the absence of the
+criticized), for example:  Ver iz der doziker "kho'khem"? (who constantly
+opines on matters he doesn't comprehend)... der doziker "eytsegeber"?
+(who keeps offering unsolicited, impractical advice)... der doziker
+"millionaire"? (who criticizes other peoples' donations as
+insufficient)... etc., etc.  Note that the quotation-marks of the nouns
+in the examples tend to turn them into  their  opposites  I am certain
+that this was not Anno's intention.
+
+Simply "ver iz ver" is fine (or, like _Who's Who_,  "ver'z ver.")
+
+Zellig Bach
+Lakehurst, NJ
+
+3)----------------------------------------------------
+Date: Thu, 11 May 1995 15:42:19 EDT
+From: dovid@mit.edu
+Subject: Esn fun a shisl
+
+in tsugob tsu leybls bamerkung, dermon ikh aykh alemen:  fun a shos est
+men mit a lof!
+
+dovid braun
+
+4)----------------------------------------------------
+Date: Thu, 11 May 95 19:36:56 +0200
+From: anno4000@w172zrz.zrz.tu-berlin.de
+Subject: Does German mies come from Yiddish?
+
+The word "mies" entered the German language from Yiddish via Rotwelsch
+during the 19th century.  The dictionary goes on to explain that mis
+goes back to Aram "meis" (disgusting) which is a verb form (part. pass.)
+of "meas" (loathe).
+
+"Mies" is universally used in German (not sure about Swiss), but is
+clearly colloquial.  It seems to have spread from Berlin's brokers
+jargon.
+
+Anno Siegel
+Berlin
+
+5)----------------------------------------------------
+Date: Thu, 11 May 1995 12:58:36 -0400
+From: lfridhan@aol.com
+Subject: Does German mies come from Yiddish?
+
+So Yiddish mies _is_ from Hebrew, not German!
+
+A dank Mikhl Herzog! Gepasknt a shayle (4.414, 5; May 9, '95) eyder me
+hot im gefregt (4.415, 4; May 10, '95 - mislabeled 4.414).
+
+Az Daytsh _mies_ shtamt fun Yidish _mies_ iz dokh Ellen Prince take
+gerekht (private e-mail) az in dem dozikn fal iz Daytsh bloyz a paskudne
+Yidish.
+
+Oyb Yidish mies shamt fun hebreyish, blaybt a kashe: fun velkhn vort?
+
+Louis Fridhandler
+
+6)----------------------------------------------------
+Date: Fri, 12 May 1995 10:18:54 EDT
+From: leeson@aspen.fhda.edu
+Subject: Genendel
+
+Elliot Lasson asks about the origin of the Yiddish name, Genedel.
+
+I offer the opinion that it is a variant of the name "Hanah" whose
+Yiddish affection form causes it to become Hene or Hendel.  In diminution
+it would by Hendele.  Since the Russian alphabet has no "h" it was
+replaced with a "g" and thus Russian Jews Hendel became Gendel.
+
+Interestingly, I found almost 100 women with 10 different spellings of
+this name in the 1784 census of the Jews of Alsace.  It included
+Genentel, Genendel, Gennenndal, etc.
+
+I think it all to be Hannah.
+
+Dan Leeson
+Los Altos, California
+
+______________________________________________________
+End of Mendele Vol. 4.419
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

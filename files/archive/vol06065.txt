@@ -1,0 +1,155 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.065
+September 19, 1996
+
+1) Goldfadn play (Michael Steinlauf)
+2) Pi, pa, po (Arnie Kuzmack)
+3) Yiddish word processing (Arnie Kuzmack)
+4) Bookshops in Israel (David Herskovic)
+5) A contemptuous title (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Tue, 17 Sep 1996 15:09:48 -0500 (EST)
+From: yivo3@metgate.metro.org
+Subject: Goldfadn play
+
+The complete title of the Goldfadn play Andrew Cassell refers to (that
+was being staged in an amateur production in Keidan [6.064]) is
+doubtless "Di kaprizne kale-moyd oder Kabtsnzon et Hungerman." The
+earliest known printed version is from 1887. In Zilbertsvayg's theater
+lexicon, there's a reproduction of the frontispiece in v. 1, col. 291.
+Should you want to play with the proper names, you might translate the
+whole thing as: "The Capricious Bride, or Pauperson and Hungerman."
+
+A zisn, koshern nay yor alemen,
+
+Michael Steinlauf
+
+2)----------------------------------------------------
+Date: Tue, 17 Sep 1996 21:42:16 -0400 (EDT)
+From: kuzmack@cpcug.org
+Subject: Pi, pa, po
+
+Several people have commented on "tsvey geyen".  Let me take a shot at
+"pi pa po--shoyn nishto".  My Sprachgefuehl says that it means: in as
+much time as it takes to say "pi pa po", it's gone.
+
+Arnie Kuzmack
+
+3)----------------------------------------------------
+Date: Tue, 17 Sep 1996 21:42:16 -0400 (EDT)
+From: kuzmack@cpcug.org
+Subject: Yiddish word processing
+
+A. Joseph Ross asks about a Yiddish word processing program based on
+Word Perfect.  Word Perfect used to market a Hebrew Language Module, but
+it is apparently no longer being sold.  The Hebrew character set was
+relatively Yiddish friendly: it included pey and yud-yud, vov-vov and
+vov-yud as single characters.  I added keyboard macros for kometz-alef,
+pasakh-alef, and pasah-tsvey-yudn.  The only ones missing were
+khirik-yud and rafe, which I frankly don't miss.  I still use it for the
+Yiddish portion of the Yiddish of Greater Washington newsletter.
+
+The program was a modification of WP 5.1 for DOS.  There have been
+rumors of a version for WP for Windows, but with the corporate ups and
+downs of WP, nothing has appeared.  This is a little surprising, since
+the same programming would produce an Arabic version, which should have
+a considerable market.
+
+A g'mar khasime toyve to all.
+
+Arnie Kuzmack
+
+4)----------------------------------------------------
+Date: 18 Sep 96 15:15:46 EDT
+From: 100114.750@compuserve.com
+Subject: Bookshops in Israel
+
+Thank you to everyone who wrote to me with bookshop recommendations.
+
+Here is a list of the bookshops.
+
+Peretz Farlag
+Rechov Brener 14
+Tel Aviv
+Tel. 03-528 1751
+
+Comments: Recommended by Tsuguya Sasaki, Leybl Botvink and Barbara Mann.
+Barbara adds that thay have a good selection "and even lovelier
+company". They are only open till 12:30. There is a small cafe besides
+the bookshop which was lit by candles when I was there. The atmosphere
+felt like one of the cafes in Singer's Warsaw while the character I met
+could have walked straight out of La Boheme.
+
+Beis Sholem Aleichem
+Beis Dov 30 (Nr. Rechov Gordon)
+Tel Aviv
+
+Franz Kurski Library
+Rechov Kalisher 48 (Nr. Rechov Alnby)
+Tel Aviv
+
+The last two were recommended by Leybl Botvinik who added that while the
+Perets Farlag is a 'Shop' the latter two are merely places where one can
+find books.
+
+Robinson Books
+Rechov Nachlat Binyamin (below the shuk)
+Tel Aviv
+Tel. 03-560 1626
+
+Recommended by Barbara as a wonderful place for finding rare, out of
+print items. 'Not cheap, but very professional.'
+
+J(?) Twersky
+Rechov Sheinkin 20
+Tel Aviv
+
+Gaston L. Schmir mentioned this one though he (she?) is not sure if it
+is still open nor if this is the correct address.
+
+Unfortunately the replies came too late and I only managed the Perets
+Farlag which was closed. Once again thank you to all for sending in
+their recommendations.
+
+David Herskovic
+
+5)----------------------------------------------------
+Date: Wed, 18 Sep 1996 18:38:15 -0400
+From: zellig@aol.com
+Subject: A contemptuous title
+
+With reference to Leah Zazulyer's recent query (6.062,4) about the book
+_Dictionary-Shmictionary_:
+
+It is supposed to be a "hilariously" humorous book, but in my opinion
+has no merits whatsoever for one who is serious about Yiddish.
+
+The very title suggests the authors' belittlement and contempt of the
+subject, as indicated by the imitative "Shmictionary."
+
+All English words when reduplicated with the additional Yiddish initial
+morpheme "shm-'  -- for instance, "espert-shmexpert,"  "poet-shmoet,"
+"banquet-shmanket" -- are designed to _devalue_ the subject and to
+diminish its importance.
+
+The book's only saving grace is its use of numerous quotations using
+Yiddish-origin words -- quotations from William Styron's _Sophie's
+Choice_ , for instance, and from Lana Turner's autobiography.
+
+Sol Steinmetz, in his _A Century of Yiddish in America:  Yiddish and
+English_ (1986) discusses the nature of the Yiddish "shm-" accretion to
+English words when doubled with their original, and makes  the following
+interesting observation (p. 65):
+
+    "_Shm- is often used with a jocular follow-up clause, as in
+    Oedipus-Shmoedipus -- as long as he loves his mother..."
+
+Zellig Bach
+Lakehurst, NJ
+
+______________________________________________________
+End of Mendele Vol. 6.065
+

@@ -1,0 +1,86 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no.51
+July 25, 1991
+ 
+1) Brouhaha (Ellen Prince and NM)
+2) Responsa (Raphael Finkel)
+
+1)----------------------------------------------------
+Date: Thu, 25 Jul 91 10:39:04 -0400
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Vol 1.50
+
+EP: excuse me, tayerer shames, but i DID answer. and
+you published it. my answer was: 
+
+BROUHAHA.
+
+it's of course from french, where it's claimed to be
+from borekhhabe (just listen to those noisy jews greet-
+ing their guests...).
+
+if you had something else in mind, what was it?
+
+NM: The shames's face is red.  Of course you did and I
+published it.  But my brain isn't always on duty. 
+Here's what happened: since I knew the answer (not
+because I KNEW but because Mikhl inadvertently told
+me), I somehow treated 'brouhaha' as if it
+were the _question_.  Ay, ven me vert elter, toyg es in
+gantsn nisht.
+
+However, while I'm up, the etymology just may be more
+interesting. The Petit Robert says, like you, probably
+onomatopoeic (though without specifying whose noises
+are being mimicked).  Recent U.S. dictionaries (with
+the exception of the latest Random House which retreats
+from the Unabridged, 2nd ed.) say something like this
+(here's the New World 3rd): "in medieval theater, cry
+of devil disguised as clergy; said to be < Heb...
+formula used by Levites to welcome to the Temple".  How
+you like them apples? Life must have been particularly
+jolly in medieval Yurp.
+
+2)----------------------------------------------------
+Date: Thu, 25 Jul 1991 11:30:59 EDT
+From: Raphael Finkel <raphael@ms.uky.edu>
+Subject: RE: Vol 1.50
+
+1. yidtype.c.
+
+If you compile the program using a C compiler, you will
+have some software that will turn input looking like
+
+     a SAneM dank
+
+into output looking like
+
+
+ ___ _  _ _ ____    ____  _ _ _  _ _  _ _ _    _ _  , / 
+| ,\|    |    |  |  | |  |  | | | | |    ,\|  |/  _|
+|_\    |    |__| _|/  _|      |/_/     |_\  |
+
+If you also have the 'sed' program available, then
+using recast.sed will let you type in the more legible
+
+    a sheynem dank
+and get the same result.
+
+If you don't have C available, the program is useless.
+
+
+2.  Borukh-habe.  Might be the origin of 'brouhaha',
+but it is in doubt. I expect that 'copacetic' really
+does come from 'kol beseder', however.
+
+3.  Shrage-fayvel.  The fact that the two are combined
+implies to me that they are synonymous.  I trust the
+Phoebus version.  I dimly recollect that Phoebus and
+Apollo were not always the same.  Even if Shrage is a
+relexification (what a great word!) for Uri, it still
+means light.
+______________________________________________________
+End of Mendele Vol 1.51
+
+

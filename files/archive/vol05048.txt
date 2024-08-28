@@ -1,0 +1,174 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.048
+July 11, 1995
+
+1) Haynt geyt dergeyt an ek (Shleyme Axelrod)
+2) Af tselokhes, davka (Arnie Kuzmack)
+3) Af tselokhes, davka (Paul Pascal)
+4) Af tselokhes, davka (Marjorie Schonhaut Hirshan)
+
+1)----------------------------------------------------
+Date: Mon, 10 Jul 1995 22:28:33 -0400 (EDT)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Haynt geyt dergeyt an ek
+
+Arnie Kuzmack (5.044) asks for a translation of _haynt geyt dergeyt an
+ek!_ I don't remember the passage (from _Motl Peysi dem khazns_), but
+from the context Arnie gives, it seems likely that the meaning is
+something like 'So go figure it out!' or 'So go know what to believe!'
+At _ek_, U. Weinreich's dictionary translates _dergeyn an ek (in)_ as
+'get to the bottom (of)'.
+
+That use of _haynt_, incidentally, is not one that Weinreich includes.
+He has (in addition to the adverb 'today') the conjunctions 'moreover,
+besides, all the more'; Harkavy (1928) adds 'withal'.  But as I recall
+it, it might more reasonably be translated 'So', as above, or as the
+introductory 'Now,', as in _haynt shtelt zikh for..._ 'Now, just imagine
+...'.  When used this way, it would be said quickly and without emphasis,
+like its English counterparts.
+
+(I'm very tentative about this meaning of 'haynt'; it troubles me that
+neither UW nor AH gives it--suggesting that I'm off base here.)
+
+Shleyme Axelrod
+Buffalo, New York
+
+2)----------------------------------------------------
+Date: Mon, 10 Jul 1995 23:40:04 -0400 (EDT)
+From: kuzmack@umbc.edu
+Subject: Af tselokhes, davka
+
+Yankel Lantz quoted the meaning of Af tselokhes as "In spite of
+everything you do, it still comes out wrong."
+
+I think the idea here is that God, Nature or whatever is acting
+spitefully toward you, almost as though He/it were trying to get you
+angry.
+
+Martin Davis writes:
+
+Harvey Spiro wrote:
+
+>Although af tselohkes is somewhat used in modern Hebrew today, it also
+>has a fully-Hebrew first cousin which I believe I have heard creeping
+>into Yiddish spoken in Israel, namely "davka."
+
+And Martin Davis answered:
+
+> My parents used "davka" (I would have written "dafka") in the 1930s. I
+> would have translated it: "for spite".
+
+Davka was used in Yiddish long before the influence of Israeli Hebrew. It
+occurs in Harkavy's 1898 dictionary.
+
+It's meaning is somewhat different from Af tselokhes.  Davka means
+'particularly, despite expectations to the contrary'.  The meaning can be
+very close in a sentence like
+
+	It's bedtime, and the child davka/af tselokhes just started
+	his homework.
+
+Af tselokhes emphasizes the child's spiteful motivation, while davka
+emphasizes this particularly inappropriate choice of time.  OTOH, davka
+can be used without any indicate of spite, for example,
+
+	She was not the most beautiful woman at the party, but she davka
+	impressed me the most.
+
+Arnie Kuzmack
+
+3)----------------------------------------------------
+Date: 11 Jul 95 00:44:12 EDT
+From: 75332.2735@compuserve.com
+Subject: Dafke and Aftselokhes
+
+I'll say omeyn to Arre Komar's observation about the relative
+distribution and non-overlap of the two expressions *dafke* and
+*aftselokhes*, based on the narrow sampling of my mother and her sisters,
+who were all born in Belarus.  My mother uses aftselokhes in every second
+sentence, but I don't remember her ever using the expression dafke.  (I,
+on the other hand, born in Canada, which is west of Lodz as you know, use
+dafke in every other sentence!)
+
+My turn-of-the-century Harkavy _does_ list *dafke*, and it's only the
+pocket book edition, nokh.  It's on page 114 on the Yiddish side, spelled
+dalet-vov-kuf-alef (another entry, dalet-tsvei vovn-kuf-alef, refers the
+reader to the single-vov spelling).  The meanings Harkavy gives are:
+
+a) necessarily, expressly, absolutely; b) only; c) for spite [with the
+example:] *vil ikh dafke azoy!* I want to have it so just for spite.
+
+If Arre Komar's Harkavy is the pocket book edition, it is not surprising
+he missed it; the print is so small it's hard to tell a lange fey from a
+yud!  And if the pocket book version is just a miniature replica of the
+standard version, then *dafke* should be on page 114 of the latter, too.)
+
+Paul Pascal
+Toronto
+
+4)----------------------------------------------------
+Date: Tue, 11 Jul 1995 14:23:16 -0400
+From: shirshan@aol.com
+Subject: Af tselokhes and davka
+
+It appears to be unanimous that 'af tselokhes', rooted in anger,
+translates 'for spite'. I don't see the similarity or the relation to
+'davka'. I understand 'davka' to mean 'contrary to what you expect' or
+'unexpectedly' which does not elicit or imply the spite or anger in 'af
+tselokhes'.
+
+Example: Khotsh er hot nit lib kayn poezye, iz im davka shtark gefeln
+Leyvik's a lid.
+
+Although he does not like poetry, he (davka) unexpectedly liked a poem by
+Leivik.
+
+Marjorie Schonhaut Hirshan
+North Conway, New Hampshire
+
+______________________________________________________
+End of Mendele Vol. 5.048
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

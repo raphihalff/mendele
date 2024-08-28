@@ -1,0 +1,182 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.005
+May 18, 1993
+
+1) Additional idioms (Bernard Katz)
+2) Transcription and transliteration (Ellen Prince)
+3) Transcription and transliteration (Meylekh Viswanath)
+4) Yid(d)ish (Seymour Axelrod)
+5) More on alef/ayin (Meylekh Viswanath)
+
+1)----------------------------------------------------
+Date: Tue May 18 11:50:20 1993
+From: bkatz@epas.utoronto.ca (Bernard Katz)
+Subject: Additional Idioms
+
+        A Yiddish idiom that I am quit fond of is: "Er
+kukt vi a hon in B'nai Odam."  The literal translation,
+"He looks as a rooster does in B'nai Odam," is not very
+helpful.  The reference is to the ritual of kaporos on
+eruv Yom Kippur: a man, picking up a rooster (a woman,
+picking up a hen), recites a prayer (in Hebrew) that
+begins with the phrase: "B'nai adam yoshvei choshech
+v'tsalmavet" (= Children of man who sit in darkness and
+the shadow of death). The point of the idiom, I take
+it, is that the object of the lampoon has as much
+comprehension of some item that he is examining as the
+hapless rooster in the kaporos ritual has of the Hebrew
+text at which he is staring.
+
+Bernard Katz
+
+2)----------------------------------------------------
+Date: Tue May 18 13:14:55 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Transcription and transliteration
+
+i agree heartily with arn/arthur that we should be
+consistent in orthography. the one real problem i had
+for a while was with 'mazel/mazl tov'--'mazl tov' just
+looked so wrong to me in an (otherwise) english note!
+finally, i've made peace with myself by deciding that,
+in the context of english, the term is actually a
+borrowing and, in ENGLISH, is spelled _mazel tov_. in
+the context of yiddish, of course, it should be spelled
+rendered as _mazl tov_. any other opinions on this one?
+
+after two years, could someone please please tell me
+one thing: why do we use only 2/3 of the screen on
+mendele? is there anyone out there in mendeleland for
+whom this is an advantage? a dank.
+
+ellen prince
+
+[When Mendele was being planned, someone with
+experience in typesetting and layout advised setting
+the right margin at about 55, presumably to increase
+legibility.  There is no other reason.  If readers
+prefer a wider margin, like this one, that can easily be arranged.
+Please send your votes directly to: nmiller@dot.trincoll.edu]
+
+3)----------------------------------------------------
+Date: Tue May 18 13:15:07 1993
+From: Meylekh Viswanath (viswanath@draco.rutgers.edu)
+Subject: Transcription and transliteration
+
+Arn Abramson writes:
+
+>I would like to remind our friend Meylekh that the Yivo
+>Yiddish orthography is a broad transcription of the
+>sounds of a variety of Yiddish speech. A transliteration
+>is a direct transposition, letter by letter, from one
+>alphabet to another. Thus his name transliterated into
+>roman letters from the original Hebrew would be mlk,
+>whereas a transcrription of a modern Hebrew pronuncia-
+>tion of that name might be /'melekh/; the spelling
+>actually used by him, Meylekh, is a transcription of a
+>Yiddish pronunciation of that name. The virtue of a
+>transliteration for certain purposes is that, with a
+>table of equivalents in hand, you can recover the form
+>in the script of the other language.
+
+Perhaps I misunderstand Arn, but I have absolutely no
+idea as to what aspect of my original posting he is
+responding to.  I certainly don't have any disagreement
+with him on any of the above.  The only suggestion was
+that it may be preferable to trade greater intelligi-
+bility for consistency, in some cases. Whereas for a
+word like khanuke, there are many variant translitera-
+tions used popularly, this is not so for the word
+'Yiddish'. Hence retention of the spelling 'Yiddish'
+may be useful (in preference to Yidish).
+
+As I pointed out in my previous posting, this tradeoff
+of wider intelligibility for consistency is not uncommon
+with other languages.
+
+My only fear was that perhaps Yiddish was not part of a
+small subset of words (although it seems to me that it
+is so), so that adopting the suggestion of retaining
+the popular spelling would wreck havoc with the use of
+the YIVO orthography. Or perhaps there are other nafke
+mines that I have not considered.
+
+Meylekh.
+
+4)----------------------------------------------------
+Date: May 18 13:27:41 1993
+From: Seymour Axelrod <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: yid(d)ish
+
+Meylekh Viswanath argues that Yugntruf's "yidish vokh"
+can be publicized as "yiddish vokh" (2 d's), because
+the word "yiddish" is commonly so spelled. It's true
+that the names of many well-known Yiddish writers are
+commonly (though not always) transliterated in ways not
+in keeping with YIVO conventions (Sholem Aleichem,
+Sholem Asch, I.L. Peretz, H. Leivick, for example).
+But surely that's no reason to write a phrase half in
+English (yiddish), half in Yiddish (vokh)?  Either
+"yiddish (or Yiddish) week" OR "yidish vokh", it seems
+to me.
+
+--Shleyme
+
+5)----------------------------------------------------
+Date: Tue May 18 13:47:13 1993
+From: Meylekh Viswanath
+Subject: More on alef/ayin
+
+Mikhl, thanks for your (re)explanation of alef/ayin/yud
+in the beginning of a word in Yiddish.  I found it very
+interesting especially the historical information about
+the use of hes and vov, where we now use khof and fe in
+the beginning of a word.  However, I am not entirely
+convinced about that theory to explain 'aleph, yud,
+daled' for 'yid/id', rather than 'yud,yud,daled.'  (But
+I am still thinking on that.)
+
+Meanwhile, I figured out your additional comments on my
+parenthetical remark.  You said:
+
+>Meylekh, I just noticed the parenthetic remark in your
+>message of May 3--the one I was ostensibly replying to.
+>I think you may be confusing the issue when you say
+>that "ayin" is not always a vowel in Yiddish. It is,
+>except in the traditional spelling of words of Hebrew
+>origin, where it's simply an artifact of a totally
+>different system. As for "alef", it too, it, too, is
+>either a vowel (as in the case of [a] and [o]) or
+>strictly an orthographic symbol, either as a "dummy"
+>consonant in non-Hebrew words, or as whatever, in the
+>traditional spellings of Hebrew words. Yes? No?
+
+My original parenthetical remark was:
+
+>I understand that in Yiddish, 'yud' is not always a
+>vowel, but then neither are alef and ayin.
+
+What I meant, however, was:
+
+I understand that in Yiddish, 'yud' is not always a
+_consonant_, but then neither are alef and ayin.
+
+Since your explanation for the initial occurrence of
+aleph in 'aleph, yud, daled' was that a consonant was
+needed, and alef was a consonant, the query (contained
+in my parenthetical remark) was:
+
+  alef a consonant?!  yud is more of a consonant (in
+  yiddish) than alef; at least yud is sometimes a
+  consonant in yiddish; alef and ayin never are!
+
+Unfortunately, I mistyped 'vowel' for 'consonant'
+leading to the confusion.
+
+Meylekh.
+
+______________________________________________________
+End of Mendele Vol. 3.005
+

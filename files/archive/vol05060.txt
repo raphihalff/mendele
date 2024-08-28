@@ -1,0 +1,183 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.060
+July 19, 1995
+
+1) Bringing; rabbis (Eliyahu Juni)
+
+1)----------------------------------------------------
+Date: Wed, 19 Jul 1995 10:12:08 -0400 (EDT)
+From: ejuni@acs.ryerson.ca
+Subject: Bringing and the thing with rabbis
+
+In vol. 5.056, Reb Shleyme Axelrod wrote about the use of the verb
+"bring" instead of "give", "present" or "cite", and speculated that it
+might come from Yiddish, specifically the shop talk of lomdim.  I can
+definitely confirm a Yiddish source, but although I've heard it mostly in
+Toyre-related contexts, I always thought that it was general Yiddish
+usage, and not just a yeshivishism.
+
+In khsidishe Yiddish, the verbs 'brengen' and 'to bring' have a wide
+range of uses.  The basic usage is similar to "cite" or "quote", e.g.
+"der darkey moyshe brenkt a heter fun'm b'hag."
+
+A further use is when quoting a story or precedent which is narrated or
+recounted in a work (and not quoted from another work), e.g. "der ksav
+soyfer brenkt az ven zayn tate hot g'lernt bay der haflue, iz der haflue
+g'zitsn bay kidish, ober ven er iz g'gangen ts'reb nosn adler, iz reb
+nosn g'shtanen bay yoym hashishi, un g'zitsn far di brokhe oyf der vayn."
+In this usage, it functions similarly to the verbs 'zogt' and 'shraybt'.
+
+Then there is a use when quoting evidence (or an example, a proof or an
+argument) from a work, e.g. "der noyde biyhude brenkt a raye az der khazn
+meg iberzingn verter in khazoras hashats fun di piyut vos m'zogt iberul
+in di ershte brokhe fun kriyas shma, vayl m'zogtze oykh kdey ts'davenen
+mit mer kavone".  In this usage as well, "brenkt" functions similarly to
+'zogt' and 'shraybt'.
+
+In these three usages, the source being quoted is, in a sense, "bringing
+in" something somewhat external--whether quoting something from another
+work, telling over a mayse sh'hoye, or using evidence to back up a claim.
+And all three can be used to describe what a speaker said, as well as
+what an author writes.
+
+There are also those who use "brenkt" as a simple replacement for 'zogt'
+and 'shraybt', even when what they are quoting is not something external
+to the source, e.g. "der minkhas eluzer brenkt az der vos est fish bay
+ale dray sudes fun shabes vet zikher bakumen zayn kheylek in oylem habe"
+(when the author of the minkhas eluzer wrote it on his own, without
+quoting a source).
+
+This last usage is only used when quoting an author (never when quoting a
+speech).  It seems rather awkward to me, because it doesn't have the
+semantic justification of the other three.  But although it is less
+common than the first three, it is very widespread, even among those who
+learned their Yiddish in pre-WWII Europe, so the awkwardness is probably
+just my one of my hangups (I have quite a collection :-).
+
+All these usages can be found in yeshivishe Yiddish, but the third
+("brenkt a raye") is extremely common (and may be functioning as an
+idiom), while the fourth is rare.
+
+This usage has been picked up in yeshivishe Yinglish, English, and
+Hebrew. In standard English, the sentence "Epicurus brings all the
+standard arguments for the existence of a divine being, and successfully
+refutes them" would raise eyebrows because of its syntax;  in any
+American yeshive it would raise eyebrows for its content, but the syntax
+would be correct.
+
+In yeshivishe Yinglish one can often hear the phrase "brings a raye", but
+"brings a proof" would sound awkward;  not because of the verb, but
+because 'proof' is rarely used--in yeshives we always say 'raye'.
+
+In khsidishe and yeshivishe Hebrew, the verb "l'havi" ('to bring') is
+used the same way that "brenkt" is used in Yiddish.  In Hebrew too, all
+four usages can be heard;  in yeshivishe circles, the third usage ("meyvi
+r'aya") is extremely common, may also be functioning as an idiom.
+
+The Yiddish idiom "shtayt in sforim" often appears in Hebrew as "muva
+bisfarim"--'(it is) brought in sforim',  although it is can also appear
+as "katuv bisfarim"--'(it is) written in sforim'--or simply "katuv". But
+in Yinglish, "shtayt in sforim" usually appears as "it says in sforim"
+(though it sometimes appears as "it's brought down in sforim" or as "they
+bring down").
+
+These English and Hebrew Yiddishisms are common even among non-Yiddish
+speakers in the Orthodox community, especially speakers of Modern
+Standard Yeshivishese--even among S'faradim, who have no Yiddish heritage
+at all. Still, they are clearly Yiddishisms, and not native to Hebrew.
+Tomer meynt ir az ikh shtel tsu boydem ts'klots, vel ikh brengen tsvey
+rayes:
+
+Alef.  "Muva bisfarim", "katuv bisfarim", and "katuv" are used
+idiomatically, in exactly the same way as "shtayt in sforim":  when the
+speaker/writer knows that there's a source, and can't be troubled to find
+the exact reference;  or when the speaker/writer is so absolutely sure
+that s/he is right, that it's poshet and needs no reference, and besides,
+surely there are loads of sforim out there that say the same thing.  (In
+Yiddish, Yinglish and Hebrew, "s'iz a dovor yodua" (and it's permutations
+"it's a dovor yodua" and "davar yadua hu she__") have a similar meaning--
+everyone knows I'm right, so I don't have to provide evidence or a
+source.)
+
+Beyz.  The Hebrew word "katuv", in all but the most recent religious
+literature, has a very specific meaning, different from the one used
+above:  it introduces a posuk from T'nakh, and not any other quote, even
+from other religious works.  The Yiddish 'shtayt', on the other hand, can
+be used to introduce any quote--"shtayt in m'lokhim", "shtayt in rambam",
+"shtayt in hayntiker tsaytung".
+
+I have deliberately used the terms 'khsidish' and 'yeshivish', instead of
+geographical divisions, because my experience with these variations in
+usage has been split according to modern social lines, and ignores
+geographical dialect boundaries.  The khsidishe community whose usage I
+am describing includes speakers of poylishe, litvishe, ingerishe and
+rusishe yidish;  the yeshivishe community, while mostly litvish, includes
+speakers of other dialects as well.  I've noticed the difference in the
+yiddish spoken in these communities today, and I don't know if they
+originated in dialect differences which spread differently in different
+communities, or in differences in usage in these different communities.
+(In yeshives we talk about rayes much more than about mayses, while by
+khsidim mayses are at least as common as rayes, and more so in the less
+scholarly rebistives.)
+
+While we're on the subject of spreading Yiddishisms, Reb Shleyme
+(deliberately?) used another one in his question:  referring to persons
+as objects by prefixing an article to a proper name.  His example
+sentence was
+
+     "In support of his position, So-and-so brings the Rambam's statement
+      that ..."                                    ^^^^^^^^^^^^
+
+(If you've never noticed it before, compare it to
+". . . So-and-so brings a line from the Shakespeare's sonnet . . .")
+
+In a cheeky song whose lyrics were quoted in the same volume by Reb Khasl
+Igelfeld, Rabeynu Tam is constantly referred to as "der/dem Rabeynu Tam".
+
+This is a common feature of Yiddish in the Orthodox community (and is
+used by many in English and Hebrew as well), but it is used only to refer
+to great rabonim and their works.  Does anyone use it in reference to
+ordinary folk?  Is it used in Yiddish "out there" other than ts'makhn
+khoyzek?
+
+Another issue:  usually the article is used with an acronym or a magnum
+opus, not with a name or nickname.  An acronym requires it, and usually a
+name can't take it: "der Rabi Moyshe ben Maimon" and "Rambam zogt" are
+both incorrect.  Offhand, the only other names which I can think of which
+can have an article are "der Rabeynu Yoine", "der Rabeynu Dovid", "der
+Rabeynu Khananel" and "der Rabeynu Bakhye".  But when the full name is
+used, "der Rabeynu Bakhye ibn Pkude" and "der Rabeynu Khananel ben
+Khushiel" sound wrong.  Might the use of an article with a proper name be
+restricted to names prefaced by the title "Rabeynu", or even to names
+consisting of "Rabeynu X" where X is a single personal name, and no more?
+
+Then again, "der Rabeynu Gershom" sounds completely wrong.
+
+The use of an article with a name seems to me to be restricted to refer
+to the person's works, and not to the person--"der Rabeynu Dovid iz a
+peyrush oyf mesekhte Psokhim;  Rabeynu Dovid hot g'voynt in Provants."
+
+If so, that would explain the strangeness of "der Rabeynu Gershom"--if he
+wrote anything, we don't have it.  And using it to refer to a peyrush
+mistakenly attributed to him and printed with his name in the margin of
+some g'mores doesn't sound nearly as bad.
+
+(The use of an article with an acronym or a book title, on the other
+hand, can be used to refer to the person as well as his work:  "der
+Rambam iz geveyn rov in Fostat;  der Noyde Biyhude iz geveyn rov in
+Prag.")
+
+("derebereBer" doesn't count--it means "the rebbe, reb Ber", and the
+article doesn't refer to the name but to the profession.)
+
+For the yeshiva-educationally challenged, I apologize for descending so
+far into a rather esoteric subject.  And yes, all those are names of real
+historical characters, not names out of a hat ;-).
+
+Eliyahu Juni
+
+______________________________________________________
+End of Mendele Vol. 5.060
+

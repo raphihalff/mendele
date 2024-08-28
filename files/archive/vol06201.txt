@@ -1,0 +1,170 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.201
+January 16, 1997
+
+1) A mayse mit a mantl (Perl Teitelbaum)
+2) A mayse mit a mantl (Iosif Vaisman)
+3) A mayse mit a mantl (Evita Wiecki)
+4) Yankev (Rick Turkel)
+5) Yiddish language tapes (Iosif Vaisman)
+
+1)----------------------------------------------------
+Date: 15 Jan 97 10:56:13 EST
+From: 74031.775@compuserve.com
+Subject: A mayse mit a mantl
+
+In Vol 6.200  Khane-Faygl Turtletaub fregt vegn a lid fun a mantl. Men
+ken es gefinen in Kadye Molodovskys lider zamlung Yidishe Kinder,
+aroysgegebn fun tsentral-komitet fun di yidishe folks-shuln in di
+fareynikte shtatn un kanade, nyu york 1945. Es heybt zikh on azoy:
+
+Bay a shnayder in komore
+ful mit kinder, keyn eyn hore,
+kinder pitselekh, vi mon,
+shteyt a vigl oybn-on.
+
+Itster heybt zikh on di mayse,
+nisht fun tsigelekh keyn vayse,
+nor a mayse fun a mantl
+fun a tunkeln gevantl.
+
+Hot men oyfgeneyt a mantl
+fun a tunkeln gevantl
+farn eltstn bukher Shmul,
+er zol kenen geyn in shul.
+
+Geyt im Shmulik yorn dray,
+iz der mantl shpogl nay.
+Geyt im Shmilik nokh a yor,
+iz der mantl shener gor.
+
+Eynmol......
+
+Es iz vert tsu gefinen dos lid un ibertsuleyenen bizn sof.  Ir vet zikher
+hanoye hobn.
+
+Perl Teitelbaum
+Queens, NY
+
+2)----------------------------------------------------
+Date: Wed, 15 Jan 1997 11:34:53 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: "A mayse mit a mantl"
+
+Khane-Faygl Turtletaub hot gefregt vegn a lid vos heyst "a mayse mit a
+mantl." It's probably Kadia Molodowsky's "A mayse mit a balye: A mantl
+fun a tunklen gevantl" (Varshe: Yidisher shul organizatsye in Poyln,
+1931). This book is reproduced in the YIVO children's literature
+collection on microfiche (No. 639).
+
+Iosif Vaisman
+
+3)----------------------------------------------------
+Date: Thu, 16 Jan 1997 13:59:56 GMT+0100
+From: evita.wiecki@stud.uni-bamberg.de
+Subject: "a mantl" fun kadia molodovsky
+
+Emetser (ikh hob di e-mail "farloyrn") hot gefregt vegn a lid, vos darf
+zayn fun kadia molodovsky oder fun mangern un dertseyln epes vegn a
+mantl. Oyb dos lid vos ir zukht heybt zikh on mit:
+
+bay a shnayder in komore
+ful mit kinder, keynakhore,
+kinder pitselekh, vi mon,
+shteyt a vigel oybn-on.
+
+iz dos lid emes fun k. molodovsky, heyst poshet "a mantl" un men ken dos
+gefinen lemoshl inem bikhl "yidishe kinder" fun k.m.
+
+Ikh hob dem gantsn lid (vos iz zeyer lang) un az emetser darf hobn a
+hilf, ken ikh im shikn.
+
+Evita Wiecki
+
+4)----------------------------------------------------
+Date: Wed, 15 Jan 1997 11:11:50 -0500
+From: rturkel@cas.org
+Subject: Yankev
+
+Re: the ongoing discussions of Yankev and other Yiddish reflexes of the
+Hebrew gutteral `ayin (most recently in mendele 6.200).
+
+I remember reading something years ago (unfortunately I don't know
+where, or even where to look for such information) regarding the
+presence of a guttural in Proto-Indo-European, and the fact that its
+modern reflex in most Indo-European languages is "n" or a nasalized
+vowel.  Since the loss of this guttural was a very early sound change in
+Indo-European, the languages surrounding Yiddish had no such sound
+during the period of development of Yiddish.  I think it's fair to say
+that the Hebrew `ayin likewise lost its guttural quality throughout
+Ashkenaz pretty early on, and not recently.
+
+It has been noted earlier in Mendele by me and others that, among many
+Yiddish speakers, a Hebrew alef with a khataf-patakh also has a nasal
+quality to it (e.g., "ka'a~sher")  This is doubtless due to the loss of
+distinction between alef and `ayin among Ashkenazim.
+
+Zayt gezunt un shtark.
+
+Rick Turkel
+
+5)----------------------------------------------------
+Date: Wed, 15 Jan 1997 11:56:03 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Yiddish language tapes
+
+Sheva Zucker prepared a comprehensive set of 8 tapes to accompany her
+Yiddish textbook. Detailed information about the tapes is available from
+Sheva's homepage (http://members.aol.com/~sczucker, link from Shtetl at
+http://sunsite.unc.edu/yiddish/sheva.html). The tapes feature all the
+dialogues, stories, and exercises from the textbook and some additional
+materials.
+
+Iosif Vaisman
+
+______________________________________________________
+End of Mendele Vol. 6.201
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,180 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.010
+May 27, 1994
+
+1) Hebrew grammatical constraints in Yiddish (Mikhl Herzog)
+2) Names (H. Davidson)
+3) Zishe, zushe, zisye, zusye, ziske, zisl (Dovid Braun)
+4) Fonye, poplinik (Bob Rothstein)
+5) German-Slavic conflations in Yiddish (Mikhl Herzog)
+6) Superstition? (Mikhl Herzog)
+7) Hebrew words in Yiddish (Avrom-Yitzkhok Blair)
+
+1)----------------------------------------------------
+Date: Thu May 26 11:37:43 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: Hebrew grammatical constraints in Yiddish
+
+As background for this query, I offer the following:
+
+In its integration of words and phrases of Hebrew and Aramaic origin,
+Yiddish overrides the grammatical constraints of the source language.
+Several examples:
+
+i) Hebrew feminine "shabbAt", plural "shabatOt", Yiddish masculine "der
+shAbes/shabOsim".
+
+ii) Hebrew masculine "beshatO", feminine "beshatA" 'in his/her time',
+although spelled differently in Yiddish too, are both realized as Yiddish
+"beshAte".
+
+iii) Hebrew "avOt avotEYnu" 'our ancestors', which is clearly marked for
+first person plural, but Yiddish "mayne, dayne, zeyere Oves-ovesEYnu.
+
+I could go on. Thus far, however, I would generalize by saying that even
+speakers with a sophisticated knowledge of Hebrew grammar will use the
+cited Yiddish forms.
+
+My query concerns one expression in which this doesn't seem to hold
+today, perhaps because of increased knowledge of Hebrew grammar among
+people learning Yiddish. In my own recollection it SHOULD apply, and I
+seek possible confirmation from native speakers or others with similar
+recollections of family usage. Thus,
+
+Hebrew makes a gender distinction in the "rest in peace" formula as
+follows:
+
+Masc "alAv hashalOm", Fem "alEha hashalOm". Yiddish continues to spell
+them differently but my own recollection is that we spoke of both "der
+zeyde" and "di bobe" "olevashOlem" and NOT "di bobe olEho hashOlem".
+
+What say you?
+
+Mikhl Herzog
+
+2)----------------------------------------------------
+Date: Thu May 26 15:15:57 1994
+From: IBIDHAD@MVS.OAC.UCLA.EDU
+Subject: names
+
+I posted this notice once before.  Those interested in Hebrew names,
+their spellings, and by implication phonology, should go to rabbinic
+texts on gittin. Start with Bet Shemuel commentary on Shulhan Arukh, Eben
+ha-Ezer chapter 129 & the equivalent section in the Lebush. Then use the
+subject command on good computerized library catalogue.  UCLA's computer
+brought up several dozen items of which about a dozen were informative
+when I needed a name.  Among the works that I remember were helpful were
+one by S. Ganzfried (best know for his Qissur Shulhan Arukh) and one by a
+European-American rabbi at turn of century named Aharon Gordon.
+
+H. Davidson
+
+3)----------------------------------------------------
+Date: Thu May 26 15:47:23 1994
+From: dovid@MIT.EDU
+Subject: zishe, zushe, zisye, zusye, ziske, zisl
+
+These names may be related to the Talmudic Aramaic name Zusya.  If so,
+the male names are not related to _zis_ 'sweet' (and are therefore not
+glossed as such by Harkavy) but the female names zisl, zisle, and zise
+ARE.
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Thu May 26 16:49:06 1994
+From: rar@slavic.umass.edu
+Subject: Fonye, poplinik
+
+Rising to Michael Alpert's challenge, I'll offer my two-cents' worth
+(also known as wild speculation) in re _fonye_.  If the word originally
+referred to a Russian soldier and only later expanded metonymically to
+refer to the tsar or too any Russian, then it might be connected with the
+Russian _soldafon_, a disparaging term for a boorish soldier.  Vasmer's
+etymological dictionary connects _soldafon_ (from _soldat_ 'soldier')
+with one of the Russian names that has been cited in the discussion of
+_fonye_ here, namely, Agafon.  Vasmer also cites _mitrofon/mitrofonia_, a
+non- standard term for sailor (cf. the name Mitrofan).
+
+On another word:  Larry Rosenwald asked (4.006) about Peretz's use of the
+expression "tsufallen vi tsu a heysn poplinik."  Stutchkoff gives the
+form _popelnik_, which suggests an association with the Slavic word for
+ashes. I've found a Belorussian term from the Pinsk area _paplonik_, said
+to be related to Polish _podp/lomyk_ 'a kind of flat bread or pancake
+baked on the coals'.  BTW, Stutchkoff gives as a synonym "tsufaln vi tsu
+heyse lokshn."
+
+Bob Rothstein
+
+5)----------------------------------------------------
+Date: Thu May 26 18:36:36 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: German-Slavic conflations in Yiddish
+
+Meyshke Alpert: "makhn mit der hant" meaning 'to wave' is certainly a
+conflation. Other likely ones are "khapn" (if it were strictly Slavic,
+you'd expect a thematic 'e' in the paradigm), similarly "goln";
+regionalloy a few nouns: "hleym" (hard to say, no?) "nyest". Others?
+
+Mikhl Herzog
+
+6)----------------------------------------------------
+Date: Thu May 26 18:59:09 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: Superstition?
+
+Rick Gildemeister: The Litvish euphemism "avu veynstu" 'where do you
+live?' was not a feature of class. Rather than think of it as a
+consequence of superstition, it's probably more fruitful to see it as a
+consequence of linguistic change, in this case of phonological change
+(the merger of oy and ey) on lexical choice. Litvish shows a similar
+change, resulting from Litvish Yiddish merger of "s" and "sh" is the pair
+"fisnoge" 'feet, legs' and "fisribe 'fish'. There is no shortage of
+examples of these entailed changes.
+
+Mikhl Herzog
+
+7)----------------------------------------------------
+Date: Thu May 26 23:40:41 1994
+From: ablair@bottom.magnus.acs.ohio-state.edu
+Subject: Hebrew words in Yiddish
+
+I am a rather elderly (65 yor alt) graduate student in Yiddish at Ohio
+State University.  One of the toughest things for me to learn is to read
+and pronounce Hebrew words in Yiddish.  I have heard that there is at
+least one book dealing with this.  Can anyone steer me to such a book and
+tell me where to buy it?
+
+Allan E. Blair (Avrom Yitzkhok)
+
+______________________________________________________
+End of Mendele Vol. 4.010
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

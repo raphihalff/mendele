@@ -1,0 +1,344 @@
+/*
+ *
+ */
+@font-face {
+    font-family: tamy;
+    src: url(fonts/TaameyFrankCLM.woff);
+}
+@font-face {
+    font-family: frank;
+    src: url(fonts/FrankRuehlCLM.woff);
+}
+@font-face {
+    font-family: vilna;
+    src: url(fonts/Mekorot-Vilna.woff);
+}
+@font-face {
+    font-family: simple;
+    src: url(fonts/SimpleCLM.woff);
+}
+@font-face {
+    font-family: hadasim;
+    src: url(fonts/HadasimCLM.woff);
+}
+:root {
+    --mendele-blue: #37828F;
+    --mendele-green: #bcbf8e;
+    --black: #130303;
+    --white: #F1F2EB;
+    --highlight: #FF9FB2;
+    --tekhelet: #512888;
+}
+
+body {
+    font-family: monospace;
+    background-color: var(--white);
+    font-size: 1em;
+    color: var(--black);
+}
+
+input::-webkit-search-cancel-button{
+    -webkit-appearance: none;
+    display:none;
+}
+button {
+    background-color: var(--white);
+    color: var(--black);
+    padding: inherit;
+    text-align: inherit;
+    margin: inherit;
+}
+a { 
+    text-decoration: none;
+}
+
+form {
+    display: inline;
+}
+.nav {
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    border: solid .15em var(--tekhelet);
+    padding: .5em;
+    border-left: none;
+    border-right: none;
+    margin-bottom: .5em;
+    margin-top: .7em;
+}
+
+.nav a, a.menu-item, a.pdf{
+    color: var(--mendele-blue);
+    padding: .5em;
+}
+
+.nav a:hover, a.menu-item:hover, a.pdf:hover {
+    background-color: var(--tekhelet);
+    color: var(--white);
+}
+
+.nav a[disabled], #vol-browser a[disabled] {
+    pointer-events: none;
+    color: var(--mendele-green);
+    text-decoration: line-through var(--mendele-blue);
+}
+
+input, select {
+    background-color: var(--white);
+    border: solid .1em var(--tekhelet);
+    color: var(--mendele-blue);
+    border-radius: .4em;
+    font-family: monospace;
+    font-size: 1em;
+}
+#search {
+    display:inline-block;
+    padding-left:.5em;
+    background-color: var(--mendele-blue);
+}
+#search:hover, #search:hover #search-button {
+    background-color: var(--tekhelet);
+}
+
+#author-nav, #sort-nav {
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    border: solid .15em var(--tekhelet);
+    border-left: none;
+    border-right: none;
+    color: var(--tekhelet);
+    padding: 0 3em;
+}
+
+#sort, #author-form {
+   padding: .5em;
+   color: var(--mendele-blue);
+}
+#sort:hover {
+    background-color: var(--tekhelet);
+    color: var(--white);
+    cursor: pointer;
+}
+
+#author-form {
+    display: inline;
+    width: fit-content;
+    /*color: var(--mendele-blue);*/
+    background-color: var(--mendele-blue);
+}
+
+#author-form:hover, #author-form:hover #author-var-button {
+    background-color: var(--tekhelet);
+}
+
+#author-var-box {
+    color: var(--mendele-blue);
+    width: 17em;
+}
+
+#author-var-button, #search-button {
+    color: var(--white);
+    cursor: pointer;
+    border: none;
+    border-radius: 0;
+    background-color: var(--mendele-blue);
+    padding: .5em;
+}
+
+#author-var-button:hover, #search-button:hover {
+    background-color: var(--tekhelet);
+}
+
+.menu-item {
+    
+}
+
+h1.homepage {
+    text-align: center;
+    color: var(--mendele-blue);
+    font-size: 2.5em;
+}
+
+div.issues {
+    display: none;
+}
+
+hr {
+    border: none;
+    border-top: .4em double var(--tekhelet);
+    color: var(--tekhelet);
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+
+hr::after {
+    color: var(--mendele-blue);
+    background: var(--white);
+    font-weight: bolder;
+    content: 'מ';
+    font-size: 2em;
+    padding: 0 4px;
+    position: relative;
+    top: -.75em;
+
+}
+#vol-browser {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    border: solid .15em var(--tekhelet);
+    border-left: none;
+    border-right: none;
+    color: var(--tekhelet);
+}
+
+
+#search-button {
+    cursor: pointer;
+}
+
+#issue, #results {
+    padding: 1em;
+    margin: 1em;
+}
+
+#toc {
+}
+
+.toc-entry a {
+    margin:.5em;
+}
+
+.toc-entry a {
+    color: var(--mendele-blue);
+}
+
+.toc-entry a:hover {
+    background-color: var(--highlight);
+    /*color: var(--white);*/
+}
+
+div.post {
+    padding: 1em;
+    /*margin: 1em;*/
+    font-family: monospace;
+    font-size: 1em;
+    overflow-wrap: break-word;
+}
+
+.post-author, .post-subject, .post-date {
+    margin: .5em 0em;
+}
+
+button {
+    border: none;
+    padding: inherit;
+    margin: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.pseudo-highlight {
+    color: var(--highlight);
+    font-weight: bold;
+}
+
+.author-highlight {
+    color: var(--highlight);
+    font-weight: bold;
+}
+
+.author-highlight:hover {
+    cursor: pointer;
+    color: var(--mendele-blue);
+    background-color: var(--highlight);
+}
+
+.highlight {
+    background-color: var(--highlight);
+}
+
+:target {
+   /*background-color: var(--highlight);*/
+   /*color: var(--tekhelet);*/
+   border: .5em dashed var(--mendele-blue);
+   border-radius: 1em;
+}
+
+a.post-result {
+    color: var(--mendele-blue);
+}
+
+a.post-result:hover {   
+    background-color: var(--mendele-blue);
+    color: var(--highlight);
+}
+
+
+/*
+ * -- TABLET (AND DOWN) MEDIA QUERIES --
+ * On tablets and other medium-sized devices, we want to customize some
+ * of the mobile styles.
+ */
+@media (max-width: 60em) {
+    .nav {
+        padding-bottom: .2em;
+    }
+    #search input, #author-form input {
+        display:block;
+        text-align: center;
+        margin: auto;
+        padding: .3em;
+    }
+    #vol-browser a, #vol-browser div {
+        margin-top: .5em;
+    }
+    #vol-browser form, a.menu-item, select, label, .nav a, #author-form {
+        display: block;
+        padding: .1em;
+        text-align: center;
+        margin:auto;
+    }
+    .hide {
+        display: none;
+    }
+    a.menu-item, .nav a, #sort {
+        width: fit-content;
+        background-color: var(--mendele-blue);
+        color: var(--white);
+        padding: .5em;
+        border-radius: .5em;
+        margin-bottom: .3em;
+        margin-top: 0;
+
+    }
+    .nav a[disabled], #vol-browser a[disabled] {
+        color: var(--white);
+        text-decoration: none;
+        opacity: 25%;
+    }
+    #search, #author-form {
+        padding: .3em;
+        padding-top: .6em;
+        border-radius: .5em;
+    }
+    #author-form {
+        margin-bottom: .3em;
+    }
+    #sort {
+        margin-top: .3em;
+    }
+}
+
+/*
+ * -- DESKTOP (AND UP) MEDIA QUERIES --
+ * On desktops and other large-sized devices, we want to customize some
+ * of the mobile styles.
+ */
+@media (min-width: 60em) {
+
+   
+}

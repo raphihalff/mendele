@@ -1,0 +1,144 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 137
+January 16, 1993
+ 
+1) Golodranetz (Matvey Palchuk)
+2) Holedrantses (Bob Rothstein)
+3) Yiddish computer programs (Dvosye Bilik)
+4) Landlorikhe (Alice Nakhimovsky)
+5) "Lendlord" and consonantal shift (Ellen Prince)
+
+1)----------------------------------------------------
+Date: 14 Jan 1993 11:53:03 -0400 (EDT)
+From: Matvey Palchuk <M_PALCHUK%FANDM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: "golodranetz"
+
+Robert D Hoberman <RHOBERMAN@ccmail.sunysb.edu> says:
+> but there are a few puzzles left.  Can anyone help with the
+> following?  We can guess, but does anyone know?
+
+> "holedrantses":  Some sort of insulting term; 'hooligans',
+> 'good-for-nothings'?
+
+Comes from Russian "golodranetz" (singular, male). Now, the
+meaning is a little tricky given my tiny knowledge of
+English. It is an insulting term for a poor person (golyi -
+the first part of the word - means naked or very poorly
+dressed). Applies with disrespect to a poor persom acting
+improperly.
+
+[Cf. "golegornisht" (Podolia) --nm]
+
+> kleytl: 'bar, barroom'.  It's a room within an inn or
+> tavern.
+
+Sounds to me like Russian "kletka" - a cell, or a literary
+description of an extremely small room, like a prison or
+monastery cell.
+
+> What's the feminine of the good Amero-Yiddish word
+> "lendlord"?  Sholem Aleykhem uses "lendlorikhe" -- what's
+> that -khe suffix?  I seem to remember some discussion of it
+> in Mendele last year, but can't recall the details.
+
+I think you are right, "kha" suffix is used in some cases
+to designate a feminine form of a word (usually the
+original word does not a feminine form, and sticking "kha"
+is not grammatically correct, it is used in a spoken
+language only.
+
+I hope this helps. Ask if you have any other questions.
+                                                          
+ Matvey Palchuk  Franklin & Marshall College  m_palchuk@fandm.edu     
+
+2)----------------------------------------------------
+Date: 14 Jan 1993 22:49:52 -0500 (EST)
+From: ROBERT A ROTHSTEIN <rar@titan.ucs.umass.edu>
+Subject: Holedrantses
+
+The word _holedrantses_ that Berl Hoberman asked about is
+presumably from Ukrainian _holodrAnets'_, plural
+_holodrAntsi_ 'ragamuffin; beggar; poor person'.
+
+Bob Rothstein
+
+3)----------------------------------------------------
+Date: Thu, 14 Jan 93 12:56 EST
+From: Dorothy_BILIK@umail.umd.edu
+Subject: Yiddish computer programs
+
+To Jane Peppler and other mendelnikes about Yiddish
+computer programs.Dorothy Wasserman has two Yiddish
+programs for Macs and IBMs.Her address is 225 Central Park
+West,Phone 212 724 7756. Oykh hob ikh an onheyb far mayn
+tayerer dovidn ober khvell es nit citirn ingantsn,nor
+dermonen der vunderlikhn oneyb fun Yud Yud Zinger's Brider
+Ashkenazi. This is akin to telling just the punchline or
+the number of the song for a musician-- If you know it you
+know exactly what I mean, oyb nisht, leynt es.
+
+A gut yor tsu ale Mendlnikes,
+Dvosye Bilik.
+
+4)----------------------------------------------------
+Date: Thu, 14 Jan 93 15:28:02 EST
+From: alice@cs.colgate.edu
+Subject: Landlorikhe
+
+It seems to me that the "ikhe" suffix was probably Russian
+"ikha" which makes masculine professional titles feminine.
+For examples, try "kupchikha," an old word meaning
+merchant's wife (masculine "kupets," merchant), or
+"vrachikha" "doctor's wife" (old style), "woman doctor"
+(newer and usually perjorative).  I'm wondering whether the
+landlorikhe in the play was the landler's wife or the
+landler herself.  Not that it makes any difference... Best
+of luck to the translators.
+
+Alice Nakhimovsky
+
+5)----------------------------------------------------
+Date: Thu, 14 Jan 93 17:03:08 EST
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: "Lendlord" and consonantal shift
+
+>From: Robert D Hoberman <RHOBERMAN@ccmail.sunysb.edu>
+>What's the feminine of the good Amero-Yiddish word
+>"lendlord"?  Sholem Aleykhem uses "lendlorikhe" -- what's
+>that -khe suffix?
+
+just a parenthetical note: i think the usual
+'amero-yiddish' word for the masculine is _lendler_.
+
+------------------------------------------------
+>From: STU_RWLANTZ%JMUVAX.bitnet@YaleVM.YCC.Yale.Edu
+>Subject: consonantal shift
+>
+>Is it just coincidence that there is a sound shift in
+>Sephardic/ Ashkenaz which appears to parallel one in
+>Indogermanic?  I think of emet/emes and das/dat, for
+>example.
+
+historical linguists, please correct me if i'm wrong, but
+my understanding is that the hebrew had a /th/ at the time
+of the change. yiddish speakers could not pronounce /th/
+and substituted /s/ (just as german speakers still do). so
+the hebrew-yiddish sound change wouldn't be /t/ > /s/ but
+/th/ > /s/.
+
+the germanic das/dat shift is, i believe, from
+indo-european *d, which went to t in germanic (grimm's law)
+and then to ts or s (depending on position, i think) in
+german (and, therefore, in yiddish). cf latin duo, english
+two, yiddish tsvey; latin videre ('see'), english wit (old
+english witan 'know'), yiddish visn.
+
+so--yes, i think it's just a coincidence.
+
+ellen prince
+
+______________________________________________________
+End of Mendele Vol 2.137
+

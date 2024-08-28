@@ -1,0 +1,193 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.211
+December 4, 1994
+
+1) Introduction (Jeff Zucker)
+2) Tshepn (Martin Davis)
+3) Tshepn (Bob Rothstein)
+4) Tshepn (Ellen Prince)
+5) Tshepn (Paul Pascal)
+6) Hebraicization (Rick Gildemeister)
+
+1)----------------------------------------------------
+Date: Sat, 3 Dec 94 19:28 EST
+From: zucker@maccs.dcss.mcmaster.ca
+Subject: Introduction
+
+I am a professor of Computer Science at McMaster University in Hamilton,
+Canada .  I am from South Africa, so my Yiddish is Litvish -- or it would
+be, if I could speak it. In fact, my Yiddish is rudimentary (picking up a
+bit from my parents). I am trying to learn Yiddish now, by working
+through Weinreich's book.  I have also acquired Sheva Zucker's book (no
+relative, to my knowledge).
+
+There are two reasons I'm interested in Yiddish.  One is that I'm
+interested (at an amateur level) in linguistics. I already know a fair
+amount of Afrikaans and Dutch (having spent some time in Holland), and am
+fascinated by the similarities and differences of these with Yiddish
+(ignoring temporarily the vocabulary of Heb./Aram. origin). The other is
+because of an emotional attachment (now _not_ ignoring the vocabulary of
+Heb./Aram. origin).
+
+Although I am trying to work through Weinreich on my own, that is
+obviously not as good as attending a class. Although there are classes
+given in Toronto nearby, I cannot fit any of them into my schedule. So my
+first question is: Are there any on-line (via Internet) exercises or
+study aids, or other resources?
+
+Assuming not, here is another idea: is there some kind soul out there,
+who would be willing to mark my exercises from Weinreich (or S. Zucker,
+if you prefer) on a regular basis -- for a fair remuneration, of course.
+I'd email you my exercises in YIVO transcription, and you'd email me back
+the corrections.  Obviously, this is not as good as the classroom
+experience, but it's something.  Is anyone interested in this?
+
+Jeff Zucker
+
+2)----------------------------------------------------
+Date: Fri, 2 Dec 94 13:16:12 -0500
+From: davism@turing.cs.nyu.edu
+Subject: Tsugetschepet
+
+In my family the terms "tsushepenish" and "unshikenish" were all too
+frequently heard for some unpleasantness that occurred (in the one case
+in the sense that it had "grabbed" one of us, in the other that it had
+been "sent" our way.
+
+Martin Davis
+
+3)----------------------------------------------------
+Date: Fri, 02 Dec 1994 14:24:02 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Tshepn, tshypyorek
+
+Polish _czepic' sie,_ means 'adhere, cling' both literally and
+figuratively. It also means 'find fault with, carp, cavil'.  Without the
+"reflexive" particle _czepiac'_ is a colloquial term meaning 'annoy;
+bother with questions'.  (Polish _cz_ spells [ch], i.e., Yiddish _tsh_.)
+The root has that initial consonant everywhere in Slavic except in
+Russian, where it has [ts] as in _tsepliat'sia_ 'clutch at, cling to'.
+
+Polish _szczypiorek_ (orthographic _szcz_ is [shch]) is 'chives', but
+Harkavy gives 'scallions, eschalot' [shallots, I assume] for Yiddish
+_tshipyor_.  (All the same genus Allium, I believe.)  Sounds like we're
+back to the great parsley/parsnips controversy.
+
+Bob Rothstein
+
+4)----------------------------------------------------
+Date: Fri, 02 Dec 1994 15:15:42 EST
+From: ellen@central.cis.upenn.edu
+Subject: tshepen zikh
+
+[Yude Rozof writes:]
+>  I doubt the origin suggested: tzepeetsa does not sound enough
+>like tshepn, first of all.
+
+whether it came from this or not, i do not know, but, _if_ it had and if
+it had followed the usual correspondences, i believe it would be
+precisely _tshepen zikh_. you are perhaps misanalyzing the slavic
+reflexive and perhaps also the slavic infinitival ending as part of the
+verb stem and you are definitely forgetting that the yiddish verb stem is
+in fact bisyllabic. one really must do a bit of analysis to see
+linguistic patterns and can't just go by whether two forms 'sound enough
+like' each other.
+
+ellen prince
+
+5)----------------------------------------------------
+Date: 04 Dec 94 11:04:39 EST
+From: 75332.2735@compuserve.com
+Subject: Tshepen
+
+Following on the discussion begun by Mottel Lakin on the origin of
+"tshepen", the Polish word "cep" (pronounced "tsep", though Litvakes
+might pronounce it "tshep") is a noun meaning: flail.  On the other hand,
+"czepiac sie" (which, with proper accent marks is roughly transliterated
+"tshepiatsh shan") has among its meanings: to peck at.
+
+Incidently, while looking this up in my Polish-English dictionary, I
+happened across this entry:  "cacko" (pronounced tsatsko)--jewel,
+trinket, plaything, toy, beauty.  I had always been under the impression
+that the Yiddish "tsatske" was from the Hebrew "tsaatsu'a" (meaning toy)
+with a Polish-Yiddish diminutive ending.  (Of course, it's always
+possible that Isaac Mozeson, who wrote _The Word: The Dictionary That
+Reveals the Hebrew Source of English_, may have another book in the
+making, showing the Hebrew source of Polish!   ;-)   )
+
+Paul Pascal
+
+6)----------------------------------------------------
+Date: Fri, 02 Dec 94 13:24:43 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Hebraicization (cont.)
+
+I read over my earlier posting and found I had been unclear in my
+discussion of the "crypto-language" I was referring to, as opposed to
+Yiddish. The book _Die Reste des Juedischdeutschen_ contains phrases used
+by Jews in Germany to speak to each other without being understood by
+Gentiles. An example: Zege melokhnt lau = Yener goy arbet nisht.
+Invariably, the words used are from loshn-koydesh, and quite a number of
+the words laid out in the book are to be found in Yiddish farther east,
+with different pronunciation, of course.
+
+In this sort of context, the loshn-koydesh words are "low" usage as
+opposed to the "high" usage of H.-A. in religious discourse. Suffice it
+to say that this slangy use of Hebrew-derived vocabulary may explain in
+part the large percentage of loshn-koydesh words in Glikl's memoirs
+(30%). I don't remember Weinreich's estimate of the percentage in
+Central/Eastern Yiddish, but I do remember that it was significantly
+lower.
+
+I just remembered another word: "akhlen", which means to eat. As far as I
+know this word is not found farther east. And then there are Romance
+words which are also not found farther east: "bafen" = to drink;
+"plankhenen" = to cry. A Hebrew-derived word with a "good" meaning
+(neither high nor low) is "leff" = heart. As people can probably tell by
+now, I really loved discovering Western Yiddish for myself. One book in
+particular fascinated me: _Jiddisch im Allemanischen Sprachgebiet_ . The
+conversations recorded in Switzerland had only one Schwyzerduetsch word;
+and the language was not "Daytshmerish". It had more in common in its
+"feel" to Ukrainian Yiddish than to Gentile German of any sort that I
+know of.  Antshuldikt mir, tayere khaveyrim, ikh bet aykh, vos ikh hob
+azoy lang geredt, ober di temes vos iber zey ikh hob geshribn khapn mir
+baym "leff" un gibn mir a hunger nokh mer tsu "akhlen" far zikh.
+
+Rick Gildemeister
+
+______________________________________________________
+End of Mendele Vol. 4.211
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

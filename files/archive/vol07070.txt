@@ -1,0 +1,241 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 7.070
+October 1, 1997
+
+1) fisnoge, etc. (mikhl herzog)
+2) fisnoge yet again (Hugh Denman)
+3) language and dialect (A. Manaster Ramer)
+4) Upside-down Yiddish (Elisheva Schwartz)
+5) a new book for a new year (Miki Safadi)
+6) Fisnoge ishor yerokes (David Herskovic)
+7) language and dialect (Peter Slomanson)
+
+1)----------------------------------------------------
+Date: Tue, 30 Sep 1997 07:46:08 -0400
+From: "mikhl herzog" <mherzog@bestweb.net>
+Subject: fisnoge, etc.
+
+This is a reply to R. Harris' query of September 25, concerning Yiddish
+_fisno'ge_:
+
+1. The standard Latin-letter transcription of the word is _fisnoge_, with
+initial _f_, not _ v_, and with one _g_.  Even the German cognate of the
+first part of the word is spelled with _F_, not _v_.
+
+2. The Yiddish word does, indeed, consist of near synonyms  in two
+languages 'feet' in Yiddish, 'foot' in Polish. It parallels two similar
+constructions that I'm familiar with:
+
+        a) _baldza'res_, a construction in which the Yiddish word _bald_  is
+joined by its synonym _zaras_ to mean 'soon', 'right away'. This is
+interesting enough but, it doesn't seem sufficient evidence to permit us to
+posit a regular pattern of such formations in Yiddish. I'd be happy to
+learn of other such pleonastic constructions.
+
+        b) _fisri'be_ 'fish' which, taken together with _fisnoge_ reveals the
+mechanism at work--a device born of the need to disambiguate the homonymy
+that results from the merger of _s_ and _sh_ in Litvish Yiddish where [fis]
+or [fis'] represents both 'fish' and 'feet, legs'. _fisnoge_ is, thus,
+unambiguously 'feet', _fisribe_ 'fish'.
+
+3. _fis_ and _fisnoge_ also designate "jellied calves' feet", also known as
+_petsha'(y)_ or _petshe'_ (usually eaten hot), or _kholode'ts_, the cold
+variety. The distribution of the different lexical items will be the
+subject of a map in a future volume of the Yiddish Atlas. A map in Volume
+III (now in press), shows the distribution of the regional preferences for
+the hot and cold varieties.
+
+4. The food in question (German _Kalbssueltze_) , but not the cited
+designations, was also known in the West, where it is generally eaten cold.
+
+Any published reference to this information should be credited to the archives
+of the _Language and Culture Atlas of Ashkenazic Jewry_, housed at Columbia
+University, New York, and published by Max Niemeyer Verlag, Tuebingen. 
+
+Mikhl Herzog
+
+2)----------------------------------------------------
+Date: Tue, 30 Sep 1997 15:12:44 +0200 (MET DST)
+From: Hugh Denman <h_denman@maier.vol.at>
+Subject: fisnoge yet again
+
+Khaver Robboy provides a very nice summary of the state of the discussion so
+far, though one might wonder, whether it is really necessary for us to rehash
+the same topics so frequently. We risk boring our fellow Mendelyaner if we
+don't check the records before returning to subjects previously treated. One
+small amendment to Ron Robboy's remarks: It is not strictly speaking accurate
+so maintain that '[t]he Litvish speaker would characteristically pronounce the
+sounds /s/ and /sh/ in the same way, as /s/'. It is interesting that speakers
+of sabesdiker losn are perceived by Yiddish speakers from other areas not to
+pronounce all unvoiced sibilants as /s/ but to reverse the distribution of
+/sh/ and /s/. This makes it clear that in reality an intermediate sound
+between /sh/ and /s/ is being used, comparable to the Polish sound heard in
+words such as 'siano' or 'sroda' (with acute accent over the s). The IPA
+symbol for this sound is [c] with a small loop bottom right. The collapse of
+two sounds in a language frequently gives rise to the need for so-called
+'disambiguators'. Cf. in Standard American English 'horse-riding' to avoid
+confusion with 'writing', where it is sufficient in British English to say
+'riding' without fear of being misunderstood. Or in so-called Black English:
+'writing pin' to avoid confusion with 'hair pin'. The loss of all (but nasal)
+final consonants in the course of the development of Mandarin Chinese led to a
+comparable need for disambiguators on a truly massive scale.
+
+shone toyve alemen
+Hugh Denman
+
+3)----------------------------------------------------
+Date: Tue, 30 Sep 1997 08:46:19 -0400 (EDT)
+From: manaster@umich.edu
+Subject: language and dialect
+
+A partial dissent from Ellen Prince's recent posting re language and dialect
+[7.067].  I DO agree that it is good linguistics to use these terms (IF AT
+ALL) to mean, respectively, forms of speech where there is no mutual
+comprehensibility and ones where there is, and also that (just like with the
+parallel terms species and variety in biology), there are cases where the
+definition fails. Where I do not agree is this: many people who are perfectly
+good linguists use these terms more in accord with popular usage.  In the case
+of Yiddish, Max Weinreich and Solomon Birnbaum were very emphatic on NOT using
+the term language the way Ellen and I use it, and hence on treating Yiddish as
+a language distinct from German even at the earliest times, i.e., when they
+were (in our terms) AT BEST dialects of one and the same language (which I
+like to call Old or Middle High Gerdish).  And, although they were a bit
+old-fashioned even in their time, I find it hard to refuse to consider these
+two scholars to have been, at least part time, linguists.
+
+A. Manaster Ramer
+
+4)----------------------------------------------------
+Date: Tue, 30 Sep 1997 09:28:14 -0400
+From: Elisheva Schwartz <yivo5@metgate.metro.org>
+Subject: Upside-down Yiddish
+
+While in no way excusing the recent gaffe in the YIVO fundraising letter 
+(which I had nothing to do with, G-t zu danken!) Ron Robboy's suspicion is,
+apparently, correct.  From what our fundraiser (who, by the way, is _FAR_ from
+in charge here!) says, the mailing house YIVO uses doesn't provide "final
+proofs," which would have included the infamous signature. (I'm sure that, in
+the future, whoever prints our mailings WILL provide such proofs!)  At any
+rate, as embarassing (and funny) as it was, it is not an indication of the
+state of Yiddish at YIVO!  (I sure wish I could write upside so well!)
+
+Elisheva Schwartz
+YIVO Institute for Jewish Research, New York, N.Y.
+
+5)----------------------------------------------------
+Date: Tue, 30 Sep 1997 07:32:42 -0700
+From: msafadi@ucla.edu (michaela safadi)
+Subject: a new book for a new year
+
+"Moln Di Amoln" - aza iz der nomen funem nayem bukh fun dem bavustn dikhter,
+Moshe Shkliar, vos iz dershinen in Yisroel (Farlag I.L. Peretz), mit der hilf
+fun Yidishn Cultur Club in Los Angeles.  Dos bukh hot 258 zaytn un onhalt a
+gresere dertseylung in 12 kapitlen a.n. "Aleyn Tsvishn Shotns", vi oykh lider
+geshribene in farsheydene tsaytn.
+
+"Aleyn Tsvishn Shotns" iz a proze-debut funem dikhter Moshe Shkliar, velkher
+hot shoyn aroysgezetst in hebreyish, poylish, daytshish, rusish un english.
+
+Punkt vi zayne lider tseykhnt zikh oys zayn proze mit tifn lirizm, 
+bildlekhkayt un introspektsie, di dertseylung "Aleyn Tsvishn Shotns"  dekt
+oyf a veynik bakant vinkl fun yidishn sekulern lebn in farmilkhomedikn poyln,
+araynfirendik dem leyener in der atmosfer fun der yidisher shul, der batsiung
+tsvishn shiler un lerer un, firendik vayter biz di tragishe iberlebungen in
+varshever getto.  Dos alts iz geshildert in a surreyalistisher form, aynhilt
+in likht un shotn.
+
+Moshe Shkliar iz der redaktor funem literarishn zhurnal "Heshbon" vos vert
+aroysgegebn durkhn Yidishn Cultur Club in Los Angeles un dershaynt shoin
+hekher 50 yor.
+
+Der prayz fun "Moln Di Amoln" iz $15 plus $2 post-optsol in land ($3 in
+oysland) fun dem shrayber: Moshe Shkliar, 469 North Orlando Avenue, Los
+Angeles, CA 90048.
+
+Tsu ale Mendelyaner - a yor fun gezunt, glik un sholem.
+
+Miki Safadi
+
+6)----------------------------------------------------
+Date: Tue, 30 Sep 1997 14:56:12 +0100
+From: David Herskovic <david@arctic1.demon.co.uk>
+Subject: Fisnoge ishor yerokes
+
+This is the second time that the word 'fisnoge' has come up for discussion and
+I am surprised that on neither occasion has anyone mentioned the word
+'galerete', sometimes abbreviated to 'gale', which is also jellied calves legs
+with lots of garlic.
+
+As this food is popular with gerer khsidim, who call it by the above name, I
+assume that it is a Polish dish and that the name is Polish too.
+
+While on the food issue, the UK Jewish cookery writer, Evelyn Rose, discussed
+recently in one of her columns the origin of the word 'chulent'.
+
+She claims it to be a makhloykes between Jewish food historians. Some believe
+it to be a corruption of a medieval French expression 'chauldt lente',
+pronounced 'sho lonte', which translates 'slow heat' and refers to the way
+chulent is cooked. Others however believe the word to be a corruption of
+Yiddish 'shul end' because that's when chulent is eaten.
+
+And then she had a question about another dish.
+
+'The recipe is more or less the same - based on soaked matse or matse meal
+mixed with eggs, raisins and other good things. But how did it become
+Crimselich in Alsace, Gremshelish in Curacao (via Holland), Crimsell in
+Israel, Grimslechs in the oldest Jewish cookbook in the USA (published 1871)
+and chremslach in Britain. Can anyone help?'
+
+I was surprised by the question as the food she is describing has always been
+known to me as 'knaydlekh' while 'khremslekh' always meant fried cooked
+potatoes as opposed to 'latkes' which are fried raw potatoes.
+
+>From the midst of the whiff that this posting is bound to set off may I wish
+all friends here on mendele a ksive vakhasime toyve in a git gebentsht yor.
+
+David Herskovic
+
+7)----------------------------------------------------
+Date: Tue, 30 Sep 97 15:38:29 EDT
+From: peter_slomanson@franklin.com (Peter Slomanson)
+Subject: language and dialect
+
+Re Ellen Prince's posting in [7.067]:
+
+The problem with this view (that linguists do or should take absence of mutual
+intelligibility to be the criterion for determining that two language
+varieties are "languages" as opposed to "dialects") is the fact that the
+intelligibility of some related language variety often varies from speaker to
+speaker _within_ a speech community.  If the intelligibility is individual
+rather than collective, this should throw up a red flag.  The problem for the
+"mutual intelligibility criterion" (for lack of a better term) is how common
+these individual differences are.  The differences may have to do with
+variations in individual (i.e. phonetic) sensitivity, individual language
+attitudes, and other external variables.  This makes the mutual 
+intelligibility criterion fairly problematic in my mind.  A dialect for one
+speaker, and a different language for another? At that point, the distinction
+starts to become pointless.
+
+The morphosyntactic and phonological differences between language varieties
+are unambiguous (i.e. we can identify the rules/principles), whereas mutual
+intelligibility (or lack thereof) is too tied up with cultural/psychological/
+performance phenomena to be useful to linguists.  I agree with Paul Glasser
+that the "language or dialect" question is (or should be) beyond the scope of
+formal linguistic research.  Naturally though, to say that two language
+varieties are "Yiddish" is not to say that they may not differ substantially,
+or that one is a "dialect of" the other.
+
+Peter Slomanson
+______________________________________________________
+End of Mendele Vol. 7.070
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+
+

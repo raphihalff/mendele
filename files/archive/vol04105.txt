@@ -1,0 +1,210 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.105
+September 13, 1994
+
+1) Introduction (Bob and Molly Freedman)
+2) Introduction (Celia Jones)
+3) Introduction and klal Yiddish (Lisa Duhl)
+4) Oyneg Yiddish Workshop Not This Year (Bess Shockett)
+5) Romanized Yiddish (Charles Jones)
+6) Business (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Sun, 11 Sep 1994 21:39:38 EST
+From: rfreedman@shrsys.hslc.org
+Subject: Introduction
+
+We are Bob and Molly Freedman. Bob is a senior partner in a Philadelphia
+law firm and Molly is the office manager and salesperson in a center city
+real estate brokerage firm owned by their son.
+
+In our spare time we have assembled, currently maintain and constantly
+add to a Judaic audio library which is now approximately 1700 LP's,
+cassettes and CDs. Approximately 60% of the collection are recordings of
+"Yiddish Music" or recitations and most of the remainder is Hebrew. We
+are interested primarily in Yiddish recordings.
+
+The collection has been catalogued and information dealing with each
+album "cut" can be retrieved by title, author, composer, performer, first
+line or subject matter. The database also will identify publications in
+which original text, translation, transliteration and melody line of the
+recorded song or poem can be located. The database is multilingual. Infor
+Information is entered in English, Yiddish, Hebrew and transliteration.
+
+Bob is also interested in incorporating Yiddish into the computer and is
+able toenter, display and print hard copy of Yiddish, Hebrew and English
+in almost any DOS program. We use WordPerfect 60.a and Dbase 4.15.
+
+We also have several thousand 78RPM recordings but these have not been
+archived.They will have to wait for our retirement or a young ambitious
+musicologist.
+
+Mir vuntshn undzer mendele khavarim a zis un gezunt yor in a velt fun
+sholem.
+
+Bob and Molly Freedman
+
+2)----------------------------------------------------
+Date: Tue, 13 Sep 1994 20:33:26 +1000 (EST)
+From: celiaj@melbourne.DIALix.oz.au
+Subject: Introduction
+
+It took about five tries to join this list as I'm fairly new to internet
+and get confused with all the different addresses and commands.
+
+I'm a 47 year old teacher librarian  who has been living in Australia for
+the past 22 years.  Originally, I was born in Brooklyn, NY and lived in
+California before I immigrated to Australia. I am married to a wonderful
+man of Welsh descent and have a 20 year old daughter Erica, two grown
+stepchildren and two step grandsons.
+
+You can't tell by my Anglo-Saxon surname, but I am Jewish, though I am
+not a practicing Jew. My parents spoke Yiddush at home, and I can
+understand spoken Yiddush even though I can't really speak it myself.
+
+I have read all of Isaac B. Singer's books, stories by Sholom Alechem and
+enjoyed other books by Yiddush writers, and I joined this group because I
+want to get in touch again with my Yiddushkeit.
+
+Hope to get to know some of you soon.
+
+Celia Jones
+
+3)----------------------------------------------------
+Date: Mon, 12 Sep 1994 20:25:40 -0700 (PDT)
+From: len-duhl@violet.berkeley.edu
+Subject: Introduction and klal Yiddish
+
+I have been lurking in the Mendele shadows for awhile, reading my morning
+Mendele news, feeling the joys of knowing there is a community of folks
+who love Yiddish and are keeping it alive and lively.  I am working on a
+dissertation in clinical psychology on the Yiddish lullabies which were
+written during the Holocaust. (A labor of love.  Fortunately there are
+enlightened advisors who see that this is a worthy task even for a
+psychology student.)  I have found much in Mendele to help me in this.
+
+Regarding Zellig Bach's invitation to comment on his 9/8 posting on
+making efforts to use standard Romanization:  What I know of Yiddish is
+mostly self taught and for a beginning Yiddishist, it is very helpful
+when the Romanization corresponds to the actual Yiddish spelling of
+words.  This enables beginners like me to look up words and have an
+inking about how to pronounce them more or less understandably.  The YIVO
+rules for transliteration are remarkably straightforward and consistent
+(especially compared to English spelling).
+
+I can see though, that for people who come by their Yiddish from having
+heard it spoken, naturally in other words, and never had the opportunity
+to learn to write it or read it, Romanization could present a challenge.
+Having some reasonable rules to follow like YIVO's might be quite useful.
+It would also enable Mendelniks with a dialectological bent to discover
+where y'all are coming from (s'cuse pun) since it would be clear what
+sounds were being represented by your ey's, ay's, oy's, etc. (as opposed
+to various ejs, eis, ie's, ea's, ai's, aj's, oi's, oj's, etc.)
+
+A gut yor, a zis yor, un a sheynem dank an alemen.
+
+Lisa Duhl
+
+4)----------------------------------------------------
+Date: Sun, 11 Sep 94 21:45:52 EDT
+From: Zellig@aol.com
+Subject: Oyneg Yiddish Workshop Not This Year
+
+I am posting here_with permission_ a letter I rec'd from the coordinator
+of the Toronto Yiddish conference.
+
+Zelig B"k
+
+Dear Dr. Bach:
+
+With reference to your "Oyneg Yiddish Proposal" (4.092)   regarding a
+_unified_name for all Yiddish Clubs and your suggestion of a workshop
+about it during this year's Second International Conference of Yiddish
+Clubs, I regret to say that our workshops have already been organized and
+there is no room for one more workshop on this year's agenda.
+
+My suggestion:  It be raised at the next Conference which, I hope, will
+take place in 1996.
+
+Mit frayntshaft,
+
+Bess Shockett,  Conference Coordinator
+
+5)----------------------------------------------------
+Date: Mon, 12 Sep 1994 10:22:23 -0400 (EDT)
+From: jones@widener1.mhs.harvard.edu
+Subject: Romanized Yiddish
+
+As a librarian, I'm used to thinking of the romanization tables of the
+Library of Congress as the standard.  At Harvard, because we now use the
+Library of Congress system of cataloguing, our Judaica Dept. romanizes
+all Yiddish names and titles for our on-line catalogue according to the
+LC table for Hebrew and Yiddish.  As far as I know, most major American
+university libraries do likewise.  This means that, for example, we spell
+"mekhaber" (Weinreich) as "mehaber" with a subdot under the "h". Although
+I don't want to get into an argument about the relative merits of
+Weinreich vs. LC, it does seem to me that the usage of major American
+libraries must at least count as a standard.
+
+Would someone therefore please tell me where this other standard comes
+from?  Is there an official YIVO pronouncement on the question or is it
+just a matter of custom?  Does Weinreich follow it exactly or does he
+depart from it at some points?
+
+Charles Jones
+
+6)----------------------------------------------------
+Date: Tue, 13 Sep 1994 15:58
+From: nmiller@mail.trincoll.edu
+Subject: A piece of business
+
+Someone wrote yesterday for help in changing his address.  Unfortunately
+my reply went astray and the original is lost.  So is my memory.  This
+will have to do.  It may be useful to others as well.  It will certainly
+help your shames whose mailbox fills up with bounced mail to dead
+addresses.
+
+If you know that an address change is imminent, _please_ unsubscribe
+_before_ the change.  The incantation is simply:
+
+unsub mendele
+
+and is sent to:
+
+listserv@yalevm.ycc.yale.edu
+
+After the change, please send to the same address:
+
+sub mendele first_name last_name
+
+A sheynem dank aykh.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.105
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

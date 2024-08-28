@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.196
+January 12, 1997
+
+1) Jewish English or "Hebonics" (Harry Wittenberg)
+2) Kheshbn/khezhbm (Joachim Neugroschel)
+3) Yidishe duetn (Andrey Bredshteyn)
+
+1)----------------------------------------------------
+Date: Fri, 10 Jan 97  00:30 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Jewish English or "Hebonics"
+
+The Encino School Board has declared Jewish English a second language.
+Backers of the move say the district is the first in the nation to
+recognize Hebonics as the language of many of America's Jews.  Here
+are some descriptions of the characteristics of the language, and
+samples of phrases in standard English and Jewish English.  Samples of
+Pronunciation Characteristics Jewish English or "Hebonics" hardens
+consonants at the ends of words.  Thus, "hand" becomes "handt."  The
+letter "W" is always pronounced as if it were a "V". Thus "walking"
+becomes "valking".  "R" sounds are transformed to a guttural utterance
+that is virtually impossible to spell in English.  It's "ghraining"
+"algheady".
+
+Samples of Idiomatic Characteristics Questions are always answered
+with questions:
+
+   Question:          "How do you feel?"
+   Hebonics response: "How should I feel?"
+
+The subject is often placed at the end of a sentence after a pronoun
+has been used at the beginning:
+
+  "She dances beautifully, that girl."
+
+The sarcastic repetition of words by adding "sh" to the front is used
+for emphasis: "mountains" becomes "shmountains" and "turtle" becomes
+"shmurtle"
+
+Sample Usage Comparisons
+
+Standard English Phrase                 Hebonics Phrase
+        ----------------------------------------------
+"He walks slow"                         "Like a fly in the ointment, he
+walks"
+"You're sexy"                           "Oy!  So shmaltzie, this girl is
+here.
+                                         Let me look at you."
+"Sorry, I do not know the time"         "What do I look like, a clock?"
+"I hope things turn out for the best"   "You should BE so lucky"
+"Anything can happen"                   "It's never so bad, it can't get
+                                         worse"
+
+Harry Wittenberg
+
+2)----------------------------------------------------
+Date: Thu, 9 Jan 1997 22:43:57 -0500 (EST)
+From: achim1@cris.com
+Subject: Kheshbn/khezhbm
+
+Those who might be interested in a more thorough treatment of the
+pronunciation of nun after a bilabial ("b" or "p") as in "lebm", "zibm"
+(and of course "khezhbm") might want to consult Mordkhe Shekhter's
+excellent intermediary textbook "Yidish Tsvey".  The author likewise
+points out other phonetic features not captured in Yiddish spelling: for
+instance, unvoicings in front of unvoiced consonants like "ret-takt"
+(=stress group) as opposed to "red-loshn" (spoken language). the
+standard Yiddish word for "noun" is spelled "suBstantiv" but pronounced
+"suPstantiv".  The "s" vanishes before a "sh": "oys-shepn" is pronounced
+"oy-shepn, etc.
+
+I've been defending Weinreich's excellent books, and I think that
+Shekhter's grammar does a fabulous job of picking up where Weinreich
+left off.
+
+Joachim Neugroschel
+
+3)----------------------------------------------------
+Date: Sat, 11 Jan 1997 23:56:39 +0300
+From: anbredstein@glas.apc.org
+Subject: Yidishe duetn
+
+Lize Tomlinson zukht [6.189] yidishe "duetn". Ikh gedenk a lid fun mayn
+zeydn z"l nokh. Er shtamt fun Nikolayev (Ukraine) un derfar gib ikh do
+di ershte strofes davke af zayn steyger:
+
+"- Vus dergeysti mir di yurn, mayne yurn, yinge yurn?
+Zug, vus bisti tsigeshtanen haynt tsi mir?
+Oy, ven ikh volt geven frier visn,
+Az mayn mome vet nit veln dir far a shnir,
+Volt ikh di lipn mit di tseyn farbisn, oy vey,
+In keyn libe keynmul nit gefirt mit dir!
+
+- Tsi dayn momen hob ikh gurnisht, hob ikh gurnisht, hob ikh gurnisht,
+Vayl dayn mome iz nit shildik in deym.
+Nor zitsn zol zi ba fremde tishn,
+In keyner zol zikh nit imkikn of ir,
+Vayl tsi keyn libe tor men zikh nit mishn, oy vey,
+Oy, vus hot zi gehat tsi mir?"
+
+Oyb dos iz interesant, meg ikh aroysshikn di iberike strofes - shraybt mir
+vegn dem. Un s'iz faran nokh a por lider vos ikh ken nisht af oysnveynik
+nor ikh volt gekont di verter oysgefinen: a lid fun a porfolk - "Bam glezl
+tey" iz der titl, dakht zikh:
+
+	- Berele, mayn manele, hob tsu dir a bakoshe...
+	- Perele, mayn vaybele, vos far a bakoshe?
+	- Imirtseshem, az ikh vel hobn, a yingele in freydn,
+	Vel ikh im a nomen gebn nokh mayn frumen zeydn!...
+
+un a lid vegn a farlibtn bokher:
+
+        - A gut shabes, Feyge-Sosye, vos zitst ir azoy "osobeno"?
+	- A gut yor, Dovid-Yosye, s'iz mir azoy "udobeno"...
+
+Andrey Bredshteyn
+Moskve (Rusland)
+
+______________________________________________________
+End of Mendele Vol. 6.196
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

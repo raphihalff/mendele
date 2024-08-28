@@ -1,0 +1,202 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.224
+January 19, 1996
+
+1) Needed: biographical information (Iosif Vaisman)
+2) Needed: biographical information (Roberta Saltzman)
+3) Skatine (Steve Jacobson)
+4) Judeo-Alsatian and Alsatian-Yiddish (Dan Leeson)
+5) Polish-Yiddish translation (P. Bruno Dorman)
+6) Is Yiddish dying? (Abe Bloom)
+7) Is Yiddish dying? (Arnie Herschorn)
+
+1)----------------------------------------------------
+Date: Thu, 18 Jan 1996 15:19:12 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Needed: biographical information
+
+For Perl Teitelbaum:
+
+Aliza Greenblatt, 1888-1975
+
+[Ben Yomen] hot aroysgebn drai bikher:
+Yomen, Ben. Lider far shul un heym. Philadelphia: Itshe V. Biderman, 1946
+Yomen, Ben. Roberto, the Mexican boy. Chicago: Whitman, 1947
+Yomen, Ben. Oneg Shabat lider. Miami Beach, Fla.: B. Yomen, 1962
+
+Leon Wajner, 1898-1979
+
+Iosif Vaisman
+
+2)----------------------------------------------------
+Date: Thu Jan 18 21:48:02 GMT 1996
+From: rsaltzma@nyplgate.nypl.org
+Subject: Needed: biographical information
+
+In Mendele 5.221, Perl Teitelbaum asked for biographical information about 4
+Yiddish songwriters. I've found the death dates for two of them:
+
+Aliza Greenblatt died in Brooklyn on September 21, 1975;
+Elkhonen Indelman died in New York on April 21, 1983.
+
+(This information comes from the Leksikon fun Yidish-shraybers, 1986).
+
+Roberta Saltzman
+New York, NY
+
+3)----------------------------------------------------
+Date: Thu, 18 Jan 1996 11:13:57 -0900 (AKST)
+From: ffsaj@aurora.alaska.edu
+Subject: the meaning of "skatine"
+
+Does anyone reading this know the meaning of the (Yiddish) word "skatine"? I
+encountered it in a story by Sholem Aleichem, and I have looked everywhere for
+it, but couldn't find it anywhere (Yiddish, Russian, Ukranian dictionaries and
+the "Oyster").
+
+Steve Jacobson
+
+4)----------------------------------------------------
+Date: Thu, 18 Jan 1996 15:36:44 EST
+From: leeson@aspen.fhda.edu
+Subject: Judeo-Alsatian and Alsatian-Yiddish
+
+I'm so confused.  I feel guilty (not because I'm confused but because guilt is
+a natural state of my being).
+
+Rick Gildmeister [5.220] has commented on what he refers to as Alsatian
+Yiddish.  Just a few weeks ago, I posted on what I referred to as Judeo
+Alsatian.  I was thinking of the rather unique language called "Alsatian"
+written in Hebrew characters.  It is not at all clear to me if Rick's
+reference is the the same thing about which I was speaking but using a
+different name, or yet another specialized language used by Alsatian Jews.
+
+So far I have commented that, while in Alsace last summer, I spoke Yiddish to
+people with no communication problems whatsoever.
+
+I also mentioned that a local dialect used in the countryside left me out in
+left field whenever it was spoken, and my inquiries about what that language
+was were given the response "Alsatian."   I could not understand a single word
+of it.  But it was the lingua franca for all commercial affairs in the
+villages I visited and some Jews wrote in that language using the Hebrew
+alphabet.
+
+Rick, tell me a little more about this thing you call Alsatian Yiddish.  Is it
+Yiddish with Alsatian words in it, or is it a completely different dialect
+with which a Yiddish speaker cannot normally communicate.
+
+More and more I find that whenever someone wants to describe a language used
+by Jews, they give it a title XXX-Yiddish.  I got a call from Norm who
+described a special Judeo-Chinese and I wonder if this could also be called
+Chinese Yiddish though it has absolutely no relationship to Yiddish
+whatsoever.  And this is further complicated by the fact that certain
+hypenations have a very clear meaning; i.e., Lithuanian-Yiddish,
+Polish-Yiddish, etc.
+
+But what is Alsatian-Yiddish?  I am going to lie down now.  My head hurts.  I
+think I can speak a language that I don't even know anything about.
+
+If I wander into Arizona and go on the Navaho reservation and teach them some
+Yiddish, would that become Navaho-Yiddish?  Or if I wrote on Jewish topics in
+the Navaho language, would that become Judeo-Navaho?
+
+I need a standard, desperately.  I also need a cold compress and a good recipe
+for salte noces (which are Lithuanian cheese kreplach)!
+
+If this entire note sounds incomprehensible, it is because it has been written
+in Judeo-Californian (sometimes called Mohave-Yiddish).
+
+Dan Leeson
+Los Altos, California
+
+5)----------------------------------------------------
+Date: Fri, 19 Jan 96 10:07:09 CET
+From: dorman@plearn.edu.pl
+Subject: Polish-Yiddish translation
+
+Shalom,
+
+I have question - I want to translate some poems to Yiddish, but... from
+Polish language. And is someone who would like to translate this? and who
+knows Polish language of course ?
+
+Thank you.
+
+P. Bruno Dorman
+
+6)----------------------------------------------------
+Date: Thu, 18 Jan 1996 22:48:38 +0500
+From: abloom@n1.globalvision.net
+Subject: Yiddish lebt
+
+My father worked for the Forvertz for many years up till the time he died in
+1954.
+
+We were told that the usual comment was that for each obituary printed, that
+was one less reader.  It seems that crying over the death of Yiddish goes a
+long way back.  Mendele is great for refreshing memories and restoring the
+shmaltz we all need to keep in touch.
+
+abe bloom
+
+7)----------------------------------------------------
+Date: Fri, 19 Jan 1996 10:06:57 -0500
+From: henryc@perceptix.com
+Subject: Is Yiddish dying?
+
+Some conceptual precision is in order.
+
+1. Yiddish is a language.
+
+2. "The grammar of the language determines the properties of each of the
+sentences of the language...The language is the set of sentences that are
+described by the grammar": Noam Chomsky Rules and Representations, p. 220.
+
+3. A language, thus conceived, is an abstract object.
+
+4. Abstract objects can never die.
+
+5. Therefore, Yiddish can never die. (The good news).
+
+6. A person's language should be defined in terms of the grammar for the
+language represented in the person's mind: Rules and Representations, p. 120.
+
+7. The smaller the number of persons who have the grammar for the
+language represented in their minds, ie. the smaller the number of persons who
+are fluent in the language, the more the language tends to be considered a
+dead language.
+
+8. An unnatural catastrophe earlier in this century resulted in there being
+vastly fewer persons fluent in Yiddish, compared to the number of persons who
+would otherwise be expected to be fluent in Yiddish today. (The really bad
+news).
+
+9. We tend to consider a language "dead" when the number of users of the
+language is much smaller than it used to be at some earlier point in time.
+
+10. For example, the number of Churchmen who are fluent in Latin today
+is relatively small compared to, say, the number of persons in the Roman
+Empire who used to be fluent in Latin. So Latin is considered a dead
+language.
+
+11. The number of Chassidim, Mendelyaners, survivors, takers of Yiddish
+courses and those with a nostalgia for the past who are fluent in Yiddish
+today is relatively small compared to the number of persons who were fluent in
+Yiddish prior to the earlier-mentioned catastrophe.
+
+12. Therefore, Yiddish too may be considered a dead language. (The bad news).
+
+13. I suspect that many people who are proud of their fluency in Yiddish today
+would not be quite so proud if Yiddish were not a dead language.
+
+14. "One swallow does not a summer make": Aristotle. Pockets of Yiddish
+resistance do not make an army.
+
+Arnie Herschorn
+Toronto
+
+______________________________________________________
+End of Mendele Vol. 5.224
+

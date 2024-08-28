@@ -1,0 +1,134 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 7.002
+May 15, 1997
+
+1) Kemp Hemshekh (Perl Teitelbaum)
+2) English transcription of Yiddish words (Sholem Berger)
+3) Lipography (Estelle Souche)
+4) Kezayes (Leonard Prager)
+
+1)----------------------------------------------------
+Date: 14 May 97 21:40:04 EDT
+From: 74031.775@compuserve.com
+Subject: Kemp Hemshekh
+
+Elye Palevsky shraybt [6.302]:
+
+   interestant volt geven tsu visn vifl mendelyaner es hobn gehat epes
+   a shtikl shaykhes mit "hemshekh"
+
+Ikh bin zikher, az er gedenkt mikh. Ikh bin geven an oyfpaser in
+"hemshekh" fun 1971 biz 1973, un teyl fun di mentshn mit velkhe ikh
+hob zikh dortn bakent zaynen mir nokh haynt noente fraynd. Ikh bin
+demolt geven a "grine" in Amerike, nor fir yor. "Hemshekh" iz far mir
+geven eyn ort in Amerike, vu ikh hob zikh gefilt in der heym, khotsh
+in der heym - in Poyln - hob ikh zikh keynmol nisht gefunen in a svive
+fun yugntlekhe, vos hobn gehat aza pozitive batsiyung tsu yidish vi in
+kemp "hemshekh".
+
+Perl Teitelbaum
+Queens, New York
+
+2)----------------------------------------------------
+Date: Thu, 15 May 1997 01:52:16 +0000
+From: bergez01@mchip00.med.nyu.edu
+Subject: English transcription of Yiddish words
+
+Sheker hasus litshue: If everyone's beating a dead horse I might as
+well.
+
+I hesitate to take issue with Zellig Bach, but it's incorrect to find
+fault with the Forward's transcription of Yiddishisms that have
+entered English.  Foreign words get Anglicized when they get devoured
+by English; that's the way it has been, is, and will always be, from
+"desperado" to "chaise-longue" (pronounced "chaise-lounge" by most
+English speakers), from "kangaroo" (however that might have been
+pronounced in the first place) to "borscht."  Languages that get it
+the worst are those which are written in non-Roman character systems,
+including Yiddish and Hebrew. (And, of course, not just those: one can
+still get into fights in certain academic circles for advocating the
+"wrong" system of Chinese romanization.)  If every writer who
+"mistransliterated" a Hebrew or Yiddish word were laid open to the
+charge of insensitivity with regard to the source language, who would
+be left standing?  "Chanukah," "Hanukkah," or "Hanuka"?  "Pesach,"
+"Pesakh," or "Peysekh"?  It's hard enough writing a good sentence
+without worrying about the provenance of every other word.
+
+So it's no surprise that (to take one example) the American Heritage
+Dictionary, third edition, my current favorite among dictionaries for
+its faithful representation of current usage, gives non-Yivo, indeed,
+positively anti-Yivo spellings for Yinglish words: "schmooze,"
+"mensch," etc.  This is not indicative of any lack of rigor on their
+part--the included etymologies, when they bother to list the Yiddish
+source words, transliterate them "correctly," i.e. according to Yivo.
+Rather, it's merely a reflection of the way a word's spelling gets
+refracted on its trajectory through many different languages.  And
+this is perfectly okay: no one should be expected to translate
+Yinglishisms a la Yivo  for the simple reason that they're no longer
+Yiddish words.  (Leonard Prager made this abundantly clear in the case
+of "mentsh"-->"mensch.")
+
+So, no--if we're conducting a Grand Inquisition of (or laying a kherem
+on) the English Forward there are much better reasons, to which
+transliteration is merely ancillary: the flippant and often ignorant
+treatment of the language _in general_ in such rump columns as
+"Yiddish VInkl" and "Philologos," and indeed in the whole newspaper,
+and a lack of respect for the facts with regard to such small
+historical matters as pre-World War II Eastern Europe.
+
+Transliteration of Yinglishisms has really nothing to do with one's
+respect for the language one way or the other.  It's an
+intelligibility issue to the non-Yiddish speaker: If I spelled
+"schmooze" "shmues," would anyone really know what I meant?  "I
+shmuessed with her" looks almost obscene...
+
+Sholem Berger
+New York
+
+3)----------------------------------------------------
+Date: Thu, 15 May 1997 11:40:00 +0200 (MET DST)
+From: esouche@ens.ens-lyon.fr
+Subject: Lipography
+
+Vegn Andrey Bredsteins entfer (6.302-4):
+
+Actually I was asking about lipograms which are made on purpose, for
+literary reasons, and not about abbreviations or alternative
+spellings. For example, Perec's "La disparition" (translated into
+English as "A void", with no "e" too) is a long novel which includes
+no "e"s, and all the novel deals with "disappearances", so that the
+stylistic constraint is a kind of reflection of the book's subject.
+Sometimes lipograms just are amusing games (cf. "Dying or not dying"
+in "A void", which is a "lipogrammatic translation" of a famous text
+by William S. ...), sometimes they are more interesting. I remember of
+reading a text of Perec about the history of lipograms, including
+examples in several languages, but I don't think it included any
+example with non-Latin alphabets.
+
+Estelle Souche
+
+4)----------------------------------------------------
+Date: Thu, 15 May 97 17:48:23 IST
+From: rhle302@uvm.haifa.ac.il
+Subject: Kezayes
+
+In my recent dissertation on the logistics of khreyn distribution in
+Spain [6.296] I inadvertently spelled _kezayes_ as _kezis_, i. e. I
+wrote "I" for "aye".  Hugh Denman's sharp eye caught this.  I wish
+also to thank Mikhl Herzog [6.303] for catching _HaRov_, which of
+course should be _HoRav_. Ha rov (the majority) are indeed always
+making transcription errors and we need to keep learning Yiddish so
+that mistakes will be as few as possible.  We owe this especially to
+newcomers to _Mendele_ and _The Mendele Review_ and, hopefully, to
+posterity.
+
+PS Happy Birthday to _Mendele_!!
+
+Leonard Prager
+Haifa
+
+______________________________________________________
+End of Mendele Vol. 7.002
+

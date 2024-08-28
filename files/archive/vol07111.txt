@@ -1,0 +1,248 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.111
+November 30, 1997
+
+1) Lullaby for Jacob Feldman (Susan Lerner) (Sam Gunclers)
+2) shpatsiren (Felix Baerlocher)
+3) orthography for transliterated yiddish (Milton Rosenberg)
+4) Hebrew-Aramaic words in Yiddish (Mikhl Herzog)
+5) Warshawsky on davenen (A. Manaster Ramer)
+6) shpatsirn (Hugh Denman)
+7) yiddish film book (Ross Bradshaw)
+8) The Forward and Transliteration Schizophrenia (Marjorie Schonhaut Hirshan)
+9) shpatsirn (Robert Shapiro)
+
+1)----------------------------------------------------
+Date: Fri, 28 Nov 1997 01:04:06 -0600 (CST)
+From: Meydele@ix.netcom.com
+Subject: Lullaby for Jacob Feldman
+
+I believe the lullaby that Jacob Feldman is looking for is probably "amol iz
+geven a mayse".  I have been told that it is one of the oldest Yiddish
+folksongs known.  It can be found in Ruth Rubin's A Treasury of Jewish
+Folksong as well as in the Mlotek's mir trogn a gezang.  The version I learned
+begins: 
+
+Amol iz geven a mayse.  
+Di mayse iz gortnisht freylech.  
+Di mayse on geyhobt 
+Mit a yidishn meylekh.
+
+Chorus:
+Lyulinke may feygele,
+Lyulinke mayn kind.
+Kh'ob ongevoyrn aza libe.
+Vey iz mir un vind.
+
+Susan Lerner
+
+[Similar note was sent by Sam Gunclers. --shames]
+
+2)----------------------------------------------------
+Date: Fri, 28 Nov 1997 12:20:10 -0400 (AST)
+From: Felix Baerlocher <FBAERLOCHER@mta.ca>
+Subject: shpatsiren
+
+I think this is obviously related to the German spazieren, which has been in
+use for over 600 years (Middle High German). It is derived from the Italian
+spaziare (to spatially expand, aimlessly walk), which in turn is derived from
+the Latin spatiari. The common root is the Latin spatium (space). 
+
+I have another question: is anybody familiar with the term "opikuress" (or
+similar, I have never seen it written). I vaguely remember a story where the
+term was applied to a Jew, who is very knowledgable about all rules and
+commandments, but deliberately applies them in the wrong way. This was
+contrasted to another Jew who ignores the rules out of ignorance. 
+
+Felix Baerlocher
+
+3)----------------------------------------------------
+Date: Fri, 28 Nov 1997 17:12:57 -0600
+From: MRosenberg@tribune.com
+Subject: orthography for transliterated yiddish
+     
+I am a new member of this list--and my yiddish is rusty, though once it was
+fluent und is geven mein mamaloshen.
+     
+What system of transliteration into the western alphabet is used here. I
+gather it originates with, or was oublished by, YIVO. 
+     
+Can it be found on the internet and, if so, where?
+     
+A shaynem dank.
+
+Milton Rosenberg
+     
+4)----------------------------------------------------
+Date: Fri, 28 Nov 1997 18:42:59 -0500
+From: "mikhl herzog" <mherzog@bestweb.net>
+Subject: Hebrew-Aramaic words in Yiddish
+
+Excoriating Manaster Ramer for his views on the possible origin of
+_dav(e)nen_, Beni Warshawski writes:
+
+"The Hebrew-Aramaic words are the core words in Yiddish because they
+articulate Jewish religious concerns which are not expressed using words from
+the dominant environment.  These words express the continuous core of Jewish
+religious life and are not simply expressions which are swapped in and out
+based on location or fashion." 
+
+Hebrew-Aramaic words like _got_, _bentshn_, _leyenen_, _praven_, _treybern_,
+right? 
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Fri, 28 Nov 1997 19:42:46 -0500 (EST)
+From: manaster@umich.edu
+Subject: Warshawsky on davenen
+
+I will leave it to those who know Aramaic better than I do to establish which
+forms existed in Aramaic and which ones did not.  But I would like to point
+out that Mr. Warshawsky completely failed to address any of the points I made
+in the form of challenges for his and his informants.  Thus, I must conclude
+that he is conceding that IN GENERAL informants who are not linguists canNOT
+come up with correct etymologies--my main point.  Likewise, he has not
+responded to my subsidiary point that, while Yiddish has many verbs based on
+Hebrew words, it does not have very many based on Aramaic and in particular
+not on Aramaic phrases beginning with the preposition d-. 
+
+Mr. Warshawsky now raises two new points, on which he again simply issues ex
+cathedra pronouncements instead of citing evidence.  One is that we do not
+care what forms actually exist in Aramaic.  I simply cannot begin to imagine
+what he means by this.  But supposing it is the correct approach, why I can we
+not make anything we want?  If it does not matter wheter avanan or avinan
+really existed in Aramaic, then why can we not decide that the English word
+'father' comes from Chinese or that Aramaic words come from Yiddish, or
+whatever else we want. In that case there is no need to do etymology at all. 
+If he can make up non-existent Aramaic forms, so can anybody else, and so I
+could claim that daven- itself is Aramaic, and thus "solve" the problem.  This
+is just an illogical position to take. 
+
+  The second point is that he does not accept my statement that in Eastern
+Yiddish we find Romance and Germanic words being replaced by Slavic or Hebrew
+ones.  To argue that this is inconsistent with a preconceived scheme of jewish
+history is besides the point; it merely shows that the preconceived scheme has
+no basis for it.  The idea that Hebrew forms some kind of basic core of
+Yiddish has been dead for a century.  Scholars such as Weinreich and others
+demonstrated that--CONTRARY TO WHAT LATE 20TH CENTURY COMMON SENSE WOULD
+INDICATE--the history of Ashkenazic Jews, as reflected in language, is quite
+otherwise.  It is instructive for example to read Yiddish texts from the 16th
+century to the present.  You will see that the percentage of Hebrew-derived
+vocabulary was much lower in the 16th century literary texts than in 20th
+century ones.  This perhaps clearest when we look at Hebrew-origin verbs like
+ganv(en)en, pask(en)en, and so on.  They certainly occur much more frequently
+in later texts than in earlier ones.  The 16th (or is 17th, I forget) century
+text Kaiser Octaviano has one just one occurrence of one such verb, namely,
+ganven, for example. 
+
+As for specific instances of the replacement of Romance by Hebrew elements,
+the terms of betrothal, engagement are an obvious example.  The verb
+antshpoyzn is no longer used in modern Yd (except in the archaic language of
+Bible translation) and the related noun shpousering 'engagement ring' is only
+attested I believe in Dutch Yiddish.  Instead of the Romance stem
+shpous/shpoyz-, modern Yiddish uses the Hebrew stem knas-.  Likewise, for
+'defiance', the Romance term stirdes is acc. to Weinreich unknown to many Yd
+speakers today.  But, acc. to Uriel Weinreich's dictionary, we also have the
+Hebrew-origin tselokhes, which is universally known. 
+
+It is currently controversial whether the Jews who created Yiddish originally
+spoke Judeo-French (Weinreich, Birnbaum, Bin-Nun), Judeo-Slavic (Wexler),
+Judeo-Aramaic (Katz), or maybe Judeo-Italian, but it seems clear that they did
+not speak Hebrew as their vernacular, and many Hebrew elements in modern
+Yiddish clearly are of relatively recent date.  This does not mean that I am
+right to suggests that davenen is derived from Hebrew and that it replace the
+Romance-origin word orn, but at least that scenario is consistent with the
+bigger picture.  A derivation from a non-existent Aramaic phrase beginning
+with d- is unparalleled and so it does not.  And I hope Mr. Warshawsky is not
+going to now argue that etymology should be done atomistically, on each word
+separately, ignoring the whole history of the language. 
+
+A. Manaster Ramer
+
+6)----------------------------------------------------
+Date: Sat, 29 Nov 1997 02:02:22 +0000
+From: Hugh Denman <uclhhfd@ucl.ac.uk>
+Subject: shpatsirn
+
+with reference to Avraham Chasid's enquiry [07.109:9] concerning the etymology
+of 'shpatsirn', I think we can say with considerable confidence that the word
+is directly derived from MHG 'spazieren'. True, in many comparable instances
+we encounter Polish or other Slav languages in an intermediary role [cf.
+'rateven' < Pol. 'ratowac' < MHG 'retten'] and in Polish there is indeed a
+verb 'spacerowac', but the formant suffix '-irn' makes it clear that in this
+case MHG is the immediate source. The MHG form was borrowed around the 13th
+century from Italian 'spaziare/ spaziarsi' which in turn comes from Late Latin
+'spatiari' (all in the same sense as the Yiddish word), a derivative of Lat.
+'spatium' = 'space'. 
+
+Hugh Denman
+London
+
+7)----------------------------------------------------
+Date: Sat, 29 Nov 1997 09:52:33 GMT0BST
+From: "MYRA WOOLFSON" <brzmw@brn1.reg.nottingham.ac.uk>
+Subject: yiddish film book
+
+Five Leaves Publications - a small press is the UK - is to publish a new book
+on aspects of Yiddish film, edited by Sylvia Paskin. The book will be aimed at
+both a film studies audience and a Jewish/Yiddish interest audience. We plan
+to publish in 1998, in English. Contributions already in hand include essays
+on Mollie Picon, Joseph Green, the Yiddish documentaries, an overview of
+Yiddish film within Jewish film, Yiddish film within Yiddish culture and more.
+A nominal fee will be paid to writers whose work is used. The book will be an
+illustrated paperback of roughly 240 pages. 
+
+We are still seeking submissions... Please send ideas, abstracts and
+submissions to Five Leaves Publications, PO Box 81, Nottingham NG5 4ER, UK. 
+
+Thank you very much, zait gezunt. 
+Ross Bradshaw.
+
+8)----------------------------------------------------
+Date: Sat, 29 Nov 1997 09:42:25 -0500 (EST)
+From: SHirshan@aol.com
+Subject: The Forward and Transliteration Schizophrenia 
+
+I guess we've enjoyed our _zibn gute khodoshim_ as regards the YIVO accepted
+spelling of the word MENTSH (since last May) in the Forward Classifieds. 
+Someone has "corrected" it back to _mensch_, and just when the Forverts
+strides into the land of YIVO standardization. 
+
+Isn't this an Abbot andf Costello routine in the making? _Spell it mensch.
+No, that was on first.....
+
+Oyb men lakht nisht, ken men nemen veynen...
+
+Marjorie Schonhaut Hirshan
+Boynton Beach, Florida.
+
+9)----------------------------------------------------
+Date: Sat, 29 Nov 1997 20:34:23 -0500 (EST)
+From: Lodzher@aol.com
+Subject: shpatsirn 
+
+The etymology of shpatsirn probably goes back to the Latin specere, to look,
+and so is related to the words spectacle and speculate. Thus the nuance in
+shpatsirn is not so much the walking as the looking about as one tours the
+neighborhood.
+
+Robert Shapiro
+______________________________________________________
+End of Mendele Vol. 07.111
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+
+
+
+
+

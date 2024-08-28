@@ -1,0 +1,172 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.119
+October 2, 1994
+
+1) Introduction (Motl Aronson)
+2) The Rabinershe's Husband (Moyshe-Zekharye Beker)
+3) Az der bubbe vot gehat.. (Bob Poe)
+4) Az der bubbe vot gehat.. (Howard Kaplan)
+5) Workshop on Yiddish in the computer age (Yosl Berman)
+
+1)----------------------------------------------------
+Date: Sat, 1 Oct 1994 23:03:52 -0400 (EDT)
+From: marnor@minerva.cis.yale.edu
+Subject: Introduction
+
+I am a third generation American, whos parents left the Jewish ghetto of
+Boston for the suburbs of New York.  Also left Yiddish behind and rarely
+used what little they did know.
+
+For some reason not quite known to me (but it seems to have a political
+root) I've always had some interest in Yiddish.  Studied German in high
+school, the closest thing offered  (and besides my sister was doing
+French, and I didn't want to do what my sister was doing, (no way)) and
+by the time I left college I was reasonably bad in it.  Wrote occasional
+letters to my grandpa (from Poland) in German and he answered in the
+same.  Studied Yiddish briefly at Gratz College in Philadelphia, with an
+interesting melange of people who could read it fluently from their
+Hebrew studies, but didn't understand a word, people who couldn't read
+but knew a lot of phrases from their childhood but mixed it with so much
+"Yinglish" that it was incomprehenisible to most and then me who
+understood the lion's share due to my german knowledge, but I couldn't
+read a word (never studied Hebrew.)
+
+I then moved to Amsterdam and studied Dutch, intensively.  So now what
+little Yiddish I was learning is trashed, my German is seriously
+compromised and spoken with a Netherlandish accent. Go figure.  I also
+play clarinet but not nearly well enough to do any serious Klezmer. Would
+like to meet people in the New Haven area to actually pursue the spoken
+and written part of Yiddish, so that I can add that too to may array of
+confused languages.   Wouldn't mind jamming with some equally bad klezmer
+musicians as well.
+
+Mark (Motl) Aronson
+
+P.S.  I'm totally new to the Internet and email as well.  Learning this
+language as I go along too.  Wish me luck.
+
+2)----------------------------------------------------
+Date: Fri, 30 Sep 94 11:35:41 PDT
+From: BM.YIB@RLG.Stanford.EDU
+Subject: The Rabinershe's Husband
+
+Vi ruft men on "der rabinershes man" af yidish?
+
+Moyshe-Zekharye Beker
+
+P.S. Bay undz in Braunstoun Bruklin iz do azelkher.
+
+3)----------------------------------------------------
+Date: Fri, 30 Sep 94 15:00:42 EDT
+From: poe@keps.com
+Subject: "Az der bubbe vot gehat.."
+
+In 4.118, Zellig Bach analyses Steven Pinker's transcription:
+
+	Az der bubbe vot gehat baytzim vot zie geven mein zayde
+
+in great detail, finding evidence in the spelling of a Central Yiddish
+dialect (loosely and ungrammatically recorded).
+
+Clearly, Pinker is unaware of the YIVO conventions and is employing an
+ad-hoc romanization, based on phonetics and influenced by German
+spelling.  But I would argue against the CY classification.  The spelling
+"mein" for "mayn" is Germanic and indicates Pinker's choice for a
+romanization of the "ay" diphthong.  Therefore, I think it probable that
+when he uses the "ay" spelling, he intends it to represent something
+else--presumably the "ey" diphthong, but rendered according to *English*
+phonetics.  Thus, in a YIVO-like transcription he would have written (I
+believe):
+
+	Az d[i] bube vo[l]t gehat beytsim, vo[l]t zi geven mayn zeyde.
+
+This is consistent with Northeastern Yiddish, except for the sub-
+stitution of "bube" for "bobe".  This last consideration would seem to
+indicate a Southeastern dialect (except that "mayn" would tend to be
+drawled, as "ma:n", but that detail could easily have been overlooked
+under the weight of the German cognate).  So I vote for SE.
+
+On a related note, if the original source actually had "di bobe",
+shouldn't it have had "der zeyde", instead of "mayn zeyde"?  In general,
+under what circumstances do Yiddish speakers use the definite article,
+rather than the possessive pronoun, or *both* ("di mame mayne")?
+
+Bob Poe
+
+4)----------------------------------------------------
+Date: Fri, 30 Sep 1994 16:57:13 EDT
+From: hkaplan@woods.uml.edu
+Subject: As der bubbe vot gehat...
+
+I stopped reading Mendele a while back  because I was sick of the
+grammarians. Visions of correctniks with rulers in their hands hovering
+over me and my barely legible scrawl crept into my head.
+
+Today I decided to give it another try and, boy, things are getting
+worse. Poor Pinker, the MIT linguist, gets slammed for gender errors,
+romanisms, germanisms, you-name-it-isms. All because of a few words in
+Yiddish about grandmothers, grandfathers and balls. A shande, I tell you.
+
+Now there's talk of a "Correct Yiddish" for Mendele contributors. I say
+it's time for a schism: Let those whose only joy is gerunds, past tenses,
+flogging others and answering such questions as "does anal retentive have
+a hyphen" form one group. The rest of us can be on our merry way as
+language free spirits, literature enjoyers, joke tellers. So, what do you
+say?
+
+Howard Kaplan
+
+5)----------------------------------------------------
+Date: Sat, 01 Oct 1994 19:04:47 EST
+From: berman@mars.senecac.on.ca
+Subject: Workshop on Yiddish in the Computer Age
+
+On Sunday, October 9, as part of the Second International Conference of
+Yiddish Clubs, I will be leading a workshop titled "Yiddish in the
+Computer Age".
+
+I will be describing some of the many different ways in which Yiddish
+Language and Culture has adapted to computer technology. I will be
+demonstrating a Yiddish word processing system using WordPerfect, talking
+about other software which can be used for Yiddish, and introducing the
+workshop members to the idea of the Internet; in particular to the
+Mendele list.
+
+We will be connecting live to the Internet, as part of the workshop, and
+accessing some issues of Mendele that have some interesting content.
+
+If anyone has any suggestions for the workshop or would like to send a
+salutation or message to anyone at the workshop, please reply before next
+weekend.
+
+Thank you for your help.
+
+Yosl Berman
+
+______________________________________________________
+End of Mendele Vol. 4.119
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

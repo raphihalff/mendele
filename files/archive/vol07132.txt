@@ -1,0 +1,348 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.132
+January 15, 1998
+
+1) Praven and "Bejaher" (Hardy Mayer)
+2) kabosh (Jules Levin)
+3) broyges (Mark Shenken)
+4) Geyt a goy in shenkl arayn (Bob Rothstein)
+5) Anglicization (Bob Poe)
+6) L.A. "Times" Uses YIVO Standard Transliteration (Hershl Hartman)
+7) hegdesh (Bernard Gershen)
+8) Shiker Iz a Goy (Bob Kurtzman)
+9) Yiddish self learning programs for PCs (Charlotte Frajman)
+
+1)----------------------------------------------------
+Date: Mon, 22 Dec 1997 21:49:54 PST
+From: "Meinhard E. Mayer (Hardy)" <hardy@lynx.ps.uci.edu>
+Subject: Praven and "Bejaher"
+
+If I understood him right Perets Mett assumes [7.131] that prav (or praven, as
+I transliterate it) is of Hebrew-Aramaic origin.  As far as I know it is pure
+Slavic: Russian: "pravit'"  has the same meaning.  As for bentshn (mentioned
+in the same post -- I missed the previous thread as I was traveling) -- it
+comes from the latin "benedicere."
+
+And Joachim Neugroschel [7.131] must have missed the German "Bejaher."  In the
+form "Lebensbejaher" I have seen it in many places.
+
+Hardy Mayer
+Irvine, CA
+
+2)----------------------------------------------------
+Date: Tue, 23 Dec 1997 12:13:31
+From: Jules Levin <jflevin@ucrac1.ucr.edu>
+Subject: kabosh
+
+I just read a convincing exploration of this term (including its false Gaelic
+etymology) by a linguist I respect--Peter Maher.  To summarize:  Spellings
+like kibash and resulting pronunciations are due to mis- (or re-) 
+interpretations of the word.  The term in lower-class British slang is
+attested in Dickens (1836).  The ultimate source is French caboche, an ancient
+hunting term glossed in Skeat and Mayhew (A Glossary of Tudor and Stuart
+words...) as "to cut off the head of a deer..."  Caboshed heads were hung
+around to demonstrate hunting success, presumably...
+  
+Re the streets of Brooklyn:  before ethnics--Jews, Irish, Italians,
+etc.--walked the streets of Brooklyn, there were actually people there whose
+ancestors came from England!  and who brought *English* slang with them!!! 
+
+Jules Levin
+
+3)----------------------------------------------------
+Date: Wed, 24 Dec 1997 23:26:20 -0800
+From: Mark Shenken <marklily@ozemail.com.au>
+Subject: broyges
+
+I would be interested to know the origin of this word. It is not spelt 
+phonetically like words of Germanic or Slavic origin and therefore assume 
+that it might be of Hebrew or Aramaic origin. I have heard  South African 
+Jews pronounce it 'breyges' and I have seen it spelt beys reysh hey 
+gimmel zayen as well as beys reysh vav gimmel zayen.
+
+Mark Shenken
+
+4)----------------------------------------------------
+Date: Wed, 24 Dec 1997 08:33:02 -0500 (EST)
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: Geyt a goy in shenkl arayn
+
+The only published source that I know for the song "Geyt a goy..."  is
+_Yiddish Folk Songs:  50 Songs for Voice and Piano_, collected by Sarah
+Pitkowsky Schack, piano arrangement by Ethel Silberman Cohen, first published
+by Bloch Publishing Company in NYC in 1924 (a time of less multicultural
+sensitivity), with later editions (e.g., third, revised edition in 1927). 
+
+Andrew Cassell's comment, prompted by mention of this song, that perhaps the
+stereotype of the sober Jew is a bit exaggerated, finds additional support in
+my paper, "'Geyt a yid in shenkl arayn':  Jewish Songs of Drunkenness," _The
+Field of Yiddish_, 5th collection (1993), ed. David Goldberg.  One observation
+from that paper (which may, in fact, be due to an oral comment by Michael
+Steinlauf, to whom I hereby apologize for the lack of any published
+acknowledgment) is that applying phrases like _shiker/trinken vi a goy_ to a
+gentile would be tautological; in fact they are used to describe the habits of
+particular Jews. 
+
+The text of the song, as published in the Schack-Cohen collection (but not as
+printed there since, as Pitkowsky Schack writes in her preface, "[i]n the
+transliteration, the German orthography was used as a basis") is as follows: 
+
+GEYT A GOY IN SHENKL ARAYN
+
+Geyt a goy in shenkl arayn,
+in shenkl arayn, in shenkl arayn.
+Trinkt er dort a gut glezl vayn,
+a gut glezl vayn, a gut glezl vayn.
+Oy, shiker iz a goy, shiker iz a goy,
+shiker iz er, trinken muz er,
+vayl er iz a goy.
+
+Geyt a yid in bes-medresh arayn,
+in bes-medresh arayn, in bes-medresh arayn.
+Khapt er dort a kdushele arayn,
+a kdushele arayn, a kdushele arayn.
+Oy, nikhter iz a yid, nikhter iz a yid,
+nikhter iz er, davnen muz er,
+vayl er iz a yid.
+
+Geyt a goy fun shenkl aroys,
+fun shenkl aroys, fun shenkl aroys.
+Brekht er dort a por shoybelekh oys,
+a por shoybelekh oys, a por shoybelekh oys.
+Oy, shiker iz a goy, shiker iz a goy,
+shiker iz er, brekhn muz er,
+vayl er iz a goy.
+
+Geyt a yid fun bes-medresh aroys,
+fun bes-medresh aroys, fun bes-medresh aroys.
+Kusht er dort a por mezuzelekh oys,
+a por mezuzelekh oys, a por mezuzelekh oys.
+Oy, nikhter iz a yid, nikhter iz a yid,
+nikhter iz er, kushen muz er,
+vayl er iz a yid.
+
+(The word _muz_ in the penultimate line of each stanza is presumably
+pronounced  _miz_ [as the dialect basis of theater Yiddish would dictate]
+to make the internal rhyme work.)
+                                        
+Bob Rothstein
+
+5)----------------------------------------------------
+Date: Wed, 24 Dec 1997 14:26:02 -0500
+From: poe@ekbos.com (Bob Poe)
+Subject: Anglicization
+
+A frequent topic on Mendele is that of transliteration into the Roman
+alphabet.  There appears to be widespread agreement that the YIVO system is
+the standard for Yiddish and should be supported and encouraged. 
+
+But that's for Yiddish.  What about (say) English?  The same standard does not
+necessarily apply to the growing number of English borrowings from Yiddish. 
+Indeed, it might be thought presumptuous for Yiddishists to dictate the proper
+spelling of English words.  On the other hand, the spellings that abound in
+English contexts are extremely variable, following capricious notions of
+phonetics, and offensively (in my opinion) imitating German spellings in many
+cases.  (I can forgive the contorted efforts of writers to suggest the
+pronunciation of Yiddish words through the use of English "phonetic" spelling,
+but there is no justification for using the orthographic conventions of a
+third language.) 
+
+So perhaps there is a useful role that Yiddish scholars, speakers, readers,
+writers, and other interested and informed parties can play in influencing the
+spelling of Yiddish words in English.  Any thoughts? 
+
+In general, English practice is pretty good about maintaining the original
+spelling of foreign words that are quoted or otherwise used as explicit
+borrowings.  In the course of time, foreign words sometimes penetrate deeply
+into the English language and become thoroughly naturalized.  When this
+happens, the pronunciation and spelling may change.  But at least in the first
+phase of this process, the foreign spelling is usually maintained. 
+
+This hasn't happened with Yiddish.  The main reason, surely, is the difference
+in the alphabets:  It is much easier to maintain a foreign spelling when no
+transliteration is required.  There is also the special way in which Yiddish
+is regarded by many people--as a funny, cute vernacular belonging to comedians
+and anyone else who lays claim to it, rather than as a real language belonging
+to a real people and having a real spelling. 
+
+Should we urge the YIVO spelling on English writers, editors, and publishers? 
+Or is it really too late to fight this battle, since so many Yiddish words
+have been spelled differently for so long in English?  For instance, can we
+expect anyone to write `ganev' in an English sentence?  It would look very
+strange to the average reader, who would probably not even be able to
+pronounce it.  But do we have to accept `goniff'?  Is there some compromise
+that we can advocate?  Or should we acknowledge defeat with regard to the
+older and most common borrowings, on the notion that these words are
+thoroughly anglicized by now, and try to hold the line on newer ones? 
+
+Bob Poe
+
+6)----------------------------------------------------
+Date: Wed, 24 Dec 1997 20:58:01 EST
+From: Hershl <Hershl@aol.com>
+Subject: L.A. "Times" Uses YIVO Standard Transliteration
+
+moshiekh'es tsaytn! Yesterday, Dec. 23, 1997, in its "Life & Style" section,
+the Los Angeles "Times" ran a "First Person" column by its staff writer, Matea
+Gold, which opened with the first two lines of the second stanza of "Oyfn
+Pripetshik," transliterated in full accordance with the YIVO standard, rather
+than the quasi-Germanic style usually followed in the popular press. In the
+body of the column, the song's opening lines were also quoted, also (almost) 
+correctly.
+
+This encouraging development was somewhat marred, however, by the attribution
+"Yiddish folk song." Via the "Times'" web site, the author and editor were
+advised of the song's authorship, words and music, by Mark Varshavski
+(1848-1907). 
+
+(Incidentally, the full text of _oyfn pripetshik_ in Yiddish, transliteration
+and singable English translation, appears in "Apples and Honey: Music and
+Readings for a Secular Humanistic Observance of the Jewish New Year Festival." 
+For more information: <rifke@earthlink.net>.) 
+
+Hershl Hartman
+Los Angeles 
+
+[Note from the moderator: the full text of _oyfn pripetshik_ in Yiddish and 
+transliteration, several version of music, and Mark Varshavsky's brief
+biography are available at http://sunsite.unc.edu/yiddish/songs/pripetshek 
+-i.v.]
+
+7)----------------------------------------------------
+Date: Wed, 24 Dec 1997 20:31:48 -0500
+From: gershen1@juno.com
+Subject: hegdesh
+
+Regarding the word, "hegdesh", I remember the word as "hegnish", and it meant
+"a mess".  I remember being told not to do something or other because "you
+will make a hegnish out of it". 
+
+I assume that the word I remember is the same as the one being discussed. 
+I'm not sure of the word that I know.  Is it?
+
+An error in pronunciation?  A pronunciation peculiar to a region?  An error in
+my memory? 
+
+I'd appreciate enlightenment.
+
+Bernard Gershen
+
+8)----------------------------------------------------
+Date: Thu, 25 Dec 1997 06:21:23 +0200
+From: "Gilda and Bob Kurtzman" <kurtzman@sharenet.co.il>
+Subject: Shiker Iz a Goy
+
+Way back in the 30s and 40s one of my favorite 78's in Yiddish was a Green
+Label Columbia record Shiker Iz A Goiy sung by the famous cantor Chazan
+Mordechai Hershman It lost its popularity some thirty-forty years ago and
+later I will present my interpretation why. A few months ago I bought a
+compact disc featuring 15 selections in Yiddish. Selection 12 is Hershman's
+rendition of Shiker Iz A Goy (Yiddish Masterpieces I.M.-Israel Music) 
+
+Here is my transliteration of the song. Despite the twenty times or more that
+I played the second stanza there are 2 or3 words that "ikh hab nisht gekent
+khapen!" 
+
+Geht der goy in shenkel arein,
+In shenkel arein, in shenkel arein
+Trinkt ehr dort a glayzele vayhn
+A glayzele vayhn, a glayzele vayhn
+Oi,vahl shiker iz der goy
+Shiker iz ehr trinken miz ehr vahl ehr iz a goy (2)(
+
+Geht der goy funem shenkel arauss
+Funem shenkel arauys,funem shenkel arauys.
+Klapt ehr ayza(?) YiddenA pastel auys
+A pastel auys, a tobele auys
+Oi, vahl shiker iz der goy
+Shiker iz ehr klapen miz ehr, vahl ehr iz a goy (2)
+
+Geht der Yid in beis midrash arein,
+In beis midrash arein, in beis midrash arein
+Khapt ehr dort a minchele arein ,a kedushele arein
+A brochole(?) arein, a perek mishnayess arein.
+Aha, vahl nikter iz a Yid
+
+Nichter iz ehr, davenen miz ehr vahl ehr iz a yid (2)
+
+In the tradition of the Yiddish orator who opens his oration with the
+introduction "ayder ich vel reden vel ich zogen a pohr verter", Before I speak
+I want to say a few words. In this case before I render my translation from
+Yiddish to English. (1) The second stanza is almost incomprehensible because
+despite my playing the stanza twenty times or more I could not "khap" three or
+four key words (2) I made no attempt to render a translation according to the
+rhyming couplets of the Yiddish text. 
+
+The "goy"(non-Jew)goes into the tavern,
+Into the tavern, into the tavern
+There he drinks a glass of wine, a glass of wine
+A glass of wine Oh! because the goy is a drunkard
+Drunk he is, Drink he must because he is a goy.(2)
+
+The goy goes out of the tavern, 
+Out of the tavern, out of the tavern
+He beats up Yidden (Jews)
+(I could not translate two phrases that follow the above)
+Oh! because the goy is a drunk
+He is drunk,he must beat up, because he is a goy (2)
+
+The Yid (Jew) goes into the study hall and prayer room (beis midrash) There
+he grabs in an  
+afternoon service(minchah), a Sanctificationof the Lord prayer(kedusha) a
+blessing praye
+And a study of a chapter of the Mishna
+Aha, because he is sober
+Sober is he praying he must because he is a Jew(2)
+
+There is something especially interesting for me with this song. I must have
+heard it may be some hundred times and I do not recall a stanza with the words
+of the goy beating up Jews. I recall a stanza which is something like the
+following: Geht der goy fonem shenkel arauys, fonem shenkel arauys fonem
+shenkel arauys. Warft ehr a shtayn in beis midrash arein, in beis midrash
+areinand then the refrain Shiker iz a goy. 
+
+The goy goes out from the tavern , goes out from the tavern, goes out from
+the tavern.
+He throws a stone into the beis midrash, into the beis midrash.
+
+How come a song which enjoyed such popularity 40-50 years ago disappeared ? 
+Second, third and fourth generation Jews who grew up in the USA and Canada and
+experienced an entirely different relationship with the goy than his parents
+and grandparents experienced in Eastern Europe. The song is based on
+stereotypic thinking.  Also I believe the passivity and non-violent response
+of the Jew as illustrated in the song is foreign to todays Jews. 
+ 
+Chag Urim Sameach,
+
+Bob Kurtzman
+
+9)----------------------------------------------------
+Date: Thu, 25 Dec 1997 16:01:53 -0800
+From: "Russell Frajman" <rfrajman@escapenet.com.au>
+Subject: Yiddish self learning programs for PCs
+
+My name is Charlotte Frajman and I live in Melbourne, Australia.
+
+Do you know of any self teaching software available for absolute beginners
+wanting to learn Yiddish?  I am thinking of something similar to the
+excellent "Tripple Play Plus" series that teaches basic language, alphabet
+and pronunciation.
+
+Charlotte Frajman
+
+______________________________________________________
+End of Mendele Vol. 07.132
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+
+

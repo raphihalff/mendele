@@ -1,0 +1,140 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 122
+December 4, 1991
+ 
+1) A matone (Victor Bers)
+2) Bavarian and Yiddish (David Sherman)
+3) Negative concord in Bavarian (Beatrice Santorini)
+4) Oy iz dos a rebbetsin (Sholem Ruveyn Benjamin)
+
+1)----------------------------------------------------
+Date: Tue, 03 Dec 91  22:59 EDT
+From: VBERS@YALEVM.BITNET
+Subject: A capriz
+
+ 
+ 
+                 ~
+                 | ~ ~ ~ ~
+          | | | || | | | |
+           ------|--------
+                _|_
+ 
+         "Alle teg in computers shpielen mir..."
+ 
+
+2)----------------------------------------------------
+Date: Tue, 3 Dec 91 23:56:40 EST
+From: dave@lsuc.on.CA
+Subject: RE: Mendele Vol 1.112
+
+> From: Ellen Prince <ellen@central.cis.upenn.edu>
+> to my knowledge, bavarian german is the only dialect of
+> german that has negative concord ('nicht kein').
+
+There have been a couple of references recently to Bavarian
+German being similar to Yiddish.  Can someone elaborate
+more on this?
+
+Several years ago we were visiting a provincial park and
+went for a bit of a hike with our (then) two kids.  Some
+German-speaking tourists were nearby, and I listened to
+bits of their conversation. At one point, referring to our
+3 year old having walked along some path we took, one of
+the ladies said "Das kleyne meydl hat's gemakht" (I'm
+transliterating into YIVO phonetics here).  I was surprised
+at how that sounded more like Yiddish than German, and
+asked her why she said "kleyne" instead of "klayne", and
+why "meydl" instead of "Maedchen".  She answered that they
+were from Munich and that was just how they spoke.  Having
+studied "official" German for 5 years in high school and
+university, I'd never been aware of these dialect
+differences.
+
+Is Bavarian German similar to Yiddish because of accidental
+parallel development, or did the "original" Yiddish of 800
+years ago develop in that part of Germany, and begin its
+life as Bavarian German + Hebrew-religious vocabulary,
+written down in the one alephbais that the people knew?
+
+
+3)----------------------------------------------------
+Date: Tue, 3 Dec 91 22:04:03 CST
+From: beatrice@lex.ling.nwu.edu
+Subject: negative concord
+
+i have been following the recent discussion of negative
+concord in yiddish with great interest.  since ellen prince
+mentioned that bavarian has negative concord as well, i
+thought it would be interesting to see if there were any
+differences between bavarian and yiddish.  below are some
+data that a bavarian linguist colleague has kindly
+supplied.  the asterisk stands for an impossible sentence.
+in bavarian, apparently there is a big difference between
+negative expressions that are "bare" expressions like
+"koana" (no-one) and ones that modify a noun.  the bare
+negative expressions can't appear together with "ned"
+(not), whereas the modified negative expressions can
+(though they don't have to).  this is different from
+yiddish, right?
+
+(1) Wea is'n kumma?
+    who is then come
+    'so who came?'
+
+       Answer: 'no-one'
+    a. Koa Mensch ned (no person not)
+    b. Koa Mensch (no person)
+    c. Koa oanziga ned (no single-one not)
+    d. Koa oanziga (no single-one)
+    e. *Koana ned (*no-one not)
+    f. Koana (no-one)
+
+(2) Wos host'n kafft?
+    what have-you then bought?
+    'so what did you buy?'
+
+       Answer: 'nothing'
+    a. Nix (nothing)
+    b. *Nix ned (*nothing not)
+    c. Nix G'scheids (nothing intelligent (= worthwhile))
+    d. Nix G'scheids NED (nothing intelligent NOT)
+       for some reaons, (d) is only ok if "ned" is stressed
+
+(3) Wann werds in Noaweng finsta?
+    when becomes-it in Norway dark
+    'when does it get dark in Norway'
+
+       Answer: 'never'
+    a. Nia (never)
+    b. *Nia ned (*never not)
+
+(4) Wia oft bist'n scho z'Italien gween?
+    how often are-you then already to italy been
+    'so how have you been in italy?'
+
+       Answer: never
+    a. No nia (still never, i.e. never)
+    b. *No nia ned (*still never not)
+    c. Koa oanzigs Mai (no single time)
+
+       i don't know about (d); bayer apparently forgot this
+       sentence. i assume it is fine, but have sent him a
+       message asking him.
+
+    d. Koa oanzigs Mai ned (no single time not)
+
+4)----------------------------------------------------
+Date: Wed, 04 Dec 91 01:27:20 EST
+From: sbenj@Athena.MIT.EDU
+Subject: RE: Oy iz dos a rebetsn
+
+Professor Rothstein has beaten me to the punch.  We used to
+sing this one in our family as well. I have the exact same
+version by Adolph King.
+
+Sholem Ruveyn (Sheldon Benjamin)
+______________________________________________________
+End of Mendele Vol 1.122
+

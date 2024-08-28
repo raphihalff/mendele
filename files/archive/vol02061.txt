@@ -1,0 +1,142 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 61
+September 10, 1992
+ 
+1) A frage (Hershel Basser)
+2) Hob...geveyn (David Sherman)
+3) T > th > s (David Sherman)
+4) Shmuck and putz (Hershel Bershady)
+
+1)----------------------------------------------------
+Date: Wed, 9 Sep 1992 16:03:39 -0400
+From: fishbane@epas.utoronto.CA
+Subject: A frage
+
+I have been asked by a colleague, she is a very serious
+scholar, (who probably overestimates the usefulness of
+nets) to see if anyone here has ever found the term taharas
+hamishpoocha before 1940 or even ever heard it then. The
+alternate "familien reinheit" or "reinheit des familien
+lebens" will also qualify for first prize. for my money, if
+anyone here ever heard it even after 1940 I think they
+should get a prize too.
+
+Hershel Bolshiviker
+
+2)----------------------------------------------------
+Date: Thu, 10 Sep 92 2:50:26 EDT
+From: dave@cai.lsuc.on.CA
+Subject: RE: Mendele Vol 2.59
+
+> From: jfinger@mv.us.adobe.COM
+> I can take a stab at answering my own question (after
+> consultation with a native speaker, Rabbi Yosef Levin in
+> Palo Alto, who immediately said, "When you are moyhl, you
+> are being moyhl on someone else!")
+>
+> >> Why is "Ikh bin moykhl" in the past tense "Ikh hob
+> >> moyhkl geven" instead of "Ikh bin moykhl geven"?
+>
+> "Moyhkl zayn" is acting as a transitive verb here, in which
+> case it makes some sense to say "Ikh hob dir moykhl geven".
+> The aberration is in taking a Hebrew and using it as a
+> predicate adjective in the present tense, but using "moyhkl
+> geven" as the past participle in the past tense.
+
+I don't think that's the answer.  My understanding of the
+footnote in Weinreich (p. 322) that you called
+"incomprehensible" is that the rule is simply thus: for any
+verb constructed from <Hebrew m'XXX> + zayn, the past tense
+is <hob m'XXX geven>. It's not because it's a transitive
+verb.  Ikh bin matzliakh; ikh hob matzliakh geven.
+
+The reason is presumably that <m'XXX> + zayn is considered
+a verb of its own, despite the obvious derivation, and it
+is explicitly NOT the verb zayn plus the original Hebrew
+adjective. ikh bin ge-XXX, as opposed to ikh hob ge-XXX, is
+only used for certain verbs that are not only intransitive
+but that relate to the status of the person (the list seems
+to be very much in sync with the parallel "je suis" instead
+of "j'ai" in French.  Thus, ikh bin gelofn, geforn, gezesn,
+gevezn, but ikh hob gearbet un geshklaft (the words of mayn
+yidishe mame come to mind here).
+
+Am I on track here?
+
+David Sherman
+
+3)----------------------------------------------------
+Date: Thu, 10 Sep 92 2:59:39 EDT
+From: dave@cai.lsuc.on.CA
+Subject: Re: t > th > s, and how to pronounce it
+
+That reminds me of an anecdote that H.A. Gleason, who
+taught me linguistics at U of Toronto, once told me.  He, a
+non-Jew, became quite a specialist in biblical Hebrew.  (In
+fact, he designed an ingenious way of constructing a Hebrew
+dictionary, based not on alphabetical order but on looking
+up words by their "strong" consonants that would be least
+likely to disappear as the root took on various forms.  But
+I digress.)  He knew about the "th" issue, of course.
+However, when he first saw the name of the Toronto
+synagogue "Beth Emeth Bais Yehuda", he was completely
+puzzled as to its meaning.  (Of course, it's simply the
+result of the merger of two shuls, which used different
+transliterations of the same word.)
+
+(Al Gleason also told me my favourite linguistics anecdote,
+which is about the class of words in Swahili that begin
+ki-, and whose plural is vi-.  Thus, "kitu", plural "vitu".
+The word for a traffic roundabout in Swahili, due to the
+signs posted by the colonial British, is "kiplefti".  So
+the plural is "viplefti". But I digress further, though
+perhaps not very far for the linguists like Ellen Prince
+who explore how borrowed Yiddish words in English take on
+English suffixes.)
+
+David Sherman
+
+4)----------------------------------------------------
+Date: 10 Sep 92 09:42:39 EST
+From: "Dr. Harold Bershady" <HBERSHAD@PENNSAS.UPENN.EDU>
+Subject: Shmuck vs Putz
+
+I've just re-entered Mendele after a couple of months and
+am catching up with what may be by now "old news."  Since
+this has never stopped me in the past, here goes:  Ellen
+Prince writes of an informant who uses "shmuck" in the
+double sense of "fool" and "bastard" (or prick, as the the
+case may be).  I've always thought there was a distinction,
+shmuck for fool, putz for bastard.  No shmuck is ever a
+mamser, although many putzes are.  Since the two terms are
+equivalent in their literal meanings, some equivalence
+seems to have occurred in their con notations.  In any
+case, I think Yiddish is rich in some part because of the
+precision in which shades of meaning are captured by
+different words.  This seems to be thinning out in the
+dispersion.  "Tush" is another word whose vari- ations are
+fast disappearing.  E.G.  When somebody did something
+particularly stupid, my father would point to his head and
+say "tukhus."  A coarse person, male or female, would
+sometimes be referred to as "grubber tukhus."  A shaynem
+tukhus, a tukhusl, etc.  (The etc. is something else!)
+
+Hershel
+
+______________________________________________________
+End of Mendele Vol 2.61
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+
+

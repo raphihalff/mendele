@@ -1,0 +1,145 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.334
+February 23, 1995
+
+1) Plural -im (Barry Walfish)
+2) Mertsol fun tokhes (Shleyme Axelrod)
+3) Tokhes (Nokhum Rosenblatt)
+4) The modern Hebrew kabtsn and tokhes (Michael Shimshoni)
+5) Tokhes, tekheser, -im (Khayem Bochner)
+
+1)----------------------------------------------------
+Date: Wed, 22 Feb 1995 13:45:55 EST
+From: walfish@vax.library.utoronto.ca
+Subject: Plural -im
+
+A few other examples which come to mind are kabtsonim, dalfonim, and
+klezmorim.
+
+And speaking of klezmorim, I have a question for the linguists. This word
+(klezmer, klezmorim) is an example of the name of an object being
+transferred to the person who does something with the object, in this
+case, a musician being called an instrument. Does this phenomenon have a
+name? Are there other examples?
+
+Barry Walfish
+Toronto
+
+2)----------------------------------------------------
+Date: Wed, 22 Feb 1995 21:35:35 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Mertsol fun tokhes
+
+Harkavy appears also to give _te'kheser_ (he doesn't provide
+pronunciations) as the plural of _tokhes_.  In the bilingual 1898
+dictionary, he has (Yid.-Eng. p. 343)
+
+tof-khes-sof [m.] (pl. tof-khes-sof-ayen-reysh) 'arse'.
+
+In the 1928 trilingual version (p. 521) he translates the singular as
+'hind quarters, arse', with the same plural as in '98.
+
+Shleyme Axelrod
+Buffalo, NY
+
+3)----------------------------------------------------
+Date: Wed, 22 Feb 95 22:48:06 PST
+From: nrosenbl@interserv.com
+Subject: Tokhes
+
+> In re the question of Alan Shuchat (4.330) about not finding "tokhes
+> "in his Vaynraykh ,the same is true for my Harkavy 1910.
+
+Harkavy's Yiddish, English, Hebraish Verterbukh of 1928 includes tokhes
+(tof, khes, sof) as does also Harkavy's English-Yiddish, Yiddish-English
+dictionary of 1898.
+
+Nokhum Rosenblatt
+
+4)----------------------------------------------------
+Date: Thu, 23 Feb 95 12:35:50 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: The modern Hebrew kabtsn and tokhes
+
+There have been several contributions about two Yiddish words and their
+possible connection with Hebrew: _kabtsn_ and _tokhes_.   There is no
+doubt that in present day Hebrew the equivalents of these words, and with
+the same respective meanings, are qabtzan (qof, bet, tzadi, nun) and
+tahat (tav, het, tav).  I have looked for these rather common Hebrew
+words in my Even Shoshan dictionary, and from the example given for
+qabtzan it seems to me that it is a relatively new word (the root is old
+as is well known, just its use for a shnorer seems to be new).  Tahat,
+the proper Even Shoshan does not bring at all in the tokhes sense.
+
+Would it be correct to deduce from that the two words words were
+introduced into modern Hebrew from the Yiddish, which in turn made up
+these words from Hebrew *roots* but not words?
+
+Michael Shimshoni
+Rehovot, Israel
+
+5)----------------------------------------------------
+Date: Thu, 23 Feb 95 10:42:54 -0500
+From: bochner@das.harvard.edu
+Subject: Tokhes, tekheser, -im
+
+Hershel Stillman shraybt:
+> In re the question of Alan Shuchat (4.330) about not finding "tokhes
+> "in his Vaynraykh ,the same is true for my Harkavy 1910.
+
+S'iz yo do in Harkavy 1928/1988. Tsum badoyern iz Vaynraykh geven a bisl
+ibertsniesdik ;-)
+
+Tof, khes, tof; mertsol tekheser, vi Shleyme Axelrod shraybt. Nor efsher
+ken men take zogn tokheysim, vi a vits?
+
+Derekh agev, frier hot men gezukht loshn-koydeshdike verter vos zeyer
+mertsol iz oyf "-im". Ikh hob gedenkt az mir hobn dos arumgeredt oyf
+Mendele mit a shtik tsayt tsurik, un sof-kl-sof hob ikh gehat a
+gelegnhayt arumtsuzukhn in mayne arkhivn. In May, 1993, hot Moshe Taube
+geshribn:
+
+> 1. Let me add two more non-hebraic names with a hebrew
+> plural suffix. They are used in the synagogue, at the
+> summoning to Torah reading, indicating the pledge of
+> the summoned. karboynim from karb/n kerbl, and
+> gildoynim from gildn.
+
+Khayem Bochner
+
+______________________________________________________
+End of Mendele Vol. 4.334
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

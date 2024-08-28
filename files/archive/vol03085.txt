@@ -1,0 +1,143 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.085
+August 19, 1993
+
+1) Transcription, transliteration, and dialects (Bob Goldberg)
+2) YIVO roman writing (Arn Abramson)
+3) GrubYAN (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Tue Aug 17 21:56:25 1993
+From: xidak!poseidon!bob@uunet.UU.NET (Robert N. Goldberg)
+Subject: Transcription, transliteration, and dialects
+
+Thank you, Ellen Prince and Zachary Baker, for responding to my
+dialect pronunciation problems -- your messages were interesting and
+informative.  Perhaps it was my omission of the finer details and
+the somewhat inflammatory way I worded the beginning of my message
+(YIVO ...  a curse ...) that directed the discussion toward
+justifying standards, which I don't seriously question.
+
+Stated more carefully, my problem is:
+
+    Given sheet music for Yiddish songs, from various sources, that
+    uses inconsistent transliteration methods (inconsistent both
+    from song to song and within a single song!):
+
+	1) How to determine what the pronunciation of words in the
+           songs "ought to be" so that
+
+		a) the rhymes come out correctly
+
+		b) A consistent dialect of Yiddish is used
+                   (usually/preferably not "standard" Yiddish)
+
+	2) How to transliterate the dialect so that the singers use
+           the agreed-upon pronunciation.
+
+Clarifying that dialect transcription is compatible with the YIVO
+system, Baker says that the answer to 2) is to use the YIVO system,
+e.g., "Ba mir bisti git, ba mir hosti 'it'". [I must have assumed
+this, given that that's what I did to pose the problem!]  Problem 2)
+is solved.
+
+Problem 1) is not so easy for me.  I read Yiddish (about 25% of my
+group can) and I have a good phonetic memory for my grandparents'
+dialect but a small vocabulary.  YIVO-based written works don't tell
+me how to extrapolate standard Yiddish into any consistent non-YIVO
+dialect.  At one point, I thought that I had a consistent set of
+rewrite-rules for changing YIVO vowels to my familiar dialect, e.g.,
+"u" -> "i", "o" -> "u", etc., but Ellen Prince convinced me this
+does not work in general (several years ago in MENDELE).
+
+Ellen, can you suggest where I might find Prilutski's book on the
+west coast?  I assume it is out-of-print.
+
+Bob "Nissen" Goldberg
+
+2)----------------------------------------------------
+Date: Wed Aug 18 00:37:40 1993
+From: "Arthur S. Abramson" <ABRAMSON%UCONNVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: YIVO roman writing
+
+   I am much taken with the comments of the past couple of days on
+the Yivo roman writing of Yiddish. I learn from Zachary Baker, who
+has been at Yivo long enough to know, that the formulators of the
+system did indeed mean it to be a transliteration from the Yiddish
+orthography in Hebrew script to roman script; nevertheless, he
+points out that it is really an amalgam of transliteration and
+transcription, because the loshn koydesh in Yiddish discourse is
+normally not transliterated but transcribed as pronounced.
+
+   Let me add this thought. The Yivo standard roman spelling does
+indeed represent the Germanic and, I guess, the Slavic components of
+the Yiddish lexicon letter by letter, but this reflects the happy
+fact that our standard spelling of Yiddish in Hebrew script was
+contrived, by and large, to be "phonetic" in the sense that Spanish
+writing, for example, is rather "phonetic." Thus it is that since
+standard Yiddish spelling was designed to have a phonological fit to
+the "standard" dialect, the transliteration letter by letter is
+automatically also a transcription of THAT dialect, although one can
+certainly read it out in another accent. "Vos zogs du" can be
+pronounced as indicated by either this roman spelling or the
+underlying Yiddish spelling, or, at the whim of the reader, can be
+pronounced according to the norms of another dialect, perhaps, vus
+zugs di, a shift easily handled by the Yivo system.
+
+   Some of you out there have numbers in mind for the textual
+frequency of loshn koydesh words in Yiddish prose of one style or
+another. Opening to Chapter 1 of a book at hand, Di Yidn in Ukraine
+by Y. Sh. Herts (J.S. Hertz) (New York: 1949), I see this sentence:
+Di ershte yidishe aynvanderung iz gegangen fun mizrekh keyn marev,
+fun dorem keyn tsofen. 'The first Jewish immigration went from east
+to west, from south to north.' In this perfectly ordinary sentence
+of 14 words four are of Hebrew origin. The rules of Yiddish
+orthography do not indicate the pronunciation of them in any
+dialect. Thus, mizrekh is spelled mem, zayen, reysh, khes; marev is
+mem, ayen, reysh, veyz; tsofn is tsadek, fey, vov. langer nun, etc.
+My renditions in Yivo roman, if they are right, seem to symbolize
+pronunciations that are consistent with the accent of the rest of
+the sentence. Even so common a word as sakh 'much, many' is spelled
+misleadingly as samekh, langer khof! In effect, then, given the
+great frequency of words of Semitic origin, we are actually
+transcribing Standard Yiddish, even though, at will, one can read
+the sentence out in some other dialect. Contrariwise, standard
+English spelling is NOT generally taken to be a transcription of
+English speech, although some spellings can be seen as
+representative of abstract phonological forms that are realized
+phonetically according to the norms of a dialect or accent. Thus the
+spelling "glass" is pretty straightforward, even though I can think
+of 'four or five different pronunciations of it in the
+English-speaking world. The Romance element in English might be
+likened, in this purview, to the loshn koydesh in Yiddish, in that
+in neither one is the graphic representation of speech
+straightforward.
+
+Arn Abramson
+
+3)----------------------------------------------------
+Date: Wed Aug 18 11:03:58 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: GrubYAN
+
+to khaim:
+
+good point about pejorative suffixes like -atsh and -ak taking
+stress in yiddish. however, i believe they're all from slavic, no?
+what i was balking at was the idea that grubYAN is ultimately
+germanic. do you know of any other germanic word in which the suffix
+is stressed? if not, then either this ain't ultimately germanic or
+else -yan ain't a suffix. that's all i meant. btw, i don't think
+anyone here has yet mentioned how the *german* version of grubyan is
+stressed. anyone know? a dank.
+
+ellen prince
+
+______________________________________________________
+End of Mendele Vol. 3.085
+
+
+
+

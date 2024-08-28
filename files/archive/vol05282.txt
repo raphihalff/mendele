@@ -1,0 +1,149 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.282
+March 13, 1996
+
+1) Zin/zun (Jonathan Bellman)
+2) Prezhnitse (David Sherman)
+3) Prezhnitse (Dovid Braun)
+4) Tel-Aviv street named after Mortkhe Gebirtig (Leonard Prager)
+5) International Yiddish Conference (Miki Safadi)
+6) "Az me git..." (Bernard Katz)
+7) "A libe iz an umglik af der velt" (Marti Krow-Lucal)
+8) CLusters and voicing (Neil Jacobs)
+
+1)----------------------------------------------------
+Date: Mon, 11 Mar 1996 14:11:37 -0700 (MST)
+From: jdbellm@bentley.univnorthco.edu
+Subject: Zin/Zun
+
+A personal and wholly unscholarly contribution on this issue:
+
+My maternal grandmother would, in bursts of affection, squeeze me and call out
+"mei' sheyne _zin_!"  Not in the plural, and filially slightly incorrect, as I
+was her grandson.  I remember this very clearly; it happened many times.
+
+Grandma was born and raised in Proskurov; she spent one year as a 17-year-old
+working as an au pair for a well-off family in Poland.
+
+Are we sure that the zun-zin homonym is only limited to one small district of
+the Polish-Lithuanian border?
+
+Jonathan Bellman
+
+2)----------------------------------------------------
+Date: Wed, 13 Mar 96 10:05:28 EST
+From: dave@cai.lsuc.on.ca
+Subject: Prezhnitse
+
+Stuart Noah asks [5.280] about "Prezj'nyet'seh" for fried matzo. While fried
+matzo to me is matse bray (pronounced "braa"), I've heard prezhnitse used by
+Shmuel Rudzhinski in a taped skit of Sholem Aleykhem's "Kasrilivke
+restoranen": "Makht mir a prezhnitse fun a por eyer". I looked it up at the
+time (no Weinreich handy at the moment) and found it was an omelet, or
+scrambled eggs.
+
+The skit is a riot to listen to, by the way.
+
+David Sherman
+
+3)----------------------------------------------------
+Date: Wed, 13 Mar 1996 00:37:00 EST
+From: dovid@mit.edu
+Subject: Prezhnitse
+
+pre'zhnitse (this is the way I know it; U. Weinreich's _Modern English-Yiddish
+Yiddish-English Dictionary_ lists the form pre'zhenitse) is 'scrambled eggs'.
+I've never heard of it being restricted to fried eggs with matse (i.e. what
+most of the rest of us call matse-bray) -- that's curious.  Btw, cf. Mendele
+archives for interesting discussion (perhaps some recipes too) of matse-bray.
+I recall some interesting discussion of it a few years ago.
+
+Dovid Braun
+Cambridge, MA
+
+4)----------------------------------------------------
+Date: Wed, 13 Mar 96 11:46:26 IST
+From: rhle302@uvm.haifa.ac.il
+Subject: Tel-Aviv street named after Mortkhe Gebirtig
+
+Today, the 13th of March 1996, at 11:30 A.M. at 4219 St. in Kfar Shalem, on
+the fifty-third anniversary of the destruction of the Cracow ghetto, in the
+presence of Mayor Ronnie Milo, a street in Tel-Aviv - Jaffa will be named
+after Mortkhe Gebirtig, the Yiddish poet and composer (as advertised by the
+Municipality of Tel-Aviv -Jaffa) on p. 13 of _Ha-Arets_ of 13.3.96).
+
+Leonard Prager
+
+5)----------------------------------------------------
+Date: Wed, 13 Mar 1996 07:23:42 -0800
+From: msafadi@ucla.edu
+Subject: International Yiddish Conference
+
+A dank tsu Marjorie Schonhaut Hirshan far ihr iberblik fun dem yidishn
+conference in Miami.  Vi kenen mir zayn in kontakt mit di reders? S'iz doh a
+meglekhkayt tsu bakumen kopies fun die redes?
+
+Miki Safadi
+
+6)----------------------------------------------------
+Date: Wed, 13 Mar 1996 12:29:06 -0500 (EST)
+From: bkatz@uoguelph.ca
+Subject: "Az me git..."
+
+Pinyeh Weichsel (5.277) asks about the addition of "men" to the end of this
+saying.  I too found the lack of this word jarring and at odds with the
+Yiddish I learned from both my central Polish and Galizyaner meshpokhe. Lo'mir
+zogen azoy: Az me git, nemt men!
+
+Bernard Katz
+Guelph, Ontario
+
+7)----------------------------------------------------
+Date: Wed, 13 Mar 1996 15:52:20 -0500
+From: kromobile@aol.com
+Subject: "A libe iz an umglik af der velt"
+
+Is anyone acquainted with the song _a libe iz an umglik af der velt_?  I have
+all the words and half the music, but I am missing the second half, and I
+would like my Yiddish chorus to be able to sing it.  In the truncated copy I
+have, it is listed as a folk song.  If anyone could tell me of a songbook in
+which it appears, I would be very grateful.  A sheynem dank aykh.
+
+Marti Krow-Lucal
+Sunnyvale
+
+8)----------------------------------------------------
+Date: Wed, 13 Mar 1996 16:06:33 -0500 (EST)
+From: njacobs@magnus.acs.ohio-state.edu
+Subject: CLusters and voicing
+
+I have a follow-up question to my posting on syllable onsets and voicing.
+Again, my concern here is NOT about varieties such as Northeastern Yiddish
+which have anticipatory voicing assimilation when obstruents collide (e.g.,
+NEY *ikh shik dir*  >  shi[g] [d]ir ).
+
+In these non-NEY-like varieties, what happens to, say, the /g/ in *der
+kligster* ?  In some material I'm working on, I am so far assuming that it
+gets devoiced, based on the phonological cycle in which there is no
+inflectional ending after the superlative marker, that is, /klig/ + /st/ -->
+[klikst]. (Again, this is a cyclic approach, and ignores, at least here,
+whether or not a "base superlative" occurs by itself.)  In such non-NEY
+varieties of Yiddish, we normally wouldn't expect anticipatory voicing
+assimilation in, say, *tog-seminar* to to[k s]eminar.  So, my question is
+mostly about what linguists out there might have heard from native informants
+in inflected superlatives, where the adjective base ends in an underlying
+voiced obstruent, i.e., klig - ster  or  klik-ster ?  (Of course, a further
+complication concerns the fact that some varieties are going to have a
+voiceless [k] here due to a final-devoicing rule, anyway.  But there are some
+varieties which, presumably, lack both anticipatory voicing and final
+devoicing [SEY-types]).
+
+Thanks in advance for any thoughts on this.
+
+Neil Jacobs
+
+______________________________________________________
+End of Mendele Vol. 5.282
+

@@ -1,0 +1,116 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.200
+January 16, 1994
+
+1) Introduction (Ted Alper)
+2) Introduction and query (Kalman Weiser)
+3) College Yiddish (Stephen Dowling)
+
+1)----------------------------------------------------
+Date: Fri Jan 14 17:24:47 1994
+From: Ted Alper <alper@CSLI.Stanford.EDU>
+Subject: Introduction
+
+My name is Ted Alper (My "Hebrew" name -- given to me by fairly
+nonobservant parents -- is Manis Heschel (the "Manis" shows up in my
+middle name, "Mason"). ). My wife and I and I became interested in
+Yiddish about three years ago.  We taught it to ourselves with
+textbooks, dictionaries, newspapers, old movies on video -- and
+books of poetry we found at the Chicago-area Brandeis book fairs and
+Asher Library at Spertus College. (We lived in Chicago for two years
+before returning to the San Francisco area, where we had both gone
+to graduate school.)
+
+I'm sure our pronounciation is dreadful and we can't consistently
+craft grammatical sentences, but we can at least work our way
+through most of Forverts each week -- or at least we could before
+the birth of our son Morris a year ago put most of our play (and a
+good bit of our work) on hold.
+
+It's always most fun to try to read books or articles about which
+one has prior interest. (I still kick myself for not picking up that
+translation of John Stuart Mill at one book fair.) Anyway, I would
+be very interested in finding any copies of Yiddish chess books. I
+have contacted the Yiddish Book Archive, but have not yet received
+their catalog. Via Gopher, I've located the only Yiddish chess book
+of which I had prior knowledge (Endewelt and Weisblatt, dos ershte
+yiddishe shachlehrbuch, Warsaw, 1917) in the John G. White Chess
+Collection of the Cleveland Public Library, but it is
+non-circulating.
+
+I might also be interested in yiddish math textbooks (my current job
+involves computer-based math instruction for talented younger
+students).
+
+Theodore M. Alper
+alper@csli.stanford.edu
+
+2)----------------------------------------------------
+Date: Sat Jan 15 10:01:31 1994
+From: "Keith Weiser (TD 1994)" <weiserki@minerva.cis.yale.edu>
+Subject: Introduction and query
+
+My name is Keith (Kalman) Weiser and I am a senior at Yale College,
+Yale U.I am double majoring in German and int'l studies here, and
+have recently aaplied to graduate programs in Yiddish language and
+literature with Jewish history.  I am eager to speak with any grad
+students (or others) who are pursuing similar studies and who could
+inform me about university programs.  In particular, I am seeking
+information about McGill, U. of Texas at Austin, UCLA, Columbia, and
+Harvard - the five schools to which I have applied.  I am very much
+interested in the interaction between Yiddish- and German-speaking
+Jews, including the process of linguistic and cultural assimilation
+of the so-called "Ostjuden" in places such as Galitzia, Vienna, and
+Berlin.
+
+Ikh bin a mitglid fun a leyenkrayz du un es vet mir hanoe tun zu
+bakumen ayere entfern oyf yidish.
+
+A sheynem dank alemen,
+
+Kalman Weiser '94 (weiserki@minerva.cis.yale.edu)
+
+3)----------------------------------------------------
+Date: Sat Jan 15 16:45:10 1994
+From: stephen dowling <71072.2134@CompuServe.COM>
+Subject: College Yiddish & M.Lakin's post on learning Yiddish
+
+It isn't that College Yiddish is a "bad" book. It just isn't good if
+you are studying at home alone. For a beginner, it doesn't provide
+enough examples and explanations. Of all the Yiddish teachers that I
+have met, none depended solely on College Yiddish for their lessons.
+I wouldn't recommend it if you have no one around to ask questions
+about what you have studied.
+
+I usually recommend Learning Yiddish in Easy Stages by Zuckerman and
+Harbst for such people. It is not as intense as College Yiddish. It
+has eleven chapters, a dictionary and song section and quick
+descriptions of Yiddish organizations.
+
+Stephen Dowling
+
+______________________________________________________
+End of Mendele Vol. 3.200
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+

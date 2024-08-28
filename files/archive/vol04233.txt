@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.233
+December 13, 1994
+
+1) Mein Kind, musst beten (Rick Gildemeister)
+2) Greek, Hebrew, and -- Targemloshn (Zellig Bach)
+3) Borkhes (Michael Shimshoni)
+
+1)----------------------------------------------------
+Date: Mon, 12 Dec 94 14:17:18 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Mein Kind, musst beten
+
+Arre Komar recently mentioned an interesting song which has found its way
+into Yiddish/Jewish musical repertoire.
+
+I'd like to cite a source for this, but it's gone. Years ago, I read that
+it was written by a German gentile about World War I, and the pain of
+seeing one's husband and father of one's child go off to war. My
+understanding is that, again, it was written by a non-Jew, and the reason
+given was that the author didn't know that Jews don't pray on their
+knees. But it was aimed at a Jewish audience, in a mix of German and
+Yiddish.
+
+"Knie mit mir nieder, denn er kommt nie mehr wieder, Doch gross ist unser
+Adoshem"
+
+Martha Schlamme sang a beautiful rendition that I heard almost 25 years
+ago, but vividly remembered. Leo Fuld did a nice rendition, too, on a
+cassette I have.  More on Fraynd Fuld a bisl shpeter.
+
+Rick Gildemeister
+
+2)----------------------------------------------------
+Date: Tue, 13 Dec 1994 03:41:17 -0500
+From: zellig@aol.com
+Subject: Greek, Hebrew, and -- Targemloshn
+
+This is a brief communication about three expressions, each invoking the
+name of a language.  For expository reasons I'll start with the last part
+first, and then tie all three together.
+
+After the return from the Babylonian exile, Hebrew had ceased to be the
+common spoken language of the Jewish people.  Instead, Aramaic became the
+language of the home and street, and the religious leaders resorted to it
+to make the Bible more accessible to the people.
+
+The translation of the holy Hebrew text into the Aramaic vernacular was
+called _Targum_, literally translation.
+
+"Targem,"  as it is pronounced in Yiddish, means only one thing:  the
+translation of the Bible into Aramaic.  No definite article is used or
+necessary.  Several years after entering kheyder a boy soon learns what
+Targem means.
+
+In time the Targum translation entered the canon of religious readings of
+the Jewish people, and enjoyed a sanctity of its own.  The Talmud then
+enjoined the reading of the weekly Toyre passage ("parshe") twice in
+Hebrew and once in Targum.
+
+Much of the Talmud was written in Aramaic, and many prayers were composed
+in this language.
+
+To this day the traditional _kadish_, and the _kol nidre_ prayer with
+which the Yom Kiper services start, are recited in their original
+Aramaic.
+
+1.  Whe you are told, or read, something overly complex and obtuse, and
+you decide, without any further deliberation and without giving it a
+second thought, that it is not worth your while to even try to understand
+it or to pursue it, you flatly dismiss it by saying "That's _Greek_ to
+me."
+
+2.  Many years ago when I was in Paris I met a former Hebrew teacher of
+mine, a beloved mentor in my adolescence, who instilled in me a deep love
+and respect for languages.
+
+He was then studying in the Linguistics Department of the Sorbonne,
+specializing in Semitic languages.
+
+One evening, a young lady student in his class sat next to him, and when
+she casually took a glance at his notes, she exclaimed in French "That's
+_Hebrew_ to me.,"  meaning that she could not make out a thing of his
+scribbles.
+
+I regret not knowing French to quote her exclamatory phrase verbatim, but
+it has about the same meaning as the English "That's Greek to me."
+
+Well, the interesting part is that in this instance she was correct,
+because he was taking his notes in Hebrew...
+
+3.  In Yiddish, when what you are told, or read something, that is
+unintelligible and just plain gibberish, and you wish to express your
+immediate disregard and total dismissal, you say "Bay (ba) mir iz es
+_targemloshn_."
+
+"Loshn," of course, means language, tongue, as in "mame- loshn."
+Targemloshn is thus a clear reference to Aramaic.  However, you don't say
+"Bay (ba) mir iz es Aramish" [Aramaic], because this would be a neutral
+statement, not unlike mentioning any other language that you don't know
+or understand.  But when you say  "Bay (ba) mir iz es targemloshn,"  it
+has a particular tart bite to it.
+
+Don't ask me why.
+
+Zellig Bach
+
+3)----------------------------------------------------
+Date: Tue, 13 Dec 94 12:56:03 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: Borkhes
+
+Arre Komar writes:
+
+>This evening I had dinner with an elderly Jewish couple from the
+>Rhineland. They reported that the word khala was unknown to them until
+>they come to this country. The word for the twist bread in the
+>grandparant's home was borkhes. However there was an important caveat:
+>borkhes was explicitly and exclusively milkhig. Is that a local
+>idiosyncratic usage or is that the proper common understood
+>qualification?
+
+I would like to state that in my very Orthodox family we had "borkhes"
+also on  Friday Eve  when the  meal was  always fleshig.   My maternal
+grandmother who was born in what  was then the German city of Breslau,
+was fond  of a  sweetish version  of shabbes bread,  but it  was never
+milkhig.  Perhaps Arre Komer could find out from his Rhineland friends
+what they called the khala eaten with meat.  Just curious.
+
+Michael Shimshoni
+
+______________________________________________________
+End of Mendele Vol. 4.233
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

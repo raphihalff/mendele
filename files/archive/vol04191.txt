@@ -1,0 +1,160 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.191
+November 20, 1994
+
+1) Spelling (Arn Abramson)
+
+1)----------------------------------------------------
+Date: Sat, 19 Nov 94 23:52:48 EST
+From: abramson@uconnvm.uconn.edu
+Subject: Spelling
+
+Since the 13th of November other pressures have kept me from commenting
+on the several interesting responses to my remarks about ways of writing
+the Yiddish "redt (ret), bistu (bist du), hostu (host du), onnemen
+(onemen)."
+
+Meylekh Viswanath (14 Nov.) actually joins me in expressing bewilderment
+over inconsistencies in applying the principles of transcription versus
+those of transliteration. Mikhl Herzog (13 Nov.) elaborated on the
+question by bringing in other examples of homophones that are spelled
+differently in both Yiddish script and in YIVO writing. Unfortunately,
+before going to the trouble of  giving me undeserved credit for
+historical thoughts on early /bis du/ rather than /bist du/ he could not
+have seen my confession of an oversight (also 13 Nov.) in failing to
+write "bist." Actually, however, I found Mikhl's thoughts  along these
+historical lines very interesting indeed. (He also wrung my heart for a
+moment with his relevant reminder of a speech mannerism of our late
+teacher and friend Uriel Weinreich.)
+
+I think, Mikhl, we do have to go back to our synchronic stage of the
+language for our discussion.  (By the way, it would be interesting to
+know whether there was variation in scribal  practices in writing all
+these words in Yiddish literature before the standardization of the
+orthography.) Phonetically, the form /bistu/, as has been pointed out by
+Rick Turkel (14 Nov.), represents assimilation of the final /t/ of /bist/
+and the initial /d/ of /du/. This is not surprising because in casual
+speech maintaining of the full forms would require  releasing of the
+articulation for the final /t/ and then making the lingual closure again
+to produce the initial /d/. The melding of the two homorganic (=produced
+at the same place of articulation) consonants yields a single consonant,
+which, in the context of preceding /s/, loses its aspiration; the result
+is neither a normal /d/ as in isolated /du/ nor a normal /t/, as in
+isolated /tu/, where it is aspirated (=noisy span of turbulent air before
+the onset of voice from the vocal folds). This resulting stop consonant
+is conventionally treated as "voiceless," even though there is no
+conmtrast between /d/ and /t/ (or /b/ and /p/ and /g/ and /k/) in this
+context.
+
+What bothers Meylekh and me in such spellings is that Mikhl's principle
+of morpheme-preservation in writing is observed in words like "redt" but
+not in expressions like "bistu" and "hostu." The discussion is
+complicated by an observational disagreement between Mikhl Herzog and
+Arre Komar (13 Nov.) Mikhl agrees with me that the words "redt" '(he)
+speaks' and "ret" '(he) rescues' are homophones (pronounced the same),
+which is what Meylekh and I believe. Arre, however, says, "I notice that
+when I speak I make a clear distinction between redt and ret. The former
+ending is slightly  softer and more d-like than the latter."  In a
+private message Shleyme Axelrod asked me whether such a claim could be
+tested by means of spectrograms.  Let me give you my answer to him with,
+I hope, some improvement. Statements such Arre's are often made by
+literate folk under the influence of the orthographic vagaries of their
+cultures' writing systems. It would be as if some English speaker said
+that there is just a very small difference between "night" and "knight."
+(Of course, there was a very real difference beteen them, I dare say, in
+Old English and presumably Proto-Germanic.) If Brother Arre has fallen
+victim to this phenomenon and simply imagines a difference between the
+two words, he will have to be seized and purged of his sin.
+
+If, however, Arre is right, it follows that we have made an important
+discovery about the consonant system of Yiddish! There are three forms:
+/ret/ 'rescues,' /red/ 'speak,' and, let us say, /reD/ 'speaks.' That is,
+Yiddish has not only /d t/ but also some third stop consonant in contrast
+with both of them, that is  "a little softer and more d-like" than /t/; I
+label his sound /D/.
+
+I said to Shleyme that before doing an instrumental investigation of the
+matter,  we would have to determine that the three categories actually
+exist in the  production and perception of native speakers. We would have
+a few native speakers record several instances each of "ikh red," "er
+redt," and "er ret." It is absolutely vital that they _not_ be told the
+purpose of the exercise. Thus, it would be best to mix a number of other
+short items into the list. (We would want to keep track of what dialects
+of Yiddish we were recording.) Removing the pronouns from the recordings,
+we would randomize the tokens of the key words and play them to a jury of
+native speakers, including our informants, for labeling in Yiddish
+script. If Arre is right, three statistically significant categories will
+arise from the data. Then we can examine sound spectrograms or other
+instrumental displays to determine the differentiating phonetic
+properties.
+
+Finally, there is the matter of the spelling of the end of one morpheme
+and the beginning of the next one with the same consonant letter whether
+or not this reflects true consonant length (gemination). Dovid Braun,
+who first called the matter to our attention, has added (14 Nov.),"After
+composing my entry on double consonants, I reread it and took a
+double-take, realizing that, as it stood, I was claiming what Arn
+Abramson says I claim.  And after intuiting a bit and thinking back to
+the Yiddish linguistic literature I've read that touches on the matter,
+I was satisfied with my claim: normal spoken Yiddish has a phonological
+(postlexical, if you will) rule of degemination.  Wherever you have two
+like consonants meeting, pronounce the sequence as if there were only
+one.  "madam meyerson" is syllabified as [ma.da.me.yer.son]; "onnemen"
+is syllabified as [o.ne.men]. In "careful speech", a speaker might
+lengthen the consonant for purposes of disambiguation or phonetically
+preserving the integrity of each morpheme, but in casual speech, this is
+lost categorically." He goes on to give a note on Soviet spelling. I
+cannot argue with him, as my only knowledge of usage may be based on
+careful, deliberate speech. If he is right, of course, Meylekh and I
+will have to resign ourselves to further exceptions to the principles of
+transcription. What we seem to have in both Yiddish writing and YIVO
+writing is neither a  pure transcription nor a pure transliteration. It
+is roughly a roman transcription that, with some troubling exceptions
+(e.g., /bistu/), preserves information about morpheme boundaries.
+Curiously, in Hebrew-Aramaic words Yiddish writing is normally pure
+transliteration, while in YIVO writng it is transcription of the
+pronunciation
+
+Yiddish (Semitic spelling)                YIVO       Gloss
+shin-beyz-sov                           shabes        'Sabbath'
+mem-nun-khes                            minkhe        'afternoon
+                                                        service'
+khes-sov-langer nun                     khosn         'bridegroom'
+
+Arn Abramson
+
+______________________________________________________
+End of Mendele Vol. 4.191
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,180 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.246
+February 9, 1996
+
+1) Pluperfect (Ellen Prince)
+2) Pluperfect (Dovid Braun)
+3) Bris-itse (Bernard S. Greenberg)
+4) Gevald (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Wed, 07 Feb 1996 20:35:53 EST
+From: ellen@central.cis.upenn.edu
+Subject: Pluperfect
+
+thanks, meyer wolf, for that crystal-clear summary [5.245] of the tense
+situation! your post is a 'keeper', as they say. my only addition is one that
+i personally believe impinges on some that you've mentioned: the loss
+throughout eastern yiddish of the germanic 'sequence of tense' system,
+replaced by the slavic style. i mean the difference exemplified below between
+english and yiddish:
+
+said on friday:
+montik hot er gezogt az er VET kumen mitvokh (ober er iz nit gekumen).
+monday he said that he WOULD come on wednesday (but he didn't come.)
+
+[notice you can't say in english 'monday he said he will come on wednesday' if
+you mean a previous wednesday.]
+
+anyway, once the sequence of tense system changed, the frequency of all these
+'fancy' tenses (pluperfect, future perfect, past conditional...) had to drop
+enormously -- and i would bet that that's what inspired all these changes. one
+possibly irrelevant note: french has effectively also lost the preterite, at
+least in the spoken language-- but its pluperfect seems to be alive and well.
+and it has a germanic-style sequence of tense system rather than a
+slavic-style.
+
+btw, goldwasser (for whom i publicly thank the very kind jerry sadock, a
+discreet lurker in our midst :) ) also relates the changes in the pluperfect
+to the changes in the sequence of tense system but, if i understand him
+correctly, sees the causality the other way -- that the loss of the pluperfect
+killed the sequence of tense system. while i can't see that, i _was_ thrilled to
+learn from his paper that both hungarian and modern hebrew have a 'poorly
+developed' pluperfect _and_ have a slavic-style sequence of tense system. re
+modern hebrew, would you know if this is a recent development? what kind of
+sequence of tense system did biblical hebrew have, would you know? and what
+about its pluperfect? the plot thickens... :)
+
+nokh a mol, thanks for that great summary!
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Wed, 07 Feb 1996 21:07:51 EST
+From: dovid@mit.edu
+Subject: Pluperfect, conditional, auxiliaries, hobn/zayn distinction
+
+To answer Meyer Wolf's question [5.245], there's a bit more to be said about
+the conditional.  Sorry, I haven't the time maarikh tsu zayn, but here's a
+kitser-hadover:
+
+ven ikh het gevust... mekht ikh ... (still around for some speakers -- I know
+of litvishe and Bukovinan)
+
+ven ikh zol/visn geven visn (where I think *gehat is totally out) -- our
+beloved moderator Noyekh Miller is a consistent user of this type of
+conditional, where a plain old counterfactual conditional is intended, not
+necessary a perfect conditional (i.e. the form means 'if I knew,' not
+necessarily 'if I had known')
+
+ven ikh zol visn -- a counterfactual conditional using the typical subjunctive
+auxiliary _zol_.  Coupled with _ven_, it gives you a counterfactual reading.
+
+ven ikh veys dos volt ikh (ge)kumen frier -- where the verb in the if-clause
+is in the present tense and the conditional is crucially introduced _ven_.
+(There are other 'if'-words in Yiddish, e.g. tomer, oyb, az, but curiously
+only _ven_ can be used in this context.)
+
+Dovid Braun
+Cambridge, MA
+
+3)----------------------------------------------------
+Date: Wed, 7 Feb 1996 22:11:04 -0500
+From: bsg@basistech.com
+Subject: Bris-itse
+
+-itsa is a Rumaninan feminine diminutive ending, for what it's worth...
+
+Bernard S. Greenberg
+
+4)----------------------------------------------------
+Date: Wed, 7 Feb 1996 22:40:17 -0500
+From: zellig@aol.com
+Subject: Gevald
+
+Shoshana Balaban-Wolowicz (5.244,2) questions my coinage "Gevald Nayn-Elf" in
+the sense of an emergency and "gevald geshrien" (or geshrign) as a scream for
+help.
+
+She bases her questioning on the meaning of the word "gevald in the folk
+song:
+
+Sha shtil,
+makht nit kayn gerider,
+der rebe geyt shoyn tantsn vider;
+sha shtill makht nit kayn _gevald_
+der rebe geyt shoyn tantsn bald...
+
+I believe that in this instance "gevald" should be interpreted contextually
+within the described event.  "Makht nit kayn gerider" says 'do not make a
+tuml' [tumult] and 'makht nit kayn gevald' conveys a plea to the rebbe's
+followers to give him spatial room and air for his joyous dance, and not to be
+carried away with it...  So, I suggest, "gevald" here is a kind of poetic
+license, rhyme-induced by _'bald'_, and not to be taken literally.
+
+On the other hand, it may well be a lyricist's dittological device to repeat
+in different words the line 'makht nit kayn gerider' but with several decibels
+higher, namely 'makht nit kayn gevald,' since _gevald_ is indeed a 'geshrey'
+(or 'gesgray'), that is a loud, warning call, but here not an emergency plea
+but rather, again, a poetic way of raising the level of 'tuml'...
+
+And what if the anonymous writer of the song was a _misnaged_, an opponent to
+khsides, and the intent of the ditty was to make fun of the khsidim, of their
+unrestrained responses at the rebbe's every gesture and motion, and their
+interpreting them in "holy" ways, meanings, and messages?...
+
+According to this tentative suggestion, 'makht nit kayn gevald' would mean a
+plea to the khsidim not to get, at the sight of their rebbe's dancing, in a
+state of "hispayles" [enthusiasm], and, for no rhyme or reason (in this
+misnaged's view), lose their senses to the point of a "gevald"...
+
+Thus, it is all in the eye and ear of the reader...
+
+Zellig Bach
+
+______________________________________________________
+End of Mendele Vol. 5.246
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

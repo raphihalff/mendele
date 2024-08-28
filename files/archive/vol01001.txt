@@ -1,0 +1,262 @@
+Mendele: Yiddish literature and language
+_______________________________________________________
+Contents of Vol. 1 no. 1
+May 15, 1991
+ 
+1) Oyfn rekhtn fus (Noyekh Miller)
+2) Deciphering Yiddish documents (Nicholas Eshelman)
+3) Comments (Mikhl Herzog)
+4) A query (Ellen Prince)
+5) A reply (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Wed, 15 May 91
+From: Noyekh Miller (nmiller@trincc.bitnet)
+
+At last Mendele is ready to go public.  We have as of
+today a total of 22 subscribers (list on demand) and
+a very good roster it is.  And while we're neither in
+Czernowitz or Vilna we may in at the start of something
+that none of might have thought possible 10 years ago.
+Let us hope so.
+
+A word about my role.  I'm the shammes.  That means that
+everybody can (and should) offer advice, criticism, help.
+The only thing I ask of you is that you contribute regu-
+larly and often.
+
+Please direct contributions to: mendele@trincc.bitnet
+and private messages to: nmiller@trincc.bitnet.
+
+2)----------------------------------------------------
+Date:   Mon, 13 May 91
+From:   Nicholas Eshelman (NESHELMA@UKANVM.BITNET)
+
+I am presently trying to decifer a number of letters
+written from Sedalia, Miss ouri around 1891 IN YIDDISH! 
+The letters were kindly lent to me by the great-g
+randson of their author.  Several years ago a rabbi in
+Kansas city was asked to translate the letters, which
+he did quite well.  He also transcribed them in ro man
+characters, though interestingly enough this proved to
+more of an (unconcio us) translation into his own
+dialect of Yiddish than a transliteraton.  
+At any rate, the hard part is not understanding the
+letters but decifering them  and interpreting the
+vowels and diphthongs.  There is no telling a vov from
+a yud or often an alef fron tsvey vovn etc. Spelling is
+also very inconsistent an d there is no punctuation. 
+As a result I have no idea of the actual phonetic v
+alues represented by the graphemes for the vowels.  For
+this reason, in the fol lowing excerpt I will not try
+to interpret the the value of the vowels, but wi ll
+represent them as follows: alef: ' , vov: u, yud: y,
+ayen: e. Tsvey vovn, ho wever is "v" to make reading a
+bit easier.  The consonants are plain old YIVO. I hope
+this hastily conceived scheme doesn't cause too much
+eye strain.  
+Sedalia Missouri July 13/91 (in roman characters)
+ 
+Myyn lyber k'zyn 'hrn Lyyzer Shpyler. 'ykh h'be dyyn
+bryev 'yyte m'rgyn gykrygn  'nd 'ykh denk d's es vyl
+nykht l'ng zyyn byz 'ykh vyl dykh 'nd dyyn fruy und d
+yyn t'khter ts' zehyn  [...]
+ 
+'ykh byn f'n U'nuv (Yonev, Galicia?) avek gyk'myn 'yn
+y're 1855. 'ykh k'm glyykh n'kh Engyl'nd.  F'n Engl'nd
+byn 'ykh 'n shyf gykymyn ts' 'rbyytn myt 20 t'l'r d's
+m'nyyt 'yn kh esyn fryy. 'ykh v'r 'n mytlershyn mer 'n
+shvartsyn mer 'yn K'nst'ntyn'pl, fyle pletsn ts' fyel
+ts' shryybn.  'ykh byn vydyr gyk'myn n'kh England
+bets'lt gykrygyn 'nd n'kh 'merik' gykumyn 'n tsyytyn
+t'g Rush Hshnh 1856 'yn der sht't B'ldym're 'yn N'rt
+Ameryk'. 'ykh v'r d' 'yyn y'r. 'ykh 'n gyf'ngyn ts'
+'ndlyn v'ry tsu fyrkufyn klyydyr 'ly 'nd shnyt v'ry.  
+He goes on to say he got married a woman who is "gyz'nt
+'nd shtark, vegt 'n gyfehr 200 fund."
+ 
+ 
+I would be interested in any comments regarding the
+language of this excerpt or  anything else.  (I'm not
+familiar with manuscripts from this period. Is the
+spelling always this erratic?)  Thanks for your help.
+
+3)----------------------------------------------------
+
+Date: Mon, 13 May 91
+From: 	
+
+Mr. Eshelman, some comments on your text. Forgive me if
+I dwell on things that are obvious to you. Some of us
+are in the business of being pedantic. (I'm copying
+this to "Mendele", by the way. You can "forward" to
+"Dave".)
+ 
+     The spelling in your document is not really
+erratic although I can see why you think so. The key to
+it lies in what you describe when you say that "there
+is no telling a vov from a yud". This reveals, first
+and foremost, that the writer's native speech is
+DECIDEDLY NOT northeastern: it has merged all the
+historical u-sounds (represented by vov in the Standard
+language) and i-sounds (represented by yud). ALL of
+them are realised as "i"; thus singular "bruder" and
+plural "brider" are alike: "brider". The writer's
+attempt to differentiate them in writing leads to
+hypercorrection (writing vov where one would expect
+yud, and vice versa) We find spellings like "kund" for
+"kind", "funger" for "fingerr", etc. It's a common
+feature of 19th century manuscripts (and even of
+published works) in Poland and the Ukraine. One puzzle,
+though, the name of the town. I'm surprised to see the
+substitution of vov for initial SEMI-VOCALIC yud (as
+the name Janow would imply).
+ 
+     Let me draw your attention to two other features
+of the writer's speech which the spelling reveals:
+ 
+1)  'yyte (= hayte 'today') and 'andlyn (= handlen 'to
+trade') suggest that he "drops" his aiches; this is
+regionally distinctive.
+ 
+2) tsyytn t'g (= tsveytn tog  'the second day'), in
+which the "v" is lost, is also regionally distinctive;
+essentially the same region, though.
+ 
+     Now then, both features ARE TOTALLY consistent
+with part of the area in which the u's and i's have
+merged in "i". and, from its location, Janow does seem
+to be a good candidate for the cooccurrence of all
+three.
+ 
+     There is definitely more, but other duties beckon. 
+
+     One more comment, to close. I don't think that the
+grammar is heavily influenced by German. I see only one
+really German grammatical form "k'm" (= the preterite
+"kam" 'came'). The others all seem to be
+"Germanizations" (stylistic affectations) of spelling,
+mainly, in such cases as "'nd" (und for un), "bryev"
+(for briv)  and in the form of some words "h'be" (=
+habe for hob) and "'yyte" (= ? German "heute"? No!
+"Yiddishized" "ayte" (and without the aich, yet!).
+These are better designated as "daytshmerish" not as
+"daytsh" (= German). Are you familiar with the concept?
+See Mordkhe Schaecter's "The Hidden Standard" (and
+accompanying bibliography) in THE FIELD OF YIDDISH,
+Vol. 3 (1969). OK?
+ 
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Wed, 15 May 91
+From: Ellen Prince (ellen@central.cis.upenn.EDU)
+
+i'd be very grateful if those subscribers who consider
+themselves native in yiddish would translate the
+following. please send your answers to me at
+ellen@central.cis.upenn.edu. a hartsikn dank! 
+
+1. a child was born every hour.
+2. two people live in each house.
+3. i went to a few funerals in each city.
+4. i meet someone i know wherever i go.
+5. all that glitters is not gold. (i'd like a literal
+translation--it doesn't    have to be a proverb in
+yiddish.)
+6. no news is good news. (again, a literal translation,
+please.) 7. everybody isn't as smart as you, you know.
+8. everyone died in each battle.
+
+5)----------------------------------------------------
+Date: Mon, 15 May 91
+From: Mikhl Herzog (ZOGUR@CUVMB.BITNET)
+
+A few little answers. By the way, you surely know the
+one about the field-worker learning an Amerind
+language. "Can you say XX?" "Yep". "Can you say YY?""
+"Yep". "Can you say ZZ?" "Yep". "By the way, what does
+it (XX, YY, ZZ) mean"? "It don't mean nuthin!" SO . . .
+ 
+1. A child is born every hour.
+i) ale sho vert gebo(y)rn a kind.
+ii) yede(r) sho vert gebo(y)rn a kind. ("yeder" can be
+treated as an invariant")
+iii) a kind vert gebo(y)rn ale sho
+iv) es vert a kind gebo(y)rn ale sho
+ 
+alongside of iii, could you also say:
+ 
+v) a kind vert geboyrn yeder sho.  ?   YES
+ 
+also, does iii mean exactly the same thing as i, ii,
+and iv? I THINK SO.
+ 
+2. Two people live in each house.
+i) in yeder/yedn hoyz vojnt men zalbetsveyt
+   in yeder shtub vojnt men zalbetsveyt
+ii)in yeder, etc. voynt men in tsveyen
+iii) in yeder, etc. voynen tsvey/voynen tsvey
+mentshn/voynen tsvey ire.
+ 
+is it possible to say iv:
+ 
+iv) tsvey mentshn voynen in yeder/yedn hoyz/shtub.  ? 
+YES  
+3) I went to a few funerals in each city.
+in yeder shtot bin ix gegangen/geven af/oyf etlekhe
+levayes  
+is it possible to say also:
+ 
+ikh bin gegangen/geven af/oyf etlekhe levayes in yeder
+shtot.  ? YES
+ 
+4) I meet someone I know wherever I go.
+i) vu nor ikh gey, bagegn ikh/tref ikh emetsn vos ikh
+ken ii) vu ikh zol nit geyn, bagegn ikh/tref ikh emetsn
+vos ikh ken  
+is it possible to say also:
+ 
+ikh bagegn/tref emetsn vos ikh ken vu nor ikh gey/vu
+ikh zol nit geyn.  ?  YES, WITH AN INTONATIONAL ASSIST
+ 
+5) All that glitters is not gold.
+ 
+ni(sh)t alts vos finklt iz gold
+ 
+is it possible to say also:
+alts vos finklt iz ni(sh)t gold.   ?  YES, BUT IT DON'T
+FEEL SO GOOD.
+ 
+6) No news is good news.
+i) az siz ni(sh)to keyn nayes iz dos aleyn a gute bsure
+ii) az siz ni(sh)to keyn nayes iz dos aleyn a gute
+yedie  
+(Is that what you mean by literal?)
+ 
+no, that's a proverb. i mean literal-er. IF IT"SD A
+PROVERB, I MADE IT UP. I'M NOT SURE I KNOW ANOTHER REAL
+POSSIBILITY.  
+7) Everybody isn't as smart as you, you know  ("you" or
+"ya"?) i) vejst dokh, (az) ni(sh)t yeder iz azoy klug
+vi du ii) yeder iz dokh ni(sh)t azoy klug vi du
+iii) ni(sh)t yeder iz dokh azoy klug vi du
+ 
+does ii mean exactly the same thing as iii? CAN ANY TWO
+VARIANTS MEAN "EXACTLY" THE SAME THING? THEY "FEEL" THE
+SAME. THE FOCUS IS DIFFERENT.
+ 
+8) Everyone died in each battle
+i) in yeder/yedn kamf zaynen/zenen ale
+umgekumen/geshtorbn ii) in yeder/yedn kamf iz yeder
+umgekumen/geshtorbn  
+could you also say:
+ 
+iii) ale/yeder iz umgekumen/geshtorbn in yeder/yedn
+kamf.  ? ALE ZAYNEN/YEDER IZ UMGEKUMEN. . . YES. IN
+THIS CONTEXT, I THINK THAT UMGEKUMEN IZ BETTER THAN
+GESHTORBN.
+
+______________________________________________________
+End of Mendele Vol 1.001
+ 

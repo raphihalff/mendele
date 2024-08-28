@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.422
+May 14, 1995
+
+1) Call for Bibliographers (David Goldberg)
+2) Koyletsh (Barry Walfish)
+3) Kinship and modernity in Moldavia (Rick Gildemeister)
+4) Humor (Louis Fridhandler)
+5) Nokhamol gezindikt (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Fri, 12 May 95 10:34:50 EST
+From: david_goldberg@smtpgwy.mla.org
+Subject: Modern Language Association Call for Bibliographers
+
+The MLA International Bibliography is looking for people who would be
+interested in indexing scholarly books and journals in the fields of
+Yiddish language, literature, and folklore.
+
+The bibliography is compiled by volunteer specialists in various subject
+fields, in cooperation with the staff of the MLA Center for
+Bibliographical Services.  Bibliographers generally have a fixed
+assignment of five or more journals, from which they contribute 25 to 50
+citations a year. Bibliographers are also encouraged to index new books
+in their field.  The bibliographic information is recorded on worksheets
+and mailed to the MLA Center for Bibliographical Services for processing.
+
+Although bibliographers are not paid, they do receive a complimentary
+copy of the complete printed bibliography, in which their name is listed
+among the contributors.  Upon request, a letter of acknowledgment is sent
+to the bibliographer's dean, department head, or supervisor.
+
+If you are interested in becoming a volunteer bibliographer, please send
+a letter and resume to Terence Ford, Editor, MLA International
+Bibliography, 10 Astor Place, New York, NY 10003-6981.  Tel:  212
+614-6348.  E-mail:  ford@mla.org
+
+David Goldberg
+
+2)----------------------------------------------------
+Date: Fri, 12 May 1995 10:48:57 EST
+From: walfish@vax.library.utoronto.ca
+Subject: Koyletsh
+
+As far as I know, koyletsh refers to a round khale eaten on certain
+holidays, esp. Purim. I assume, the ingredients are the same as the usual
+braided or bilka types of khale.
+
+Barry Walfish
+
+3)----------------------------------------------------
+Date: Fri, 12 May 95 11:00:36 EDT
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Kinship and modernity in Moldavia
+
+Ghitta Sternberg's ethnography of Stefanesti, a shtetl on the border of
+Bessarabia, notes an interesting twist on Yiddish kinship terminology.
+She felt that the shtetl was headed toward assimilation, with the ability
+to speak Romanian fluently, without a Yiddish accent, considered a
+desideratum. She also says that the townspeople would have vigorously
+denied this prediction. What they wanted was modernity, an acculturation
+and participation in the national life of their country, but not an out
+and out rejection of Yiddish.
+
+The townspeople classified people along a continuum of traditional to
+modern. The way one addressed an aunt who was traditional was to call her
+"mime", whereas if she were more modern, wearing Western European
+clothing styles, for instance, she would be addressed as "tante".
+Sternberg points out that it was all somewhat unconscious, that someone
+would address a modern-thinking aunt as "mime" was just unthinkable.
+
+Sternberg also points out the townspeople were aware of a connection with
+German and German culture, but that they considered it a connection in
+which they were the "poor relation". They viewed this culture as superior
+to their own. What's interesting is that they adopted a daytshmerizm
+"tante" to identi- fy people categorized as what might be considered
+"German", i.e. modern.
+
+I've heard a lot of American Jews use the word tante and wonder, is it
+indeed a daytshmerizm? If so, it is ironic that the Germans themselves
+had rejected Oheim and Mumme for Onkel and Tante, respectively as being
+more "cultivated", i.e. French.
+
+Just some nice Erev-Shabes musings. I really do hope other Mendelyaners
+will read that book. Sternberg's whole premise is that the Romanian
+shtetl was indeed different from shtetlekh in the Slavophone countries,
+and that it merits study. I agree, and also feel it's one of the most
+charming and touching ethnographies I've ever read (I was an anthro major
+in college).
+
+Rick Gildemeister
+
+4)----------------------------------------------------
+Date: Fri, 12 May 1995 12:53:13 -0400
+From: lfridhan@aol.com
+Subject: Anything (almost) created with humor has my vote
+
+Leybl Botvinik derklert gants fayn, tseleygt af telerlekh, zayne yesoydes
+fun yidishe kompyuter neologizmen (4.417, 2), ober mit di heyvn fun
+humor.  Gut gezogt.  Me darf es oyshern, geduldik, mit kop.
+
+Humor iz fun di tifenishn.  Bobby Clark, a barimter komiker fun amol, hot
+zikh tseklogt mit der noz aropgelozt, "Nu, vos tut men?  Ikh arbet azoy
+shver.  Ikh dertseyl dem oylem mayne beste vitsn.  Un vos tut der oylem?
+Nor zey lakhn."
+
+Louis Fridhandler
+
+5)----------------------------------------------------
+Date: Sun, 14 May 1995
+From: nmiller@mail.trincoll.edu
+Subject: Nokhamol gezindikt
+
+The shames has been informed by more than one of our sharp-eyed readers
+that Vol 4.415 (May 10, 1995) was mislabelled Vol 4.414.  Apologies.
+The archive will be corrected.
+
+These being the last words in Vol.4, let us hope that a new year (and
+a new machine!) will both be error-free.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.422
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

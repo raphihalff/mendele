@@ -1,0 +1,200 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.417
+May 10, 1995
+
+1) Romanian Jewry (Rick Gildemeister)
+2) Nokh a bisl (Leybl Botvinik)
+3) The Forward needs help with Yiddish (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Wed, 10 May 95 09:13:46 EDT
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Romanian Jewry - more
+
+I received a request for the citation of the book on Romanian Jewry I had
+mentioned in connection with my admiration of YIVO and the klal-shprakh.
+The book is very valuable, since we think of the shtetl as more of an
+east-central phenomenon, and shtetlekh in Romania really were different
+from the mold. This book dovetails beautifully  with Ghitta Sternberg's
+book _Stefanesti: portrait of a Romanian shtetl_ (Rick mentioning that
+book *again*?)
+
+Sternberg explains the relations of Jews with the peasantry, and says
+that they were better than in Slavic Eastern Europe because of the
+"easygoing Latin temperament" of the peasants. The book I'm about to cite
+confirms that it was the boyars (groyse pritsim) that were down on the
+Jews, would not allow them to become citizens and generally wanted to
+make life unbearable. The upshot was that all of rural Jewry in Romania
+decided literally to walk out of Romania, and took to the roads. The
+peasants greeted them along the way, begging them to stay, providing them
+with food for their journey, and literally crying heyse trern. The reason
+that this is of general interest was that the western powers, including
+the U.S. were suddenly flooded with refugees, and it was a good
+opportunity to get the world community to do something about the pogroms,
+lack of access to citizenship and generally the autocratic system of
+government, which was perpetuating what seemed to be an antiquated
+problem, defined as the "Jewish Question". Fascinating reading (and
+again, I'll plug Sternberg's book about the "douceur de vie" among the
+Romanian shtetl-dwellers). If one considers also Bessarabia, a
+Moldavian/Romanian speech-area, do we maybe have a clue to the plethora
+of "Romanian" songs that Ellen Prince mentioned on a program she
+sponsored on WEVD? There seemed to be a lot of songs with Bessarabia and
+Kesheniver in the title (with lots of freyd "In Romenie iz dokh gut"
+"Mayn Shtetl Yas"  "Ikh benk nokh Besarabie"). Sternberg leads us to
+believe that life indeed was better than in Poland, since the Jews lived
+a middle-class life. Ah yes, in Romenye iz geven take zis dos lebn.
+
+One caveat to what I am sure is an oversimplification: Bessarabia was
+the part of Moldavia under czarist Russian control, and Kishinev was
+the site of a notorious pogrom.
+
+And now the citation:
+
+Kissman, Joseph.  Shtudyes tsu der geshikhte fun romenishe Yidn in 19tn
+un onheyb 20stn yorhundert.  Nyu-york: Yidisher visnshaftlekher Institut,
+Historishe sektsye, 1944.  118 p.
+
+Rick Gildemeister
+
+2)----------------------------------------------------
+Date: Wed, 10 May 95 15:20:46 IDT
+From: leybl@telecomm.tadiran.co.il
+Subject: nokh a bisl (oder: 'a rendl a vort')
+
+in di letste numern mendele (V4.405 un 4.412) iz geven farefntlekht dos
+vort 'bis' oyf yidish, vi an iberzetsung fun 'byte', oyf english. azoy
+vayt vi ikh veys, iz dos mayn 'derfindung' (tomer vil an ander dos far
+zikh, --- iz est gezunterheyt). lomir deriber derklern vi kum ikh tsu
+dem, un bekhlal vegn andere verter vi dos.
+
+mit yorn tsurik (1978-1982), ven ikh hob aroysgegebn dem zhurnal 'Der
+Nayer Dor' un khob gedarft shraybn vegn kompyuters, hob ikh nokh demolt
+ongehoybn shafn a reshime iberzetsungen. lemoshl (fun english oyf
+yidish): Byte=bis; Bit=bisl, Chip=brekl, un andere zise zakhn... di
+merste fun mayne oysgetrakhte verter hob ikh afile biz haynt nit genutst.
+zint demolt, iz geven farefntlekht a reshime in Yugntruf, vos dos iz
+tsuzamengeshtelt gevorn fun odem vitman (oyb ikh makh keyn toes nit), un
+initsirt durkh dr. mordkhe shekhter. Agev, men darf di reshime banayen,
+un oysbreytern. oykh farefntlekhn do oyf mendele far di leyners (odem, du
+herst mir?).
+
+Hakitser: Byte tsu bis, iz mayn shtikl humor; un Bit tsu bisl. Derfar
+ober iz do nokh a termin vos heyst Nibble vos dos iz a halber Byte, oder
+4 Bitn. Leybl Fridhandler vet zayn tsufridn tsu hern, az andere hobn oykh
+a shtikl humor.  Oyb Nibble iz a halber Byte, to 'shos' darf zayn oyf
+yidish Nibble. (ober dos iz vider mayn krumer humor). vi kumt es? far dem
+darf men borgn fun shimen dzhigan: 'a rendl a vort'.
+
+Lomir dos alts vider batrakhtn:
+
+1. ikh veys az Bit kumt funem tzunoyfgus fun 'Binary Digit'; un Bit iz a
+   kleyne zakh, deriber oyf yidish bisl; [farnotirt aykh, az oyf
+   hebreyish ruft men dos 'bit' beys-yud-tes; oyf rusish oykh 'bit'];
+
+2. 8 Bitn (bislekh) iz 1 Byte. der opshtam fun Byte veys ikh nit. Byte
+   vert oykh ongerufn 'oktet'. oyf yidish, leyg ikh for 'bis' (un nit
+   'bays'); [farnotirt aykh, az oyf hebreyish ruft men dos 'bayit'
+   {=shtub} beys-yud-sof, vos oyf ashkenazish darf men dos aroysreydn
+   'bayis'; di yisroeyler hobn ye bashlosn tsu farbindn dem klang fun
+   'bayit' tsu Byte; oyf rusish oykh 'byt'];
+
+3. 4 Bitn (bislekh) iz a Nibble (a halber Byte=bis); vi azoy vert dos
+   'shos'? azoy: 'a bisl mit a bisl iz a fuler shisl' -- iz dos nor 2, un
+   mir darfn 4. darfn mir deriber tzvey shislekh; iz ober 'shisl' nit
+   keyn kleyn-mos (vi dos iz 'tishl' tsu 'tish'); hob ikh aleyn
+   ekstrapolirt fun dem vort shisl->shis->shos; oyf hebreyish 'nibl'; oyf
+   rusish 'nibl' oyfn PC, un oyf groysram kompyuters (=Mainframe
+   computers) 'tetrad'.
+
+4. Men ken shpiln mit dos oybndermonte, un onshtot 'shos' zogn 'moltsayt'
+   (a shisl mit nokh a shisl makht a moltsayt, neyn?), un makhn fun a
+   Nibble (a halber bis), a gantse 'moltsayt'...
+
+5. Men ken nemen fun di yisroeler dem 'bayit/bayis' un rufn undzer
+   heymisher Byte 'gebayde'[=building], oder farkirtsn dos oyf 'bayde',
+   un dan zogn: Megabayde(s), kilobayde(s),...
+
+6. Un efsher 'rendl' oyf Word? [- an 8-bis-rendl, a 16-bis-rendl,...
+   Shimen Dzhigan z"l volt fun dem gemakht epes, az mir voltn ale
+   geplatst fun gelekhter].
+
+7. Efsher hobn andere vos tsu zogn??? vos kenen mir lernen fun vi men
+   zogt dos oyf frantseyzish, daytsh, shpanish?
+
+leybl botvinik
+netanya
+
+3)----------------------------------------------------
+Date: Wed, 10 May 1995 15:31:31 -0400
+From: zellig@aol.com
+Subject: The Forward needs an in-house Yiddish consultant
+
+For purposes of ready identification, I suggest to hold to the folllowing
+distinction:  _Forverts_ for the Yiddish-language paper;  _Forward_ for
+the English-language one.
+
+1.  "Meydl" un "Mentsh:"   The _Forward_ carries an advertisement section
+where people looking for mates advertise their "personals."  This section
+is headed by a small banner "Matchmaker, Matchmaker" (very likely from
+the popular song in "Fiddler on the Roof") and underneath it the phrase,
+all in capital letters, "Meet a Meydl, Meet a Mensch."
+
+I doubt very much if a woman reader of the _Forward_ would look for a
+"bashertn" in a German "Mensch," but would rather opt gleefully for a
+Yiddish "Mentsh."
+
+2.  Questioning the Forward's Yiddish:  In a Letter to the Editor, Susan
+Saender Rogol, from New Haven, Conn., wrote:  "My husband says, since the
+Yiddish-language mistake was not in Philologos, it does not matter.  I
+say, if you cannot count on the Forward for the most correct use of
+Yiddish, well, where are we to look? So I want to note that in the Feb.
+24  " 'Coffee Talk' Leaves Fans Farklempt" the writer speaks of "shikses
+and sheygetzes."  I know of no "shegetzes," only "shkotzim."
+
+Well said, but with a big _however_ in capital letters:  To "count on the
+Forward for the most correct use of Yiddish," is highly questionable.
+Philologos notwithstanding, he is not an in-house staff member, so he is
+not around to settle problems of Yiddish usage or spelling in the last
+hours before the paper goes to press.  At times, the romanized spelling
+of Yiddish words in the Forward is simply outrageously _ameratsish_
+(ignorant), and leaves the reader who knows Yiddish "farklemt" (sad,
+depressed), not "farklempt" [_sic_].
+
+Zellig Bach
+
+______________________________________________________
+End of Mendele Vol. 4.417
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

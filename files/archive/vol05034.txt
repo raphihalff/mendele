@@ -1,0 +1,169 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.034
+June 28, 1995
+
+1) Combatting ignorance about Yiddish (Shleyme Axelrod)
+2) Offensive mockery of Yiddish (Louis Fridhandler)
+3) Mendele get-together (Fishl Kutner)
+4) Reichstag shtik (Shleyme Axelrod)
+
+1)----------------------------------------------------
+Date: Tue, 27 Jun 1995 13:49:09 -0400 (EDT)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Combatting ignorance about Yiddish
+
+Miriam Isaacs' posting (5.031), agreeing with Zellig Bach's insistence
+(5.030) that no apologies are required for wanting a respectful attitude
+toward Yiddish, was eloquent indeed.  Educating people out of a
+patronizing and mocking attitude toward the language and culture is, as
+Miriam points out, a problem.  Maybe that's too big a task, and too
+general, for any of us as indviduals to take all at once.
+
+Recall that Harvey Spiro's anger (5.025) was triggered largely by the
+dreadful mangling of "shver tsu zayn a yid" into "Svayir suit sain i yid"
+in a local UJA newsletter.  It seems to me that a note to the editor of
+such a publication, (a) gently pointing out that many people are unaware
+that Yiddish has both rules respected by professional linguists and a
+standard (YIVO) transcription method, and (b) boldly offering to edit
+Yiddish content (usually just a few words) before publication, might be
+well received.  Note that the goal here is limited and specific:
+grammatically correct Yiddish, transcribed in a standard way.  Why, after
+a while, readers might get the idea that _yidish iz take nisht hefker_,
+as Zellig has put it more than once.  Whether that idea would generalize
+to respect for the language and culture, I wouldn't presume to predict;
+but in the words of the old joke about an enema for a dead actor, _s'ken
+gornit shatn._  (In case one is uncertain about one's ability to deal
+with any particular words or phrases, a quick posting on Mendele would
+surely elicit acceptable forms.)
+
+Shleyme Axelrod
+Buffalo, New York
+
+2)----------------------------------------------------
+Date: Tue, 27 Jun 1995 15:50:32 -0400
+From: lfridhan@aol.com
+Subject: Offensive mockery of Yiddish
+
+I resonate with Miriam Isaacs in feeling offended by a woman teaching a
+Yiddish song in a spirit of mockery of Yiddish [5.031 (4)].  Popular
+American culture descends into that dim-witted offensiveness quite
+regularly.  And it makes me angry.  I, as most others, suspect that
+responding with anger will be misunderstood without a thorough
+explanation which will almost certainly be misunderstood.  On the other
+hand, keeping silent may be misunderstood= as agreement.  Being caught in
+such a dilemma makes me (at times) feel helpless.
+
+ But then, Miriam Isaacs ended her post on an optimistic note:
+
+>...to educate people out of this mentality is a problem.
+>But let's try and ... speak up for Yiddish ....
+>It will get through to intelligent people.
+
+Thanks for the optimism, Miriam.  I needed that.
+
+Those who created the wonders of Yiddish language and culture were the
+targets and victims of vicious, pathological destroyers.  Those destroyer
+s of minorities were cowards but some perceive them as daring, giving
+them a f alse aura of personal strength.  I have suspected that joining
+in victimizing Yiddish language and culture is based on this false
+perception of strengt h. Therefore, many feel a dread, feel anxiety about
+a fancied reemergence o f threats by destroyers.  This may not be
+conscious.  To protect themselves against that anxiety, some (I'm certain
+about some) invoke a psychologica l defense mechanism against anxiety. It
+was named by Anna Freud of blessed memory, "Identification with the
+aggressor."  At an evolutionary level it is analogous to "Protective
+Coloration."  To the sociopolitically cynical it is related to the motto,
+"If you can't lick 'em, join 'em."
+
+Enough anger.  And I'm on the verge of overgeneralizing.
+
+Let me end with optimism, to emulate Miriam Isaacs.  Just think of how lu
+cky we are.  Most of on Mendele can throughly enjoy the wonders of two
+langua ges and cultures: English and Yiddish.  Now _that's_ something to
+celebrate!
+
+Louis Fridhandler
+Irvine, CA
+
+3)----------------------------------------------------
+Date: Tue, 27 Jun 1995 20:52:44 -0700
+From: fishl@well.com
+Subject: Mendele get-together
+
+In Vol 5.031 my dear friend Louis Fridhandler noted that he will soon be
+our neighbor. More important was his raising again the idea of members of
+our Mendele List getting together.
+
+As a start, it may be a suggestion that we offer to have a session at
+major conferences like CAJE, MLA, and the International Yiddish Club
+Conference. The Toronto Club Conference had an excellent session on the
+use of computers.
+
+A quick look at the e-mail addresses shows that there are three times as
+many Mendelniks on AOL as on Compuserve, but together they represent only
+10% of our list. The majority are at a university, and I believe many are
+students. For the students the draw will be meetings like the recent
+excellent one at Ohio State and Mameloshn '95.
+
+Philip "Fishl" Kutner
+
+4)----------------------------------------------------
+Date: Wed, 28 Jun 1995 10:30:52 -0400 (EDT)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Reichstag shtik
+
+The sub-headline on Newsweek's story (July 3, 1995) about Christo's
+wrapping of the Reichstag reads "Art:  Christo's old shtik for a new
+Germany".  One would have expected the germanoid (though not German)
+"schtick", or maybe "shtick"; instead, the YIVO-standard transcription of
+the word, which is surely show-biz Yiddish.  A nice surprise.
+
+Shleyme Axelrod
+Buffalo, New York
+
+______________________________________________________
+End of Mendele Vol. 5.034
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

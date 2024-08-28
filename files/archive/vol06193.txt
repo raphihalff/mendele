@@ -1,0 +1,141 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.193
+January 8, 1997
+
+1) Kheshbn/khezhbm (Hugh Denman)
+2) Yiddish dictionaries (Abe Brumberg)
+3) Naye verter durkh dikhtung (Leybl Botvinik)
+
+1)----------------------------------------------------
+Date: Wed, 8 Jan 1997 12:57:51 +0100 (MET)
+From: h_denman@maier.vol.at
+Subject: Kheshbn/khezhbm
+
+Disputes about correct transcription are completely otiose unless one
+makes a clear distinction between a _transliteration_, on the one hand,
+which aims to represent in one alphabet (as reversibly as possible) the
+actual spelling in another alphabet and a _phonetic/phonemic
+transcription_, on the other, which attempts, with varying degrees of
+detail (as required), to render the sound of a word.
+
+And here a further distinction is called for between a "narrow"
+transcription, on the one hand, which records every allophonic nuance
+(useful for the outsider, but tediously overloaded for someone already
+acquainted with the language or dialect in question) and a "broad" or
+"phonemic" transcription, on the other, which restricts itself to giving
+the bare phonemic outline (which has the virtue of comparative
+simplicity, but may be inadequate for the outsider).
+
+Thus a "transliteration" might need to make it clear to the unitiated
+reader that the word in question begins with a khes and not a khof and
+that first vowel is not (normally) written, but is supplied. It would
+also need to record the presence of the vowel letter in the second
+syllable which is silent in the Yiddish (merged) pronunciation (=
+something like h(e)shbon, with dot under the initial h and otherwise
+depending on the precise conventions adopted). In a broad transcription
+it will suffice to write [kheshbn], since native speakers automatically
+retrogressively assimilate [with a few specific exceptions] in
+consonantal nexi involving plosives, fricatives and affricates and
+accommodate nasals to the quality of an adjacent consonant whether
+dental, labial or palatal and these rules are known to adult learners
+formally trained in Yiddish.
+
+If, on the other hand, one is writing for readers who neither know nor
+subconsciously apply such rules, then a narrower, more allophonic
+transcription will be necessary, e.g. [khezhbm]. In fact, Uriel
+Weinreich is not 100% consistent on this issue (and probably doen't need
+to be) in his (superb) dictionary.
+
+The bottom line is simply that it is a question of horses for courses,
+not right and wrong. However, for purposes like our own the broad
+transcription is normally the most appropriate, particularly since it is
+possible to smuggle into it elements of transliteration which can convey
+(when relevant) spelling variants in the original [e.g. oyf/af/uf].
+
+Hugh Denman
+
+2)----------------------------------------------------
+Date: 08 Jan 97 07:20:25 EST
+From: 102142.2545@compuserve.com
+Subject: Yiddish dictionaries
+
+I have not read the original attack on Uriel's Weinreich's dictionary,
+nor what was aparently a very spirited comments by--im biz iber hundert
+un tsvantsik--Mikhl Herzog, but perhaps I can put in a few words on this
+subject as somebody who has done a fair share of work in Yiddish, and as
+a close friend of Uriel Weinrech to boot.
+
+Uriel was --though some may consider this irrelevant or nit eydl--
+something of a "square," not exactly a prude, but someone who was
+careful to keep sexual terms, however ribald or explicit, distinctly
+apart from  shund, or jeujune toilet humor.  It is altogether likely,
+therefore, that he bristled at the idea including 'shvants,' tokhes,
+vekhedoyme in his dictionary.  The idea was: s'past nit.
+
+Second, Uriel (like his father) was very concerned about preserving di
+khshives fun yidish.  Again, including coarse expressions, however
+often they are used in daily language, was not exactly his idea of
+endowing his dictionary--the first scholarly dictionary of the Yiddish
+language--with the proper khshives...
+
+Finally--and this must be understood whether you lke it or not--Uriel
+was a normativist (hope that's the right term, mikhl-lebn?): some words
+are _right_, kosher, inviolable, however they may be shunned in daily
+intercourse or even modern lierature, and others are wrong, treyf, not
+to be used under any circumstances, however much they _are_.  The worst
+offenders, of course, were daytchmerizmen--he once wrote a very amusing
+article on this subject for _Yugntruf_.  He clearly suffered when
+somebody used an englishizm--even though there seemed to be no other
+word with kosher Yiddish-Hebrew or even old Slavic roots.  (I recall one
+of his admirers, Leybl Kahan, once coining the term "kukuridze
+sphrinkelekh", for corn flakes.  s'hot nebekh nit oysgehaltn dem
+geshikhlkhn egzamin, but we had a lot of fun with it...)
+
+Uriel's near-obsession also extended to the _pronunciation_ of certain
+terms.  I must confess I can't remember what they were, but I do
+remember they drove me up the wall.  I think they were words inherited
+by Uriel (via his father, of course) from kurlendishn yidish and
+may--again, my memory isn't too clear on it--related to diphthongs
+particularly.
+
+For all that, Uriel's dictionary is a masterpiece probably never to be
+excelled.
+
+abe brumberg
+
+3)----------------------------------------------------
+Date: Wed, 8 Jan 1997 15:17:27 +0200 (IST)
+From: leybl@telecomm.tadiran.co.il
+Subject: Naye verter durkh dikhtung
+
+in numer 6.173 fun mendele fregn zikh nokh Norma un Bernard Rubin, vegn
+verter geshafene fun dikhters (poetn).  es iz take azoy. verter vern
+geshafn in ale shprakhn tsulib farsheydene sibes. di vos tuen es oyf a
+gresern mos, d.h. ofter zaynen shraybers, dikhters, zhurnalistn.
+farshteyt zikh, az oykh andere.  ven mir zoln nemen a bayshpil fun der
+englisher literatur, kenen mir avade onvayzn oyf sheykspirs verk, vu men
+gefint 'naye' (far yener tkufe) verter.
+
+in undser literatur, vet ir dos oft gefinen bay dikhters: tsulibn gram,
+tsulibn ritem, un avade tsulib der bilderishkeyt. ikh veys, lemoshl, az
+der dikhter un bal-loshn m.m. shafir (o"h) hot arayngeflekht naye verter
+in zayne shafungen. azoy oykh andere.
+
+zhurnalistn tuen dos oykh, spetsyel baym oyfklern nayesn un inovatsyes
+oder zukhndik ekvivalentn far verter un oysdrukn vos hobn biz aher nit
+ekzistirt oyf yidish, ober vos zaynen arayn in andere velt-shprakhn.
+
+mit a yor tsurik, hot yitskhok luden, redaktor funem "lebns fragn" in
+yisroyl, gehaltn zeyer a balernendiker rede, take oyf der teme, far an
+oylem yidish lerers fun di klasn fun yidish in yisroyl, in dem bar-ilan
+tsenter far yidish oyfn nomen fun rina kosta.  ikh hof, az di arbet vet
+nokh amol dershaynen.
+
+leybl botvinik
+netanya
+
+______________________________________________________
+End of Mendele Vol. 6.193
+

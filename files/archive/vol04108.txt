@@ -1,0 +1,220 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.108
+September 21, 1994
+
+1) Dutch Yiddish (Meyshe-Yankl Sweet)
+2) Kibosh vs. kibush (Zev bar-Lev)
+3) Romanization (Yude Rozof)
+4) On Zellig's strictures (Shleyme Axelrod)
+
+1)----------------------------------------------------
+Date: Mon, 19 Sep 94 03:46:32 CST
+From: msweet@facstaff.wisc.edu
+Subject: Dutch Yiddish
+
+Interesting article in a recent Forverts, by Dovid Katz, about the Dutch
+Jewish linguist Hartog Beem, whom I've seen mentioned before on this
+list. Are there any Batavo-yiddishists who know if Beem's books are
+available anywhere?  Especially his large lexicon "Yeroshe".  Are there
+any Judaica bookstores in the Netherlands that might have this?
+
+Meyshe-Yankl Sweet
+
+2)----------------------------------------------------
+Date: Tue, 20 Sep 94 11:59:18 PDT
+From: zbarlev@zeus.sdsu.edu
+Subject: kibosh vs. kibush and transliterating hebrew words in yiddish
+
+1. objection!  it takes more than a meaning connection (or even meaning
+identity) to establish an etymological link.  there's got to be a path
+for it to take.  i have no special point of view of my own here, not
+remembering the earlier discussion.  but how and when did /kibush/
+supposedly enter English?
+
+there are all sorts of books out there (altho not as many as in the 18th
+century), in which someone "proves" that one language (often hebrew, but
+often the author's native language, e.g. there is a 20th century exmaple
+of arabic and an 18th century example of dutch) is the source of all
+languages.  doesn't "source" come from hebrew shoresh?  i'm not accusing
+charles eisenberg of going so far, but his QED is overstated.
+
+2. i second the idea that it's ok to transliterate (not transcribe
+phonemically) hebrew words in yiddish.  linguists may often prefer
+phonemic transcription, but there's nothing illegitimate about a
+transliteration. (there very handy in libraries, for example.)  if
+"standard yiddish" wants to abolish such special spellings, it had better
+abolish the special spellings in yiddish (a la sovietish heimlant).
+
+zev bar-Lev
+
+3)----------------------------------------------------
+Date: Tue, 20 Sep 1994 12:16:51 -0400 (EDT)
+From: jrosof@sas.upenn.edu
+Subject: response to Aharon Meytahl re: romanization
+
+In the last installment of Mendele Aharon Meytahl sharply criticized the
+principle which I expressed, that Yiddish should be romanized in
+approximate accordance with pronunciation.  I reproduce here a portion of
+that letter: "...[Yude Rozof says...] Since in Yiddish there is no
+difference between 'heth' and 'khav' (sic) the transliteration should
+have the same sign for both of them.  I fail to follow the logic."  The
+letter goes on to explain a far more "logical" system of transliteration:
+letter by letter.
+
+In fact as I shall demonstrate, such a system would lead to hefkeyres.
+This can be easily realized by comparison with the difficulties involved
+in writing English in Yiddish:  "high school" is written in Yiddish
+characters as "Hay skul" and not as "high skhul."  How should the Yiddish
+reader of English, unfamiliar with the finer points of English spelling
+discern between the "gh" in high, enough, and weight? In order to know
+how to read English thus transliterated into his language, the Yiddish
+reader would have to already be familiar with the whole English language
+and spelling system, in which case he would be better served to read the
+transliterated text in the original.
+
+Transliteration is only as helpful as its ability to communicate the
+reproduction of the spoken sentence graphically produced. To return to
+the problems of Yiddish romanization, we are faced by the fact that the
+same letters in Yiddish can have a two fold pronunciation.  Thus the
+9ayin could represent either an ancient Semitic gutteral consonant or the
+vowel e in the literary dialect.  The kaph could represent either a /k/
+or could follow the laws of begedkepet-bheghedhkhepheth, and be
+pronounced as a khaph.  The yodh (Yiddish yud) is sometimes a vowel and
+sometimes a consonant.  The Hebrew waw represents in Yiddish a /v/ or a
+/u/.  It is ridiculous to consider transliterating the Yiddish "Mame
+lebn, gib mir epes broyt, zay azoy gut" as /m@m9 l9bn gyb myr @9p9s brwyt
+zyy azwy gwt./  Yet this is what uniformity demands if we are to assign
+the same transliteration to yiddish letters in all words irrespective of
+origin.
+
+Aharon Meytahl justifies his transliteration scheme by claiming that it
+gives more information to the reader.  Does it really?  To someone who
+knows no English spelling, what good is "high" transliterated letter for
+letter: the reader is deprived of the most basic information: how to read
+the foreign word.  He is not interested in the fact that in ancient
+English the gh represented a gutteral.  If he is a linguist and he is
+interested, than he ought to study English in its own alphabet.
+
+Thus to recap: letter for letter transliteration is not practical in
+Yiddish, a language with multiple pronunciations of some letters and
+merged pronunciations of others.  Secondly, even if one does
+transliterate letter for letter, which values does one assign to the
+letters of the Hebrew alphabet? Modern Hebrew is not generally romanized
+according to reconstructed Masorite pronunciation.  One writes echad,
+rather than 'eh.odh in most situations.  Should Yiddish outdo Hebrew and
+write ma@ribh for mayrev? Or maybe even magharibh (the Biblical
+pronunciation reconstructed by linguistics).  I think not.  The Hebrew
+alphabet should serve Yiddish, Yiddish should not serve the Hebrew
+alpahbet.
+
+Aharon Meytahl is further convinced that those who disagree with his view
+are khas-vekholile anti-hebreistn: "I suspect it has to do with the old,
+now defunct struggle, with Hebrew.  As a matter of principle, everything
+that smells of Hebrew should be oyfgekert or God forbid the use of Hebrew
+words davke azoy."  Punkt farkert Reb Arn! 'Eineni klal ve-klal mitnaged
+la-9ivrit ha-hidusha asher hitkayema beyameinu 9al adamatam shel
+ha-yehudim. Barukh hashem, she-teileikh ve-tigdal beli 9ayn ha ra9. 'Ani
+9as.mi ohev gadol shel ha-safa ve-ka9eit ani mit9aseiq  be-lemidat
+sifruta shel ha-9ivrit ba-mikhlala.
+
+I would say that in the Kulturkampf between modern Hebrew and Yiddish,
+Yiddish was the true victim.  The Zionist movement in British Mandatory
+Palestine and later the State of Israel went out of their way to hammer
+the nails into the coffin of Yiddish, and Yiddish printing presses were
+faced with terrorist threats. Never did Yiddishists turn on loshn-koydesh
+with such venom.  To this day, flyers on El-Al may read any of a host of
+Israeli papers printed in foreign languages in Israel in German,
+Hungarian, Russian, Polish, etc. Yiddish, represented in Israel by a
+variety of regularly appearing periodicals, is conspicuous by its
+absence.  Whether in Hebrew or Yiddish, all I seek is koved ha-loshn,
+kbhwd hlshwn.
+
+Yude Rozof
+
+4)----------------------------------------------------
+Date: Tue, 20 Sep 1994 13:08:30 -0400 (EDT)
+From: PTYAXEL@ubvms.cc.buffalo.edu
+Subject: On Zellig's strictures:  Toward a case for inclusiveness
+
+Shoymer-yidish Zellig Bach (4.102) offers a counsel of perfection:
+Romanize (transcribe) into English according to the "strict and
+long-accepted rules of Yiddish spelling."  The advice is reminiscent of
+Roman Jakobson's dictum in his preface to Weinreich's _College Yiddish_:
+"Full mastery or illiteracy-- _tertium non datur_."
+
+So who can argue with "Do it right"?  But even if we grant that the YIVO
+conventions (rather "young", as ellen prince [4.104] notes) ought to be
+followed in serious scholarly and literary efforts, we should face up to
+the nature of Mendele in the real cyberworld.  An inquiry last week
+revealed that there were 534 subscribers.  It's anyone's guess what
+proportion both know the YIVO conventions of Yiddish spelling and are
+able to romanize in YIVO style easily; but judging from the last couple
+of years worth of issues, if "Do it right" entails "or don't do it at
+all", then there will be many who will be turned off and away from
+Mendele--a saddening prospect.  Why not acknowledge that there are at
+least two groups of Mendelenikes, those who can without great effort
+follow Zellig's counsel, and those who haven't learned to do so and don't
+have the training, the time, or the energy to learn to do so? The second
+group is surely more sizable than would be indicated by the almost
+unanimous support Zellig's posting has so far received, and surely there
+are many in the second group who, more intimidated than Bert Steinberg
+was (4.104) by Zellig's post, have been too diffident to respond.  As
+others have asked in past interchanges on the topic, Is the number of
+lovers of Yiddish these days so great that we can afford to dismiss a
+whole group for non-compliance with orthographic, grammatical, and
+transcriptional norms?  Why can't we have it both ways, Group 1 striving
+toward functioning as a learned society, the members of Group 2 enjoying
+Mendele for their own less scholarly and less technical reasons?
+
+(Zellig's fight with the U.S. Census Bureau, now--that's a different
+story; the passage from the Bureau's Yiddish "Guide" for interviewers
+that he reproduces in Afn Shvel (No. 292, Oct.-Dec. 1993) is indeed
+outrageous.  The difference is that the Bureau certainly had the
+resources to assess the correctness of its Yiddish, resources that an
+individual Mendelenik, deriving pleasure from the language however
+imperfectly remembered from his/her youth, does not have.)
+
+I recall reading with pleasure many years ago an account of young people
+--Yugntrufnikes, I suppose--picketing the Forverts building, carrying
+signs demanding "Derekh-erets far yidish!"  But what it is reasonable to
+demand of the then-daily major Yiddish newpaper in the U.S. (and the U.S.
+Census Bureau) may be too much to ask of individuals who want to maintain
+a connection, however tenuous, with a cherished part of their early lives
+that included Yiddish as an important element.  Where else can they go?
+Mendele is after all not Di yidishe shprakh or Afn shvel or Di goldene
+keyt; by their nature, electronic lists are informal, even ephemeral
+(though thanks to Noyekh Shames and Bob Rothstein, archives of Mendele
+are now available to those who want to refer to them.)  Let's not drive
+anyone away.
+
+Let two flowers bloom.
+
+Shleyme Axelrod
+
+______________________________________________________
+End of Mendele Vol. 4.108
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

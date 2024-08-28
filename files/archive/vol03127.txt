@@ -1,0 +1,142 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.127
+November 2, 1993
+
+1) Yiddish Culture Club Meldung (Meyer David)
+2) Shloflidele (Arthur Komar)
+3) Klezmer group (Melinda Krushen)
+4) A khoylem (Dovid Braun)
+
+1)----------------------------------------------------
+Date: Thu, 28 Oct 1993 22:59:54 -0400
+From: mhd@world.std.com (Mark H David)
+Subject: Yiddish Culture Club Meldung [for Vos Makht A Yid]
+
+Branch member Mark David spoke recently with Zalman Srebro, Chairman
+of the Yiddish Culture Club of Boston, who asked him to pass along
+this invitation:
+
+The Yiddish Culture Club of Boston invites members of Branch 2001 to
+a lecture in Yiddish by Mitchell Lokiec, writer for the Forverts, on
+the subject: The Peace Process in Israel.  The lecture will take
+place in Workmen Circle Center, 1762 Beacon Street, Brookine, at
+2:00 p.m., on Sunday, November 14, 1993.  The lecture is cosponsored
+by the Workmen's Circle.
+
+Mr. Srebro added, "if you would like to become a member, by all
+means! Simply send in your name, address, and a check for $15.00
+payable to Boston Yiddish Culture Club.  You will then be notified
+directly of all future events, and will help us to continue our work
+keeping Yiddish culture alive in Boston.  Unfortunately, many of our
+members have died in the past two years, and we need new members now
+more than ever.  Thank You.  Here is the address: Boston Yiddish
+Culture Club, c/o Zalman Srebro, 16 Wade Street, Brighton, MA
+02135."
+
+Meyer David
+
+2)----------------------------------------------------
+Date: Tue Nov  2 13:51:10 1993
+From: "Dr. Arthur Komar" <komar@yu1.yu.edu>
+Subject: shlofliedele
+
+A. Cassel fregt ibber die musik fun dos kinder shloflied
+Shlof,Shlof,Shlof.  Loz men die folgene bashtimungen machen:
+
+upper case = quarter note
+lower case = eighth note
+lower case+^ (e.g. a^) = 16th note
+abc group = triplet eighth notes
+pipe | = measure bar
+& = flat (e.g. b& = b flat)
+(# would of course be sharp but it's not needed here)
+underline _ = tied notes (e.g. c_c = C)
+
+Dos lied gayt azoy:
+
+4/4 | E A C_c c | eee aaa C_C | ca c a^a^ dd c_c^ c^ |
+
+| g g^g^ cb& aa A ||
+
+The initial E is the lowest note and the d is the highest note.
+
+Ikh hof az alts iz itste gants klor. Men zol es dafke zayer layze un
+langsam zingen. Zol zayn mit mazl, Arre.
+
+Arthur Komar
+
+3)----------------------------------------------------
+Date: Tue Nov  2 15:10:10 1993
+From: msavelev@mentor.cc.purdue.edu (Melinda Saveleva)
+Subject: klezmer group
+
+I inadvertently deleted a message from a member of a klezmer group
+in Boston who was looking for a vocalist.  Although I am not a
+vocalist, I am a memeber of a klezmer group in Lafayette, Indiana
+and was interested to see that their group included a mandolin
+player.  I am currently trying to learn the mandolin for our klezmer
+group (I play keyboard), and would appreciate corresponding with the
+individual whom I accidently deleted.  If you would be so kind as to
+contact me directly at msavelev@mentor.cc.purdue.edu I would very
+much appreciate it.
+
+Melinda Krushen
+
+4)----------------------------------------------------
+Date: Tue Nov  2 15:29:15 1993
+From: David Braun <braund@babel.ling.upenn.edu>
+Subject: a khoylem, a khoylem hot zikh mir gekhoylemt
+
+Wrt the khoylem issue, I might have something to add.  I have
+noticed the same things about its realization in the same
+communities as Berl Hoberman has.  I think it might be useful to
+look at "Revivalist Hebrew", i.e. the language that was being taught
+in the Hebrew schools in Europe before WWII, e.g. the Tarbut schools
+and the other school systems.  As far as I know, the Modern Israeli
+(before it was Israeli) "Sephardic" pronunciation was used in the
+1930's in bigger schools such as the Real-Gimnazye in Kovne, while a
+decade earlier, schools at least in the shtetlekh were teaching
+Ivris Ashkenazis, although with some new twists.
+
+For example, one informant of mine who went to a shtetl Hebrew
+school (I mean a Zionist school, not a kheyder) tells of learning
+Ivri's beIvri's, so note two things:  the Ashkenazic [s] but the
+Modern Israeli/Sephardic stress pattern.  Bialik's stress pattern is
+Ashkenazic mamesh.  The kids in this school had the a/o distinction
+for komets and pasekh and the tov/sov distinction, but word-final
+stressgenerally.  What was going on in the schools of the bigger
+cities I in the 1920s I don't know -- have no informants for that
+decade in, say, Kovne or Vilne.  Now as for the khoylem, in the
+small town scenario (which, I'm sure, extended to some big cities as
+well), the khoylem was [oy] for davenen (because that's what the
+kids learned in the traditional kheyder, if they went, but in the
+Zionist school, it was [ow], just as it is/was taught in Orthodox
+English-speaking institutions in America.  In those American
+Orthodox institutions where most of life is conducted in English but
+in which the Ashkenazic pronunciation is still prevalent and largely
+uninfluenced by Modern Israeli Hebrew, the komets is approximately
+the vowel sound in English _but_ and the khoylem-vov is the vowel
+sound in English _home_.
+
+Bekitser, the people who became the melamdim in the American
+Talmud-Torahs and American yeshivas probably came from that middle
+stage in which the [oy] was reserved for European davening, [o] was
+Palestine Hebrew to which few people had access, and [ow] was what
+was assumed to be what Ashkenazic (or Ashkenazic-like) Hebrew should
+sound like, if it were to have developed into the regularly spoken
+language.  This dialect was spoken for a generation or two, I
+figure, but probably only outside Palestine, by the Zionist educate
+Eastern Europeans who then taught American children in Talmud Torahs
+and yeshivas.
+
+I hope this is somewhat clear, although as I read it over, it might
+be difficult to understand.  I can't go back and correct mistakes
+easily on this machine... Oh well.
+
+Dovid Braun
+
+______________________________________________________
+End of Mendele Vol. 3.127
+

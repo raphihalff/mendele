@@ -1,0 +1,155 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.329
+April 24, 1994
+
+1) Me tut fregn vs. me tut a freg (Bob Rothstein)
+2) Zhibe - tikn toes (Moyshe Taube)
+3) Auxilliary "ton" (Mikhl Herzog)
+4) "Ton/tun" "tun/tin" (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Sat Apr 23 19:32:08 1994
+From: rar@slavic.umass.edu
+Subject: Me tut fregn vs. me tut a freg
+
+Borrowing some concepts from the Russian linguists Peshkovskii and
+Bondarko, we could say that the contrast:  _me tut fregn_ , _me tut a
+freg_ and _me fregt_ belongs to the realm of "aspectuality."  This has to
+do with the ability of a verb (in Yiddish or in any other language) to
+show how an action or state proceeds in time or is distributed in time.
+(This is different from "temporality," which has to do with locating an
+action or state in time.)  When distinctions involving aspectuality are
+obligatory in some language, we say that that language displays the
+grammatical category of "aspect."  Thus, when speaking English, I have to
+choose between "the sun shines [longer in the summer than in the winter]"
+and "the sun is shining" [but this is New England, and it may not be
+shining in five minutes]."  When asking my wife in Russian, "What did you
+do today?", I have to choose between asking her "Chto ty delala?" (=
+"What activities did you engage in?") and "Chto ty sdelala?" (= "What did
+you accomplish?").
+
+While the question of aspect distinctions in Yiddish is still open (our
+Mendele colleague Howie Aronson had some interesting things to say on the
+subject in a 1985 paper in _General Linguistics_), it's clear that
+Yiddish does have a variety of ways of expressing aspectuality.  The
+fullest treatment of this subject is in Mordkhe Schaechter's 1951 Vienna
+dissertation, "Aktionen im Jiddischen," which was never published but is
+available from University Microfilms in Ann Arbor.  For those who are not
+single-minded enough to make their way through 140+ pages of academic
+German, I provided a brief account of Schaechter's work in a review
+article entitled "Yiddish Aspectology," published in _Studies in Yiddish
+Linguistics_, ed. Paul Wexler (Tuebingen:  Niemeyer, 1990).
+
+Returning to constructions with _tun/ton_:  It's true, as Khayem Bochner
+points out, that the construction _me tut a freg_ has no formal parallel
+in Slavic, but it does have a grammatical parallel in Slavic verbs with
+the suffix -n- that mean a single act, e.g., Russian _kashlianut'_/Polish
+_kaszlna,c'_ = Yiddish _a hust ton_ 'to give a [single] cough' vs.
+_kashlet'/kaszlec'_ = Yiddish _hustn_ 'to cough [= be coughing]'.
+
+The construction _men tut fregn_ , as Khayem also points out, has
+provoked disagreement among Yiddish linguists.  In addition to Max
+Weinreich, whom he quotes as equating _men tut fregn_ with _men fregt_,
+the Soviet linguist A. Zaretski, in his _Yidishe gramatik_ (Vilna, 1929,
+p. 120) calls the former construction archaic and says that it has no
+special meaning ("keyn bazunder batayt") in the contemporary language.
+He adds that it does have "a nuance of archaism, sometimes connected with
+humor, irony." His colleague E. Falkovitsh, in his _Yidish:  fonetik,
+grafik, leksik un gramatik_ (Moscow, 1940, pp. 209-10), devotes more
+attention to the construction without ever explicitly commenting on its
+meaning.  By presenting parallel texts from different writers, however,
+he seems to be suggesting that the two versions are dialectal or
+individual variants with no semantic difference. Zaretski writes that the
+_ton_ + infinitive construction "is most widespread in a number of areas
+in the Polish dialect.  One finds it, however, in writers from other
+areas, both older and younger ones."  He points out that the construction
+is quite old.
+
+By contrast, both Yudel Mark, in his _Gramatik fun der yidisher
+klal-shprakh_ (NY, 1978, p. 293), and Solomon A. Birnbaum, in his
+_Yiddish:  a Survey and a Grammar_ (Toronto, 1979, p. 272), treat the
+construction in question as an expression of "the habitual aspect"
+(Birnbaum) or "der aspekt fun bashtendikayt" (Mark). Mark writes that it
+"was characteristic of folk poetry, but literary poetry began to avoid
+it.  It is also less frequently used in the spoken language than it was a
+few generations ago. It has acquired the stamp of primitiveness
+[_primitivkayt_]." Mark recommends that it not be overused, but views its
+use as perfectly appropriate [_kosher_] in the contemporary standard
+language for stylization or to stress habituality.  He points out that it
+can be found in modern poetry, citing Sutzkever: Un feygl-gezang tut
+farvign di beyner In tog fun nitsokhn, in tog fun geule.
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: Sun Apr 24 06:34:32 1994
+From: taube@HUM.HUJI.AC.IL
+Subject: zhibe - tikn toes
+
+For once I tried to offer help with first checking and -  a broch! I
+confused in my memory Polish grzywa 'mane' and grzebien'' 'crest'.
+
+Sorry,
+
+Moyshe Taube
+
+3)----------------------------------------------------
+Date: Sun Apr 24 10:58:55 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: auxilliary "ton"
+
+I have encountered only a single native speaker (from Kalisz in
+western Poland) who quite regularly used the auxilliary "ton" in
+narrative: "me tit nemen", etc.
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Sun Apr 24 10:58:55 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: "ton/tun" "tun/tin"
+
+On the subject of the verb 'to do', there are distinct forms
+that a bit difficult to keep apart, which may pattern as follows:
+
+i) Infinitives "ton" (with komets alef) and "tun" (with vov) both
+yield: "ikh tu, mir tuen, hobn geton". I don't think that the
+komets alef variant has a regional variant "tun" (equivalent to
+"zogn/zugn").
+
+ii) The infinitive "tun" (with vov) has the expected regional
+variant "ti:n": "ikh ti:, mir ti:en, hobn geti:n"
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 3.329
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

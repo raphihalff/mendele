@@ -1,0 +1,481 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 08.097
+December 11, 1998
+
+1) Sholem Aleykehm and frum Yiddish (Larry Rosenwald)
+2) Frum Yiddish and Literary Standard (Bruce Mitchell)
+3) der yid (Id) laytish oder lebedik (sylvia schildt)
+4) "Standard" Yiddish? (Bob Newell)
+5) teaching Yiddish like other languages (Sholem Berger)
+6) bilingual postings on Mendele (Larry Rosenwald)
+7) der tsveyter tog yontef (Noyekh Miller)
+8) Mendele ain't jist for beginners (Martin (Moyshe) Horwitz)
+9) Mendele languages and statistics (Iosif Vaisman)
+
+1)----------------------------------------------------
+Date: Wed, 9 Dec 1998 12:36:45 -0500 (EST)
+From: Larry Rosenwald <LROSENWALD@WELLESLEY.EDU>
+Subject: Sholem Aleykehm and frum Yiddish
+
+I was struck by a passage in Yankev Lewis' posting on "Klal-yidish tsvishn
+di frume":  "I think there is in particular a disappearance of Slavic
+vocabulary.  E.g.  Weinreich gives only words of Slavic origin as
+equivalents to "lake" but Der Yid uses the English word. Similarly a Bobov
+Hasid in Boro Park told me that the Yiddish word for "supper" is now
+"supper" ("soper" in YIVO transliteration) -- and, he said, after all in the
+old country people also didn't use "nakhtmol", they used the Polish word,
+"vyetshere".  I.e. he didn't see the Slavic word as rooted in Yiddish."
+
+This reminded me of a passage in Sholem Aleykhem's Motl Peysi in Amerike,
+where there's a dispute over precisely this word.  Motl Peysi's older
+brother Elye, and his friend Pini, are working in a "shap," and come home
+tired - "zey kumen ale mol oysgematert un hungerik.  Un mir zetsn zikh esn
+vetshere.  Do heyst es 'Saper.' [sic] Brokhe [Elye's wife] hot faynt ot dos
+vort, azoy vi an erlekher yid hot faynt khazer"  (they always come home
+exhausted and hungry.  And we sit down to eat _vetshere_.  Here it's called
+'Saper.' Brokhe hates that word, the way an observant Jew hates pig). This
+is only one of the words Brokhe hates - she's equally unfond of "vinde,"
+"stakings," "dishes, "spun," and prefers the (sometimes Slavic, sometimes
+German) words to these American innovations. 
+        
+What's weird, really, is that in the SA passage, Brokhe's refusal to use
+American vocabulary is part of her resistance to Americanization generally -
+whereas the Boro Park Bobover Hasid quoted in Yankev Lewis' posting is a
+representative of the group that has surely resisted Americanization in most
+ways successfully, however much American vocabulary has infiltrated its
+Yiddish.
+        
+Al dos guts, 
+Larry Rosenwald
+
+2)----------------------------------------------------
+Date: Thu, 10 Dec 1998 16:34:16 -0500 (EST)
+From: Bruce Mitchell <bmitch@sable.ox.ac.uk>
+Subject: Frum Yiddish and Literary Standard
+
+Before I address Yiddish orthography in the frum world, I would like to make
+a very general observation about Yiddish as it is spoken and written by
+non-haredi Jews. Contrary to popular belief, not all contemporary Yiddish
+scholars and writers accept YIVO orthography or a puristic form of the
+spoken language. There are descriptivists who propose written forms and
+vocabulary more in line with the linguistic reality, and there are less
+religious Yiddish speakers who liberally lace their Yiddish with all sorts
+of Germanisms, Anglicisms, and more seldom words borrowed from Modern
+Hebrew. In fact, it is not uncommon to find older speakers who do not know
+any German and, being completely oblivious to the post-war fashion of
+replacing words deemed "too German" with Hebrew, still use "varshaynlekh"
+instead of "mistome", "aynfershtendik" instead of "maskim", and "hayratn"
+instead of "khasene hobn".In fact, I met one native speaker from Liverpool
+who did not even know what "maskim" meant and constantly needed to have the
+word "translated" as "aynfershtendik". So much for the authority of
+linguistic purists. As for "popular Yiddish orthography", just about any
+editor of Yiddish language texts today can testify to the wide variety of
+spellings found even in the comparatively small secular pool of speakers in
+the 90s.
+
+If the secular world cannot even enforce one standard orthography without
+dissension, then the frum community can hardly be expected to do so either.
+In fact, the frum community has several periodicals published by different
+groups, with no organization which even intends to establish a common
+standard orthography. Although frum Jews are interested in Yiddish as a
+language and in a pious Yiddish literature, they are not necessarily
+interested in YIVO orthography. Nonetheless, several haredi editors are
+struggling to find an acceptable orthographic standard,and it just may be a
+matter of time until one actually emerges. With regards to hebraisms,
+anglicisms, and germanisms, new words are a sure sign of life and should be
+welcomed, not eschewed because of linguistic pretension. 
+  
+Finally, I would like to introduce "mendelianers" to the scholarly work of a
+hasidic linguist, Shmuel Heiley. Yes, he has long peyes, wears a shtrayml on
+shabes, and a black hat during the week. No, he is not a bal-tshuve and does
+not work at a university. He is simply gifted in languages and has
+cultivated his interest in Yiddish to the point where he can conduct
+competent scholarly work. I have personally spent shaboysim and yon-toyvim
+with him and his rather large family, who speak a beautiful Polish dialect
+of Yiddish-none of this standard nonsense. Personal details aside, I am
+quoting an excerpt from his article "Solomon A. Birnbaum", because I think
+his perspective on Birnbaum's work is both unique and relevant to the
+ongoing Mendele discussion. Here it is:
+
+"Birnbaum's View of Yiddish
+
+If there is one central feature which encapsulates Birnbaum's perception of
+modern Yiddish, it is his strict adherence to the spoken language, to its
+specifics in comparison to cognate or coterritorial languages, and his
+refusal to create, adhere to or tolerate a synthetic standard form(on
+Solomon Birnbaum's original contribution to the standardization of modern
+Yiddish see Schaechter 1955,1962). This stands in stark contrast to the work
+of many of his prominent contemporaries whose normativist tendencies were by
+and large aimed toward such a standard. 
+
+>From the time he began contributing to Yiddish studies, Birnbaum was
+influenced by traditional Jewish values;his life-style (as far as his
+surroundings in pre-World War Two Germany permitted) was modelled on that of
+Eastern European Jewry, promoting strict adherence to traditional values, in
+which Yiddish played a significant part. He thus viewed Yiddish as part and
+parcel of a much greater age old framework, which contains the necessary
+power to generate its own continuation. Therefore Yiddish, according to
+Birnbaum's worldview, was never and end in itself.
+
+In contrast, his colleagues did not share his life-style or views at all.
+Having separated themselves from traditional Orthodoxy, or having been born
+to parents who had done so, they often failed to see any inherent connection
+between Yiddish and Judaism. Having assimilated almost completely into the
+dominant society, they viewed Yiddish as the last rallying point for their
+identity as Jews. 
+
+This dichotomy of views underlies the widely diverging approaches to the way
+in which Yiddish should be promoted. On the one hand, Birnbaum's work is
+characterized by an active involvement with a culture, realizing its
+millenium-long history, and its potential for preservation, knowing full
+well that is has every reasonable chance of a long future ahead. On the
+other hand, his contemporaries, while attempting to regard the subject in
+terms of a purely academic discipline, and to display a corresponding
+academic objectivity and detachment, repeatedly subjected it to the
+contemporary philosophies upon which their own lifestyles were subjectively
+based.
+
+In Birnbaum's view, the confusion of concepts and emotions in the secular
+Yiddishist camp gave rise to the abortive attempt to create a standard
+language that was based NOT on the majority of Yiddish speakers but on an
+asssumed model of academic prestige..."
+
+Excerpt taken from Shmuel Heiley, "Solomon A. Birnbaum", IN: Dov-Ber Kerler,
+ed., "History of Yiddish Studies", Winter Studies in Yiddish, Volume 3.
+
+Bruce Mitchell 
+
+3)----------------------------------------------------
+Date: Wed, 9 Dec 1998 13:25:08 -0500 (EST)
+From: creativa@charm.net (Sylvia Schildt)
+Subject: der yid (Id) laytish oder lebedik
+
+tayere mendelyaner ...
+
+ikh hob nokhgefolgt di rekomendatzie tzu leyenen "der yid" un zikh farshribn
+af 1 yor. ot iz ongekumen der numer fun detzember 4 (iber 140 zaytn). vilt
+zikh mit di khaverim tzetayln di ershte frishe ayndrukn.
+
+der tam fun yidishkeyt gefint zikh iberal, af yedn blat, afile in di anonsn
+- grayzn a sakh, anglitzizmen a sakh veyniker vi in forvertz in di 20-er,
+30-er, 40-er, biz nit lang tzurik. 
+
+af english shteyt geshribn "Der Yid" - in Yidish, leygt men dos oys vi in
+far-yivo tzaytn in forvertz, vi ba litvishe un rusishe yidn (afile in
+sovyetish yidish) shtumer aleph, yud, daled. 
+
+nit azey geferlekh, ven me nemt in batrakht az klal yidish iz a lebedike
+shprakh un di mentshn muzn araynnemen inyonim fun hayntzytikn lebn.un yeder
+anons oder shrayber tut epes andersh. 
+
+tzum bayshpil: s'iz do an anons vos nemt arayn gantz zayt 27 fun "Lee Avenue
+Photo" - halb english, halb yidish. Lee Photo farkeyft kolerley tekhnishe
+zakhn, bashribn af english merstns - ober de anons gufe iz azoy yidishlekh
+geshmak -- az me ken geshmoltzn vern. eybn iz do a bild fun a teler latkes
+un es geyt fun zey a pare. ikh tzitir: 
+
+" Hert un shtoynt ,,,
+
+Elektronishe 'Latkes" ...?! 
+
+Neyn. Elektronishe latkes hobn mir take nisht, ober elektroniks bilig vi
+latkes hobn mir yo ...! " 
+
+Un vegn di grayzn un anglitzizmen vil ikh nor makhn eyn bamerkung -- di
+lerer mayne fun arbeter ring zaynen eykh geven shtark gegn anglitzizmen in
+yidish, ober zey hobn shtark genutzt daytshmerizmen un slavizmen -- fregt
+zikh di kashe -- un zikher darf zayn a mos -- mit vos zaynen verter fun
+lender vu men hot yidn geharget vi di shof -- mit vos zaynen zayere verter
+kosherer vi verter fun a fray land, vu yidn kenen zikh -- tzi frum vi di
+satmer, tzi fray vi di sylvies -- oyslebn di yorn in fridn (lomir hofn als
+yidn)??? 
+
+ikh hob eyn yor abonirt Birobidjaner Shtern - iz nit nor nit geven kin gefil
+fun yidishkey, nor es is faktish geven anti-tzionistish, anti-semitish. Vos
+iz beser? 
+
+Efsher darfn mir zikh dernentern vi in di alte tzaytn -- vet klal yidish
+vern a bisele mer laytish un laytish yidish a bisele lebediker. 
+
+dear mendelyaner ... 
+
+I followed the recommendation to read "Der Yid" and signed up for a year. 
+The issue just came, for December 4 (over 140 pages!). I have the urge to
+share my first fresh impressions with my friends. 
+
+The taste of Yiddishkeyt is everywhere, on every page, even in the ads --
+lots of mistakes, fewer anglicisms than in the Forward of the 20's, 30's,
+40's, until not too long ago. 
+
+In English it's written DER YID -- in Yiddish, they spell it like in the
+pre-Yivo days of the Forward, as with Lithuanian and Russian Jews (even in
+Sovietish Yiddish) silent aleph, yud, daled. 
+
+Not so terrible, when you take into consideration that klal Yiddish is a
+living language and the people have to incorporate subjects of contemporary
+life. And every ad or writer does something different. 
+
+For example: there's an ad that occupies all of page 27 from Lee Avenue
+Photo ... half English, half Yiddish. Lee Photo sells technical stuff,
+described mostly in English - but the ad itself is so deliciously Jewish,
+you could melt. Above is a picture of a plate of latkes and steam is coming
+from them. I quote: 
+
+" Listen and be amazed. ":  Electronic "Latkes" .. ? ! 
+
+No. Electronic latkes we don't actually have, but electronics as cheap as
+latkes, that we do have. " 
+
+And about the mistakes and Anglicisms, , I wish to make just one comment --
+my teachers in the Arbeter Ring were also very anti Anglicisms in Yiddish,
+but they used lots of Germanisms and Slavicisms. This begs the question --
+and of course there has to be some moderation-- with what are words from
+countries where Jews were slaughtered like sheep - with what are these more
+kosher than words (borrowed) from a free land, where Jews can -- be they
+frum as Satmer, or fray as the Sylvias -- live out their years in peace
+(let's hope as Jews) ??? 
+
+I once subscribed to Birobidjanaer Shtern for a whole year and found it to
+be in truth not only anti-Zionist, but anti-Semitic. What is better? 
+
+Perhaps we need to come closer to each other -- so klal Yiddish can become a
+little more respectable -- and respectable Yiddish a little livelier. 
+
+sylvia schildt
+baltimore, maryland
+
+4)----------------------------------------------------
+Date: Mon, 7 Dec 1998 20:32:59 -0500 (EST)
+From: Bob Newell <bnewell@alum.mit.edu>
+Subject: "Standard" Yiddish?
+
+I read the last few postings about variants of Yiddish, and as a newcomer to
+this list, whose exclusive experience with Yiddish is having read the
+Vorverts for seven or eight years: is the Yiddish of the Vorverts considered
+"standard" literary Yiddish?  It seems to conform pretty closely to the
+textbooks, but as I say, I have no other experience with Yiddish. 
+
+Bob Newell
+Los Alamos, New Mexico
+
+5)----------------------------------------------------
+Date: Wed, 9 Dec 1998 08:50:42 -0500 (EST)
+From: "Sholem Berger" <bergez01@med.nyu.edu>
+Subject: teaching Yiddish like other languages 
+
+Yankev Lewis, writing in Mendele 8.096, looks forward to the day (bimheyro
+byomeynu, omeyn selo) 
+
+"when Yiddish is considered like any other language, to be studied
+accordingly to how it is usually written and spoken by the majority of its
+contemporary users." 
+
+Though my experience of language education is from the student's side, I
+would venture that most languages are taught in the unrealistic way that
+Lewis bemoans, based on a literary standard and kept at some conscious
+difference from the spoken language.  For example: most people's first
+exposure to Spanish comes in high school, where a field trip to Harlem or
+Puerto Rico is far down the list from "La celestina" and "Don Quijote." 
+
+"Victorian Yiddish" may be an easy target, but it's no less prevalent in the
+classrooms than Academie French or "Castillian" Spanish. 
+
+Sholem Berger
+
+6)----------------------------------------------------
+Date: Thu, 10 Dec 1998 14:13:59 -0500 (EST)
+From: Larry Rosenwald <LROSENWALD@WELLESLEY.EDU>
+Subject: bilingual postings on MENDELE
+
+On the question of whether Yiddish-language postings on MENDELE always need
+to be accompanied by an English translation - I'm inclined to agree with
+Hugh Denman that they don't, for a couple of reasons.  1) I certainly don't
+read Yiddish as well as I read English, but I'm often likely to learn more
+Yiddish if I can't turn to an English translation.  I wish I could resist
+the temptation to follow the path of least resistance , but I can't.  2) I'm
+in favor of having more postings rather than fewer, and my guess is that the
+labor of producing an English translation of a Yiddish posting might deter
+some people from posting at all.  3)  This is especially true where the
+posters' native language isn't English.  English is a pretty good lingua
+franca for this list, but so is Yiddish;  Yiddish isn't just the subject
+that MENDELE is devoted to, it is also, here as elsewhere, now as in the
+past, a language we have in common, or that we're striving to have in
+common, that makes it possible for us to talk among ourselves over the
+spaces (linguistic and geographical) that separate English from Russian and
+Russian from Spanish and Spanish from Hebrew. 
+        
+Al dos guts, 
+Larry Rosenwald
+
+7)----------------------------------------------------
+Date: Thu, 10 Dec 1998 14:52:12 -0500
+From: "N. Miller" <nmiller@mail.trincoll.edu>
+Subject: der tsveyter tog yontef
+
+It's that time of year again and the matter of transcription is once again
+on the table. This time it's led off by Mel Poretz, who proposes (8.093)
+that we start using aitches with certain vowels.
+
+    For example, the word for "face" when spelled "punem" misses the mark by
+    permitting the new reader to sound it out like the word for "pun" with
+    an "em" tagged on at the end. I've often seen it spelled as "poonem" and
+    maybe some Yiddish, somewhere, was spoken that way.   Introducing the
+    letter "h" gives it the special resonance of "puhnem" where the first
+    syllable sounds like "puff" as in taking (nishtduhgedokt) a drag on a
+    stogie.  The word for "all" when spelled "ale" rings true to Yiddishists
+    who automatically sound it in their mind's ear the way it was spoken by
+    our tateh-mamehs, regardless of how the word appears on a printed page
+    or screen; but to the uninitiated, at any rate, it could sound like a
+    bottle of ale. Finishing the word with the letter "h" gives it the
+    Yiddish sound quality it needs, "aleh." When the word for "from" is used
+    in the Yiddish, it could read to some like the English word for an
+    enjoyable experience and not the Yiddish "fuhn."
+
+He's aware that his proposed rule may not serve the hundreds of Mendele's
+readers for whom English is not a primary language:
+
+    Obviously, this does not account for foreign readers who spellings and
+    pronunciations might not fit within any such rubric. I'd settle, mit
+    gelust, for an Americanized standardization.  Vus zuhgst du?
+
+That's the proposal.  And since we've been invited to "zuhg" what we think,
+here's my take.  It's a terrible idea.
+
+The most obvious reason is that we already have an excellent system (YIVO)
+that's easy to learn and that works.
+
+http://metalab.unc.edu/yiddish/library/
+
+And makhn shabes far zikh is, as a friend writes, a waste of everyone's
+time.  We're not concerned here, after all, with an orthographic guide for
+_English_ books and dictionaries, nor do we normally use Yiddish words in
+isolation--except where the reader may be reasonably expected to understand.
+If the Yiddish "gas", for instance, might be misconstrued when used alone
+(though who would so use it?), surely no one can be misled by "di yidishe
+gas".
+
+But there are other aspects of the Poretz plan that bother me a great deal
+more than its mere uselessness.  I have in fact three objections which I
+hope others will find reasonable as well as a personal quibble that's
+possibly unreasonable.
+
+First, it's discriminatory. A "standardization" that would make things more
+difficult for "foreign" readers is on the face of it atrocious. All
+Mendelists have precisely the same standing.  Mendele is not an "American"
+list and no Mendelist is a "foreigner".
+
+Second, and even more basic, it demeans Yiddish.  It betrays a notion of
+Yiddish as something less than a language in its own right.  Mr. Poretz
+wouldn't dream of asking the French Academy to modify the spelling of "pour"
+because American readers might pronounce it wrong.  Or that the German "die"
+be respelled.  Yet here he is, implying that English is privileged with
+respect to Yiddish: that no Australian reading a Yiddish text should be
+expected to do any code-switching. We're not told why. Are Canadian readers
+so dumb that they can't figure out for themselves that pronunciation shifts
+with the language being used? This proposal is not only a serious insult to
+Yiddish, it treats speakers of English none too kindly.
+
+Third, the supererogatory aitch is daytshmerish revisited, a regressive step
+to the time nitdogedakht when German occupied the place for some Yiddishists
+that English nebekh does today. The result then was a Yiddish orthography
+that tried as much as possible to resemble modern German, a Yiddish
+bristling with aitches in the form of the hey.  Fighting daytshmerish in all
+its forms took a long time (indeed the Forverts has only within the year
+adopted the full YIVO standard). It would be a travesty were we to start
+that nonsense all over again.  I refuse to believe that Mendelistn can't
+approach a transcribed Yiddish text with the same degree of attention as
+they do something written in Spanish or Polish.
+
+I mentioned a personal reason.  The unnecessary aitch is mildly annoying at
+all times, but when it comes at the _end_ of a word, as in "tateh" or "mameh"
+or "aleh", I positively get the jimjams.  It puts me in mind of the raised
+little finger that some once thought (still do?) was de rigueur when taking
+tea with the Duchess of Kent or whatever.  And Yiddish was not designed for
+living it up at the Ritz--except maybe as a subversive vehicle for the Marx
+Brothers or S.J. Perelman.  Me, I drink my tea from a mug and I suspect that
+most of us on Mendele--Mel Poretz included--do likewise.
+
+A final point.  Nothing in the foregoing should be construed as a personal
+attack.  The Internet, wonderful as it is, seems to turn what ought to be
+civilized if peppered debate into hair-pulling contests.  The first is
+interesting, the latter boring.  Zol zayn lebedik!
+
+Noyekh Miller
+
+8)----------------------------------------------------
+Date: Wed, 9 Dec 1998 08:45:42 -0500 (EST)
+From: Martin Horwitz <MHorwitz@compuserve.com>
+Subject: Mendele ain't jist fer beginners
+
+This is a response to Messrs. Gaston,Gilboa,Ben Litman,Friedman,and
+Berkowita and their insistent request that everything be translated because
+it is too hard, they are lazy, they just began, they speak but don't read,
+they are retired and too lazy to work (!!!??SIC),and any one who does not
+cater to them or even urges them to treat the language of nostaligia and
+hobby with a bit of respect is a snob or just not helping.  I am not a
+native speaker of Yiddish. I learned my Yiddish 35 years ago at a folkshule.
+My parents never spoke TO me ,just among themselves while disparaging any
+Jew who did not know Yiddish. I relearned Yiddish at the YIVO after a trip
+to Russia in 1959 where Yiddish allowed frightened Jews to immediately trust
+me and to talk about antiSemitism in the public street. So I returned and
+had the pleasure to hear seminars say af idish, say af english fun gelernte,
+eydele mentshn vi Miron un Harshavsky vu inem YIVO, a place where scholars,
+Bundists, chance students, and serious lovers of Yiddish language and
+literature could learn more no matter what their level. But they did not go
+around asking that everything be done only for them or to make their life
+easier.  So, be careful that you do not drive away those "serious" people
+who started Mendele. You do so at your own peril. It may not be here without
+them.
+
+Martin (Moyshe) Horwitz
+
+9)----------------------------------------------------
+Date: Thu, 10 Dec 1998 17:12:59 -0500 (EST)
+From: Iosif Vaisman <iiv@mmlds1.pha.unc.edu>
+Subject: Mendele languages and statistics
+
+In the recent Mendele issues we've seen several opinions regarding posting
+translations. Mendele is unlikely to enforce any of the suggestions:  all
+messages in Yiddish or English or both languages are equally welcome. 
+
+I think it may be appropriate to remind here that Mendele is a truly
+international community. As of today, we have 1,720 subscribers living on
+six continents, approximately two thirds of them in the United States. (The
+exact numbers are unknown, because it is difficult to attribute correctly
+addresses in .com, .net, and .org domains. The numbers below reflect only
+the respective country domains -- .ca, .il, .de, .nl, etc. Actual number of
+subscribers from some countries is significantly higher).
+
+Canada          73                      Hungary         11
+Israel          61                      Italy           10
+Germany         45                      Switzerland      9
+Netherlands     26                      Japan            7
+UK              22                      Poland           7
+Australia       17                      Brazil           6
+France          12                      Sweden           6
+Argentina       11                      Austria          5
+
+Country domains with less than 5 subscribers: Belgium, China, Croatia, Czech
+Republic, Denmark, Estonia, Finland, Hong Kong, Iceland, Luxembourg, Mexico,
+New Zealand, Russia, South Africa, South Korea, Spain, Uruguay. 
+
+If you subscribed to Mendele and your country is not listed here, please let
+me know. I am preparing the Mendele World Map and would like to have
+everyone represented. 
+
+Iosif Vaisman
+______________________________________________________
+End of Mendele Vol. 08.097
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://metalab.unc.edu/yiddish/mendele.html
+
+
+

@@ -1,0 +1,172 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.012
+June 1, 1994
+
+1) Subject pro-drop (Bob Rothstein)
+2) More re Fonye (Jules F. Levin)
+3) Kibosh (Dan Kirschner)
+4) Notice of two translations (Bob Werman)
+5) Yiddish Music for Slovakia (Pavel Miladinovic-Cernoch)
+6) Brother can you spare a dime? (Chaim Rosmarin)
+
+1)----------------------------------------------------
+Date: Sun May 29 16:35:31 1994
+From: rar@slavic.umass.edu
+Subject: Subject pro-drop
+
+Ellen Prince asked (4.005) about references to the omission of subject
+pronouns in Yiddish.  A. Zaretsky, in his 1929 _Yidishe gramatik_
+mentions two types without any commentary.  In the first type a
+second-person pronoun is omitted:
+
+	Ligst bay mir in bushe do (Der Nister).
+	Khanfest, yeger (Der Nister).
+	Zest?
+
+In the second type, which Zaretsky calls rare and suggests is limited to
+verbs like _bin_, _hob_, _vel_ etc.), a first-person singular pronoun is
+omitted:
+
+	Bin, dakht zikh, a yid vi ale yidn (Sholem-Aleykhem).
+	Dem tsveytn mol hob zikh mitn yeger azoy getrofn (Der Nister).
+
+Another source is an article by Evgenii Kagarov, "Eynige akhtungen oyfn
+gebit fun yidishn sintaksis," in the 3rd volume of _Filologishe shriftn
+fun YIVO_ (1929, pp. 467-72), which contains a brief discussion of what
+Kagarov calls "onsubyektive zatsn."  He list three types, the first of
+which is frozen constructions with omission of _ikh_, as in _bite!_  The
+second type involves emotional utterances expressing anger, in which a
+third-person pronoun is omitted: Ligt un ligt! Zitst un tut gornisht nit!
+Shrayt un shrayt a gantsn tog! Finally he includes "elliptical
+utterances," in which the second-person singular pronoun is omitted: Bist
+geven dortn? Host mikh gevis lib? Again there is no discussion.
+
+Both authors contrast the above types (with missing subject pronoun) and
+types with a dummy subject (_es_).
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: Mon May 30 15:18:07 1994
+From: JFLEVIN@UCRAC1.UCR.EDU
+Subject: More re Fonye
+
+I often spend a Friday shabbes meal with Russian friends from Odessa who
+have become frum.  They include the native-Yiddish speaking bobbe who of
+course also knows Russian, her son, primarily Russian speaking but
+knowing Yiddish, and his wife, an echt Russian who is a convert and who
+speaks beautiful literary Russian.  Russian is the language of
+discussion, with Yiddish thrown in for humorous color.  Last Friday I
+raised the question of Fonye.  The bobbe and her son were VERY familiar
+with this term from Odessa.  It was used for ANY Russian, not only a
+soldier.  They also supplied the form "Fonka".  They took this as a name,
+a nickname [like Mick or Paddy for an Irishman], but rejected any
+connection with Ivan or Vanya.  They suggested the typical peasant name
+Afanasij.  Linguistically this rings true--in the literary form the
+stress would be on the third syllable, but in forming the nickname the
+stress retraction, the shift to a stressed 'o', and loss of initial
+syllable[s] are all typical RUSSIAN processes--cf Alyosha for Aleksey,
+Tolya for Anatoliy.
+
+--Jules Levin (a typical 'Hymie')
+
+3)----------------------------------------------------
+Date: Tue May 31 14:59:45 1994
+From: dkirsch@amy.tch.harvard.edu
+Subject: Kibosh
+
+"Kibosh" as defined in the dictionary, is something that serves as a
+check or stop -- e.g., to put the kibosh on that.  Its origin in some
+dictionaries is listed as "possibly Yiddish".  Its pronunciation is
+either KYE-bosh or k'BOSH.  Any maven mendeleniks out there who can shed
+some light on this one?
+
+Dan Kirschner
+
+4)----------------------------------------------------
+Date: Tue May 31 16:24:16 1994
+From: RWERMAN@vms.huji.ac.il
+Subject: Notice of two translations
+
+Two translations by Golda Werman are currently coming out:
+
+1] Remanants by David Bergelson in _Comparative Criticism_ 16 [1994],
+Cambridge University Press;
+
+2] Bertha by Lamed Shapiro in _Fiction_, Spring Issue.
+
+Bob Werman
+
+[The shames, in addition to congratulating Golda, would like to remind
+readers that notices of publications _on Yiddish themes_, especially
+by Mendele's subscribers, are always welcome.  nm]
+
+5)----------------------------------------------------
+Date: Wed Jun  1 02:54:25 1994
+From: SZ0435@daphne.rrze.uni-erlangen.de
+Subject: Yiddish Music for Slovakia
+
+Recently I have met a lady from KOSICE in eastern Slovakia. There is
+a jewish community of approx. 1000 there, awakening after 40 years of
+totalitarian rule. Among these people are also some yiddish speakers,
+who would like to organize some cultural events in yiddish.
+They want to start with some literary evenings with music and need
+some sheets of music (notes) of classical and traditional yiddish
+songs preferably for piano. Could you help?!?
+
+The address is:
+Mrs. Vera Vesela
+Jewish Community Kosice (ZNO)
+Zvonerska 5
+SK-04001 KOSICE
+Slovakia, Europe
+Tel.: +42-91-21047
+
+Shalom
+Pavel Miladinovic-Cernoch
+
+6)----------------------------------------------------
+Date: Wed Jun  1 12:07:11 1994
+From: astroj@astro.washington.edu
+Subject: Brother can you spare a dime?
+
+Recently a Mendelnik, in response to the discussion on oyver v botl, sent
+in a verse of a Yiddish version of "Brother, can you spare a dime?"  I
+would be very grateful if he/she could send me a reference as to where I
+could obtain the complete song.
+
+Please direct to:
+
+ASTROJ@ASTRO.WASHINGTON.EDU (please note the "J" on the first astro) or
+to Mendele.
+
+Many thanks,
+Chaim Rosemarin
+
+______________________________________________________
+End of Mendele Vol. 4.012
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

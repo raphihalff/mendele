@@ -1,0 +1,238 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.379
+March 30, 1995
+
+1) Translation fees (Joyce Rappaport)
+2) Statistics of Yiddish-speakers (Iosif Vaisman)
+3) Gut purim, gut purim.... (Bob Hoberman)
+4) A lid far Mendelnikes (Ruvn Millman)
+5) Di Partizanke by Daniel Charney (Leibel Yelgin)
+
+1)----------------------------------------------------
+Date: Tue, 28 Mar 1995 23:29:56 -0800 (PST)
+From: rappapor@nexus.chapman.edu
+Subject: Translation fees
+
+I would like to have some current information about the fees for
+translators from Yiddish to English.  The work I have in mind is about
+100 typed Yiddish pages, single spaced.  Please reply privately to me if
+you feel that this is an intrusion on Mendele's space.
+
+Joyce Rappaport
+
+2)----------------------------------------------------
+Date: Wed, 29 Mar 1995 12:11:59 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Statistics of Yiddish-speakers
+
+Some older data is available from the Ethnologue Database - 11th Ed., 1988
+(gopher://gopher.urz.uni-heidelberg.de/00/subject/hd/fak10/eth/db/A/Indo-European/Germanic/Western/Continental/Upper/YIDDISH_%3d_JUDEO-GERMAN)
+
+Yiddish quotations from the Ethnologue Database:
+
+\C1 Germany, East
+\NAM Yiddish_=_Judeo-German
+\XXX YDD
+\CNT Europe
+\GP Indo-European/Germanic/Western/Continental/Upper
+\HUB Israel
+\REG Jewish communities. Also in Poland, Romania, Israel, USA, USSR,
+     Latin America, Canada, Australia, South Africa
+\POPU 2,080,000 total (1986); 3,000,000 probably including second language
+      speakers (1977 Hayes); 220,000 in USSR; 215,000 in Israel;
+      1,593,993 in USA (1970 census); 49,890 in Canada (1971 census)
+\BB 1821-1936
+\OT 1678-1936
+\NT 1821-1950
+\PR 1544-1939
+\TC S
+\R Spoken by only a handful of German Jews
+\REL Jewish
+\SPL Jewish
+
+\C1 Israel
+\NAM Yiddish_=_Judeo-German
+\XXX YDD
+\CNT Middle East
+\D Western Yiddish, Eastern Yiddish
+\EC Nida 1972
+\GP Indo-European/Germanic/Western/Continental/Upper
+\REG Also in Germany, Poland, Romania, Latin America, Australia, South Africa.
+     Now almost dead in Europe (1977 Adler)
+\POPU 215,000 in Israel, 5% of the population (1986); 220,000 in USSR
+      (1979 census); 1,593,993 in USA (1970 census); 49,890 in Canada (1971
+      census); 2,080,000 total
+\C2 East Germany
+\C3 West Germany
+\C4 Poland
+\C5 Romania
+\C6 USSR
+\C7 USA
+\C8 Canada
+\C9 Australia
+\C10 South Africa
+\BB 1821-1936
+\OT 1678-1936
+\NT 1821-1950
+\PR 1544-1939
+\TC S
+\R Has many loans from Hebrew and local languages where spoken.
+   Usually written in Hebrew character. Literary language usually based on
+   Eastern dialect. Eastern Yiddish originated in Poland, Lithuania, and
+   Ukraine; Western Yiddish in Germany
+\TG SVO
+\PTO 2,080,000
+\REL Jewish
+\SPL Jewish
+
+\C1 USSR, Europe
+\NAM YIDDISH_=_JUDEO-GERMAN
+\XXX YDD
+\CNT Europe
+\GP Indo-European/Germanic/Western/Continental/Upper
+\HUB Israel
+\REG Latvia and all parts of USSR. Weaker in central regions, more
+     concentrated on periphery. Also in Germany, Poland, Romania, Latin
+     America, Australia, South Africa
+\POPU 257,813 in USSR (1985 Haarman), 14.2% of Soviet Jews; 215,000 in Israel
+      (1986 estimate); 1,593,993 in USA; 49,890 in Canada; 2,080,000 total
+      (1986); 3,000,000 total (1977 Hayes; probably including second
+      language speakers)
+\PIN Russian
+\BB 1821-1936
+\OT 1678
+\NT 1821-1950
+\PR 1544-1939
+\TC S
+\R Of the 1,811,000 Jewish people listed in the 1979 census, the majority
+   speak Russian as their first language and virtually all others speak
+   Russian as their second language. About 50,000 Jews speak Georgian, Tat,
+   or Tajiki as their first language. Has literary status, but very little
+   literature
+\REL Jewish
+\SPL Jewish
+.
+
+Other Jewish languages presented in the Ethnologue Database:
+    judeo-berber
+    arabic,_judeo-moroccan
+    arabic,_judeo-tunisian
+    yahudic_=_judeo-arabic
+    yudi_=_judeo-arabic
+    yevanic_=_judeo-greek
+    judeo-kurdish
+    dzhidi_=_judeo-persian
+    judeo-italian_=_italkian
+    zarphatic_=_judeo-french
+    judeo-crimean_tatar_=_judeo-crimean_turkish
+    judeo-georgian
+
+Iosif Vaisman
+
+3)----------------------------------------------------
+Date: Wed, 29 Mar 1995 13:27:12 -0500 (EST)
+From: rhoberman@ccmail.sunysb.edu
+Subject: Gut purim, gut purim....
+
+I know two very different variations on this theme.  My mother, born in
+Brooklyn of Litvak parents, recites it this way:
+
+	Haynt iz Purim, morgn iz oys
+	Git mir a peni ['penny'] un varft mir aroys.
+
+My wife's parents, from Friedberg in Hessen, say this:
+
+	Gut Purim, gut Purim, ihr liebe Leut',
+	Wisst ihr all' was Purim bedeut'?
+	Purim bedeut' ein langes Leben,
+	Sollt ihr mir viel Purimgelt geben.
+
+(I'm not too confident about German spelling, but this indicates the
+pronunciation.)  I'd love to hear that this has a Yiddish source, but as
+it stands it has nothing that marks it as Juedischdeutsch (other than,
+maybe, the syntax of the last line, with verb-first consecutive order?).
+
+Bob Hoberman
+
+4)----------------------------------------------------
+Date: 95-03-29 21:23:53 EST
+From: roland.millman@weiser.com
+Subject: A lid far Mendelnikes
+
+M.S. hot undz ibergegebn a lid far di vos meynen az ven der broyt iz
+opgegesn tor me nisht mer bakn. Ikh shik aykh a shrof fun nokh a lid vos
+ikh meyn toygt beser tsu der interes fun der merhayt fun Mendelayners.
+
+Am Yisroyl Khay!
+
+M. Knapheise/S. Beresovksy
+(Opgenumen fun _We Are Here_.  Pub: Der Arbeter=Ring)
+
+Yidish-loshn, mame-loshn
+Nit farshtumt un nit farloshn
+Oysgesheylt iz shoy fun payn un vey
+Fu di ashn, fun di shtoybn
+Vi a fon aroysgehoybn
+Hobn mir es - Am Yisroyl khay!
+
+Ruvn Millman
+
+5)----------------------------------------------------
+Date: Thu, 30 Mar 95 11:15:55 -0500
+From: yelgin@zk3.dec.com
+Subject: Di Partizanke by Daniel Charney
+
+Daniel Charney wrote a series of 10 articles about a woman partisan who
+survived the holocaust.  The articles appeared in a Yiddish newspaper
+called Der Tog in the Winter of 1956 or 1957. My mother was a friend of
+Daniel Charney and is that woman partisan.
+
+I would like to find those back issues of Der Tog and am seeking advice
+on where to look.  I have tried the National Yiddish Book Center, but
+they have mostly Yiddish magazines not newspapers.  I will also try the
+Arbeter Ring and YIVO.
+
+Can anyone recommend other sources?
+
+Was Di Partizanke ever published in book form?  How could I find out?
+
+Any advice is appreciated.  Thank you.
+
+Leibel Yelgin
+
+______________________________________________________
+End of Mendele Vol. 4.379
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

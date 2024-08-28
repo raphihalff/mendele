@@ -1,0 +1,129 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.178
+December 22, 1993
+
+1) Pishy Pashy (Vicki Fromkin)
+2) Yiddish bibliography (Ellen Prince)
+3) Jewish languages -- Judezmo/Ladino (Zachary Baker)
+4) Ameratses (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Tue Dec 21 12:53:03 1993
+From: Vicki Fromkin  <IYO1VAF@MVS.OAC.UCLA.EDU>
+Subject: Pishy Pashy
+
+any answers to these questions?  Vicki Fromkin
+
+      Date: Tue, 21 Dec 1993 7:31:40 -0800 (PST)
+      From: "Leonard Pitt LPITT@VAX.CSUN.EDU" <VCHIS005@VAX.CSUN.EDU>
+      To:   Iyo1vaf@MVS.OAC.UCLA.EDU
+      Subject: Pishy Pashy
+
+      Pishy Pashy was a card game played by Eastern European Jews in
+      this country. Can you have the Mendele folks give me a reading
+      on it. Why this game? Where did it come from? Why this
+      name--any connection with the diminutive for urination? Was it
+      a "woman's game," as we seem to recall only women playing it?
+      This is serious stuff.
+
+      Best, Len
+
+      Email LPITT@vax.csun.edu.
+
+2)----------------------------------------------------
+Date: Tue Dec 21 13:05:01 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: yiddish bibliography
+
+a hearty thanks to bob rothstein for starting the ball rolling on
+the bibliography! but, while annotated entries like his would be
+great, i don't want to scare off those who just have references sans
+annotations. send me what you've got, annotated or not.
+
+------------
+Subject: jewish languages
+
+one important reference is:
+
+Wexler, P. 1981. Jewish interlinguistics. Language 57.1.99-149.
+
+Ellen Prince
+
+3)----------------------------------------------------
+Date: Tue Dec 21 14:56:13 1993
+From:  Zachary Baker (bm.yib@rlg.stanford.edu)
+Subject: Jewish languages -- Judezmo/Ladino
+
+Lewis Leavitt (MENDELE 3.177) requests references for Jewish
+languages other than Yiddish, and in that connection I would like to
+bring to his (and everyone's attention) the following, brand-new
+publication on Judezmo:
+
+BUNIS, David M.  A Lexicon of the Hebrew and Aramaic Elements in
+Modern Judezmo.  Jerusalem:  The Magnes Press, 1993. ISBN
+965-223-803-1
+
+>From the dust jacket:  "This is the first comprehensive dictionary
+of the Hebrew and Aramaic component of Modern Ottoman Judezmo -- the
+traditional language of the Turkish and Balkan Sephardim,
+descendants of the Jews exiled from Spain in 1492.  Its over 5000
+entries and subentries reveal popular pronunciations of the words as
+well as the creative grammatical constructions, imaginative semantic
+innovations, and idiomatic expressions, proverbs and sayings
+incorporating Hebrew and Aramaic elements, which form a part of the
+unique Jewish subculture created by the Ottoman Sephardim.  THE
+DICTIONARY IS PRECEDED BY AN OVERVIEW OF THE JUDEZMO (also known as
+Judeo-Spanish, Ladino) LANGUAGE IN ITS HISTORICAL DEVELOPMENT, and
+an analysis of the Hebrew and Aramaic elements used by Judezmo
+speakers before the modern period covered by the dictionary."  (My
+emphasis -- ZB.)
+
+David Bunis, who has taught Judezmo language and linguistics at the
+Hebrew University since 1980, did his graduate studies in linguis-
+tics at Columbia and was a research fellow at YIVO's Max Weinreich
+Center for Advanced Jewish Studies, before going on aliyah.  He is
+also the compiler of a book-length bibliography, "Sephardic Studies"
+(New York:  Garland, 1981).
+
+Zachary Baker
+
+4)----------------------------------------------------
+Date: Tue Dec 21 22:29:02 1993
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: Ameratses
+
+As the proverb says, "Az Got vil shtrofn an amorets, leygt er im a
+loshn-koydesh-vort in moyl arayn."  In my quotation from Yudel Mark
+in Mendele 3.177, the word for "examples" should have been _dugmes_
+and not _doygmes_.  But then, as I tell my students, my greatest
+strength as a speaker of foreign languages is a good intuition about
+when I'm probably wrong and should check in a dictionary.
+
+		Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol. 3.178
+
+Mendele has 2 rules:
+	
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

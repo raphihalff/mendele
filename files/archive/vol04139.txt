@@ -1,0 +1,344 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.139
+October 14, 1994
+
+1) Getting the most out of Mendele (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Fri, 14 Oct 1994 12:10
+From: nmiller@trincoll.edu
+Subject: Getting the most out of Mendele
+
+[Herewith a completely revised version of the how-to-do-it that was
+promised a few days ago.  Thanks to Khayem Bochner who vetted the
+document. nm]
+
+
+Mendele's Archives
+__________________
+
+Since by now (10/94) there's a lot of Mendele to read it's time to
+focus on making it easier for subscribers old and new to work their
+way through the thicket.
+
+This document deals with (I) getting back issues and (II) searching
+the files.
+
+******************************************************************************
+
+(I) Getting back issues
+_______________________
+
+Most subscribers simply want to get (some or all) back issues.
+
+The best way is to download files via "anonymous ftp" directly from
+Mendele at Trinity.
+
+For those who don't have full access to the Internet and thus cannot
+use ftp, it is possible to get recent files via e-mail.
+
+I.1. Back issues via anonymous ftp
+
+The procedure sounds daunting but isn't.  Here is how it's done:
+
+a. Begin by typing "ftp ftp.mendele.trincoll.edu"
+b. At the request for Name, type "anonymous"
+c. At the request for Password, type your e-mail address
+d. At the message "Guest login ok, access restrictions
+   apply", type "cd /pub/mendele/files".
+e. The message "CWD command successful" means that you can
+   now retrieve any file you like.
+   1. For a list of the files, type "dir".
+   2. To download a file to your computer, type "get
+      filename"
+f. When finished, type "quit" or "bye".
+
+Below is an actual log of an ftp session.  In order to make it easier to
+follow, the user's input is shown in upper-case. This is for illustrative
+purposes only; in actual use, stay with lower-case.
+
+                     *****************************
+
+>FTP FTP.MENDELE.TRINCOLL.EDU
+
+Wollongong FTP User Process (Version 5.2-05)
+Trying 157.252.16.7 ...
+Connection Opened
+Using 8-bit bytes
+220 dot FTP server (SunOS 4.1) ready.
+Name (dot.cs.trincoll.edu:nmiller): ANONYMOUS
+
+331 Guest login ok, send ident as password.
+Password: NMILLER
+
+230 Guest login ok, access restrictions apply.
+
+>CD /PUB/MENDELE/FILES
+
+250 CWD command successful.
+
+>GET VOL2.101
+
+200 PORT command successful.
+150 ASCII data connection for vol2.101 (157.252.10.30,2085) (4968 bytes).
+226 ASCII Transfer complete.
+Local: DUA2:[FACULTY.NMILLER]VOL2.101;  Remote: vol2.101
+5110 bytes transfered in 0.55 seconds (9.07 Kbytes/second)
+
+>GET VOL2.104
+
+200 PORT command successful.
+150 ASCII data connection for vol2.104 (157.252.10.30,2086) (3750 bytes).
+226 ASCII Transfer complete.
+Local: DUA2:[FACULTY.NMILLER]VOL2.104;  Remote: vol2.104
+3856 bytes transfered in 0.42 seconds (8.97 Kbytes/second)
+
+>QUIT
+
+221 Goodbye
+
+
+
+I.2. Back issues via e-mail
+
+This is described in a later section of this document [II.2].
+
+
+******************************************************************************
+
+(II) Searching the files
+________________________
+
+There are two ways of searching the files.  The first is via the
+Table of Contents file, the second is by a "string" search of the files
+themselves.
+
+II.1. The Table of Contents file
+
+Originally compiled by Bob Rothstein, it is a list of the Subject: lines
+for all issues of Mendele.  The file, which is updated weekly, is
+available via anonymous ftp (see above).  The holdings are:
+
+contents.1 (May 15, 1991 to May 14, 1992)
+contents.2 (May 15, 1992 to May 14, 1993)
+contents.3 (May 15, 1993 to May 14, 1994)
+contents.4 (May 15, 1994 to present)
+
+The simplest use of the contents files is for browsing.  Any file
+reader will serve.
+
+It is also possible to search for a word or phrase.  This is called a
+"string" search.  There are many software packages for doing searches.
+If you have one, you might consider downloading all 4 files to your
+machine and doing an offline search.
+
+Here is an example of a search for posts dealing with "theater".  The
+software used was grep.exe which is in the public domain.  It enables
+not only a string search but prints any specified number of context
+lines.  The command was: grep -i -B10 theat contents.*  and the results
+are shown below.
+
+Contents of Vol. 1 no. 139
+January 19, 1991
+
+1) Yiddish theatre in Cairo (Yude-Leyb Proger)
+
+---------------------------------------------------
+Contents of Vol. 2 no. 185
+April 27, 1993
+
+3) Yiddish theater/show/camp? (Rifka Igel)
+
+---------------------------------------------------
+Contents of Vol. 3.002
+May 16, 1993
+
+4) Yiddish theater and Klezmer music in New York (David Niemeijer)
+
+---------------------------------------------------
+Contents of Vol. 3.226
+February 10, 1994
+
+1) Yiddish theater diminished (Michael Auslin)
+
+---------------------------------------------------
+Contents of Vol. 3.230
+February 11, 1994
+
+4) Yiddish theater (Paul Bakan)
+
+___________________________________________________
+Contents of Vol. 4.041
+June 26, 1994
+
+2) Festival of Yiddish Music and Theater (Henry Mullish)
+
+Any or all of these files can then be downloaded.
+
+
+
+II.2. "String" searches of the files
+
+This kind of string search is not limited by the (always arbitrary)
+words in the Subject: line.  It searches the entire text.  You can do
+this easily by sending e-mail to the Yale listserver.  The procedure is
+as follows.
+
+Please bear in mind that you're dealing with a big beheyme of a computer
+that doesn't know any khokhmes, which means that you have to do things
+_exactly_ as described here.
+
+
+II.2.a. The heart of the matter is what is called the "job skeleton".  It
+looks like this.
+
+//      JOB  Echo=No
+Database Search DD=Rules
+//Rules DD   *
+select
+/*
+
+This is the basic stripped-down job skeleton.  Think of it as an envelope
+whose contents (specific commands that you will write) will be understood
+and obeyed.  Any search command to the listserver _must_ be written
+inside the job skeleton.
+
+If you intend to do a search it is _strongly_ recommended that you copy
+the job skeleton to a separate file (you might name it "zukh.oys").  You
+can then edit and reedit that file, making only the appropriate changes
+without disturbing the envelope itself.
+
+Here is an example of a command to search for every occurrence of the
+name Asch.
+
+//DBlook   JOB   Echo=No
+Database Search DD=Rules
+//Rules DD *
+select asch in mendele
+index
+/*
+
+Two commands are involved: search (select) for a string and list all hits
+(index).  Mail this to:
+
+listserv@yalevm.ycc.yale.edu
+
+and if you've done everything right back comes the following.
+
+
+> Select asch in mendele
+--> Database MENDELE, 12 hits.
+
+> index
+Item #   Date   Time  Recs   Subject
+------   ----   ----  ----   -------
+000097 94/04/29 10:32  236   Mendele Vol 3.337
+000126 94/06/10 16:29  192   Mendele Vol 4.019
+000130 94/06/14 13:05  175   Mendele Vol 4.023
+000132 94/06/15 19:52  158   Mendele Vol 4.025
+000138 94/06/19 15:05  216   Mendele Vol 4.031
+000140 94/06/20 16:14  169   Mendele Vol 4.033
+000143 94/06/22 16:58  274   Mendele Vol 4.036
+000144 94/06/23 14:02  267   Mendele Vol 4.037
+000146 94/06/24 12:02  173   Mendele Vol 4.039
+000152 94/06/30 14:24  199   Mendele Vol 4.044
+000166 94/07/18 12:09  180   Mendele Vol 4.061
+000200 94/08/26 18:30  204   Mendele Vol 4.094
+
+
+The listserver has found 12 numbers of Mendele in which Asch's name
+appears.  Now assume you want to see Vol 3.337 and vol 4.031.
+Back to the job skeleton.  Here's how it looks now.
+
+//DBlook   JOB   Echo=No
+Database Search DD=Rules
+//Rules DD *
+select asch in mendele
+print 000097
+print 000138
+/*
+
+Note that you write the Item # (col.1 of the index) and not Mendele's
+internal names.  Send this to the listserver and back come the two
+numbers you asked for.
+
+Suppose you'd wanted all 12 files.  Then you could have written this.
+
+//DBlook   JOB   Echo=No
+Database Search DD=Rules
+//Rules DD *
+select asch in mendele
+print all
+/*
+
+Here's how to download any desired number(s) of Mendele.  (At the
+present time (10/94) the earliest available is Vol 3.241 (2/22/94).
+These numbers are subject to change; decisions are entirely in the hands
+of the Yale Computer Center.
+
+//      JOB  Echo=No
+Database Search DD=Rules
+//Rules DD   *
+select "Mendele Vol 3.243" in mendele since 91/06/01
+select "Mendele Vol 4.018" in mendele since 91/06/01
+print all
+/*
+
+
+
+II.2.b. More complex searches
+
+A string search is not limited to a single word or name.
+Here are a few examples of what you can do.
+
+//      JOB  Echo=No
+Database Search DD=Rules
+//Rules DD   *
+select <habad>or<lubavitch> in mendele since 91/06/01
+index
+select <bashevis>and<singer> in mendele since 91/06/01
+index
+/*
+
+
+These examples should take care of most of your needs.  If you want
+information on how to do really fancy stuff with Boolean searches, send
+this message to the listserver:
+
+info database
+
+
+
+If you have any problems with any of this (or if you find any of it
+unclear, badly-written or plain incomprehensible) please let me know.
+
+Noyekh Miller
+
+
+______________________________________________________
+End of Mendele Vol. 4.139
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

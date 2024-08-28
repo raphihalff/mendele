@@ -1,0 +1,142 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.145
+November 24, 1993
+
+1) Koydesh un khol (Khaim Bochner)
+2) Verb-first order (Molly Diesing)
+3) First-Verb Phrases and Talmud (Jeremy Stern)
+4) Verb-first construction (Marnen Laibow-Koser)
+
+1)----------------------------------------------------
+Date: Wed Nov 24 10:01:53 1993
+From: bochner@das.harvard.edu
+Subject: koydesh un khol
+
+Pe'rets Mett writes:
+> Correct me if I am wrong, but my feeling is that the difference
+> between koydesh and khol uses of words with otherwise similar
+> meanings is rstricted to nouns, and in any event, the koydesh use is
+> a word of Hebrew origin e.g. seyfer - bukh.
+
+Well, as you've seen, in many dialects (though not yours)
+leyenen/lezn is a counterexample.
+
+Another one is is davnen/molyen zikh. "davnen" (etymology unknown,
+as far as I know) is restricted to Jewish prayer. "molyen zikh" (or
+"modlyen zikh"), from Slavic, is used for Christian prayer.
+Curiously, according to Weinreich the loshn koydesh terms "tfile
+ton" and "mispalel zayn" are not restricted.
+
+Khaim
+
+2)----------------------------------------------------
+Date: Wed Nov 24 12:26:23 1993
+From: Molly Diesing <md20@cornell.edu>
+Subject: Verb-first order
+
+[Ellen Prince writes:]
+
+> please, let us get a sense of proportion here. 'the rule', as you
+> put it, is taken from a FIRST-YEAR TEXTBOOK. i am quite sure that
+> weinreich never intended it to be construed as a complete
+> description of the verb-first declarative construction.
+
+Actually, it's not clear that `the rule' is even stated so rigidly
+in the first-year textbook in question. Towards the end of the book,
+Weinreich discusses conditionals introduced by complementizers like
+`oyb' (which have the usual verb-second order), but also says that
+other ways of forming conditionals will be introduced at a more
+advanced stage (I don't have the book here in my office, so I can't
+quote the exact wording). It's quite likely that the verb-first
+conditional, which was the focus of Ellen's original query, is the
+construction that he had in mind.  Even if Weinreich never got
+around to writing that advanced lesson, as Ellen notes below,
+conditionals of the V-first type (as well as the "consecutive"
+verb-first clauses - Weinreich's term) CAN be found in many
+non-poetic contexts. From my browsings in Sholem-Aleichem, I'd have
+to say that it's not even particularly rare.
+
+-Molly
+
+3)----------------------------------------------------
+Date: Wed Nov 24 15:20:41 1993
+From: Jeremy Stern <jstern@phoenix.Princeton.EDU>
+Subject: First-Verb Phrases and Talmud
+
+Just a side note on a side note:
+
+Omar Reb Jacobs,
+
+> I mention this, since this verb-first discourse feature appears to
+> be characteristic of Jewish speech, as opposed to non-Jewish German
+> speech.  (Thus, for example, in Matras's paper (in ZDL), where
+> Jewish speech uses verb first to mark off some sort of discourse-
+> type units, non-Jewish German speech from the same locale uses
+> specific lexical markers: na und na, etc.)
+
+Is there a connection the a connection between the verb-first
+syntax of the Talmud and the same phenomenon in Yiddish?  That
+might explain the parallel between Yiddish and the German described
+by Neil Jacobs.  The best way to test this hypothesis would be to
+examine other Jewish languages, such as Ladino, Judeo-Persian, and
+Judeo-Greek.  On the other hand, Ashkenazic Jewry was much more of
+a "talmudic" society.  That is, the Talmud played a much greater
+role in Jewish learning in the Ashkenazic lands than elsewhere (at
+least during the period when Yiddish took form; certainly most of
+the Rishoynim were Sefardic).
+
+Jeremy Stern
+
+4)----------------------------------------------------
+Date: Wed Nov 24 15:24:13 1993
+From: laibow@brick.purchase.edu 
+Subject: Verb-first construction and some thoughts on romanization.
+
+I'm sorry to clutter up this list with (perhaps irrelevant)
+Daytshmerizmen (sp?), but the verb-first construction is frequently
+used in German as a conditional:
+
+Ich gehe in die Stadt. Es regnet. = I go into town. It rains. Gehe
+ich in die Stadt, regnet es [or, I think, es regnet]. = If I go
+into town, it rains.
+
+Many (though not all) of the Yiddish uses of this construction that
+I've seen seem to fall into the same class.
+
+BTW, re spelling: "sch" could be interpreted as "s" + "ch", though
+"ch" isn't often seen. It also introduces a needless letter. "kh",
+"sh" and "zh" present even more of a problem: "k" + "h", etc. "ts"
+could be Tsadi(k) or Tet Samekh (or Tav Sin...).  If we _really_
+want an accurate romanization, how about "c" for "ts", "x" for
+"kh", "q" for "sh" and "j" for "zh"? (1/2 ;> )
+
+Just my $.02......
+A freylekhn Thanksgiving! (?!?)
+
+Shalom,
+Marnen Laibow-Koser 
+
+______________________________________________________
+End of Mendele Vol. 3.145
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+

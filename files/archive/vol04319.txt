@@ -1,0 +1,145 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.319
+February 8, 1995
+
+1) Frage, shayle un kashe (Yude Rozof)
+2) Frage, shayle un kashe (Yale J. Reisner)
+3) Why Study Yiddish? (Matt Dailey)
+
+1)----------------------------------------------------
+Date: Wed, 8 Feb 1995 00:26:17 -0500 (EST)
+From: jrosof@sas.upenn.edu
+Subject: Some notes on shayle, kashe, etc.
+
+Dr. Mordkhe Schaechter treats the Yiddish names for "question" in his
+book, Laytish Mame-loshn.  There are four words in Yiddish for question,
+as listed by Uriel Weinreich's dictionary: di shayle--s, di frage--s, di
+kashe--s, der freg--n.  As I recall from Dr. Schaechter's book, shayle
+was most common historically; its use was far from restricted to the
+religious shayles vetshuves of rabinnic discourse, as some have here
+suggested.  Frage is perhaps today more common, having been adopted into
+Yiddish from German around the haskole period.  Note that the standard
+plural ending is --s in Yiddish, rather than --n, as in German.
+
+The authentic Eastern Yiddish Germanic-derived word for question is freg
+(the verb to ask is fregn).  In modern standard Yiddish, freg is rarely
+used, except in the formula /ton a freg--er hot a freg geton/.  Western
+Yiddish, I believe Dr. Schaechter remarks, had a noun /frog/, but this
+word did not enter the literary language of today.  Another word for
+question in Yiddish is kashe, derived, not from Hebrew, but from Aramaic
+(Targem-loshn).  The root means hard or difficult.  Thus a kashe tends to
+denote a harder or more weighty question.
+
+The toughest questions of all, the "million dollar question," is called a
+/klots-kashe/, which Weinreich defines as a perplexing question.  A
+klots-kashe may also refer to a foolish question.  "klots" is Yiddish for
+a log or wooden beam--perhaps the alternative meanings for klots-kashe
+derive from the different meanings of klots.  A klotz (English klutz
+borrowed from Yiddish) is something of a clumsy buffoon (a _foolish_
+question), whereas a wooden beam is a central supporting structure of
+hard wood, explaining a _hard central_ question.  Hope this helps.
+
+Yude Rozof
+
+2)----------------------------------------------------
+Date: Wed, 08 Feb 95 10:18:22 CET
+From: reisner%plearn.bitnet@yalevm.cis.yale.edu
+Subject: Kashe
+
+Harvey Spiro states (4.315) that "kashe" stems from the Hebrew adjective
+ka-SHEH ›hard, difficultº.  While that relationship might exist
+linguistically, the more direct source for thhe Yiddish word is the
+Aramaic Kushia, meaning "question."  The Four Questions on Passover (in
+Yiddish: fir kashes) are known in Hebrew\Aramaic as arba` kushiyyot.
+
+Yale J. Reisner
+Warsaw, Poland
+
+3)----------------------------------------------------
+Date: Wed, 8 Feb 1995 16:00:34 -0500 (EST)
+From: mdailey@magnus.acs.ohio-state.edu
+Subject: Why Study Yiddish?
+
+Dear Dr. Sherman,
+
+I have spent the past week since reading your request attempting to
+discern my own motives for studying Yiddish.  I have several reasons for
+studying Yiddish, ranging from a sense of historical moral imperative to
+personal pleasure, but through them all runs a thread of personal
+identity and belonging.
+
+I am in awe, that today, fifty years after the Holocaust, Yiddish not
+only survives but flourishes, albeit mainly in religious and academic
+enclaves and not the greater populace.  I take great pleasure in the
+realization that here I am, a gentile in Columbus, Ohio, at the Ohio
+State University, studying and teaching Yiddish.  This is a triumph of
+the human spirit, a living memorial to the victims of the Holocaust, and
+a celebration on the graves of those murderers who would have destroyed
+all traces of Yiddishkeyt from the world.
+
+I am a student of languages; Yiddish, Hebrew, Aramaic, Spanish, German,
+French, and English; and with the exception of English which is my native
+tongue, I have not found such joy or life in any language but Yiddish.
+English is my native tongue, but Yiddish is my Mame Loshn.  I guess I am
+less a student of Yiddish than an adopted son.  Yiddish is the language
+of a people, of a folk, not of a state or country.  It has been said that
+this has been one of Yiddish's shortcomings, but I submit that it is one
+of Yiddish's strengths.
+
+One can study German, French, or Spanish, and then go to a specific
+geographic locale where the inhabitants speak that language.  Yiddish
+however, is a beautiful disembodied spirit which possesses you, and makes
+you its own. Wherever Yiddish is spoken there is Ashkenaz.  Yiddish is a
+language which defines its own boundaries, while all other languages are
+defined by their boundaries.
+
+Why should one study Yiddish?  First, we must obey the 614th Mitzvah and
+remember the Holocaust.  Yiddish is more than a living memorial, it is a
+bridge to the past which allows us to revisit that world which has ceased
+to exist.
+
+The most important motive which I can offer up is that most personal and
+perhaps even selfish.  Yiddish is life, it is a living, breathing entity,
+of countless age and boundless wisdom, which, when embraced takes one in
+her arms as a wise old grandmother, and with infinite love and patience
+passes on to us her wisdom, experience and sense of humor.  This is the
+language I love, and my purpose is to know her better.
+
+Matt Dailey
+
+______________________________________________________
+End of Mendele Vol. 4.319
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,146 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.286
+March 24, 1996
+
+1) _Chulyot_ (Leonard Prager)
+
+1)----------------------------------------------------
+Date: Wed, 20 Mar 96 22:52:02 IST
+From: rhle302@uvm.haifa.ac.il
+Subject: _Chulyot_ ('Links') No. 3 (1996)
+
+Mendelyaner will be interested to know that the third number of the
+Hebrew-language Israeli journal _Chulyot_ will be appearing shortly after
+Passover and can now be ordered.  Devoted exclusively to the study of Yiddish
+language, literature and folklore, the journal also includes stories, essays
+and poems in Yiddish as well as in Hebrew translation.  The special prize of
+No. 3 is the original Yiddish poem "Evigingo" by the Vilna poet Leyzer Volf,
+accompanied by a remarkable Hebrew translation by the editor Shalom Luria.
+
+The journal can be ordered from _Chulyot_, Department of Hebrew and
+Comparative Literature, University of Haifa, Haifa 31 999, Israel. There are
+still copies of No. 2 availabe.  No. 1 is now out-of-print (and eagerly sought
+after if you happen to have a copy you don't mind selling).  Each issue costs
+twelve US dollars.  Checks can be made out to _Chulyot_.
+
+Here is the Table of Contents of No. 3:
+
+"The chicken and the egg" (_Avot_ 5,6): A Word From the Editor
+
+Mendele Moykher-Sforim            Reb Faytl [Yiddish original]
+Mendele Mocher Sefarim            Reb Faytl [Hebrew translation]
+
+Avidov Lipsker                    The Mirror in Which Rabbi Simon
+                                  the Great of Mainz Did Not See Clearly
+
+Shmuel Werses                     From Language to Language:
+                                  Characteristic Traits of the Yiddish
+                                  Version of Yosef Perl's _Megale tmirin_
+                                  ('Revealer of Secrets')
+
+Avraham Lis                       Sholem-Aleykhem's Epistolary Estate
+
+Ilanit Yaakov                     The Plan for Publication of
+                                  Sholem-Aleykhem's Works by the
+                                  Moriah Publishing Co.
+
+Jacob Weitzner                    Women in Sholem-Aleykhem's _Tevye
+                                  the Dairyman_
+
+David G. Roskies                  S. Anski and the Paradigm of Return
+
+Avraham Greenbaum                 Bergelson's "A Witness" as a Parable
+                                  on the Fate of Soviet Jewry
+
+Benjamin Harshav                  The Role of Language in Modern Art:
+                                  Texts and Sub-Texts in Marc Chagall's
+                                  Paintings
+
+Khone Shmeruk                     Isaac Bashevis Singer as Children's
+                                  Storyteller
+
+Michael Astour                    Leyzer Volf [Lazar Wolf]
+
+Avrom Sutskever                   To Leyzer Volf [Yiddish original]
+Avraham Sutskever                 To Leyzer Volf [Hebrew translation]
+
+Leyzer Volf                       Evigingo [Yiddish original]
+Leyzer Volf                       Evigingo [Hebrew translation]
+
+Katherine Hellerstein             A Yiddish Poet's Response to the
+                                  _Khurbm_:  Kadya Molodowsky in America
+
+David E. Fishman                  The Politics of Yiddish in Tsarist
+                                  Russia
+
+Avraham Greenbaum                 Yevgeni Kagarov -- A Forgotten Soviet
+                                  Yiddishist
+
+Yechiel Szeintuch                 The Underground "Bund" Press in Warsaw
+
+Documents
+
+Zelik Kalmanovitsh                Pages Torn from an Essay
+
+Y.-L. Perets                      Hebrew and Yiddish
+
+Perets Markish                    The Esthetics of Struggle in Modern
+                                  Poetry
+
+Shifra Epstein                    The First_Purim-shpil_ of the Bobover
+                                  Chasidim in New York after the Shoa
+
+Dov Noy                           Proverbs Spoken by Shalom Katz
+of Toronto
+
+Avraham Keren                     Hebrew Elements in Shalom Katz's
+                                  Yiddish Proverb Collection
+
+Leonard Prager
+
+______________________________________________________
+End of Mendele Vol. 5.286
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,318 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.112
+December 3, 1997
+
+1) Dawwenen II (Claus Buryn)
+2) Dutch Yiddish "dawwenen" (A. Manaster Ramer)
+3) Yetta (Aron Mandl)
+4) 'zol mir zan far dir' and 'vyiten lekho' (David Herskovic)
+5) Hebrew-Aramaic words (Ellen F. Prince)
+6) YIVO transliteration standard on the Web (Dvorah (Debra) Halperin Biasca)
+7) Yiddish a la Wisse and WEVD (Harold L. Orbach)
+8) dav(e)nen (Bill Weigel)
+9) Non-linguists (Claus Buryn)
+
+1)----------------------------------------------------
+Date: Sun, 30 Nov 1997 14:18:08 +0200
+From: Marion Troia & Lucas Bruyn <troia@worldaccess.nl>
+Subject: DAWWENEN II
+
+In Mendele No. 7.071 Sema Chaimovitz Menora initiated a discussion on the
+etymology of the word 'dav(e)nen), or rather on 'davening'. Initially it was a
+free for all issue, but in time it became more of a private battle. Several
+readers have suggested a change of subject, but to no avail. Since the
+discussion can not be stopped, I would like to suggest another approach and
+ask the main contestants to come up with some proof that the forms they favor
+actually are attested in literature. I would also like to point out that
+suggestions made by readers for an etymology relating the word to an M.H.G.
+form have been rejected by the main players in favor of Hebrew and Aramaic
+derivations, while, going by popular vote, most contributors favored a
+Germanic origin. To sum up what has been said in this respect:  In No. 7.072
+Ruben Frankenstein mentions Immanuel Olsvanger's proposal: M.L.G. verb "daven"
+or "doven" (=to make a noise, twittering, warbling). 
+
+In No. 7.074 Ariane Zwiers informs us that 'daven' comes from "German 'daune'
+which comes from the Middle High German word 'don' (or Low German 'dune')."
+meaning song, melody. 
+
+In the same issue Bob Hoberman refers to the analysis of the etymology of
+davenen given by Solomon Birnbaum in Origins of the Yiddish language. He
+indicates that Birnbaum thinks the hypothesis: "Middle High German doenen"
+false and impossible. 
+
+In No. 7.076 A. Manaster Ramer also mentions Birnbaum's refutation of M.H.G.
+"doenen": "His refutation of the Kosover etymology which seeks to trace
+davenen to MHGerman doenen is compelling.Yiddish would have daynen or deynen,
+not davenen, if this etymology were correct." And: "Also, as Birnbaum notes,
+one must add that Kosover relies on a 15th cent. manuscript in which der
+khazen do"nt, so this word specifically refers to what a khazen does, i.e.,
+singing or intoning, not the mumbled or silent praying typical of Jewish
+custom. 
+
+At this point in the discussion it would have been interesting to know whether
+Ariane Zwiers opinion is based on Kosover or not. Instead of asking this
+question A. Manaster Ramer puts forward his own favorite, which he ascribes to
+FlorenceGuggenheim-Gru"nberg:  It traces davenen (originally daven) to
+theHebrew root D-B-B, whose primary sense is 'to move the lips'." He adds:
+"the word is attested in one Westerly Yiddish dialect, Dutch Yd, and it isnot
+clear whether it was indigenous or borrowed from Eastern Yiddish." He fails to
+indicate the source and gives no date. 
+
+In No. 7.079 Esther Goffstein informs us: According to Max Weinreich:  History
+of the Yiddish Language (Pg.24) the word was "doynen" (old Yiddish) before it
+changed to "davnen". "The grandparents might still have said /zaver and
+/doinen/ for zoyer (sour) and davnen (to pray)." and: "According to Weinreich,
+the word "davnen" is of uncertain origin (P.680)" 
+
+In No 7.081 Alexis Manaster Ramer answers: "it is impossible that doynen could
+have changed to dav(e)nen. At best doynen was replaced by dav(e)nen. The two
+words cannot be related, as noted by Birnbaum.  In No. 7.083 Sandra Layman
+reacts to Esher Goffstein, asking: "Is there any chance "doynen" could be in
+any way related to the Romanian verb "a doini" (to sing or play a doina), or
+is any resemblance purely coincidental?" Adding: "A doina is, of course, a
+slow, melismatic, sometimes semi-improvisational song (often melancholy) found
+in both Romanian and klezmer music. 
+
+In No. 7.088 Meyer Wolf informs us: "The meaning of davnen in Yiddish, from
+its appearance in the works of Rivke Tiktiner in the late 16th century to the
+present is 'to recite the prescribed prayers' -- whether silently or at the
+top of one's voice." And further: "Unless A. Manaster Ramer has some earlier
+known attestation than those in the works of Rivke Tiktiner, who writes
+"dvnin" [v = veyz], there is no reason to believe that the verb was originally
+"daven"."  In No. 7.098 A. Manaster Ramer reiterates: "Kosover's etymology
+involving MHGerman doenen is much worse [than another mentioned by him], that
+would have to give *deynen or something like that (as Birnbaum points out). He
+also mentions the W.Y form "oorn', derived from Lat. orare-to pray. 
+
+In No. 7.093 Meyer Wolf adresses the semantic side of the issue, saying
+"Alexis Manaster Ramer does not address the problem of his proposed semantic
+development in the change from D-V-V to davnen. First of all, the development
+from 'to pray quietly' to 'to pray' (in general) is certainly not outlandish,
+but that is beside the point.  davnen just doesnt mean 'to pray (in general),
+whether or not this is qualified by (Jewish) as U. Weinreich does." etc. 
+
+In "der oytser fun der Yidisher shprakh" we find the expression:  "dav(e)nen
+farn omed".Sholem Aleykhem has Motl use these words, speaking about the work
+of a khazn. This does not exclude other uses of the word dav(e)nen, but if the
+first attested use of the word is found in a "15th cent. manuscript in which
+der khazen do"nt", the original meaning could have been "chanting" instead of
+"praying" or "reciting in silence". 
+
+In No. 7.108 I mentioned that the Dutch specialist on W.Y., H. Beem, favored
+Mordecai Kosower's explanation, deriving 'dawwenen' from M.H.D doenen. Beem
+suggest that there is a semantic difference between 'oorn' en 'doenen', giving
+the example: "De gemeente oorde, de chazzen doente". He does not say where he
+found this example.I assume he is referring to Kosower's source. 
+
+Claus Buryn
+
+2)----------------------------------------------------
+Date: Sun, 30 Nov 1997 10:48:32 -0500 (EST)
+From: manaster@umich.edu
+Subject: Dutch Yiddish "dawwenen"
+
+I am sorry I forgot who posted the information from Beem's dictionary of Dutch
+Yiddish, but to respond to their questions, Beem's works are well known to
+Yiddish historical linguists, nor are they the only source on Dutch Yiddish we
+have.  However, Beem conflates real data (namely, the fact that davenen is
+attested in Dutch Yiddish and that it has a short first vowel, as indicated by
+the "ww") with an endorsement of Kosover's completely fantastic etymology
+(which has already been discussed here).  So when Beem says (in Dutch) that
+the khazen davens, whereas the congregation oors, he is simply restating in a
+most confusing way Kosover's observation based on a single medieval manuscript
+that at some point in teh history of Yd the Middle High German verb doenen 'to
+sing' was used with refernce to a khazen. However, there is simply no way that
+davenen can come from doenen, as noteed by Birnbaum, so that this is a dead
+end.  What we are left with is a mystery: we do not know how davenen was used
+in Dutch Yiddish, and we do not even know whether this verb was indigenous to
+Dutch Yiddish or whether it was borrowed from recent immigrant Jews from
+Eastern Europe. 
+
+A. Manaster Ramer
+
+3)----------------------------------------------------
+Date: Sat, 29 Nov 1997 19:28:53 EST
+From: Aronio <Aronio@aol.com>
+Subject: Yetta
+
+Thank you to Bernard Katz for responding about the spelling of Yetta.  The
+only two spellings that I found in the Seyfer Kav Noki were Yud Tes Heh and
+Yud Tes Aleph.  I would have thought that there should be an Ayin after the
+Yud, perhaps even Yud Ayin Tes Ayin.  Any thoughts? 
+
+Aron Mandl
+
+4)----------------------------------------------------
+Date: Sun, 30 Nov 1997 16:35:50 +0000
+From: David Herskovic <david@arctic1.demon.co.uk>
+Subject: 'zol mir zan far dir' and 'vyiten lekho'
+
+In mendele 7.079 Iosif Vaisman wrote 'I would be grateful for pointers to the
+equivalents of "zol mir zayn far dir / vey iz mir far dir" in other cultures
+and for information about regional variations/usage in Yiddish.'
+
+In last week's sedre we have Rifke inciting Yankev and conspiring with him to
+grab the brokhes out of aysov's jaws, so to speak. When Yankev gets concerned
+that he may be caught and land himself with a plate of curses instead, his
+mother assures him with her classic braytkayt 'olay kileloskho beni', meaning
+your curses on me, my son. 
+
+Ibn Ezre after some commentary adds, 'and this is a common phrase amongst
+women'. 
+
+While on last week's sedre, there are a few gramn associated with the berokhes
+'veyiten lekho'. I wonder if they are parts of songs or just sayings. 
+
+Veyiten lekho kayn gelt is nisht do
+
+mital hashomayim fin feter khayim
+imishmanay ho'orets fin grobn porets
+
+David Herskovic
+
+5)----------------------------------------------------
+Date: Sun, 30 Nov 1997 16:53:35 EST
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Hebrew-Aramaic words
+
+In Mendele Vol 07.111 Mikhl Herzog write: "Hebrew-Aramaic words like _got_,
+_bentshn_, _leyenen_, _praven_, _treybern_, right?" 
+
+And we can add: shul, milkhik, fleyshik, yortsayt, glat [koshr], yarmulke,
+[toyre] lernen, likht ('candle'), afikoymen, pishke, vayn, etc... :-)
+
+Ellen F. Prince
+
+6)----------------------------------------------------
+Date: Sun, 30 Nov 1997 15:54:39 -0700 (MST)
+From: BIASCA DEBRA HALPERIN <Biasca@Colorado.EDU>
+Subject: YIVO transliteration standard on the Web
+
+In response to Milton Rosenberg's inquiry, our Vinkl's webpage has a link to
+the YIVO standard for transliteration of Yiddish to Roman characters. 
+http://rtt.colorado.edu/~biasca/yivosys.txt
+Dvorah (Debra) Halperin Biasca
+Boulder Yiddish Vinkl
+
+7)----------------------------------------------------
+Date: Sun, 30 Nov 1997 22:49:20 -0600 (CST)
+From: Harold L Orbach <hlorbach@ksu.edu>
+Subject: Yiddish a la Wisse and WEVD
+
+The note by Iosif Vaisman on Wisse's new article and view on Yiddish and
+leftist secularism (7.109) should be read in the context of the recent
+discussion about WEVD and Eugene Victor Debs, for whom it was named.  WEVD was
+not created as just a Yiddish radio station, it was a _socialist_ yiddish
+station, just as The Forward was a _socialist_ yiddish newspaper.  It is
+perhaps not an accident either that the only two socialists ever elected to
+the U.S. Congress, Victor Berger of Milwaukee and Meyer London of Manhattan,
+New York were Jews. 
+
+The continued attempt to denigrate the secularist Yiddish movement is
+unfortunate.  Like other movements, it had its positive and negative
+components vis a vis Yiddish, but that it made a lasting and significant
+contribution -- particularly in the U.S -- cannot be set aside.  If nothing
+less, that spirit survives in the names of two of its most lasting products,
+WEVD and The Forward.
+
+Harold L. Orbach
+Manhattan, Kansas   
+
+8)----------------------------------------------------
+Date: Sun, 30 Nov 1997 21:51:44 -0800 (PST)
+From: weigelw@socrates.berkeley.edu
+Subject: dav(e)nen
+
+Mendelyaners-
+    
+First let me introduce myself.  I am Bill Weigel, a Berkeley grad student in
+linguistics, working mainly with American Indian languages, but also very
+interested in Yiddish, especially the early history of Yiddish.  This is my
+first MENDELE posting. 
+    
+I don't claim to know the origin of 'dav(e)nen', but I think that there are
+problems with the derivation from Hebrew 'davav' that haven't been raised in
+the MENDELE discussion. My first question is, exactly what form is 'dav(e)nen'
+supposed to come from?  (Since the borrowed word must be an real form, not a
+root.)  'Davav' itself certainly won't work:  it has an extra consonant (the
+second veys) that does not appear in 'dav(e)nen'.  This isn't a trivial
+objection.  Numerous Hebrew words based on structurally similar roots
+('double-ayin' or 'ayin-ayin' roots) show up in Yiddish, and almost always
+fall into one of two categories (1) Hebrew words with the second radical
+appearing twice, in which case it also appears twice in Yiddish, e.g., svive,
+skhakh, etc.  or (2) Hebrew words in which the second radical appears only
+once, but with a dagesh, indicating gemination (doubling), e.g., Hebrew sibba,
+sukkoth, kalla giving us Yiddish sibe, sukes, kale.  In the latter case,
+therefore, if the second radical of the Hebrew root was a beys, pe, or kaf, it
+will show up in Yiddish as b, p, or k (not v, f , or kh), because of the
+dagesh. All the Hebrew words I could find based on the root DBB conform to
+either category (1) or (2): davav, devev, davuv, dibba, etc.  None provides a
+plausible source for 'dav(e)nen'. 
+    
+Of course, there could be a Hebrew word 'dav' based on the root DBB (cf. 'rav'
+from root RBB). This might yield as a Yiddish word either 'dov' (like 'rov')
+or 'dav' (like 'tsad' from root TsDD).  The problem is that there does not
+seem to be any such Hebrew word attested.
+    
+The meaning of 'davav':  I agree with A. Manaster Ramer's remarks about the
+unpredictability of semantic change, so this is really just an observation. 
+In this exchange it has been assumed that 'davav' meant simply 'speak softly
+or whisper,' but my impression is that the typical meaning had a malevolent
+connotation:  Jastrow's Dictionary of the Talmud gives meanings like 'murmur,
+evil speech' etc. for davav (and Aramaic dvava), and phrases such as the
+Aramaic ba'al dvava 'informer, opponent.' The same applies to the words based
+on the root DBB listed in Mandelkern's Tanakh concordance, with one puzzling
+exception.  While there are certainly cases where Yiddish adds a malefactive
+or ironic twist to a Hebrew word (e.g., khokhme), I can't think of any
+examples of the opposite process.
+    
+None of this rules out 'davav' as the source of 'dav(e)nen', but it does make
+it a less likely candidate. 
+       
+Bill Weigel
+       
+9)----------------------------------------------------
+Date: Mon, 01 Dec 1997 12:39:31 +0200
+From: Marion Troia & Lucas Bruyn <troia@worldaccess.nl>
+Subject: Non-linguists
+
+A. Manaster Ramer writes in 07.111: "Thus, I must conclude that he is
+conceding that IN GENERAL informants who are not linguists canNOT come up with
+correct etymologies". 
+
+May I, as a non-linguist, suggest that popular etymologies or
+pseudo-linguistic, false etymologies sometimes work there way into a language
+to become generally accepted in time. I believe many examples could be found
+in Modern Latin, where originally non-Latin words acquired a Latinised form.
+(The reverse also occurs. A modern example is Dutch 'succesievelijk', wich
+recently has become 'zig-zag-sievelijk in popular usage). 
+
+I don't possess the linguist's bag of trics to relate Old Yiddish 'doynen' to
+Modern Yiddish dav(e)nen but I can imagine that at some point in time
+Hebraists tried to come up with a Hebrew form for an originally non Hebrew
+word, because this word was related to religeous practice and therefore ought
+to be of Hebrew origin. Because spelling rules were not fixed, a form
+D-B-B+[(e)nen?] might have been introduced, based on D-B+nen or D-V+nen. 
+
+It seems quite amazing that there was a need to borrow foreign words for
+'saying prayers' such as 'oorn' in the first place.  A. Manaster Ramer still
+has not revealed his Dutch Yiddish source for the D-B-B form he keeps
+defending. 15th century 'do"en'[o"=?] and and late 16th century 'dvnin'[v =
+veyz] have been attested. 
+
+Claus Buryn.
+______________________________________________________
+End of Mendele Vol. 07.112
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+

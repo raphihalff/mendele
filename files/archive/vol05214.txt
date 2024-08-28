@@ -1,0 +1,210 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.214
+January 14, 1996
+
+1) Is Yiddish dying? (Moyshe-Zekharye Beker)
+2) Is Yiddish dying? (Norman Rosenblatt)
+3) Is Yiddish dying? (Ellen Prince)
+4) Hasofe (Hershl Hartman)
+5) Tracking down an article (Louis Fridhandler)
+6) WWW Yiddish site (Bobbi and Michael Zylberman)
+7) Farpotshketing? (Daniel Bugel)
+8) Willy Wonka (Michael Godfrey)
+9) The apostrophe in Romanized Yiddish (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Thu, 11 Jan 96 07:53:29 PST
+From: bm.yib@rlg.stanford.edu
+Subject: Dovid Katz on the 'death' of Yiddish
+
+Far di vos interesirn zikh in dem kloymershtn untergang fun yidish, kent ir
+leyenen Hirshe-Dovid Katses zeyer a faynem opruf tsu der opshatsung fun
+Philologos, in letstn numer "Forverts" (fun 5tn yanuar, 1996):  "Yidish shtarbt
+shoyn vider..."  Prof. Kats redt tsu der zakh, halevay zol der englisher
+"Forward" iberzetsn zayn artikl un farshpreytn far zayne leyeners.
+
+Moyshe-Zekharye Beker
+
+For those who are interested in the supposed death of Yiddish, you might wish to
+read Dovid Katz's very fine rebuttal to Philologos' recent assessment.  See the
+latest issue of the "Forverts" (January 5, 1996), "Yidish shtarbt shoyn
+vider..." [Yiddish is dying once again].  Prof. Katz deals cogently with the
+topic; now, if only the English "Forward" were to publish a translation of his
+article for its readers!
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Thu, 11 Jan 1996 20:06:03 -0800
+From: nrosenbl@interserv.com
+Subject: Life of Yiddish
+
+I normally ignore discussions about the putative death of Yiddish, since it's
+obviously alive; but a recent personal experience seems worth reporting.
+
+Having a routine appointment with the doctor, and knowing that the office wait
+can often be quite long, I took along a softcover book (in Yiddish) to read
+while waiting.
+
+After the appointment, while paying the bill, I placed the book on the counter.
+The young secretary (perhaps 20 or fewer years old), noticing the Yiddish title,
+asked what the language was. As I was anxious to finish my business and leave, I
+answered, simply (though pleasantly): "Yiddish," with no further explanation.
+After a moment she asked: "Where is that spoken?" At this point I realized that
+I had an obligation to explain, and told her that it was the language of the
+Eastern European Jews who were murdered by the nazis, and that many Jews,
+including myself, still spoke it, and worked to revive it as an expression of
+the culture the nazis tried to destroy.
+
+Suddenly, what had for her been ancient history learned in dry textbooks, came
+to life. Surprisingly, she knew more about recent Jewish history than I would
+have expected of a non-Jew, especially a youngster. I was pleased that she
+applauded the efforts to restore Yiddish culture through its language and its
+arts. She asked many questions about Yiddishkite (a word that was new to her),
+and we spent a pleasant quarter-hour on my favorite topic.
+
+What most impressed me was this young non-Jewish girl's intuitive recognition
+that possibly the greatest honor we could do for the victims of the khurbm would
+be to perpetuate their language.
+
+Norman Rosenblatt
+
+3)----------------------------------------------------
+Date: Fri, 12 Jan 1996 14:47:28 EST
+From: ellen@central.cis.upenn.edu
+Subject: language death
+
+hershl hartman writes that the relevance to yiddish of the research on dying
+languages depends on whether or not they have a written literature and, if so,
+how big it is and whether it's still being produced. to which i reply:
+
+uh, yiddish should be so lucky to have the written literature of the two dead
+languages i mentioned, latin and sanskrit. and yes, there is still literature
+being produced (and published...and read) in both of them. the fact remains that
+a language is considered 'dead' or 'alive' according to whether children are
+learning it in the normal way that children acquire languages, and the presence
+or absence of a written literary tradition and corpus is irrelevant. children
+acquiring a native language do not know (or care) about its literature...
+
+ellen prince
+
+4)----------------------------------------------------
+Date: Fri, 12 Jan 1996 03:18:40 -0500
+From: hershl@aol.com
+Subject: Hasofe
+
+Checking Eli Katz's message in di sforim--dictionaries, that is--I find that
+both Weinreich and Harkavy give _no other_ definitions for hasofe than "appendix
+(to a book); raise (in pay)" (Weinreich);  "1) supplement; 2) addition; 3) raise
+(_of salary_)" Harkavy.
+
+Nothing new. While Yiddish derives many words from loshn koydesh, the meanings
+are often quite different. That might just imply that Yiddish is historically
+secular in its outlook.
+
+Hershl Hartman
+
+5)----------------------------------------------------
+Date: Thu, 11 Jan 1996 19:35:54 -0500
+From: lfridhan@aol.com
+Subject: Tracking down an article
+
+A few years ago, I read a very interesting journal article, and I thought I had
+copied it.  I can't find it.  I have forgotten the reference, but not the
+subject matter.  I believe the title includes something about the _secular
+dimension of Yiddish culture_.  One of the points made was that in the late 19th
+and early 20th century, the American Yiddish-speaking Jews having suffered from
+religionists in Russia were determined to erase religion from their lives.  Some
+even went so far as to organize a Yom Kippur Ball to assert both independence
+from and ridicule of their religious heritage.  The article made the case (I
+believe) that it was eventually found impossible to eradicate reference to
+Judaic traditions from the language.  It just did not _feel_ Jewish.
+
+Can anyone recall such a paper?  If so, I'd appreciate the reference.  It
+contains material that I believe is relevant to appraisal of current movements
+that seem to try to remove Judaism and Yidishkayt from Jewishness.
+
+Louis Fridhandler
+
+6)----------------------------------------------------
+Date: Thu, 11 Jan 96 21:35:00 1000
+From: mzylberm@ozemail.com.au
+Subject: WWW Yiddish site
+
+Recipients of Mendele may be interested in visiting a new World Wide Web (under
+construction) site set up by the J.Waks Cultural Centre Inc.. The page provides
+information on Yiddish oriented organisations in Melbourne Australia. The page
+uses English and Yiddish. The Yiddish is not in the form of an image file but is
+entered as normal text. The page provides instructions and pointers on how to
+set your WWW browser to read such text. The address is
+http://www.ozemail.com.au/~mzylberm
+
+Comments and suggestions would be appreciated.
+
+Bobbi and Michael Zylberman
+
+7)----------------------------------------------------
+Date: Fri, 12 Jan 1996 16:06:25 +0000
+From: bugel@innet.be
+Subject: Farpotshketing?
+
+This is a message forwarded from the Lantra-l translators list. I thought it
+might be of interest to some of you. I think the verb should be a bit different.
+Can anyone help out, perhaps by mailing directly to lantra-l@searn.sunet.se ?
+
+Here is the post:
+___________
+>farpotshket (Yiddish): Something that is all fouled up, especially
+>as the result of an attempt to fix it.
+
+<snip> Can the transitive verb "to farpotshket" be counted upon as
+the one million and first word of the English language? <snip>
+____________
+
+Thanks,
+
+Daniel Bugel
+
+8)----------------------------------------------------
+Date: Fri, 12 Jan 1996 11:44:10 -0500 (EST)
+From: mgodfrey@runt.dawsoncollege.qc.ca
+Subject: Willy Wonka
+
+Not having seen the movie I do not know what Gene Wilder said in Yiddish, but
+fervently hope it was something that would make R.Dahl's ears burn, that rabid
+anti-semite. But, then, the medium itself is the message, isn't it? The item was
+documented in the (British?) press some years ago. At the risk of appearing
+revisionist, I must say I never much cared for his work, even before I knew he
+didn't care for ours.
+
+Michael Godfrey
+
+9)----------------------------------------------------
+Date: Sat, 13 Jan 1996 21:36:51 -0500
+From: zellig@aol.com
+Subject: The apostrophe in Romanized Yiddish
+
+I wholeheartedly align myself with the criticism by Marion Aptroot (5.208) and
+Alan R. King (5.212) about my suggestions for apostrophes in romanized Yiddish
+(5.203).  Since these suggestions were solely delimited to readers and speakers
+of English, as evidenced by a number of examples, readers and speakers of
+_other_ languages might find a need for new signs and symbols to meet special
+phonetic or spelling characteristics of these tongues, and such an approach
+would be tantamount to opening a Pandora box.
+
+The YIVO romanization system is a universally accepted system to transcribe
+Yiddish in all languages using Latin letters, and it is therefore best not to
+tamper with it.
+
+Mendele readers will find an in-depth study of the YIVO transcription system,
+with details and explications, in David L. Gold's article "A Guide to the
+Standardized Yiddish Romanization" in _Jewish Language Review_ (Vol. 5, 1985,
+pp. 96-108).
+
+Zellig Bach
+
+______________________________________________________
+End of Mendele Vol. 5.214
+

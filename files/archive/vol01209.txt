@@ -1,0 +1,149 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no.  209
+April 7, 1992
+ 
+1) Toward a new orthography (Zev Bar-Lev)
+2) Query (Zev Hochberg)
+3) Lakhn mit.. (David Hirsch)
+4) Please and thanks (Dovid Braun)
+
+1)----------------------------------------------------
+Date: Mon, 6 Apr 92 13:42:06 -0700
+From: zbarlev@sciences.sdsu.edu
+Subject: RE:Mendele Vol 1.206
+
+Thanks to all who have answered my questions, and even
+corrected some misconceptions that I was carrying around,
+like mixing up Eastern _vaan_ with Western _flaash_.
+
+Also, on the request for a transcription, and not knowing
+whether MENDELE has an official one, may I suggest:
+
+:::::_sh_ rather than _sch_ on grounds of simplicity, since
+_h_ is a handy non-diacritic substitute for the hook
+(hacVek, hachek) of phonetics; (Dutch _sch_ is completely
+different; wouldn't Dutch use _sj_ for _sh_?)
+
+:::::and maybe even _ch_, altho it is spelled in Yiddish as
+if _tsh_; :::::similarly either _zh_ (with diacritic H) or
+_zsh_ (as spelled), although both these are marginal enough
+that "mistakes" are unimportant;
+
+:::::main vowels are as in: mAma jEt skI nO gUru; 
+
+:::::and _ay_ as in "Kaiser", and _ey_ as in "weight",
+which conform both to phonetics, and also to Yiddish
+spelling -- except where used to represent "non-standard"
+pronunciation;
+
+:::::there's no need to distinguish "shwa" from _e_, since
+position in the word does this, although perhaps a symbol
+like @ can be used if a need is felt to distinguish, or the
+full vowel could be marked with / for stress, e.g. _gezen_
+or _g@zen_ or _geze/n_, if not _gezeyn_; vs. _geben_ or
+_geb@n_ or _ge/ben_ or _geyben_ OR _gebn_, of course.
+(There's no necessity for complete consistency; the
+simplest is best unless there's a need to emphasize
+something.)
+
+:::::_h_ should not be used except when pronounced, e.g.
+_handelt_ but not _zehn_ (a German-like spelling);
+
+BUT ...... can I sell people on _hh_ (double H) for the
+_ch_ of "Bach", e.g. _hhaver_, _hhapen_?  I use this in
+Hebrew and a few other languages, and find it very
+convenient, e.g. not subject to any misunderstanding, even
+if one knows little of the language.  _kh_ is not bad
+either (again with diacritic H), but _ch_ always leaves one
+wondering...
+
+This system can be used by people who don't read/write
+Yiddish, and avoids the Germanization of its spelling.
+It's mostly YIVO-style, too. (The five vowels of MAMA JET
+SKI NO GURU are mostly as found in just about any languages
+in the world except English.)
+
+Zev Bar-Lev
+
+2)----------------------------------------------------
+Date: Mon, 6 Apr 1992 19:52 EDT
+From: Zev Hochberg <HOCHBRGZ@ACFcluster.NYU.EDU>
+Subject: Intro. and question
+
+Sholem Aleychem (a better way of saying hello then MENDELE
+Moikher-Seforim): 
+
+This is my first submission to Mendele. My Yiddish is quite
+minimal (my parents used it for their "secret language")
+but my interest is high, so I hope to actively participate
+on the list.
+
+Does anyone know the etymology of "oysen veynik" (?)
+meaning "by heart"? Weinreich doesn't have it; a number of
+fluent speakers I asked know the expression, but not its
+literal meaning or etymology.
+
+A sheynem dank,
+
+Zev Hochberg
+
+3)----------------------------------------------------
+Date: Mon, 06 Apr 92 19:13 PDT
+From: "David Hirsch, Bibliographers Group"
+ <ECZ5HIR%UCLAMVS.BITNET@YALEVM.YCC.Yale.Edu>
+Subject: lakhn mit pyafkes
+
+After reading about "lakhn mit yascherkes", I remembered
+that my grandmother used to use a similar expression "Lakhn
+mit pyafkes", which I think means "laughing with leaches".
+Can anyone tell me the origin of this expression?
+
+David Hirsch
+ucla library
+
+4)----------------------------------------------------
+Date: Mon, 06 Apr 92 23:52:34 -0400
+From: David Braun <braund@linc.cis.upenn.edu>
+Subject: please
+
+'Please' is:
+	- kh'bet dikh/aykh
+	- zay(t) azoy gut
+	- zay(t) (zhe) moykhl
+
+Yes, the last one also means 'excuse me', but is used when
+we say in English 'please', with the understanding
+'excuse/forgive me for troubling you'.  zay(t) azoy gut
+when introducing the request (i.e., at the beginning of the
+sentence) is very often accompanied by un: zayt azoy gut un
+farmakht di tir.
+
+Of course there's the daytshmerizm _bite_, to which one
+answers (humoristically):  bite iz a tokhter (>Heb. bita
+'her daughter').
+
+-------
+
+Thanks, Bob Rothstein, for the translation of "the song".
+Interesting that this is a Ukrainian version, sung by a
+non-speaker of Ukrainian who had an elementary knowledge of
+Polish from school and White Russian/Polish (the dialect of
+where these two languages meet/met) from the street, who
+thought the song was in Polish, did not know that the White
+Russian language even existed, and exhibited traits of
+Ukrainian Yiddish in her mame-loshn.  So a Slavic folksong,
+in its original language (more or less), travelled the same
+route as Yiddish-internal sound changes.
+
+Dovid Braun
+______________________________________________________
+End of Mendele Vol 1.209
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+ 

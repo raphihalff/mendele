@@ -1,0 +1,176 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.005
+May 17, 1995
+
+1) YIVO home page (Zachary Baker)
+2) Other Yiddish Internet groups (Iosif Vaisman)
+3) Kreitzik (Mathis Chazanov)
+4) Anakraytshik (Mikhl Herzog)
+5) Mlupm kind (Paul Pascal)
+
+1)----------------------------------------------------
+Date: Tue, 16 May 95 11:46:30 PDT
+From: bm.yib@rlg.stanford.edu
+Subject: YIVO home page
+
+Marvin Friedman's query about "YIVO On-line" (Mendele 5.002; based on an
+article in the May 5th "Forward") is most likely a reference to a World
+Wide Web Home Page for YIVO -- which was not actually produced at YIVO,
+but rather, by ORTnet.  YIVO still has limited access to the Internet, so
+we don't yet have the capability of producing a home page (or accessing
+the Web).  The e-mail address that I have for ORTnet is
+help.desk@ort.org.  Colleagues of mine have sent me printouts of the home
+page; interestingly enough, the planned Center for Jewish History and its
+other constituent organizations -- the American Jewish Historical
+Society, the Leo Baeck Institute, and the Yeshiva University Museum --
+have also had home pages placed on the Web by ORTnet.
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Tue, 16 May 1995 23:28:35 -0400 (EDT)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Other Yiddish Internet groups
+
+Tom Teicholz's article in Forward mentions "the Virtual Shtetl" among
+other Jewish resources on World Wide Web. Unfortunately, the article did
+not include Shtetl's address (http://sunsite.unc.edu/yiddish/shtetl.html)
+and incorrectly stated that "Shtetl ... set up by the University of North
+Carolina". Shtetl, a Yiddish Language and Culture Home Page is located on
+the SunSITE server, which is a Sun Microsystems sponsored program at the
+University of North Carolina at Chapel Hill. However, neither the University
+of North Carolina nor Sun Microsystems are responsible for creation,
+maintenance, and content of the Shtetl.
+
+Although Shtetl is still under construction, visitors are welcome and
+Shtetl's khakhomem approved hard hats as appropriate headdress at all
+times (excluding shabes).
+
+Mendele archives, an important part of the Shtetl, are now searchable on-line
+using WAIS software. Any WAIS client or form-capable browser (Mosaic,
+Netscape, etc) may be pointed to URL: wais://sunsite.unc.edu/mendele.src
+to search Mendele.
+
+Mendele archives on SunSITE could be reached using all major network tools:
+
+via WWW:
+http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+The whole SunSITE (including Mendele files) is being mirrored in Japan,
+so yiddishists overthere may use
+gopher://sunsite.sut.ac.jp/11/academic-info/languages/yiddish/mendele
+
+Those who don't have Netscape/Mosaic or gopher access may search Mendele
+archives by telneting to sunsite.unc.edu, login: swais, no password.
+
+As always, suggestions and contributions of building materials to Shtetl
+are gladly accepted.
+
+Iosif Vaisman
+
+3)----------------------------------------------------
+Date: Tue, 16 May 1995 17:40:10 -0700 (PDT)
+From: chazanov@news.latimes.com
+Subject: Kreitzik
+
+we used to call the end piece of the loaf "der kontchik," probably from
+the russian word_konyetz_"the end."
+
+Mathis Chazanov
+Los Angeles
+
+4)----------------------------------------------------
+Date: Tue, 16 May 95  23:35 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Anakraytshik
+
+an akraytshik or a nakraytshik? Either way, one of the Yiddish words
+for "heel" of the bread.  No religious connotations.
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: 16 May 95 22:29:46 EDT
+From: 75332.2735@compuserve.com
+Subject: Mlupm kind
+
+I like Zellig Bach's speculative etymology for "mlupm kind" as "a kind
+klein vi a pintele" like the diacritical pintele that accompanies mlupm
+vov.
+
+Now I'd like to offer my own speculative etymology.  I begin by
+attributing the last nun in "melupen" to an adjectival form.  That leaves
+"melup".  The Hebrew word "melupaf" has a repetition of its last
+consonant (i.e., pey or fey), which often in Hebrew points to a root that
+once did not have that repetition (e.g., savav comes from sav; maror from
+mar; and so on), so we can surmise that there is a relationship between
+"melupaf" and "melup", our truncated "melupen".  And what does "melupaf"
+mean?  It means "bound, wrapped up, enveloped, embraced". My guess,
+therefore, is that a "mlupm kind" is an infant who is wrapped up tightly,
+as was the custom, in a wimple (it's still done in those regions, btw). I
+think that Harkavy's translation, referring to a child just learning
+alef-beiz is perhaps reporting a hyperbole, and Weinreich's translation,
+referring to a babe in the woods (and therefore applicable to anyone of
+any age) is reporting a metaphoric use.
+
+The weakness in my hypothesis is how "mlupm vov" fits into all this.
+Having constructed this elaborate edifice of a speculation, I am obliged
+to squeeze mlupm vov onto one of its girders, so here goes:
+
+Attempt # 1: the diacritical mark hovers near the middle of the vov,
+hugging close to it, as it were.  Like tfiln around the middle finger.
+Like a wimple, you might even say!  ;)
+
+Attempt # 2: Okay, if you didn't like that one, try this one: to make the
+sound of the mlupm vov, your mouth must bind itself up into a tight round
+shape, firmly and lovingly surrounding the sound as it emerges from the
+throat.
+
+If you like either of those explanations, I'm also selling a bridge in
+Brooklyn you might be interested in.
+
+Paul Pascal
+Toronto
+
+______________________________________________________
+End of Mendele Vol. 5.005
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

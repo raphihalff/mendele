@@ -1,0 +1,364 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.161
+March 5, 1998
+
+1) More Yiddish linguistics and etymology (A Manaster Ramer)
+2) kurve (Edward L. Keenan)
+3) kurve (Lance W. Garmer)
+4) Strange Kind of Woman (Shaya Mitelman)
+5) kurve (Irv Young)
+6) kurve (Henry Zalkin)
+7) Ode to Joy (Maynard Wishner)
+8) openers (Harvey Varga)
+9) "fartaytsht un farbesert" (Leonard Prager)
+
+1)----------------------------------------------------
+Date: Mon, 2 Mar 1998 15:46:03 -0500 (EST)
+From: manaster@umich.edu
+Subject: More Yiddish linguistics and etymology
+
+A recent Jerusalem Post (2/21 I believe) features a column by Moshe Kohn about
+the etymologies of the name Yente and the words shlimazl and shlemil.  In the
+discussion he mentions correspondents who referred him to some Hebrew and
+German etymological dictionaries which are supposed to derive shlemil from the
+Hebrew she-lo mo'il, and he also a mentions a "Yiddishist" from Petah Tikva
+who told him that shlimazl comes from the Polish adjective szlamazarny
+'careless, negligent'.  These proposals, which Mr. Kohn, to his credit, does
+NOT endorse seem to me to be instructive examples of how NOT to do etymology
+and their particular failings may be useful to analyze here, because they are
+quite common in this kind of work. 
+
+The first principle of a putative etymology must be that it not be based
+merely on similarities of sounds between the attested word and its proposed
+source, but rather that the sounds correspond according to the formulae that
+have been worked out, based on ALL words in the language, for how its sound
+have evolved.  The formulae for the correspondences between Yiddish and
+(ancient or medieval Hebrew were largely worked out by Birnbaum in the 1920's,
+with some refinements added by Bin-Nun, Beranek, Weinreich, and perhaps
+others, and are not (aside from a few small points)  controversial (so have
+the correspondences between Yiddish and medieval German long been known; here
+the fundamental work was that of Gerzon, Sapir, Bin-Nun, Weinreich, et al.).
+According to what I understand of these formulae, we would expect shelo mo'il
+to give something like *shloyml or *shlemoyl (the asterisk is used to indicate
+a form that does not exist).  Since that is NOT what we find in Yiddish, the
+etymology in question cannot be accepted.  Of course, as in any science, we
+could always find that our formulae are inadequate and have to revise our
+ideas, so I will not say that this proposed etymology is impossible.  Rather,
+it seems to be inconsistent with our whole understanding of the way Hebrew
+words come out in Yiddish garb, and unless that whole understanding is shown
+to be inadequate, we cannot accept the proposal.  The operative concept here
+is that there is no such thing in modern linguistics or philology as an
+isolated etymology of a single word.  Every etymology is a part of a complex
+theory we have regardingthe whole evolution of the language, and it can only
+be evaluated as part and parcel of that theory. 
+
+The idea that shlimazl comes from Polish szlamazarny is also difficult to
+accept, and this time for even more fundamental reasons.  Again, the theory we
+have of the historical development of any one language (e.g., Yiddish or
+Polish) does not stand alone; it is part of our theory of how languages evolve
+in general (for experience has shown that Hopi, Polish, Chinese, Yiddish, and
+every other language studied in detail to date evolve in the SAME general
+ways).  Based on our understanding of how languages change, it would be
+unusual for the noun (shlimazl) to occur in the recipient language and for the
+adjective (szlamazarny) to occur in the donor lg.  What I mean is that
+szlamazarny consists of a root szlamaz- and a sequence of suffixes -ar-n-y,
+and it would be strange if Yiddish were to extract that root and make it into
+a noun.  But it would be perfectly commonplace for Polish to borrow a Yiddish
+noun and stick its suffixes on to that.  In addition, if the Polish form were
+the source, it should have an etymology in Polish, but I am not aware of a
+good etymology for it.  Finally, there is a little detail.  In Polish the word
+in question is pronounced by some (e.g., by me-- I happen to be a native
+speaker of Polish) not with the sound written sz but with the one written s'
+(s-acute).  Now, Polish has two different shibilants neither of which is the
+same as a Yiddish or English sh.  In fact, a Yiddish or English sh sounds to a
+Polish ear as something in between our sz and s' (and I think the precise
+acoustic and physio- logical descriptions of these sounds would bear our that
+there is an objective basis for this feeling), so that it makes sense for
+Yiddish word with sh to beborrowed into Polish with both sz and s'.  In
+addition, it is a frequently observed fact that in many languages words of
+foreign origin exhibit variations in sound which native words do not (I do not
+know who first discovered this, I think I learned of this from the writings of
+the Czech linguist Mathesius), so the mere fact of such variation in the
+Polish word would immediately suggest that it might be of foreign origin.  In
+sum, given the lack of a Polish etymology (unless the Polish linguists know
+something;  I am not able to check any Polish etymological works at present),
+the variation between the sz and the s', AND the fact that Polish has this
+word only inthe form of an adjective with a bunch of suffixes while Yiddish
+has it in the basic noun form, all this would indicate that in all likelihood
+the direction of the borrowing would be from Yiddish into Polish.  When we add
+to this the fact that shlimazl is found in Yiddish dialects of Western Europe
+(which as a rule have no borrowings from Polish whatsoever), the case becomes
+pretty much closed. 
+
+I would argue that it is the emphasis on every etymology being part of the
+overall theory of the evolution of the language in question, which in turn has
+to be part of our overall theory of the evolution of ALL languages, that
+distinguishes the modern "scientific" approach to language (dating to the
+early or mid-19th cent.)  as opposed to the older approach, which goes bacl at
+least to Plato and which prevailed in European scholarship through the
+beginning of the 19th cent.  and then very quickly receded into the background
+BUT which continues to be the prevalent, maybe the SOLE, way of thinking about
+language which is taught to the public at large.  This antiquated approach of
+course is the one where every word and every language is treated individually,
+atomistically, without any constraints or rules save those of the author's
+individual imagination for what sounds alike or what meanings seem related to
+what other meanings.  I do not know, nor have I ever seen any study on this,
+why the breakthroughs of the early 19th century scholars of language have
+never become part of elementary curriculums in the Western world and why
+instead we still allow almost everybody to be taught the earlier, atomistic,
+view of language.  But the evidence against the older and for the newer
+approach is overwhelming, and in academic circles there has not been any
+dispute over it for over 100 years, except that during Stalin's reign, for a
+time, modern linguistics was banned in Russia and a philologist named Marr was
+allowed to create a "New Science of Language", which actually in all but name
+represented a particularly crazy form of something much like what Plato may
+have believed. 
+
+Yididsh is actually a wonderful example of how the one approach fails and how
+the other works, and it is to be hoped that more lovers of Yiddish will treat
+its history as more than a collection of anecdotes, and recognize the
+achievements of the relatively few scholars who laid the foundation for our
+understanding (still very partial, I might add, and in need of more work) of
+where Yiddish comes and how it got here from there. 
+
+A Manaster Ramer
+
+PS. I keep citing Plato (spec. his Cratylus), but I believe that some
+specialists suspect he was not really endorsing the incorrect etymologies
+given there but rather trying to make fun of them.  If so, he would have been
+a millennium and a half ahead of his time, for the fact is that the atomistic
+approach to etymology and to language generally prevailed into the early 19th
+cent. 
+
+2)----------------------------------------------------
+Date: Tue, 3 Mar 1998 14:39:26 -0500 (EST)
+From: keenan@fas.harvard.edu
+Subject: kurve
+
+Presence in all Slavic languages, and plausible etymology within Slavic, lead
+one to think that some one or combination of them must be the source of both
+Yiddish and Hungarian words. 
+
+Etymologies: Vasmer favors *kur ("chicken, rooster") > kury >kur"ve; 
+Preobrazhenskii *hure (whore)."  V. seems to have the better case. 
+
+Edward L. Keenan
+Cambridge, MA 
+
+3)----------------------------------------------------
+Date: Tue, 3 Mar 1998 15:24:35 EST
+From: LWG34 <LWG34@aol.com>
+Subject: "Kurve"
+
+If "kurve" is from Hungarian, then that is quite a coincidence, as the word in
+Polish is an established (and extremely offensive) one.  In Polish, it is
+spelled "kurwa," and does indeed mean "whore" or "slut," although the word
+"dziwka" (also very strong) is much more common used when referring to such
+women.  "Kurwa," on the other hand, has become a general, all-purpose shock
+word in Polish, being more or less equivalent to the "f word" in English. 
+
+Lance W. Garmer
+
+4)----------------------------------------------------
+Date: Tue, 3 Mar 1998 19:58:29 -0500
+From: Serge Mitelman <simitelman@pol.net>
+Subject: "Strange Kind of Woman".
+
+It's not true that kurve cannot be found in dictionaries. Here are but two
+examples off-hands: 1) Complete Yiddish-Hebrew Dictionary, AKA - Fuler
+Yidish-Hebreisher Verterbukh fun M.Tsanin, H.Leyvik-farlag, 1982, reads: 
+"kurve (s) - zona, yatsamit; kurvish - shel zona, shel yatsamit";  2) 
+Thesaurus of the Yiddish Language, or Der Oytser fun der Yidisher Shprakh fun
+N.Stuchkoff, YIVO, 1950, p.692 (among other entries): "kurve, kurvenik,
+kurevnik, and a kurve iz a ganef". It is slowly percolating onto the literary
+pages as well, see for example Kobi Veytsner's "Dire Gelt" (Di Pen, N.21,
+April 1996), - not without criticism, though (see Lilke Meizner, Di Pen, N.27,
+Oktober 1996). This word might have some Yiddish connotations in the Romanian
+language, but not so in its Moldavian dialect, - where " kurva" is the only
+slang word to reflect the meaning. In Russian is it used figuratively even
+more than literally (e.g.: "skurvit'sya"(a verb)  - to become corrupt). 
+
+I find another word to refer to this strange kind of woman even more
+intriguing, namely: khune, khune-beyle, and the local expression - khune-beyle
+de la yash (i.e. "fin Yos" in Moldavian). It has been even more commonplace on
+the Bessarabian streets and in our scattered "diaspora" now, and can also be
+found in Stuchkoff's. The fact that it is onomastic leads me to believe that
+it might stem from some sort of folklore. To illustrate this I will render the
+following punning anecdote (only between us, di mendelyaner, of course,
+because the topic is taboo!):
+
+Se geyen tsvey shvester, yn bageygenen a ingermon. Freygt er di eyne:
+
+-Ir zent, dakht tsekh, Khunes tokhter?
+
+Entfert di tsveyte:
+
+-Take yo. Mir zenen beyde khunes!
+
+Can anybody clarify the issue as to where this latter word comes from?
+
+Shaya Mitelman.
+
+5)----------------------------------------------------
+Date: Tue, 3 Mar 1998 23:40:37 EST
+From: YOU 2 IG <YOU2IG@aol.com>
+Subject: "kurve"
+
+I can't contribute anything sensible to the quest for the derivation of the
+word "kurve". However it does provoke nostalgia in recollection of the mirth
+generated on some seemingly interminable car trips when the double entendre of
+road signs such as SLOW CURVE & DANGEROUS CURVE was seized upon for humorous
+(?)  exploitation. Just another example of the saturation of our lives by
+Yiddish tam albeit sometimes on the bawdy side.  Hoping this is not too devoid
+of tam -- geyt gesuntehaid. 
+
+Irv Young
+Isles of  Capri, FL
+
+6)----------------------------------------------------
+Date: Wed, 04 Mar 1998 18:08:02 +0000
+From: Henry Zalkin <Zalkin@geocities.com>
+Subject: Kurve
+
+The word is the same not only in Hungarian, but also in all Slavic languages
+(well, it is very rare in Russian) as well as some Finnish dialects. Leo
+Rosten's _The Joys of Yiddish_ suggests it might be of Hebrew origin, but I
+dare to doubt this. After all, the English word _whore_ is of the very same
+root. 
+
+Henry Zalkin
+
+7)----------------------------------------------------
+Date: Tue, 3 Mar 1998 20:43:34 -0500 
+From: mwishner@jon.cjfny.org
+Subject: Ode to Joy
+
+There (is) another verse to the Ode to Joy recalled by Deenah Mersky [07.159]
+
+            Oikh ain gott hot zai bashafen.
+            Un ain Fotterland di velt.
+            Aleh mentshen zainen brider
+            Dos iz shoin fest aingeshtelt
+
+Maynard Wishner
+
+8)----------------------------------------------------
+Date: Wed, 4 Mar 1998 02:49:26 EST
+From: Varga96 <Varga96@aol.com>
+Subject: openers
+
+I remember growing up in Brooklyn in the 50's that when my father used to bump
+into some one he knew, when asked "vus hert zich", his response was a playful
+"me gult zich un me shert zich" or maybe "fun oyvn mult zich, fu hintn shit
+zich".  I remember that there were more of these responses that he and many of
+his friends used.  They tended to establish the level of humor or seriousness
+the coming interaction would have.  Do any of you out there use these, or
+remember what they are?  Please post. 
+
+I also have noticed that only men tend to answer this way; that possibly some
+of these were too coarse to be used by women.  Efsher s'zennen etleche vos
+vern genitzt nor by froyen. Not being of that ilk I don't have first hand
+knowledge.  My father was a very playful and gregarious man and it might be
+that this is something more in keeping with a character type than any other
+factor. 
+
+Comments anyone?
+
+Harvey Varga
+
+9)----------------------------------------------------
+Date: Wed, 04 Mar 1998 11:45:48 +0200
+From: Leonard Prager <lprager@research.haifa.ac.il>
+Subject: "fartaytsht un farbesert"
+
+A few days ago I received the following email letter from an old friend, Benny
+Dorfman (whom some of you may know from his and his wife, Rivka's, writings on
+East European synagogues) and I want to share my reply with Mendelyaner.  I
+also want the help of Mendelyaner in putting this hoary matter to rest.  It
+should not prove as testy as, say, the etymology of _tsholnt_. 
+
+Hi, L.:
+
+I know the expression "fartaytsht un farbesert" is occasionally used on the
+flyleaf of books translated into Yiddish, but I wonder if you could tell me
+how the phrase got to be there.  Is it likely that translators frequently made
+real contributions to the content of the books they translated? 
+
+Regards, Ben-Zion
+--------------
+Dear Benny:
+
+I am assuming you are not being facetious.  I will be sober, hopefully not
+forbiddingly so.  The phrase "fartaytsht un farbesert" is supposed to have
+appeared on the title page of a translation of one or more of Shakespeare's
+plays into Yiddish or on billboards advertizing the production of Shakespeare
+plays in Yiddish.  The story is repeated as a joke at the expense of the
+Yiddish publisher or producer who out of sheer ignorance and perhaps a modicum
+of bravado could claim to have "improved" Shakespeare.  But the entire tale
+may be apocryphal or if true may have another meaning.  I have to confess that
+I don't recall actually having seen a translation with that title page phrase. 
+Have you?  Has anyone? 
+
+Perhaps as a recoil from the hoary joke you have asked me to comment on, I
+repressed the memory of having seen it -- years ago I looked at most of the
+published editions of Shakespeare in Yiddish.  A publisher could have quite
+mechanically put the phrase on translated works or it could simply mean that
+an earlier translation has been "farbesert" in the sense of 'corrected'.  It
+is not absolutely clear that what is meant is that the Shakespearean work has
+been improved; the intent could simply be that the text of that work has been
+corrected (of printing errors, etc.).  Or, if the phrase appeared as part of
+the promotion of a stage version, the implication is that the stage version
+has been improved -- a legitimate claim for a producer to make, since all
+actual productions of Shakespeare make alterations in the received or disputed
+text.  Even in Shakespeare's time, "bad" quartos of plays were sometimes
+followed by "good" ones.  But if that is all that is meant by "farbesert," it
+would of course not be funny and it would not able one to laugh at the Yiddish
+primitives who perpetrated the expression. 
+
+It is true that the earliest translations and theatrical scripts of
+Shakespeare's works in Yiddish were horrendous, the products of untrained
+individuals working under impossible conditions and serving a largely
+uneducated audience.  On one occasion following the playing of _Hamlet_ the
+audience is reported to have applauded vigorously and to have called for the
+author.  This story is almost certainly true and I have always taken it to be
+a tribute to the audience rather than a joke at their expense.  And while
+there may be some truth to the "fartaytsht un farbesert" story I always winced
+when I heard it.  The anecdote has frequently masked a stereotypic view of
+Yiddish culture and a condescending attitude towards an unschooled immigrant
+generation. 
+
+I think it would be a good idea if I put your question and my answer into
+_Mendele_ just to see what other readers and some librarians with immediate
+access to Yiddish translations of Shakespeare think of this matter.  Where in
+print does the phrase "fartaytsht un farbesert" exist on title pages/theater
+posters?  It should be possible to establish the facts.  _Mendele_ exists to
+settle such questions.  It is the "shayles tshuves" of matters Yiddish on the
+internet. 
+
+Yours,
+L.
+
+Benny has since assured me that he was not being in the least facetious and
+looks forward to the discussion in _Mendele_.  He also adds:  "It's
+interesting that you ascribe the _fartaytsht_ exclusively to translations of
+Shakespeare.  I would have thought it could apply to almost any work.  In any
+event, one might have expected that in the interest of clarity and avoidance
+of ambiguity, that the flyleaf could have announced:  _A farbeserte
+fartaytshung_." 
+
+Leonard Prager
+______________________________________________________
+End of Mendele Vol. 07.161
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+

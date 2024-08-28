@@ -1,0 +1,173 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.146
+October 20, 1995
+
+1) Khapn (Daniel Soyer)
+2) Khapn (Eliyahu Juni)
+3) Khapn (Moshe Sheskin)
+4) A git vinter (Dovid Yosef Herskovic)
+
+1)----------------------------------------------------
+Date: 19 Oct 95 18:46:10 EDT
+From: 74212.2700@compuserve.com
+Subject: Khapn
+
+I recall that Sholem Aleichem used the word "lokkhenen" (or is it
+"lakakhenen," "lakkhenen,") from the Hebrew lamed-kuf-khes, meaning to
+take. I think I remember it from Motl Peysi, and as I recall it was a
+kind of cute euphemism to use when one didn't quite want to say that
+someone had stolen something, but that is in fact what he/she had done.
+
+Daniel Soyer
+
+2)----------------------------------------------------
+Date: Thu, 19 Oct 1995 23:26:22 -0400
+From: ao107@freenet.carleton.ca
+Subject: Khap'n, khapts'm and pak'n
+
+What with the yontoyvim and enough schoolwork to last a yur in a mitvokh,
+I'm way way way behind on Mendele, and thus will be writing on some
+topics which have begun to fade from memory;  I'll try to refer to volume
+numbers where I remember them.
+
+Rick Gildermeister (5.139) is correct in surmising that the "ts" in
+"Khapts-im" is a suffix being added to imperatives;  for me, it's not
+just an addition, but the plural imperative marker, necessary when
+addressing two or more people, and contrasted with the singular
+imperative. "Ets tsvay, her owf ts'redn" is anomalous to my ear--it
+should be "Ets tsvay, herts owf ts'redn".
+
+The noun "khapts'm" is Yinglish, not Yiddish--an adaptation of the
+(formerly) oft-heard cry in the streets of "Khapts-im" (an imperative
+sentence).  The former is used by non-Yiddish speakers, as in "There was
+a huge khapts'm on Thirteenth Avenue this morning, but the cops came and
+stopped it."  The latter is an imperative sentence, used to rally the
+troops after a mugger or any other unwelcome element--rarely in Boro
+Park, more often in Williamsburg.  No Yiddish speaker will use the
+noun--it hasn't made its way back into Yiddish, and would sound very
+anomalous.
+
+I have deliberately distinguished the spelling of "khapts'm" and
+"Khapts-im", not only because they're grammatically distinct, but because
+my nose tells me there's a slight differnce in the phonology (actual
+sounds):  the last vowel is articulated in the imperative, but lost in
+the noun;  when the imperative sentence is shouted (as is usually the
+case), the last vowel is extremely elongated ("Khapts-iiiiiiiiiiiiim!!!").
+And the noun can show up as "khapts'n" (possibly a case of homorganic
+nasal assimilation?).
+
+As for other uses of "khapn," one that wasn't mentioned was "khapn
+shrayim"--when, at a tish, kh'sidim try their best to grab the rebbe's
+leftovers, which get passed around the table.
+
+Also, in yeshives and the lomdishe world in general, to "khap" something
+is to realize it/understand it/'get' it.  e.g. "Demults hob ikh g'khapt
+far vus der Rashbe hot du arayng'brenkt a toysfes fin zvokhim." (It's
+used in American Yeshivishese quite a lot, even outside the context of
+lern'n, e.g. "I don't khap why they didn't have a khapts'm when the
+shaygets broke the window."  It isn't used in Israeli Yeshivishese,
+possibly because Yiddish agreement suffixes are less similar to Hebrew
+suffixes than to English ones, so using Yiddish verbs sounds more
+anomalous in Hebrew than it does in English.  Cf. fargin'n, which can be
+used in Yinglish, but has been changed into Hebrew "l'fargen", as in
+"Ani lo m'fargen la.")
+
+Regarding khap'n and pak'n, I'm familiar with both, but for me, the
+former is a physical catching, while the latter refers to knowledge,
+catching someone in the act, finding out/proving what they've done.  To
+wit:
+
+"kh'o'g'pakt a ganif in maan shtib in mitn di nakht, ober ikh hob'm nisht
+g'kont khap'n." ('I caught [i.e. interrupted, espied] a thief in my room
+in the middle of the night, but I couldn't catch [apprehend] him.')
+
+"Di polislayt fin losandzheles hob'n g'khapt Vadzhe Yankel Simpson, ober
+zay hob'n'm nisht g'kont pak'n--er hot farbrent zayne hentshkes." ('The
+L.A. police caught O.J. Simpson [i.e. prevented him from escaping], but
+they couldn't catch him [in a crime, show he committed a crime]--he
+burned his gloves.')
+
+My translations are obviously rather loose, but to me, both those
+sentences make perfect sense.  Do they sound strange to anyone else?
+
+(As far as I know, the plural of "politsay" is "politsay", but I've also
+come across "polislayt;"  I suspect it's an Americanism, based on an
+analogy: yingerman-->yingelayt, ureman-->uremelayt,
+policeman-->polislayt.)
+
+Eliyahu Juni
+
+3)----------------------------------------------------
+Date: Fri, 20 Oct 1995 13:00:40 GMT
+From: sheskin@netmedia.co.il
+Subject: Khapn
+
+I can remember the pawn shop district in Montreal during the 30's and
+40's where men were hired to stand outside some of these stores with the
+sole purpose of enticing pedestrians to come in and buy or "sell". They
+were called "khappers". Here too, the inference is alike to kidnapping
+someone or control by great persuasion or mind bending.
+
+Moshe Sheskin
+Hulda, Israel
+
+4)----------------------------------------------------
+Date: 19 Oct 95 19:46:36 EDT
+From: 100114.750@compuserve.com
+Subject: a git vinter
+
+in der shtibl vi ikh daven hot zikh yeydr gevinchen motse yom tev "a gite
+vokh in a git vinter". vi vat ikh vays tit men zikh azoy vinchen zvishen
+haymishe yiden. s'iz do vos laygen zi "in a git yor".
+
+a git vinter far ale (a git zimer far di ostralyaner mendlyaner)
+
+dovid yosef herskovic
+
+______________________________________________________
+End of Mendele Vol. 5.146
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+
+

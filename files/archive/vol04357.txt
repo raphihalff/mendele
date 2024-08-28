@@ -1,0 +1,154 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.357
+March 8, 1995
+
+1) Amusing translations of Yiddish idioms (Rick Turkel)
+2) Another bi-lingual coincidence (Morrie Feller)
+3) Poet and poem? (Dovid Moishe Goldstein)
+4) How many Mendelniks? (Morrie Feller)
+5) How many Mendelniks? (Noyekh Miller)
+6) Zellig (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Tue, 7 Mar 95 16:56:45 EST
+From: rturkel@cas.org
+Subject: Amusing translations of Yiddish idioms
+
+I enjoyed very much Dovid Braun's final wish (4.355), "Be me well and
+strong."
+
+I've gotten into the same habit, learned from a very Litvish,
+American-born uncle who is fluent in Yiddish.  He used to (and still
+does) say things like "What makes a Jew?" or "What hears itself?" for
+"How are you?" and "Know I what?" when he didn't have a clue. Also, "And
+is my soul a raisin?" when he felt he was being treated with less than
+the appropriate level of respect.
+
+Has anyone else encountered this?  Is it done only with questions?
+Inquiring minds want to know.
+
+Rick Turkel
+
+2)----------------------------------------------------
+Date: Tue, 7 Mar 1995 22:14:38 -0700 (MST)
+From: feller@pcef.pc.maricopa.edu
+Subject: Another bi-lingual coincidence
+
+Anent the Hebrew-Yiddish puzzle, many years ago I learned a
+Spanish-Yiddish sentence which made sense in each language - if one
+allowed for a little poetic license.  The Spanish sentence is: Aqui esta
+una mesa?  Which means: Where is a table?  The Yiddish sentence is: A key
+est un a meser. A cow eats without a knife.
+
+Morrie Feller
+Phoenix
+
+3)----------------------------------------------------
+Date: 08 Mar 95 06:13:22 EST
+From: 73051.2257@compuserve.com
+Subject: Poet and poem?
+
+In preparation for a program in Yiddish at his senior residence, my
+father, who is 99? years old, is trying to find the name of the poet and
+the balance of the poem of the following. (Please forgive the lack of
+knowledge of standard transliteration usage.)
+
+	Nit keyn farbetene, aleyn gekumen
+	Take an oreme ober dokh a mume
+	Orem iz nisht gut, orem iz nisht gut
+	Tu lomir zich nit shemen mit aygen blut
+
+A dank aykh ale.
+
+Dorian (Dovid Moishe) Goldstein
+
+4)----------------------------------------------------
+Date: Wed, 8 Mar 1995 09:54:55 -0700 (MST)
+From: feller@pcef.pc.maricopa.edu
+Subject: How many Mendelniks?
+
+I note with satisfaction the improved last page of each issue of Mendele
+which gives complete instructions for dealing with Mendele.  I feel that
+it would be nice to know how many Mendelniks (Mendelyaner?) subscribe
+to this list.  This information would be a welcome, occasional addition
+to the bulletin. It might be a way of judging the increase, if any, of
+interest in Yiddish here and elsewhere in the world.
+
+Morrie Feller
+Phoenix
+
+5)----------------------------------------------------
+Date: Wed, 8 Mar 1995 15:42
+From: nmiller@mail.trincoll.edu
+Subject: How many Mendelniks?
+
+*
+*  Country        Subscribers           Country        Subscribers
+*  -------        -----------           -------        -----------
+*  Argentina              3             Israel                22
+*  Australia              4             Italy                  3
+*  Austria                1             Netherlands            3
+*  Belgium                1             New Zealand            1
+*  Canada                38             Poland                 5
+*  Costa Rica             1             South Africa           1
+*  Finland                1             Spain                  1
+*  France                 2             Switzerland            2
+*  Germany               15             USA                  553
+*  Great Britain          5             Venezuela              1
+*  Iceland                1             ???                   10
+*
+* Total number of "concealed" subscribers:         9
+* Total number of users subscribed to the list:  674  (non-"concealed" only)
+* Total number of countries represented:          22  (non-"concealed" only)
+
+Noyekh Miller
+
+6)----------------------------------------------------
+Date: Wed, 8 Mar 1995 15:42
+From: nmiller@mail.trincoll.edu
+Subject: Zellig
+
+Zellig Bach's many admirers and friends have probably been wondering
+why nothing has been heard from him lately.  The answer is: flu.  Zellig
+has, however, been recovering pavolyinke and is writing again.  He has
+promised Mendele a lot of new material.  Sooner the better.  All
+Mendelniks wish Zellig a refue shleyma.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.357
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

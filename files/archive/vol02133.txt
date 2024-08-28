@@ -1,0 +1,172 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 133
+January 6, 1993
+ 
+1) Emet/emes (Berl Hoberman)
+2) Reflexives (Khaim Bochner)
+3) Reflexives (Cecile Kuznitz)
+4) Beginnings (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: 05 Jan 1993 10:20:14 -0500 (EST)
+From: Robert D Hoberman <RHOBERMAN%SBCCMAIL.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: Emet/emes
+
+Arn Abramson answered Sigrid Peterson's question about emet
+in Israeli Hebrew clearly and preciselly.  I can only add a
+few sidelights.  In Israeli Hebrew the stress in this word
+is indeed on the last syllable in all contexts that I can
+imagine.  (Well, occasionally someone might say it the
+Yiddish way, for slightly humorous ["ludic"] effect, with
+-s in place of -t and stress on the penult: Emes.)  If some
+Israelis put the stress on the penult in the blessing for
+the haftara, I think it's not precisely due to the rhythmic
+requirements of the melody but rather that along with the
+traditional melody they retain some bits of the traditional
+pronunciation.  For instance some Israelis pronounce a
+tseyre as /ey/ in reciting the liturgy, though it's /e/
+(same as segol) in their speech: /seyfer/ in liturgy,
+/sefer/ in speech, but /melekh/, with two segols, in both.
+
+The pre-history of emet explains why it does not behave as
+a segolate.  In segolates, like sefer, melekh, pesakh, or
+kotel 'wall', the last vowel is, or at least historically
+was, epenthetic, and in a sense isn't there, as far as
+stress placement is concerned, so stress goes on what is IN
+A SENSE the last syllable, really the penultimate.  Compare
+Hebrew kElev 'dog' with Arabic kalb and Aramaic kalba;
+Hebrew must have once had kalb, then kAleb, then kElev.
+The historical root of emet was aleph-mem-nun, the same as
+in amen, and the -t is a suffix, so the word was
+underlyingly something like *'emen-t.  If it had gotten an
+epenthetic vowel it would have ended up something like
+*emEnet, with stress on the middle syllable (and rhyming
+with shamEnet 'cream', a wonderful blend of Hebrew shemen
+'oil' and Yiddish shmant or smetene!).  However, in very
+early Hebrew, before the Biblical spelling was fixed, the
+n-t sequence in *ement assimilated to t-t, then just -t,
+before it had a chance to get split by an epenthetic vowel
+as in shamEnet.  The upshot of it all is that it SHOULD
+have been a segolate *emEnet, but it ended up a
+non-segolate emEt.
+
+Berl
+rhoberman@sbccmail.bitnet
+rhoberman@ccmail.sunysb.edu
+
+2)----------------------------------------------------
+Date: Wed, 06 Jan 93 10:04:19 -0500
+From: bochner@das.harvard.edu
+Subject: RE: "Reflexives"
+
+Thanks to Bob Rothstein for telling us about "zikh
+ibergeyn" as an inherently "reflexive" verb. I had often
+wondered (while singing "Reyzele") why it was "gey _zikh_
+nokh a por mol iber", but 2 lines later "gey ikh _mir_ a
+freylekher".
+
+What I think now is that the system in Gebirtig's (the
+author's) dialect had "zikh" for accusative reflexives, but
+it still had "mir" for the 1sg dative reflexive. "zikh
+ibergeyn" takes an accusative reflexive, like other
+inherently "reflexive" verbs.  So in some dialects it might
+be "gey _dikh_ iber", but in this dialect we have the more
+'slavicized' "zikh".  Two lines later we don't have an
+inherent reflexive, we have the 'ethical dative' type, and
+this type is indeed dative, in dialects that still
+distinguish dative and accusative.  So the case is
+different, and that can explain the different usage.
+
+And some people say Yiddish doesn't have grammar!
+
+-- Khaim
+
+3)----------------------------------------------------
+Date: Wed, 6 Jan 93 12:57:51 PST
+From: tsirl@leland.stanford.edu
+Subject: reflexive pronouns
+
+I am curious about the conjugation of reflexive pronouns,
+i.e. ikh shem mikh, du shemst dikh, etc. instead of ikh
+shem zikh, du shemst zikh, etc. Is this in fact an older
+usage, as someone suggested? I was once taught that this is
+a variation used in a particular dialect.
+
+Cecile Kuznitz
+
+4)----------------------------------------------------
+Date: Tue, 5 Jan 93 20:03:24 EST
+From: nmiller@starbase.trincoll.edu
+Subject: Beginnings
+
+David Neal Miller came up with a wonderful idea last week.
+He suggested that we exchange favorite beginnings and
+perhaps discuss them.  As is often the case, no one wants
+to be first. A perfect opportunity for the shames!
+Everybody will guess the author, but who cares?
+
+                       * * * * * *
+
+      Bay Noyekhn in der Teyve, a Khumesh-shpil
+
+(In Noyekh's teyve.  Noyekh ligt toyt-shiker oyf der erd.
+Kham un Yofes kumen arayn.)
+
+Kham      Yofesl!
+
+Yofes     Ha!
+
+Kham      Zest, dort drimlt der Papa,
+          ungezhlyoket zikh mit vayn
+          vifil s'iz in im arayn,
+          itser puft er vi a ber.
+          Veyst vos kh'vel dir zogn?  Her--
+          lomir opton im a shpitsl,
+
+Yofes     Mit a shtroyele a kitsl,
+          vet er meynen flign baysn.
+
+Kham      Nite, nite, God bahit,
+          der tate iz a beyzer Id--
+          er vet unz mitn kontchik shmaysn.
+
+Yofes     Vos zhe den zhe?
+
+Kham      Kh'hob a plan.
+
+Yofes     Nu?
+
+Kham      Kh'meyn, farshsteystu mikh...di hoyzn...
+          ot azoy, farshteyst...antbloyzn,
+          ober shtiler, shtilerheyt.
+
+Yofes                              Bist gerekht,
+          s'iz a plan un gornisht shlekht,
+          kum!
+
+(Zey geyen tsu oyf di shpitz finger tsu Noyekhn, antbloyzn
+im, dernokh nemen zey zikh far di hent, tantsn arum im un
+zingen:)
+
+          Beh, tateshe, beh
+          men zeyt dem gantsn "feh"
+          zeyt men im in gantsn;
+          kumt tsu loyfn kind un keyt.
+          Zeyt dem nakhes, zeyt di freyd,
+          kumt un lomir tantsn.
+
+Shem (kumt arayn mit a khumishl untern arem)
+          Lobuses, avek, ir hert!
+
+Kham      Krume noz, kh'hob dikh in dr'erd!
+
+...un azoy vayter.
+
+Noyekh
+
+
+______________________________________________________
+End of Mendele Vol 2.133
+

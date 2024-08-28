@@ -1,0 +1,166 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.325
+April 21, 1994
+
+1) Lernen et al (Yankel Ekhoyz)
+2) Sholem Aleichem Letters (Louis Fridhandler)
+3) Retonde or rotonde (Louis Fridhandler)
+4) Retonde/rotonde (Shleyme Axelrod)
+5) Telzer yeshiva (Vulvush Lazer Gershgorn)
+
+1)----------------------------------------------------
+Date: Wed Apr 20 19:35:36 1994
+From: eckhause@sas.upenn.edu
+Subject: lernen et al
+
+AL KHET!
+
+Mr. Arnemann is correct regarding lernen, although I am not entirely
+incorrect.  "Lernen" means both to "teach" and "Lernen/Lernen zikh" means
+"learn".  Eg.  "Lernen a blat gemore."  Also, I erred in saying that
+German "kochen" equal Yiddish "kuchen" and German "Kuchen" equals
+exclusively the Yiddish "Lekekh".  In fact, although Yiddish has "Kukher"
+for German "Koch"(a cook), the verb is "kokhen"(in German, "kochen").  In
+addition, Yiddish has "Kukhn" as well as "Lekekh" for "cake".  One place
+I did not make a mistake, however, is "kaken".  What is the origin of
+"kaken" which means...  Does German have such a word?
+
+Yankel Ekhoyz
+
+PS.  "oyslernen" in Yiddish can mean either "to learn" or "to teach"
+according to Weinreich.  According to  my German dictionary, "auslernen"
+means "to complete one's apprenticeship".  Again, sorry for speaking
+prematurely.
+
+2)----------------------------------------------------
+Date: Wed Apr 20 19:56:50 1994
+From: 74064.1661@CompuServe.COM
+Subject: Sholem Aleichem Letters
+
+Here is the final installment of my translation of Sholem Aleichem's
+letters to Mordecai Spector about the preparation of the first Tevye
+Story.
+
+Letter six was sent the same day as letter five, Nov. 7, 1894: Sholem
+Aleichem addressed it to the typesetter of Hoyz-Fraynd giving detailed
+instructions on the desired appearance of the type faces and page
+ornamentations.
+
+Letter seven
+
+Kiev, November 10, 1894
+
+Dear Colleague M. Spector!
+
+     Greetings!  Reb Tevye has arrived!...
+
+     Mazl tov!  At last I send you, with God's help, the rest of the
+yarn.  I don't want to hold on to it any longer, otherwise I might begin
+to look it over again.  A hunger to revise it will seize me; actually, I
+will yearn to redo the whole thing.  Now, let us hear what you think of
+Tevye.  You are the first to meet him. Please excuse this meager
+offering. [in Russian] What we have, we give. A good day, and a good
+eternity,
+
+Your best companion and best friend, Sholem Aleichem
+
+Letter eight
+
+Kiev, November 24, 1894
+
+Dear Brother!
+
+     Here are the corrected proofs.  There are quite a few misprints; but
+it is the first set of proofs.  Compared to proofs from Berdichev, it
+must be considered good [Spector's printer was in Warsaw].  Fix the
+errors as I indicate without fail.  It is hard to get approval of proofs
+from the Kiev censor, and I don't have a clean copy of the manuscript.
+Let the Warsaw censor deal with it.
+
+     I received the proofs at dusk.  Now, ten o'clock at night, they are
+already on their way to you.  So, what else do you want from me?
+
+     Please, don't be too upset about your critical opinion of Tevye.
+The world of Yiddish readers is sure to like him.  Either that world has
+better judgment than you do, or no judgment at all.
+
+Your Sholem Aleichem.
+
+These are all the published letters I know of re: the preparation of the
+first Tevye piece.  In my next post, I will send a paragraph from this
+original 1894 version which does not appear in the revised 1918 Folksfond
+Oysgabe (New York) version which appeared first in 1903 (Warsaw).  As
+most Mendlnitses and Mendlnikes might know, the title was changed from
+Tevye Der Milkhiker (1894) to Dos Groyse Gevins (1903).
+
+Louis Fridhandler.
+
+3)----------------------------------------------------
+Date: Wed Apr 20 21:00:36 1994
+From: 74064.1661@CompuServe.COM
+Subject: Retonde or rotonde
+
+In response to Elyet Gertl's frage on behalf of someone reading Motl
+Peysi dem Khazns:  Reading Yiddish in Malaysia?  Wonderful! Alexander
+Harkavy's dictionary does not list retonde in the main part.  However,
+the section with additional words lists retonde and tells you to see
+rotonde (p. 578).  There it is defined as "round cloak."  Okay, but mit
+vos est men a round cloak?  Harkavy knew, I suppose.  In any case it is
+some kind of cloak.  A little bit of help.  Thanks for calling on me,
+Elyet.
+
+Leybl, aka Louis Fridhandler.
+
+4)----------------------------------------------------
+Date: Wed Apr 20 22:04:18 1994
+From: PTYAXEL@ubvms.cc.buffalo.edu
+Subject: retonde/rotonde
+
+Mistame hot men avekgeganvet di "rotonde", vos Harkavys verterbukh
+fartaytsht "cope, rotonde (kind of cloak".
+
+--Shleyme Axelrod
+
+5)----------------------------------------------------
+Date: Thu Apr 21 07:29:03 1994
+From: MGAYNOR%JHUHYG.BITNET@JHUVM.HCF.JHU.EDU
+Subject: Telzer yeshiva
+
+I believe they refer to themselves in english script as the "Telsher"
+Yeshiva.  I've never understood this.  Do any Mendeleniks know if this is
+a regional pronunciation, or if it is simply a slippage in translitera-
+tion?
+
+Martin Gaynor (Vulvush Lazer Gershgorn)
+
+______________________________________________________
+End of Mendele Vol. 3.325
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

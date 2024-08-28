@@ -1,0 +1,245 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.040
+July 6, 1995
+
+1) Hebrew-Yiddish prayerbook (Larry Rosenwald)
+2) Fardreyen di yoitsres (Eliyahu Juni)
+3) Lakhn mit yashtsherkes (Bob Rothstein)
+4) Vayte kroyvim (Bob Rothstein)
+5) Vinkl (Daniella HarPaz)
+6) Teaching Yiddish to children (Morrie Feller)
+
+1)----------------------------------------------------
+Date: Wed, 05 Jul 1995 16:59:27 -0500 (EST)
+From: lrosenwald@wellesley.edu
+Subject: A query about a Hebrew-Yiddish prayerbook
+
+An acquaintance of mine gave me this interlinear Hebrew-Yiddish
+prayer-book;  it's copyrighted "Washington, Feb., 1904, by Joseph Magil,"
+but the full title is (please forgive or correct transliteration errors),
+Yosef Magilnitskis ferlag lvatey sefer vlaam, Folshtendiger linien-sidur
+. . . . ale tfilot [Hebrew spelling, with nekudot - in fact, everything,
+even the straight Yiddish, has nekudot] kseder fir a gants yohr.  There's
+an introduction in Yiddish (without nekudot, finally), and then the book
+begins - phrase by phrase, so you get:
+
+modeh ani	ikh dank
+lfanekha        far dir
+melekh		kenig
+Hai		lebender
+
+And so on.
+
+So I was wondering - is this a common sort of book, and what tradition
+does it come out of, and who would have used it, and so on? A sheynem
+dank,
+
+Larry Rosenwald
+
+2)----------------------------------------------------
+Date: Wed, 5 Jul 1995 22:28:03 -0400 (EDT)
+From: ejuni@acs.ryerson.ca
+Subject: Fardreyen di yoitsres
+
+Mottel Lakin wrote, regarding 'fardreyen di yoitsres':
+
+>       The second,
+>which I don't believe was unique to them, but I haven't heard of others
+>using, involves mixing somebody up so that he/she doesn't know one yetzer
+>(impulse) from another. As I recall it was frequently used in arguments
+>when one got fed up with the assertions or the demands of the other.
+
+I don't know what the plural of yetser is, but I'm quite sure that it
+isn't 'yoitsres'.  Yoitsres (sing. yoitser) are the piyutim inserted into
+khazoras ha-sha"tz (the repetition of shmonesre by the khazn) on yontif
+and other important days, such as shabes shire, shabes zokhor, purim, and
+shabes hagodel.
+
+These piyutim are usually about the special occasions on which they are
+said, and most are written in a very difficult poetic style.  Since
+almost noone understands them, they're usually mumbled quickly, or
+skipped over altogether.  (The Vilna Gaon was a strong opponent of their
+use, and actively campaigned to have them removed.  Outside the khsidishe
+world, he was mostly successful;  the exceptions are Rosheshone, Yom
+Kipur, the first musef of Pesach and musef of Shmini Atzeres, when almost
+all Orthodox shuls say them, though many skip some parts.)
+
+In those shuls where yoitsres are said, since the khazn usually doesn't
+understand them, it's easy for him to make a mistake and say the wrong
+one, embarassing himself publicly (if anybody notices :-);  hence the
+phrase 'fardreyen di yoitsres'.  I have heard it used, but I can't
+remember if denotes making a fool out of oneself in  public, or making an
+understandable mistake, one that anyone could make.  The usage which
+Mottel mentioned (in arguments, when one got fed up with the demands and
+assertions of the other,) sounds strange to me.  Maybe this is another
+one of those expressions which is used differently by different people;
+anyone else familiar with it?
+
+To go into etymology:  There are piyutim for birkhes kriyas shma [the
+brokhes before and after the shma] for both mayriv and shakhris, as well
+as for khazoras hasha"tz of shakhris and musef.  The piyutim for birkhes
+kriyas shma are said in even fewer shuls than the piyutim for khazoras
+ha-sha"tz, and can only be found in some makhzoyrim.
+
+The first brokhe before kriyas shma in mayriv is called 'ha-ma'ariv
+arovim'; the piyutim for mayriv are called "ma'aroviyoys" (which
+technically means 'Western ones') after the brokhe.
+
+The first brokhe before kriyas shma in shakhris is called 'yoytser
+ha-m'oyroys'; the piyutim for shakhris, and by extension, for khazoras
+ha-sha"tz, are called "yoitsres" after the brokhe.
+
+The piyut for khazoras ha-sha"tz of Purim (the only piyut for a weekday)
+is called "Kroyvets L'Purim".  "Kroyvtes" is spelled kuf-reish-
+vov-beis-endetsadik, and is a corruption of the Hebrew word 'kroyvoys'
+(close ones);  I was once told why Purim's piyut has a separate name, but
+I have since forgotten the explanation.  Does anyone out there know?
+
+(I don't know if "ma'aroviyoys" and "kroyvets" can be considered Yiddish
+words;  they're used by Ashkenazim only, but unlike "yoitsres", they
+haven't parts of Yiddish idioms.  Has anyone prescribed some way of
+deciding?)
+
+Eliyahu Juni
+
+3)----------------------------------------------------
+Date: Wed, 05 Jul 1995 23:06:01 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: Lakhn mit yashtsherkes
+
+For Norman Savitt:  In vol. 1, no. 208 (April 6, 1992) of Mendele I
+posted a comment on the Yiddish expression _lakhn mit yashtsherkes_,
+suggesting a possible connection with a Belorussian folktale about a
+peasant and a lizard.  That issue should be retrievable from the Mendele
+archive.
+
+Bob Rothstein
+
+4)----------------------------------------------------
+Date: Thu, 06 Jul 1995 09:39:09 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: Vayte kroyvim
+
+What Chane Honig remembers as "vi a ferd's fus putkevas eynikl" (5.038)
+is given by Nahum Stutchkoff (in his _Oytser fun der yidisher shprakh_)
+as "ferds fus podkeves eynikl," i.e., "horse's foot horseshoe's
+grandchild" (cf. Russian _podkova_, Polish _podkowa_ 'horseshoe').
+Stutchkoff lists several other expressions for distant relatives:
+
+		1. ferds baytshs shtekele(s podkeve)
+		   horse's whip's stick('s horseshoe)
+
+		2. kus baytshs ferds shtekele
+		   cow's whip's horse's stick
+
+		3. ferds fus podkeves eynikls nogl/tshvekl
+		   horse's foot horseshoe's grandchild's nail
+
+		4. ferds fus podkeves tshvekls kepl
+		   horse's foot horseshoe's nail's head
+
+		5. Mayn zeydns hon hot in zayn bobns hoyf
+	 	 arayngekrey(e)t.
+		   My grandfather's rooster crowed into his
+		 grandfather's yard.
+
+		6. Mayn ferds baytshs shtekele iz geven bay zayn
+		 zeydns vogn a flekele.
+		   My horse's whip's stick was a peg in his grand-
+		 father's wagon.
+
+		7. Mayn bobe un zayn zeyde lign in dr'erd ale beyde.
+		   My grandmother and his grandfather are both dead and
+		 buried.
+
+		8. Er meynt, az shmelke iz zayn feter, un ikh meyn,
+		 az shmelke iz mayn feter.
+		   He thinks that Shmelke is his uncle, and I think that
+		 Shmelke is my uncle.
+
+		9. Es blaybt in der mishpokhe.
+		   It remains in the family.
+
+Bob Rothstein
+
+5)----------------------------------------------------
+Date: Thu, 06 Jul 1995 12:53:40 -0500 (EST)
+From: harpaz@binah.cc.brandeis.edu
+Subject: The word "vinkl"
+
+A student asked me about the usage of the word "vinkl" to connote a group
+of people meeting together (ie., a club).  He is interested in
+how/when/why this usage became acceptable, if it has been accepted for a
+long time, if it is slang-ish, etc....I answered him as best I could but
+am certain that many of you are more equiped to answer him well.  I would
+appreciate any useful information. a dank in faroys,
+
+Daniella HarPaz
+
+6)----------------------------------------------------
+Date: Thu, 6 Jul 1995 11:58:00 -0700 (MST)
+From: feller@indirect.com
+Subject: Teaching Yiddish to children
+
+Many long years ago when I was a pupil in the Hebrew school of our
+synagogue, the handsome young man who was our teacher said: "Since you
+already know how to read Hebrew, I will teach you how to read Yiddish."
+And he did.  I recently experimented with teaching my 10-year old
+grandson to read Yiddish, since he already could read Hebrew.  This
+worked so well that I am considering the possibility of teaching a small
+group of pupils in our temple's school to read Yiddish if they already
+know how to read Hebrew.  Has anyone in Mendele-land had any experience
+along this line? Also, I am looking for suitable reading materials.  I
+believe there is a publisher by the name of "Kinderbukhs", or something
+like that.  If anyone has an address for this publisher, I would like to
+make contact. A sheynem dank in foroys.
+
+Morrie Feller
+Phoenix
+
+______________________________________________________
+End of Mendele Vol. 5.040
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

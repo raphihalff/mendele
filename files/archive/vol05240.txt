@@ -1,0 +1,252 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.240
+February 1, 1996
+
+1) Yiddish dictionaries (Andrew Sunshine)
+2) Life and death of Yiddish (Ellen Prince)
+3) Life and death of Yiddish (Hershl Hartman)
+4) Suffix anomalies (Shleyme Axelrod)
+5) Letzter Mohicaner? (Andrew Cassel)
+6) Dona, Dona (Hershl Hartman)
+7) Sholom Aleikhem on Tolstoi (Henekh Coleman)
+8) Parent to child Yiddish (Morrie Feller)
+9) Parent to child Yiddish (Shleyme Axelrod)
+
+1)----------------------------------------------------
+Date: Mon, 29 Jan 1996 16:21:01 -0500 (EST)
+From: als55@columbia.edu
+Subject: Yiddish dictionaries
+
+The work that--to my knowledge--comes closest to what Serge Rogosin describes
+is the _Groyser verterbukh fun der yidisher shprakh_/_Great Dictionary of the
+Yiddish Language_. Unfortunately, only the first four of a projected twelve
+volumes of this work have been published (the last c. 1980); these cover all
+words beginning in alef (to the innocent ear this will sound ridiculous;
+however, a disproportionate number of words/spellings begin in _alef_,
+including most of the words beginning in vowels). Draft entries have been
+written through _hey_, if my memory serves (I know Meyer Wolf is out there in
+Mendele-land; perhaps he can correct or supplement this account). The entries
+that are furthest along are those beginning in _beyz_; these were to
+constitute the fifth volume entirely or almost entirely. The manuscript
+material is currently housed in Butler Library, Columbia University (a
+duplicate of this material resides at The Hebrew University in Jerusalem).
+There haven't been too many requests to look at the ms., however, those which
+have been made have been honored. If I can help you find your way to this
+material, let me know.
+
+Andrew Sunshine
+
+2)----------------------------------------------------
+Date: Wed, 31 Jan 1996 17:49:12 EST
+From: ellen@central.cis.upenn.edu
+Subject: Life and death of Yiddish
+
+to arnie herschorn:
+
+you say 'a language is like a species.' ok, i'll bite -- HOW is a language
+like a species? imho, a language is a cognitive/social construct residing in
+the minds of the people who are said to 'know' it, tho its products fill the
+airwaves and the libraries, to be sure. its 'rights' cannot possibly exceed
+the rights of those people in whose heads it potentially resides.
+
+as for your eagerness to see tears, i'm not sure why you are so discounting
+those chassidim for whom yiddish is alive and well. you say yiddish will have
+a 'vestigial life' with them. nokh a mol with the biological metaphors! :) in
+what way is it 'vestigial'? as i understand it, a vestigial organ is an organ
+that has outlived its function and has deteriorated structurally such that it
+no longer _can_ serve a function. clearly, this is not the case with yiddish
+among the yiddish-speaking chassidim -- it's serving them just as well as any
+_other_language is serving its native speakers, and there is certainly no
+evidence of 'structural deterioration'. (oyf mir gezogt!)
+
+i'm not sure what you'd wish for, if you had your druthers. you despise those
+who are living the kind of life that yiddish evolved to function in ('like a
+mammoth preserved in ice in the wastes of siberia' were your words) and yet
+you are in deep mourning for yiddish.
+
+your wish for a 'concept' for a language that is 'not fully alive if it is the
+language of the last of the mohicans' reminds me of a hilariously funny thing
+i read once. my husband is an egyptian jew, one of the many who left the arab
+world (or were kicked out) after the suez war. his mother lives in brooklyn,
+near many of her 'landslayt', and they have their own sephardic community
+center. one day at her house, i was reading this community center's newsletter
+and i read that they were starting arabic classes for children. and it said
+'our children must learn arabic -- so that the language doesn't die out!'
+
+funny, eh? obviously the scale is different here -- but i believe you are
+doing the same thing they were -- for _your_ group, the language has
+effectively died out -- and the others just don't count! :-) (or would you
+feel better if there were 100 million yiddish-speaking chassidim in the world?
+oy vey! :) )
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Thu, 1 Feb 1996 13:15:15 -0500
+From: hershl@aol.com
+Subject: Life and death of Yiddish
+
+Glad Morrie Feller (V 5.238) has introduced humor into this "life or death"
+question.
+
+Recently, following my lecture (in Yiddish) to the fabled L.A. Yiddish Culture
+Club (about to celebrate its 75th anniversary!), I was told another story
+about Khayim Nakhman Bialik:
+
+Once, on shabes, Bialik strolled in Tel Aviv, speaking Yiddish with his
+companions. When a passerby accused him of thus "violating the sabbath,"
+Bialik replied that he was actually observing the strictures against exertion
+on shabes because: "af tsu redn ivris muz men zikh onshtrengen." (Speaking
+Hebrew is an exertion.)
+
+Hershl Hartman
+
+4)----------------------------------------------------
+Date: Wed, 31 Jan 1996 18:35:03 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Suffix anomalies
+
+In 5.225 and 5.236, Zellig Bach discusses a number of ways in which Yiddish
+can identify as female either the holder of an occupational title or the wife
+of the holder.  Along with other valuable information, Zellig notes that in
+his 1968 dictionary, U. Weinreich uses the feminine suffix _-in_ [yud-langer
+nun] (e.g., _neytorin_ 'seamstress'; _kishef-makherin_ 'sorceress'), though
+Harkavy (1928) omits the yud (_neytorn/neytern_, _kishef-makhern_.)  Harkavy
+thus appears to be more phonetically precise than Weinreich; as I understand
+it, the _i_ in the suffix is so reduced when spoken that it is left out of the
+pronunciation altogether, at least in "Standard" Yiddish.  Weinreich himself,
+in a footnote to lesson 28.2 in his textbook (p. 262 in the 5th edition), says
+"_-in_ is sounded as a syllabic (N); e.g., _leyenerin_ [LE'YENERN]."  That is,
+not [LE'YENERIN].  I wonder why the standardizers, whom Weinreich follows, did
+not call for dropping the yud in these words, as Harkavy did.
+
+Another curiosity:  in view of the evident desire of the standardizers to be
+systematically phonetic in the orthography of the non-loshnkoydesh-derived
+lexicon, why did they not put a pasekh under the tsvey yudn in the suffixes
+_-hayt_ and _-kayt_, as in _frayhayt_ and _kleynikayt_, so as to show that the
+pronunciation is not _-hEYt_ or _-kEYt_?  After all, they have pasekh tsvey
+yudn for the first syllable in _frayhayt_; why not for the second syllable as
+well?
+
+(Az ikh fleg fregn bay der mamen vegn epes vos ikh hob nisht farshtanen,
+"Why?", flegt zi mir amol entfern " 'y' is a crooked letter.")
+
+In personal communication, Zellig has suggested that these inconsistencies in
+the spelling of Standard Yiddish may be the results of compromises among the
+speakers of the several dialects represented in the standardizing group(s).
+Is/was there a dialect that has _frayheyt_, or one that gives full value to
+the _i_ in _neytorin_?
+
+Shleyme Axelrod
+Puzzled in Buffalo, New York
+
+5)----------------------------------------------------
+Date: Wed, 31 Jan 1996 20:57:08 -0500
+From: andrew.cassel@phillynews.com
+Subject: Letzter Mohicaner?
+
+In 5.238, Arnie Herschorn of Toronto wrote:
+
+"A language is not fully alive if it is the language of the last of the
+Mohicans."
+
+I'm unqualified to enter the alive-or-dead debate, but I am quite curious
+about this very American phrase, which I have noticed cropping up in Yiddish
+too often to be just a coincidence. When my zeyde, olevasholom, passed away in
+1941, the obituary in his landsmanshaft bulletin referred to him as "one of
+the last Keidaner Mohicans."
+
+Later I was struck to hear in the film "Partisans of Vilna" an excerpt from a
+partisan marching song in which the term "der letster mohikaner" is used to
+rhyme with "partizaner" (sorry I can't recall the verse; efsher ken emetsn mir
+helfn). Anyway, I wonder; did this bit of U.S. slang make its way back across
+the ocean in time to be incorporated into 20th century Litvish Yiddish
+vernacular? Ver veyst?
+
+Andrew Cassel
+Elkins Park, PA
+
+6)----------------------------------------------------
+Date: Wed, 31 Jan 1996 22:14:48 -0500
+From: hershl@aol.com
+Subject: More Dona, Dona
+
+It should be noted that the song--in both its Yiddish and English versions--is
+included in the just-published "Apples and Honey: Music and Readings for a
+Secular Humanistic Observance of the Jewish New Year Festival." The English
+version includes a new verse, written at a workshop of the Conference of
+Secular Jewish Organizations, publisher of the anthology. The verse, we're
+told (p. 91), was written "to remove blame from the victim."
+
+"Flying over, knowing freedom
+As the swallow began to laugh;
+Soaring down upon the wagon
+With its beak untied the calf."
+
+Many of the songs and readings in "Apples and Honey" are taken from Yiddish
+literature and almost all of these appear in the original, in transcription
+and in translation.
+
+The large-format (8-1/2 x 11) 128 pp. book is available at US$19.95 ($3.50
+p & h) from: CSJO c/o Roberta Feinstein, 19657 Villa Drive North, Southfield,
+MI 48076.
+
+Hershl Hartman
+
+7)----------------------------------------------------
+Date: 01 Feb 96 11:17:38 EST
+From: 102670.3200@compuserve.com
+Subject: Sholom Aleikhem on Tolstoi
+
+Thank  you, Louis Fridhandler, for "giving over" that extraordinary brif of
+Sholom Aleikhem.  The deeply religious Christian Tolstoi might have been even
+more surprised to find himself described as a crypto-Jew than you were to see
+"mortification of the flesh" on Sholom Aleikhem's list of Jewish attributes.
+This is something still done in our day on Yom Kippur and numerous other days
+of the years, even by the most marginally frum!
+
+One can see how the heart of the great writer bled for his nation, and felt no
+need to say that its suffering was the same as any other suffering -- indeed,
+as you say, his day *was* different from ours.  The saddest part about it was
+his prophetic words, albeit not the way he had hoped -- that there should
+never be talk of a Pale of Settlement, or a Jewish Question.  Nebakh.
+
+Henekh Coleman
+
+8)----------------------------------------------------
+Date: Wed, 31 Jan 1996 20:19:11 -0700 (MST)
+From: feller@indirect.com
+Subject: Parent to child Yiddish
+
+First of all, a mazl tov to the Lewis' on their forthcoming blessed event as
+announced in Mendele 5.238.  In answer to their request, I would recommend
+"Pregnancy, Childbirth and Early Childhood - An English-Yiddish Dictionary" by
+Mordkhe Schaechter.  Published by the Yiddish Language Resource Center, League
+for Yiddish, New York, 1991.
+
+Morrie Feller
+Phoenix
+
+9)----------------------------------------------------
+Date: Thu, 01 Feb 1996 13:53:35 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Viazoy redt men tsu kleyninke kinderlekh?
+
+Yankev and Yoyne-Brayne Lewis want to raise their forthcoming child (Mazl-tov
+aykh; zayt ale dray gezunt un shtark!) with Yiddish, and ask about materials.
+
+Mordkhe Schaechter (editor of _Afn Shvel_, and author of _Laytish Mame-loshn_,
+_Yidish Tsvey_ and other contributions to Yiddish) has compiled from a number
+of sources an excellent English-Yiddish dictionary of _Pregnancy, Childbirth
+and Early Childhood/Trogn, Hobn un Friike Kinder-yorn_ (New York: League for
+Yiddish, 1991).  It includes nursery-talk for a variety of terms, among them
+those denoting anatomical parts.
+
+Shleyme Axelrod
+Buffalo, New York
+
+______________________________________________________
+End of Mendele Vol. 5.240
+

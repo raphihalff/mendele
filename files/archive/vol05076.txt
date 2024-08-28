@@ -1,0 +1,178 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.076
+August 8, 1995
+
+1) Goylem (David Herskovic)
+2) More on Nitl (Mikhl Herzog)
+3) Looking for a poem (Marjorie Schonhaut Hirshan)
+4) Indexing Mendele (Morrie Feller)
+
+1)----------------------------------------------------
+Date: 06 Aug 95 11:10:45 EDT
+From: 100114.750@compuserve.com
+Subject: Goylem
+
+The word _golem_ (pronounced goylem or geylem) appears in Tehilim
+(Psalms) 139,16. golmi rou eynekho, Your eyes saw my form. The word
+appears a lot in the Gemoro meaning planks of wood.  Although the word is
+used in yiddish for a moron or an idiot the yiddish translation of the
+word is klotz.  While you won't hear goylem used for wood these days
+klotz is used for wood and for humans.
+
+The plural is not goylems but goylomim.
+
+David Herskovic
+
+2)----------------------------------------------------
+Date: Sun, 6 Aug 95  13:10 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: More on Nitl
+
+It's hard to know, at this distance, just what Reuven Frankenstein means
+when he says that my reference to the absurd suggestion that German
+_Heirat_ is related to Hebrew _harey at_ "goes back to him [i.e. me] as a
+boomerang". Assuming that it's not meant to be an unfriendly comment, let
+me return to the matter of _nitl_. Perhaps I should add, at the outset,
+that I have no ideological committment to one or another of the proposed
+etymologies. My committment is to preserving a degree of rigour when
+engaging in etymological speculations.
+
+Reuven Frankenstein cites a number of authorities who should be held to
+the same standard of rigour--Siegmund Wolf and Moses Iserles. Let's add
+Max Weinreich who also suggests the possible connection between Yiddish
+_nitl_ 'Christmas' and Latin _(dies) natalis_ (or Italian _Natale_). As
+Wexler points out, Weinreich also notes a possible connection to the
+Hebrew root _nun, tes, lamed_ 'to lift up' (note the Hebrew form _nital_
+'to be taken, lifted up', 'to be removed'.)
+
+As for the problem that Reuven Frankenstein sees in the spelling of
+Yiddish _nitl_ with _tes_, as against Hebrew _nitla_ with _tof_, are we,
+therefore, to assume that Yiddish _shekhtn_, spelled with _khof_ can't be
+derived from the Hebrew root _ShKhT_ with _khes_, or that Yiddish _mekn_
+can't be derived from Hebrew MKhH? In any event, note that Wexler cites
+"early 14th century Judeo-French, [where] the _t_ in _nitl_ IS spelled
+with _tav_ rather than the expected _tet_".
+
+As for other features of the spelling, the _e_ in Siegmund Wolf's _nitel_
+signifies little. Are we to credit Yiddish spellings like _leben_,
+_hoben_, etc. with any significance? Furthermore, there are early
+spellings that _do not_ have a vowel letter before the _l_ of _nitl_.
+
+There has been _no_ suggestion that the form _nitl_ might be derived from
+_hataluyi_, however much they may both be derived from the same Hebrew
+root; Yiddish _tole_ yes, _nitl_ no. That's an instance of
+_fardreyen/farbaytn di yoytsres_.
+
+Nor have I attempted to derive Yiddish _nitl_ from the "Hebrew root TLH.
+Hebrew _nitla_ is derived from that root.  Yiddish _nitl_ MAY, in turn,
+be derived from Hebrew _nitla_.
+
+Although this would be a subject for an entire different chapter, it may
+also be worth mentioning that the specific grammatical form of the word,
+_in Hebrew_, is often irrelevant to its function in Yiddish.
+
+For me the central question remains how to account for the _i_ in Yiddish
+_nitl_. Possibly in support of the Latin etymon: There IS an area in the
+Northern Ukraine, where a group of words with _i_ derive from an early
+low front vowel, perhaps a "Proto-Yiddish *[ae], the front morphophonemic
+alternant of modern Yiddish back mid [o/u] in  _shtot/shtu(i)t_, plural
+_shtet/shteyt/shtit_. They are generally cognate with German words like
+_leben, Regen_, Pferd_, and a group of Hebrew segolates that include
+_khesed_ and _makhateneste (but not __emes_ or _pesakh_). In MHG
+dictionaries, the German cognates are usually spelled with the _e_ with
+two dots over it.
+
+In Western Yiddish, traces of this _i_ can still be picked up in a Hebrew
+word like [bal-sign] 'the person who stands next to the reader in the
+synagogue', primarily at a cluster of locations just to the Northwest and
+Southwest of Nuernberg, and at one or two locations far to the West of
+them. I've also run across an entry for the German-origin Yiddish word,
+_mel_ 'flour' spelled _mem, yud, lamed_, in a 17th(??) century
+dictionary.
+
+If this phenomenon can really be invoked to account for the
+correspondence _natalis_/_nitl_, we would still have to account for the
+universalization of the _i_ variant in Yiddish. Perhaps, we can all have
+our cake and eat it, too, by thinking of Hebrew _nitla_ as having become
+implicated, as folk- etymological support for a Latin etymon, _after_ the
+change of some kind of [a]([ae]??) to [i] in Yiddish. Is there any other
+evidence for such a sound change affecting words of Latin origin?
+
+Having come this far, I still fail to understand the "boomerang" analogy.
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Mon, 7 Aug 1995 09:49:55 -0400
+From: shirshan@aol.com
+Subject: Looking for a poem
+
+There is a poem I recall and cannot find written after the holocaust
+where the poet tells that after seven years she has bought a new dress
+but it is too short for her grief, cannot fit her sorrow.... Help,
+anyone?
+
+Marjorie Schonhaut Hirshan
+North Conway, New Hampshire
+
+4)----------------------------------------------------
+Date: Mon, 7 Aug 1995 18:08:37 -0700 (MST)
+From: feller@indirect.com
+Subject: Indexing Mendele
+
+My thanks to the shames for his comments in response to my inquiry about
+the possibility of creating an index for Mendele.  At present I do not
+have the personal expertise to carry out the accessing methods he has
+described.  I think David Sherman's posting (5.074) does does an
+excellent job of pointing out why an index would be the most useful tool
+to accomplish what I had originally posed.
+
+Morrie Feller
+Phoenix
+
+______________________________________________________
+End of Mendele Vol. 5.076
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

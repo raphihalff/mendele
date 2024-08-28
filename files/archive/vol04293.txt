@@ -1,0 +1,234 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.293
+January 23, 1995
+
+1) Vilner balebesl (Cecile Kuznitz)
+2) Syntax question (wh-infinitives) (Rex A. Sprouse)
+3) Reb and khaver (Arnie Kuzmack)
+4) Goethe and Yiddish (Mikhl Herzog)
+5) Kenen/konen--again (Mikhl Herzog)
+6) Pigeon Yiddish (Meyshke Alpert)
+7) Yiddish in Mannheim (Ulrike Kiefer and Robert Neumann)
+
+1)----------------------------------------------------
+Date: Sun, 22 Jan 1995 17:45:29 -0800 (PST)
+From: tsirl@leland.stanford.edu
+Subject: Vilner balebesl
+
+A belated response to the person who is seeking precursors to the story
+of the Jazz Singer: How about the story of the Vilner balebesl, a khazn
+from (surpise!) Vilna, who abandonned khazones for the Polish operatic
+stage and came to a tragic end ? A movie version, entitled "Der vilner
+shtot khazn," stars Moyshe Oisher.
+
+Cecile Kuznitz
+
+2)----------------------------------------------------
+Date: Sun, 22 Jan 1995 20:14:16 -0400 (EST)
+From: rsprouse@indiana.edu
+Subject: Syntax question (wh-infinitives)
+
+Weinreich's College Yiddish, Lesson 12, Exercise C 10 (p. 115) gives the
+following sentence:
+
+	Zog di kinder, vos tsu ton.
+
+Is this sentence structure (known to linguists as a wh-infinitive,
+because an interrogative word or phrase begins an infinitive phrase) in
+fact grammatical/acceptable to native speakers of Yiddish?  I ask because
+it is widely believed among linguists that English is (?just about) the
+only Germanic language that allows this construction.  For example, the
+word-for-word German translation of this sentence is ungrammatical; the
+infinitive would have to be replaced with a finite clause:
+
+English  OK  Tell the children what to do
+	 OK  Tell the children what they should do
+
+German  * Sag den Kindern, was zu tun
+       OK Sag den Kindern, was sie tun sollen
+       OK Sag den Kindern, was zu tun ist
+
+Can one in fact say things like the following?
+
+	Ikh veys nit, vemen tsu fregn
+	Derklert mir, vi tsu shpiln in dreydl
+	Ikh freg zikh, vos tsu leyenen
+
+Or can one ONLY say:
+
+	Ikh veys nit, vemen ikh zol fregn
+	Derklert mir, vi men shpilt in dreydl
+	Ikh freg zikh, vos ikh zol leyenen
+
+Sincerely,
+Rex A. Sprouse
+(long-time lurker and Germanic linguist with an interest in the Yiddish
+language and a non-professional interest in Jewish studies)
+
+3)----------------------------------------------------
+Date: Sun, 22 Jan 1995 23:35:56 -0500 (EST)
+From: kuzmack@umbc.edu
+Subject: Reb and khaver
+
+My sense is quite different from Zellig Bach's on how these two forms of
+address are used in Yiddish.
+
+It seems to me that 'reb' was used, with the first name, as a somewhat
+formal form of address to *any* adult Jewish male, regardless of his
+level of Jewish learning.  'Reb yid' was used when the first name was not
+known, not because the individual might actually be a talmid-khokhm, but
+because it was automatically applicable.  The definition in Weinreich's
+dictionary seems more compatible with my version: "(Jew.) Mister,
+traditional title prefixed to man's first name."
+
+'Reb' should not be confused with 'rov' or 'harov', which are only used
+for an actual rabbi, or with 'rebbe', which is only used for a hassidic
+rebbe.
+
+'Khaver' as a form of address *does* appear to me to carry considerable
+social/political baggage.  It and the alternative form 'fraynt' was used
+as a translation of the Socialist or Communist use of 'Comrade' and
+always carried intimations of those circles.  Again, Weinreich has for
+its use as a title: "(in certain social and political circles) Mister;
+Comrade."
+
+Of course, when 'khaver' is used as other than a form of address, it does
+not carry these implications: mayn khaver moishe hot khasene gehat.
+
+Perhaps our literarily-oriented readers can cite examples from literature
+that will confirm one or the other opinion.
+
+Arnie Kuzmack
+
+4)----------------------------------------------------
+Date: Mon, 23 Jan 95  00:20 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Goethe and Yiddish
+
+I wish I could share the expressed enthusiasm for Goethe's _Judenpredigt_
+as a Western Yiddish text. We know that Goethe was a "friend", even that
+he learned some Yiddish, but whence the evidence that he was "an ardent
+scholar of Yiddish". Documentation, please! Did HE claim that his
+_Judenpredigt_ was in Yiddish? Documentation?
+
+Actually, the claim might be strengthened by a careful analysis of the
+text, pointing out the individual features (and the cooccurrence of
+features) that distinguish the text as Western Yiddish, in contrast, say,
+to the features of the local German dialect.
+
+A more reliable guide to Western Yiddish are the incomparable 17th
+century memoirs of Glueckel von Hameln.
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Mon, 23 Jan 95  00:20 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Kenen/konen--again
+
+Dave Sherman, if _you_ use _konen_, it's time for me to go back to the
+drawing board. I know the word from my Litvish _tsad_. I'll try to plot
+its distribution before long. Offhand, I "feel" that I could use _kenen_
+and _konen_ interchangeably for either meaning. I'm not sure that I do.
+By the way, don't both Weinreich and Harkavy, in effect, equate the two?
+
+Mikhl Herzog
+
+6)----------------------------------------------------
+Date: Mon, 23 Jan 1995 00:38:48 -0500
+From: meyshke@aol.com
+Subject: Pigeon Yiddish
+
+Tayere fraynt,
+
+In regard to the recent discussion of holebtses, ta:belekh, and other
+creative uses of the cabbage leaf in East Ashkenaz, and in the spirit of
+a little narishkayt that might unite linguists and non-linguists alike in
+tomfoolery now that der freylekher Purim is just around the bend...
+
+I've often speculated as to a Jewish origin for the name of Haagen-Dazs'
+popular and delectable "Dove Bars," namely, that the moniker refers to a
+putative Dov-Ber,  possibly a high-up in the formerly Orthodox-owned
+company.
+
+Or could someone have had the khutspe to name a frozen dessert after
+lehavdl the Mezritsher Magid, zts"l?  ;-)
+
+A gutn shlitvegs aykh alemen,
+
+Meyshe Yeysef b"r Elye Meir Alperovitsh (M. Alpert)
+
+7)----------------------------------------------------
+Date: Mon, 23 Jan 95 14:22 MET
+From: neumann@mx300b.ids-mannheim.de
+Subject: Yiddish in Mannheim
+
+This is to announce to the Mendele community the upcoming event of
+Jiddische Kulturtage, taking place in Mannheim, Germany, from January 26
+to February 4, 1995. Organizers are the Deutsch-Israelische-Gesellschaft
+Rhein-Neckar, the Mannheim Jewish community, and the Projekt Freiraum
+e.V.
+
+The program will include recitals by:
+
+the singer Jaques Grober from Paris (a former student of Sarah Gorby's),
+accompanied by Marianne Entat, violin, and Jean-Pierre Aigeldinger,
+accordeon; the actor Rafael Goldwaser from Strasbourg (originally from
+Argentinia, who has studied and worked in Tel Aviv and Paris), together
+with the singer and actress Astrid Ruff, accordeonist and clarinettist
+Yves Weyh, and violinist Daniel Elbaz; the clarinettist Helmut Eisel
+(associate of Giora Feidman) with the group JEM, consisting of Roswitha
+Dasch, violin, Herbert Jagst, bass, and Michael Marx, guitar. Helmut
+Eisel is also offering a 2-days klez workshop as part of the program.
+
+The actress and author Elsbeth Janda (joint editor of the pocketbook
+collection "Lieder aus dem Ghetto", Munich 1963) and Wilfried Hilgert,
+wine cultivator and connaisseur, as well as author, will discuss
+Yiddishisms and Hebraisms in the Palatinate dialect.
+
+Dr. Arnold Rabinowitsch, Hochschule fuer Juedische Studien Heidelberg
+(originally from Alma-Ata, Kasachstan) will summarize the historical
+development of Yiddish; Dr. Ulrike Kiefer and Robert Neumann will report
+on the collections of the Language and Culture Atlas of Ashkenazic Jewry
+and on work in progress, as well as on efforts towards facilitating
+electronic access to the LCAAJ holdings.
+
+Ulrike Kiefer, Mannheim
+Robert Neumann, Mannheim
+
+______________________________________________________
+End of Mendele Vol. 4.293
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

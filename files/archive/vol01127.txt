@@ -1,0 +1,128 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 127
+December 17, 1991
+ 
+1) Vatnmakher (Ellen Prince)
+2) Vatnmakher (Bob Rothstein)
+3) Dreydl (David Braun)
+4) Dreydl (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Mon, 16 Dec 91 11:55:06 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.126
+
+ok, here's *my* wild guess: since vatn is wadding, not
+cotton, as mikhl herzog (i think) has pointed out, then
+maybe it has to do with horsehair, the traditional material
+for stuffing mattresses and upholstered furniture--maybe
+tevye is saying the horse should be converted into a
+couch...
+
+2)----------------------------------------------------
+Date: Mon, 16 Dec 91 23:02:23 -0500
+From: ROBERT.ROTHSTEIN@SLAVIC.umass.edu
+Subject: Reply to Mendele Vol 1.126
+
+The word _vatnmakher_ and its variants (vatman,
+vat(e)lmakher, vatenmakher, baytelmakher) has a literature.
+N. Prilutski wrote about it in _Yidishe filologye_ [Warsaw]
+2-3 (1924), suggesting that it is derived from _mevatl-
+makher_.  Yudel Mark in _Yidishe shprakh_ 25 (1965), 2:63,
+in response to a reader's inquiry, suggested that it was a
+euphemistic metathesis:  _vatl_ for Polish Yiddish _tavl_
+(i.e., _tayvl_).  Judah A. Joffe in vol. 12 (1952) of the
+same journal (no. 4, pp. 113-14) writes that the expression
+he heard in his childhood in the Ukraine (sorry, in
+Ukraine) was _khapt im der vatman_ and later also
+_...vatmakher_; all the other variants he had only seen in
+print.  He connects Yiddish _vatman_ with Russian dialect
+_bataman_ 'household spirit' (_domovoi_).
+
+     Just to confuse things I'll add that Russian _vatman_
+is a current shortening of _vatmanskaia bumaga_, the name
+for a kind of thick drawing paper (named after the
+l8th-century English industrialist James Whatman).
+
+    My secret helper (for you bibliography fans) is vol. 36
+(1977) of _Yidishe shprakh_, which contains various indices
+(including a lexical one) to the journal for the years
+1941-74.
+
+*******************
+      Some time ago there was a question about a kind of
+bread called _sitnik_.  In Russian that's a term for bread
+made from flour sifted through a sieve (_sito_), hence from
+finer-than-usual flour.
+
+   Bob
+
+3)----------------------------------------------------
+Date: Mon, 16 Dec 91 16:40:22 EST
+From: braund@linc.cis.upenn.edu
+Subject: more dreydlekh
+
+Yes:  "Mekoyekh Mendele" would probably be better, since
+we're talking about the institution MENDELE and not about a
+guy named Mendele.  I thought it would be cute to
+personalize "him" (the computer, the institution, the
+network), so I marked the name for case.  I've heard an
+item of American-Jewish folklore: people name their dogs
+"Bagel", "Latke", and other Yiddish words.  Maybe this will
+be the trend in Yiddish kompyutera'y -- to names one's hard
+drive Malkenyu, Zishele, etc...
+
+Two topics we all might want to look at are case-marking of
+personal names and names for animals in the Yiddish
+speech-community.  I'll bring some info ba a gelegnhayt.
+
+To Bochner:  I've heard of dreyderl.  I think it was
+analyzed (perhaps somewhere in the Herzog work, or maybe
+elsewhere?) as a fusion of Eastern Yiddish dreydl with
+Western Yiddish trenderl --> dreyderl.  Does Khshanev have
+other vestiges of Western Yiddish?  Is it in the area of
+"East meets West"?
+
+And Meylekh:  wouldn't you first assume that dreydl comes
+from dreyen (me dreyt a dreydl)?  That's why the analysis
+_di reydl_ iz a khidesh.  It's good that _ someone_
+associates Yugntruf with yugnt ('youth') + ruf ('call').
+The most common analysis/mishearing/misunderstanding that
+I've come across is:  yudn (!!) + truf (!!!!).
+
+4)----------------------------------------------------
+Date: Mon, 16 Dec 91  18:35 EST
+From: ZOGUR@CUVMB
+To: mendele@trincc
+
+To: VISWANATH@DRACO.BITNET
+Subject: "dreydl"
+ 
+reydl/redl, the diminutive of rod/rud 'wheel' does NOT come
+from a reading of dreydl as di reydl. Rather, the emergence
+of reydl as a regional variant of dreydl meaning 'spinning
+top' probably DOES come from such a reading; i.e., from a
+folk-etymological interpretation of dreydl the sequence "de
+reydl".
+ 
+Yugntruf DOES have something to do with ruf (call), but
+that says nothing about your assumptions about dreydl,
+which certainly SEEMS to derive from the verb dreyen. Check
+a German etymological dictionary to see if rod/redl is
+similarly related to dreyen. If yes, your "subconscious"
+assumptions happen to be well founded. If, no, your
+assumptions are evcidence of how folk-etymology works.
+____________
+ 
+To: bochner@das.harvard.edu
+ 
+Your variant  "drayderl/dreyderl" is typical of western
+Poland. Call it a "compromise" form: To the West, the words
+are "trender, trendl, trenderl"; to the East, they're
+"draydl/dreydl". Add one to the other "trend(er)l + dreydl"
+and what do you get? Surprise! DREYDERL.
+
+______________________________________________________
+End of Mendele Vol 1.127
+

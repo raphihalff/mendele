@@ -1,0 +1,147 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.296
+March 22, 1994
+
+1) Canadian Yiddish dialectology (Zachary Baker)
+2) Introduction (Russ Andaloro)
+3) Se miglt azh! (Dovid Braun)
+4) The comprehensive Yiddish dictionary project (Steve Jacobson)
+5) Dudu Fischer (Meyer David)
+
+1)----------------------------------------------------
+Date: Sun Mar 20 13:20:08 1994
+From: <BM.YIB@RLG.Stanford.EDU>
+Subject: Canadian Yiddish dialectology
+
+To Mark Flumerfelt's question -- "Why is it that Jews in Toronto use the
+pronunciation Bubbi and Zedi, while Jews in Montreal use the
+pronunciation Baubi and Zeda[?]" -- I recall an observation made a number
+of years back by Prof. Eugene Orenstein (of the Jewish Studies program at
+McGill University) that the core population of Jewish immigrants to
+Toronto came from certain districts of pre-1914 Congress Poland
+(specifically, Radom and I believe Kielce gubernii), while Jewish
+immigrants to Montreal tended to come from the Pale of Settlement proper
+(Belarus and Ukraine, from Podolia eastward) and Romania.  As a
+non-linguist, I do not propose that this explains the specific variant
+pronun- ciations (Mikhl Herzog, as a native Torontonian, might be able to
+help in this regard), but the more general principle of migratory
+patterns does, I think, apply.  And naturally, in 1920 there were a fair
+number of Polish Jews in Montreal and "Russian" Jews in Toronto -- the
+patterns were not uniform, obviously.
+
+And now a question to Mark Flumerfelt:  In light of the large-scale
+influx of Jewish immigrants to Toronto from Quebec, are Jews in Toronto
+more inclined than previously to say "Baubi" and "Zeda," are the
+ex-Montrealers now saying "Bubbi" and "Zedi," or are these two language
+communities retaining their specificity?
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Mon Mar 21 11:40:55 1994
+From: <RANDALORO@pimacc.pima.edu>
+Subject: Introduction
+
+I am a program specialist at Pima Community College in Tucson, Arizona. I
+have a Ph.D an M.A. and two B.A.s from the University of Arizona.  I was
+born in Wilkes Barre, Pa. and have lived most of my life in Tucson. I am
+fond of tradition and culture: therefore my subscription.  I look forward
+to many monents of pleasure as I communicate on MENDELE.  Thank You.
+
+Russ
+
+3)----------------------------------------------------
+Date: Mon Mar 21 18:37:05 1994
+From: dovid@MIT.EDU
+Subject: se miglt azh!
+
+ken tsayt tsu shmuesn hob ikh nit, nor ikh vil poshet dermonen, az dos
+vos DU host nit gehert a gevis vort af yidish heyst nit, az dos vort iz a
+zeltnkayt ("obscure" hot imetser gezogt vegn vort _migl(dik)_ -- shoyn
+eyn mol "an obscure word"!) oder gor ken vort nisht.  ay, DAYN bobe,
+DAYN tate hot es nit genutst (oder khotsh nit genutst far dir), iz meyle.
+yenems bobe hot es ober YO genutst, yener shrayber hot es ober YO
+geshribn.  ikh farnem zikh mit yidish genug lang un genug intensiv tsu
+farstheyn, az s'iz nito ken shir tsu dem vifl me ken nokh lernen un af
+vifl impresyonistishe aroyszogn zaynen nit akurat.  halt in zinen:  "loy
+_shomati_ eyno rayo".
+
+vos shayekh dem shtam _migl_ hobn mir i an adyektiv _migldik_
+'disgusting', i a substantiv _migl_ 'disgust', i a verb _miglen_ 'to
+disgust, to nauseate'. ober mayne beyze reyd zaynen khal nit nor af di
+vos hobn nit gehert _migl_, farshteyt zikh.
+
+in der hakdome tsu yudl marks _gramatik fun der yidisher klal-shprakh_
+shraybt der mekhaber:  "arbet zikh arayn in ir un arbet zikh arayn in ir
+vayl alts iz in ir" (fartaytshndik dem zog in peyrek vegn toyre-lernen:
+hafokh bo vehafokh dekulo bo), meynendik yidish.  aderabe, lomir (un nit
+makhn puste aroyszogn)! se miglt fun dem.
+
+dovid braun
+
+4)----------------------------------------------------
+Date: Mon Mar 21 19:36:01 1994
+From: <FFSAJ@acad3.alaska.edu>
+Subject: The comprehensive Yiddish dictionary project
+
+Someone asked about the present status of the comprehensive
+Yiddish-in-Yiddish dictionary project. I'd very much like to find out
+more about it too. I do have a little information.
+
+A July 2, 1993 Yiddish Forwards article one the recent death of one Saul
+Ferdman said that he had worked on the dictionary in question in
+Jerusalem from 1980 to 1989 preparing two and a half further volumes
+(after the first four volumes which have already been published and which
+go through alef). The two and a half additional volumes go through gimel,
+dalet, and hey. Since this is approximately one third of the way through
+the Yiddish lexicon (as judged by the amount these letters take up in
+Harkavy and in Weinreich) one can see that the original projection of
+twelve volumes total is pretty much on target.
+
+The article goes on to say that the project was halted for financial
+reasons -- which must be why the fourth and fifth volume haven't been
+published. The article does not say whether anyone has continued to work
+on the project, nor what form the work is in -- old fashioned card files
+still, computerized or what, nor what plans if any there are to complete
+it. I would like to hear more about this if anyone knows. The article I'm
+referring to starts on page 20 of the July 2, 1993 issue, if anyone wants
+to look it up, and it is signed by a Dr. Yosef Guri.
+
+Steve Jacobson
+
+5)----------------------------------------------------
+Date: Mon Mar 21 22:13:18 1994
+From: mhd@world.std.com
+Subject: Dudu Fischer
+
+David (Dudu) Fischer's tapes are available at the Workmen's Cirle
+Bookstore, 1-800-WC-CALL-Us.
+
+Meyer David
+
+______________________________________________________
+End of Mendele Vol. 3.296
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net

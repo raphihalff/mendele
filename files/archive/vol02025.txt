@@ -1,0 +1,144 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 25
+July 8, 1992
+ 
+1) Romanization (Robert Hoberman)
+2) National Yiddish Book Center (Zachary Baker)
+3) Schlemiel revisited (Yitzhak Kertesz)
+
+1)----------------------------------------------------
+Date: 07 Jul 1992 17:42:58 -0400 (EDT)
+From: Robert D Hoberman <RHOBERMAN@ccmail.sunysb.edu>
+Subject: Romanization
+
+Using a standardized system of Romanization (or
+transcription or transliteration) is extremely important
+for lexicographic or bibliographic work, morphological
+analysis, and many other purposes, but there are times when
+no simple a-priori policy will do and some ad-hoc
+makeshifts are better. Here's an example.  I was recently
+asked to translate a ketubah/ksube which had been written
+in Poland about 80 years ago.  Meyle, the frozen, obsolete
+Hebrew-Aramaic legalese was murder to try to express in
+English; my question has to do with the names and a few
+Hebrew words that I wanted to retain in the translation.
+Normally, I like to use the standard Yiddish romanization
+and the Library of Congress romanization for Hebrew.  They
+have a lot in common, such as kh for khof, ts for tsadik,
+sh for shin, and they both omit a lot of the complications
+of other systems.  Here are a few examples that appeared in
+this marriage contract, in both systems (omitting the dots
+under some of the h's).
+
+tena'im/tnoyem
+ketubta' de-'irkesa'/ksubte de-irkese (de-irkeso?)
+Ya`akov/Yankev (Yankoyv?  Yaakoyv?)
+Shelomoh/Shloyme (whole Hebrew shloymoy?)
+Tsevi 'Aryeh/Tsvi Arye
+Hayim Haykil (written with -kuf-YUD-lamed)/Khayem Khaykl
+Rahel/Rokhl
+huppah/khupe
+Avraham/Avrohom
+Shevat/Shvat (the name of the month)
+
+The problem is that some of these are clearly
+loshn-koydesh, not Yiddish, others clearly Yiddish (e.g.
+Khaykl and the family names), others could go either way.
+A uniform system to accommodate both there isn't.  You
+COULD say, [here imagine gemore-intonation], all of these
+were written and pronounced by Yiddish speakers, including
+my client's parents, so stick with the Yiddish system,
+hence tnoyem, khupe, Rokhl, Shloyme (Shloymoy?).  But I
+think those would look absurd to my client.  After all,
+people are ACCUSTOMED to seeing Sefardic-Hebrew-based
+romanized spellings and pronouncing them more or less as in
+Yiddish.  So I think I'll have to make a lot of
+compromises.  Such things must come up all the time in
+genealogical and historical work.  Does anyone have
+suggestions or experience, or off-the-cuff feelings, to
+offer?
+
+Bob Hoberman
+rhoberman@sbccmail.bitnet, rhoberman@ccmail.sunysb.edu
+
+2)----------------------------------------------------
+Date: Tue,  7 Jul 92 10:31:17 PDT
+From:  Zachary Baker, YIVO Library (BM.YIB@RLG.BITNET)
+Subject:  National Yiddish Book Center
+
+For MENDELE subscribers who make use of the National
+Yiddish Book Center, that organization has a new mailing
+address and telephone number (I don't recall seeing this
+information conveyed in previous issues of MENDELE):
+
+National Yiddish Book Center
+48 Woodbridge Street
+South Hadley, MA 01075
+Tel. (413) 535-1303
+Fax (413) 535-1007
+
+The Book Center has moved to temporary quarters (3 years, I
+am told) on the Mount Holyoke College campus, while they
+try to raise funds for a permanent structure on the
+Hampshire College campus.  Their warehouse is still in
+Holyoke, Mass., and the phone number remains the same:
+(413)536-0584.
+
+     Zachary Baker
+
+3)----------------------------------------------------
+Date: Tue,  7 Jul 92 07:48:46 PDT
+From: Yitzhak Kertesz <BM.LBH%RLG@Forsythe.Stanford.EDU>
+Subject: Schlemiel revisited
+
+I would like to return to my friends, Reb Shlimmazal and
+Herr Schlemiel.
+
+Mordkhe Schaechter was quoted some time ago, who argues
+(Yiddish II) that the difference between them is dialectal:
+"Schlemiel" is used in the West, while "Shlimm-mazal" in
+the East. This is unfortunately not entirely correct,
+although Bernstein's collection of Central-Yiddish proverbs
+uses "Schlemiel" as the German translation of
+"Shlimm-mazalnik". "Schlemiel" indeed does not appear in
+Eastern Europe (although the "Book of Jewish proverbs" has
+a quotation from Sholem Alechem), but "Schlammassel"
+appears in Germany, both in Jewish and non-Jewish sources.
+The dictionary of the Grimm brothers, Schmeller's Bavarian
+dictionary, H. Fischer's Swabian dictionary, just to
+mention the most important ones. The word "Shlimm-mazal"
+appears several times in Tendlau's collection of
+Judeo-German proverbs (1860), and in Herz's Esther (Fuerth:
+1828).
+
+On the other hand I was eager to hear something else. When
+I wrote that the earliest occurrence of these words is from
+1784 (both in the same book, published in Prague!!), I
+hoped that an expert of early-Yiddish will jump on me with
+a quotation from an early source, let's say the
+"Melokim-buk" (it is not there, I checked). So let me ask:
+In return for proper acknowledgment in a footnote, is
+anybody aware of the occurrence of the words "Schlemiel"
+and/or "Shlimm-mazal" in any source in any language
+(dialect) prior to 1800?
+
+Thanks.
+Yitzhak Kertesz (bm.lbh@rlg.bitnet)
+
+______________________________________________________
+End of Mendele Vol 2.25
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+
+

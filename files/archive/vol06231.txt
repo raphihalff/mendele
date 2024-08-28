@@ -1,0 +1,172 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.231
+February 19, 1997
+
+1) Tevye's aphorisms (Mechl Asheri)
+2) Tevye's aphorisms (Louis Fridhandler)
+3) Gender in N.E. Yiddish (Adrienne Maltz)
+4) "Tate" af yidish (Adrienne Maltz)
+5) Shimmalekhl (Gene Sucov)
+
+1)----------------------------------------------------
+Date: Tue, 18 Feb 1997 22:23:43 +0200
+From: donnom@netvision.net.il
+Subject: Nokhamol Tevye's perush
+
+Thanks to David Herskovic for his derekh erets in disagreeing with me,
+but it is no more than what one would expect from him. The only thing
+is, his disquisition on the posik in question was hardly necessary
+since, as Reb David points out, there is no way to understand how
+Tevye can attribute his perush to Rashi and that is exactly my point:
+Tevye is giving his own interpretation and attributing it to Rashi and
+the only way it makes sense is to put m'geyfo in place of bagopoy etc.
+and say exactly what he says, "Az men legt arayn krenk, nemt men aroys
+kadokhes" Since, contrary to Reb David's quotation there is no
+indefinite article anywhere there, Tevye is speaking in a general
+sense. That has shaykhes to the posik, but only, as I can see it, that
+way.
+
+Now in the matter of "kukn vi hon in Bney Odom", the only real
+difference between what I said and what Reb David says is that he says
+it ten times more clearly than I did, without leaving out essential
+detail that I did leave out. If this letter looks shaky it is because
+I am writing it with my left hand while shloging al khet with my
+right.
+
+Mechl Asheri
+
+2)----------------------------------------------------
+Date: Wed, 19 Feb 1997 12:38:22 -0500 (EST)
+From: lfridhan@aol.com
+Subject: Tevye's quotations (continued)
+
+David Herskovic (in 6.224, 1) quotes Tevye as saying _ayn khokhme,
+ve'ayn aytse ve'ayn tvine keygn a krank ferd_ somewhere in the _first
+part_ when his horse _breaks down_.
+
+Eureka!  With David Herskovic's help (6.230, 2), hob ikh es gefunen!
+
+It occurs at the beginning of the first Tevye story, Dos Groyse Gevins
+(after the introductory letter, Katonti).  But memory plays tricks on
+us all.  It is not as David Herskovic suggests (6.230, 2) _on the way
+home from Boyberik_. Tevye (the monologist) is explaining to
+Sholem-Aleykhem (the faithful listener) how you can't argue with
+destiny.  Luck comes or it doesn't.  As I read it the quotation is
+_eyn khokhme v'eyn eytse neged a shlekht ferd. Neged (Hebrew) and
+keygn (Yiddish) both mean against.  Neither wisdom nor advice defend
+against trouble from a bad horse.
+
+This is said well before Tevye's horse takes it into its head to run
+while Tevye stands beside the wagon, holding the reins ready to
+_stand_ shimenesre. Tevye must hold on, running and shouting
+shimenesre while continuing his comic translations of some of the
+blessings..
+
+Incidentally, this scene could have been exploited for its comic
+possiblities in a movie.  Of course, it was not and could not have
+been done in a theater on a stage.  Unfortunately, the makers of the
+movie (Fiddler on the Roof) were (apparently) fixated on the confines
+of the stage version.  As I have discussed elsewhere (in Der Bay),
+Sholem-Aleykhem with his great visual imagination worked on silent
+movie scenarios, had many ideas which were never realized.
+
+Louis Fridhandler
+
+3)----------------------------------------------------
+Date: Tue, 18 Feb 1997 16:41:33 -0500 (EST)
+From: akmaltz@cpcug.org
+Subject: Gender in N.E. Yiddish
+
+I quoted Dovid Katz's text on the Yiddish Language (p. 53, 4.1.4)
+which states that pre-YIVO Northeastern Yiddish had only two genders
+(and still does for the descendents of those speakers?) to a friend
+who expressed amazement, stating that since German was the
+preponderant component of Yiddish and German certainly had/has a
+neuter gender, that this would seem impossible.  What do I tell her by
+way of explanation?
+
+A dank faroys,
+
+Adrienne Maltz
+Potomac, Md
+
+4)----------------------------------------------------
+Date: Tue, 18 Feb 1997 16:51:06 -0500 (EST)
+From: akmaltz@cpcug.org
+Subject: "Tate" af yidish
+
+This past Sunday the TV Series "X-File" aired a supernatural drama
+based on the golem myth.  In a scene between a hasidic father and
+daughter the father is addressed by the daughter (three separate
+times) as "tah-TEY";could there be another explanation for this other
+than an attempt by an un-coached actress to pronounce the word
+"TAH-te"?  I'd appreciate hearing from anyone who happened to see this
+episode.
+
+Adrienne Maltz
+Potomac, MD
+
+5)----------------------------------------------------
+Date: Tue, 18 Feb 97 22:29:07 GMT
+From: gene@netmedia.net.il
+Subject: Shimmalekhl
+
+I would like your help in translating this word "shimmalekhl". The
+context is as follows.  When I used to play hide and seek, the one who
+was out stood with his eyes closed and head against the wall or a
+tree. One of us would draw a circle on his back and say, "I make a
+shimmalekhl and I stick my finger in". This was the signal for the
+"out" boy to start counting to 100 and for the rest of us to scatter
+to our hiding places. I know "lekhl" means hole, but what is the
+meaning of the full word "shimmalekhl"? Thank you for any help you can
+give me.
+
+Gene Sucov
+Jerusalem
+
+______________________________________________________
+End of Mendele Vol. 6.231
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

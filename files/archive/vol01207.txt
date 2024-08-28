@@ -1,0 +1,121 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 207
+April 6, 1992
+
+1) Ai un aa (Khaim Bochner)
+2) Various (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Fri, 03 Apr 92 17:51:39 -0500
+From: BOCHNER%HARVARD.BITNET@YALEVM.YCC.Yale.Edu
+Subject: RE: Mendele Vol 1.205
+
+Zev Bar-Lev writes:
+> (2) Is the diphthong _ai_ always contractable to _aa_ (long
+> _a_), in those dialects that have this change?  I've seen a
+> whole bunch of these _aa_ (i see much more yiddish in
+> transcription than i hear), but don't know if those who do
+> it, do it all the time. E.g. I know a lot of people say
+> _zaa gezint_, but do _vaan_ and _flaash_ (for "wine" and
+> "meat") occur as well?  In other words, is this across-the-
+> board sound-correspondance?
+
+It's pretty systematic, but you've got some things
+confused. "wine" and "meat" don't have the same vowel in
+any dialect I know about (if we agree that German is not a
+Y dialect ;-). The normal pattern is:
+
+        Eastern Y.      Central Y.      German
+meat    fleysh          flaysh          flaysh (written Fleisch)
+wine    vayn            vaan            vayn   (written Wein)
+
+(This is Yivo transcription: ey as in "they", ay as in
+"Aye, aye"). If I remember correctly, flaash occurs in
+Western Y., but you're not likely to run into that a lot.
+
+So, yes it's a regular correspondance, but these two words
+aren't in the same correspondence set.
+
+Like fleysh are: eyn, beyn, beymer, leyenen, meynen
+(=think), etc. Like vayn are: arayn, mayn (=my), dayn,
+hayzer, haynt, etc.
+
+Also, the regularity of the correspondance is for "old"
+words. E.g., my parents say "tsaytung", not "tsaating",
+even though they say "tsaat" and "git". Why? Well,
+newspapers weren't so common in the Middle Ages. (or
+whenever it was that these changes took place.)
+
+Hope this helps,
+
+-- Khaim
+
+2)----------------------------------------------------
+Date: Sun, 5 Apr 92 21:48:37 -0400
+From: ROBERT.ROTHSTEIN@SLAVIC.umass.edu
+Subject: Various
+
+["Matri"--Mendele 203]
+
+For someone like me who in his distant youth was a student
+of mathematics (with an interest in logic and foundations),
+it's an honor to be able to respond to an inquiry from
+Martin Davis.
+
+I would guess that your mother's imprecation was a version
+of Russian "idi k chortovoi materi," literally, "go to the
+devil's mother," i.e., a less objectionable version of the
+"Yemenite blessing."  It's been observed (by my wife,
+personal communica- tion, among others) that it's easier to
+curse in a language that is not your native language,
+perhaps because the words don't have the same tabuistic
+force and one therefore doesn't have the same inhibitions.
+
+
+[Ukrainian songs--Mendele 205]
+
+To David Braun:  Your Ukrainian text is probably just that,
+although slightly distorted and with one Polish verb form
+(_pshiekali_ for Polish orthographic _przyjechali_).  In
+translation:
+
+     The young landlords/masters came
+     To bake _hrechanyky_.
+     Jump, my _hrechanyky_,
+     Jump, my barley-flour ones,
+     Jump, my _hrechanyky_,
+     May they come out tasty.
+
+Of course hrechanyky (from _hrechka_ 'buckwheat') aren't
+supposed to be made from barley flour.
+
+[New topic:  Beregovski]
+
+Mark Slobin (Wesleyan) and I are involved in editing for
+publication the folk-song collection of the Soviet Yiddish
+ethnomusicologist Moyshe Beregovski.  We have recently
+obtained the unpublished _purim-shpil_ volume (texts and
+music) and will eventually be seeking NEH support for a
+translation of that volume.
+
+Mark suggested that I ask fellow MENDELEniks for
+suggestions (including self-nominations) of potential
+translators, who would have to be fluent readers of
+"folkloric" Yiddish.  Please consider yourself asked and
+please send replies to me personally:
+
+(rothstein@slavic.umass.edu).
+
+Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol 1.207
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

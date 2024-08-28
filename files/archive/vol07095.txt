@@ -1,0 +1,227 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.095
+November 3, 1997
+
+1) Shmues (Berel Leiser)
+2) Schlock as sukkah cover (Sylvan Beer)
+3) early Yiddish book illustrations (Diane Wolfthal)
+4) Shlock and Schlock (Harold L. Orbach)
+5) Wacht Ojf! Jiddische Arbeiter- und Widerstandslieder (Harold L. Orbach)
+6) Schoch vs. schlock (Elisheva Schwartz)
+7) yiddish script for UNIX (Ronald Florence)
+8) More on shmooze (Bob Werman)
+9) Bagleytn (Al Grand)
+
+1)----------------------------------------------------
+Date: Sun, 02 Nov 97 22:51:51 EST
+From: "Burton (Berel) Leiser" <LEISER@PACEVM.DAC.PACE.EDU>
+Subject: Shmues
+
+A number of Mendelniks have posted various hypotheses as to the origin of
+"shmues."  The simplest one, I believe, is that as the pronunciation suggests,
+it is derived from the Hebrew, sh'mu-os, or sh'mu-oys, or, in sefardic Hebrew,
+sh'mu-ot.  The root is the familiar shin, mem, ayin, to hear, and the word
+itself means "news, that which one has heard." One who engages in the activity
+either imparts news (or gossip) or hears some juicy tidbits.  Of course, the
+Hebrew word is a plural noun, but it has been transformed in Yiddish into a
+verb.  As they say in New York, "No problem!"
+
+Berel Leiser
+
+2)----------------------------------------------------
+Date: Sun, 02 Nov 1997 23:25:03 +0000
+From: Sylvan Beer <szbeer@mailbox.syr.edu>
+Subject: Schlock as sukkah cover
+
+Strange how some questions never die!
+
+When "schlock" came up some time ago I responded and even sent a note on this
+to Philologos. Among Eastern European Jews the rain cover on the sukkah was
+called a schlock. It was a very heavy pivoted wooden affair raised and lowered
+by ropes. If it fell through and hit some one it would be goodby columbus  for
+him that was getrofen. I maintain that 'a schlock zol dir trefen' derives from
+this. Philologos responded that he didn't believe it because he never heard of
+schlock as a sukkah covering, a strange response for a language scholar
+considering that many of our mendelyners are familiar with the expression.
+
+Sylvan Beer
+Syracuse, NY
+
+3)----------------------------------------------------
+Date: Sun, 02 Nov 1997 22:52:57 -0700 (MST)
+From: mom <WOLFTHAL@ASUVM.INRE.ASU.EDU>
+Subject: early Yiddish book illustrations
+
+I am an art historian of the medieval and early modern periods.  I have begun
+a study of Yiddish book illustrations of the 16th and 17th centuries.  I was
+wondering if there are other art historians who work on Yiddish art and if ther
+e are other scholars who specialize in medieval and early modern culture.
+Has anyone found an illuminated Yiddish ms. dating from the 17th century
+or earlier?  I posted these questions two years ago, so some of you may
+remember my query.  I may continue my study into later art, but I am beginning
+with the early periods.  Also, if anyone knows of conferences that would be
+appropriate, please let me know.  A shanem dank,
+
+Diane Wolfthal
+
+4)----------------------------------------------------
+Date: Mon, 3 Nov 1997 05:42:45 -0600 (CST)
+From: Harold L Orbach <hlorbach@ksu.edu>
+Subject: Shlock and Schlock
+
+With all the discussion about 'shock' and 'shlock' in recent issues, I wonder
+if someone can clarify the origin of the use of 'shlock' (or 'schlock' in its
+more common daytchmerish-influenced form) in U.S. English from Yiddish to
+mean shoddy or crappy which seems to begin with the idea of shoddily put
+together?  I recall its use some years years ago in a negative review of the
+book _Future Shock_ headlined as _Future Shlock_.
+
+Harold L. Orbach
+Manhattan, Kansas
+
+5)----------------------------------------------------
+Date: Mon, 3 Nov 1997 07:34:38 -0600 (CST)
+From: Harold L Orbach <hlorbach@ksu.edu>
+Subject: Wacht Ojf!  Jiddische Arbeiter- und Widerstandslieder
+ 
+Two weeks ago, in a bookstore in Stockholm's Old Town that had a small section
+devoted to Jewish books, I found three LP records, two of them more or less
+regular (and used) and one unusual one, in mint condition.  It was produced in
+Ebergoetzen (a small town near Goettingen) in 1981 by a record company called
+"FolkFreak" [!] which has as a logo a black-frocked hippy-type balalaika/
+guitar-strummer along with a rat [FolkFreak FF2002].
+
+It is titled _Wacht Ojf! Jiddische Arbeiter- und Widerstandslieder_ and is
+sung in Yiddish by Hai and Topsy Frankl (with guitar music). The notes include
+the lyrics in Yiddish and German with some annotations about the authors of
+the lyrics, the music and the context of the songs. There is also an
+additional set of notes in Swedish with all the words in Swedish and some
+additional annotation as well as an introduction meant to educate Swedish
+readers about the fact that Jews were also workers and unionists like Swedes
+... and fighters against the Nazis. A Swedish cousin translated the Swedish
+for me.  The notes also indicate that Hai and Topsy Frankl published a volume
+of _Yiddische Lieder_ in 1981 [Texte und Noten mit Begleit-Akkorden] in the
+Fischer Taschenbuch series, No. 2960.
+
+I have not had time in the week since I have been back to research the record
+or book and send in this note now because of the request for information by
+Faith Jones (7:092) about "Shmerke Katerginski" who is the apparent author of
+the texts of two of the songs.
+
+The contents are:  (I reproduce the record's transliteration)
+ A Side:
+   1. Wacht ojf! -- David Edelschtat (text; music anonym.)
+   2. Lomir ale singen -- (trad.)
+   3. Arbetslose-Marsch -- Mordechaj Gebirtig (text and music)
+   4. Majn Jingele -- Morris Rosenfeld (text; music anonym.)
+   5. Saj schtolz! -- Morris Rosenfeld (text; music anonym.)
+   6. Sog nit kejnmol -- Hirsch Glik (text; music: Pokras)
+   7. Schlof majn kind -- (trad)
+   8. Der Becher -- (trad.)
+ B Side:
+   1. Ot asoj nejt a Schnajder -- (trad.)  
+   2. Jid, du Partisaner -- Scholem Katscherginski (text; music trad.)
+   3. Hemerl -- (trad.)
+   4. Dshankoje -- (trad.)
+   5. 'Ss brent, Brider -- Mordechaj Gebirtig (text and music)
+   6. Der Weg is schwer (Partisaner Marsch) -- Scholem Katscherginksi
+            (text; music: Hanns Eisler)
+   7. a) Schpil-she mir a Lidele -- I. Kotliar (text; music anonym.)  
+      b) Nigun 1, Nigun 2 -- (trad. Melodie ohne worte)
+      c) Mir Lebn ejbig -- (Wilnaer Ghetto 1943; music: trad.)
+
+The annotations are rather full for almost all the poets, but for Scholem
+Katscherginski there is only an annotation on the Swedish notes where his 
+first name is given as Schmerl (in Swedish) and reference is made to an archiv
+in New York.  At the same time, the German annotation refers to the fact that
+"Jid, du Partisaner" was the song of the Vilna United Partisan Organization,
+the group named Itzik Wittenberg after its commander.
+
+I'm hoping mendele's literary and music mavens can provide more information on
+this record, the Frankl's book and Sholem Katzerginski. 
+ 
+Harold L. Orbach
+Manhattan, Kansas
+
+6)----------------------------------------------------
+Date: Mon, 03 Nov 1997 09:31:55 -0500
+From: Elisheva Schwartz <yivo5@metgate.metro.org>
+Subject: Schoch vs. schlock
+
+In the frum areas of New York a term has recently entered our vocabulary.
+Schoch, as we all know, is the material (bamboo poles, branches etc.) put on
+top of the Sukkah.  Schlock is what you put on top of _that_ to protect the
+sukkah when it rains (drop cloth, plastic sheet, roll-down awning, etc.)  You
+see this stuff advertised all over the place as "schlock or schloch."
+
+Elisheva Schwartz
+
+7)----------------------------------------------------
+Date: Mon, 3 Nov 1997 10:27:00 -0500
+From: ron@mlfarm.com (Ronald Florence)
+Subject: yiddish script for UNIX
+
+Paul Glasser asked about the Mendele Review in Yiddish [07.092].
+
+I don't know about official information, but for those who work on or have
+access to Unix workstations, there is a simple script `yiddish' at
+http://www.connix.com/~mlfarm/utilities.html#yiddish which uses Raphael
+Finkel's superb LaTeX macros to convert romanized Yiddish texts to Yiddish
+fonts.  The script provides options for display of the Yiddish text on the
+screen, printing, or saving the text to a file.  The same WWW address has
+links to Rapheal Finkel's package of fonts and conversion utilities that are
+used by the `yiddish' script.
+
+Ronald Florence			
+Maple Lawn Farm, Stonington, CT
+
+8)----------------------------------------------------
+Date: Mon, 03 Nov 1997 13:15:52 +0200
+From: Robert Werman <rwerman@vms.huji.ac.il>
+Subject: More on shmooze
+
+It might be of interest to see how the word shmoos has been absorbed into
+American English.
+
+The May 19, 1997 issue of THE NEW YORKER, short book reviews, p. 95, offers:
+"While Mr. Gebler, the father of three, is schmoozing, drinking, and having
+affairs, ..."
+
+The American Heritage Dictionary, 2nd College Edition, offers [p. 1098]:
+"schmoose also schmooze (schooz) Slang. - intr.v. schomoosed, schmoosing,
+scomooses also schmoozed, schmoozing, schmooses.  To chat idly. - n. A chat.
+[Yiddish schmusen, to chat <shmues, a chat < Heb. shemu'oth, pl. of shemu'ah,
+rumor <shamo'a, he heard.] -- schmooz'er n."
+
+Bob Werman, 
+Jerusalem
+
+9)----------------------------------------------------
+Date: Mon, 3 Nov 1997 11:29:14 -0500 (EST)
+From: Savoyid@aol.com
+Subject: Bagleytn 
+
+I recently came upon an entry in Weinreich's _Modern English-Yiddish
+Yiddish-English Dictionary_ which I think contains a misprint.  And I 
+emphasise that I _think_ I've found a misprint and would be grateful if 
+someone on this list would either corroborate this or else to please set me
+straight.  I'm referring to the entry word _accompany_ on page 5 in my 
+edition.  The Yiddish is printed as BALEYTN.  I'm wondering if there's a
+missing _gimel_ there and if it should have been printed as BAGLEYTN.  
+
+Al Grand
+______________________________________________________
+End of Mendele Vol. 07.095
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+

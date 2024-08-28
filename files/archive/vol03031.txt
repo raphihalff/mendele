@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.031
+June 9, 1993
+
+1) More idioms (Eli Katz)
+2) Farsheydns (Khaim Bochner)
+3) Introductions (Rachel and Michael Abramson)
+4) Salmon = laks? (David Sherman)
+
+1)----------------------------------------------------
+Date: Tue Jun  8 18:52:33 1993
+From: katz@Sonoma.EDU
+Subject: more idioms
+
+I had no opportunity to read my e-mail for three or four days and
+found that my delay saved me a lot of effort; a lot of the comments
+I would have felt impelled to make were very satisfactorily supplied
+by others.  So for now, only some additions to the idiom collection:
+
+1. "kum ikh nit haynt, kum ikh morgn", applied to some- one who is
+excessively casual about punctuality, carrying out of
+responsibilities, etc.
+
+2. "fort un filt nit", said when someone belatedly "catches on" to a
+situation (often his own) which others have long since been aware
+of, or about someone who is generally "spacey".
+
+3. "es hot mir gekost a shtik gezunt", applied to an experience
+which required great and unpleasant effort, or anguished decision;
+something the subject found very difficult.
+
+4. "gezunt zolstu zayn", anticipatory mitigation of a mild
+criticism, as in "Khashke, gezunt zolste zayn, vu hoste shoyn vider
+ahingeton di tsaytung?"
+
+Eli Katz
+
+2)----------------------------------------------------
+Date: Tue Jun  8 22:57:03 1993
+To: MENDELE@YALEVM.CIS.YALE.EDU
+Subject: farsheydns
+
+1) Wrt translation: I've got several prospects to pass on to the
+   customer. Hurray for networking! And thanks for the assurances
+   that I haven't been overcharging :-)
+
+2) Wrt "frozen datives": Khaver Pinson is mistaken about "toytn"
+   being frozen. I suspect he was confusing the adjective toyt with
+   the noun toyt.
+
+By "frozen" I assume he means (as I would) a fixed, more or less
+idiomatic, expression that doesn't necessarily follow the
+contemporary grammatical rules.  For a real "frozen dative",
+consider "in der luftn". "Luftn" looks like a plural, but the sense
+isn't plural, and besides, if it were plural, it should be "di", not
+"der". The reason for the "n" is that, in an earlier stage of the
+language, (some) common nouns used to take case endings, just as
+"tate" still does (cf. "mitn tatn"). This fixed expression just
+hasn't kept up with the changes in the grammar.
+
+My favorite example is "in der emesn". Not only does "emes" no
+longer take case endings, but in modern Yiddish it has become
+masculine, instead of feminine. So modern grammar calls for "in dem
+emes" (or "inem emes" ...).  But we can still say "in der emesn".
+
+3) Wrt "nekhtiker tog", Arnold Kuzmack suggests that the literal
+meaning is "a day that's like night" r.t. "yesterday's day". I share
+the suspicion that this may have been the original sense. But he's
+wrong is saying that "it is grammatically preferable". First, -ik
+very often fails to trigger "umlaut": lustik, hantik, farayorik.
+Besides, the set of vowel changes known as "umlaut" does not
+normally affect "e". I can't think of an example with -ik right now,
+but consider diminutives like "betl", "ekl".  "rekht/rikhtik", if
+they really form a pair, are just irregular.  So we wouldn't
+actually expect the adjective from "nekhtn" to be "nikhtik".
+(Although "nekhtndik" seems like a possibility ...)
+
+Personally, I think of "nekhtiker tog" as similar to "farayoriker
+shney": things that are impossible simply because they can never
+come again.  In any case, the reason people give "yesterday's day"
+as the literal meaning is presumably that, outside this expression,
+"nekhtik" really does mean "pertaining to yesterday".
+
+"Ikh bin nisht keyn nekhtiker" - 'I wasn't born yesterday'
+
+Khaim Bochner
+
+3)----------------------------------------------------
+Date: Wed Jun  9 00:51:46 1993
+From: MAC191H@vaxc.cc.monash.edu.au
+Subject: Introductions
+
+Tayere Mendelniks:
+
+Mein vayb hot mir geboten tzu shraybn etlekhe verter:
+
+My name is Rachel(Rookhele).  I am a tutor in Psychology at the
+Victorian University of Technology, Melbourne, Australia.  I asked
+Michael to join Mendele because he has e-mail access.  My love for
+Yiddish dates back to when I was knee high to a grass hopper.  My
+Dad always spoke it in the home. As an adult, I decided to learn it
+formally so that not only would I be able to understand, but also
+able to read and write as well.  My first teacher told me I spoke
+with a Warsaw accent.  I thought this was interesting considering
+I was born and bred in Melbourne!
+
+I'm still learning Yiddish, but have now progressed to reading
+literary works like those of Sholem Asch.  My oldest son goes to the
+Sholem Aleichem kinder- garten.  All I can say is it sounds so sweet
+to hear Yiddish being spoken out of the mouth of a 4 year old child.
+My younger son who is 10 months old, babbles in Yiddish as well as
+English.  A future Yiddishist in the making!
+
+Ikh vill oych epes zogn:
+
+I am Senior Lecturer in Social & Preventive Medicine at Monash
+University. Although my zayde and buba came from Russia, I didn't
+learn Yiddish as a child. I learnt German at school, which has given
+me an accent which Rachel's family find disagreeable.  I read
+Weinreich's College Yiddish before we went to Israel a few years
+ago.  After a few weeks staying with Rachel's aunt and uncle, I had
+acquired a passable conversational Yiddish.  But I don't aspire to
+her literary heights.  I enjoy reading your bulletin board, even if
+the frequent messages tend to drown those related to my own work.
+
+Zayt gezunt,
+		Michael Abramson.
+
+4)----------------------------------------------------
+Date: Wed Jun  9 12:09:27 1993
+From: dave@cai.lsuc.on.ca (David Sherman)
+Subject: salmon = laks?
+
+Arn's discussion in another context reminds me of a question I've
+had for a while:
+
+> E.g., Ikh es laks "I eat smoked salmon."
+
+The only word in Weinreich and Harduf for "salmon" is "laks". We eat
+canned salmon fairly often (mix it with mayonnaise and put it into a
+sandwich, typically).  What should I tell the kids to take out of
+the cupboard?  "Laks" carries connotations of smokedness.  Is there
+a different term for unsmoked salmon?
+
+David (Daniel Moishe) Sherman
+
+______________________________________________________
+End of Mendele Vol. 3.031
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@yalevm.ycc.yale.edu
+
+If your node is Bitnet-only and is not connected to the Internet,
+please send your message to:
+
+                 mendele@yalevm
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@starbase.trincoll.edu
+
+Please sign your articles.
+

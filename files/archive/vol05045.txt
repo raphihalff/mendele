@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.045
+June 10, 1995
+
+1) Di yunginke Memloket (Shleyme Axelrod)
+2) Yoytsres once again (Eliyahu Juni)
+3) The Ashkenaz event (Paul Pascal)
+
+1)----------------------------------------------------
+Date: Mon, 10 Jul 1995 12:33:23 -0400 (EDT)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Di yunginke Memloket
+
+A recent Washington Post story called to mind a Yiddish song that I
+learned in New York during the late 1930's at _banketn_ and _kontsertn_
+that my Communist parents took me to.  The story revealed that the
+seven-year-old girl happily being held in the arms of a beaming Stalin in
+1936 in a much-reproduced propaganda photograph and sculpture was the
+daughter of an agriculture official in Siberia.  In 1938, the father was
+executed (presumably on trumped-up charges, as the custom was then) as a
+Japanese spy, Trotskyite, etc.  The daughter, Engelsina Markizova, was
+now obviously an embarrassment, so the _identity_ of the kid in the photo
+and statue was changed; she was now said to be Mamlakat Nakhangova, a
+highly productive 13-year-old cotton-picker from the south of the Soviet
+Union.
+
+The song, about the meeting of Stalin and the girl, was obviously written
+after the transformation; I can remember only a snatch of the melody and
+words, but it referred to _khaver Stalin_, of course, and to _di
+yu'nginke Memloke't_.  Does some other Mendelyaner know the music and/or
+words?
+
+(Incidentally, Engelsina Markizova, 66, now lives in Moscow, according to the
+Post.)
+
+Shleyme Axelrod
+Buffalo, New York
+
+2)----------------------------------------------------
+Date: Mon, 10 Jul 1995 04:57:15 -0400
+From: ao107@freenet.carleton.ca
+Subject: Yoytsres once again
+
+Reb Mikhl Herzog wrote that "yoytsres" and "yoytsrim" (the two variant
+plurals of "yoytser") are phonologically anomalous, because they don't
+exhibit variation in the quality of the stressed vowel.  (The pattern
+would predict yoytser/yotsres/yotsrim.)
+
+Something in my gut tells me that this word sticks more closely to its
+loshnkoydesh version than other borrowings because it is mostly used in a
+religious setting.  (Then again, it's probably used most as part of the
+idiom--but idioms are funny.)  Might there be an alternate pattern for
+exclusively religious words?
+
+Regarding the geographical spread of "yoytser/yoytsres", Reb Mikhl
+mentioned that only the singular form is recorded in the Carpathians, and
+only the plural in the Ukraine (usually as part of the idiom).  My
+grandmother, a native Minkatcher (Minkatch is in the Carpathian mountains),
+used the plural "yoytsres", and then used the singular "yoytser" in
+explaining to me what it meant.
+
+As for the phrasing of the idiom:  I always heard 'fardreyen di
+yoytsres', never 'farbayten'.  I looked up 'baytn' in the dictionary, and
+found that it means to switch;  I had never seen or heard the word
+before.  Am I right in suspecting that fardreyen has a more mocking,
+pejorative tone? Is the idiom most common with 'fardreyen' or 'farbaytn'?
+
+Eliyahu Juni
+
+3)----------------------------------------------------
+Date: 10 Jul 95 10:07:39 EDT
+From: 75332.2735@compuserve.com
+Subject: The Ashkenaz event
+
+I am still flying from "Ashkenaz", the spectacular Yiddish cultural
+festival in Toronto which culminated yesterday (Sunday).  I have never
+experienced such an outpouring of joy in the Yiddish language and its
+sister arts of music, dance, theater and art/craft, as I did here these
+past few days.  For me, at least, the only frustration came from being
+torn between two, sometimes three, wonderful events scheduled opposite
+each other.
+
+Mendele is a forum for Yiddish language and literature, so I won't linger
+on the *mayles* of the music and so on (I couldn't do it all justice
+anyway), but I have at least to comment on the *zise, geshmake Yidish*
+which so many of the performers used in speech or in song.  It was a
+deep, deep nourishment for the ear and the heart.  The swelling and
+enthusiastic throngs in the audiences, day after day, were of all ages,
+but the performers seemed mainly in their 20's, 30's and 40's, all
+meticulous in their accent, grammar, vocabulary and respect for the
+Yiddish tongue and its possibilities.  For performers such as Adrienne
+Cooper, Irena Klepfisz, Michael Alpert (of Brave Old World), Shura
+Lipovsky (of Lipovsky/Mlotek/Warshauer Trio), and many, many, many
+others, the obvious appreciation for the beauty in the sound of Yiddish
+words, backed by a deep knowledge, understanding, and love of the soul
+within those words, resonated to all who had the privilege of hearing
+them, there at the edge of Lake Ontario. As Alpert quotes in his program
+notes, "Oyb di velt vet vern oysgeleyzt, iz nor in skhus fun kinder" ("If
+the world is to be saved, it will only be on the merits of children.")
+
+I feel privileged to have experienced "Ashkenaz".
+
+Paul Pascal
+
+______________________________________________________
+End of Mendele Vol. 5.045
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,166 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.054
+July 17, 1995
+
+1) Origins of Yiddish (Alice Faber)
+2) Origins of Yiddish (Mikhl Herzog)
+3) Origins of Yiddish (Tomer Bendovid Shiloach)
+
+1)----------------------------------------------------
+Date: Sun, 16 Jul 1995 16:29:02 -0400
+From: faber@haskins.yale.edu
+Subject: Sources of Yiddish
+
+Bob Rothstein asks about the contradictions between Max Weinreich's view
+of Yiddish origins and those of others such as Dovid Katz and Paul
+Wexler. Weinreich's view is obviously the "received view", and certainly
+correlates with the transmission of the religious and cultural traditions
+of Ashkenazic Jewry. But there are some serious *linguistic* and
+*demographic* problems with this view.
+
+First, the demographic problems. The earliest semi-reliable population
+estimates of Eastern European Jewish population come from the mid-17th
+century. Prior to that, there are 11-12th century estimates for Western
+Europe (mostly England prior to expulsion and France). Weinreich's
+historical view requires a gradual eastward migration of these Western
+European Jews, following the Black Death and the progroms attendant on
+the Crusades. However, taking into account that Jewish death rates from
+the Plague were actually comparable to or higher than those of Christians
+in the same area (the myth of greater survival originated to justify
+already ongoing anti-Jewish violence, and is not found in the earliest
+surviving polemics), it seems unlikely that enough Jews survived in
+Western Europe to migrate east and give rise to the actual numbers of
+Eastern European Jews observed a few centuries later. It's also worth
+keeping in mind double counting. That is, the sum of available Eastern
+European Jews is not the total of English Jews kicked out and exiles east
+from France, because at least some English exiles went to France, only to
+move further east when France became less congenial. This demographic
+problem of the sources of Eastern European Jewry was first noted (to my
+knowledge) by the historian Dubnow in the early 20th century.
+
+Now the linguistic problems. First if there was a heavy core of Old
+French speakers among early Yiddish speakers, wherever they lived, we
+would expect to find linguistic traces of OF in Yiddish. Aside from
+vocabulary (e.g. cholent, benchen), there isn't any. The only
+"structural" candidate that I know of is plural formation. In particular,
+Yiddish has many more plurals in -es than does Standard German. One
+could, I suppose, blame this on French, since -s took over in French,
+where it is now silent, and in Spanish, from one of the Latin declensions
+in the accusative (??? Sorry that my Romance could be shaky here). But,
+it could equally well come from Hebrew/Aramaic, where the Hebrew -ot
+plural comes out as -es in Yiddish pronunciation. And there may be a
+natural trend in Germanic to get to the -(e)s plural in any case, since
+it has been claimed to be the default in German (what you use when you
+don't know the plural or say anomalous things like "Sonys are better than
+Panasonics.").
+
+Now, no one has denied the Slavic component to Yiddish. However, when you
+get down to which Slavic, some interesting things emerge. I think
+Weinreich himself has a list of Yiddish vocabulary having to do with
+ritual slaughter that all come from Old Czech.
+
+So what to we have? A missing demographic component to the Eastern
+European Jewish population, and some hints of an earlier Slavic
+contribution to the structure of Yiddish than might be expected from the
+Standard Story. Whether you can get from this to an undocumented
+population of South Slavic or Aramaic speakers on South Eastern Europe or
+the Caucasus I don't know. What I do know is that such a population
+probably can't be documented. Aside from religious sources (where the
+great Rabbis whose works were preserved lived), our best information
+about Jewish population in Europe comes from Roman Catholic records. So,
+if you had a relatively unreligious Jewish population living in an area
+that hadn't yet been Christianized or that had converted to some other
+variety of Christianity (Russian, Arian [*not* Aryan!], etc), there might
+not have been anyone counting.
+
+Probably more than you wanted to know. Most of this info comes from an
+article I published with Bob King 10-15 years ago called "Yiddish and the
+Settlement History of Ashkenazic Jews." This first appeared in _Mankind
+Quarterly_ 24: 393-425, 1984, and it was reprinted in _Approaches to
+Judaism in Medieval Times II_ published by Scholars Press in 1985. Some
+comes from a paper of mine "A Tangled Web: Whole Hebrew and Ashkenazic
+Origins", published in _Origins of the Yiddish Language_, Pergamon Press,
+1987.
+
+Alice Faber
+
+2)----------------------------------------------------
+Date: Mon, 17 Jul 95  00:45 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Origins of Yiddish
+
+Katz's "Aramaic Connection"
+(as against Weinreich's "French Connection")
+
+Bob Rothstein asks whether there is anything more recent than Dovid
+Katz's 1985 paper on the subject of Katz's "Theory of Origin of Yiddish",
+which he deals with more fully in his own dissertation for the University
+of London. I've read only what Katz has written on the subject. My own,
+more recent experience with it I leave till the end of this message.
+
+Katz adduces linguistic evidence for his claims i) that Yiddish was born
+in the mouths, not of a Judeo-Romance-speaking community, but of an
+Judeo-Aramaic-speaking community in medieval Europe, ii) not in the
+Rhineland but more or less in the area of Regensburg.
+
+His hypothesis is based, at least in part, on the assumption (assertion?)
+that Yiddish does not have a Hebrew component; that Hebrew elements in
+Yiddish are part of the Hebrew component of Aramaic, and that the Semitic
+component of Yiddish is Aramaic (with _its_ Hebrew component), _not_
+Hebrew.
+
+Katz's hypothesis is further linked to his so-called "oral transmission
+theory" as distinct from the "textual transmission" hypothesis which he
+attributes to Weinreich (although, in some respects, he uses Weinreich as
+a straw man, in this regard). In support of this, he adduces evidence of
+this in the consistent anomalous realization of a given number of words
+of Aramaic (Hebrew?) origin througout the Yiddish dialects which, he
+claims, can be accounted for only through oral transmission. By the way,
+if memory serves, Shlomo Birnbaum also proposed that the transmission of
+the _loshn-koydesh_ component of Yiddish was from "ear to mouth", not
+from "eye to mouth".
+
+Katz's argument is always interesting and sometimes brilliant, but it may
+lack a crucial component.
+
+My own work constantly tempts me to try to make historical inferences
+from linguistic data.  In the absence of supporting non-linguistic
+evidence, disaster may be lurking. Still, in the absence such evidence,
+_meyle_, you take a chance; _vi zogt men_? Bemokem she eyn ish, iz hering
+a fish_.
+
+In any event, some years ago, I tried to present a "state of the field"
+paper at a Columbia Faculty Seminar. Among the three problem areas I
+chose to discuss, was Katz's "Aramaic" hypothesis. I came a cropper. As I
+recall, the (Hebrew) linguists from NYU and Yeshiva were there
+(Columbia's own Aramaic linguistics specialist was not). They, and the
+historians, gave me a _mishebeyrakh_ I won't easily forget.
+
+The crucial missing factor seems to be evidence for the existence of an
+Aramaic-speaking Jewish community in medieval Europe (in the area of
+Regensburg, or anywhere else). Can anyone out there supply it?
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Mon, 17 Jul 1995 11:08:28 -0600 (CST)
+From: kruegetd@cnsvax.uwec.edu
+Subject: Origins of Yiddish
+
+[Disclaimer: I think this is equally ridiculous as I hope you will find
+it.]
+
+I read recently that Ashkenazim are descendants of Khazars, and are in
+fact not really Jews at all, but simply converts.  The reason they speak
+Yiddish is because they knew early on [like 2000 years ago] that the
+[hehe] Germanic and Celtic peoples were descendants of the 10 "lost
+tribes"  and they adopted German [became Yiddish] as their language in an
+attempt to appear Jewish.  Or something like that.  :*)
+
+Tomer Bendovid Shiloach
+
+______________________________________________________
+End of Mendele Vol. 5.054
+

@@ -1,0 +1,340 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 10.014
+June 13, 2000
+
+1) Oy vey (Peter Gutmann)
+2) farshidens (Itsik Shteyn)
+3) Sholem Aleichem's funeral (Mike Bass)
+4) The state of Yiddish (Jack Berger)
+5) gevir (Gilad J. Gevaryahu)
+6) gevir (Michael Shimshoni)
+7) amolik(Perl Hoberman)
+8) Words for "pistol" (Ronald Florence)
+9) farreysht (Feygl Infeld Glezer)
+
+1)----------------------------------------------------
+Date: Sun, 11 Jun 2000 12:47:40 -0400 (EDT)
+From: Peter Gutmann <pegu0001@stud.uni-sb.de>
+Subject: Re: oy veh
+
+Tayere Khaverim,
+
+In Mendele 10.0004, Paul Ilie asks about the etymology of 'oy veh'. Here
+is the etymology which I have always had in mind:
+
+Yiddish 'oy weh' derives from German 'oweh!' (which is also suggested by
+the present transliteration 'weh' instead of the probably more common
+'vey' or 'vay'). 'oweh' is as an interjection a contraction of "o! +
+weh", "o" being roughly the Yiddish 'oy' and "weh" (derived from the
+noun 'Weh' - woe, pain, grief), being roughly the English "alas!".
+
+An etymological relationship between 'oy vey' and 'oweh' is also
+strongly suggested by the Yiddish phrase '(oy,) vey iz mir', where 'vey'
+exactly parallels the High German 'weh' in 'es ist mir weh ums Herz'
+(more or less literally: "there is WEH around my heart",  "my heart is
+aching/grieving for/about something or someone").
+
+Although I could not find an etymology for 'oy' or even the whole
+phrase, here is at least what I have got on my shelves about 'veh/vey':
+
+Wolf gives: 'wei' =3D int. wehe (> middle high German 'we' =3D woe, pain,=
+grief) (Siegmund A. Wolf. Jiddisches W=F6rterbuch. Wortschatz des
+deutschen Grundbestandes der jiddischen (j=FCdischdeutschen) Sprache.
+Hamburg: Buske, 2, 1991 (1st ed: Mannheim: Bibliographisches Institut
+1962).
+
+DUDEN has: "wej!' =3D Interj. 'wehe!"; 'wej is mir!" =3D 'o weh!".
+(Jiddisches W=F6rterbuch. Mannheim: Duden, 2, 1992).
+
+Peter Gutmann
+
+2)----------------------------------------------------
+Date: Sun, 11 Jun 2000 13:38:48 -0400 (EDT)
+From: shteyn@juno.com
+Subject: farshidens
+
+khosheve mendelyaner,
+
+1)in vol10#4 fregt men zikh nokh oyf der etimology fun"oy vey", vi se zet
+oys kumt es fun daytshn"oh weh"mit der zelbiger badaytung;
+
+2)pamelekh fun ivrit "paamey melekh" (dem keyser's shpan) - is shver
+optsufreygn, ober genoy azoy shver tsu bavayzn. se leygt sikh gikhersht
+oyfn seykhl az es kumt fun slavishn "pomalu", gesungen fun slavishe
+dinsten tsu yiddishe kinder, baym lernen zey geyn. unzer Frozina, geven
+in unzer shtub ariber 20 yor un oysgekhovet - on a gutoyg - a kargen
+minyen kinder, fleygt zogn: "pomeylekhl, pomeylekhl" (po un nit pa);
+
+3)"farrreysht mit mel un grivn" kumt mistam fun daytshn "roesten", russish
+"zharit". In bukovina zogt men "makhn an aynbren";
+
+Vol.10#5
+
+4)di yidishe "greynits' kumt mistam fun der daytsher Grenze, az in di
+slavishe shpraxn heyst es "granitsa" is a tsugublekher bavayz;
+
+Vol.10#6
+
+5)harkavi oyf zayt 485 taytsht ayn "shok" = 60 un brengt vi a bavayz a "shok
+eyer"= 60 eyer;
+
+6)ver iz getsl kakaruze? a yiddish vertl zogt"yede shtot hot zikh ir
+meshugenem". getsl iz a diminutiv fun gershon, efsher oykh a pejorativ,
+kakaruze is dos slavishe kukuruza=korn, nit rye, oyf moldavish papshoy,
+un getsl kakaruze is mistam nit kayn kompliment;
+
+7)amulik set oys tsu kumen fun daytshn "ayn mal" un "aynmalig";
+
+8)harkavi sayt 508 fartaytsht "shmontse=shmokhte=puste reyd";
+
+9)pistol, nagan, shpayer =oysdrukn far a hand-vvofn, far a revolver,
+nagan is dos eygene oyf russish, un in partizaner lid singt zikh "mit
+naganes in di hend", shpayer iz  befeyresh an oysdruk fun untervelt, vayl
+der pistoyl "shpayt" (mit koyln);
+
+Vol10#7
+
+10)"nit geshtoygn nit gefloygn" meynt a pushitn lign, vos hot in zikh kayn
+brekl emes, geshtoygn kumt fun shtaygn=aroyf geyn, azoyvi gefloygn fun
+flien, di raym "oygn" is a sgule tsum zikuron, un beyde handlungen zaynen
+enlekh un meynen dem drang aroyf ;
+
+11)orl meynt nit davke a goy, orl meynt nit gemolt, nit bashnitn, vos kon
+zayn a yid oykh;
+
+Vol10#8
+
+12) ver is "bulakh" tsu vemen men hot farglaykht stalinen? efsher is es
+bulok ben tsipor fun khumash, der kenig fun moav, velkher hot gehat a
+mapolo fun unzere ovoys, un fun im kumt der idyom "lernen bulok"?;
+
+13)shmoktulyakes is der superlativ fun shmok=shoyte(loyt harkavi sayt
+582);
+
+14)ikh hob dikh in lovitsh = ikh hob dikh ergets andersh, a farmaskirte
+klole;
+
+15)kalye gevorn = fardorbn, toyg nit mer,harkavi 440;
+
+16)s'is mir kalamutne=s'is mir nit gut, ikh bin troyrig.
+
+Itsik Shteyn
+
+3)----------------------------------------------------
+Date: Sun, 11 Jun 2000 18:38:21 -0400 (EDT)
+From: Embass@aol.com
+Subject: Sholem Aleichem's funeral
+
+Sholem Aleichem's burial. On  the occassion of Sholem Aleichem's tenth
+yahrzeit, (1926), Ernestine Berkovitz compiled "Dos Sholem Aleichem Buch".
+In this book are photos from the funeral and of the grave of Sholem
+Aleichem. It indicates that Sholem Aleichem was buried in the Har Carmel
+Cemetary in the Arbeter Ring Section in Brooklyn, N.Y..  One side of the
+matzevah is in Yiddish and one side is in Hebrew.
+
+Mike Bass
+
+4)----------------------------------------------------
+Date: Sun, 11 Jun 2000 19:21:12 -0400 (EDT)
+From: Jack Berger <jack.berger@citicorp.com>
+Subject: The state of Yiddish
+
+I found Leonard Prager's message on "Original and Translated Texts" [TMR
+4.009] very sad, coming on the heels of Ben Fogel's message [Mendele 10.006]
+on "Translating a Yizkor Book." I wonder if khaver Prager would have written
+it the same way, had he read khaver Fogel's message (which I think he could
+not have had the time to do).
+
+Several issues are interwoven in this message, and each is of sufficient
+importance that they be allowed to stand alone for serious examination. I
+will try to separate them out, and offer at least one man's opinion on them.
+
+1. Access to our collective Eastern European history and literature in
+Yiddish.
+
+I am sure that there is no dispute concerning the need to make the rich and
+precious body of writing in Yiddish, created during the last couple of
+centuries, accessible and tractable to future generations. While I am an
+unqualified supporter of education in the Yiddish language, I am not an
+optimist in terms of seeing this as a solution to the access problem. I
+believe that what khaver Fogel has portrayed is the stark reality that we
+face.  Khaver Prager articulates this very well, but he also clings to what
+I believe is an illusion: that we have the capacity to 'prevent this as much
+as possible.'
+
+I don't think we can prevent this. For example, where is the replacement for
+the late Dina Abramowicz?  The brutal fact is that the entire Eastern
+European Jewish cultural and linguistic matrix was uprooted and cauterized.
+There simply is neither a critical mass, continuity, nor the same need for a
+lingua franca such as mameloshn, as we move into the new millennium. Khaver
+Prager himself recognizes this when he casts totally justifiable doubt on
+the efficacy of the Russian Onkelos program in its purported attempt to
+train Yiddish translators in a matter of two years. He is more than right
+when he speaks of 'years, perhaps a lifetime,' to bring the right skills to
+fruition.
+
+2. The 'Uniqueness' of Yiddish
+
+I believe that khaver Prager's remarks are generally, but not absolutely,
+true for literary works in the language they were originally written. In
+this regard, I don't see Yiddish as 'unique.' From a purely _personal_ point
+of view, I find that Yiddish possesses certain terms of both endearment and
+of emotional anguish that are ‘very special' to me, and possibly to other
+Yiddish speakers. But surely the same must be true of certain turns of
+speech in most languages of the world that have given rise to a literature.
+
+I can remember how moved I was listening to Yevgeny Yevtushenko recite his
+poem 'Babi Yar' in the original Russian. No translation of Yehuda Halevy's
+"Yerushalayim" can ever sound as good as the original Hebrew. And, yes, many
+pieces in Yiddish qualify as well, but _linguistically_ it doesn't make
+Yiddish 'unique.'
+
+But language is so complex a phenomenon, that even this thesis may not be
+generally true. Having just completed the Shavuot holiday, I am struck by
+the difference in quality I attribute to Ruth's entreaty to Naomi. The
+Hebrew is terse and pithy, but the English 'Whither thou goest...' has a
+haunting poetic quality that puts it in a different class of listening
+experience. I have also found, over a lifetime, that the English
+translations of Sholem Asch's works, and the works of I.B. Singer
+represented profoundly satisfying reading. In part, that is because in
+mid-20th century America, you could get the English works with relative
+ease. Just recently, I came across a Yiddish edition of I.B. Singer's 'Der
+Knekht.' I intend to read it, precisely for the experience of reading the
+Yiddish.
+
+Accordingly, I find the effort to search for some 'uniqueness' in Yiddish as
+not helpful.
+
+3. Writing About the Holocaust in Different Languages
+
+One only has to listen to Elie Wiesel speak in English to realize that
+neither Yiddish, nor any other language, holds any special cachet for trying
+to communicate about this calamitous event.
+
+In fact, when Wiesel is asked about how to articulate one's feelings about
+the Holocaust, he will pause and say: "with silence."
+
+4. Simultaneous access to Yiddish and other languages (i.e. English)
+
+I prefer to see this issue in terms of convenience of information delivery.
+In this respect, there is a profound difference between an internet website
+and a conventional hard copy library.
+
+When a website is available, storage capacity is really not an issue. Thus
+the idea of co-locating the original Yiddish text with the translation is
+probably a good thing to do. However, in creating hard copy, one must keep
+in mind the need to keep the physical volume from becoming unwieldy. In the
+case of hard copy, I believe that separate volumes are probably a better
+solution. This, in fact, is the practice I have adopted with my own
+initiatives.
+
+	                 ****************
+
+I am a member of a diminishing minority. There is little we can do to
+reverse an historical tide we would have preferred never was set in motion.
+Look at the character of the (Jewish Daily) Forward as a periodical, and one
+can see why khaver Fogel wrote the way he did.
+
+But I also agree that we need to foster an interest in Yiddish, promote its
+study and assure that it maintains a position of respect and affection
+within the ambit of our traditions. If in two thousand years, Yiddish
+obtains a place similar to that enjoyed by Aramaic today, I think that will
+be a good outcome. Not the one I would have liked, but a good outcome.
+
+Regards
+Jack Berger
+
+5)----------------------------------------------------
+Date: Sun, 11 Jun 2000 21:35:45 -0400 (EDT)
+From: Gevaryahu@aol.com
+Subject: gevir
+
+Sidney Bloch (v9n10) asks for the etymology of 'gevir.'
+
+'Gevir' is a Biblical Hebrew word (Gen 27:29; 27:37) and it means master,
+governor, commander. The meaning of a (very) wealthy individual developed
+later according to Gur dictionary. According to Even Shoshan in Eben Ezra's
+time it was the title of an important person, and so it was in the time of
+Yehuda Halevi. In the time of the (Shmuel) HaNagid it is already ref. of a
+rich person, and so it is being used by Mendele and Bialik. (1983 edition,
+p. 155 ).
+
+Gilad J. Gevaryahu
+
+6)----------------------------------------------------
+Date: Mon, 12 Jun 2000 02:08:25 -0400 (EDT)
+From: Michael Shimshoni <shimsho@wisdom.weizmann.ac.il>
+Subject: gevir
+
+Sidney Bloch [10.010] raises many questions about the origin and use of
+"gevir".  I can answer just one aspect.
+
+The word gevir is found in the Tora in Breshit (Gen) 27,29 and there
+it means master or ruler.
+
+Michael Shimshoni
+
+7)----------------------------------------------------
+Date: Sun, 11 Jun 2000 18:18:29 -0400 (EDT)
+From: "Pearl Hoberman" <poh@skyweb.net>
+Subject: amolik
+
+Ikh hub gelezen etliche briven vegen dem vort "amolik" un veil ikh
+kenisht zugen fun velkher shprach es shtamt, ich gedenk vie in mein
+mishpokhe flegt men rayden fun die "amolike tzeiten."  In Yiddish nutzt
+men dem vort "amol" tzu maynen die englishe verter "ago" uder "times
+past," und der "ke" makht es an adjective.  "Amolike tzeiten" zeinen die
+alte tzeiten, die tzeit vus is amol geven.  Ikh hub kaynmol nisht gehert
+dem vort "amolik" azoi genutzt.
+
+Perl Hoberman
+
+8)----------------------------------------------------
+Date: Mon, 12 Jun 2000 10:36:31 -0400 (EDT)
+From: Ronald Florence <ron@18james.com>
+Subject: Words for "pistol"
+
+Paul Glasser writes regarding the use of shpayer, pistoyl & nagan:
+
+  It seems much more likely to me that Glik, like any good writer, used the
+  three synonyms for variety [...] Sometimes the simplest explanation is the
+  correct one.
+
+Perhaps.  But an author in English who uses royal, regal, and kingly may be
+quite deliberate in his choice of the subtle nuances that synonyms of
+French, Latin, and Anglo-Saxon origin convey.  Glik may have had reasons
+beyond `variety' in his use of three different Yiddish terms for
+pistol/revolver.  Occam's Rule isn't always right in analyzing a text.
+
+Ronald Florence
+
+9)----------------------------------------------------
+Date: Mon, 12 Jun 2000 13:01:30 -0400 (EDT)
+From: Fela Glaser <yiddish1@juno.com>
+Subject: reyshekhts, gereysht, farreysht
+
+Khosheve Mendelyner/kes:
+
+In Lodz hot men gerufn reyshekhts - di broyne gepreglte din-tseshnitene
+tsibele vos me hot arayngeton un ibergekokht in der zup (kartofl-zup,
+grinsnzup a"a). Nu, is di zup gerufn gevorn tsugerayshte oder farreyshte
+zup.
+
+Beste grusn,
+Feygl Infeld Glezer
+
+______________________________________________________
+End of Mendele Vol. 10.014
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://metalab.unc.edu/yiddish/mendele.html
+
+
+

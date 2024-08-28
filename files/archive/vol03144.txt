@@ -1,0 +1,161 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.144
+November 24, 1993
+
+1) Yiddish 'spelling' (Michael Shimshoni)
+2) Genug grammar (Howard Kaplan)
+3) Starting with a verb (Khaim Bochner)
+4) Starting with a verb (Abe Igelfeld)
+5) Verb first (Neil G.Jacobs)
+
+1)----------------------------------------------------
+Date: Wed Nov 24 04:06:55 1993
+From: Michael Shimshoni <MASH@WEIZMANN.WEIZMANN.AC.IL>
+Subject: Re: Yiddish 'spelling'
+
+I was somewhat surprised to notice Yankel Lantz's amusement about:
+
+>The local paper recently carried an obituary for an elderly
+>Mennonite lady named Mrs. Elizabeth Schmuck.  Don't laugh.  I'm sure
+>there is a perfectly reasonable etymological explanation.  If you
+
+Why  laugh when  Yankel himself  surely  knows the  German meaning
+of Schmuck, so its  use is not surprising by a  Mennonite.  What is
+funny about the  obituary for a Jewish lady  called Betty Diamond,
+which is pretty close to the above name?
+
+I am not  always disinclined to use  certain words when I  am making
+a strong point and my audience understands it, but goyim are exempt
+from that.
+
+When our sons were born, I vetoed frequently a name my wife
+suggested, because "it is  something dirty in Arabic, Hungarian  or
+Polish etc.". In Israel  with so many languages  understood, one has
+to  be careful, but a gentile in America? That is going too far.
+
+>Would a French Yiddishist really write "chmou...," er, "chou" or
+>"choustaire?"  I'd be interested to know.
+
+I am no  Yiddishist and my French  is very poor.  I  have recently
+had much contact with  a French Oleh, who does speak  English pretty
+well, but, at least at the beginning, when  he wrote to me, it
+looked odd to read Chabbat  Chalom, or Chavou'a  Tov.  BTW  I would
+have  written in "French Yiddish" "chouster", but I am no mumkhe on
+that.
+
+Michael Shimshoni
+
+2)----------------------------------------------------
+Date: Wed Nov 24 08:57:53 1993
+From: HKAPLAN%AM.mrgate@woods.uml.edu
+Subject: genug grammar
+
+I love Mendele. After a day dealing with deadbeat administrators,
+armies of students and phone calls from vendors I'm ready for
+Mendele. BUT, what's with all the grammar stuff?  The language is
+near death and I'm afraid the grammarians will kill it off
+altogether.
+
+Is there nothing else to discuss?
+
+Howard "Haitch" Kaplan
+
+3)----------------------------------------------------
+Date: Wed Nov 24 09:47:19 1993
+From: bochner@das.harvard.edu
+Subject: Re: Starting with a verb
+
+Hal Berman writes:
+>  However, in writing or speaking for non-artistic purposes,
+> the rule stands.
+
+"In consecutive word order, the inflected verb is the first sentence
+unit. The use of this word order implies the words 'so',
+'therefore.' Note the distinction:
+
+Ikh hob gevart oyf im. I waited for him.
+Hob ikh oyf im gevart. So I waited for him."
+
+page 122, _College Yiddish_, Uriel Weinreich, copyright 1949.
+
+"Keynmol shtelt men nit stam azoy dem beygevdikn teyl fun verb oyfn
+same ershtn ort. Faran in dem shtendik a gevise kavone ...
+Reyshis-kol trefn mir es -- bay a lebendikn dertseyln ..." page 377,
+_Gramatik fun der yidisher klal-shprakh_, Yudl Mark, 1978.
+
+"... ikh for eynmol aheym fun boyberik, opgezetst dos bisl skhoyre,
+a gantsn transport, kez un puter un smetene un shar yerokes. ZITS
+ikh fartrakht, vi der shteyger iz, in himl-zakhn ..." page 97 (in
+the morgn-frayhayt edition of 1937), _Hodl_ (chapter 4 of _Tevye der
+milkhiker), Sholem Aleykhem, 1904.
+
+You'll find that this construction is a prominent part of colloquial
+story-telling style in Yiddish prose.
+
+-- Khaim
+
+4)----------------------------------------------------
+Date: Wed Nov 24 11:31:35 1993
+From: igelfeld@math.toronto.edu
+Subject: Starting with a verb
+
+Hal Berman says poetic license. Nu, nu.
+
+Gefelt es im yo zikh azoy uftsufirn, iz zol er; gefelt es im nisht,
+iz meyle.
+
+Abe  Igelfeld
+
+5)----------------------------------------------------
+Date: Wed Nov 24 10:25:08 1993
+From: Neil G Jacobs <njacobs@magnus.acs.ohio-state.edu>
+Subject: Verb first
+
+Just a side note on the verb-first discussion:
+
+The use of finite verb in "sentence-initial position" to show that
+the sentence is linked to a previous sentence is, of course,
+discussed in the Yiddish linguistic literature, as in, e.g.,
+conveying the meaning "so...". What I wish to add is that this
+verb-first thing as a strategy of units larger than the sentence
+seems to carry over into varieties of Jewish German in the early
+20th century.  Thus, see Matras (1991) for Jewish German speech from
+the *Judendoerfer*.  As well, this feature  has been suggested for
+interwar Vienna Jewish (German) Speech, discussed in a paper in
+progress (by me).
+
+I mention this, since this verb-first discourse feature appears to
+be characteristic of Jewish speech, as opposed to non-Jewish German
+speech.  (Thus, for example, in Matras's paper (in ZDL), where
+Jewish speech uses verb first to mark off some sort of discourse-
+type units, non-Jewish German speech from the same locale uses
+specific lexical markers: na und na, etc.)
+
+Neil G. Jacobs
+
+______________________________________________________
+End of Mendele Vol. 3.144
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

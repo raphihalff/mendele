@@ -1,0 +1,97 @@
+Mendele: Yiddish literature and language
+---------------------------------------------------
+Contents of Vol. 1 no. 9
+May 31, 1991
+ 
+1) Reply to Dave Sherman (Ellen Prince)
+
+1)-------------------------------------------------
+Date: Fri, 31 May 91 11:31:51 -0400
+From: Ellen Prince <ellen@central.cis.upenn.EDU>
+Subject: RE: Yiddish in English
+
+dave sherman writes:
+
+>...words like leyn and shiddukh don't
+>have a Jewish-only meaning in *Yiddish*, they do have
+>the very restricted meanings I referred to when used
+in >English.  Is there a linguistic term for this kind
+of >borrowing, which restricts the meaning of the
+borrowed >term very narrowly?
+
+the general term, whether it happens to a borrowing or
+a native word, is specialization. it's very common with
+borrowings, however. the reason generally given is that
+the borrowed items have a restricted distribution (i.e.
+context of occurrence), so future generations, hearing
+them only in that context, inductively infer a concomi-
+tant restricted SENSE. some dramatic examples in eng-
+lish involve the following pairs:
+
+     calf      veal
+     sheep     mutton
+     cow       beef
+     pig       pork
+
+the first column are native english (germanic) words.
+originally, they were used both for the animal and for
+the edible meat of the animal. the words in the second
+column are borrowed from anglo-norman french (cf.
+modern french veau, mouton, boeuf, porc) and ALSO
+denoted both the animal and the meat of the animal.
+during the norman reign in england (1066-13??), the
+upper class spoke french and the servants and peasants
+spoke english. so the (upper class) lady of the house
+would tell the servant she wanted veal or mutton or
+beef or pork for dinner. that is, she was speaking
+french. but generations of servants, hearing french and
+therefore those terms only from the mouths of the upper
+class and the upper class talking about food, not
+animals, came to think the words meant only meat. of
+course, when the servant went to the peasant to actual-
+ly obtain the stuff, i.e. to slaughter and carve the
+animal, they'd speak english (calf, sheep, ...), so
+THOSE terms became specialized to mean the animal only
+and not the meat thereof, which is why they're not
+synonyms at all in modern english. (we can infer that
+the anglo-normans didn't eat horsemeat, unlike the rest
+of the french, from the lack of a term based on
+'cheval' for horsemeat in modern english.)
+
+on this analogy, one could hypothesize that, for those
+people for whom shidekh means a match between jews,
+they (or their parents) heard it used only in contexts
+where the people being discussed were jews, 'match' or
+whatever being used in other contexts (perhaps by other
+speakers, e.g. on the radio or wherever). so shidekh
+was understood to MEAN 'match between jews'.
+
+my own private specialization was cottage cheese and
+pot cheese. i thought the first meant the pre-packaged
+stuff, like breakstone's, whereas i thought the second
+meant the loose kind that you bought some quantity of
+(in a little white bag). it turns out that cottage
+cheese was the native english word and the one general-
+ly used across the country, whereas pot cheese was the
+dutch borrowing in nyc (the dutch got there first,
+remember). so i saw 'cottage cheese' on the national
+brands but heard pot cheese used for the loose kind,
+and i inferred that the difference had to do with their
+meaning, not their history. (now 'pot cheese' has come
+to be used nationally--but it wasn't 35-40 years ago,
+i'm told.)
+
+as for 'in-group'-ness and language-mixing, if you like
+i can send you some references. there's been a lot said
+about it, mostly with respect to spanish code-
+switching/borrowing in the english of puerto ricans and
+chicanos, but it's been claimed for many other instan-
+ces as well. it should be pointed out, tho, that not all
+borrowings have this effect, and, once they really make
+it into the language as a whole, they lose it if they
+ever had it. you don't feel warm all over when you hear
+someone say 'bagel' or 'schmuck', i bet...
+
+zayt gezunt.
+______________________________________________________
+End of Mendele Vol 1.009

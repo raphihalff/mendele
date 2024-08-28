@@ -1,0 +1,171 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.153
+October 26, 1994
+
+1) Transliteration (Mashinke Gruss Levinsohn)
+2) Transliteration (Anno Siegel)
+3) Transliteration (Moishe Feller)
+4) Transliteration (Raphael Finkel)
+5) Transliteration (Itzik Moskovitz)
+
+1)----------------------------------------------------
+Date: Tue, 25 Oct 1994 00:48:24 -0400 (EDT)
+From: mashinke@wam.umd.edu
+Subject: Transliteration
+
+Meylekh Viswanath added to Sam Kocoarski's plea for computing in Hebrew
+letters.  I have just purchased an excellent shareware program, "Hebrew
+Edit" for $19 US dollars, from "Right to left Software."  I use it
+directly from my C:  Their address is 3332 Yonge St, P.O. Box 94034,
+Toronto Ontario, M4N-3R1, Canada. Tel: 416-489-7440. Fax 416-489-6654.
+Hardware requirements: ibm-pc or comptible, with vga or ega graphics.
+Hebrew keyboard or chip not needed.  For printing out -printer compatible
+with hp laserjet, deskjet, epson dot-matrix or ibm-proprinter.
+
+Could there be a sub group of mendeleniks with Hebrew font capabilities
+who would send occasional brief correspondence in "rikhtige mama-loshn?"
+
+Mashinke Gruss Levinsohn
+
+2)----------------------------------------------------
+Date: Tue, 25 Oct 1994 10:58:47 +0100
+From: anno4000@w172zrz.zrz.tu-berlin.d400.de
+Subject: Transliteration
+
+[Meylekh Viswanath writes:]
+
+>Such software exists and has been implemented for Tamil; so I am sure
+>it is possible for Yiddish.  With Tamil, three or four lines are used
+>to reproduce a single line.  Thus, if we wanted to write khof, we
+>would have:
+>
+>             _____
+>                   \
+>                   |
+>                   |
+>            ______/
+>
+
+There must be many programs out there that do this for Hebrew.  I have
+one called hebtype.  It was written Lee Lawrence (leel@cs.colorado.edu)
+in 1991 and it's in the public domain.  I can send it to anyone who's
+interested.  You'll need a C compiler to use it.  This is the font and
+the key mapping:
+
+ abgdhvzHTycClm
+ ,__  |_  ___  ___  _   __ ____ ___ _ __  ____ __ __   \ |
+
+ |  |   |    |    | | | `|  | |  |  |   |    |  |   |  |\|
+
+ | _|  /     | ___|   |__|  | |  |  | | |    | /| __|_ | \
+
+             |
+
+MnNSipPxXkrst."
+ ''   ___  _ _ _ __  ___ _ _ _ _  __   __   _ _ ___  _   _ ____
+       | | | | |   | , / | |  \| |_ | |_ |  | | |  |  |  | |  |
+    . _| | |/_/    | |   |/  __\    | ___| _|/  |_/   | _| |__|
+                         |          |                 |
+
+Anno Siegel
+
+3)----------------------------------------------------
+Date: Tue, 25 Oct 1994 05:42:31 -0700 (MST)
+From: feller@pcef.pc.maricopa.edu
+Subject: Transliteration
+
+There is a very good transliteration program on Nisus.  All you have to
+do is highlight the "transliteration" icon, and the start typing English
+letters.  For example: an "a" gives you an "aleph", a "b" gives you a
+"beys", etc.  It's not quite as good as the real thing which Nisus does
+extremely well.
+
+Moishe Feller
+
+4)----------------------------------------------------
+Date: Tue, 25 Oct 1994 09:07:28 EDT
+From: raphael@ms.uky.edu
+Subject: Transliteration
+
+Shoyn geven a hibshe por yor zint ikh hob dos frier modie geven aykh ale,
+un es zaynen naye gekumene vos hobn nit gehert:
+
+ikh hob a transliteratsie program vos iz geshribn af C (oykh mir a
+shprakh) vos ken makhen fun mern
+
+  ___   _ _   _  _  _ _     _ _ _ _ _  _ _ __    _ _
+  |  |  | | \/ |  |  \|     | |  \|  | ,\|  |    ,\|
+  |_/  _|/  | _|    __\    _|/  __\ _| |_\ /|    |_|
+
+mayne programen kenen di oysleg-klalim (ven tsu nitsn a shlos-mem, a
+shtume alef, un kedoyme azelkhe), un mit a rshime loshn-koydeshkike
+verter, kenen zey zey oykh akurat oysleygn.
+
+oykh hob ikh etlekhe yidishe bukhstabe-bender (fonts) vos ikh ken nitsn
+mit TeX kdey tsu drukn sheyn-oysgeleygt un sheyn-gedrukte shtiklekh.
+
+der vos farinteresirt zikh ken mir onshraybm.
+
+Raphael Finkel
+
+5)----------------------------------------------------
+Date: Tue, 25 Oct 1994 10:36:08 +0800 (PST)
+From: hcedu012@huey.csun.edu
+Subject: Experiment with Hebrew Software
+
+<VER Kivun Ltd. Dagesh Lite for Windows, Version 1.0>=0D
+<FILEFORMAT 0 1>=0D
+<FTNUM 1  8 David>=0D
+<FTNUM 2  8 Narkisim>=0D
+<FTNUM 3  1 Courier>=0D
+<FTNUM 4  1 Courier New>=0D
+<FTNUM 5  1 Times New Roman>=0D
+<FTNUM 6  5 KCyrillic>=0D
+<FTNUM 7 10 Symbol>=0D
+<DD R><DHM IN><TM 72><BM 72><LM 1.25><RM 1.25><SAP 1>=0D
+<LP><M NormalParH><FT 3><SZ 12>I wonder if any of you can read this using=
+=20=0D
+the Software "Dagesh Lite". If you can, then we can communicate in Yiddish=
+=20=0D
+or Hebrew. </P>=0D
+<RP><FT 2>=E3=E0=C8=F1 =E1=F8=E9=C4=E5=E5=F2=EC=F2 =E0=E9=C4=E6 =E2=F2=F9=
+=F8=E9=E1=EF =E2=F2=E5=E5=E0=C8=F8=EF =E0=E9=C4=EF      <FT 4> Dagesh=20=0D
+Lite<FT 2>     </P>=0D
+
+Itzik Moskovitz
+
+______________________________________________________
+End of Mendele Vol. 4.153
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

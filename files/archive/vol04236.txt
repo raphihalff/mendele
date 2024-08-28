@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.236
+December 14, 1994
+
+1) Geography (Kathryn Hellerstein)
+2) On [RR] requests (Anno Siegel)
+3) Pronouncing "geooghit" (Dovid Braun)
+4) Pronouncing "geooghit" (Khayem Bochner)
+5) Pronouncing "geooghit" /ankle pain (Shleyme Axelrod)
+
+1)----------------------------------------------------
+Date: Wed, 14 Dec 1994 05:55:43 -0500 (EST)
+From: khellers@sas.upenn.edu (Kathryn Hellerstein)
+Subject: geography
+
+Can anyone out there tell me precisely where Otvotsk (Otwock), the resort
+town with hot springs, I think, and Bereze-Kartuskay are/were located?
+I'm especially interested in knowing which national borders they fell
+within circa 1923.  Thanks.
+
+Kathryn Hellerstein
+
+2)----------------------------------------------------
+Date: Wed, 14 Dec 94 11:04:17 +0100
+From: anno4000@w172zrz.zrz.tu-berlin.de
+Subject: On [RR] requests
+
+A much belated comment on Zellig Bach's proposal to handle revision
+requests:  I am all for it, and many good reasons have been metioned on
+Mendele which I don't need to repeat.  There is just one part of the
+proposal that bothers me:
+
+>3.  The flag [RR] will promptly be deleted, so nobody, except the author,
+>will know that a review was done.  Thus no stigma whatsoever will attach
+>to an [RR] request.
+
+While this is certainly well meant, I don't like the idea for two
+reasons:
+
+If I were in the situation to send something out in Yiddish with an [RR]
+request, I'd definitely want the readers to know my text has been
+revised.  Otherwise I'd feel I'm decking myself out in borrowed plumes. I
+might even get a Yiddish reply that went way over my head which, IMO,
+would be more embarrassing than to openly state that I'm not quite sure
+of my Yiddish.
+
+Now this isn't very likely in my case -- I'd probably take hours to
+produce something that might be justly deemed beyond repair.  But for a
+learner of Yiddish, the [RR], if it remained with a message, would be a
+valuable hint that the text has been checked by a native speaker and can
+be safely taken at face value.  It would thus make Mendele an even more
+valuable instrument in learning (or picking up) some Yiddish.
+
+Zayt ir ale gezunt, [RR] :-)
+
+Anno Siegel
+
+3)----------------------------------------------------
+Date: Tue, 13 Dec 1994 18:34:07 EST
+From: dovid@mit.edu
+Subject: Pronouncing "geooghit"
+
+Thanks, Dan Leeson, for explaining how to pronounce the word "geooghit".
+Upon first seeing it, I imagined some 15 ways that you might have meant
+for it to be pronounced, and none of them were familiar to me.
+Graphically, it reminded me of the spelling "ghoti" for 'fish'.  And just
+as _ghoti_ is graphically quite far from _fish_, "geooghit" is quite far
+from the way the word would be written in a developed system of
+transliteration/transcription/Romanization.  More below.
+
+Indeed, it _is_ hard to describe sounds!  One of the best arguments in
+the world for a standard transliteration or transcription system (for
+individuals languages, and for all languages).  If I understood your
+answer correctly, "geooghit" would be rendered _zhuzhet_ in the system
+worked out for Yiddish romanization.  (I'm familiar with _es zhumet in di
+oyern_, so I've learned something new.)  With a developed system, the
+(say) 500 out of ca. 600 readers of Mendele who are more or less familiar
+with the system will now be able to read the word with no difficulty.
+Lang lebn zoln sistemen!
+
+Btw, a refue shleyme!
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Wed, 14 Dec 94 11:27:54 -0500
+From: bochner@das.harvard.edu
+Subject: Pronouncing "geooghit"
+
+A, ir vilt zogn 'zhuzhet'! Avade! 'zhuzhen' iz taytsh 'hum, buz',
+mer/veyniker dos zelbike vos 'zhumen'. Mir zhuzhet zikh a mol oykh in di
+oyern ;-(
+
+Nor ver volt zikh gekent forshteln az mit "geooghit" hot ir gevolt
+ibergebn 'zhuzhet'?
+
+Khayem
+
+5)----------------------------------------------------
+Date: Wed, 14 Dec 1994 12:37:26 -0500 (EST)
+From: Seymour Axelrod <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: Pronouncing "geooghit" /ankle pain
+
+Ah, the usefulness of YIVO romanization!  Dan Leeson's description of the
+pronunciation of "geooghit" makes it clear (?) that the word is
+"zhuzhet", from "zhuzhen" meaning 'hum, drone'.  So it's tinnitus, not
+earache, that's being described.  For "I have an earache", what's wrong
+with 'der oyer tut mir vey', or 'es tut mir vey der oyer"?  For ankle
+pain, 'dos knekhl tut mir vey", etc.  "Klapn" and "hakn" seem to describe
+the character or feel of particular pains, rather than their sites.
+"Shtekhn" is another such verb; no doubt there are others.
+
+Shleyme Axelrod
+
+______________________________________________________
+End of Mendele Vol. 4.236
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

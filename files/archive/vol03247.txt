@@ -1,0 +1,145 @@
+______________________________________________________
+Contents of Vol. 3.247
+February 25, 1994
+
+1) Zachary Baker (Monika Adamczyk-Garbowska)
+2) Verb-first construction / mnemonic device (Pierre Lewis)
+3) Interwar memoirs (Dvosye Bilik)
+4) The name for 'yiddish' in other languages (Iosif Vaisman)
+5) Yiddish dictionaries (Melinda Saveleva)
+
+1)----------------------------------------------------
+Date: Thu Feb 24 11:11:20 1994
+From: "Monika and Christopher Garbowski/a" <MARCIN@klio.umcs.lublin.pl>
+Subject: Zachary Baker
+
+    I was very happy to read Prof. Wolitz's entry devoted to Zachary
+Baker. I would like to add that scholars from Poland owe him a great
+deal as well. A number of my colleagues and I visited YIVO in the
+past and we all appreciated Zachary's enormous competence,
+knowledge, culture and patience. During his last visit to Lublin in
+October 1993 he met a group of Polish students from the English
+Department and talked to them about YIVO and Jewish studies, as well
+as answered a number of questions. My students recall this meeting
+as one of their most interesting classes and some of them say that
+Zachary made them genuinely interested in Yiddish and Jewish
+culture. Thanks a lot, Zachary, for everything you have done for us.
+
+Monika Adamczyk-Garbowska
+Maria Curie-Sklodowska University
+Lublin
+
+2)----------------------------------------------------
+Date: Thu Feb 24 13:10:47 1994
+From: "pierre (p.) lewis" <lew@bnr.ca>
+Subject: Verb-first construction / mnemonic device
+
+> The Index to Yiddish Periodicals is available to ALEPH searchers
+> who can display Hebrew characters.
+
+Can anyone tell me something about this code page? Or point me to
+the right place? Where is it defined. Are there other fairly common
+code pages that are useful for Yiddish?
+
+A dank,
+Pierre
+
+3)----------------------------------------------------
+Date: Thu Feb 24 13:29:40 1994
+From: Dorothy_BILIK@umail.umd.edu (db28)
+Subject: Interwar memoirs
+
+To Sean Martin:
+
+Sorry I haven't been in touch before but I would recommend the
+memoirs of Hersh Abramowicz, the father of YIVO's beloved Dina for
+insight into Poles and Jews. There are others but I am not where I
+can cite them easily. Dovid Roskies' "Against Apocalypse" has
+extensive bibliography. If you find material on interbellum
+attitudes toward Germans let me know. Yechiel Szentuch's book on the
+subject is supposed to be coming out in English,to be published by
+HUC press.
+
+Good luck,
+Dvosye Bilik
+
+4)----------------------------------------------------
+Date: Thu Feb 24 13:35:46 1994
+From: Iosif Vaisman <iiv@mmlds1.pha.unc.edu>
+Subject: Re: the name for 'yiddish' in other languages
+
+Standard Russian word for Yiddish is _evreiskii_ [jewish]. Word
+_idish_ exists, but is used mostly in scholarly context, and almost
+always in collocation _iazyk idish_ [Yiddish language], which means
+that this word requires an additional definition in order to become
+a lexeme. Interestingly, _evreiskii iazyk_ [Jewish language] in a
+broad sense may be used for both Yiddish and Hebrew. At the same
+time, there is a distinct difference between _drevneevreiskii_
+[ancient Jewish] for pre-20th century Hebrew and _ivrit_ for modern
+Hebrew.
+
+A git yontev
+
+Iosif Vaisman
+
+5)----------------------------------------------------
+Date: Thu Feb 24 14:01:54 1994
+From: msavelev@mentor.cc.purdue.edu (Melinda Saveleva)
+Subject: Yiddish dictionaries
+
+This is in regard to the question of Weinreich vs Harkavy dictionary
+choice.  I also work in a university library and do most of the
+complex copy and original cataloging of our recently acquired
+Yiddish collection. I use both Harkavy and Weinreich...Perhaps this
+quote from the introduction to the reprint edition of Harkavy's
+Yiddish-English-Hebrew dictionary would be of some help.  "This
+republication of Harkavy's Yiddish-English-Hebrew dictionary in no
+way displaces Uriel Weinreich's Modern English-Yiddish
+Yiddish-English Dictionary (1968).  In fact, the two complement each
+other.  Weinreich's is a masterpiece of modern scientific
+lexicography that has become an international structural model for
+makers of other bilingual dictionaries.  Its semantic structureing
+reflects the author's brilliant research in general linguistics. Its
+comprehensive analytical apparatus is tantamount to a Yiddish
+grammar compressed into a lexicographic format.  Moreover,
+Weinreich's dictionary is bidirectional; it will therefore remain
+the first dictionary for elementary students of Yiddish, for those
+seeking equivalents for the English vocabulary of modern science and
+technology, and for those desiring guidance on the attitudes of
+American Yiddish normativists toward a given item.  For the last
+decade or so, however, the disappearance of Harkavy's trilingual
+dictionary from the market has been painful for more advanced
+students of the language requiring a more exhaustive coverage of the
+language of the nineteenth and twentieth century masters of modern
+Yiddish literature and a dictionary that is more descriptively
+oriented. The student of Yiddish can supplement both Harkavy and
+Weinreich with the first four volumes of Yudel Marks unabridged
+Yiddish-Yiddish defining dictionary, the Groyser verterbukh fun der
+yidisher shprakh..."  Hope this helps!
+
+Melinda Saveleva Krushen
+
+______________________________________________________
+End of Mendele Vol. 3.247
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Mendele: Yiddish literature and language
+

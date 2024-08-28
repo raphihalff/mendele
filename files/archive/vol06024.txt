@@ -1,0 +1,141 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.024
+June 30, 1996
+
+1) The Death of Yiddish (Peter Kluehs)
+2) Steinlauf lecture (Andrew Cassel)
+3) Transcribed Yiddish into Yiddish letters (David Lidsky)
+4) Yiddish literature of Czernowitz (Iosif Vaisman)
+
+1)----------------------------------------------------
+Date: 28 Jun 1996 21:12:00 +0200
+From: pete@pko.rhein-main.de
+Subject: Khaloymes vegn dem matsev fun a loshn
+
+nekhtn farnakht hot zikh mir gekholemt gor a modner kholem.
+
+a bavuster profesor fun harvard universitet hot ongeshribn an artikl,
+vos derklert dem oylem zeyer protimdik, az di englishe shprakh vet tsi
+frier tsi shpeter shtarbn, makhmes alts veyniker mentshn hobn kheyshek
+zey tsu nutsn. bald hobn zikh opgerufn etlekhe goyishe meyvinim,
+dervayzndik az der profesor iz nisht gerekht oder efsher a bisl gerekht,
+nor.. _kimat ale bayshtayerungen zaynen dershinen oyf yidish_!!!
+
+s'iz do geven bloyz eyn khidesh. a bal-ivre mitn nomen lewis botwin, a
+mumkhe vos farnemt zikh mit telekomunikatsye un vos arbet inem
+mizrekhdikn nathan college, hot publikirt zayn meynung _oyf a geshmakn
+english_.
+
+khaveyrim, lakht nisht vegn mayn shtusikn kholem, beser volt geven az ir
+tut a trakht un git mir an eytse vi azoy basheydn dem inyen. oyb ir
+veyst oykh nisht, vel ikh muzn vayter brekhn mayn kop.
+
+peter kluehs
+wehrheim, germany
+
+2)----------------------------------------------------
+Date: Fri, 28 Jun 1996 15:53:31 -0400 (EDT)
+From: andrew.cassel@mukt.phillynews.com
+Subject: Steinlauf lecture
+
+Five years ago, our fellow Mendelyaner Michael Steinlauf gave a
+fascinating and insightful lecture at Gratz College, where he was then
+employed, about the revival of Jewish memory in Poland. Recently Michael
+gave me a copy of that talk. I liked it so much that I posted it, with
+his permission, on the Web. Interested khaverim armed with browsers may
+check it out at this address:
+
+http://www.philly.infi.net/~awcassel/steinlauf.html
+
+Andrew Cassel
+
+3)----------------------------------------------------
+Date: Sat, 29 Jun 96 11:39:57 PDT
+From: fdlidsky@netvision.net.il
+Subject: Transcribed Yiddish into Yiddish letters
+
+The effect of putting one's thoughts into writing and of submitting them
+to the criticisms of others is quite amazing, and that is even before
+the criticisms start coming in!
+
+I had been thinking for quite a time about the fact that the the writing
+system used for the majority of Yiddish words (those of Germanic-Slavic
+origin) is pretty "phonetic", that is to say that there is a close
+correspondence between the written letters and the spoken sounds and
+that this should enable a computer program to be devised which would
+translate, into Yiddish letters, Yiddish transcribed into English
+letters (as we read all the time on Mendele). That would be as long as a
+uniform system of transcription were used. I recently submitted a rather
+long-winded posting to Mendele concerning this.
+
+It has now become clear to me that my idea was hopelessly
+over-optimistic. Such a computer program could hardly be expected to
+know, for instance, that a word such as "farrikhtn" contains a double
+letter reysh. Or that "kind" (a child) though written with a final
+letter daled is prounouced with a final "t" sound. Yiddish spelling is
+just not _that_ "phonetic" (or phonemic). I don't think that of any
+language is.
+
+And then there is the problem of the Hebrew-Aramaic words.
+
+Of course it is possible to accurately tranliterate a Yiddish text into
+English letters. And of course a standardized system of writing Yiddish
+in "Latin" letters could be derived but that would mean Yiddish learners
+having to come to grips with two different standard ways of writing the
+language. What I had in mind was something quite different---somebody
+who perhaps does not know the Yiddish alphabet at all being able to
+unworriedly write the language in English letters as he or she hears it,
+its being then automatically turned into "correct" Yiddish spelling by
+computer.
+
+The problem of the trouble-free transmission of Yiddish and Hebrew over
+the internet remains to be solved (I seem to remember that there is now
+a mailing list devoted to this topic for Yiddish). I naively thought
+that I was suggesting a solution for Yiddish which would could co-exist
+with the sort of transcribed Yiddish used on Mendele. How wrong can you
+get!
+
+David Lidsky
+
+4)----------------------------------------------------
+Date: Sat, 29 Jun 1996 19:33:38 -0400 (EDT)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Yiddish literature of Czernowitz
+
+I am collecting materials for the electronic exhibition on World Wide
+Web with the working title "Jewish Czernowitz: People and Books". The
+exhibition will focus on cultural history of the city, language
+situation, biographical and bibliographical information about writers,
+poets, artists, and scholars who lived and/or worked in Czernowitz. The
+exhibition will be "hosted" by Shtetl
+(http://sunsite.unc.edu/yiddish/shtetl.html).
+
+Currently my list of Yiddish authors with the "strong" Czernowitz
+connections include (spelling according to the Library of Congress Name
+Authority File): Moishe Altman, Shlomo Bickel, Nathan Birnbaum,
+M.H.Breitman, Iosif Burg, Shimshon Ferst, Muni Fried, Jakow Frydman,
+Meir Harats, Hirsch Leib Kazber (Vainshtein), Joseph Kissman, Gershon
+Kizshner, Moshe Krinitz, Chaim Lecker, A.Y.Lobel, Itzik Manger, Hayim
+Melamud, Itzhak Panner, Mordkhe Schaechter, Bella Schaechter-Gottesman,
+Ikhil Shraibman, Nokhum Shtif, Eliezer Steinbarg, Jacob Sternberg, Lobel
+Taubes, Josif Trachtenberg, Kubi Vol, Ruth Wisse.
+
+I would greatly appreciate any additions to this list and any hints
+about non-obvious sources of biobibliographical data (especially about
+lesser known authors and about publications in periodicals).
+
+Although Czernowitz German-Jewish literature (Rosa Auslander, Paul
+Celan, Alfred Gong, Alfred Kittner, Alfred Margul-Sperber, Zelma
+Meerbaum, Immanuel Weissglas, and many other) is documented much better,
+I would be grateful for any interesting information, particularly about
+German-Yiddish literary relations.
+
+Other relevant information would be welcomed as well.
+
+Iosif Vaisman
+
+______________________________________________________
+End of Mendele Vol. 6.024
+

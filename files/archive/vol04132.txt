@@ -1,0 +1,157 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.132
+October 10, 1994
+
+1) Introduction (Lori Padzensky and Joffre Champagne)
+2) Yidishe publikatsyes in yisroel (Peter Kluehs)
+3) Mendele as A Big Tent (Moyshe Zekharye Baker)
+4) Yiddish software (Arnie Kuzmack)
+
+1)----------------------------------------------------
+Date: Sun, 9 Oct 1994 10:55:49 -0700 (PDT)
+From: birobid@netcom.com
+Subject: Introduction to us and Birobidzhan
+
+Hello! We are Lori Padzensky and Joffre Champagne (soon to be Joffre and
+Lori Champagne), the co-directors of Project Hashivanu. Our organization
+was established two years ago during a visit to Birobidzhan, capital of
+Russia's Jewish Autonomous Region. We lived in Birobidzhan for four
+months, against the recommendations of many Jewish leaders in America and
+Israel who said there were no Jews left there. We found a population of
+10,000 Jews in a city of 100,000 people. It has been a joy to watch this
+community grow from being "Jewish" because it was stamped in their
+passports to being "Jewish" because they embrace the traditions and
+beliefs.
+
+Although Yiddish is still the official language of the region, and a
+daily Yiddish-Russian newspaper exists, less than half of the people
+actually speak Yiddish, though it is seeing a revival and is offered to
+any students who wish to learn, whether they are Jewish or not. Some
+store, as well as street signs still exist in Yiddish, and a Yiddish
+theatre in the city continues to perform.
+
+An offshoot of Project Hashivanu is Operation to Reunify Yiddish,
+directed by Michael Ben-Levi in Los Angeles. He is working to
+"de-Sovietize" the Yiddish used and taught in Birobidzhan and throughout
+the former Soviet Union. Many of the Hebrew words have been taken out and
+sofim are not used. This applies to text in the Birobidzhaner Shtern,
+their newspaper, as well as in the textbooks they create to teach Yiddish
+to the young.
+
+We could go on and on about our project, the work we have done, the rabbi
+we have sent, etc., but for now, we will stay brief.
+
+   Project Hashivanu	  *	Lori Padzensky and Joffre R. Champagne,
+  Helping the people	  *		     Co-directors
+of Birobidzhan, Russia	  *   A non-profit member of the Union of Councils
+recover their traditions  *
+
+2)----------------------------------------------------
+Date: 09 Oct 1994 19:54:00 +0200
+From: pete@pko.rhein-main.de
+Subject: yidishe publikatsyes in yisroel, a maysele
+
+ikh derveys zikh fun an i-briv fun zellig bach, az in yisroel zenen faran
+a tsol publikatsyes in yidish. ikh bin shtark farinteresirt zey tsu kenen
+un mistome oykh tsu abonirn. ken mir emetser gebn di adresn fun di aroys-
+gebers oder fun dem isroeldikn prese-farband? a sheynem dank foroys!
+
+a por vokhn tsurik louis fridhandler hot gebrakht in mendele di mayse fun
+mark twayn in daytshland. di gore mishpokhe mayne hot gelakht un gelakht!
+ikh trakht az s'volt zayn a hanoe far di mendele khaveyrim leyenen epes
+azoyns keseyderdik. ot, a maysele fun salcia landmann:
+
+ikh zog aykh, a yom-kiper iz dos geven - ekh, ekh, ekh...zenen mir
+gegangen nokh kol-nidre oyf der nakht: ikh, un der rov, un moyshe
+kischke, un froyim schwab, un mechl drong, un geredt al d'war-toyre un
+nokh azelkhe kleynikaytn...derzeen mir plutsem unter a lamtern shteyt
+zikh yokhtsiale mit a shikse.
+
+meyle hot der rov, zol lebn, ongekukt di shikse, iz er shir nisht geblibn
+oyfn ort...take aza yor tsu mir, vos far a shiksl dos iz geven! "du
+grober yung!" git der rov a geshrey oyf yokhtsiale, "du amorets! vi host
+du epes far got nisht kayn moyre? haynt iz dokh yom-kiper!..." "rebe",
+entfert im yokhtsiale mit a shmeykhl, "ikh darf zi den khas v'kholile oyf
+haynt? ikh hob zi mir nor bashtelt, mirtshe, b'li neder, oyf simkhes
+toyre!..."
+
+peter kluehs
+
+3)----------------------------------------------------
+Date: Sun, 9 Oct 94 16:18:32 PDT
+From: bm.yib@rlg.stanford.edu
+Subject: Mendele as A Big Tent
+
+As an employee of Yivo -- and as one whose Yiddish was acquired in large
+measure thanks to "College Yiddish" and the Uriel Weinreich Summer
+Yiddish Program (in addition to the tutoring of my grandfather, Reverend
+Samuel A. Baker) -- I ought to line up on the side of the "purists" among
+our Mendelnikes, with respect to the linguist-libhober debate.  But it is
+one of Memdele's great virtues that it is A Big Tent -- we don't all have
+to be "tsadikim" to enter into it.  I truly hope that there will be no
+schism, and that those who have much to learn, linguistically, will in
+turn continue to educate those of us who approach mame-loshn in a more
+formal(istic) manner.
+
+Zachary (a.k.a. Moyshe Zekharye) Baker
+
+4)----------------------------------------------------
+Date: Sun, 9 Oct 1994 22:08:15 -0400 (EDT)
+From: kuzmack@umbc.edu
+Subject: Yiddish software
+
+The recent discussion of word processing software prompts me to put in a
+plug for the Word Perfect Hebrew Language Module.  It is especially
+suitable for people who already use Word Perfect for DOS as their word
+processor in English, since you already know all the commands.
+
+It supports several Hebrew fonts (even Rashi) for laser printers (and
+24-pin dot matrix too, I think), including scalable fonts in several
+faces using True Type for Word Perfect.  The character set includes all
+of the characters needed for Yivo standard spelling, including paskh
+tsvey yudn, pe, khirik yud, khubuk vov, and fe and beys with shtriklakh.
+The screen display shows the Hebrew characters at VGA resolution, and
+full word wrap is provided in the Hebrew right-to-left mode.
+
+All of the rich feature set of standard Word Perfect is available,
+including columns, tables, footnotes, macros, fine control of placement,
+etc.
+
+The main drawback is limited support of nikud.  And, of course, as a
+character-based program, you can't edit in a WYSIWYG display.
+
+I have been using it for several years to do the Yiddish section of the
+Yiddish of Greater Washington newsletter.
+
+Cost is about $150.  Available from Kabbalah Software, direct from Word
+Perfect, and elsewhere.
+
+Arnie Kuzmack
+
+______________________________________________________
+End of Mendele Vol. 4.132
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

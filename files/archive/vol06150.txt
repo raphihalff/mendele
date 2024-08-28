@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.150
+December 19, 1996
+
+1) Zakh/zikh (Hugh Denman)
+2) Jet-lag af yidish (Dan Leeson)
+3) Role of judeo-french (Joachim Neugroschel)
+4) Role of judeo-french (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Wed, 18 Dec 1996 18:08:55 +0100 (MET)
+From: h_denman@maier.vol.at
+Subject: Zakh/zikh
+
+I must apologise to Al Grand if my previous answer on this topic [6,135.
+3] was not clear enough. I will also try again, even at the risk of
+paraphrasing Joachim Neugroschel [6,142. 4] to some extent:
+
+1. In Standard Yiddish one should spell the reflexive pronoun with a yud
+and consequently transliterate 'zikh'. However, for reasons that one may
+ignore, if so inclined, the pronunciation will be nearer to 'zakh'.
+
+2. Al Grand then asks whether the diphthong "oy" with an umlaut over the
+"o" wouldn't be pronounced exactly the same as "oy" minus the umlaut.
+But pronounced by whom? That is the problem! The vov-yud grapheme
+represents two distinct historical phonemes that are, however, both
+pronounced identically as "oy" in the standard language. Nonetheless,
+all the dialects maintain the distinction, albeit with differing
+realisations. Olsvanger, like Birnbaum, is attempting to employ a
+transcription system that will maintain the distinction, while leaving
+the reader free to observe it or not as he pleases, and in the former
+case to select the realisation he prefers. Of course, if Al Grand is not
+interested in either the history of the language or in the dialects,
+then he is quite safe in ignoring the umlaut. That was Olsvanger's
+purpose in employing a diacritic in the first place.
+
+Hugh Denman
+London
+
+2)----------------------------------------------------
+Date: Wed, 18 Dec 1996 16:15:51 EST
+From: leeson@aspen.fhda.edu
+Subject: Jet-lag af yidish
+
+Zellig Bach [in 6.147] suggests "fli-mid" as a potential Yiddish form of
+"jet lag."  He gives as an example: "Ikh bin zeyer fli-mid" which he
+translates as "I am very fatigued from the flight."
+
+Far be it from me to even suggest that Zellig could be off the mark in a
+translation, but we have a definite problem here.  "Jet lag" is not the
+equivalent of "fatigue" in English, and therefore, its Yiddish
+translation of "fil-mid" does not convey the correct notion.
+
+"Jet lag" makes reference to ones biological clock being off-kilter by
+being forced to go from one time zone to a distant one in a short time;
+i.e., I get an 8 or 9 hour jet lag when I fly from San Francisco to
+Frankfurt because I want to eat when I should be asleep and vice versa,
+but that does not mean I am fatigued from the flight because of this.
+My biological clock is now confused from the time change and I have
+become "Jet lagged."
+
+In fact, I get "fli-mid" even when I don't get "jet lag", tsum bayshpil,
+when I fly from San Franciso to Seattle where there is no time change
+and thus, no physiological reason for jet lag.  But I am fatigued
+nonetheless.
+
+So I am not questioning Zellig's translation of "Jet lag" as much as I
+am suggesting that he may have translated the wrong notion, one that I
+cannot say in a few words other than with the phrase "Jet lag."  In
+effect, I cannot equate "Jet lag" and "fatigue by flight" as being the
+same ideas.
+
+In conclusion let me state that when I get jet lagged, the joke "What
+hangs on the wall, is purple, and flies" sounds very rational to me.  (I
+presume that everyone knows the answer to that question: "a herring."
+You say it doesn't hang on the wall? I could hang it if I wished.  You
+say that it is not purple? I could dip it in purple paint.  You say that
+it does not fly? That is true, but I put that one in to fool you.)
+
+Dan Leeson
+Los Altos, California
+
+3)----------------------------------------------------
+Date: Wed, 18 Dec 1996 20:05:43 -0500 (EST)
+From: achim1@cris.com
+Subject: Role of judeo-french
+
+in regard to the Yiddish expressions "es iz do" & "es iz nisht do":
+Sylvia Schild [6.148] points to a possible Judeo-French origin.  But her
+evidence doesn't quite strike me as valid.  for one thing, she lists
+modern French idioms, and not medieval ones.
+
+Furthermore, contrary to her theory, the French idioms she cites do
+_not_ translate literally into the Yiddish ones.  "Il y a" literally
+translates as "it there _has_ (not _is_).  Likewise, "il n'y a pas"
+literally translates as "it no there _has_ not"--which sounds nothing
+like "es iz nisht do".  Swiss German contains calques of those idioms
+("es hat"), but Yiddish doesn't.
+
+The more probable source of the Yiddish phrases is German:  even today,
+the German verb "dasein" means "exist, be there, be available,
+etc."--e.g.  "Ich werde immer fuer dich dasein" = "I'll always be there
+for you."  And the German noun "Dasein" still means "existence".
+
+Currently, the German idiom and the Yiddish idiom overlap only partly.
+A precise German translation of, say, "Es zenen do a sakh shraybers af
+der velt" would be "Es _gibt_ viele Schriftsteller auf der Welt".  "Es
+gibt" + object (not subject) noun is the most colloquial way of
+expressing "there is (are)" in modern German.  However, in medieval
+German, the phrase "es (ez) ist (sind) da" was a lot more common.
+
+Joachim Neugroschel
+
+4)----------------------------------------------------
+Date: Wed, 18 Dec 1996 20:41:35 EST
+From: ellen@central.cis.upenn.edu
+Subject: Role of judeo-french
+
+syliva schildt writes (6.148) that we are forgetting that the original
+yiddish speakers were once judeo-french speakers and that _es iz do_ is
+a translation of _il y a_. i would like to say that, first of all, the
+claim that the original yiddish speakers came from france is not
+universally accepted as true by linguists (i for one am skeptical and
+await more compelling evidence than i've seen so far) and, second, a
+real calque of the french would be _es hot dort_, not _es iz do_.
+
+actually, i believe that modern german has _da is_ 'here/there is',
+where 'here/there' has a real locational meaning. interestingly, two
+other germanic languages -- english and danish -- have a modern
+existential 'there' construction that evolved out of a locational
+'there' construction, so yiddish could very well be a third -- that is,
+they could have started with a _do iz_ locational construction and it
+could have evolved into the modern _do iz_ existential construction,
+just as the english and danish constructions did. no need to posit a
+french source -- and then have to explain why they got the verb wrong.
+of course, all this could use some serious research -- i'm just
+speculating.
+
+on a more general note, i know of a handful of lexical items in yiddish
+from judeo-french (tsholnt, yente...) but i don't know of any structural
+influence. sylvia, did you have anything specific in mind? (this is a
+subject that interests me very much.) thanks.
+
+ellen prince
+
+______________________________________________________
+End of Mendele Vol. 6.150
+

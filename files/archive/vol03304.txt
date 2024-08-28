@@ -1,0 +1,169 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.304
+March 29, 1994
+
+1) S n' z; buby n' zeydi; Index (Mikhl Herzog)
+2) American English (Ed Lavitt)
+3) Learning Yiddish (Seth Golub)
+
+1)----------------------------------------------------
+Date: Sun Mar 27 21:59:42 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: 1. s n' z; 2. buby n' zeydi; 3. Index to Mendele
+
+1. Molly Diesing
+"Sarg and sargenes"
+
+As an exercise, for my own benefit, and at the risk of repeating myself,
+let me tell you more than you ever wanted to know about the word-initial
+sibilant in Yiddish.
+
+You're quite right, some German dialects have word-initial [s], but in
+that case, they do NOT have word-initial [z]. In the linguist's parlance,
+German [s] and [z] do not contrast in word-initial position. German
+dialects have EITHER word-initial /s/ OR /z/, not both. Eastern Yiddish
+has both (and Western Yiddish in northeastern Germany has something like
+both), thanks to its Hebrew and Slavic components, but NOT in its German
+component where it has ONLY initial [z], except, as I said, in "say" and
+"saydn". I have no satisfactory explanation for this exception but I'd be
+reluctant to say that it's the result of "sharing a feature" with
+Austrian dialects. I'd expect a shared feature to show up in a more
+pervasive manner than in a single word, or even in two or three. "Sharing
+a feature", as in the case of unaspirated p, t, k, that you mention,
+means that in every appropriate environment, p, t, k will be unaspirated.
+No?
+
+In any event, the situation in Yiddish is not uniform throughout. In
+Western Yiddish, which is generally coterritorial with German, we find
+the following, a reflection of the varying constraints in the
+coterritorial languages:
+
+First, in the German Southwest with Alsace at its core, all
+voiced-voiceless pairs in Yiddish, except k/g, have generally merged in
+favor of the lenis variant: p/b, t/d, s/z, and others are generally
+realized as "p"-like, "d"-like, and "s"-like, regardless of
+origin--German or Hebrew: thus "po:nim" 'face' = "bo:nim" 'sons', "talis"
+'prayer shawl' = "dalis" 'poverty', "zo:kn" 'old man' and "zayin"
+'seventh letter of the alphabet" are realized with initial [s]:
+"so:kher", "soyen". The merger of s/z alone, realized as [s], extends
+further eastward than the others, to include Bavaria and Austria. Thus,
+Yiddish "zuntik" would be realized with initial [s]. In contrast, in
+eastern and northern Germany, and in Holland, as in Eastern Yiddish, it
+is realized with initial [z] (Litvish [zh]).
+
+>From this, I would assume that, if Yiddish had borrowed German "Sarg"
+'coffin', it would have been realized with [s] in the Southwest, Bavaria,
+and Austria, but with [z] elsewhere; if Yiddish "sargenes" were related
+to German "Sarg", I'd expect the same variation. In fact, however,
+Yiddish has not borrowed German "Sarg", and "sargenes", which occurs only
+in western Western Yiddish, occurs only with [s], even in the North.
+QED??? We have no record of the word in Austria at all.
+
+We're still left with the problem of Yiddish words that are not of German
+origin, in Western Yiddish mainly Hebrew-origin and some Romance-origin
+words? In the South, as we've seen, Hebrew words with initial [z] are
+realized with [s]: [so:kher] 'male', [soyin] '7th letter of the
+alphabet'; those with initial [s] have no problem: suke, seyder, seykhl,
+etc. In northern Germany, however, (more precisely, largely in
+northeastern Germany), quite a different situation prevails: Yiddish
+retains the historical distinction between Hebrew initial [s] and [z],
+but reinterprets it in terms of the familiar German contrast between: [z]
+and [ts] thus, zo:kher and zoyen but tsuke, tseykhl, tseyder (or tsaykhl,
+tsayder), a phenomenon that extends into the Yiddish of western Poland as
+well (cf.German "Sahl" with [z] and "Zahl" with [ts].
+
+IF "sargenes", as a word of non-German origin were to occur in the
+Yiddish of this area, we'd expect instances with initial [ts].
+Unfortunately, for our expectations, we have no record of the word at the
+telling locations. Blaybt a kashe!
+
+
+2. boby/buby/zeydy
+
+My guess is that these forms and, lehavdl, tushy, are no different than
+daddy and mommy. They're English diminutives of the teeny-weeny variety.
+
+One should mention, nevertheless, that there is an area in Northeastern
+Poland (Poland but Northeastern Yiddish), towns like Szczuczin, Lomze,
+Grajewo (Yiddish shtshutshIn, lOmzhe, grAyeve) where the last two are, in
+local parlance, [wOmzi, grAYvi], wherethe final unstressed vowel in words
+like "khale, kale, bobe, zeyde"  is decidedly "i-like. I've always
+wondered whether that might have been the source of New York's (?)
+widespread "holly" bread.
+
+Many years ago I heard a recording of a khazn from Grayeve singing a
+Yiddish song about a "kali", rhyming it with "khali", etc. Does anyone
+out there know what that recording might have been? Henry?
+
+3. Index to Mendele
+
+Reb Noyekh: Is it possible to create a subject index to Mendele, if only
+to be able to draw upon earlier postings in reply to constantly recurring
+questions?
+
+[Aderabe, mitn gresten fargenign.  Efsher veyst emitser viazoy me tut es
+af a rikhtikn shteyger. nm]
+
+A gut yontef aykh alemen
+
+Mikhl Herzog
+
+2)----------------------------------------------------
+Date: Sat Mar 26 11:25:45 1994
+From: <70721.2001@CompuServe.COM>
+Subject: American English
+
+For your file: "Yiddishization of American English":
+
+New York Times, 3/23/94, C7, half-page display ad:
+
+	Introducing Tushies DIAPERS
+	Exclusively at GRISTEDE'S & SLOAN'S [a local supermarket chain]
+
+Ed Lavitt
+
+3)----------------------------------------------------
+Date: Tue Mar 29 09:19:14 1994
+From: <seth@hilco.com> 
+Subject: Learning Yiddish
+
+A friend and I are interested in learning Yiddish, but have little idea
+where to begin.  Could anyone recommend books, recordings, online-info,
+strategies?
+
+Could you point me to some good resources?
+
+I was somewhat fluent in Hebrew about 10 years ago.  I'm not sure if
+that will help or hinder.  :-)
+
+We each have some experience in learning languages.  Yiddish will be
+my fourth and her fifth.
+
+Seth Golub
+
+______________________________________________________
+End of Mendele Vol. 3.304
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net

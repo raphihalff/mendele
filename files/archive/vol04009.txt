@@ -1,0 +1,224 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.009
+May 26, 1994
+
+1) Fonye (Jules Levin)
+2) Vern-constructions (Holger  Nath)
+3) Yiddish first names (Anno Siegel)
+4) Yiddish first names (Zachary Baker)
+5) Yiddish first names (Holger  Nath)
+6) Priziv vs. priyut (Bob Rothstein)
+7) Er freyt zikh in Kovne (Rick Gildemeister)
+
+1)----------------------------------------------------
+Date: Wed May 25 19:44:49 1994
+From: JFLEVIN@UCRAC1.UCR.EDU
+Subject: Fonye
+
+An amusing sidelight on this impolite term for the Russian is that the
+WWII Russian army slang (and probably WWI as well) for the Germans was
+"Fony".  This of course is nothing more than the 'von' that was so common
+in German last names.  I wonder if any Jewish soldier ever reflected that
+he was fighting the "Fony" along side "Fonye".
+
+--Jules Levin
+
+2)----------------------------------------------------
+Date: Wed May 25 23:02:11 1994
+From: n6@columbia.edu
+Subject: vern-constructions
+
+Thanks for your comments, Dovid.  I had noticed and mentioned those
+inconsistencies in word order.  Still, it came up several times in a
+relatively short list of Russian aspectual pairs, so there must have been
+some reason behind these choices.  When I have more time, I'll check
+some more aspectual pairs.
+
+The change in word order is not the only way the compilers of the
+Russian-Yiddish dictionary used to express aspectual differences, besides
+prefixation.  Some of the glosses distinguished between a ZAYN vs. a VERN
+construction, imperfective the former, pe rfective the latter.  Others
+used VERN + Positive (shvakh vern, imp.) vs. VERN + comparative (shvakher
+vern, perf.).  But again not completely consistent.
+
+The explanations you gave for shift in focus, follows patterns in Yiddish
+with regard to prefixation.  I noticed that the more the author is
+interested in stressing a certain event in a story (i.e., the more 'in
+focus' it is), the more the verb is marked, usually by prefixation.
+Changes in word order then would be another way of doing that.
+
+Holger Nath
+
+3)----------------------------------------------------
+Date: Thu May 26 03:37:38 1994
+From: anno4000@w172zrz.zrz.TU-Berlin.DE
+Subject: Re: Yiddish first names
+
+In Mendele 4.008 lew@bnr.ca (pierre (p.) lewis) wrote:
+
+>Is there any standard work (that I can expect to find at the McGill
+>library where they have thousands of Y books) that contains a list of
+>[the more common] Yiddish first names...
+
+Salomon A. Birnbaum _Grammatik der Jiddischen Sprache_ has an appendix
+containing lists of the most common eastern Yiddish first names, female
+and male names being listed separately.  The names are given in Hebrew
+characters.  I don't have the book with me, but I think no further
+explanations or equivalents in other languages are given.
+
+This may not be exactly what you are looking for, but maybe it helps.
+
+Regards, Anno Siegel
+
+4)----------------------------------------------------
+Date: Wed May 25 20:52:35 1994
+From: BM.YIB@RLG.Stanford.EDU
+Subject: Jewish/Yiddish names
+
+There have been a number of queries regarding sources for first names
+among Eastern European Jews.  Here are some suggestions:
+
+Alexander Harkavy's "Yiddish-English-Hebrew Dictionary," 2nd ed. (New
+York:  Hebrew Publishing Co., 1928; reprinted by Schocken and YIVO,
+1988), includes a section on Jewish names and their English equivalents
+(pp. [525]-530).  His explanations are not 100% reliable and his list is
+incomplete; nevertheless, it is the most widely available source that I
+know of, on Yiddish forenames. Under "Zishe," for example (p. 527), there
+is a cross-reference to "Zisye," whose "English" equivalent is given as
+"Zissia," without any further glosses.  Another name that is close in
+sound to Zishe and Zisye is "Zusye" ("English" equivalent:  Zussia; also
+unglossed by Harkavy).  And then there is the masculine name "Zisl," an
+apparent diminutive of "Ziskind" (since they are listed together by
+Harkavy) -- "English" equivalents:  "Zissl" and "Zisskind." These are
+glossed by Harkavy:  "Zisl un Ziskind vern tsugegebn tsu dem nomen
+Aleksandr" -- i.e., they are associated with that name (but may not
+actually derive from it).  Is it possible, then, that Zishe, Zisye and
+Zusye are variants of the masculine Zisl?  The feminine name "Zisl" and
+its variants "Zisle" and "Zise" are not glossed by Harkavy but are given
+the following equivalents: "Zissl," "Zissla," "Zissa (Dulcia)."  The last
+item does bear out the seemingly obvious connection of the feminine Zisl
+with Yiddish "zis" (sweet).  Harkavy, however, distinguishes between the
+masculine and feminine names without discussing whether they share a
+common etymology.
+
+"A Dictionary of Jewish Surnames from the Russian Empire," by Alexander
+Beider (Teaneck, NJ:  Avotaynu, 1993), deals -- as its title indicates --
+with surnames.  But since many of these are formed on the basis of
+forenames this can be a useful source for explaining them.  Beider's
+"Dictionary" is a work of prodigious scholarship (close to 800 pages of
+very small print); it should be pointed out that Beider is not a Yiddish
+specialist, and some of his glosses may be erroneous.  (I did not have a
+chance to check his book for "Zishe," etc.)
+
+"A Dictionary of Jewish Names and Their History," by Benzion C. Kaganoff
+(New York:  Schocken Books, 1977), is unfortunately not very strong in
+its coverage of traditional Eastern European Jewish names.
+
+For Hebrew names, there is the famous "Idish verterbukh" by the poet
+Yehoash and Dr. Khayim (Charles) Spivak (New York:  1912; 1926).  The
+title is a misnomer; it is a dictionary of Hebrew elements in Yiddish,
+and among these elements are Hebrew first names (pp. [319]-325) and
+family names (pp. [326]-330). While the Yehoash-Spivak dictionary is in
+some ways dated (as is, for that matter, the 1928 Harkavy), it deserves
+to be reprinted, with a new introduction (since the story behind it is
+probably quite interesting -- the co-authors met, I believe, in Denver,
+where Dr. Spivak was on the staff of a tuberculosis sanatorium and
+Yehoash was one of the patients); it is not widely available these days.
+
+There is much more to the bibliography of Jewish and Yiddish names than I
+have listed here; this was just a forshpayz.
+
+Zachary Baker
+
+5)----------------------------------------------------
+Date: Wed May 25 23:04:18 1994
+From: hn6@columbia.edu
+Subject: first names
+
+Yiddish first names:
+
+Harkavy's amerikanisher brivnshteler (New York 1902), pp. 227-236 lists
+first names in Yiddish/Hebrew and the English equivalent (however no
+pronunciation of the Yiddish).
+
+Stankiewicz, Edward.  1980.  "The derivational pattern of Yiddish
+personal (given) names"  in : _The field of Yiddish: studies in language,
+folklore, and literature.  Fourth collection_.  Herzog, Marvin I.;
+Kirshenblatt-Gimlett, Barbara;  Miron, Dan;  Wisse, Ruth <ed>
+Philadelphia: ISHI, pp. 267-283
+
+It has list of names and derivations of first names, although no Hebrew
+spelling.
+
+Holger Nath
+
+6)----------------------------------------------------
+Date: Wed May 25 23:25:33 1994
+From: rar@slavic.umass.edu
+Subject: Priziv vs. priyut
+
+Alice Honig (4.007) is right in understanding _priziv_ (from Russian
+_prizyv_) as 'draft' in the song "Yoshke fort avek," but she is wrong in
+identifying it with the word _priyut_ (also from Russian) cited from an
+Iza Kremer song by Rick Gildemeister (4.006).  The song Rick referred to
+is known variously as "Dem ganefs yikhes" or "Vos bistu kotenke/ketsele
+baroyges."  The last line of the version in Kipnis's collection is "Un
+genumen bin ikh fun priyut" ("And I was taken from the orphanage").
+
+Bob Rothstein
+
+7)----------------------------------------------------
+Date: Thu May 26 09:23:57 1994
+From: EEGLC%CUNYVM.bitnet@YaleVM.YCC.Yale.Edu
+Subject: Er freyt zikh in Kovne
+
+One of the curious phenomena in Yiddish is the element of superstition.
+Because it Northeast Yiddish voynen is pronounced veynen, you find the
+keyn-aynore formulation replacing the "unsafe" term. Ikh veyn in Kovne
+becomes Ikh frey zikh in Kovene.
+
+This phenomenon is well-known, but among what sector of the population
+did this occur? There is possibly a class distinction, too. I know a man
+who speaks Polish Yiddish, but it doesn't sound at all grating, as it
+usually does when a shadkhen from Galitsye is parodied on the stage. His
+family was quite balebatish, and his parents had assimilated names but
+not anything relating to Christianity. His words come out soft and clear.
+But the Litvaks have their "coarse" language, which is done to the hilt
+by Menashe Skulnick
+
+To get back to the main point, among whom did one find these
+superstitions?
+
+Rick Gildemeister
+
+______________________________________________________
+End of Mendele Vol. 4.009
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

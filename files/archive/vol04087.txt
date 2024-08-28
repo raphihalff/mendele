@@ -1,0 +1,140 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.087
+August 17, 1994
+
+1) Electronic On-Line _LCAAJ_ Archives (Andrew Sunshine)
+
+1)----------------------------------------------------
+Date: Wed, 17 Aug 94  15:38 EDT
+From: ansur@cuvmb.Columbia.edu
+Subject: Electronic On-Line _LCAAJ_ Archives
+
+1. I'd like to open and close this message by thanking all those who have
+so far responded (either on Mendele or to Mikhl Herzog and me) to my
+previous posting on the subject of a proposal to transform the Archives
+of the _Language and Culture Atlas of Ashkenazic Jewry_ into an
+electronic on-line data archives.
+
+2. Re: Ellen Prince's suggestion that the goals of computerizing the
+LCAAJ Archives be streamlined at this stage, "leaving out, for the first
+stage at least, the dialectological tagging/addressing." There's no
+question that the task of preserving the _LCAAJ_'s interviews on other
+media is extremely urgent since the reel-to- reel tapes on which they
+were originally recorded are anywhere from 20 to 35 years old and no
+systematic set of duplicate tapes exist. If measures to preserve the
+tapes are not taken soon, then we will begin to lose interviews; in
+losing interviews we lose what may be the only systematic representation
+we have of the Yiddish of particular locations in Europe. The
+preservation of all 600 Atlas interviews (an estimated 6000 hours of
+tape) both in a reel-to-reel analog tape master and in a digitized,
+computer-stored version is a task that cannot wait.
+
+However, our intention in digitizing the interviews is to combine the
+goal of preservation with that of access. To be sure, to tag all 600
+interview/6000 recorded hours in addition to digitizing them is a
+humongous task. (It is, more precisely, an OPEN-ENDED task, as I shall
+explain shortly.) While the preservation task is paramount, it also seems
+to be in the interest of our long range goals to demonstrate the
+viability of electronic access. Thus, our intention, for the more-or-less
+immediate future, is to do the tagging for 100 of the interviews, as
+well--in effect, to create a kind of usable skeleton of the Yiddish
+language map to be filled in progressively, but perhaps never to be
+completed so long as there are students of Yiddish.
+
+Ellen Prince's note suggests that she sees a distinction between
+dialectological and other kinds of tagging of the data, e.g., syntactic.
+If there is anything to such a distinction, then perhaps my reference to
+"covert dialectological issues" in my original posting was an unfortunate
+choice of words. In other words, the _LCAAJ_ data is intended to be
+representative of Yiddish in its geographic variation, and accordingly
+lends itself to such study-- but not only to such study. It is amenable
+(in principle) to whatever interests researchers bring to their scrutiny
+of the data.
+
+Indeed, it has already happened at least once in the course of processing
+the interviews that issues not found on the original list (the so-called
+"Index to the Dialectology" or ID) and not used in the construction of
+the field questionnaire but suggested by the data were added as matters
+worthy of future exploration. (_LCAAJ_ Volume II due out this fall
+includes the original "Index to the Dialectology" and the addenda
+[Chapter V].) And it will certainly happen again. (It is in part because
+we anticipate such additions and amendments to be made on a continual
+basis as the data is intensively studied that database will be an on-line
+resource, rather than a fixed entity to be disseminated on CD Rom.
+Continual development of the archives is very much a part of the
+conception.)
+
+In short, we look forward to the introduction of whatever sort of
+syntactic tagging you may have in mind (it hardly needs to be mentioned
+that the world of syntactic theory has changed since the original list of
+issues was drafted by Uriel Weinreich in 1959).
+
+All of this is perhaps nothing more than a long-winded version of Dovid
+Braun's remark: "... the dialectological aspect of the Atlas ... is the
+core of the Atlas!"--using the word "dialectological" to refer to the
+conceptual/analytical categories for studying the interviews. In other
+words, the field questionnaire was designed to elicit short answers on a
+variety of topics, both overt (Q: VOSER HOBN YIDN GEREDT? A: YIDISH) and
+covert (ID 110: typical development of Yiddish Proto-vowels 32, 33; and
+ID 302: functional status of _j_ before _i_--both of these bearing on the
+renditions of YIDISH). (Compare the rather different focus of oral
+history interviews and the consequent structure of oral history texts.)
+
+While Dovid's contribution to the discussion is basically on the mark, it
+doesn't take into account (because I hadn't been sufficiently explicit on
+this point in my original posting) our intention of including the audio
+recordings in the on-line database and of affixing the tags to segments
+of these recordings (and secondarily to the transcripts). Thus, accurate
+though his comments may be about Atlas transcriptions in general and the
+absence of transcriptions longer than a phrase in particular, they don't
+in themselves disqualify Professor Prince's interest in running text.
+Moreover, if the audio recordings are available, then there seems to be
+no reason not to turn to the interviews as a possible source of running
+text--whether that is taken to refer to the text of individual responses
+to questions or to an interview conceived as a whole text.
+
+Even so, the Atlas is, as Dovid aptly characterizes it, a "plotting
+tool," rather than a corpus of running text. That is, the data lends
+itself to the sort of research in which the investigator wants to know
+how a given question (or perhaps set of questions) was answered at all
+interview sites, rather than to research in which the investigator wants
+to know how all the questions were answered at a single location.
+However, the real-time sequence of information on the recordings as they
+are now stored would better serve the purpose of the latter (hypothetical
+approach) than the former. The best way to facilitate retrieval of
+parallel responses to single questions (or parallel instances of a given
+linguistic phenomenon) is to introduce paths of electronic access. Among
+other things, this will benefit those working on further volumes of the
+book-form Atlas.
+
+3. See 1.
+
+Andrew Sunshine
+
+______________________________________________________
+End of Mendele Vol. 4.087
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

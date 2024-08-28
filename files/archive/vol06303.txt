@@ -1,0 +1,139 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.303
+May 14, 1997
+
+1) Moronmentsh and Yiddishisms in Hebrew press (Mikhl Herzog)
+2) Personal romanization guides may be misguiding (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Wed, 14 May 97 16:02 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Moronmentsh and Yiddishisms in Hebrew press
+
+A propos of Leonard Prager's excellent piece (now one of many)
+"Reflections on _mentsh_" [TMR, 1.005]. It's possible that the
+following comments actually repeat earlier postings among the many
+that Leonard lists. Forgive me if I repeat myself.
+
+1. In my own field research, conducted among Yiddish speakers in
+Israel in the early 60s, every speaker invariably translated the
+Hebrew word _ish_ as _mentsh_; never as Yiddish _man_: _dort geyt a
+mentsh mit tsvey froyen_; _der mentsh mitn vayn_, etc. Yiddish _man_
+as the gloss for English 'man' is the rule only in America.
+
+2. Note that _dos mentsh_ refers to a female.
+
+3. In an 18th century Yiddish text (Moyshe Makuze's _Seyfer
+refues_, 1790), _an orimmEntsh_ (in contrast to _orimAn_) refers
+to a 'poor woman'.
+
+Uriel Weinreich lists both _dos mentsh_ and _orimmEntsh_.
+
+In general, the use of Yiddishisms in the Hebrew press, as well
+as in Modern Israeli Hebrew, is a subject worthy of study. Aside
+from Yiddish words of non-Hebrew origin, one should be on the
+lookout for variants like _bitOkhn_ as against _bitakhOn_,
+_shOlem_ as against __shalom_, _kIbetz/kibUtz_, _alIye/aliyA_,
+and the like.
+
+As for the press, in particular, I wonder how many Israelis
+recognize the Yiddishism in the name of the weekly (humor?)
+supplement to the newspaper _Davar_, _DavAr AkhEr_, better known
+in what the Even Shoshan dictionary describes as the _safa
+meduberet_ as _dOver-akher_. The joke is on those who fail to
+recognize this.
+
+PS: I'm sure Leonard intended to write _Ho-Rav Shloyme-Zalmen
+Oyerbakh_ rather than _Ha-Rov . . ._
+
+Mikhl Herzog
+
+2)----------------------------------------------------
+Date: Wed, 14 May 1997 17:31:24 -0400 (EDT)
+From: zellig@aol.com
+Subject: Personal romanization guides may be misguiding
+
+In _Mendele_ (6.291,2) Freydl Cielak wrote:
+
+    I myself have done a transcription guide [for romanization] that I
+    suggested for the beginners-level in my Yidisher Briv-Fraynd Club
+    which I am not sure if it is the correct one.
+
+Freydl is right.  It is _not_ the correct one.
+
+She stipulates in her transcription guide to use the letter /y/ for
+the initial sound as in Yiddish, yid, yidn.  Then she offers two
+examples: "Shpyl" and "Shyikhn."  What does the /y/ do in "Shpyl"? The
+Roman letter /i/ represents quite well the Yiddish-Hebrew khirek yud,
+therefore "shpil." And what does the /y/ do in "shyikhn"?
+
+The letter /y/ serves other romanization functions than the initial
+sound in Yiddish.  It also represents the sound of the diphthong /ey/,
+representing the contiguous tsvey yudn, as she herself uses in the
+romanized spelling of her first name Freydl;  as well as the diphthong
+/ay/, for pasekh tsvey yudn, as in _vayn_.
+
+Additionally, the letter /y/ _softens_ the sound of some consonants,
+such as the /n/ in  "hartsenyu" or the /l/ in "Lyesin" (Yiddish poet).
+In Yiddish this purpose is accomplished by the addition of the letter
+/yud/ after the consonant.
+
+It took decades to rid Yiddish spelling of unnecessary letters, such
+as the "shtume" (silent) /heys/ and superfluous /ayens/. I therefore
+strongly feel that her attempt at re-introducing the "shtume" /heys/
+goes counter to the spirit of modern Yiddish orthography.   Her
+suggestion to add an /h/ after the letter /a/ would only _lengthen_
+the sound of /a/ while in Yiddish it is short.
+
+It is often overlooked, or simply forgotten, that proper Yiddish
+romanization demands a well-grounded knowledge of the written/printed
+spelling of Yiddish. Otherwise, we may encounter such romanized
+monstrosities as a "glues tay" for a 'gloz tey' or "tzouris" for
+'tsores.'  In both instances the struggle to recapture the correct
+sounds and their Latin letter representations can be readily
+discerned.
+
+In connection with transcribing Yiddish in Latin letters, Max
+Weinreich wrote:
+
+    Undzer yidisher oysleyg hot di groyse mayle vos er dint far ale
+    dialektn. Mir shraybn _tog_,leyenen es vilner yidn mit /o/, un
+    varshever yidn mit /u/...   heyst es az undzer oysleyg iz zeyer a
+    praktisher un a hantiker." [Our Yiddish spelling has the big
+    advantage that it serves all dialects. We write _tog_,  and Jews
+    from Vilne read it with an /o/, and those from Varshe read it with
+    an /u/. Thus is our spelling a very practical and accessible one.]
+    (_Di Shvartse Pintelekh_, p. 23!.).
+
+I am fully cognizant of the anomaly in the life of Yiddish:   Many
+lovers of Yiddish did not have the occasion to learn Yiddish as a
+school subject, and often go by the aural memories of the sounds of
+Yiddish spoken by parents or grandparednts.   As I had occasion to
+mention in an earlier post, aural memories of words spoken in the long
+ago are not a reliable source for transcription.  Besides, the
+speakers themselves were not necessarily schooled in  Yiddish.
+
+As an ideal,  Yiddish romanization must therefore aim to represent a
+supra-dialectal spelling   If we were to romanize  according to
+dialects, we would wind up with a fragmented, splintered Yiddish and
+lose the unifying, national character of one common romanized spelling
+for Yiddish.
+
+I naturally realize that such an ideal is certainly not in sight, not
+even in the near future,  but it behooves us to discuss the problem
+and to articulate it now.
+
+This will certainly not be achieved by personally constructed guides
+that unintentionally may reflect individual biases and histories.
+
+A good, reliable romanization guide is found on p. xxi of Uriel
+Weinreich's _Modern Yiddish-English/English-Yiddish Dictionary_.
+
+Zellig Bach
+Lakehurst, NJ
+
+______________________________________________________
+End of Mendele Vol. 6.303
+

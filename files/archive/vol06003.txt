@@ -1,0 +1,132 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.003
+May 20, 1996
+
+1) Tshatshke/tsatske (Paolo Agostini)
+
+1)----------------------------------------------------
+Date: Sun, 12 May 1996 19:46:56 +0200
+From: pagos@mbox.vol.it
+Subject: Nokh a mol iber tshatshkelen
+
+Harvey Spiro in his sagacious posting [5.315] noted:
+
+     Jastrow's 1903 Dictionary of the Talmud cites the word tsa'atsu'im (root
+     tsadi-ayin-tsadi-ayin), used in the Tanakh in II Chronicles (3,10), to
+     mean "miniatures, babes, dolls." Ignoring the late 20th century slang
+     meaning of  "babes," we have a potential source for the [tshotshke = toy,
+     knickknack] meaning, plus a potential link to [tsatske = attractive
+     female]. The second Hebrew word, sh'a'shu'a (shin-ayin-shin- ayin)
+     appears first in Rabbinic Hebrew, according to Jastrow, who cites it in
+     Tankhuma, Cant. R. and Pesikta R., meaning "delight, pleasure."
+
+A hartsiken dank to Harvey Spiro for drawing our attention to the Hebrew words.
+
+As a matter of fact the word tsa'atsua' (tsadhe - 'ayin - tsadhe - waw -
+'ayin) -- a hapax legomenon in the Bible, occurring Chron. II 3:10 in the pl.
+(tse'atsu'im) -- has the meaning of "image work, carving, casting, things
+formed by metal-casting" (the meaning in Modern Hebrew is "toy").
+
+There's also a verb, i.e. ts'ts' (tsadhe - 'ayin - tsadhe - 'ayin),
+denominated from tsa'atsua. It means  "to adorn, ornament". This verb supplies
+a key  to explain the further meaning of "attractive, comely (woman)".
+
+The second  Hebrew word mentioned by Harvey Spiro does not explain the meaning
+of "attractive". To wit,  sh'sh' (shin - 'ayin - shin - 'ayin) is the Pilpel
+form of the verb shin - 'ayin - 'ayin (="to smooth, to besmear" and "to pat
+on" whence the further meanings of "to play (at)" -- e.g. Is 11:8 -- and "to
+treat fondly, to caress" -- e.g. Ps 94:18) (see Holliday, W.: A concise Hebrew
+and Aramaic Lexicon of the Old Testament. Leiden, 1988).
+
+Therefore the base  sh'sh' (shin - 'ayin - shin - 'ayin) has two meanings:
+
+(A)  'to smooth, to besmear' (although it occurs in the Hitpalpel form only,
+in the meaning 'to blind oneself',  lit. 'to paste one's eye, to be stuck shut
+-- of eyes' ), as well as
+
+(B)  'to take delight, to delight' -- cp. also the meaning of its Pilpel form
+shi'asha': 1. trans. "he delighted, amused, entertained"; 2. intr. "he
+sported, played, was amused" (see also Klein, E.: Etymological Dictionary of
+the Hebrew Language, Haifa and Jerusalem 1987)
+
+From a strictly semantical point of view, I would discard this base as a
+possible origin of the Yiddish word.
+
+Harvey Spiro poses then a very shrewd question: who borrowed from whom?  Was
+the source for the Yiddish words Slavic or Hebrew?
+
+What if the source of  both  Slavic and Yiddish was Hebrew?
+
+As a matter of fact,  Slavic languages seem to have preserved several words of
+Aramaic-Hebrew (Aramit) origin.
+
+Cp. for example  Slavic *k6lbasa or *klobasa (=sausage) which, in Bernecker's
+eyes, originates from Hebrew "kol basar" (approx. "all meat"), although
+Bernecker was unable to explain how did the Hebrew compound-word get into
+Slavic (see Bernecker, E.: Slavisches etymologisches Woerterbuch. Heidelberg,
+1908-1913, I:514) .
+
+The Slavic word "beseda" (=speech) possibly belongs to the same layer. Its
+etymology is unknown to date. Yet, IMHO, it could be related to Hebrew
+"beseder" (= in order, arranged). "Seder" in Post-Biblical Hebrew had the
+meaning of "succession, sequence, arrangement, order" (this is why the word is
+used as  name of each section of the Mishnah). And a speech is nothing but a
+succession of arguments put into a certain order.
+
+The loss of the final consonant both in "kolbasar" and "beseder" is evidently
+due to the well-known fact that in earlier times the Slavic languages
+preferred words having "open" syllables (i.e. syllables ending with a vowel).
+In loanwords, this phenomenon caused the apocope of the ending consonant of
+words.
+
+Even a "typically Slavic" word like kosa ~ kasa  (=scythe)  is probably
+related to the Aramaic, Syriac and Hebrew verb QSX  (i.e. khaph - samekh -
+cheth),  the meaning of which is "to cut off, trim, mowe".
+
+The same applies to the Slavic verb  kopati  'to hoe, hack', which is possibly
+related to the Hebrew verb QFX (i.e. qoph - phe - cheth) 'to beat, strike'
+(cp. also Hungarian kapa 'hoe, hack').
+
+The  Slavic word  kopac^  'a tool to fallow the land, to break the soil'  is
+probably an early borrowing from Hebrew qofits 'hatchet, chopper' (the latter
+deriving from the verb QFTS, i.e. qoph - phe - tsadhe,  'to chop, cut').
+
+As concerning the concordance of Hebrew  tsadhe versus Slavic tsh, we have to
+remind that the tsadhe was used and  pronounced as an emphatic _s_, to say it
+could easily turn into a tsh. Further evidence is supplied by medieval Hebrew
+sources,  e.g.  the Turkish dignitary title of "talmatsh" (~ "tilmatsh") was
+translitterated as teth - lamadh - mem - tsadhe (!).
+
+Incidentally, the agro-technical words mentioned above show that  the ancient
+Slavic peoples were probably taught basic agricultural practices by the Jews.
+*** How and when did these borrowings take place in the Slavic languages? H
+Baratz maintains that in the oldest Russian writings of a legal character
+there are Hebrew, mostly Biblical-Talmudic elements, and that these go back to
+Khazar times. Thus the fact that early Russian codes, including the "Zakon
+sudni liudem" ("Law for the Judging of the People"), contains traces of Mosaic
+and talmudic legislation, is due not to contact with the Catholic West, as has
+also been maintained, but to the influence of the Jewish Khazars. This view
+has been characterized by a Russian academician  (I. V. Yagich) as "a scarlet
+thread for everyone to walk by"  (Encyclopaedia Judaica , "Khazars", p. 948)
+
+N. Golb and O. Pritsak supplied further evidence to  the presence of Khazarian
+Jews in Kiev during the last years of the 9th century, i.e. when the bulk of
+Slavic wordstock -- and the Russian state -- were "in statu nascendi". It is
+common knowledge that before the Rus' conquered Kiev, the city was under
+Khazarian administration (Golb-Pritsak: Khazarian Hebrew Documents of the
+Tenth Century. Cornell University Press, 1982).
+
+IMHO the  Slavic word for _tshatshke_ is most likely a Hebrew loanword. There
+is an open question, though. Is the Yiddish word a Slavic loanword, or does it
+belong  to the most ancient layer of the Yidishe mameloshn instead?
+
+Any comments would be appreciated. Kindest regards
+
+Paolo Agostini
+Padova, Italy
+
+______________________________________________________
+End of Mendele Vol. 6.003
+

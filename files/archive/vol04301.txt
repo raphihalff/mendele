@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.301
+January 30, 1995
+
+1) Locating a Yiddish story (Alan Shuchat)
+2) Davening (Al Madansky)
+3) Sholem-Aleykhem's passion for Zhargon (Louis Fridhandler)
+4) Galitsianer (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Mon, 30 Jan 1995 13:29:54 -0500 (EST)
+From: ashuchat@wellesley.edu
+Subject: Locating a Yiddish story
+
+I recall reading a story in Yiddish a number of years ago about a man who
+carried out a sequence of business deals that amounted to arbitrage. I
+think he sold some animal or commodity that he didn't own and then bought
+and sold a bunch of items in order to come up with what he needed to
+close the original deal. In the end, he made a profit. Perhaps the man
+told this story to some others he met on a train, but I'm not sure.
+
+Does anyone know the story and where I can find it? I tried looking at
+Sholem Aleichem's railroad stories but didn't see it there.
+
+A sheynem dank,
+
+Alan Shuchat
+Wellesley, Mass.
+
+2)----------------------------------------------------
+Date: Mon, 30 Jan 1995 12:32:00 -0600
+From: fac_albert@gsbvxc.uchicago.edu
+Subject: Davening
+
+Stimulated by Philologos's Forward article on the origin of the word
+"davenen," my nonagenarian uncle Dr. Joseph Liebenson sent me a (snail
+mail) note indicating that he thought that the word might be a corruption
+of the word "d'avuhen,"  literally, from the fathers (or patriarchs), in
+that in Talmud Brachot it is indicated that the "avot" established the
+prayers: Abraham establishing shacharit, Isaac establishing mincha, and
+Jacob establishing Maariv.
+
+He has since told me that he recently looked up the term "tefilot"
+(prayers) in Yehuda David Eisenstein's "Otzar Dinim uMinhagim", and, on
+p. 443, Eisenstein says (and I translate) "Today we term the prayers
+"davenen", because their source is from the patriarchs (d'avuhen)".
+
+I apologize if this origin has already appeared in mendele; as is done by
+the rest of you "chevre," I skim items in which I'm not particularly
+interested (but would vote to keep them on, rather than splitting the
+list, "rev shames").
+
+al madansky
+
+3)----------------------------------------------------
+Date: 30 Jan 95 14:49:26 EST
+From: 74064.1661@compuserve.com
+Subject: Sholem-Aleykhem's passion for Zhargon
+
+I'm resubmitting a message on this topic because it seems the original
+may have been eaten by Unix. [Noyekh: I, too, know nothing about Unix,
+but I hear it is a sly trickster.  My computer has also devoured but not
+digested an e-mail message or two.  The computer did not need Maalox, but
+I did.]
+
+Sholem-Aleykhem wrote many letters to Yakov Dinezon (starting even before
+embarking on his massive anthology projects, 1888 and 1889).  In some he
+expressed his passionate devotion to Zhargon.  His exuberance bordered on
+rash intemperance which perhaps distracted him from attending to
+financial danger signals.  It was probably a factor leading to his
+bankruptcy in the fall of 1890.  It took time then for his passion to be
+rekindled.  (Lucky for us and the world of Yiddish that by 1894 he was
+inspired to begin creating Tevye.)
+
+On Dec. 28, 1887 he writes in Yiddish to Dinezon (whom he had not yet met
+personally): "I love Zhargon like...  But for what?"  And then complains
+to Dinezon about the poor treatment Zhargon was then accorded in Dos
+Yidishe Folksblat.  He continues the long letter in Russian in which he
+cries out: "I'm crazy for Zhargon, but heed the crazy one who in this
+case is sincere, candid and devoted to Zhargon, almost ready for
+self-sacrifice."
+
+On Jan. 5, 1888 Sholem-Aleykhem complains again about the editor of Dos
+Yidishe Folksblat, exclaiming, "Zhargon is dearer to me than my honor
+[russifying it  'gonor']."  He ends the letter, "How painful it is to see
+how they slop around the market-place with Zhargon."
+
+Letters cited in an article by Nachman Meisel in _YIVO Bleter_ volume 1,
+pages 390 and 394, 1931.
+
+Louis Fridhandler
+
+4)----------------------------------------------------
+Date: 30 Jan 95 16:40 EST
+From: nmiller@mail.trincoll.edu
+Subject: Galitsianer
+
+In November 1992 there appeared a long article by Leonard Prager
+(Vol 2.88) which dealt with three figures: Mordecai Gebirtig,
+Ignacy Schiper and Dov Sadan.
+
+Here is part of the covering note:
+
+   Date: Thu, 29 Oct 92 12:47:36 IST
+   From: Leonard Prager <RHLE302@HAIFAUVM.BITNET>
+   Subject: Galitsianer
+
+   Dear Noyekh, I note that there has been a discussion about
+   _galitsianer_ in my absence.  You asked me to report on my doings and
+   so perhaps I'll start by sending you a copy of the talk I gave in
+   Galicia.  This is not for publication yet, but I see no harm in
+   excerpting much of the first half that has to do with who Galician
+   Jews are and how they and others see them and see Galicia.  I trust
+   your judgement here.
+
+Alas, the reliance in the shames' judgement was misplaced.  The job was
+botched.  But not to worry.  Mendele's Harold Orbach, in addition to
+carrying on a _very_ active professional and intellectual life, seems to
+find time to go through back issues and edit them properly.  (If he
+weren't a tsadik gomer one could hate him.)
+
+The Orbach version is a) much better and b) complete.  The article itself
+is very fine.  Taken together with the fact that the majority of
+Mendele's subscribers never saw it the first time around, republication
+is in order.  Because of its length it will be issued in three install-
+ments.  It will also be placed in the archives as a single file.
+
+And to Leonard Prager and Harold Orbach: a hartsikn yasher koyekh!
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.301
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

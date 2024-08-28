@@ -1,0 +1,176 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.292
+March 18, 1994
+
+1) Introduction (Khave Menukhe Gold)
+2) Aspect: shatsn vs opshatsn (Shleyme Axelrod)
+3) Tolkien, Golem, and Bubbis (Mark Flumerfelt)
+4) Bernstein's proverbs, fir kashes (Iosif Vaisman)
+5) Rosenfeld's Prufrock (Shleyme Axelrod)
+6) Introduction and Isaac Rosenfeld (Mark Schechner)
+
+1)----------------------------------------------------
+Date: Thu Mar 17 10:50:13 1994
+From: egold@epas.utoronto.ca
+Subject: Introduction
+
+I've been lurking for some time and I figure it is time to introduce
+myself. My name is Elaine Gold and I am a PhD student in Linguistics at
+the University of Toronto. I have been doing some work on Yiddish syntax
+and history. I am not a native Yiddish speaker, but learned Yiddish at
+kheder and at university. I've been enjoying the wide-ranging discussions
+on Mendele, but of course I'm most interested in linguistic topics.
+
+Elaine (Khave Menukhe)
+
+2)----------------------------------------------------
+Date: Thu Mar 17 12:28:08 1994
+From: <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: Aspect: shatsn vs opshatsn
+
+In an article about the funeral for one of the victims of the Brooklyn
+Bridge shooting, the Yiddish Forverts (Mar. 11, 1994) writes "A vortzoger
+fun di lyubavitsher hot OPGESHATST, az in der levaye hobn zikh bateylikt
+arum 12 toyznt perzon.  Di politsey hot ober GESHATST di tsol onteylnemer
+oyf iber 5 toyznt."  How can the difference between opgeshatst and
+geshatst be expressed in English?  Would this do?:  "Although a
+spokesperson for the Lubavitchers ESTIMATED that about ... , the police
+WERE ESTIMATING that ... "?  Or, "Although a spokesperson ... HAD
+ESTIMATED ... , the police ESTIMATED ..."? Is there a hint of disdain on
+the part of the writer for the implied exaggeration by the vortzoger?
+(Differences between participants' estimates and those of the police are
+not uncommon, of course.)
+
+--Shleyme Axelrod
+
+3)----------------------------------------------------
+Date: Thu Mar 17 13:17:52 1994
+From: <MARKF@VM1.YorkU.CA>
+Subject: Tolkien, Golem, and Bubbis
+
+Jay Lee suggests that the character Smaug in Tolkien's The Hobbit has a
+Yiddish origin.  I have often wondered the same thing about Tolkien's
+character Golem (I think that is how it is spelled).  Tolkien's
+background was South African and Catholic so I don't know how he would be
+acquainted with the Yiddish language.  It's an interesting supposition
+though.  I would also like to repeat a question I asked a few issues ago.
+Why is it that Jews in Toronto use the pronunciation Bubbi and Zedi,
+while Jews in Montreal use the pronunciation Baubi and Zeda.  By the same
+token, my South African fiance uses the pronunciation Boba and Zeda.  I
+think it has to with the differences between Polish, Russian and
+Lithuanian Yiddish but I could be wrong.  What do you think?
+
+Mark Flumerfelt
+
+4)----------------------------------------------------
+Date: Thu Mar 17 14:27:00 1994
+From: <iiv@mmlds1.pha.unc.edu>
+Subject: Bernstein's proverbs, fir kashes
+
+Leonard Prager mentioned the 'erotic part' of Ignats Bernshtein's
+collection of Yiddish proverbs. It was translated into English and
+published in 1975 (including transliterated Yiddish original):
+
+            TITLE: Erotica et rustica. Yiddish sayings mama never taught
+                   you / [compiled by Ignaz Bernstein ; translated by
+                   Weltman & Zuckerman].
+      PUBLICATION: [Van Nuys, Calif.] : Perivale Press, [1975]
+      DESCRIPTION: xi, 99 p. ; 22 cm.
+           SERIES: Perivale translation series
+            NOTES: Translation of Erotica et rustica.
+            NOTES: Added t.p. in Yiddish.
+            NOTES: English and Yiddish with transcription in Roman characters.
+          SUBJECT: Erotic proverbs, Yiddish.
+      ADDED ENTRY: Bernstein, Ignacy, 1836-1909.
+      ADDED ENTRY: Weltman, Gershon, 1936-
+      ADDED ENTRY: Zuckerman, Marvin S.
+
+Fir Kashes in Yiddish are available in postscript format from the
+Nysernet gopher (URL:gopher://nysernet.org:71/00/.israel.arch/graphics/
+4kashes.big and gopher://nysernet.org:71/00/.israel.arch/graphics/4kashes).
+
+These two files have different font size. I can mail them to those who
+don't have gopher or WWW access. But if you use gopher, look into
+Nysernet: you'll find many other mytsiyes as well.
+
+Iosif Vaisman
+
+5)----------------------------------------------------
+Date: Thu Mar 17 16:58:45 1994
+From: <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: RE: Rosenfeld's Prufrock
+
+I agree, Noyekh, that parodies af yidish (and often af english) can be
+sophomoric and painful.  But I remember bursting out laughing the first
+time I read "In tsimer vu di vayber zenen/Redt men fun Karl Marx un
+Lenin."
+
+Genuine translations, rather than parodies, can be interesting, even
+striking. I have a Yiddish version of Longfellow's "Hiawatha" by Yehoash
+(!), who was able to retain the original meter--no surprise, I guess, for
+a poet who could put the whole Tanakh into Yiddish.
+
+Shleyme
+
+6)----------------------------------------------------
+Date: Thu Mar 17 17:55:16 1994
+From: SHECHNER@ubvms.cc.buffalo.edu
+Subject: Introduction and Isaac Rosenfeld
+
+I'm the new kind on the internet and understand that it is part of my
+initiation to make a short speech of self introduction.  Ah hem. [cough]
+
+I'm Mark Shechner, professor of English at SUNY, Buffalo, and I've
+written here and there about Jewish writers and intellectual life in
+America.  I've got one book that is sort of about the New York
+Intellectuals titled After the Revolution, a book of essays titled The
+Conversion of the Jews, and a collection of the essays and stories of
+Isaac Rosenfeld, Preserving the Hunger.
+
+Is that enough?
+
+But that segues into my next message, which is the Prufrock parody of
+Isaac Rosenfeld.  I had it around the house years ago in a version that
+Daniel Bell had published somewhere.  Bell has a prodigious recollection
+for such things and transcribed it from memory.  I can't find it now, but
+will look around the house.  But I do recall these wonderful lines.
+
+In tsimer vu di wayber zenen
+Redt men fun Karl Marx un Lenin
+
+Ikh ver alt, ikh ver alt,
+Un der pupik vert mir kalt
+
+Those were the high spots, as I recall, but surely the rest is around here
+somewhere.  Now, let's see.
+
+Sincerely,
+
+Mark Shechner
+
+______________________________________________________
+End of Mendele Vol. 3.292
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net

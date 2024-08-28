@@ -1,0 +1,139 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 157
+March 12, 1993
+ 
+1) Yiddish hagaddas (Sarah Stein)
+2) FTP at last! (Noyekh Miller)
+3) Baholeh (confusion reigns) (Mottel Lakin)
+
+1)----------------------------------------------------
+Date: Wed Mar 10 23:54:08 1993
+From: ST801298@BROWNVM
+Subject: Yiddish hagaddas?
+
+Since the season is nearly upon us, this question may have
+only frantic repercussions:  but I will give voice to my
+question anyway. I have heard tell of a Yiddish hagadda
+with, presumably, socialist overtones--does anyone know how
+I can procure a copy?  I would appreciate any suggestions
+or historical contexts.
+
+Sarah Stein
+
+2)----------------------------------------------------
+Date: Thur Mar 11
+From: nmiller@dot.trincoll.edu
+Subject: FTP at last!
+
+Mendele is happy to announce that subscribers can now
+retrieve back numbers.  The procedure is via "anonymous
+ftp" which sounds daunting but isn't.  Here is how it's
+done:
+
+1. Begin by typing "ftp ftp.mendele.trincoll.edu"
+2. At the request for Name, type "anonymous"
+3. At the request for Password, type your username
+4. At the message "Guest login ok, access restrictions
+   apply", type "cd /pub/mendele".
+5. The message "CWD command successful" means that you can
+   now retrieve any file you like.
+   a. For a list of the files, type "dir".
+   b. To download a file to your computer, type "get
+      filename"
+6. When finished, type "bye".
+
+Below is an actual log of an ftp session.  In order to make
+it easier to follow, the user's input is shown in upper-case.
+This is for illustrative purposes only; in actual use, stay
+with lower-case.
+
+*****************************************
+
+>FTP FTP.MENDELE.TRINCOLL.EDU
+
+Wollongong FTP User Process (Version 5.2-05)
+Trying 157.252.16.7 ... 
+Connection Opened
+Using 8-bit bytes
+220 dot FTP server (SunOS 4.1) ready.
+Name (dot.cs.trincoll.edu:nmiller): ANONYMOUS
+
+331 Guest login ok, send ident as password.
+Password: NMILLER
+
+230 Guest login ok, access restrictions apply.
+
+>CD /PUB/MENDELE
+
+250 CWD command successful.
+
+>GET VOL2.101
+
+200 PORT command successful.
+150 ASCII data connection for vol2.101 (157.252.10.30,2085) (4968 bytes).
+226 ASCII Transfer complete.
+Local: DUA2:[FACULTY.NMILLER]VOL2.101;  Remote: vol2.101
+5110 bytes transfered in 0.55 seconds (9.07 Kbytes/second)
+
+>GET VOL2.104
+
+200 PORT command successful.
+150 ASCII data connection for vol2.104 (157.252.10.30,2086) (3750 bytes).
+226 ASCII Transfer complete.
+Local: DUA2:[FACULTY.NMILLER]VOL2.104;  Remote: vol2.104
+3856 bytes transfered in 0.42 seconds (8.97 Kbytes/second)
+
+>BYE
+
+221 Goodbye
+
+*********************
+
+It's as simple as that.  If you have any problems, let me
+know (nmiller@dot.trincoll.edu) and I'll try to help.
+
+Noyekh
+
+
+3)----------------------------------------------------
+Date: Fri Mar 12 11:03:50 1993
+From: MLAKIN@DUKEMVS
+Subject: baholeh (confusion reigns)
+
+Ich vais nit genoi tzu vemen ich shreib und mit vemen ich
+hob tzu ton, veil shreiben hob ich geschriben tzu nmiller
+und zein bitnet address, ober es ken zein az ich hob a
+toes.  Veil der address velche ich zeh oif mein komputer iz
+mendele@yale. Vill ich takeh vissen, vos geit do for? Es iz
+efsher a "conspiracy" vie men zogt oif engilsh? Ver,she
+voint in Yale und ver,she firt on die gesheft in Trincoll.?
+Zeit,she azoi gut und erklert mich vos und ver und ven und
+vie azoi.
+
+Men kein meinen az dos iz gor a modner eisek.
+Meiner a chaver, Seymour Axelrod hot mir farzichert az alle
+Mendelnikes zeinen takeh orentliche und ehrliche mentshen,
+ober ich heib on tzu tzveiflen. Und der tzu, noch a toiveh
+bit ich bei aich. Az ihr zolt mir tzushiken vie (und
+efsher takeh tzu alleh chaverim fun farband fun
+Mendelnikes) die nemen und die addressen fun die velcher
+bateiligen zich in die aktiviteten. Ich mein az meine
+address gefint zich oif aieyere komputers> oib nisht, bin
+ich takeh Mottel Lakin und ich arbet altz psicholog in Duke
+(shoin bald 35 yohr) und vie ihr avadeh vaist, iz mein
+address lfi bitnet ........Got Meiner! ich hob shoin
+fargessen mein aigener bitnetisher address! Ratevet!
+
+Mottel Lakin  (OIf goyische: Martin Lakin)
+
+[Entfert der shames: Nisht nor hot Reb Mottel fargesn zayn
+bitnetisher address: er hot oykh fargesn az in di yorn
+1958-1962 fleg er tsuzamen mit Norman Miller fun UNC zikh
+oftmol bagegenen. Un voz iz do tsu erkleren?  Fun dem
+gevezenem Norman Miller is oysgevaksn Noyekh shames.
+BorukhAbe, Mottel!]
+
+______________________________________________________
+End of Mendele Vol 2.157
+

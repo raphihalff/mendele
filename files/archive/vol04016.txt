@@ -1,0 +1,168 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.016
+June 8, 1994
+
+1) YIVO: The Name & The Move (Zachary Baker)
+2) Der Nister (Aryeh-Leib Cammy)
+3) Der Nister (Delphine Bechtel)
+4) Der Nister (Mitchell Brown)
+5) Pronouncing vav ("and") before bilabials (Zev Bar-lev)
+
+1)----------------------------------------------------
+Date: Tue Jun  7 12:52:44 1994
+From: BM.YIB@RLG.Stanford.EDU
+Subject: YIVO: The Name & The Move
+
+Gregg Kinkley asks (MENDELE 4.014), "What does YIVO stand for (not
+politically; acronymically)?"  The answer is:
+
+YIdisher Visnshaftlekher institut.  (The alef in "institut" is in this
+case read as "O" -- perhaps our founders regarded "YIVO" as more
+euphonious than "YIVI" [which in any case could not have been spelled
+tsvey-yudn, tsvey-vovn, alef] or "YIV'.")
+
+It would be interesting to learn when the acronym actually came to be
+pronounced "YIVO."  Pre-WWII documents and books from the Vilna YIVO are
+stamped "tsvey yudn, tsvey vovn, [shtumer] alef."  When the YIVO logo was
+adopted in the 1930s -- that circular bit of Polish Yiddish deco that
+most MENDELnikes presumably recognize -- it included a komets under the
+alef, indicating that the acronym was pronounced "YIVO."  Old-timers put
+the stress on the second syllable; in the U.S. the first syllable is
+usually stressed.
+
+And speaking of stress, in lieu of a formal press release, I would like
+to bring MENDELnikes as up to date as possible, on the status of YIVO's
+move.  1048 Fifth Avenue, which has been YIVO's home since 1955, has been
+sold to the Serge Sabarsky Foundation, which will renovate and remodel
+the building and turn it into a 20th century art gallery.  YIVO is in the
+process of buying a much larger building near Union Square, and the
+expectation is that we will be joined there by other Jewish research
+institutions. Discussions are ongoing with an organization that is
+involved in the documentation of Central European Jewry, another
+organization that specializes in Judaica Americana, and a small Judaica
+museum. Any or all of these could join us (as partners), but it is
+premature to broadcast this over the net -- even if the names of the
+institutions are not exactly a secret.
+
+Because of the terms of sale and the extensive renovations that will be
+necessary for the downtown site, YIVO will be relocating to an interim
+site for perhaps as long as two years.  The offices and part of the
+library and archival collections will most likely be located on West 57th
+Street; most of the collections will however be in a nearby warehouse.
+Library and archival services will be somewhat limited during the interim
+period, but we will continue to be open to the public.  Classes and
+public programs will continue, perhaps on a somewhat expanded scale.
+
+The most immediate detail is that YIVO's Library and Archives will be
+closing to the public circa July 1, 1994 and will reopen at the interim
+site in the Fall, probably after the High Holy Days. I will keep
+MENDELnikes posted regarding precise dates, addresses, and partners.
+
+Zachary Baker, YIVO Library
+
+2)----------------------------------------------------
+Date: Tue Jun  7 14:21:17 1994
+From: jcammy@husc.harvard.edu
+Subject: Der Nister
+
+Adam Weisberger asked recently about English translations of Der Nister.
+You may want to look at:
+
+1) Family Mashber (Mishpokhe Mashber). Trans. Leonard Wolf. New York:
+        Summit Books, 1987.
+
+2) I believe that one or two Der Nister short stories may appear in
+Irving Howe and Eliezer Greenberg, Treasury of Yiddish Stories.
+
+Aryeh-Leib (Justin) Cammy
+
+3)----------------------------------------------------
+Date: Wed Jun  8 07:24:29 1994
+From: BOULANGER@MESIOB.OBSPM.FR
+Subject: Der Nister in English
+
+To Adam Weisberger:
+
+You will find English translations of Der Nister's tales in: _Ashes out
+of Hope: Fiction  by Soviet Yiddish Writers_ ed by Irving Howe and
+Eliezer Greenberg, NY: Schocken, 1977, which contains the story "Under a
+Fence: A Review", but you should warn your students that the main
+character is called in English a "scholar" in that translation, while
+the original Yiddish word, "nozir", should rather be translaated as
+"hermit"
+
+Other stories, (where lots of hermits appear as well) can be found in :
+Joachim Neugroschel, ed and trans., Great Works of Jewish Fantasy, also
+under a different title: "Yenne velt...", various reeditions.
+
+Last but not least, the story "From my Estates" can be found in _an
+Anthology of Modern Yiddish Literature_, Mouton: The Hague, 1974, ed.
+Joseph Leftwich.
+
+For an extensive interpretation of the tales, you could have a look at my
+book: Delphine Bechtel, _Der Nister's Tales 1907-1929: A Study of a Yiddish
+Symbolist_, Bern-Frankfurt-NY-Paris: Peter Lang, 1990.
+
+There is also a translaation of Der Nister's novel _The Family Mashber_
+by Leonard Wolf, with an introduction, NY: Summit Books, 1987.
+
+I wish you good luck in teaching this fascinating author
+
+Delphine Bechtel
+
+4)----------------------------------------------------
+Date: Tue Jun  7 13:42:33 1994
+From: BROWN.MITCHELL@tntv7.ntrs.com
+Subject: DER NISTER in English
+
+About 5 years ago a translation of his novel THE FAMILY MASHBER came out
+to much acclaim.  I am sure that it is still available.
+
+Mitchell Brown
+
+5)----------------------------------------------------
+Date: Tue Jun  7 17:29:46 1994
+From: zbarlev@zeus.sdsu.edu
+Subject: Pronouncing vav ("and") before bilabials
+
+in hebrew (especially formal style) this pronunciation of vav before all
+labials (NB: all labials, not just bi-) indeed obtains, e.g. u-faratsta
+"and you will break through" < ve-paratsta.
+
+in modern hebrew, this has begun to be ignored, especially with names: u-
+pesahh (or even ve-pesahh) instead of u-fesahh, u-pariz, ve-pariz instead
+of u-pariz "and Paris".
+
+i wouldn't expect such a subtlety to transfer to a second language
+(yiddish) -- but that's really up to speakers of the language.
+similarly, we can say cherubim in english, but cherubs sounds fine too.
+
+zev bar-lev
+
+______________________________________________________
+End of Mendele Vol. 4.016
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

@@ -1,0 +1,355 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 08.002
+May 18, 1998
+
+1) Yiddish in the Yishuv (Mikhl Herzog)
+2) Hebrew and Aramaic in Yiddish (A Manaster Ramer)
+3) A movie in English, Welsh and Yiddish (Dan Leeson)
+4) vilde chaya (harvey roy greenberg)
+5) Adrabe: Two meanings (Louis Fridhandler)
+6) chalah and maireh (Dick Braun)
+7) Veb-verterbikher/ On-line dictionaries (Sholem Berger)
+8) Oyto-terminologye (Shloyme-Khayim Cohen)
+9) Yiddishland (Gitl Dubrovsky)
+
+1)----------------------------------------------------
+Date: Fri, 15 May 1998 00:45:42 -0400
+From: "Mikhl Herzog" <mherzog@bestweb.net>
+Subject: Yiddish in the Yishuv
+
+Re Susan Lerner's query (07.196) concerning Yiddish in the Yishuv.  Two major
+works on this subject: 
+
+M. Kosover, _Arabic elements in Palestinian Yiddish_, Jerusalem, 1966 
+
+Aryeh Leyb Pilovski _Tsvishn yo un neyn: Yidish un yidish-literatur in
+Erets-Yisroyel, 1907-1948_, Tel Aviv, 1986.
+
+Mikhl Herzog
+
+[Moderator's note: I would add recent and very interesting book "A marriage
+made in heaven: the sexual politics of Hebrew and Yiddish" by Naomi Seidman
+(Berkeley: University of California Press, 1997) that deals at length with 
+the various issues of Yiddish in the Yishuv.
+
+A lot of relevant information can be found in the books on Yiddish in Israel,
+e.g.:
+
+Joshua Fishman, Yiddish in Israel, In: The sociology of language in Israel /
+Hague: Mouton, 1974
+
+Soll sein - Jiddische Kultur im judischen Staat / Augsburg: Olbaum, 1989
+
+Mordekhai Halamish, Yidish be-Yisrael : al sofrim, meshorerim, omanim /
+Tel-Aviv : Eked, 1990
+
+I.Z.Shargel, Mit fule emers / Tel-Aviv : Farlag "Yisroel-bukh", 1990
+
+Also, there are many antologies of prose and poetry, e.g.:
+
+Erets-Yisroel in der Yidisher literatur / Tel-Aviv : Farlag Y.L. Perets, 1961
+
+Oyf di shliyakhn fun heym: Erets Yisroel motivn bay di Yidishe prozayikers,
+poetn un eseyistn velkhe lebn un shafn in land  /  Tel Aviv : Veltrat far
+Yidish un Yidisher kultur, 1989
+
+Yidish-literatur in Medines-Yisroel / Tel-Aviv : H.Leyvik Farlag, 1991
+
+Antologye: in dem eygenem land / Buenos Aires, 1973 (Musterverk, 55)
+
+Geyt a Yid keyn Erets-Yisroel / Buenos Aires, 1978 (Musterverk, 75)
+
+Yisroel in di tfutses in der Yidisher literatur / Buenos Aires, 1981
+(Musterverk, 85)
+
+iosif vaisman]
+
+2)----------------------------------------------------
+Date: Fri, 15 May 1998 00:59:22 -0400 (EDT)
+From: manaster@umich.edu
+Subject: Hebrew and Aramaic in Yiddish
+
+As Mikhl hints, the precise origin of the Hebrew and Aramaic words in Yiddish
+is one of the many contentious issues in Yiddish historical linguistics.  The
+background of Katz's theory that the Hebrew was borrowed into Aramaic and
+thence into Yiddish is important. Katz claims that everybody but him has held
+that the Hebrew and Aramaic words in Yiddish were borrowed not from speech but
+from specific Hebrew or Aramaic texts.  I dont think this is true, and I
+believe that Katz is creating a straw man here.  Moreover, whether true or
+not, the crucial point is that Katz claims that there are only two possible
+explanations: (a) these words came from texts or (b) they came from a
+colloquial Semitic language spoken by some group of Jews living in Europewho
+(or whose immediate descendants) created Yiddish.  Moreover, he assumes that
+Hebrew could not have been this alleged colloquial language, for who would
+believe that Hebrew was spoken colloquially in medieval Europe, so it must
+have been Aramaic.  This is the sum total of his argument for why the Hebrew
+came into Yiddish via Aramaic and not say the other way around.  This makes no
+sense to me.  Moreover, there is an obvious alternative to (a) and (b),
+namely, (c) these words came into Yiddish from a Semitic language or languages
+which were spoken (i.e., pronounced) but were not colloquial, i.e., from the
+Hebrew and Aramaic that were used by Jews the way Latin was used by non-Jews
+or even the way English is used today by non-English native speakers the world
+over.  Katz's specific arguments for (b)  over (a) have to do with the fact
+that in Yiddish words of Hebrew or Aramaic origin have a certain very
+distinctive property as far as how they are pronounced: with a few exceptions,
+all vowels are short in syllables closed by a consonant, which is why we have
+klal but pl. klolem, sod but pl.  soydes.  The fact that this is so was
+discovered long before Katz but its importance was seen by Katz because it is
+something which the Hebrew-and-Aramaic- in-Yiddish have this property but no
+pronunciation of Hebrew or Aramaic itself does.  Katz as I said takes this to
+mean that we are dealing with a colloquial Aramaic, because only a colloquial
+language could have developed a peculiar pronunciation all its own.  I dont
+think this follows at all: Latin in the middle ages and since has not been a
+colloquial language but it has developed all kinds of pronunciations in
+different countries, and so the Hebrew or Aramaic of Jews whose native
+language was something else could have too. There are other issues, too, but
+once again the answer depends on a detailed linguistic analysis of facts which
+by themselves may seem dry as dust but which alone can tell us what the
+language (and life) of early medieval Jews was like in and around Germany. 
+
+Of course, the details dont only have to do with pronunciation.  I will not
+try to draw any conclusions but the kinds of facts which are I think
+significant in deciding where the Semitic component of Yiddish comes from and
+how exactly it got there are the following: 
+
+(a) Yiddish widely uses the Hebrew pl. ending -im and hardly ever the Aramaic
+-in (even though the latter was widely used in medieval Hebrew),
+
+(b) Yiddish has a number of words whose root is of Hebrew origin but with the
+Aramaic feminine ending -ta (Yiddish -te) but never an Aramaic root with a
+Hebrew suffix,
+
+(c) Yiddish has lots of verbs made from Semitic roots but these are always of
+Hebrew, never of Aramaic origin, and moreover (although some might dispute
+this, I am not sure) these verbs in all cases reflect real Hebrew verb forms
+(and I think it matters what forms these are, but I wont go into that now). 
+
+As I have said before, it is only by pondering such details that we can
+discover the history of Yiddish.  I may not agree with Katz about much, but
+his approach is right. You have to look at the details and find just those
+which point to a particular conclusion about the past. 
+
+A Manaster Ramer
+
+3)----------------------------------------------------
+Date: Thu, 14 May 1998 08:34:55 EDT
+From: "Dan Leeson: LEESON@admin.fhda.edu" <leeson@olive.fhda.edu>
+Subject: A movie in English, Welsh and Yiddish
+
+Now we need a Yiddish-Welsh dictionary!!
+
+>From "The Times" of London
+May 14 1998 
+ 
+ACTORS sometimes insist that learning lines is the easiest part of their
+trade, but those starring in a film about a Jewish boy who falls in love with
+a non-Jewish girl in South Wales before the Great War have had to learn them
+in three languages. Solomon and Gaenor has been shot in English, Welsh and
+Yiddish. 
+ 
+The production, being promoted at the Cannes Film Festival, stars two Welsh
+actors - Ioan Gruffudd, who appeared in Titanic, and Nia Roberts in her first
+feature film lead. In the story, love triumphs against a backdrop of poverty
+and anti-Semitism. 
+ 
+Maureen Lipman, who also has a leading role, enjoyed speaking Yiddish. "It is
+wonderfully onomatopoeic, an incredibly beautiful language," she said. Ms
+Roberts said that it had been daunting to face doing an emotional scene in
+English and then having to "recreate the same intensity" in Welsh. At first
+they occasionally mixed up languages, she recalled.
+ 
+The film, shot around Cardiff, is set in a Welsh mining community in 1911. It
+was written and directed by Paul Morrison, who said:  "The juxtaposition of
+these two proud and hard-working peoples - the Jewish tinkers of eastern
+Europe and the Welsh mining and chapel communities - struck me as powerful
+material for a drama."
+
+Dan Leeson, 
+Los Altos, California
+
+4)----------------------------------------------------
+Date: Fri, 15 May 1998 08:16:59 EDT
+From: HrgSmes <HrgSmes@aol.com>
+Subject: vilde chaya
+
+I am a psychoanalyst and film scholar, currently reviewing THE BUTCHER BOY,
+film based on a strange, hilarious, terrifying novel by Patrick McCabe about a
+psychotic Irish youngster. 
+
+In the course of writing the review, the phrase VILDE CHAYA popped into my
+head from my philadelphia youth. As recalled, this was used to describe a
+disobedient youngster of any age ranging up to late adolescence. I never heard
+it in connection with a girl. It was quite flexible. You could be called a
+vilde chaya in my suburban neighborhood for relatively minor offenses --
+talking back to the teacher, God forbid -- not coming home in time for dinner
+so forth. But there were also dark allusions when one was thought to be out of
+earshot to -- the real item -- authentic vilde chayas, kids who had gotten
+into serious delinquent type trouble or ended up as "no goodbums" 
+"jailbirds", even occasional lunatics.
+
+I would appreciate further enlightenment on the idiom. Up to what age can you
+be considered a vilde chaya? Are girls ever vilde chayas? I also sense that it
+is being used in a much more perjorative way today, with ominous ethnic
+overtones. In my time, and also according to my mother and mother in law, it
+could be used affectionately. 
+
+I by the way was a frequent vilde chaya.
+
+Thanks in advance  
+harvey roy greenberg
+
+5)----------------------------------------------------
+Date: Fri, 15 May 1998 12:46:24 EDT
+From: Lfridhan <Lfridhan@aol.com>
+Subject: Adrabe: Two meanings.
+
+To quote Yosef Gilboa (7.196, 4): The expression [adrabe] is most frequently
+used to mean "on the contrary" rather than "even more so".
+
+Apparently, a single word such as adrabe (which in English is rendered as an
+entire subordinate clause) can have two such different meanings, each taking
+off in very different directions.  I must surmise that in written text, the
+reader's "take" must be determined by context.  Perhaps in speech the
+listener's understanding may be helped by vocal intonation.  I am reminded of
+the response by someone to an assertion with the English word, "Sure!"  It can
+mean vigorous assent.  On the other hand it can express strong skepticism if
+the voice is edged with sarcasm.
+
+My memory of the use of ad(e)rabe in Yiddish by my family and their friends
+was to mean, "On the contrary," never, "Even more so."  However, I have been
+taught by Sholem Aleichem's talkative characters that both meanings occur in
+Yiddish.
+
+Louis Fridhandler
+
+6)----------------------------------------------------
+Date: Fri, 15 May 1998 16:33:53 -0400
+From: "Richard Braun" <rbraun@worldnet.att.net>
+Subject: chalah and maireh
+    
+I've been corresponding with a matzah manufacturer concerning their
+kashrut/pesach certification shown on their package, namely the phrase,
+printed in hebrew letters, 'mir nehmen chalah fun yeder maireh'. The word at
+issue is 'maireh', translated by them as 'production batch'. This makes sense
+within the context of the sentence, but what exactly is the derivation of
+maireh? The closest I can come is the German 'Meierei', meaning a milk
+business. But this seems far fetched. How can you get 'production batch' from
+it? Any ideas on this out there? Thanks for your help.  
+
+Dick Braun
+
+7)----------------------------------------------------
+Date: Sat, 16 May 1998 23:39:35 -0400
+From: "Sholem Berger" <bergez01@endeavor.med.nyu.edu>
+Subject: Veb-verterbikher/ On-line dictionaries
+
+Ikh hob zikh nor vos ongeshtoysn in a vunderlekhn veb-resurs.  "A Web of
+On-line Dictionaries" (http://www.bucknell.edu/~rbeard/diction.html) bashteyt
+fun gor a langer reshime fun shprakhn-verterbikher vos zaynen tsutritlekh afn
+veb.  Hekher hundert shprakhn bavayzn zikh af ot der reshime, un unter yeder
+shprakh geyen es arunter a tsol bazundere bikher.  (A tsveyte reshime, "A Web
+of On-line Grammars" [http://www.bucknell.edu/~rbeard/grammars.html], farbindt
+dem banitser mit gramatikes un lektsyes fun a tsol shprakhn.)  Tsvishn di
+leshoynes -- a sakh minoritet-shprakhn: baskish (Euskara), katalan, chamorro,
+cherokee.  Ober yidish?  Mayne khaveyrim yidishistn veysn shoyn dem entfer.
+(S'iz yo do a farbindung tsu epes a "Yiddish Dictionary Project" bay penn, nor
+dos iz aponem untergegangen.) Ikh veys az der yivo arbet shoyn haynt af a
+kompyuterizirtn verterbukh, nor s'iz a ris in hartsn az undzer shprakh hot
+nisht keyn plats tsvishn azoy fil andere khosheve leshoynes.  Ikh hob nisht
+keyn praktishe eytses, nor ikh hob gevolt tsutsien ayer oyfmerkzamkayt tsu
+nokh a bleyz vos darf (un efsher meg?)  oysgefilt vern. 
+
+The Web sites "A Web of On-line Dictionaries" and "A Web of On-line Grammars"
+(URLs above)  give access to hundreds of on-line foreign-language
+dictionaries, grammars, lessons, and tutorials, among them resources for a
+number of minority languages: Euskara (Basque), Catalan, Chamorro, Cherokee,
+etc., etc.  It should come as no surprise to supporters of Yiddish that our
+language is unrepresented (with the exception of a Yiddish Dictionary Project
+at Penn which has been discontinued).  I understand that YIVO is working on a
+computerized Yiddish dictionary, but are there no steps to remedy this state
+of affairs that could be taken in the meantime? 
+
+Sholem Berger
+New York
+
+8)----------------------------------------------------
+Date: Sun, 17 May 1998 23:26:33 -0400
+From: "Steve Cohen" <scohen@rutchem.rutgers.edu>
+Subject: Oyto-terminologye
+
+Tayere Mendelistn:
+
+Ikh hob itst a 21-khdoshim-alt kleyner, Danele, ver hot lib alerley oytos un
+mase-oytos. Ikh ken nit di verter far ale di sortn oytos, ts"b: 
+
+Fire truck
+Police car
+convertible
+Cement truck
+limousine
+construction vehicle (bulldozer, crane, forklift, etc.)
+ambulance
+pickup truck
+van
+school bus
+greyhound bus (i.e., long distance bus)
+double-decker bus
+etc.
+
+Oykh vil ikh lernen zikh di nemen far avyonen:
+
+jet
+fighter plane
+propeller airplane
+biplane
+space shuttle
+supersonic airplane
+hang-glider
+etc.
+
+(Ikh ken luftbalon, dirizhabl, helikopter, avyon, raket.)
+
+Tsi hot Yugntruf gemakht a reshime verter? Mir hobn an english bukh far kinder
+vegn avyonen un oytos, ober ikh ken nit zogn im af Yidish. 
+
+-Shloyme-Khayim Cohen
+
+9)----------------------------------------------------
+Date: Mon, 18 May 1998 09:50:13 EDT
+From: GDubrovsky <GDubrovsky@aol.com>
+Subject: Yiddishland
+
+I know well the passion and nostalgia for "der alter heym" whose memory was a
+living presence with my Yiddish speaking relatives who looked back towards it
+always, and for the language in which they lived and in which they endlessly
+discussed and argued. My only quibble is an artificial construct of
+"Yiddishland" for Yiddish literature. Yiddish literature is the crown of
+Yiddish, created by intellectuals and poets who gave voice to both the passion
+and the nostalgia. Those who did not live in the shtetlakh of Eastern Europe
+cannot know about that world without reading the literature. I have been
+immeasurably enriched by it. But, my relatives read the Yiddish tsaytung, and
+were not necessarily conversant with 'literature.' Their Yiddishland was in
+their hearts, in their mouths, and in their memories. They took these with
+them, wherever they went. They weren't necessarily 'religious,' but the memory
+of their 'religious life' in 'der heym,' was a pervasive influence on their
+behavior in America. I think I learned as much from them as I did from the
+literature I later read.  Zay mir gezint. 
+
+Gitl Dubrovsky
+______________________________________________________
+End of Mendele Vol. 08.002
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+
+
+

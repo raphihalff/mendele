@@ -1,0 +1,129 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 57
+August 28, 1992
+ 
+1) The Ashkenazic final /s/ (Ellen Prince)
+2) Eyn balmelokhe tsum tsveytn (Pinye Weichsel)
+3) Introduction (Ted Steinberg)
+4) Sesame and Kibitzer (Robert Rothstein)
+
+1)----------------------------------------------------
+Date: Mon, 24 Aug 92 17:16:48 -0400
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 2.56
+
+>[question] from subscribers:
+>
+> Would it be fair to assume that today's Ashkenazic final
+>-s (aggodes, tekhines, kehilles, etc.) was also used by
+>Yiddish speakers 200 years ago?
+
+yes, it would be fair to assume that. the /s/ is presumed
+to have arisen at a time when the hebrew target sound was
+/th/ (as in the english words 'both', 'wrath', etc.).
+yiddish speakers, like german speakers today, could not
+pronounce that and, again like many german speakers today,
+substituted /s/. i don't know the chronology of the hebrew
+sound change (perhaps someone out there in mendele-land
+does?) but i'm quite sure that hebrew /th/ ceased to be
+/th/ (and became, at least for most dialects, /t/) a lot
+farther back than 200 years ago. we can safely infer that
+the yiddish /s/ in these words predates the hebrew change
+to /t/, since yiddish speakers should have had no trouble
+with /t/ and the words you list would then be something
+like *agodet, *tekhinet, *kehilet. (the '*' means
+'unattested'.)
+
+of course, this substitution may have already occurred for
+these speakers before they ever got to german-speaking
+lands. since none of the languages of lands adjacent to the
+german-speaking territory has or had /th/, it could have
+happened in any one of them. all we can safely say is that
+they didn't migrate to german-speaking lands from england
+or greece, at least not directly! :)
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Mon, 24 Aug 1992 20:32:22 -0500
+From: Paul Weichsel <weichsel@symcom.math.uiuc.edu>
+Subject: RE:  Mendele Vol 2.56
+
+Oyb maine finger hoben farblonget un gemacht fun a "Baker"
+a "Taylor", beyten zey mechile - nor far dem veyl a nomen
+is take a nomen un nit veyl a shneider is epes an
+untermensh. Dos is far mir a persenlicher frage - ich kum
+fun a mishpoche shneiders.
+
+In meine hoys is "ptsha" gehesen "fargliverts".
+
+Paul M. Weichsel (Pinyeh)
+
+3)----------------------------------------------------
+Date: Tue, 25 Aug 1992 11:21 am EDT (15:21:44 UT)
+From: "Ted L. Steinberg" <STEINBER@FREDONIA.BITNET>
+Subject: Introductory statement
+
+Hi.  I'm Ted Steinberg from the State University of New
+York College at Fredonia, which is not a center of Yiddish
+studies.  I generally teach courses in medieval and
+Renaissance literature, but I have a deep interest in
+Yiddish literature.   I wrote a book on Mendele (1977) and
+have written several articles on aspects of Yiddish (and
+medieval Hebrew) literature. Given the absence of anyone
+here who shares these interests, I was delighted to learn
+about the existence of MENDELE.
+
+Ted Steinberg
+
+4)----------------------------------------------------
+Date: Thu, 27 Aug 92 23:11:15 -0400
+From: ROBERT.ROTHSTEIN@SLAVIC.umass.edu
+Subject: Sesame and kibitzer
+
+1) Sesame
+
+     The 1984 Russian-Yiddish dictionary published in
+Moscow gives _der kunzhut_ as the Yiddish translation of
+Russian _kunzhut_, 'sesame'.  The word, with stress on the
+second syllable, is also used in Ukrainian and
+Byelorussian, and is said to be a borrowing from Uighur, a
+Turkic language.
+
+2) The last word on _kibitzer_?
+
+     In the first supplement to his _The American
+Language_, H. L. Mencken mentions _kibitzer_ as an example
+of a word of German origin that entered English through
+Yiddish.  He further cites Dr. M. J. Bach, "for many years
+London correspondent of the _Wiener Neue Freie Presse_" on
+the origins of the term. Bach relates a story told by Count
+Karl Schoenfeld (1828-66), whose memoirs were published in
+1909.  Schoenfeld served in the Austrian army as a staff
+officer under General Haizinger during the Italian campaign
+of 1848-9.  The general "had a little dog called _Kiebitz_,
+meaning a plover..."  The line officers called the staff
+officers _Kiebitze_.  The word _Kiebitz_ "soon became a
+slang word for anyone who merely looks on at the game, and
+from the army it spread to the cafes of Vienna."  Mencken
+comments that the connection "arose from the fact that, to
+line officers, staff officers seem to be mere onlookers."
+
+Robert Rothstein
+______________________________________________________
+End of Mendele Vol 2.57
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+
+     Bob Rothstein

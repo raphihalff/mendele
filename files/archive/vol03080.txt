@@ -1,0 +1,164 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.080
+August 16, 1993
+
+1) Standardized transcription, far vus? (Bob Goldberg)
+2) Toi toi toi and evil spirits (Cary Nathenson)
+3) -ian and Jan (Beatrice Santorini)
+4) Mer take dershinen: E-HUG returns (David Neal Miller)
+5) Grubyan, Motl (David Neal Miller)
+
+1)----------------------------------------------------
+Date: Fri Aug 13 18:43:23 1993
+From: xidak!poseidon!bob@uunet.UU.NET (Robert N. Goldberg)
+Subject: Standardized transcription, far vus?
+
+A few years ago, in MENDELE, I gave as an argument for
+standardization the ability to understand each other's writing more
+easily.  Since then, I have decided that adherence to the YIVO
+standardized spelling is also a curse.
+
+I belong to a Yiddish singing group. Our lyrics are transcribed in
+Latin letters to go with the music.
+
+As a result of standardized transcription, everyone ends up
+pronouncing the words in standard Yiddish (but see "oyf" below).
+There's no way that you can get 20 Jews in a chorus even to agree to
+pronounce the words differently than the transliteration, let along
+to REMEMBER when to do so.  So we end up singing standard Yiddish.
+
+Notice that if all books about yiddishkayt were to adopt the
+standard, the other dialects would be lost forever to future
+generations.
+
+The problem is that I find speaking or singing the YIVO
+transliteration somewhat distasteful for for several reasons:
+
+a. My grandparents spoke, for the most part, a southern dialect of
+   Yiddish (e.g., "vus id dus" rather than "vos iz dos") and I love
+   its cadence and sound.
+
+b. Standard Yiddish pronunciation sounds too much like German to me,
+   and thus has unpleasant associations.
+
+c. Rhymes in the songs often get ruined.  For example, 'Bay Mir
+   Bistu Sheyn':
+
+	Std. Transliteration		Southern Dialect
+	--------------------		----------------
+	TITLE: Bay Mir Bistu Sheyn	TITLE: Ba Mir Bisti Sheyn
+	...				...
+	Bay mir bistu gut		Ba mir bisti git
+	Bay mir hostu 'it'		Ba mir hosti 'it'
+
+   It's obvious the song was not intended to be sung in standard
+   Yiddish.
+
+d. The pronunciation in the Yiddish Theatre (which spawned many of
+   our songs) was a "southern dialect" Yiddish, so emulation of old
+   recordings of the songs is a challenge.
+
+e. Our chorus has been pronouncing the "oyfn" in "oyfn pripitshik"
+   as written, instead of as "afn".  I tried to get them to change,
+   based on Weinreich's dictionary entry, but at least one member
+   insists that her Yiddish-speaking grandmother from Russia always
+   sang the song as "oyfn" and not "afn"! (My grandmother might say
+   "gey kakn afn yam"!)
+
+So the YIVO transliteration standard threatens to silence the very
+Yiddish subculture that produced many of these songs.
+
+I understand that someone wrote down standard transliteration rules
+for the Yiddish Theatre, which I'd like to get ahold of.  Does
+anyone know where to find it?
+
+Bob "Nissen" Goldberg
+
+2)----------------------------------------------------
+Date: Sat Aug 14 00:02:07 1993
+From: Cary Alan Nathenson <canathen@papaya.wustl.edu>
+Subject: toi toi toi and evil spirits
+
+Could anyone please comment on the custom (at least on Devon Ave. in
+Chicago) of making a spitting noise three times to ward off evil?
+In German (and I hope you're not getting sick of these comparisons
+with German, but I learned it before Yiddish), "toi toi toi" (sans
+spit) means "good luck" or "right on!"  In the Yiddish movie "Di
+Dibuk" (sp?), a Cabalist rabbi blesses his student by spitting three
+times and, for extra protection, I guess, licks him across his
+forehead.  Fortunately the latter practice seems to have died out.
+
+A schaynen dank!
+
+Cary Nathenson  E-Mail: canathen@artsci.wustl.edu
+
+3)----------------------------------------------------
+Date: Sat Aug 14 14:50:41 1993
+From: Beatrice Santorini <beatrice@unagi.cis.upenn.edu>
+Subject: -ian and Jan
+
+this is in response to Dagmar Lorenz's speculation about the
+etymological link between the "-ian" of "Grobian" and "Jan".  I
+would be surprised if there were such a link; I think it is much
+more plausible to assume that "-ian" is the same Latinate suffix
+that we find in English in "Christian", "Oxonian", etc.
+
+Beatrice
+
+4)----------------------------------------------------
+Date: Sun Aug 15 23:43:10 1993
+From: David Neal Miller <dnmiller@magnus.acs.ohio-state.edu>
+Subject: MER TAKE DERSHINEN: E-HUG RETURNS
+
+Patriotn of Yiddish word processing will be delighted to learn of
+the reappearance, after a too-long hiatus, of Ari Davidow's E-HUG,
+"The Hebrew [sigh] Users Group occasional electronic newsletter."
+This is an invaluable resource edited by an eydl and immensely
+knowledgeable sometime electronic typographer.
+
+The list server is LISTSERV@DARTCMS1.BITNET, Ari's own e-mail
+address ari@netcom.com.
+
+David Neal Miller      miller.3@osu.edu
+
+5)----------------------------------------------------
+Date: Mon Aug 16 00:04:21 1993
+From: David Neal Miller <dnmiller@magnus.acs.ohio-state.edu>
+Subject: Grubyan, Motl
+
+Though I've nothing to contribute the recent discussion of the word
+_grubyan_, I thought to take the opportunity of recalling an
+underappreciated Soviet-Yiddish poet by the name of Motl Grubyan. In
+1975 or so I published a translation of one of Grubyan's poems (from
+_Sovetish heymland_), a strong and understated Holocaust poem, which
+translation appeared--to my horror--in a special issue of a literary
+journal dedicated to the memory of Ezra Pound. I seem to recall
+reading (also in _Sovetish heymland_?) a notice Grubyan's death.
+
+The _Leksikon fun der nayer yidisher literatur_, 2 (New York:
+Alveltlekher yidisher kultur-kongres, 1958), 368, has the following
+(unsigned) entry on Grubyan:
+
+Grubyan, Motl (  -  ) -- Sovetish-yidisher shrayber. Shtamt fun
+Vaysrusland. Ongehoybn drukn lider in di yugnt-oysgabes in
+Vaysrusland, in di onheyb draysiker yorn. Mitn oysbrokh fun der
+sovetish-natsisher milkhome, 1941, avek oyfn front, iz dray mol
+farvundet gevorn. Hot zikh bateylikt in di shlakhtn far Stalingrad.
+In bukhform: _Fun keler oyf der zun_ (lider), Minsk, 1935, 79 z';
+_Lirik_, Minsk, 1940, 60 z'; _Gezang vegn mut_, Moskve, 1947, 144
+z'. "In Grubyans bukh (_Gezang vegn mut_) farnemt a hipsh ort
+tragishe motiv-lider vegn der oysrotung fun der yidisher bafelkerung
+beys der daytsher okupatsye. . . . Di greste tsol lider iz farbundn
+mit eyn lirisher geshtalt--mitn poshetn folks-mentshn" (Rivke
+Rubin). Voynt in Moskve.
+
+[Reproduced without permission: zayt-zhe moykhl, khosheve koleges
+fun K"k!]
+
+David Neal Miller     miller.3@osu.edu
+
+______________________________________________________
+End of Mendele Vol. 3.080
+

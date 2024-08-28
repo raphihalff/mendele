@@ -1,0 +1,201 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.118
+September 30, 1994
+
+1) "Az der bubbe vot gehat.." (Zellig Bach)
+2) Kreplekh and crepes (H. Davidson)
+3) Sheva Zucker's book (Pierre Lewis)
+4) Yiddish/Hebrew Word Processing (Ali Lemer)
+
+1)----------------------------------------------------
+Date: Thu, 29 Sep 94 18:52:26 EDT
+From: Zellig@aol.com
+Subject: "Az der bubbe vot gehat.."
+
+Steven Pinker, a leading language scientist, professor and director of
+the Center for Cognitive Neuroscience at the Massachusetts Institute of
+Technology, recipient of many research awards and a teaching prize from
+M.I.T., published recently a book _The Language Instinct_ (William Morrow
+& Co., Inc., 494 pp., 1994).
+
+It won general wide acclaim from reviewers.  After reading in the New
+York Times _Book Review_ an evaluation of the book, I went out and
+purchased it.
+
+It is of great interest to all lovers of languages in general, in which
+category I humbly include myself, and in one instance cited below of some
+concern to a proud lover of the Yiddish language.
+
+The author's specialty is the study of language development in children,
+an area in which I found great fascination in my own specialty, that of
+psychology and psychoanalysis.
+
+I always considered it a mark of intellectual achievement, akin to a
+minor mental miracle, when a very young child said for the first time "I
+Saw it."  How did he learn to use the past tense?  Did his mother or
+father sit him down and teach him verb conjugation?  Not likely!  He just
+figured it out all by himself from listening to, and apparently
+analyzing, the speech of adults. Suddenly, and what seemed completely
+spontaneously, he knew the correct verb usage.  At the same time it was
+also indisputable evidence that he somehow gained a grasp of the concept
+"recent past."
+
+Pinker postulates the theory that language is a human instinct, that the
+capacity for language has evolved with evolution, and that our brain
+computes our grammar, syntax, vocabulary.  So I found his book absorbing
+and fascinating.
+
+But I came across one sentence in _Yiddish_ (p. 66) that almost threw me
+for a loop.  The author discusses the subjunctive construction,  a
+construction used to express "counterfactual" situations, "events that
+are known to be false but entertained as hypotheticals."  Pinker then
+states that anyone familiar with Yiddish knows "the ultimate riposte to
+someone reasoning from improbable premises."  And he quotes in Yiddish
+the following saying : "Az der bubbe vot gehat baytzim vot zie geven
+mein zayde."
+
+For those uninitiated in the cryptic meaning of "baytzim," let me
+translate: "If my grandmother had balls, she would be my grandfather."
+
+The expression itself is well known to me.  I heard it many, many years
+ago in Vilne (Lithuania) when I was a very young man.  Indeed, on a
+recent occasion, I heard two euphemistic variants.  Mikhl Herzog reports
+from his youth in Toronto:  _ven di bobe volt GEHAT (long pause) volt zi
+geven a zeyde_;  also _ven di bobe volt gehat redlekh, volt zi geven a
+stritkar_ (street car).
+
+Herewith my comments on Pinker's Yiddish sentence:
+
+A.  The co-occurrence of several features reveal the speaker's dialect as
+Central ("Polish") Yiddish.
+
+B.  Word analysis:
+
+        1. "Der" (bubbe).  Totally unacceptable in Standard Yiddish.
+"Der" is the _masculine_ definite article.  Since the false premise
+starts with the implausible "sex change" (<g>) of the grandmother, the
+article should naturally be "di"-the _feminine_ definite article in
+Yiddish.  The inap- propriate use of "der" nullifies so to speak the
+entire counterargument.
+
+The only possible co-occurrence of _der_ and _bobe is encountered in the
+dative case in Standard Yiddish, thus:  TSU DER bobe(n).  In the nomina-
+tive case _der_ for "bobe" is categorically wrong.
+
+2.  "Bubbe"--This is apparently Polish Yiddish.  The literary form is
+"bobe," and so romanized.  Yiddish does not take double consonants, as
+Mendelyaner know so well.
+
+3.  "Vot"--  The auxiliary verb _voLt_  belongs here.  The sound of the
+consonant /l/ sometimes disappears entirely ("vot"), but in Standard
+Yiddish it is "volt."   [ikh volt, du voltst, er/zi volt, mir voltn.]
+
+4.  "Baytzim"--This is Hebrew for eggs and testicles.  Standard romanized
+spelling is "beytsim" (baytsim, I believe, is a Polish-Yiddish variant).
+
+Several generations ago words pertaining to certain body parts, or even
+clothing, were considered indelicate and not fit for mixed company.  They
+were taboo, and one could find them only in dictionaries.  Note the
+ellipsis--the long pause--in the first of Mikhl Herzog's examples above
+where the intended word is not even spoken at all.  These words have now
+lost their shock value, and one finds them in newspapers and family
+magazines spelled out and called by their actual anatomical names.  But
+in the olden days people resorted to euphemisms or to words in a foreign
+or less known language.  Thus the use of Hebrew for testicles was
+considered the more "elegant" or more "delicate" way of naming them.
+
+5.  "Zie"--Reflects a tendency to mimic the German spelling of "Sie," a
+pattern naturally to avoid.  It should be _zi_..
+
+6.  "Mein"--Ditto.  German spelling.  It should be_ mayn_.
+
+7.  "Zayde"--Standard romanization calls for _zeyde_.
+
+In his Preface Pinker expresses his thanks to a great many people for
+their comments, suggestions, and generous advice while the book was still
+in manuscript form.   Many of these people were clearly experts in
+linguistics. Too bad he saw no need to consult an expert in Yiddish.
+
+Zellig Bach
+
+2)----------------------------------------------------
+Date: Thu, 29 Sep 94 17:08 PDT
+From: ibidhad@mvs.oac.ucla.edu
+Subject: Kreplekh and crepes
+
+For M. Herzog or other etymologists.  Is it farfetched to conjecture
+connection between kreplekh (traditional food for 7th day of Tabernacles)
+and crepes?
+
+H. Davidson
+
+3)----------------------------------------------------
+Date: Thu, 29 Sep 1994 13:38:00 -0400
+From: lew@bnr.ca
+Subject: Sheva Zucker's book compared to Weinreich and Zuckerman/Herbst
+
+Could someone (eg. a teacher) who has seen all three books compare them
+wrt to level and comprehensiveness? Does Sheva Zucker's book really add
+something to Weinreich (for someone who's comfortable with "Objects of
+prepositions take the dative case")?
+
+It certainly is a tempting book. With a tempting offer from
+Stephen to boot.
+
+To Khayem: suggestions for your list (a very good idea, btw):
+- Birnbaums "Grammatik der Jiddischen Sprache" (the german version
+  isn't very useful to most here of course, but I understand
+  there's an english version from Toronto).
+- Add some reading material: I found "Yidishe kinder giml" very
+  useful for example (even if mayne kinderyorn are far away).
+- Add the main dictionaries.
+- Add some audio sources (radio programmes, tapes, films).
+
+A wouldn't mind a comparison of the two grammars either (Katz & above). I
+want to order one, but don't know which one.
+
+As for Leybl's suggestions to organize periodic lessons: GREAT!
+
+Pierre Lewis
+
+4)----------------------------------------------------
+Date: Fri, 30 Sep 94 0:48:44 EDT
+From: ali@panix.com
+Subject: Yiddish/Hebrew Word Processing
+
+I believe the word processor NISUS can handle right-to-left printing. You
+also have to get a Yiddish typeface, of course; I believe there's one
+called Perele, and a Hebrew one called Shalom.
+
+I don't know where these can be bought, although you might try YIVO, Der
+Arbeter Ring, the ads in Der Forvets, etc, etc.
+
+Ali Lemer
+
+______________________________________________________
+End of Mendele Vol. 4.118
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

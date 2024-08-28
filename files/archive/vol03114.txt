@@ -1,0 +1,126 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.114
+October 3, 1993
+
+1) Ya[r]mulke (Zachary Baker)
+2) Maurice Samuel (Dovid Braun)
+3) Pinkes (Pe'rets Mett)
+4) Pinchas (Weichsel)
+5) Pinkes (Alan Lankin)
+
+1)----------------------------------------------------
+Date: Wed Sep 29 12:14:59 1993
+From:  Zachary Baker (bm.yib@rlg.stanford.edu)
+Subject:  Ya[r]mulke
+
+For those who wish to consult etymological dictionaries on the
+derivation of "yarmulke," may I suggest the following:
+
+(1) Bru"ckner, Aleksander.  Sl/ownik etymologiczny je,zyka polskiego
+(Warszawa:  Wiedza Powszechna, 1957).  On page 200, under
+"jarmul/ka, 'biret, czapeczka' [beret, skullcap]," there is a cross
+reference to "jamul/ka," where there is a fuller definition plus
+etymologies (page 198) and citations (a la OED).  He traces the word
+back from Old Russian ("jemurl/uk") to Bulgarian ("ja(g)murluk") to
+Turkish ("ja(g)murluk, 'plaszcz na deszcz z kapuza,'" [rain mantle
+with cap tied together with strings]). An earlier Polish form
+("jermol/ka" = "kapuza" [cap tied together with strings]) is given,
+along with Belorussian ("jarmol/ka"), Russian ("jel/omok") and
+Ukrainian ("jol/omka" = "czapka" [cap]).
+
+(2) Preobrazhensky, A. G.  Etymological dictionary of the Russian
+language (New York:  Columbia University Press, 1951).  See page
+217, "[y]ermolka" (stress on 2nd syllable).  The Ukrainian forms
+"yarmulka, yarmolka" and the Polish form "jarmul/ka" are also given.
+It is defined (under the Ukrainian forms) as "Jewish cap"
+("[y]evreiskaya shapochka").  As for etymology:  "Unclear."
+
+As an utter amateur and a non-Slavist to boot (which my stilted
+translation of the Polish phrase "plaszcz na deszcz z kapuza,"
+clearly indicates), I nevertheless have the impression from the
+foregoing that some form of the word was current in co-territorial
+Slavic languages and that it was borrowed by Yiddish speakers for
+their own purposes.
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Wed Sep 29 16:03:43 1993
+From: dovid@MIT.EDU
+Subject: Maurice Samuel
+
+Maurice Samuel's information is incorrect.  All such periphrastic
+verbs take _hobn_ for the past tense:
+
+	er hot goyzer/megazem/mashpie/maskem/mehane/oyker-min-
+hashoyresh/mekane... geven;  ikh hob zikh (in im) miskane geven, ...
+
+Note:  In "litvish" (Northeastern) Yiddish, only the auxiliary
+_hobn_ is used to form the past tense, as opposed to the other
+dialects in which _zayn_ is also used with certain main verbs.  I
+know of one are (between Grodno and Bialystok) where it seems the
+litvish and non-litvish forms met up and some speakers will produce
+_zayn_ + participle hypercorrectly:
+
+	er iz gearbet
+	es iz mir fardrosn
+
+[Actually, I'm not sure whether this is an effect of spoken dialects
+in contactor a hypercorrection towards "Standard Yiddish" ("di
+literarishe shprakh"). Also, although I've heard it before, I'm not
+sure that the generalization that litvish Yiddish does not use
+_zayn_ is a correct gen'lization.  If my memory serves me correctly,
+M Weinreich mentions in his _History_ that this is a trait of the
+Grodno area.  I think I've heard it from "kovner lite" as well.  Do
+the basilectal forms of Vilna Yiddish, for instance, lack _zayn_ +
+participle?  Maybe M. Herzog can answer.]
+
+Also wrt Maurice Samuel, and wrt Dan Slobin question, Samuel
+published an article in _Yidishe shprakh_ called "Dobrodzhyer
+yidish" ('The Yiddish of Dobroja [, Rumania]') where he was born.
+Yiddish speakers had much contact with Rumanian and Turkish in those
+parts, and Samuel describes the results of this contact.  (Sorry, I
+don't have a reference at hand, but it's findable in the index to
+_Yidishe shprakh_.)
+
+Dovid Braun
+
+3)----------------------------------------------------
+Date: Wed Sep 29 09:33:00 1993
+From: P.Mett@open.ac.uk (Percy Mett)
+Subject: pinkes
+
+A =pinkes= is a ledger (Hebrew). The documentation of kehile
+activity would be recorded in a pinkes.
+
+pe'rets
+
+4)----------------------------------------------------
+Date: Wed Sep 29 17:15:57 1993
+From: Paul Weichsel <weichsel@symcom.math.uiuc.edu>
+Subject: Pinchas
+
+"Pinchas" is a not uncommon biblical name - he was rather handy with
+a sword. The word "pinkas" is undoubtably the word that your friend
+found in the title of the memory book.  It is a Hebrew word which
+means "notebook", more or less.
+
+Pinyeh (an endearing version of "Pinchas") Weichsel
+
+5)----------------------------------------------------
+Date: Thu Sep 30 09:10:32 1993
+From: Alan Lankin <73302.2024@CompuServe.COM>
+Subject: pinkes
+
+'Pinkes' means record book (from Hebrew meaning ledger or notebook )
+-- such as you were looking at.  Many towns kept a pinkes, which was
+used to record significant events in the town.
+
+Alan Lankin
+
+______________________________________________________
+End of Mendele Vol. 3.114
+
+

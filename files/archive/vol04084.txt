@@ -1,0 +1,157 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.084
+August 16, 1994
+
+1) Yiddish Literature by women writers (Reyzl Kalifowicz-Waletzky)
+2) YIVO-standard pronunciation (Shleyme Axelrod)
+3) Bernstein's proverb collection (Bob Rothstein)
+4) Children's songs (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Mon, 15 Aug 94 12:42 EST
+From: reyzl@mcimail.com
+Subject: Yiddish Literature by women writers -Reading Circle
+
+The Congress for Jewish Culture announces the formation of:
+
+A reading group for Yiddish literature written by women writers.
+
+The first meeting will take place on:
+       Tuesday, August 23th, 1994 at 7:30 P.M
+       at the Congress For Jewish Culture,
+       25 East 21 Street (bet. Broadway and Park Avenue South)
+       New York, N.Y.  10010
+
+Writers, themes and schedule will be selected at the at this first
+meeting.
+
+If you are interested in joining such a group, please call us at
+212-505-8040 Tuesdays, Wednesdays, or Thursdays from 10:30-5:00.
+(Fax:212-473-5102)
+
+If you can not attend the first meeting, call us and we will place you on
+our mailing list for future meetings and events.
+
+If you can not read Yiddish and are limited to reading Yiddish literature
+in translation, let us know and perhaps we can organize a secondary
+reading group.
+
+                        All  are  welcome
+
+(Travelling info:  Take #6, F, N or R trains to 23 Street or any of the many
+buses that goes down Broadway, Fifth Ave., or Park Avenue South.)
+
+***************************************************************************
+
+Such reading groups already meet in Toronto and Boston.  I think we should
+have one in New York.   This group will probably meet monthly.
+
+Reyzl Kalifowicz-Waletzky
+
+2)----------------------------------------------------
+Date: Mon, 15 Aug 1994 15:35:54 -0400 (EDT)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: YIVO-standard pronunciation
+
+Rick Gildemeister (4.077) recalls that there have been criticisms of
+YIVO's "standard" pronunciation, based in part at any rate on the
+decision to make a minority pronunciation the basis for the standard;
+more native speakers, writes Rick, would say "meshige" than would say
+"meshuge".  Indeed, Solomon Birnbaum (in _Yiddish: A Survey and a
+Grammar_, U. of Toronto Press, 1979) estimated that in the 1920's-30's,
+there were 8.649 million speakers of what he calls the Southern [meshige]
+dialect of Eastern Yiddish, and only 3.226 million Northern [meshuge]
+speakers.  I have no idea how far to trust his specific estimates, and I
+know that the dichotomy is a simplification, but I assume that he and
+Rick are at least approximately correct.  (Incidentally, Birnbaum says
+that the three _klasikers_ were all Southern speakers, Perets and Sholem
+Aleykhem having been southern-born, and Mendele having adopted the
+Southern dialect after moving south in his youth.)
+
+I'm one of those who think that having a standard serves a good purpose.
+And I am personally delighted at YIVO's choice; my parents and most of my
+relatives of their generation came from around Vilna, so that the
+pronunciation I grew up with is close enough as makes no difference to
+the standard.  But how did the standardizers *justify* their choice?
+Birnbaum writes:  "The original proponents of this 'standard' were
+speakers of the Northern dialect and so, without further ado and without
+discussing the matter or giving any reasons, they decided that their own
+pronunciation was the 'standard.' ... It is ironic that the partisans of
+the 'standard'--all convinced democrats--should ask the majority of
+Yiddish-speakers to switch over from their own pronunciation to that of a
+minority, comprising only a quarter of all Yiddish speakers." [p. 100]
+
+Did the YIVOnikes really base their decision on such a parochial basis,
+and did they really give no reasons?  There must have been a heated
+contemporary debate ("discussing the matter") around what was obviously
+seen by many as arrogance on the part of YIVO.  Can someone familiar with
+the history of the standardization provide some details?
+
+--Shleyme Axelrod
+
+3)----------------------------------------------------
+Date: Mon, 15 Aug 1994 22:36:38 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: Bernstein's proverb collection
+
+This and the next forwarded message seem to have gotten lost after being
+sent on August 4, so I'm sending them again.
+
+The best edition of Ignaz Bernstein's _Yidishe shprikhverter un
+rednsartn_ was published 25 years ago in Germany:  Ignaz Bernstein,
+_Juedische Sprichwoerter und Redensarten_, ed. Hans Peter Althaus,
+Hildesheim:  Georg Olms Verlagsbuchhandlung, 1969.  This edition is a
+reprint of the 1908 Warsaw edition with its facing pages of text in
+Yiddish and in a German- based transcription.  Althaus also included
+Bernstein's collection of "oysgelasene un grobe shprikhverter" ("Erotica
+und Rustica") and added an introduction and an extensive bibliography.
+This edition also reproduces the index and glossary of the 1908 edition.
+
+Bob Rothstein
+
+4)----------------------------------------------------
+Date: Mon, 15 Aug 1994 22:36:55 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: Children's songs
+
+Two answers to Paula Teitelbaum's inquiry about the composers of some
+Yiddish children's songs:
+
+	1. In their 1974 book _Perl fun der yidisher poezye_ (p. 198)
+Yosl and Khane Mlotek identify the composer of the music to Yehoash's
+"Kumt a foygl tsu mayn shoyb" as S. Golub.
+
+	2. In _Unzer gezang:  lider zamlung far der yidisher shul_
+(Montreal:  Yidishe folks shuln, 1929) Y. Zaslavsky is listed (in the
+table of contents) as the composer of the music to the same poet's "Dos
+lid fun der frosh."
+
+Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol. 4.084
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

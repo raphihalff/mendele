@@ -1,0 +1,142 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 135
+January 11, 1993
+ 
+1) Emes (Moshe Taube)
+2) Emet/emes (Berl Hoberman)
+3) Jewish Forward (Mischa van Vlaardingen)
+4) Reflexive (medio-passive?) (Eli Katz)
+5) Yiddish typesetting (Jane Peppler)
+
+1)----------------------------------------------------
+Date: Fri, 08 Jan 93 13:28:36 EST
+From: Moshe Taube <MAXUS%HARVARDA.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: RE: emes
+
+The question about the dagesh is in place. However emes
+does take a dagesh in t he final consonant when followed by
+an affix, e.g. emet la'amittah, or the adj. amitti. Same
+with bat `daughter' bittah 'her daughter' (comp. Arab.
+bint), as o pposed to  bayit `home' beytah `her home'
+(without dagesh).Berl's explanation r eflects the commonly
+accepted etymology of emet from *amint-, which, as far as I
+know, is not controversial.
+
+Moshe Taube
+
+2)----------------------------------------------------
+Date: 11 Jan 1993 14:01:07 -0500 (EST)
+From: Robert D Hoberman <RHOBERMAN@ccmail.sunysb.edu>
+Subject: RE: Emet/emes
+
+This is, by now, way outside the field that Mendelenikes
+usually take an interest in.  I promise I'll stop after
+this.  --unless, of course, somebody asks another question.
+In discussing the origin of emet, I suggested it had a
+history something like this: ement > emett > emet > emeth (
+>emes in Ashkenaz).  Now Meylekh asks why, if the final 't'
+comes from *nt via *tt, doesn't it take a dagesh?  "I
+suppose," he says, "there is some additional rule governing
+that."
+
+There is: you don't have a dagesh after a vowel at the end
+of a word.  That's why, for instance, the word for 'bear'
+has the singular dov, from *dubb, cf. the plural dubbim.
+There are lots of cases like this one.  When 'emet has a
+suffix, the letter 't' does indeed have a dagesh:
+'amittekha 'your truth'.  (Dagesh after a consonant at the
+end of a word occurs only under special circumstances.)
+
+The only exceptions I can think of are /att/ 'you (feminine
+singular)' and /natatt/ 'you (fem. sg.) gave', where I'm
+using the double t to stand for the anomalous t-dagesh,
+which marks feminine singular.  Compare these with /latet/
+'to give', which is also from a form ending in -nt (the
+root is ntn), but has no dagesh--it isn't fem. sg.  Compare
+/laqaHat/ (without dagesh -- the H is the letter khes) 'to
+take' with /laqaHatt/ (with dagesh) 'you (fem. sg.) took'.
+Exactly how this /tt/ was pronounced is a matter of debate
+(among those who debate about such matters); my opinion is
+that it sounded like a plain t, while 't' without dagesh
+was like English th.  ("Was"?  When?  That's a separate
+question.)
+
+Berl
+
+3)----------------------------------------------------
+Date: Sat, 9 Jan 93 0:41:26 MET
+From: santen@dutiws.TWI.TUDelft.NL
+Subject: Jewish Forward
+
+Scholem aleichem,
+
+Due to a technical problem with my pc, I haven't been
+able to read nor respond to mendele for almost 6 weeks.
+So, although a bit late, I would very much like to thank
+the person who arranged for me to be send a subscription
+form for the Jewish Forward. Thank you very much !
+I also lost a lot of my mail, so I don't know who that
+person was.
+
+Secondly it's been nice to see that there is now a
+second dutch Mendelnik. Wie ben jij?
+
+It sure feels great to be on the net again !!!!
+
+Mischa van Vlaardingen
+
+4)----------------------------------------------------
+Date: Sun, 10 Jan 93 16:33:29 -0800
+From: katz@Sonoma.EDU
+Subject: reflexive (medio-passive?)
+
+Apropos of Bob Rothstein's fine discussion of the Yiddish
+reflexive, family lore tells this about my father's "onkl
+yoshe" (the Vilna aunts and uncles were called 'onkl' and
+'tante', the shtetl (Mikhalishok) aunts and uncles were
+called 'feter' and 'mume') who emigrated to the US around
+the turn of the century. He was a skilled glovemaker who
+actually lived and worked in Gloversville, N.Y. for a short
+time.  He had already passed through the Maskil stage, and
+was a frank atheist.  This was puzzling to younger
+glovemakers who were remained orthodox, but nevertheless
+respected both his character and his craftsmanship.
+Apparently they too called him 'onkl' (or so the story was
+transmitted to me).  "Onkl," some one once asked him,
+"farvos gleybt ir nit?"  His response: "Ikh veys?  Es
+gleybt zikh epes nit."
+
+Eli Katz
+
+5)----------------------------------------------------
+Date: Sun, 10 Jan 93 20:09:46 EST
+From: jpeppler@acpub.duke.edu (Jane Peppler)
+Subject: Yiddish typesetting
+
+[This message was forwarded to Mendele by David Sherman.]
+
+I wondered if you have contacts who are conversant with
+Yiddish typesetting procedures. I am working on books with
+two separate musicians, most of the book (music,
+transliterations, translations) will be in English but each
+of them also wants the text of each song printed out
+properly. I have gotten catalogs from Davka and Kabbalah
+software companies, but they are focused on Hebrew
+exclusively.
+
+I use Wordperfect 5.1, with Type 1 fonts imported using
+Primetype. I also run Fontographer through Windows -- it
+has the capability of cating and altering characters, so so
+theoretically I can take a regular Hebrew font and alter it
+for Yiddish and map the keyboard phonetically (my own
+Yiddish is minimal). However, I don't want to be
+reinventing the wheel if such work has been done already by
+somebody else.
+
+Jane Peppler
+
+______________________________________________________
+End of Mendele Vol 2.135
+

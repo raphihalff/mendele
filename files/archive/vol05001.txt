@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.001
+May 15, 1995
+
+1) We start our fifth year (Noyekh Miller)
+2) Of koyletches and khalas (Marjorie Schonhaut Hirshan)
+3) Koyletch (Jascha Kessler)
+4) Dutsn un irtsn af yidish (Sholem Berger)
+
+1)----------------------------------------------------
+Date: Mon, 15 May 1995
+From: nmiller@mail.trincoll.edu
+Subject: We start our fifth year
+
+From Vol4.001 (5/15/94):
+
+    Mendele begins its fourth year today.  From a nucleus of 22 we
+    are now close to 500.  From a hand-stitched mailing list that
+    came out of Trinity's old VAX we now, thanks to Victor Bers,
+    conduct business via Yale's Listserver.  For the shames it's been
+    pure pleasure the whole time, since all the hard work has been
+    done by those who do the writing.
+
+I would change nothing from that statement except to note that, as
+Mendele begins its fifth year, we are now just short of 750.  And live in
+24 _known_ countries.
+
+Country        Subscribers              Country        Subscribers
+-------        -----------              -------        -----------
+Argentina              3                Israel                23
+Australia              5                Italy                  3
+Austria                2                Korea                  1
+Belgium                1                Netherlands            3
+Canada                41                New Zealand            1
+Costa Rica             1                Poland                 5
+Estonia                1                South Africa           1
+Finland                1                Spain                  1
+France                 2                Switzerland            2
+Germany               17                USA                  601
+Great Britain          6                Venezuela              1
+Hungary                1                ???                   13
+Iceland                1                Total                747
+
+
+Not bad, as the shameste says, for a dying language.
+
+Noyekh Miller
+
+2)----------------------------------------------------
+Date: Sun, 14 May 1995 14:24:44 -0400
+From: shirshan@aol.com
+Subject: Of koyletches and khalas
+
+My bubie used to say, "A koyletch un an ek oif Rosh Hashona." A koyletch
+was a round khala to symbolize eternity and wishes for a long life.
+
+Our roots were in Skalat and Husiatin in Austria near the Russian border
+and mama used to tell about koyletches made in Russia with saffron and
+raisins, and ladders (so one could ascend to the blue yonder) imprinted
+on top.
+
+An article in Moment told of the Ukrainian custom of baking khala dough
+in the form of a bird symbolizing God's protection in the form of a
+hovering bird. I think it was Lithuania where khala dough was baked in
+the form of a crown to symbolize God as king (or queen?).
+
+In Leviticus, Moses was instructed to place two rows of six khalas each
+before the Lord every Shabos. This eventually came down to the family
+table on Shabos where the 12 round loaves turned into 2 braided loaves
+with at least 6 humps in each (to represent the 6 loaves in each of the 2
+rows placed on the table in the Temple).
+
+The first khalas (which were round) were believed to be made from
+semolina flour, a fine wheat flour used in pasta.
+
+Marjorie Schonhaut Hirshan
+
+3)----------------------------------------------------
+Date: Sun, 14 May 95 12:57 PDT
+From: ime9jfk@mvs.oac.ucla.edu
+Subject: Koyletch
+
+In Hungarian Jewry it was kalach, pronounced kalatch.  My motherinlaw
+made them , a light breakfast type coffee cake. My father, when shown
+it, laughed: Oy, this is a koyletch!  He was promised a something
+different.  He was from Bessarabia.  I wanted my motherinlaw to put
+raisins and cinnamon in, which she began to, to oblige me.  Hers was
+plain, and not flat but high.  Good for dunking, and for putting jam on.
+Coming from South Russian types, I needed more zetz to everything she
+made, spices, peppers, raisins, cinnamon, even salt.  You name it. The
+same cake I buy now and then in its Italian form, as pannettone.  That
+has some dried fruit morsels in it, but it comes plain, too.  Nothing
+special, and easy to make...not that my writing wife would ever trouble
+to bake a cake.  Why did I marry her, you might wonder?  She had a Smith
+Corona portable typewriter ,new, as her dowry.  I jumped at the chance.
+Four years later I even wrote my PhUD on it!  Oh, to think of the labors
+of Hercules, and pre-technology.  Note cards, cut and paste! Oi vey.
+Now, I can entertain hundreds unknown with such trivia.
+
+Jascha Kessler
+
+4)----------------------------------------------------
+Date: Sun, 14 May 1995 18:20:55 -0700 (PDT)
+From: zdb@cco.caltech.edu
+Subject: Dutsn un irtsn af yidish
+
+tayere ekspertn, ikh bet aykh ayer koved far ot der nisht-geshulter
+frage:
+
+s'farinteresirt mikh di teme fun dutsn un irtsn af farsheydene shprakhn.
+m'hot tomid gezogt (tsi rikhtik tsi nisht) az, nokh der tsveyter velt-
+milkhome, m'dutst zikh ale mol mer un m'irtst zikh ale mol veyniker.
+
+ershte frage: iz emesdik ot di svore?
+
+tsveyte frage: vos tut zikh mit dutsn un irtsn af yidish haynt-tsu-tog?
+tsi dutst zikh di mayoritet fun yidish-redners, oder nisht?
+
+a yidish grus fun
+
+sholem (Zack) berger
+
+______________________________________________________
+End of Mendele Vol. 5.001
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,195 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 240
+May 5, 1992
+ 
+1) "Shvartse Karshelekh" (David Sherman)
+2) More Yidlish (Hershel Bershady
+3) Peretz book (Eli Katz)
+4) Vilne (David Neal Miller)
+5) Stranger than folklore (Bob Werman)
+
+1)----------------------------------------------------
+Date: Tue, 5 May 92 9:45:34 EDT
+From: dave@cai.lsuc.on.CA
+Subject: RE: Mendele Vol 1.237
+
+Cal Pryluck asks:
+
+> Now that Bob Rothstein has offered the final and definitive
+> Yiddish version of the Internationale, perhaps someone can
+> help me with a song from Yiddish vaudeville that has
+> floated around my mind for fifty years.
+
+Well, one thing I have plenty of is Yiddish songbooks.
+Shvartse Karshelekh ("Black Cherries") can be found on page
+26 of "Favorite Yiddish Songs / Mir Trogn a Gezang",
+compiled by Eleanor Gordon Mlotek, published by Adama Books
+for the Workmen's Circle in 1972. (It's found in Judaica
+stores and is also available from the Workmen's Circle in
+NYC.)
+
+"Folk song, parts of which were published by Y.L. Cahan in
+1912; a similar version was published by M. Gelbart in
+1938. The stanza about black cherries was traced to the
+16th century by the folklorist Y.L. Cahan.  It is also part
+of a children's song that was once a love song: "Kumt der
+liber zumer shpiln mir in zamd" (When summer comes, we play
+in the sand)."
+
+Shvartse karshelekh rayst men,
+Un grine lozt men shteyn
+Sheyne meydelekh nemt men
+Un miese lozt men geyn
+
+CHORUS:
+Oy, vey iz tsu mir,
+Un vey tsu mayne por yor,
+A libe hob ikh gefirt
+Felike dray fertl yor.
+
+Vos toyg mir di polke mazurke,
+Az tansn tants ikh zi nit,
+Vos toyg mir dos meydele fun vurke
+Az libn libt zi mikh nit.
+
+Vos toyg mir der nayer valets
+Az tantsn tants ikh im nisht,
+Vos toyg mir dos meydele fun shilets,
+Az libn libt zi mikh nisht.
+
+Transcribed as it appears: I guess the stanzas are from
+different sources, given the forms of nit/nisht that
+appear. If I'm not mistaken, the sequence that begins "Oy,
+vey iz tsu mir..." is familiar outside Yiddish song.  I
+have it in a piano book as part of the "Mexican Hat Dance".
+It was also used in a TV commercial years ago for Frito's
+corn chips ("I'm the Frito Bandido").
+
+David Sherman
+Toronto
+
+2)----------------------------------------------------
+Date: 05 May 92 11:24:30 EST
+From: "Dr. Harold Bershady" <HBERSHAD@PENNSAS.UPENN.EDU>
+Subject: PERHAPS THE LAST OF THE "YIDLISH" LIST
+
+Friends, relatives and Mendele subscribers have been
+sending me more 'Yidlish' words.  I pass them on to the
+wider scholarly community.  Thanks to Helen and Rikki
+Schneyer, Jared Lubarsky, Tom Wasow, Suzanne Bershady and
+David Sherman (whose last contribution I've simply
+aggrandized as part of the list):  bluster, bold, deft,
+dental, device, dingle, ear, eminence, epic, falter,
+fermented, filter, fleece, fluster, girdle, grub, heist,
+hint, holster, inkling, jostle, junket, ladle, link, moult,
+notbyme, pinked, plunge, poise, poultice, rebel, reminisce,
+rubble, spinster, spittle, strum, svelte, trestle, tustle,
+vent, ventricle, veranda, vessel, vice.
+
+Genug (the real mccoy).
+
+Hershel Bershady
+
+3)----------------------------------------------------
+Date: Tue, 5 May 92 08:37:06 PDT
+From: katz@Sonoma.EDU
+Subject: Peretz Book
+
+To Professor van der Auwere:
+
+Thanks for your query and forgive the delayed response.
+There was a transmission error.  The book costs $19.95 plus
+postage and handling ($2.00, I believe).
+
+Eli Katz
+
+4)----------------------------------------------------
+Date: Tue, 5 May 92 12:43:48 EDT
+From: David Neal Miller <dnmiller@magnus.acs.ohio-state.edu>
+Subject: Vilne
+
+I was delighted to learn that Vilne, one of four Yiddish
+fonts I adapted (with permission) from acquired models, is
+alive and well and living in Toronto. (It is, alas, better
+travelled than I.)
+
+Vilne--as well as its companion font, Kovne--are based upon
+the Hebrew font distributed with the old Mac in Hebrew
+init/da; Vilne strips the Mac in Hebrew-specific encoding
+while Kovne retains the right-to-left encoding unique to
+Mac in Hebrew.  Mac in Hebrew is/was shareware, with a fee
+payable, if memory serves, to the Cambridge (MA) Hillel
+Foundation; Vilne and Kovne are themselves in the public
+domain, though I credit myself in the GetInfo box.  Perhaps
+regular users of Vilne and/or Kovne should pay the Mac in
+Hebrew shareware fee, or a portion thereof, to the original
+distributor of Mac in Hebrew?  For my part, I gave copies
+of the fonts to several registered users of Mac in Hebrew,
+and never posted them to the public, but am gratified that
+they have found their way to Donyel-Moyshe.
+
+Flatbush and CrownHts are quite another matter: these are
+adaptations of Dovid Katz's eccentric but (to my mind, at
+least) very attractive Yiddish fonts, reassigned key
+positions and retrofitted with Yivo- standard graphemics.
+We use these here at Ohio State with Dovid Katz's
+permission, but they are absolutely not for distribution.
+Should anyone have come by a copy of Flatbush or CrownHts,
+I would beg him or her to send me a private message.
+
+I would welcome greater elaboration by users of Hebrew
+Nisus: are all standard Yiddish graphemics present? is the
+keyboard mappable to place Yiddish letters where the user
+wants them to be? can the supplied fonts be edited (by,
+say, Fontastic Plus, Fontographer, ResEdit, or whatever)?
+
+David Neal Miller
+
+5)----------------------------------------------------
+Date: Mon,  4 May 92 19:56 +0300
+From: RWERMAN@HUJIVMS.HUJI.AC.IL
+Subject: Mendele 1.237
+
+Eli Katz writes:
+
+Without in the least questioning the authenticity of the
+Chagall story, I'll point out that it's an exemplar of a
+folklore type (not necessarily catalogued).  The version
+that I heard (at least 35 years ago) tells that Gorky and
+Chaliapin grew up together in Nizhni Novgorod.  They both
+auditioned for the cathedral choir. Gorki was accepted;
+Chaliapin was not.
+
+****************
+
+Life is stranger than folklore, in my experience. Here is
+an advanced version of the same myth, and I was one of the
+actors.  [Incidently the other character in this story was
+a colleague of Martin Davis, who is now active on this list
+and whose name I have not heard these 40 years.]
+
+In Stuyvesant High School [1943] I was touted to be the
+mathematician of the class while a Jacob Schwartz was the
+chemist.  In the chemistry regents, Schwartz blew it,
+getting only a 98; he had used a slide rule, a tool too
+erudite for the rest of us, and gotten the wrong answer.
+Although I went on to be the captain of the high school
+math team [sic!], Schwartz became a famous mathemetician
+who worked together with Martin Davis at NYU.  I never went
+into math.  [I got the 100 in the chemistry regents, though
+[no slide rule] and went into medicine and biology which is
+a bit closer to chemistry, I guess.]
+
+__Bob Werman
+
+______________________________________________________
+End of Mendele Vol 1.240
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

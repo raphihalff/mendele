@@ -1,0 +1,173 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.075
+July 31, 1994
+
+1) Introduction (Alice Faber)
+2) Introduction (Alexis Manaster Ramer)
+3) Yiddish poetry (Avrom Yitzkhok Blair)
+4) Translation service (Stanley Werbow)
+5) "Comparative" Linguistics (Zellig Bach)
+6) YIVO (Jeremy Rosof)
+7) Diminutive plurals (Alexis Manaster Ramer)
+
+1)----------------------------------------------------
+Date: Sat, 30 Jul 1994 15:55:53 -0400
+From: faber@haskins.yale.edu
+Subject: Introduction
+
+I'm interested in the (linguistic) history of Yiddish. I have published a
+few articles on the subject, but my current research interest is more
+generally in the phonetics of dialects and of language change. People
+have told me that I should be on Mendele, and after much procrastination,
+here I am!
+
+Alice Faber
+
+2)----------------------------------------------------
+Date: Sun, 31 Jul 94 11:03:03 EDT
+From: amr@zeus.cs.wayne.edu
+Subject: Introduction
+
+I am a professor of computer science as well as member of the linguistics
+program and of the center for peace and conflict studies at Wayne St. U.
+I have a Ph. D. in linguistics from Chicago.  I barely speak and more or
+less read Yiddish.  My interest is primarily in the history of the
+language and as part of that in learning more about Western Yiddish.  At
+the moment I am pursuing some ideas about the history of final devoicing
+in Yiddish and about the origins of the -x plural as well as the -s
+plural in words of non-Hebrew/Aramaic origin (such as feders).
+
+Alexis Manaster Ramer
+
+3)----------------------------------------------------
+Date: Fri, 29 Jul 94 17:50:24 EDT
+From: ablair@magnus.acs.ohio-state.edu
+Subject: Yiddish poetry book
+
+(1.) I recently received in the mail from the author, Walter Artzt, a
+lovely book of his poetry - in Yiddish with English translation. Perhaps
+I have a certain affinity for him, as his name, Artzt, means "doctor" auf
+Deutch. Anyway, it would be a nice addition to a Yiddish library.  My
+only comment is that the spirit of the poems seems a little morose.  It's
+worth looking at: The Foundation for Future Generations; 393 West End
+Ave.; suite 4D; New York, N.Y. 10024.
+
+(2.) To Ali Lemer: Don't worry about what your Yiddish sounds like, or
+your grammer.  All of us who are not native speakers have the same tzoris
+- and we go around correcting each other (nu, es iz der Yiddishn veg!)
+Stay with us!
+
+(3.) Yiddishe Fedder-Fraynt:  Our list is growing, but slowly.  Let me
+hear from some of you Mendelnikeh-shraybers out there.  We are especially
+interested in shraybers from outside the United States. (I'll be back -
+tzu dreyen a kop fun dir alleh)
+
+Avrom Yitzkhok (Allan) Blair
+
+4)----------------------------------------------------
+Date: Sat, 30 Jul 1994 10:39:17 +0800
+From: s.werbow@mail.utexas.edu
+Subject: Translation service
+
+For the member who wanted help with reading and translating his/her
+grandfather's letter, I call attentiion to the advertisement in the
+latest issue of the Book Peddler announcing Yiddish Translation Services
+by Dr. Khane-Feygl Turtletaub at 708/675-3335.
+
+Stanley Werbow
+
+5)----------------------------------------------------
+Date: Sat, 30 Jul 94 18:27:39 EDT
+From: Zellig@aol.com
+Subject: "Comparative" Linguistics
+
+I read recently that in some parts of Japan a person who is steaming mad
+is referred to as kan-kan which to Japanese ears is the sound of a
+boiling kettle.
+
+This reminded me of the picturesque Yiddish idiom in which a utensil for
+boiling water also plays a part.  It is the expression "to hak a
+tschaynik"--literally to beat or bang a teapot.  While it carries a
+different meaning than the Japanese "kan-kan,"  to "hak (or hakn) a
+tschaynik" refers to talking nonsense, to bend the listener's ears, to
+complain endlessly, and generally to make for no real reason a "tararam"
+(a hullabaloo about nothing).
+
+I might loosely translate into American English the popular expression
+"don't hak a tschaynik" as "don't make with the drums," an allusion to
+the use of drums by American Indians, albeit without any clear or
+substantive message.
+
+Zellig Bach
+
+6)----------------------------------------------------
+Date: Sat, 30 Jul 1994 10:29:47 +0500
+From: jrosof@sas.upenn.edu
+Subject: YIVO
+
+Thank you to YIVO Chief Librarian Zachary Baker for the updates on the
+situation in Buenos Aires.  The most recent posting noted that YIVO's
+catalogue was destroyed.  It sounds like chaos reigns in the Argentina
+branch: when will they ever regain order?  What has the New York YIVO
+done to guard its collections against a similar catastrophe: are there
+copies of the card catalogue, are the most valuable and rare parts of the
+collection microfilmed and or held in duplicate elsewhere?  Have any of
+the major Jewish organizations pledged in the wake of the Buenos Aires
+disaster to be more forthcoming ($) in aiding the American YIVO or
+Argentine YIVO to avoid further mass loss of the heritage of Ashkenazic
+Jewry?  The YIVO has long been a primary scholarly resource in the field
+of Jewish history literature and music, its collections unrivaled in the
+field of E. European Jewish studies.  The organization has continously
+bitten off more than one would think it could chew out of a deep sense of
+scholarly responsibility.  As a past worker in YIVO's collection and a
+researcher who has dipped into it's holdings first hand, I am a witness
+to its wealth (in holdings) and to the dedication of its staff.  At the
+same time I have seen its poverty, and its financial struggle to keep
+pace with its enormous responsibilities.  My question: what has been
+learned from the Argentine disaster: who will help our North American
+YIVO to avoid a repeat of the Argentine tragedy and to focus on its
+mission of helping us all?
+
+Jeremy Rosof
+
+7)----------------------------------------------------
+Date: Sun, 31 Jul 94 07:37:41 EDT
+From: amr@zeus.cs.wayne.edu
+Subject: Diminutive plurals
+
+I have some ideas about the origin of the diminutive plurals
+such as bixlex, tishlex, but have not found much literature
+on this.  I would appreciate any references to ideas on
+the origin of the -(e)x plural.  Please send those directly
+to me.  If anything emerges, I will post a summary of
+the responses on the list.
+
+Alexis Manaster Ramer
+
+______________________________________________________
+End of Mendele Vol. 4.075
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

@@ -1,0 +1,114 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 106
+November 20, 1991
+ 
+1) Reply to Aren Abramson (Mikhl herzog)
+2) Double negatives (Ruvn-Mendl Turkel)
+3) Double negatives (david Sherman)
+
+1)----------------------------------------------------
+Date: Tue, 19 Nov 91  15:51 EST
+From: ZOGUR@CUVMB.BITNET
+Subject: RE: Mendele Vol 1.104
+
+Aren:   Unless Uriel referred to the matter in his articles
+in Leshoneynu (in the easrly and mid 60's--too late for
+what you recall, no?), he doesn't discuss the nasalization
+of ayin at all. Surprisingly, there's no explicit reference
+to the phenomenon in his "Outlines of Yiddish Dialectology"
+(for which see Vol 1 of THE LANGUAGE AND CULTURE ATLAS OF
+ASHKENAZIC JEWRY, in press). Max Weinreich discusses
+nasalization (including ayin) and attributes it to the
+sequence hataph-hataph patah. In Eastern Yiddish, by the
+way, there seems to be some- thing of a west to east
+continuum in which nasalized vowels in the west are
+resolved into vowel plus nasal consonant in the east: e.g.
+(capital = nasalized vowel) mA:se 'story', yA:kef 'Jacob',
+vO:ses 'mustaches' in western Poland are ultimately
+realized as ma(j)nse, ya(j)nkev, vonses/vonces/voncjes.
+ 
+Rick Turkel: Do you consider ayin a guttural? Isn't it the
+voiced counterpart of het, a pharyngeal? Aren Abramson,
+HELP! Do pharyngeals = gutturals?
+ 
+Speaking of double negatives, I'm afraid I don't know
+nothing more about English bubbis and tushis. Surely, nisht
+keyn and the like (ikh hob gornisht nit keyn gelt!!!) are
+"true" double/triple negatives. No?
+
+2)----------------------------------------------------
+Date: Tue, 19 Nov 91 12:37:09 EST
+From: rmt51@cas.bitnet
+Subject: RE: Double negatives/positives (Mendele Vol 1.104)
+
+In reference to Harold Bershady's question about double
+negatives in Yiddish: ALL of the Slavic languages require
+double (and even triple) negatives in such constructions.
+E.g., (Serbocroatian) nisam nikad nikud is^ao, I never went
+~~    ~~    ~~ anywhere (negative particles underlined).
+ 
+        Rick (Ruvn-Mendl) Turkel
+
+3----------------------------------------------------
+Date: Tue, 19 Nov 91 23:44:43 EST
+From: dave@lsuc.on.CA
+Subject: RE: Mendele Vol 1.104
+
+> There's an old joke that in Yiddish the double positive --
+> "Yah, yah" -- is a negative (of course inflection is all).
+
+Actually, I've heard that joke told about *English*, the
+context being a linguistics lecture where the lecturer
+explains that although double negatives in English are a
+positive, the reverse isn't true (and then a voice pipes up
+from the back, etc...)
+
+> However, as a friend pointed out to me in Yiddish there are
+> "double negatives" that do not mean a "positive," as would
+> be the case in English.  E.g."Ich hob nisht kein gelt" (a
+> refrain often heard). Is there a true double negative here?
+
+It's clearly a negative meaning, but I think the verb +
+"nisht" + "kein" is how the negative is expressed (when an
+indefinite article is called for).  Perhaps the best
+analogy is to the French "ne ... pas", where both are
+normally required to make a complete negative (although
+it's possible to have "ne" with some other words, like
+"rien" or "jamais", and it's possible to have "pas" in some
+cases without the "ne").
+
+On the other hand, the Yiddish "kein" is very different
+from the German "kein", from what I remember of my years of
+German. The German "kein" is used with a positive verb to
+create a negative meaning, and so is a genuine negative.
+("Kein Mann ist gekommen.")  The Yiddish "kein" requires a
+negative verb to create a negative meaning ("Kein man iz
+nisht gekimen"). Using "kein" in Yiddish with a positive
+verb would simply be wrong.
+
+Now, I'm sure someone with a different dialect of Yiddish
+will tell me that what I've said isn't true in their
+case...
+
+> If so, why doesn't the logical rule apply in Yiddish as it
+> does in English?  This is a minor conundrum for me, which
+> doesn't interfere with comprehension, yet I'd appreciate a
+> solution.
+
+You just need to think of "nisht" and "kein" as two halves
+of the negative, much like "ne" and "pas".  It's found in
+other languages, too.  For example, "Nao tenho nada" (I
+have nothing) or "Nao vi ninguem" (I saw nobody) in
+Portuguese; "Eyn li clum" (I have nothing) or "Lo ra'iti
+shum ekhad" (I saw nobody) in Hebrew.
+
+And, of course, certain dialects of spoken English use a
+double negative to convey a negative.  "Ain't" requires a
+negative inflexion to complete it.
+
+David Sherman
+
+______________________________________________________
+End of Mendele Vol 1.106
+

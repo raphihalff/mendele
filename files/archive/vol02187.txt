@@ -1,0 +1,119 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 178
+April 30, 1993
+
+1) Yiddish videos (Moshe Waldoks)
+2) Diminutives and plurals (Ellen Prince)
+3) Ya-Tebe-Dam (Alan Rutkowski)
+4) Ya-Tebe-Dam (Zev Bar-Lev)
+5) W. Younin's book (cont.) (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Wed Apr 28 10:44:36 1993
+From: WALDOKS@BINAH.CC.BRANDEIS.EDU
+Subject: Yiddish videos
+
+Regina, whatever you do, make sure you have some of the
+excellent Yiddish videos available from the National
+Center for Jewish Film at Brandeis U. in Waltham
+617-899-7044- a perfect distraction for an evening or
+a rainy day
+
+Moshe W.
+
+2)----------------------------------------------------
+Date: Thu Apr 29 17:04:37 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Diminutives and Plurals
+
+>...
+>            Chasid sg.   Chasidim  pl.
+>            Chasidl sg. w/diminutive
+>            Chasidimlekh  pl. w/diminutive
+>
+>Is this an isolated case in Yiddish? - I doubt it.
+>Where can I find anything written on the subject of the
+>order of these morphemes? More examples?
+
+hi, margaret/malkah (!). dave perlmutter did a paper on
+this a few years ago, for which i have the following
+reference:
+
+Perlmutter, D. 1986. The split morphology hypothesis:
+ evidence from Yiddish. Presented at the Milwaukee
+ Morphology Meeting, April.
+
+i think the proceedings have appeared, presumably with
+his paper in them. to save the generalization that
+inflectional morphology goes outside of derivational,
+he proposes that the plural forms of any items which
+don't have a 'regular' -n or -s plural are stored
+separately as suppletive forms and there's no
+'analysis'--you need that anyway for plurals with zero
+morphology (ferd/ferd). btw, if i remember correctly,
+there's one germanic noun with the m. semitic pattern
+(where the -lekh attaches to an unambiguous plural
+form): kinderlekh. (the other 'suppletive' forms have
+the same stem for the singular diminutive as the plural
+non-diminutive and diminutive: bukh, BIKH-l, BIKH-er,
+BIKH-lekh.) (of course, yid. kind 'child' has no sg
+diminutive, but bavarian has kindl, not kinderl.
+bavarian kindl, btw, is apparently used to denote the
+christ child, which i suspect is why it's missing in
+yiddish.)
+
+as an aside, i once did a little (unpublished) study of
+language-mixing and looked at how plurals were treated.
+it fits beautifully with perlmutter's analysis: yiddish
+-n and -es plurals (his 'regular' ones) used in english
+got english plural morphology (yid. yortsaytn vs. eng.
+yortsayts), while his 'suppletive' forms tended to be
+taken, at least for a generation, with their original
+morphology (goyim, kinder), suggesting that they are
+stored as such in the lexicon.
+
+n.b.: i'm probably misremembering parts of perlmutter's
+analysis! check before citing.
+
+Ellen Prince
+
+3)----------------------------------------------------
+Date: Thu Apr 29 18:27:38 1993
+From: <ARUTKOWS%UALTAVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: Re: YA TEBE DAM.
+
+This is Russian and it means "I'll show you!
+(literally, "I'll give you"). It's what you say to a
+bigshot, I guess.
+
+Alan Rutkowski
+
+4)----------------------------------------------------
+Date: Thu Apr 29 18:45:39 1993
+From: zbarlev@sciences.sdsu.edu
+Subject: Re: YA TEBE DAM
+
+Ya tebe dam is Slavic (Russian at least) for "I'll give
+you".  One can easily enough imagine larger contexts
+(which is a good thing, since I don't know what the
+larger context actually was).
+
+zev bar-Lev
+
+5)----------------------------------------------------
+Date: Thu Apr 29 22:45:17 1993
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: W. Younin's book (cont.)
+
+The copy that Zachary Baker reported on in Mendele 186
+may just be a photocopy of the _Forverts_ installments,
+which were printed in double columns, each bearing a
+page number.  The last installment was pages 193-94.
+
+	Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol 2.178
+

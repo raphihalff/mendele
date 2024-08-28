@@ -1,0 +1,140 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 58
+August 31, 1992
+ 
+1) Grammar questions (Jeff Finger)
+2) T > th > s (Yitzhak Kertesz)
+3) Lachoudisch (Zachary Baker)
+4) Yiddish Folksongs (Mischa van Vlaardingen)
+
+1)----------------------------------------------------
+Date: Fri, 28 Aug 92 14:41:59 MDT
+From: jfinger@mv.us.adobe.COM
+Subject: Grammar Questions
+
+I'm so confused! 
+
+Why is "Ikh bin moykhl" in the past tense "Ikh hob moyhkl
+geven" instead of "Ikh bin moykhl geven"?
+
+Stated differently, one would think that the past of
+"moykhl zayn" would be "moykhl + past-tense(zayn)". But not
+so according to Weinreich, page 322 (see also the
+incomprehensible footnote). Can someone tell me why?
+
+Many thanks,
+
+-- Jeff Finger --
+
+2)----------------------------------------------------
+Date: Fri, 28 Aug 92 08:19:40 PDT
+From: Yitzhak Kertesz <BM.LBH%RLG@Forsythe.Stanford.EDU>
+Subject: t > th > s
+
+Do you remember from Hebrew School the famous begad kefat
+letters? Those that sometimes have a dagesh and sometimes
+don't? And the pronunciation varies accordingly: b-v, g-gh,
+d-dh, k-kh, p-f, t-th. These all appear in the Masoretic
+Bible (i.e. the regular Hebrew Bible that is equipped with
+vowels, cantillation marks, and other goodies) These signs
+are a proof of the variations in pronunciation: following a
+vowel the dagesh is dropped. The g-gh, d-dh got forgotten
+almost everywhere, (Yemenite Jews are supposed to having
+preserved them). The other three (b,p,k)  are kept
+everywhere, and the t-th is our topic. It was authentic in
+9th c. Palestine, while it probably never developed in
+Babel, or later in Sefarad. Under the influence of
+Palestinian Jewry, Ashkenazi Jews had it from the earliest
+times on. And as Ms. Prince correctly points out, the /th\
+became /s\. Not only in the fem. plural (sukkes, shayles,
+teshuves), but also in nakhas, mise (!), and so on. It is
+easy to prove its existence from 2-300 years ago in
+Hebrew/Yiddish texts that were transcribed into German
+script. But I tend to think, that the th > s shift happened
+much earlier.
+
+Gut Shabb_es_,
+
+Yitzhak Kertesz
+
+3)----------------------------------------------------
+Date:  August 28, 1992
+From:  Zachary Baker (BM.YIB@RLG.BITNET)
+Subject:  Lachoudisch
+
+Some weeks ago there was discussion on MENDELE regarding
+Lachoudisch.  Since I am a bibliographer and not a
+linguist, I will confine myself to mention of two books --
+one of which has crossed my desk this week and one which I
+have not seen -- that may shed light on the subject. Moshe
+Klein, the author of the newly published collection of
+essays, "Oyfkum un antviklung fun yidish un fun der yidish-
+literatur bizn mitn 19tn yorhundert; algemeyne shtrikhn"
+(Tel Aviv:  I. L. Peretz, 1991), has a chapter, "Yidish - a
+'geheymshprakh'?" (pp. 32-35), in which Lachoudisch is
+discussed.  He also cites the following book (which, alas,
+we do not have at YIVO):  "Lachoudisch:  Geheimsprache
+Schopflochs," by K. Philipp (Dinkelsbuehl:  Verlag C. W.
+Wenng, [year?]).  Klein reproduces an excerpt from
+Philipp's book that is in Lachoudisch, "A klaner Schmues af
+Lachoudisch," in which Heiner and Fritz discuss the sale of
+an old cow and a pig.  He also includes samples from
+Philipp's glossary (not directly connected to Heiner's and
+Fritz's Schmues) in which Yiddish elements in Lachoudisch,
+e.g., acheln, allemoel, dalles, behejme, are given German
+definitions.  Klein describes Lachoudisch as follows:
+"Lachoudisch... which was used in Germany in the village of
+Schopfloch, near the border of Swabia. Cattle-dealers
+employed that language, which is now dead.  The word
+Lachoudisch purportedly derives from the word "loshn-
+koydesh."  The German linguist Siegmund Wolf, author of the
+"Juedisches Woerterbuch," believes that Lachoudisch was
+influenced by Yiddish, which he regards as "a language
+museum of corrupted Hebrew and various German dialects."
+Lachoudisch, in other words, is not a secret Jewish
+language, but rather, Yiddish influenced it.  It is highly
+doubtful whether the cattle-dealers were Jews, because at
+that time Jews did not deal in pigs and certainly did not
+slaughter them, as is mentioned in 'A klaner Schmues af
+Lachoudisch'."
+
+Zachary Baker
+
+4)----------------------------------------------------
+Date: Mon, 31 Aug 92 05:28:45 -0400
+From: santen@dutiws.twi.tudelft.nl
+Subject: yiddish folksongs
+
+Recently I bought Volume four of The Anthology of
+Yiddish Folksongs, a publication from The Hebrew
+University of Jerusalem (Magnes Press).
+
+Now I'm looking desperately for Volumes 1,2 & 3
+which are, so it seems, not available here in 
+Holland.
+
+Is there anybody out there who knows how and where
+I could find them ? 
+
+Thanks in advance,
+
+Shalom,
+
+Mischa van Vlaardingen
+
+______________________________________________________
+End of Mendele Vol 2.58
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

@@ -1,0 +1,218 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.195
+December 16, 1995
+
+1) Opshtam funem nomen "Nishe" (Mikhoyel Basherives)
+2) Help with a poem (Herbert Megel)
+3) Hebrew fonts (Zavi Beer)
+4) Kukvinkl ambiguity (Louis Fridhandler)
+5) L.A. Yiddish Choruses (Hershl Hartman)
+6) The US census and data about mother tongues (David Goldberg)
+7) Maven/meyvn and its plural (Zellig Bach)
+8) Stanford U. Yiddish lectures (Cecile Kuznitz)
+9) Handlen Mit a Yid (Morrie Feller)
+
+1)----------------------------------------------------
+Date: Thu, 14 Dec 1995 18:33:30 -0800
+From: mikhoyel@nbn.com
+Subject: Opshtam funem nomen "Nishe"
+
+Sholem-aleykhem!
+
+Tsi ken emetser dem opshtam funem mantsbilshn nomen "Nishe"? Mayn
+elter-bobes bruders nomen iz geven "Yisroel-Nishe". Zey zaynen geven
+opshtamike fun shtetl Pobelov in Minsker gubernye, Vaysrusland. Kh'vil
+zikh zeyer dervisn vegn ot-dem nomen.
+
+Aykh alemen a dank,
+
+Mikhoyel Basherives
+
+2)----------------------------------------------------
+Date: Fri, 15 Dec 1995 03:05:02 -0500
+From: hmegel@tso.cin.ix.net
+Subject: Help with a poem
+
+As a child I was reared by my grandparents who spoke only Yiddish. I have
+not spoken the language since.  However, I remember a line of poetry which
+began, "S'iz geven a kalter, finstere nakht in Bronsville un...." I
+wonder if someone out there remembers the remainder of the poem and who
+authored it. Thank you very much.
+
+Herbert Megel
+
+3)----------------------------------------------------
+Date: Fri, 15 Dec 1995 7:51:21 +0000
+From: szbeer@mailbox.syr.edu
+Subject: Hebrew fonts
+
+Just in the last couple of days I downloaded a couple of special hebrew
+type fonts (Ariela and Mosaic.fixed) that enable the transmission of
+hebrew on the World Wide Web. Somehow the characters, when typed in are
+coded in a particular way that show up as hebrew at the receiver's end!
+Are there any computer mavens out there that know how this can be
+implemented for Mendele? It would certainly solve many problems that are
+of continual contention here.
+
+Sylvan (Zavi) Beer
+
+4)----------------------------------------------------
+Date: Fri, 15 Dec 1995 13:43:15 -0500
+From: lfridhan@aol.com
+Subject: Kukvinkl ambiguity
+
+Anno Siegel:
+
+I appreciate your etymological analysis of German words that seem related
+to the Yiddish _kukvinkl_.  I wish I knew more about linguistics than I
+do. However, I do know something about historical and ongoing Jewish
+experience. When considering the evolution of a word's meaning(s) my best
+guess is that, in this case, I should give more weight to folk experience
+than to etymology.
+
+My speculation about possible ambiguity of _kukvinkl_ is all speculation.
+If one thinks about German and Yiddish, one may think about the language
+of those who cornered, and of those who were cornered, and the different
+thought associations and the emotional tones they may evoke.  Then it is
+clear that Jewish experience (at least among the Yiddish speakers) could
+lend an entirely different tone to the idea of a corner as a
+word-component.  Is it a comfortable place from which to look out? Or is
+it a restricted place into which one was backed?.
+
+Again, thanks for your analysis.  Mendele is an education.  Mendele iz an
+arumnemiker toyre.  A mekhaye.
+
+Louis Fridhandler
+
+5)----------------------------------------------------
+Date: Fri, 15 Dec 1995 14:13:51 -0500
+From: hershl@aol.com
+Subject: L.A. Yiddish Choruses
+
+I'm delighted to advise my good friend, Eric Gordon, that the Arbeter
+Ring Yiddish Chorus is not an eyn-eyntsiger (a solitary phenomenon) in
+Los Angeles. The Sholem Yiddish Singers--the chorus sponsored by the
+Sholem Community Organization--will perform this Sunday morning at the
+Community's _khanike_ celebration at the Crossraods School, 21st St. and
+Olympic, Santa Monica. For further information: (310) 277-0849.
+
+Hershl Hartman
+
+6)----------------------------------------------------
+Date: Fri, 15 Dec 95 16:05:21 EST
+From: david.goldberg@smtpgwy.mla.org
+Subject: The US census and data about mother tongues
+
+Paul Ritterband mentioned a few postings back that the "mother tongue
+question" was asked *routinely* by the US Census since 1910. This is not
+precisely so.  Although the "mother tongue question" was introduced in
+1910, the Census assumed that only immigrants and their children would
+speak other languages, and so they did not ask the question "What
+language was spoken in this person's home when he or she was a child" of
+the entire white population until 1940.  I'm not sure in what year the
+census first took stock of the nonwhite population. In 1980, the question
+was changed to "Does this person speak a language other than English at
+home," a question which the Census found received 15.4 million positive
+responses in 1979,in comparison to 32.4 million positive responses to the
+"mother tongue" question asked of the same group, experimentally, at the
+same time. My point is that the census data may be the best quantitative
+information we have about mother tongues in the US, but it needs to be
+taken with a grain of salt.  The best source I know for this kind of
+information is Dorothy Waggoner, who wrote on the 1970 Census in Ferguson
+and Heath's _Language in the USA_ (Cambridge UP) and on the 1980 Census in
+McKay and Wong's _Language Diversity: Problem or Resource_ (Newbury House).
+
+David Goldberg
+
+7)----------------------------------------------------
+Date: Sat, 16 Dec 1995 19:23:16 -0500
+From: zellig@aol.com
+Subject: Maven/meyvn and its plural
+
+A.  The humorist Jeff MacGregor, who writes for and about television,
+published in the Arts & Leisure section of the _New York Times_ (December
+10, 1995, p. 37) a rhymed satirical piece about pundits on television
+channels who are always at the ready to "pontificate, educate,
+elaborate... illuminate, corroborate, and ruminate..."
+
+The title of the lengthy satire was "The Maven," and the subtitle read
+"(With Apologies to Edgar Allan Poe)."
+
+Usually, when I see a yiddishism in an English newspaper, my first
+reaction is:  "I wish they had spelled it in accordance with the standard
+YIVO romanization, in this case "meyvn," thus reflecting more accurately
+the pronunciation and derivation of the term (although English
+dictionaries still do not do so).
+
+But the mention of Poe in the subheading, and the refraining last line of
+each verse ending with "more," "nor," and "furthermore," alerted me
+naturally to the literary allusion of "The Raven."  My eyes and mind
+therefore gladly accepted the spelling m-a-v-e-n, realizing that in this
+special case it must -- letterly -- parallel the spelling r-a-v-e-n.
+
+B. In the _New York Times Magazine_ of the same date William Safire wrote
+in his language column (p., 38) "As one of this paper's resident language
+_mavenim_..."
+
+As the mother of a sailor who came home on leave said:  "By them he may
+be a captain, but not by me..."
+
+By the _Times_ he is, of course, a maven on English, but not when it
+comes to Yiddishisms.  The plural of maven/meyvn is mevInim, not mavenim,
+with a shift of the accent from the first to the second syllable, and the
+non-syllabic /e/ in the singular changes in the plural to an accented
+/i/.
+
+Zellig Bach
+
+8)----------------------------------------------------
+Date: Sat, 16 Dec 1995 16:34:33 -0800 (PST)
+From: tsirl@leland.stanford.edu
+Subject: Stanford U. Yiddish lectures
+
+The Stanford University Program in Jewish Studies
+		Presents
+The Second Annual Lectures in Yiddish Studies
+		Featuring
+Professor Dov Noy, Hebrew University, Jerusalem
+
+"Time and Space in Jewish Folklore" (**In English**)
+January 10, 1996, 8 p.m.
+
+"When Does Yiddish Poetry Become Folklore ?" (**In Yiddish**)
+January 11, 1996, 4 p.m.
+
+Both lectures will be held in Tressider Union, Oak West Lounge,
+Stanford University, Palo Alto, California.
+
+For more information, please call (415) 723-7589.
+
+Professor Noy is a leading expert in the field of Jewish folklore.
+
+Cecile Kuznitz
+
+9)----------------------------------------------------
+Date: Sat, 16 Dec 1995 10:50:28 -0700 (MST)
+From: feller@indirect.com
+Subject: Handlen Mit a Yid
+
+A shaynem dank dem shames far di mayseh. Ikh in man vahb hobn zayer fil
+gelakht fin dem.  The strengths and weaknesses of transliteration are
+beautifully illustrated by this piece.  The ability to reproduce special
+accents is excellent.  However, when it comes to looking up any words or
+idioms in a dictionary, the lack of a correct Yiddish spelling makes this
+an almost impossible task.  I am going to distribute this piece to my
+leyenkrayz, and we will work it out together.  Then maybe I can persuade
+one of the members to perform this piece as a monologue.
+
+Morrie Feller
+Phoenix
+
+[The shames was only a meshores; but while he's up takes this opportunity
+to wish all Mendelyaner a freylikhen khanuke. nm]
+
+______________________________________________________
+End of Mendele Vol. 5.195
+

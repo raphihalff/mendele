@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.309
+February 1, 1995
+
+1) Litvish masculine first names (Dovid Braun)
+2) Nisim v'nifloes (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Tue, 31 Jan 1995 18:33:55 EST
+From: dovid@mit.edu
+Subject: Source of litvish masculine first names bere, hirshe, leybe
+
+There are subdialects of litvish Yiddish (as spoken in Ponevezh, Aniksht,
+Pumpyan and others -- these are where my informants are from) where the
+word-final sequence /en/ is reduced to syllabic /n/ in all environments.
+Whereas for most of the rest of Yiddish it's /getrunkEn/, /klangEn/,
+/zingEn/ (where by capitalizing the "E" I only mean to draw your
+attention to it, i.e., it is pronounced), these speakers say /getrunkn,
+klangn, zingn/.  Also, what for the rest of Yiddish is /moyshen/ as in
+"ikh hob geredt mit moyshen" is for them /moyshn/.  Thence (I guess)
+Mikhl Herzog's suggestion that the names Leybe, Hirshe, Bere are back-
+formations:  speakers of this type of litvish Yiddish heard "ikh reyd mit
+meyshn" and knew that the guy's name was _meyshe_, and also heard "ikh
+reyd mit leybn" and reanalyzed his name as _leybe (bere, hirshe, etc>_.
+
+BUT:  these names are common in other litvish subdialects, subdialects in
+which /yungen/ 'youths, [noun]' and /yungn/ 'young, [adj., acc/dat]'
+*are* phonetically distinct.  (These are *not* distinct in Ponevezher
+Yiddish, meaning that the morphologically conditioned distinction between
+/n/ and /en/ in the-rest-of-Yiddish has disappeared in Ponevezh et al,
+where phonology has taken over and levelled them.  If I'm not mistaken,
+even what for the rest of us is /ratevEn/ is in Ponevezh:  /ratevn/.)  So
+_leybe_ and the like spread considerably far from this territory, if M.
+Herzog is right. Also, if his account were right, wouldn't we expect many
+more name variants ending in -e in litvish?  (There's no *do'vide,
+*ne'y(a)khe, *me'y(e)re, o'sh(e)re, *no'kheme, *mikhle [for males, at
+least].)
+
+Here's an alternative hypothesis:  there seems to be a preponderance of
+male hypocoristics in litvish Yiddish with -ke (meyerke, neyakhke etc.
+etc.). And if a name already ends in /e/,  a hypocoristic may be formed
+by inserting /k/ between the /e/ and the preceding material (e.g. meyshe
+--> meyshke, itshe --> itshke, shleyme --> shleymke etc. etc.).  Maybe
+the progression of the name type M. Herzog is talking about went like
+this:  leyb --> leybke --> leybe; hirsh --> hirshke --> hirshe; ber -->
+berke --> bere.  The intermediate forms (berke, leybke, hirshke) are also
+characteristic of litvish Yiddish, note.  Where a dialect has the form
+_bere_, it also has the form _berke_.  If _berke_ is thought of as the
+even-more-diminutive form (e.g. _leybele_ is the further diminution of
+_leybl_ which is, in turn, the diminutive of _leyb_), then the
+progression of berke --> bere is a back-formation, just like rokhl -->
+rokhele --> rokhe.
+
+Note aso the variants /avrome, avromke, avreme, avremke/.  When hearing
+"ikh hob geredt mit avromen", there are 2 parsing possibilities
+("parsibilities"):  the inflectional morpheme added to the name is /n/ or
+/en/. (*/mn/ in *avromn is an impossible sequence in the language.)  So
+the name could be analyzed as _avrom_ or avrome_.  Now take "ikh hob
+geredt mit goldn". There are 2 possibilities for analysis here, too (for
+the Ponevezher, that is -- *not* for the rest-of-Yiddish):  'I spoke to a
+guy whose last name is Gold' or 'to a woman whose first name is Golde'.
+If _bere_ arose because the acc/dat form _bern_ was reanalyzed as _bere_
++ _n_, it wouldn't be surprising if the opposite reanalysis had taken
+place, giving us women's names such as *gold or *feyg (instead of _golde_
+and _feyge_ -- since they surfaced as /goldn/ and /feygn/ in the dative).
+
+And another thought:  _fayve_ is a form of _fayvish/fayvush_. Assuming
+that the hypocoristic is built off of _fayvish_ (or stg similar), you can
+imagine this progression:  fayvish --> fayvke --> fayve.  (Under MH's
+account, the progression might have been fayv --> fayve, by analogy with
+the ber --> bere progression: "ikh hob geredt mit fayvn" would be
+reanalyzed as _fayve_ and not _fayv_.  Problem is: there's no such name
+*fayv in any of the other dialects.)
+
+Material for footnotes (if I had the time to actually have footnotes and
+to better organize the posting -- my apologies, btw, for any
+unintelligibilities):
+
+1. I allude to "the-rest-of-Yiddish" above, to make a distinction between
+the /zingn/-dialect (Ponevezh un arum) vs. /zingen/-dialect
+("the-rest...").  In fact, there are other dialects (quite far from the
+Ponevezh area) in which the morphologically conditioned distinction
+between /n/ and /en/ has been levelled. For instance, the Lodzh area (if
+memory serves me correctly) says /getrinkn, zingn/ etc. but I don't know
+whether the other facts regarding the phenomenon are the same as in
+Ponevezh.  The subsequent volumes of the Language and Culture Atlas of
+Ashkenazic Jewry that Mikhl Herzog is preparing will provide us with the
+details. E.g., does Lodzh say /mit moyshn/?  In most other dialects,
+however, there is a distinction between /yungn/ and /yungen/, i.e. this
+is a minimal pair showing that syllabic /n/ and unstressed /en/ are
+distinctive.
+
+2. I was present at a misunderstanding between a Ponevezher and a
+Bukoviner involving the above-noted phenomenon.  The Ponevezher was
+talking about her friend Golde.  At one point in the conversation she
+says, "montik for ikh tsu goldn.  Ba goldn vel ikh zayn a vokh tsayt" (or
+something like that).  The Bukoviner asks "ver iz dos der gold?!"
+thinking that the Ponevezher suddenly introduced a guy named Mr. Gold
+into the discourse, but somebody whom they hadn't been talking about
+before. The Ponevezher answers:  "Mayn khaverte Golde!  Di vos ikh
+dertseyl aykh dokh vegn ir!"
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: Tue, 31 Jan 1995 22:50:39
+From: nmiller@mail.trincoll.edu
+Subject: Nisim v'nifloes
+
+Az di velt iz af hefker, dos veysn mir shoyn ale.  Ober amol amol kert
+zikh iber dos redl.  Hert a maynse:
+
+In 4.118 Zellig Bach had some critical things to say about the sub-
+standard use of Yiddish in Steven Pinker's highly popular _The Language
+Instinct_.  In 4.129 the author wrote a repentant explanation and promised
+to make amends in the next edition of the book.
+
+Steven Pinker has kept his word.  The 1995 paperback edition (Harper
+Pernennial) gives us: "az di bobe volt gehat beytsim volt zi geven mayn
+zeyde".  A vast improvement to say the least.
+
+Book publishing is a slow and tedious business.  Given the fact that Mr.
+Pinker's note to Mendele was written a short four months ago it's clear
+that he moved decisively and with considerable dispatch to make the
+necessary change.  Kumt im a sheynem yasher koyekh.
+
+And a yasher koyekh to Zellig as well.  May all his other battles on the
+language front end as sweetly.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.309
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

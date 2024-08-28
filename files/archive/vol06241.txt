@@ -1,0 +1,200 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.241
+February 26, 1997
+
+1) Ende oysiyes (Rick Turkel)
+2) Ende oysiyes (Andrey Bredstein)
+
+1)----------------------------------------------------
+Date: Tue, 25 Feb 1997 11:54:03 -0500
+From: rturkel@cas.org
+Subject: Ende oysiyes
+
+I am compelled to take issue with ellen prince with regard to the
+following comment on this question (6.240):
+
+     let's keep our time frame straight -- the orthographic
+     modifications were a long time ago; the ussr was, i believe, the
+     second country to recognize israel in 1948. besides, there is no
+     reason for them to have believed that the state of israel would
+     endow the alphabet with sacred status. so i see no evidence that
+     the orthography issue had anything to do with zionism. if there
+     is any, i'd love to hear about it.
+
+She is, of course, correct that the USSR was the second country to
+recognize Israel in 1948.  However, Zionism as a political movement is
+over half a century older than that.
+
+I agree that the revised orthography had nothing to do with Israel,
+since, as she wrote, the change long predated Israel's establishment.
+In addition, there was no need for the Soviets to have worried about
+the State of Israel endowing the alphabet with sacred status -
+religious Jews had already done so at least as far back as Talmudic
+times.
+
+Rather, it was the general antireligious stance of the USSR (which was
+an integral part of Communist ideology and ultimately led, among other
+things, to the conversion of one of Leningrad's cathedrals into the
+Museum of the History of Atheism) and the obvious connection of the
+Yiddish alphabet to Hebrew, the liturgical language of the Jews, that
+so bothered the Soviet authorities.  They supported anything that
+would weaken that connection, and messing with the orthography of the
+Hebrew component of Yiddish was an ideal mechanism for that.
+Eliminating the lange oysiyes was probably an afterthought, and a less
+meaningful one at that - after all, it's of no more significance than
+the use of capital letters, which Cyrillic also has (and ellen
+eschews).
+
+As for the comment of Meinhard E. Mayer <hardy@lynx.ps.uci.edu> later
+in the same issue of Mendele that:
+
+     Di reforme iz gekumen fun di yidishe shrayber gufe, nisht funen
+     "tsentral-komitet" un hot reflektirt di modernizatsie fun dem
+     Russishn alfabet nok 1917: vu me hot eliminirt "yery, tvyordyi
+     znak, etc" kedey tsu "fonetizirn" di shprakh.
+
+I just don't buy it.  The history of Yiddish literature in the USSR is
+replete with instances of writers and poets who didn't toe the
+official line being arrested, deported to Siberia, and worse.  I think
+it's naive to believe that no official pressure was exerted on the
+writers and publishers of the time.
+
+He also went on to write:
+
+     Oykh di popularitet fun shrayb-mashines hot mistame geshpilt a
+     rol. Der Ratnfarband hot oykh arayngefirt lataynishe oysies in
+     etlekhe mitl-azyatishe shprakhn.
+
+Actually, the central-asian languages were given modified Cyrillic,
+not Latin, alphabets, as was Moldavian.  And typewriters most likely
+had nothing to do with it - it takes fewer different characters to
+write Yiddish than it does most other languages because it lacks
+capital letters.
+
+I hereby descend from my soapbox.  Be me well and strong.  :-)
+
+Rick Turkel
+
+2)----------------------------------------------------
+Date: Wed, 26 Feb 1997 01:15:46 +0300
+From: anbredstein@glas.apc.org
+Subject: "Sovetishe" ortografie
+
+Dovid Herskovic's question in 6.238 about "ende oysies" aroused nearly
+as many responses as recently the toponimical problem did. Since I
+live in Russia and have the honour of being acquainted with some
+nearly related to Yiddish philology people, maybe my comment on it
+will be useful for all those, who are interested in this extremely
+vexed and tough problem.
+
+To begin with, it was not a "movement to remove the end letters", but
+a serious language reform, inspired by a group of Yiddish linguists of
+world-wide reputation (Falkovitsh, Zaretski, Shtif) and carried out in
+practice in 1919-1920 in the former USSR. This reform 1) removed five
+end letters; 2) made the orthography fully phonetic (not only the
+words of Hebrew origin are spelled exactly as they are pronounced, but
+some German as well: ufklern [not 'oyfklern'], farat [not 'farrat'],
+aynemen [not 'aynnemen'] etc.); 3)  cancelled "shtumer alef" in the
+middle of the word: vu [not vau], fareynikn [not faraeynikn]; and 4)
+changed the gender of some words: der bukh, di lid.
+
+It is important to notice, that in certain cases the Hebrew words were
+spelled consonant. For example, in this passage from "Der farkishefter
+shnayder" (published in Moscow, "Der emes", 1947): "Bist nebekh avade
+zeyer gerekht! - makht Shimen-Elie gelasn. - Faran a medresh: Kol
+Yisroel yeysh lohem kheylek - itlekher yid badarf hobn a tsig.
+Kakosuv, vi in posek shteyt geshribn..." the words 'avade,
+shimen-elie, medresh, posek' are spelled phonetic, and 'kol yisroel
+yeysh lohem kheylek' and 'kakosuv' - like in Hebrew (even without
+pintelekh), because Sholem-Aleykhem made a special emphasis on them;
+the same with "Tevie der milkhiker" and other books, where the author
+quotes sforim: Tanakh, Talmud, sidur etc.
+
+The end letters returned in Russia not in the early 90's (Les Train,
+6.239), but in 1962. I have a book "Azoy lebn mir" (published in
+Moscow, 1964) with all the five lange oysies, including tsadik: the
+publishers were obviously too far from having enough khitspe to dare
+mess with Dovid Herskovic's beloved ende tsadik...
+
+Other basic principles of reformed orthography are still valid,
+although there are no books in Yiddish to be seen in Russia today and
+therefore it is difficult to judge about it. The only magazine ("Di
+yidishe gas") which is still alive, tried in early 90's to
+parenthesise phonetic spelling, but it looked so foolish, that the
+editors soon desisted from it and restored pure phonetic spelling. Now
+they publish stories, letters and other materials strictly according
+to the authors' orthography - there is no standard spelling in this
+magazine.
+
+And of course, there are people who keep up the phonetic principle
+today. I am one of them, and it is a real pleasure for me to assure A.
+Joseph Ross from Boston that "these orthographic idiosyncrasies still
+exist in Russian Yiddish" [6.239].
+
+After all, it is a matter of linguistics and personal taste. The only
+thing which makes me feel sad is a deep and strange infatuation for
+the politics: "soviet attempt to severe relations between Hebrew and
+Yiddish [Michael Shimshoni, 6.239]; communist Russia imposed two
+innovations [Mechl Asheri, 6.239]; the reason  for the differentiation
+was probably political [Les Train 6.239]; the authorities required [A.
+Joseph Ross, 6.239]". Only two voices try to object: "i see no
+evidence that the orthography issue had anything to do with zionism
+[Ellen Prince, 6.240]; di reforme iz gekumen fun di yidishe shrayber
+gufe, nisht funem "tsentral-komitet" [Meinhard E. Mayer, 6.240].
+
+I am sure that the problem is worth discussing, but only within the
+framework of philology. Mendele is a perfect place for such
+discussion; I hope thus that all the friends mentioned above will find
+time to precis their position towards Yiddish orthography (without
+mentioning Communist Party yimakh shmoy) and I would appreciate to
+take part in it.
+
+Andrey Bredstein
+Moscow
+
+______________________________________________________
+End of Mendele Vol. 6.241
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

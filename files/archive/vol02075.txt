@@ -1,0 +1,173 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 75
+September 30, 1992
+ 
+1) Taharas hamishpokhe (Shulamith Berger)
+2) Es (Ellen Prince)
+3) Es (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Thu, 24 Sep 92 08:41:50 PDT
+From: Shulamith Berger <BM.YEB%RLG@Forsythe.Stanford.EDU>
+Subject: Taharas hamishpokhe
+
+The phrase "taharas hamishpokhe" was used as the title of a
+book on the topic by Rabbi Mordecai Aaron Kaplan.  Kaplan
+was the rabbi of the Bnai Yehudah shul in Boro Park,
+Brooklyn, for many years.  The book was published in New
+York in 1923. It's mainly in Yiddish, but there is also an
+English section with an English title page, which reads as
+follows: "Family Purity (Taarath Hamishpocho) from a Jewish
+Religious and Hygienic Standpoint."
+
+I just happened to come across this reference, I haven't
+done a survey of the topic, but I thought this might help
+the person who was trying to trace usage of the term in the
+US (if that was indeed the question!)
+
+Shulamith Berger
+
+2)----------------------------------------------------
+Date: Fri, 25 Sep 92 23:46:28 -0400
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 2.73
+
+[Eli Katz writes:]
+
+>        ver flit es in nakht arum?
+>	es flit a moskitele arum, zum, zum, zum.
+>Now the "es" in line (2) is an unproblematic non-
+>referential (filler) "es".  But the "es" in line (1) looks
+>like one of Mikhl's.  In this example it almost seems as
+>though there was an interrogative transformation without
+>application of a deletion rule.  A typical pair would
+>look like this:
+>
+>        Es shteyt a mentsh in gas.
+>	Ver shteyt in gas?
+>
+>i.e., wi th the "es" deleted in the question.  The
+>particular "es" in the song is thus reminiscent of the
+>optional retention of the subject in a Yiddish relative
+>clause:  "Der yid, vos (er) redt mit mayn froy, iz mayn
+>shvoger."  Any ideas on this?
+
+well, nice try, but it doesn't quite work. what's deleted
+is 'a mentsh', not 'es'. the 'es' disappears if anything
+precedes the verb, as in :
+
+	in gas shteyt a mentsh
+
+it seems as tho this 'es' is very superficial, just being
+inserted if it's a canonical declarative sentence and
+there's nothing preceding the (tensed) verb.
+
+as for 'der yid, vos er redt mit mayn froy,...', that seems
+to be something else again--the 'er' actually refers to
+something, to the yid in this example, whereas the 'es' in
+the previous example doesn't refer to anything. note that
+the 'er' changes depending on what it refers to, while the
+'es' is invariant:
+
+	a yid, vos er redt mit...
+	a froy, vos zi redt mit...
+	a bukh, vos es iz aroyskumen...
+
+vs.:    es ligt a yid/a froy/a bukh oyfn tish
+
+so, whatever this 'es' is, it doesn't seem to be the same as
+the 'er/zi/...' in the relative clause.
+
+>In "Zetst zikh avek un rut zikh opet." where does the
+>clitic "-et" come from?  I haven't done any serious
+>looking, but my first thought is that it occurs only on the
+>separable prefixes "op-(arop-)" and "on-" (possibly also
+>"oyf-") when they are in fact separated. It strikes me as
+>less formal or more casual than the standard form, and it's
+>surely rare in literature.
+
+would this be related to the -et in 'oykhet' as a variant
+of 'oykh'?
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Sat, 26 Sep 92  17:21 EDT
+From: ZOGUR@CUVMB.Columbia.edu
+Subject: Es
+
+To Eli Katz:
+Eli, let me give you the actual sentences again.
+ 
+1. The "es" group, in which "es" is unstressed:
+i) alemen hot men "es" oysgeharget
+ii) vos hostu "es" nekhtn azoy geveynt?
+iii) es hobn zey "es" zikh azoy geshlogn (Stress ZEY!)
+iv) efsher vet "es" di mame trinken tey
+ 
+2. The "a" sentence:
+ver es hot "anor" farshtanen un ver es hot "anor" gevust
+ 
+I think your recollection may have been a bit off in both
+cases. The "es" sentences don't seem to "transform" in the
+manner of your example. The "anor" form doesn't appear to
+belong to the words that are marked for "directionality".
+ 
+3. Concerning the "-et" words:
+kum(t) araynet; gey(t) aveket; krikh(t) aropet; tu(t) zikh
+onet; shtey(t) ufet; any other?. Very "Litvish", right?
+ 
+I don't know its origin but I do know that it overlaps
+another phenomenon which overlaps still a third. I do know
+the origin of the last of these. I'll try to link them,
+thus:
+ 
+1) Words like "avek" have a verbal quality: AVEK(ET)! 'beat
+it!'. Similarly verbalized: SHA! '(be) quiet!'; NA! 'here'
+(i.e. 'take it!').
+ 
+2) Note, plural NAT AYKH! with regional variant NATS
+(AYKH). Similarly, regional plural variants of such
+verbalized forms: SHATS! 'be quiet', and AVEKTS (a favorite
+way of driving off dogs, by the way).
+ 
+3) The regional (much of Poland) form of the second person
+plural and plural imperative, GAYTS, KIMTS, VAYNTS NISHT,
+which, historically, go along with the regional forms of
+the pronouns ETS and ENK (derived from an old dual, as I
+recall). The features of the system, have diverged from one
+another in Yiddish so that the distribution of the
+imperative with -TS extends eastward far beyond the
+stigmatized ETS/ENK pronouns. KUMTS, GEYTS, VEYNTS NISHT
+are also the rule in otherwise "Litvish"-sounding speech in
+northeastern Poland.
+ 
+So, what's the connection? Vos hot eyns tsu ton mitn dritn?
+Eyns tsum dritn iz nisht keyn mekhitn, they say. Or is it?
+I'm not sure I know.
+ 
+Finally, the ec/-ts forms provide (even a Litvak) the clue
+to the mystery of the following conversation:
+ 
+tsOtsidikI?  mOtsidikI! nu, abI tsOtsi.
+ 
+Hot mir ale a gut un gezunt yor!
+ 
+Mikhl Herzog
+
+_____________________________________________________
+End of Mendele Vol 2.75
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+
+

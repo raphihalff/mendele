@@ -1,0 +1,161 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.134
+October 11, 1994
+
+1) Introduction (Gaetano Liguori)
+2) Mail.Yiddish (Debra Halperin Biasca )
+3) Second request for help (Dan Leeson)
+4) More on the "Grine Kuzine" (Martin Davis)
+5) Mendele oyf Yidish (Rick Gildemeister)
+6) Mendele oyf Yidish (Yide Rozof)
+7) Housekeeping (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Mon, 10 Oct 1994 17:11:49 +0100
+From: Gaetano.Liguori@uibk.ac.at
+Subject: Introduction
+
+I am an italian student. I am 23 and I study in Innsbruck (Austria). My
+english is not perfect but I understand quite all. I study Politics and
+History and I have a big interest for yiddish language because I am quite
+jew. I read quite all Singer's books and I attend here in Austria a course
+of yiddish. Can you help me to learn yiddish and the culture of the jews
+from East Europe? Shalom!
+
+Gaetano Liguori
+
+2)----------------------------------------------------
+Date: Mon, 10 Oct 1994 12:08:58 -0600 (MDT)
+From: biasca@horton.Colorado.edu
+Subject: mail.yiddish
+
+Whatever philosophical issues lead to the demise of mail.yiddish, those
+who work with Yiddish Vinklen (Yidish Vinklen, Zelig!) might want to
+follow Dave Sherman's ftp instructions in the last Mendele posting to
+look for program ideas.  I have found some of the jokes/songs/ditties a
+good way to re-introduce Yiddish into the lives of many of our mitglider.
+. .and to whet their appetites for more mame-loshen.
+
+Debra Halperin Biasca
+
+3)----------------------------------------------------
+Date: Mon, 10 Oct 1994 12:45:08 EDT
+From: leeson@aspen.fhda.edu
+Subject: Second request for help
+
+On the Jewish Genealogic bulletin board, they are waiting expectently for
+an intelligent addressing of the question I posted here on Mendele and to
+which no one has posted a response.   Two weeks have passed since the
+original posting.
+
+The matter had to do with a geographic difference in hair color. I
+asserted that red-headed men were referred to as so-and-so "die geller"
+by Litvaks and as so-and-so "die rote" by everyone else.  And what did
+Mendele know about this hair color distinction?  I also pointed out that
+my grandfather was a red-head and, despite the meaning of "geller" as
+"blond" was referred to his entire life as "Al-Lazar die geller."
+
+A number of the member of the Genealogic board have posed the same
+peculiar word usage and I figured that Mendele was the very best place in
+the world to bring the question up.  So I shouted it out to the world,
+and so far all I am getting in return is vast realms of silence.
+
+Nu?  Next comes guilt!
+
+Dan Leeson
+
+4)----------------------------------------------------
+Date: Mon, 10 Oct 94 22:14:57 -0400
+From: davism@turing.cs.nyu.edu
+Subject: More on the "Grine Kuzine"
+
+Actually she doesn't fare so well, and the color soon vanishes from her
+cheeks. The last line of the song:
+
+A shlok zol trefn Columbus's medina
+
+Happy Columbus day,
+
+Martin Davis
+
+5)----------------------------------------------------
+Date: Tue, 11 Oct 94 07:59:16 EDT
+From: eeglc%cunyvm.bitnet@yalevm.ycc.yale.edu
+Subject: Mendele oyf Yidish
+
+Dakht zikh mir az Khayem Bochner iz gerekht. Di vos kenen redn oder
+shrayben zoln gebn di naye "eyfelekh" (vitsl) ;-) di gelegnheyt tsu zen
+vi men leygt oys di verter, viazoy tsu makhn a fraze. Un "letst ober
+nisht veynikstn" mentshn vi ikh vos leyenen take gut ober muzn zukhn di
+verter bshas zey shraybn, volt men gekent vayzn zeyere toesn. Di yidishe
+shprakh iz nisht keyn gringe, un me darf hobn firers un melomdim kedey
+tsu farbesern undzer bagrif fun der shprakh. A gutn tog aykh alemen.
+
+Rick Gildemeister
+
+6)----------------------------------------------------
+Date: Mon, 10 Oct 1994 15:05:01 -0400 (EDT)
+From: jrosof@sas.upenn.edu
+Subject: Mendele oyf Yidish
+
+Khayem Bochner: maskem!  Fraant Bochner, ekh bin hindertpretsentik maskem
+mit aakh, zul me hern nukh yidishe koyles d'h af mame-lushn in nisht azoy
+fil shraabm belaz.
+
+Yide Rozof
+
+7)----------------------------------------------------
+Date: Tue, 11 Oct 1994 13:42:01 -0400 (EDT)
+From: nmiller@trincoll.edu
+Subject: Housekeeping
+
+A few Canadian subscribers have written about a missing Vol. 4.129.  Some
+glitch has taken place at the listserver level.  Since it's not possible
+to redistribute them by machine, the job falls to subscribers (who can
+download it by anonymous ftp) or to the shames in cases of last resort.
+
+Mendele is in the process of soliciting and developing a series of FAQ
+files (files dealing with frequently-asked questions) dealing with such
+things as textbooks, transcription rules, software, useful addresses,
+etc.  If you have an idea for a FAQ file that you would like to compile
+(or that needs compiling) please write.
+
+The shames has finally got around to writing something that Mendelniks,
+especially those new to the Internet, might find useful: a guide to
+string searches of the Mendele archive.  The teyrets was that-- since the
+shames loathes and cannot read two lines of any user manual ever written
+--everyone else is the same.  A teyrets bleybt a teyrets.  Amyway, the
+solution was in fact not to write a manual but to provide a series of
+examples.  It will be available in a few days.  If you can't bear reading
+it, we understand.  Comments invited.
+
+Noyekh Miller
+
+
+______________________________________________________
+End of Mendele Vol. 4.134
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

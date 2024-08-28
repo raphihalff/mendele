@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.260
+January 4, 1995
+
+1) Copyright (Hershl Berman)
+2) "Lehavdl" words (Zellig Bach)
+3) Fershot (Dovid Braun)
+
+1)----------------------------------------------------
+Date: Tue, 3 Jan 1995 18:15:44 +22299440 (EST)
+From: berman@phobos.senecac.on.ca
+Subject: Copyright
+
+I have been told by someone in whose judgement I have faith that
+(notwithstanding any copyright messages) any message received on email is
+yours to treat in any way you want, to share with anyone you want.
+
+Internet law is decades (figuratively) behind the technology, so while I
+can understand that it may be a legal offence to broadcast copyrighted
+material on email, say,from a book or CDROM disk, there is such little
+regulation of email that basically, with few exceptions, anything
+goes....
+
+Hershl Berman
+
+2)----------------------------------------------------
+Date: Tue, 3 Jan 1995 22:52:11 -0500
+From: zellig@aol.com
+Subject: "Lehavdl" words
+
+In several recent Mendele postings Abe Bloom (4.248), Harvey Spiro
+(4.254), and Mendy Fliegler (4.256) discussed the meaning of _khoge_ as
+designating a non-Jewish holiday.
+
+_Khoge_ and _tifle_ (see below) are both "Lehavdl" words.
+
+"Lehavdl" is a Hebrew word that entered in the Yiddish vocabulary with
+its exact same meaning:  to differentiate, to distinguish between the
+sacred and the profane.
+
+It is a verb related to the noun *havdo'le,* the pensive domestic
+ceremony to usher out the departing Sabbath and to separate its holiness
+from the this-worldly weekdays.
+
+If one brings up in a conversation a great Jewish religious leader
+contiguously with the head of the Christian church, the traditional
+linguistic usage calls for an immediate "lehavdl."
+
+Similarly, if one mentions in the same breath the name of a deceased and
+a living person, the prompt interposing of a "lehavdl" is obligatory .
+
+The intent of "lehavdl" also entered as a differentiating linguistic
+device to draw a distinct demarcation line between what is _ours_ (Jews)
+and what is _theirs_ (Non-Jews).  Thus, "khag" is ours [khag someyakh --
+a freylekher yontef] and "khoge" is theirs.
+
+May I share with you a personal experience from my childhood:
+
+When I was about 9 -10 years old I was sent away to study in Telzsh in a
+*mekhine* -- a preparatory school for the entrance into the famous
+Telzsher yeshive.
+
+Although of tender age, I became a beneficiary of the tradition of "esn
+teg" (to eat "days"), the custom of families obligating themselves to
+serve three daily meals one week a day to grown-up yeshive students.
+
+On my way to my Sunday "day" I had to pass each time the great church on
+the hill.  I knew that in Yiddish it was called a "tifle."  In my
+childish and "learned" mind I tried to figure out why it was called
+"tifle,"  and I came to the conclusion that it was a deliberate
+transposition of "tfile" (Jewish prayer), a purposively wrong pronouncing
+for the sake of a derogatory connotation.
+
+Imbued early on with the idea that Jews are the "chosen people," I
+thought to myself that our tFiles go up straight to the Almighty, while
+their prayers are a mere distortion of the real thing, and thus but
+tiFles.
+
+This, I believe, is an excellent illustration of folk etymology, how
+people unsophisticated in the science of language come up with their own
+explanations in an effort to satisfy their search for meaning.
+
+Zellig Bach
+
+3)----------------------------------------------------
+Date: Wed, 04 Jan 1995 00:23:36 EST
+From: dovid@mit.edu
+Subject: fershtot
+
+To Refoel Finkel:
+
+While _forshtot_ means 'suburb', there was a specific part of Grodne that
+Jews referred to as _fershtot_, with an /e/.  I do not know the
+geographic details about it, but a native of Grodne surely would and a
+Yiddish book on Grodne would probably be instructive.  (What good sources
+are there on Grodne?  Books on Jewish Vilne abound [relatively speaking],
+but what, dear librarians, are the sources on Grodne?)
+
+If you do any digging into the matter, please share your results with us.
+It would also be interesting to know whether this area has/had a special
+Slavic name as well. I have never heard it referred to as anything but
+_fershtot_, but I've only discussed Grodne with speakers of Yiddish.
+(Maybe I'll have a chance to be in touch with a Grodner acquaintance of
+mine soon, at which time I'll provide whatever info I can.)
+
+_fer_ is apparently one of the older forms of the prefix _for_ mentioned
+by Perl Teitelbaum and was retained in this place name.  There's an
+interesting article on the prefix by Mordkhe Schaechter in a 1970s (?)
+volume of the YIVO publication _Yidishe shprakh_.  Schaechter also deals
+with it, more prescriptively than descriptively, in a subchapter in his
+book _Layitsh mame-loshn_. Among the forms it has or had are /fer, for,
+fur, foyr, fir/, depending on time and place.
+
+The original Yiddish prefix became unproductive, only remaining in
+fossils (such as _fershtot_) and became unanalyzable (at least to some
+speakers).  My grandmother, alvisholem, was from the Grodne area and
+visited Grodne (and possibly the Fershtot area).  I once asked her why it
+was called _fershtot_, to which she had no answer -- i.e. she did not
+associate the name _fershtot_ with the word _forshtot_ 'suburb' and told
+me that, as far as she knew, _fershtot_ could only be used for that part
+of Grodne, not for ANY suburb.
+
+The other _fir_-fossil that was current in her speech was _firhoyz_
+'foyer'.  Etymologically it is obviously _fir_ 'front, anterior' + _hoyz_
+'house'.  Checking its analyzability/fossilhood with her on this point
+too, I asked her why it's called a _firhoyz_. Her answer (recall that
+Grodner Yiddish is an /h/-less dialect):  "vayle se firt oys".  A nice
+folk etymology.
+
+Dovid Braun
+
+______________________________________________________
+End of Mendele Vol. 4.260
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

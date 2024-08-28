@@ -1,0 +1,178 @@
+______________________________________________________
+Contents of Vol. 3.275
+March 10, 1994
+
+1) Klezmer (Henry Sapoznik)
+2) mail.yiddish archives (David Sherman)
+3) Crosslinguistic jokes (Howie Aronson)
+4) Crosslinguistic jokes (Louis Fridhandler)
+5) A trilingual joke (Arnold Kuzmack)
+6) Gentile Yiddish (Rick Gildemeister)
+
+1)----------------------------------------------------
+Date: Mon Mar  7 23:17:27 1994
+From: sapoznik@aol.com
+Subject: klezmer
+
+As the term "klezmer" is a relatively new one to denote the genre of
+instrumental music of the Yiddish speaking Jews, it's interesting to
+see how it came about.
+
+I haven't been able to locate an earlier reference to it than to the
+first Hed-Arzi recordings (c.1975) of the Argentinian/Israeli
+clarinetist Giora Feidman. His definition, of course, has shifted
+dramatically over the years (he now claims that ALL music is
+"klezmer", so long as one "feels" it...) but back then it still had
+a vaguely "Ashkenazic" cast to it. Certainly, it was the success of
+the California-based ensemble "The Klezmorim" which gave the term
+its major frequency (c. 1976).
+
+The linking of the terms "klezmer" and "music" -- kind of like the
+growing popularity in New York area restaurants of advertising
+French toast made with "Challah bread" -- is seemingly neccessary to
+all those who don't know what a "klezmer" is and comically puzzling
+to those who do. This "Department of Redundancy Dept." terminology
+is  similar to the way the instrumental vernacular music from New
+Orleans (and later, Chicago) was refered to in the early 1910s.
+"Jazz music", (with the upper case "J" as it was then called) has
+since lost the need for its "music" qualifier, even though the
+origins of the term "jazz" (since the late 1920s spelled with a
+lower case "j") has no music derivation (it's assumed to be a New
+Orleans  vernacular for fornication). Musicians who played this
+music were refered to (and in some places still are) as "jazzers".
+
+Before the so-called "Klezmer Revival" began none of the old-timers
+I interviewed ever thought of the term "klezmer" as denoting a
+genre. They would refer to the music by its function or even tune
+types (as in: playing the "freylekhs", "freylekh music" or playing
+the "bulgars" or "khasene music"). Some, like Dave Tarras himself,
+did refer to it--in English--as "Jewish" music, but in Yiddish
+called it, of course, as "Yiddish" music. Perhaps the re-definition
+of the term "klezmer"in the 1970s from its coarse and untutored
+associations has something to do with the popular habit of refering
+to "good" things as "bad" which was common in the 1970s.  This is
+seen mostly in the country music movement (most specifically in the
+Austin and Bakersfield, California scenes) with the rise of "outlaw"
+C/W. This glorification of the "outlaw" has allowed the klezmer to
+come to the fore as a one-time marginal personna, now endowed with a
+kind of socially-marginalized musical identity (certainly "The
+Klezmorim" played up the underworld associations of thier European
+namesakes...)
+
+I don't know if Feidman was originally trying to obfuscate the
+ethnic derivation of the term by trying to "de-Yiddishize" it, but
+it does seem take a bit of contextualization on the part of players,
+fans,scholars, etc. to alert those who are not clear about its
+origins that this is music of the Yiddish-speaking Jews and their
+cultural descendants.
+
+Henry Sapoznik
+
+2)----------------------------------------------------
+Date: Mon Mar  7 23:50:26 1994
+From: dave@cai.lsuc.on.ca (David Sherman)
+Subject: mail.yiddish archives
+
+A number of people have asked me about the mail.yiddish archives,
+which include, inter alia, all sorts of puns, ditties and other
+low-class material not fit for MENDELE. (The archives also include
+the original discussions between myself and Noyekh that led to the
+formation of MENDELE by Noyekh.)
+
+I've set up the archives on news.lsuc.on.ca for anonymous ftp, in
+the directory "pub/mail.yiddish".  In that directory are 53 files,
+numbers 01 to 53, one for each issue. mail.yiddish ran from October
+1988 to March 1992.
+
+As far as I know, this works, but I haven't set up files for
+anonymous ftp before.  If you download the files successfully,
+please let me know.
+
+David Sherman
+
+3)----------------------------------------------------
+Date: Mon Mar  7 23:59:58 1994
+From: hia5@midway.uchicago.edu
+Subject: Crosslinguistic jokes
+
+Ellen Prince refers to a Yiddish imitation of French "_avu tut ir a
+vey..." A very similar line occurs in George and Ira Gershwin's "Of
+thee I sing," in a song entitled "The illegitimate daughter." A
+chorus of French soldiers sings:
+
+Garcon s'il vous plait
+Encore Chevrolet coupe
+Papah, pooh! pooh! pooh!
+A vous toot dir vay a vous?
+
+(Incidentally, I suspect the "pooh! pooh! pooh!" is also from Yiddish.)
+
+Howie Aronson
+
+4)----------------------------------------------------
+Date: Tue Mar  8 00:21:13 1994
+From: Louis Fridhandler <74064.1661@CompuServe.COM>
+Subject: Crosslinguistic jokes
+
+A note for Ellen Prince re: _avu tut ir a vey..._
+
+I may be able to help you reconstruct it.  In Montreal where I grew
+up, French was widely used.  A Yiddish phrase was constructed (when
+or where I do not know) that was supposed to SOUND French, but was
+Yiddish.  In nonsensical French, the first part might be spelled _a
+vous toute dire_.  The VEY was added for effect.  It came out _avu
+tut dir vey_  That is, where does it hurt you?
+
+Louis Fridhandler
+
+5)----------------------------------------------------
+Date: Tue Mar  8 09:16:22 1994
+From: <kuzmack@umbc.edu>
+Subject: A trilingual joke
+
+Q:  What is the meaning of the Hebrew verb 'lesafsel'?
+
+A:  To bentsh.
+
+Arnold Kuzmack
+
+6)----------------------------------------------------
+Date: Tue Mar  8 09:26:49 1994
+From: <EEGLC%CUNYVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: Gentile Yiddish
+
+I liked what Leigh Lisker said about "Gentile Yiddish, a.k.a.
+German." I'm a Gentile that speaks both, and I just want to share an
+anecdote. One time I was speaking to an elderly Jewish lady, and she
+said, "You know, those Germans use a lot of Yiddish words." I
+thought she was referring to Mayrev fragments (a springboard for my
+next posting) or loshn-koydesh words that have found their way into
+German, but I suddenly realized that she meant the entire Yiddish
+German component!  Men hot gekent platsn derfun.
+
+Rick "Henekh" Gildemeister
+
+______________________________________________________
+End of Mendele Vol. 3.275
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Mendele: Yiddish literature and language
+

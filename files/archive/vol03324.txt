@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.324
+April 21, 1994
+
+1) Transliterated dictionaries; gzhibe (Dovid Braun)
+2) Zhibe (Michael Steinlauf)
+3) Re: a kuk gebn/ton (Khayem Bochner)
+4) Introduction (Patty Becker)
+5) Miami in fiction (Ayelet Kuper Margalioth)
+
+1)----------------------------------------------------
+Date: Wed Apr 20 13:29:25 1994
+From: dovid@MIT.EDU
+Subject: transliterated dictionaries; gzhibe
+
+To Bob King:  there's _The Yiddish Dictionary Source Book_ by Herman
+Galvin and Stan (?) Tamarkin.  A funny name -- sounds more like a book
+inventorizing Yiddish lexicographic works rather than a dictionary
+itself.  If I remember correctly, entries are in English, glosses are in
+Yiddish letters and transliteration.  The entries are basically taken
+from (and condensed from) U. Weinreich's dictionary.
+
+There's a similar book, although with more original effort by the author,
+by Samuel Rosenbaum -- _A Yiddish Dictionary for English-speaking
+People_, or something like that.
+
+*****
+
+To Howie Aronson:
+
+The word is _gzhibe_, also pronounced _gzhive_, _grive_, or in the
+diminutive _grivke_, _gzhivke_, meaning 'bangs'.  _grive_ is a horse's
+mane.
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: Wed Apr 20 16:19:04 1994
+From: M_STEINLAUF@ACAD.FANDM.EDU
+Subject: zhibe
+
+In response to Howie Aronson's query about "zhibe," it's doubtless
+related to the Polish word "grzywa" [gzhiva] which means mane (as in
+horse's), but was also used, especially before the war, to denote a big,
+full head of hair, often combed upward, and often a sign of "artistic"
+temperament. The dictionary also gives the diminuitive "grzywka," meaning
+forelock or bang. So that one might ask whether a "zhibe" and a
+"ramalamadingdong" have any relation?  This, of course, would necessitate
+a monograph on the semiology of East European Jewish hairstyles.  Any
+grad students out there need a dissertation topic?
+
+Al dos guts.
+
+Michael Steinlauf
+
+3)----------------------------------------------------
+Date: Wed Apr 20 17:15:21 1994
+From: bochner@das.harvard.edu
+Subject: Re: a kuk gebn/ton
+
+Yude Rozof quotes Max Weinreich, and writes:
+
+> Thought this might shed some light on the Slavic-derived "ton."  I look
+> forward to reading more about the older "ton" which seems to express aspect.
+
+Thanks for quoting Weinreich (the elder); I only have the Yiddish
+edition, with no index, so finding things is a bit overwhelming.
+
+But you seem to think that I was disagreeing with Weinreich, so some
+clarification seems to be in order. (Nonlinguists, please bear with us
+;-)
+
+I'm pretty sure what Weinreich is saying is that the _tendency_ to stress
+aspectual distinctions in Yiddish is related to the importance of such
+distinctions in Slavic. The form of this particular construction, roughly
+auxiliary verb plus indefinite article plus verb stem, doesn't look
+Slavic at all, however. I only dabble in Slavic, but I've never seen
+anything like it in any of the Slavic languages I've studied.
+Constructions like this _are_ found, although unsystematically, in other
+Germanic languages; cf. English "take a look", "give a shout". So what
+seems to have happened in Yiddish is that a construction of Germanic
+origin has been generalized as a way of expressing an "aspectoid"
+distinction of the sort Slavic is so fond of. This, I think, is what
+Weinreich means by "... Yiddish constructed the aspectoid forms in the
+manner of Slavic from German-component material."
+
+So I think that calling this construction 'Slavic-derived "ton"' is
+misleading. Not only is the word "ton" Germanic, but I've never seen a
+Slavic language use a verb meaning "do" (or "give") in this way.
+
+I'll try to find time to read the rest of what Weinreich says about this,
+now that you've given me the section reference ...
+
+-- Khayem Bochner
+
+4)----------------------------------------------------
+Date: Wed Apr 20 18:06:27 1994
+From: Patty_Becker@MTS.cc.Wayne.edu
+Subject: Introduction
+
+I have a love for the Yiddish language and Yiddishkeit, but am not very
+fluent in the language.  I grew up in the Arbeter Ring (Workmen's Circle)
+and had 7 years of shule education, so I can read the words and have a
+vocabulary of several hundred words and many idiomatic expressions.  I'm
+not sure how relevant this list will be for me, or to you for me to par-
+ticpate, but we'll give it a whirl.  I *am* a committed secular
+humanistic Jew and a member of the Birmingham Temple in the Detroit area,
+the founding congregation of the Society for Humanistic Judaism.
+Professionally, I am a demographer in private practice and have done a
+lot of Jewish communal research.
+
+Patty Becker
+
+5)----------------------------------------------------
+Date: Wed Apr 20 19:31:21 1994
+From: akmargal@husc.harvard.edu
+Subject: Miami in Fiction
+
+To Henry Breitrose:
+
+The novella by Cynthia Osick which Dvosye Bilik referred to is called
+Rosa. It is available bound in a single volume called 'The Shawl' along
+with the short story of that name, published by Alfred A. Knopf in New
+York in 1989. It is probably still in print.
+
+Ayelet Kuper Margalioth
+
+______________________________________________________
+End of Mendele Vol. 3.324
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

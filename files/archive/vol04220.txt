@@ -1,0 +1,176 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.220
+December 7, 1994
+
+1) Crypto-Yiddishisms and Hebraisms (Jules Levin)
+2) Western Yiddish and cryptic language (Marion Aptroot)
+3) Nit do gedakht and progressive voicing (Dovid Braun)
+4) Inquiry on the etymology of Eng. "zit" (Victor Bers)
+5) Rog (Dan Slobin)
+
+1)----------------------------------------------------
+Date: Tue, 6 Dec 94 16:08:59 PDT
+From:jflevin@ucrac1.ucr.edu
+Subject: Crypto-Yiddishisms and Hebraisms
+
+I'd like to comment re several threads of discussion, including the use
+of Hebrew in Western Yiddish, and the British Slang term mentioned by
+Howie Aronson on behalf of Barry Schechter (a great khokhem of Yiddish
+dialects who ought to be on this list, even if we have to buy him a
+computer and modem!!!), and maybe even the sheket > sheygets problem!
+
+What unites all this, or at least what should be brought into the
+discussion, is the role of Yiddish/Hebrew in traditional European
+criminal cant.  A few years ago at a semiotics conference in Berkeley,
+someone gave a paper on a dictionary of Berlin criminal jargon published
+by the Police Chief of Berlin in the 19th century.  There is a longish
+introduction to the dictionary written by the police chief himself.  At
+one point he states that the criminals do not want outsiders to
+understand their language, and he quotes a saying of theirs to the effect
+that one shouldn't teach their jargon to the "marks".  But what the
+saying actually says is (replacing the German with English) "Don't teach
+the loshen kodesh to the goyim! Incidently, the police chief apparently
+did not discuss the Hebrew or Jewish character of this language.  I
+remember one other word from the paper: mezuzah for 'prostitute' (Think
+of doorways, and kissing...)
+
+Yiddish and Hebrew have long been considered sources of criminal cant in
+English as well; both America and Britain.  Cf the word 'mezumah',
+regarded as a yiddishism.  Not to mention  Shakespeare's "goniff".
+
+It is likely that the Jewish role in  the traditional European and
+American underworld is a factor in the use of hebraisms "from below" in
+Yiddish. Note that within criminal cant itself these terms spread to
+non-Jews as well.  Vocabulary from this layer often spreads upward into
+neutral registers.  This is well-known in English, so why not in Yiddish?
+
+Given the prevalency of this element, some words may be falsely
+attributed to Yiddish, but who knows?
+
+This brings us to sheygets ~ shiktsa.  Since use of the Hebrew root this
+way is not attested earlier in Hebrew, the original motive could have
+been this 'from below' impulse to conceal reference to the 'goyim'.
+Although sheygets seems to be a phonological problem, what about shiksa?
+I have the impression that it works very well from the Hebrew root
+sheket.  In that case, sheygets could be a back-formation on a Slavic
+model.  The 'g' would then relate to the phonological question discussed
+in earlier Mendeles on the status of devoicing/aspiration in pre-conso-
+nantal position.
+
+Jules Levin
+
+2)----------------------------------------------------
+Date: Fri, 2 Dec 1994 15:19:41 -0500 (EST)
+From: aptroot@husc.harvard.edu
+Subject: Western Yiddish and cryptic language
+
+"...trust me, you see words like "shoufel", which Mendelyanern Marion
+Aptroot pointed out to me could have gone into Dutch through thieves'
+argot, which contained a lot of this crypto-language that existed up till
+World War II."
+
+Trust me, I would never have used an example like that. Firstly, Dutch
+doesn't have any form like _shoufel_. It does have _sjofel_ [shO:fel].
+Secondly, I have said and written on several occasions that there are
+words in Dutch which are said to have come from Yiddish or Hebrew, but
+which actually entered the language through thieves' cant. I would be the
+last person to equate Yiddish with the language of thieves. There are
+good arguments to be made on the basis of phonology to show that it is
+highly unlikely that some of these words came from Ashkenazic Jews. That
+is, however, not the only reason why the "cryptic theory" of the origins
+of the Yiddish makes me feel rather uncomfortable.
+
+Marion Aptroot
+
+3)----------------------------------------------------
+Date: Tue, 06 Dec 1994 19:48:02 EST
+From: dovid@mit.edu
+Subject: nit do gedakht and progressive voicing
+
+To Reb Mikhl:
+
+Very surprising that you recall the /t/ in [nitogedaxt] being heavily
+"aspirated" (do you mean aspirated?  or released, exploded?) from the
+vaysrusish side of the family.  We'd expect [nido'gedaxt] (as in my
+kind-of vaysrusish family) -- progressive voicing.  Likewise,
+[nizhdogedaxt] for those (psuedo-)litvakes among us who use _nisht_ in
+free variation with _nit_.
+
+And a propos, to Khayem Bochner:  it might not be abundantly apparent,
+but I think [shabezdik] with a [z] is indeed the form in (litvish) casual
+speech.  Once again, not a clear, unambiguous [z], but definitely
+something on the +voiced side of the fence.
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Tue, 06 Dec 94 23:06:10 EST
+From: vbers@yalevm.cis.yale.edu
+Subject: Inquiry on the etymology of Eng. "zit"
+
+A friend teaching in Kuala Lumpur, not himself a Yiddish speaker/reader/
+hearer, has asked me to comment on a piece of etymological speculation. I
+told him that though I myself was unaware of the usage he conjectures, I
+would present it to the erudite cybercommunity of MENDELE and report any
+reaction. Here's his note:
+
+It occurred to me that the American slang "zit" for pimple may be derived
+from German Zitze, i.e. "teat." My colleague and Germanist Looi Siew Tiep
+says that the likeliest route is through Yiddish. Is it possible that
+Zitze means this, viz., "pimple", in some register of Yiddish slang?
+"Zit" acc. to the New OED is not attested before the late 60s. However,
+one dict. of slang I consulted here gives it an alternate meaning, =
+"hickey." Hm, up, written in Hebrew character, in a Yiddish dictionary we
+actually have here...But the entry gave only the literal "teat."
+
+Victor Bers
+
+5)----------------------------------------------------
+Date: Tue, 6 Dec 1994 15:40:25 -0800
+From: slobin@cogsci.berkeley.edu
+Subject: rog
+
+Jules Levin's association of rog with its Slavic meaning, `horn',
+certainly seems appropriate for a crescent-shaped pastry. Indeed, we have
+the croissant from French, with the same origin; also Turkish _ay
+c,o"reg^i_ or _ay baklavasi^_, meaning `moon pastry'; and no doubt many
+more horn-moon-crescent associations crosslinguistically.
+
+Dan Slobin
+
+______________________________________________________
+End of Mendele Vol. 4.220
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

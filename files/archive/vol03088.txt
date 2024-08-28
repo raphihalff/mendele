@@ -1,0 +1,105 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.088
+August 20, 1993
+
+1) Yiddish orthography (Bob Goldberg)
+
+1)----------------------------------------------------
+Date: Thu Aug 19 22:32:27 1993
+From: xidak!poseidon!bob@uunet.UU.NET (Robert N. Goldberg)
+Subject: Yiddish Orthography
+
+It's too bad that the revised Yiddish orthography does not suggest
+the pronunciation of most words in the spoken Yiddish theater
+dialect.
+
+The older orthography used in the dailies DER TOG and FORVERTS had
+some advantages over YIVO orthography in this regard.  For example,
+as I recall, the dipthong ayin-hey was used in places where I would
+say "ey" but that are now spelled with just an ayin, e.g., lehbn ->
+lebn.  To one who says "lebn", the "h" seems like needless baggage,
+but to one who says "leybn", the "h" is there for pronunciation, to
+distinguish it from ayin without hey, e.g., "er".
+
+I believe that "ih" was also used in words like "ihr".  This also
+gives pronunciation hints -- it says that the "i" has a longer
+sound, as opposed to the shorter "i" sound in "mit".  So those extra
+hey's had a reason for being.
+
+I don't know if old orthography contained any hints for dialects
+that interchange "ey" with "ay", as in "fleysh mit beyne" vs.
+"flaysh mit bayne", vs. the other two permutations, but I know that
+"ay" could be spelled aleph-yud, which could thus be distinguished
+from "ay" and "ey" and pronounced according to one's dialect.
+
+My uneducated guess is that the people who removed the heys in the
+revised orthography considered them as superfluous because the hey
+didn't change the pronunciation in their dialect.  I cannot imagine
+that a galitsianer would want to change the spelling so as to
+eliminate the pronunciation hints that used to be there!
+
+The implications of representational power and information content
+on Yiddish orthography is something I'm more qualified to speak
+about, as a computer scientist.  Clearly, in a language with
+multiple dialects like Yiddish (and its step-cousin, German),
+allowing orthography to contain pronunciation hints for more than
+one dialect implies that there must be alternative spellings for the
+same sound in some of the dialects (in Yiddish, this implies more
+vowel instances).  What YIVO seems to have done is to pare down the
+orthography to the minimum set of vowels to express pronunciation of
+a single dialect close to litvish, thus eliminating pronunciation
+hints for the major spoken dialect of the language.  Did they do
+this intentionally, or did they convince themselves that the pared
+down spelling was more "consistent" and "simpler", and therefore
+"better"?
+
+Ideally, what could be done to accommodate the different dialects is
+to add additional vowel dipthongs or diacritical marks.  If this
+were done for standard and theater Yiddish only, it would be
+something like:
+
+Current		(PROPOSED)	(YIVO)		(YIVO)
+YIVO		Orthographic	Litvak		Southern/Galitsianer
+Vowel		Vowel		Pronunciation	Pronunciation
+----------	------------	-------------	--------------------
+e  (er)		e    (er)	e   (er)	e    (er)
+e  (lehbn)	eh   (lehbn)	e   (lebn)	ey   (leybn)
+
+o  (hob)	oh   (hohb)	o   (hob)	o    (hob)
+o  (zog)	o    (zog)	o   (zog)	u    (zug)
+
+u  (gut)	u    (gut)	u   (gut)	i    (git)
+u  (shul)	uh   (shuhl)    u   (shul)	u    (shul)
+
+ay (bay)	ay   (bay)	ay  (bay)	a    (ba)
+ay (dray)	aleph-yud   	ay  (dray)	a    (dray)
+
+and so on ...
+
+You can think of the proposed vowels as an encoding of the
+differences in pronunciation between the two dialects.   Using the
+new spelling, both dialects can infer sound from spelling.  The
+galitsianer would pronounce "o" as "u" but "oh" as "o", "u" as "i",
+but "uh" as "u", etc.  The litvaks would have to memorize when to
+use one or the other to spell correctly, but since they are supposed
+to be the literary ones, they can cope.
+
+I wouldn't propose that every minor sub-dialect (e.g., Aunt Sadie's
+over there on Flatbush Ave.) be encoded, only the most common ones,
+which clearly includes stage Yiddish and the dialect you get when
+reading YIVO orthography.
+
+So from an information-content point of view, and assuming that you
+WANT spelling to reflect pronunciation, the old orthography had some
+of the right ideas after all (its other drawbacks and
+inconsistencies aside). Too bad the spelling revisionists were
+unaware of the value of those silent hey's and aleph-yud's, or that
+they chose to ignore the value.
+
+Bob "Nissen" Goldberg
+
+______________________________________________________
+End of Mendele Vol. 3.088
+

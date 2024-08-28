@@ -1,0 +1,247 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.318
+April 17, 1994
+
+1) Go(y)en (Dovid Braun)
+2) Letters of Sholem Aleichem (Louis Fridhandler)
+3) Fregn freg men (Ellen Prince)
+4) Maven (Ellen Prince)
+5) "Sdonzshen" un "dzshvingn" (Meyshe-Yankl Sweet)
+6) Re: me tut fregn (Khayem Bochner)
+
+1)----------------------------------------------------
+Date: Fri Apr 15 13:07:14 1994
+From: dovid@MIT.EDU
+Subject: go(y)en
+
+Daniella, you presumably misheard goy for goyen/guen.   a groyser goyen!
+(Grober goy, though, is 'thumb' in Yiddish finger games.  Anyone have
+personal experience with children's or parent-children finger games?)
+
+*************
+
+Much like English has "do-support" ("I do go, he does sing"), older forms
+of Yiddish had "ton/tun-support".  The differences, though, are that in
+modern English, _do_ is required in the position normally occupied by the
+auxiliary or modal verb in case the sentence has no such verb and is
+negated by _not_ ("I do not sing") OR if the main verb (again:  in a
+sentence without a modal or auxiliary verb) is stressed ("Although I'm a
+litvak, I _DO_ still eat sweet gefilte fish").  I really haven't looked
+at this more than cursorily, but my feeling is that in Yiddish, auxiliary
+ton/tun is an aspect marker (although it's not clear to me which aspect).
+Its use is especially common in Yiddish religious literature (tkhines,
+tsenerene, taytsh-khumesh) and is still productive in some Hassidic usage
+of religious nature, i.e. if you read _Der Yid_, newspaper of the
+Satmerer and other khsidim, you will not see this type of ton/tun, but if
+you go to hear their folk poetry at a purim-shpil, it'll abound.
+
+Marion, you've read tons of Western Yiddish and specifically Dutch
+Yiddish. Any comments on its history and development?
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: Fri Apr 15 14:12:02 1994
+From: 74064.1661@CompuServe.COM
+Subject: Letters of Sholem Aleichem
+
+     I have enjoyed the Yiddish language discussion on Mendele, with a
+special, appreciative nod to a Protestant (Rick Gildemeister) who
+provides a new, important perspective, and obviously loves Yiddish and
+responds to Yiddish warmth.  Others have also provided gems of linguistic
+insight.
+
+     Yiddish literature has had less attention, at least lately. The
+stories of Yiddish writers can, I believe, shed essential light on the
+history of Yiddish literature.  Letters are marvelous sources, and Sholem
+Aleichem was an avid letter-writer, nonpareil.
+
+     In my next post, I'll cover some letters of Sholem Aleichem to
+Mordecai Spector (late 1894) concerning preparation of his first Tevye
+story, then entitled Tevye der Milkhiker.
+
+     By the way, Sigmund Freud, too, was a source of countless, revealing
+letters.  I think it's interesting to note that Shlem Aleichem
+(1856-1916) and Sigmund Freud (1856-1939) were close contemporaries, both
+well-known to the Jewish intelligentsia, but occupied different worlds,
+hermetically sealed from each other. Freud and Sholem Aleichem seem never
+to have referred to each other, even though Freud probably understood
+Yiddish, and analyzed Jewish humor.  Sholem Aleichem showed some
+understanding of psychology as shown by his story Dray Almones (Three
+Widows) which gives me the impression of a monologue by a man in a
+therapeutic session.  Perhaps they ignored each other because both were
+affected by the Germanic culture's contemptuous disdain for anything that
+came from the Slavic world.  Still, Freud thought that Dostoyevski's
+Brothers Karamazov was the greatest achievement in literary art.
+However, Eastern European Jews were felt to be an embarrassment by Jews
+in the West, especially German (and Austrian) Jews.
+
+     Next post: Sholem Aleichem's letters to Spector re: Tevye.
+
+Louis Fridhandler
+
+3)----------------------------------------------------
+Date: Fri Apr 15 16:05:14 1994
+From: ellen@central.cis.upenn.edu
+Subject: fregn freg men
+
+i believe the fronted finite verb (in a pseudo-infinitive form) is used
+when the verb denotes an activity/state that is in a salient
+partially-ordered set relation to some activity/state already evoked in
+the discourse. contrast, claimed by yude rozof to be relevant to all
+finite verb fronting, is just a special case of this. here are some
+noncontrastive examples from royte pomerantsn:
+
+...hot der oyrekh gefregt dem balebos: "ot zogt, reb yid, vi alt, gloybt
+ir, bin ikh?" git oyf im der balebos a kuk un zogt: "al pi kheshbn darft
+ir zayn zeksunfertsik yor." zogt der oyrekh: "BINEN, BIN IKH TAKE
+ZEKSUNFERTSIK! viazoy hot ir dos getrofn?" (rp:54)
+
+...az der yid iz geven avekgegangen, fregt der toyber dem zun: ver iz dos
+der yid? makht der zun: dos iz yankl berl's. hert der toyber nit, fregt
+er vayter: ver? zogt der zun a bisele hekher: yankl berl's. fregt der
+tate: vos iz er? entfert der zun: IZN IZ ER A SOYKHER un HANDLEN HANDLT
+ER MIT TVUE. fregt der tate: a? mit vos handlt er? entfert der zun, shoyn
+a bisl in kaslekh: ay, er handlt mit tvue, handlt er. (rp:168)
+
+...fregn im di yeshive-bokherim: zayt azoy gut, reb yid, efsher kent ir
+undz helfn tsu lernen di shtikl gemore, mir farshteyen do nit dem pshat.
+vos zol der yid ton? FARSHTEY[E]N, FARSHTEYT ER KEYN VORT NIT, un vider
+andersh vil er nit, az di yungelayt zoln opshteln fun im khoyzik.
+(rp:231)
+
+re rick gildemeister's note that this syntactic form doesn't appear in
+german, there is an interesting form that is very similar in swedish, tho
+with a somewhat different discourse function.
+
+if anyone wants references on either of these topics, i'll be glad to
+provide them.
+
+ellen prince
+
+4)----------------------------------------------------
+Date: Sat Apr 16 12:24:27 1994
+From: ellen@central.cis.upenn.edu
+Subject: maven
+
+can you believe this stupidity? now safire is inventing yiddish...
+
+------- Forwarded Message
+
+Ellen-
+
+	In a recent issue (368, 24 March) of the journal Nature there is
+a review by Christopher Longuet-Higgins from Sussex University of the
+book "The Language Instinct: How the Mind Creates Language" by Steven
+Pinker. I was surprised to see the following passage,
+
+	""Here (slightly condensed) is the opening of his chapter on "The
+Language Mavens"(the word 'maven' was coined by the critic William Safire
+for a self-appointed regulator of the English language):...""
+
+I have two questions for you.  First, I thought the word maven had been
+coined long before William Safire was born.  Am I wrong about this?
+Safire may have used the term "language maven" first, in his column in
+the Sunday New York Times.  Second, does maven, when used in Yiddish,
+necessarily imply self-appointement?
+
+I'd say you were the only maven I know who could answer these questions
+but I couldn't be sure I was using the word correctly.
+
+------- End of Forwarded Message
+
+ellen prince
+
+5)----------------------------------------------------
+Date: Sat Apr 16 13:34:20 1994
+From: msweet@facstaff.wisc.edu
+Subject: "sdonzshen" un "dzshvingn"
+
+Starting to read Perets-Hirshbeyn's "Grine Felder", have encountered a
+phrase I can't construe with the standard dictionaries:  "Ikh volt nisht
+sdonzshen aza zakh tsu dzshvingn oyf di pleytses." Haven't a clue about
+"sdonzshen".  Is "dzshvingn" a dialect form of "tsvingn"?  Would
+appreciate help with this--a sheynem dank in foroys.
+
+Meyshe-Yankl Sweet
+
+6)----------------------------------------------------
+Date: Sat Apr 16 16:37:39 1994
+From: bochner@das.harvard.edu
+Subject: Re: me tut fregn
+
+Yude Rosof fregt vegn dem banits fun "ton" mitn infinitiv, vi lemoshl
+"Yidn hobn geton shlogn kapore." Ikh hob zikh oykh gefregt vegn dem; ot
+vos ikh hob oysgefunen biz itst:
+
+1) Me nitst di konstruktsye ontsuvayzan az me tut epes oft, oder
+keseyder. Yudl Mark ruft es on, in zayn gramatik, "der aspekt fun
+bashtendikeyt" (zaytl 293). Howie Aronson shraybt in zayn lernbikhl (in
+kapitl 10, vegn dem lid "Hoger oyf der mit fun veg") az "The auxiliary
+verb _tun_ or _ton_ plus the infinitive is used to indicate an action
+that occurs regularly, repeatedly." Efsher vet Howie undz tsu lib ton, un
+vet shraybn epes vayter vegn dem?
+
+2) S'iz do in mizrekh-yidish, nisht nor in mayrev. Ober s'iz zeyer zeltn
+inem hayntikn loshn. Yudl Mark shraybt: "Ot der aspekt fun bashtendikeyt
+iz geven kharakteristish far der folkisher poezye un di kinstlerishe
+poezye hot genumen vaykhn fun im. Oykh in der reydshprakh shtoyst men
+zikh on oyf dem aspekt zeltner vi mit a por doyres frier. Iz oyf dem
+aspekt aroyfgeleygt gevorn a shtempl fun primitivkeyt." Er git eyn dugme
+fun der hayntiker poezye, fun Sutskevers a lid (se shteyt nisht fun
+velkhn): "Un foygl-gezang tut farvign di beyner / in tog fun nitsokhn, in
+tog fun geule."
+
+3) Ikh hob dem "ton" gezen merstns bay Mangern, un mir zet oys az er
+nitst es _nisht_ ale mol mit dem taytsh fun aspekt, nor shpilevdik,
+poshet ontsugebn a tam fun fartsaytns. Lemoshl, zayn _Medresh Itsik_
+heybt zikh on mit a lidl in zeyer an altmodishn stil; dortn gefinen mir
+(_Lid un balade_, zaytl 209): "Ikh hob mit mi un groysn flays/ di oves
+tun oyfvekn/ fun sheymes un fun zilbern shtoyb/ vos hot zey tun ayndekn/
+zey shteyen nun un zenen greyt/ als zey nun mekhtn lebn/ un viln liber
+lezer dir/ eyn sholem aleykhem gebn."  Do shraybt er bekivn nisht azoy vi
+oyf hayntikn yidish, un ikh meyn az dos nitsn "tun" (do = "geton") iz nor
+a teyl derfun. Do ze ikh nisht keyn batayt fun shtendikeyt, nor a mitl
+fun poetisher sheferishkeyt. Ikh volt gevolt hern fun emetsn vos ken
+alt-yidish, tsi me volt azoyns take gefunen in alt-yidish, tsi dos iz
+meglekh nor bay a haynttsaytikn shrayber vos makht nokh alt-yidish.
+
+Nokh a kleynikeyt: Yude shraybt "Me nutst yo an ander banits fun "ton"
+vos nemt zikh fun slavishe shprakhn: gib a kuk/er hot a kuk geton." Di
+vikhtikeyt fun aspekt in yidish hot efsher epes yo tsu ton mit di
+slavishe shprakhn, ober aza konstruktsye vi "a kuk ton/gebn" iz nishto in
+di slavishe shprakhn, oyf vifl ikh veys.
+
+Khayem Bochner
+
+______________________________________________________
+End of Mendele Vol. 3.318
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

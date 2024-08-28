@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.013
+June 6, 1994
+
+1) Introduction (Yekhiel-Yoisef Reisner)
+2) Introduction (Ruth Levine)
+3) Introduction (Paula Horwitz)
+4) Pro drop (Delphine Bechtel)
+5) Kibitz about Kibosh (Yekhiel-Yoisef Reisner)
+6) Yiddish comics (Pavel Miladinovic-Cernoch)
+7) Pronouncing vav ("and") before bilabials (Shleyme Axelrod)
+
+1)----------------------------------------------------
+Date: Wed Jun  1 18:33:01 1994
+From: REISNER%PLEARN.bitnet@YaleVM.YCC.Yale.Edu
+Subject: Introduction
+
+Some of you may recall my occasional comments from Moscow last year.  Now
+we're in Warsaw.  I am now Director of Research and Archives of The
+Ronald S. Lauder Foundation, a private, U.S.-based foundation doing
+educational and cultural work in Central Europe.  My task here is to
+assist the Jewish Historical Institute of Poland in its library, archives
+and expanding museum of Polish Jewish history and culture, in  a variety
+of ways.  My wife, Helise Lieberman, is also a Foundation employee, and
+she will, be-ezras HaShem, be opening Warsaw's first Jewish elementary
+school in decades this fall.  (THe foundation has supported a kinder-
+garten for nearly four years already.)  It's quite exciting.  I welcome
+queries on Poland or Lithuania. Zayt mir gezint.  I look forward to
+fruitful collaboration and enjoyable discussion.
+
+Yekhiel-Yoisef Reisner
+
+2)----------------------------------------------------
+Date: Wed Jun  1 21:33:57 1994
+From: NKRR12B@prodigy.com
+Subject: Introduction
+
+I wish I could write to you in Yiddish but I don't have a command of the
+language. I came from Yiddish speaking parents and I have a profound love
+of the language and its literature. I'm not sure what you send though the
+system but my Mom is still alive and 88 yrs. old and I'm sure she would
+enjoy your stories even if tranliterated. I read about you in Hadassah
+magazine. Thanks.
+
+Ruth Levine
+
+3)----------------------------------------------------
+Date: Wed Jun  1 22:44:27 1994
+From: PQH5922@ACFcluster.NYU.EDU
+Subject: Introduction
+
+I have been lurking on this list for months and want to take advantage of
+our shames' suggestion to share information of a Jewish cultural nature.
+My name is Paula Horwitz; I was born of Jewish parents and raised in a
+secular home. The only Yiddish spoken in my midst was when my parents
+conversed and it wasn't meant for my ears. However, being a native New
+Yorker I have a limited vocabulary of Yinglish. I also have a strong
+sense of Jewish identity and therefore have been enjoying the numerous
+informative discussions by the many learned people who so avidly
+contribute their knowledge to this list. In fact I have shared several of
+those messages with my friends and family.
+
+Paula Horwitz
+
+4)----------------------------------------------------
+Date: Thu Jun  2 10:11:37 1994
+From: BOULANGER@MESIOB.OBSPM.FR
+Subject: pro drop
+
+To Ellen Prince and Bob Rothstein:
+
+I just read the evidences of pro drop cited by bob Rothstein from
+Zaretski, and strikingly enough they were all from Der Nister, but for
+one instance. Having translated Der Nister myself and having spent lots
+of time wondering about his style, I would just be cautious about
+accepting these quotes as general evidence for Yiddish as a whole. Der
+Nister developped a very idiosyncratic style, dropping many things, for
+example also articles in places where no Yiddish speaker would have done
+so. These examples testify to the creative poetic intentions of Der
+Nister, but I think they cannot be used as evidence for such a  use in
+spoken or written Yiddish otherwise.
+
+Delphine Bechtel
+
+5)----------------------------------------------------
+Date: Thu Jun  2 19:08:34 1994
+From: REISNER%PLEARN.bitnet@YaleVM.YCC.Yale.Edu
+Subject: Kibitz about Kibosh
+
+Dan Kirschner asks (4.012) about possible Yiddish etymology for "kibosh."
+This question has been around for a long time and has not, to my
+knowledge, been entirely resolved.  I just wanted to mention that
+Leo Rosten, in his book, THE JOYS OF YIDDISH, spends page after page (see
+entry for "kibosh") citing sources that say that kibosh is, isn't, or
+might be from Yiddish.  No-one seems to have a credible Yiddish etymology
+for it. His discussion ends with the written equivalent of a throwing up
+of the hands.  He seems to feel it's not Yiddish; it just feels Yiddish.
+
+I think "kibosh" needs to be added to the dictionary of Yiddish "wannabes"
+along with words like umbrella (accent on FIRST syllable, please!), spatula,
+and -- my personal favorite -- farfetched.      :)
+
+Yekhiel-Yoisef Reisner
+
+6)----------------------------------------------------
+Date: Fri Jun  3 08:55:09 1994
+From: SZ0435@daphne.rrze.uni-erlangen.de
+Subject: Yiddish comics
+
+I have recently discovered a comic book in Yiddish by Will Eisner, "An
+opmakh mit got - a grafisher novele fun Will Eisner". It is a very nice
+yiddish story published in many languages before it finally appeared in
+its original yiddish version in 1984. It was published as a special
+edition by the "Strip-Antikvariat Lambik" in Amsterdam.
+
+If anybody is interested, I can provide the address of the comic store
+where I found the book in Germany.
+
+Does anybody know about more comics in yiddish, eventually of comics with
+yiddish/jewish topics???
+
+Pavel Miladinovic-Cernoch
+
+7)----------------------------------------------------
+Date: Sat Jun  4 13:26:45 1994
+From: PTYAXEL@ubvms.cc.buffalo.edu
+Subject: Pronouncing vav ("and") before bilabials
+
+Oyver botl again.  In the takeoff on "Brother, Can You Spare A Dime"
+published in the Yiddish Forverts on May 13, the expression is spelled
+ayin-vov-veys-reysh  vov-[b]veys-tes-lamed.  The question is, how should
+the second word and its prefix be pronounced?  /v'botl/ sounds right to
+me, and to fellow Mendelenik Chaim Rosmarin.  But I've been told that in
+Hebrew the vav meaning "and" is pronounced /u/ before bilabials, with /b/
+going to /v/ (and /p/ going to /f/).  This would mean /uvotl/, I believe.
+Is Yiddish bound by the rule?  IS it a rule?  A dank.  Un gut shabes
+alemen.
+
+--Shleyme Axelrod
+
+______________________________________________________
+End of Mendele Vol. 4.013
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

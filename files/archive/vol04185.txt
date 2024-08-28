@@ -1,0 +1,147 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.185
+November 16, 1994
+
+1) Introduction (Leybl Goldberg)
+2) Moishe Rosenfeld (Rick Gildemeister)
+3) That YIVO romanization table (Shleyme Axelrod)
+4) Hefker (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Mon, 14 Nov 1994 16:38:00 -0500 (EST)
+From: lgoldberg@worldbank.org
+Subject: Introduction
+
+Leybl (Lee) Goldberg is a 37-year old Yiddish kultur-tuer and educator in
+the Washington, D.C. area.  Learned Yiddish from his Ukrainian-born
+grandmother and studied in Weinreich program in Columbia Univ. in 1976.
+Active in D.C. Yiddish activities for past four years (Leyenkrayz,
+Yiddish of Greater Washington, Arbeter Ring Branch 1100); teaches Yiddish
+language and Yiddish film at area JCC's; presently Board member of
+Yiddish of Greater Washington; organizer of two Yiddish conversation
+groups, including the AR-sponsored "Shmues-Krayz" which meets Tuesdays at
+lunchtime in downtown Washington (visitors, new participants welcome!).
+Current interests are improving his command of Ukrainian Yiddish dialect
+and expanding availability of Yiddish radio and TV.  Lives with his wife,
+Baibai, in Bowie Maryland; works as economist in Washington.
+
+Leybl Goldberg
+
+2)----------------------------------------------------
+Date: Mon, 14 Nov 94 11:30:59 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Moishe Rosenfeld
+
+Borukh habo, tayerer fraynd Moyshe. Mit etlekhe yorn tsurik hob ikh yedn
+zuntik tsugehert ayer WEVD program, Di Forverts Sho. Itst hobn mir an
+emese perzenlekhkayt tsvishn undz!
+
+Veyst ir, az Ellen Prince, velkhe mit aykh hot geshtelt a Forverts Sho
+vegn di zingern Sore Gorby, zi gehert oykh tsu di Mendelnikes un
+Mendelnitses.
+
+Ikh hob gezen ayer nomen un tsu zikh gezogt, dos ken nisht zayn der
+zelbiker, hob ikh ongehoybn leyenen ayer "biografye". Ir kent nisht visn
+vifl hanoe hot mir gegebn zen ayere verter.
+
+Eyn mol hob ikh aykh gehert oyf der radio zeyer in der fri, un ir hot dem
+oylem gegebn di letste nayes; un dan, hot ir ongehoybn redn vegn dem
+veter. "Haynt vet zayn volkndik ... "
+
+Nokh a mol, borukh habo, fraynd Moyshe!
+
+Rick Gildemeister
+
+3)----------------------------------------------------
+Date: Mon, 14 Nov 1994 13:18:04 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: That YIVO romanization table
+
+A couple of subscribers have thanked me for the romanization, YIVO-style
+post of Vol. 4.170.  Please be aware that it's only historical accident
+that it was my name that was attached to that volume of Mendele.  I made
+the first draft, which was then reviewed by ellen prince, Mikhl Herzog,
+Zellig Bach, and Arn Abramson.  Arn in particular undertook extensive
+revision, and successive iterations passed between us before it finally
+appeared as 4.170. (Prematurely, as it turned out:  our handling of the
+double-consonant issue was incomplete, as has been noted here by Dovid
+Braun [4.175--see also Arn's post in 4.179]).
+
+Shleyme Axelrod
+
+4)----------------------------------------------------
+Date: Mon, 14 Nov 94  23:23 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Hefker, again.
+
+Fraynd Zelig:
+
+Ir kent dokh ayer shtetl aleyn bashteyn but, let one of your fans add a
+word or two in support of your efforts.
+
+I know the jurical meaning of "hefker", more or less, but I learned it
+only after I had learned its 'plain meaning' in Yiddish 'chaos',
+'anarchy', 'lawlessness' (if only in a figurative sense), although we
+learn, today, that even chaos is rule governed.
+
+Is it a fact that property that does not belong to anyone is outside the
+protection of the law? Your definition says it is not. Thus, when a
+copyright expires, ownership rights to the work in question are
+transferred to the "public domain" but the integrity of the work
+continues to enjoy the protection of the law.
+
+Your expression "Yiddish is not hefker" would suggest that while Yiddish
+is "in the public domain", it is itself not anarchic, not "gezetslozik",
+for anyone to do with as he pleases. It is not without the protection of
+the laws which have governed its evolution. These have always been, and
+will continue to be subject to change; but even change in language is not
+anarchic--it proceeds along linguistically reasonable and, if not
+entirely predictable, retrospectively explicable lines". It is not
+governed by the whim of the individual.
+
+Otherwise a language could not continue to function to facilitate
+communication, as you say, plainly, simply, directly. Written or spoken,
+it would fail the basic test of ready comprehension. Thus, not
+withstanding the fact that a language is in the public domain, it is
+still _protected_ by the established "laws", that a responsible member of
+the speech-community is expected to follow.
+
+Zayt gezunt, biz hundert un tsvantsik yor.
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 4.185
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

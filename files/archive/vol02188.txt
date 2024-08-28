@@ -1,0 +1,170 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 188
+April 30, 1993
+
+1) Various (Dovid Braun)
+2) Re: Diminutives and Plurals (Khaim Bochner)
+3) Slippers (Bob Rothstein)
+4) Yud-yud (Michael Shimshoni)
+
+1)----------------------------------------------------
+Date: Thu Apr 29 22:53:14 1993
+From: David Braun <braund@babel.ling.upenn.edu>
+Subject: various
+
+Malke Winters, David Perlmutter has an article that is
+right up the alley of your friend interested in
+khsidimlekh (the morphology of the word, that is).
+Punkt itst I can't find the paper.  Ellen, would you
+please inform if you have it handy (since you were the
+one to introduce me to it)?
+
+Skirt is:  rok, spudnitse, (halbe) kleydl -- depending
+on dialect.  _rok_ for ot other Yiddish speakers is a
+coat/jacket (whence _rekl_ 'jacket').  Also shlofrok
+'bathrobe'.
+
+_lehavdl_ IS in fact of Turkish origin.  Perhaps I will
+share the etymology at a a later date.
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: Thu Apr 29 23:26:09 1993
+From: bochner@das.harvard.edu
+Subject: Re: Diminutives and Plurals
+
+Malkah Winters writes:
+> Chasidimlekh  pl. w/diminutive
+
+> Is this an isolated case in Yiddish? - I doubt it.
+> Where can I find anything written on the subject of the
+> order of these morphemes? More examples?
+
+First, some bibliography:
+
+  Bochner, Harry(84), "Inflection within Derivation",
+The Linguistic Review, 3: 411-421.
+
+  Perlmutter, David(88), "The Split Morphology
+Hypothesis: Evidence from Yiddish", in _Theoretical
+Morphology: Approaches in Modern Linguistics_, ed. by
+M. Hammond & M. Noonan, pages 79-100. San Diego:
+Academic Press.
+
+(My old friend (and mentor) David Perlmutter and I draw
+opposite theoretical conclusions, but we mostly agree
+on the facts ;-)
+
+There are brief discussions in:
+
+  Birnbaum, S.(1922), _Das hebraishe un aramaische
+Element in der jiddischen Sprache_, Gustav Engel,
+Leipzig.
+
+  Mark, Yudel(78), _Gramatik fun der Yidisher
+Klal-Shprakh__, Congress for Jewish Culture, New York,
+page 165.
+
+  Spivak & Blumgarten(1911), _Yidish Verterbukh_,
+Farlag Yehoyesh, New York, page xv.
+
+and the facts are also referenced in:
+
+  Stump, Gregory(91), "A Paradigm-Based Theory of
+Morphosyntactic Mismatches", Language 67: 675-725.
+
+Ok, now the facts in brief:
+
+Words whose plurals are formed with -im regularly have
+plural diminutives in -imlekh: khasanimlekh,
+sforimlekh, khatoimlekh, khaveyrimlekh.  Note also:
+poyerimlekh, naronimlekh (from germanic roots). The
+only quirk is that this doesn't happen if the meaning
+has shifted too far: e.g. khosidl can mean "Hassid
+(dim.)", in which case the plural is khasidimlekh; but
+it can also mean "a Hassidic dance", in which case the
+plural is khosidlekh.
+
+The corresponding thing happens, at least sometimes,
+with Hebrew (or Aramaic?)  nouns ending in a consonant
+that take the ending -es. nisyoyneslekh "temptations",
+khesroyneslekh "defects". Spivak & Blumgarten say this
+happens regularly, but the other discussions don't
+mention it. I've encountered both oysyeslekh &
+oysyelekh (sic!) as plural diminutives of os "letter".
+
+Note that this doesn't happen with nouns that add -s to
+a stem ending in -e: *menoyreslekh.
+
+That's probably more than Malkah bargained for, so I
+guess it's more than enough ;-)
+
+The origin of the pattern is an interesting question;
+I'd like to see anything that Carol Chapman writes up
+on this.
+
+Khaim
+
+3)----------------------------------------------------
+Date: Fri Apr 30 00:51:50 1993
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: Slippers
+
+Some of the Yiddish terms for "slippers" have a Slavic
+connection. Polish has _papucie_ (sing. _papuc'_) for a
+kind of soft slipper, which apparently comes from
+Turkish _papuch_ 'shoe'.  In Old Russian _papuchi_
+referred to some kind of Turkish footwear. There's also
+a dialectal Russian form _babusha_ for a kind of
+slipper, said to be borrowed from German _Babuschen_ or
+from French _babouche_, which comes from Arabic
+_babush_, which may or may not be related to the
+Turkish word.
+
+_Podeszwa_ is Polish for 'sole' (of a shoe or a
+foot)--from the prefix meaning 'under' and the root of
+the verb 'sew'.  The same elements are in the Ukrainian
+word _pidshivka_ 'thread used by shoemakers to sew
+soles'--which Harkavy suggests as the source for the
+Yiddish expression  _mit ale pitshevkes_ 'with all the
+details'.
+
+	Bob Rothstein
+
+4)----------------------------------------------------
+Date: Fri Apr 30 04:34:21 1993
+From: Michael Shimshoni <MASH@WEIZMANN.WEIZMANN.AC.IL>
+Subject: Yud-Yud
+
+Arnold Kuzmack writes in a reply:
+
+>     In Mendele 2.181, Stephen Dowling suggests that
+>the alef-yud spelling for yid, yidish, etc. resulted
+>from religious scruples over writing yud-yud.  I had
+>never heard that before.  Is there confirmation of
+>this?  If it's true, how can they bear to write the
+>thousands of other words that contain two yud together,
+>such as eyns, tsvey, dray, etc.?
+
+I think  that Arnold  is correct,  I am not  aware of
+any ban  on any yud-yud, also not in Hebrew.  One
+example may be enough. yayin, wine, is spelled  yud yud
+nun.   Some other  combinations are banned  by the very
+Orthodox like yud  heh (also not always, I think  it
+*is* used in words like  Yehudi, only at  the end of
+the  word some drop  the heh). Also yud  vav is
+verboten by  some.  In using  the letters  for their
+numerical values, it  is well known that  15 and 16 are
+*not* yud heh and yud vav, but tet vav and tet zayin
+respectively.
+
+A Gutten Shabbes,
+
+Michael Shimshoni
+
+______________________________________________________
+End of Mendele Vol 2.188
+

@@ -1,0 +1,199 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.272
+March 7, 1996
+
+1) Yiddish at Historical Linguistics Conference (Marion Aptroot)
+2) Roykh (Aree Komar)
+3) Bokser (Meyer-Leyb Wolf)
+4) Unofficial Cracow's Yiddish page (Magdalena Sitarz)
+5) Statistics on Yiddish groups (Miki Safadi)
+6) Glaykhn (Khayem Bochner)
+7) _Found Treasures_ (Bernard Katz)
+8) Syllable onsets in Yiddish (Meyer-Leyb Wolf)
+9) Yiddish program in Paris (Delphine Bechtel)
+
+1)----------------------------------------------------
+Date: Wed, 6 Mar 1996 16:30:07 -0500 (EST)
+From: aptroot@husc.harvard.edu
+Subject: Yiddish at Historical Linguistics Conference
+
+Those readers of Mendele who are engaged in research in historical linguistics
+may be interested in the 13th International Conference of Historical
+Linguistics which will be held at the Heinrich Heine University in
+Duesseldorf, Germany, 10 - 17 August 1997.
+
+One of the special topic areas will be *The development of Yiddish as a
+contact language*. Professor Marvin (Mikhl) Herzog of Columbia University will
+be among the plenary speakers.
+
+One page abstracts may be submitted either by mail (one hard copy accompanied
+by an ASCII-file on a diskette) or, preferably, by email (ASCII-file only) so
+as to arrive no later than October 1, 1996.
+
+mail:  Dieter Stein
+       Heinrich-Heine-Universitaet Duesseldorf
+       Anglistik III
+       Universitaetsstr. 1
+       D-40225 Duesseldorf
+       Germany
+email: ICHL1997@phil-fak.uni-duesseldorf.de
+fax:   49-(0)211-811-3026
+
+Marion Aptroot
+
+2)----------------------------------------------------
+Date: Wed, 6 Mar 1996 22:34:58 -0500 (EST)
+From: komar@yu1.yu.edu
+Subject: Roykh
+
+I have been puzzled by the etymology of the Yiddish word "roykh" (smoke). Is
+it from the German "rauch" or from the Hebrew "ruakh"? Can there be a
+connection between the German and the Hebrew, say via the Yiddish, or perhaps
+even further back?
+
+Arre Komar
+
+3)----------------------------------------------------
+Date: Thu, 7 Mar 1996 01:58:05 -0500
+From: wolfim@chelsea.ios.com
+Subject: Bokser
+
+Theodor Gaster in "Festivals of the Jewish Year" devotes several pages to
+Tu-Beshvat and its customs. He quotes a poem from a Dzhudezmo "manual" for the
+holiday, which mentions the carob. The word used is 'alharuba', the Arabic
+name which is the etymon of carob. Looks like Sephardim didnt use the
+loshn-koydesh name either.
+
+They may well have been the bokser pipeline to the Ashkenazim.
+
+Meyer-Leyb Wolf
+
+4)----------------------------------------------------
+Date: Wed, 6 Mar 1996 09:21:36 +0100 (MET)
+From: sitarz@iphthi.physik.uni-mainz.de
+Subject: Unofficial Cracow's Yiddish page
+
+I'm writing to let you know of the Unofficial Cracow's Yiddish Page accessible
+by WWW. This is a very modest project, however, I think that it might be of
+interest to some people subscribed to your list. Should you find it so, please
+repost the information about it on your list.
+
+http://www.cyf-kr.edu.pl/~ufsitarz/unyidd.html
+
+Magdalena Sitarz
+
+5)----------------------------------------------------
+Date: Thu, 7 Mar 1996 07:16:00 -0800
+From: msafadi@ucla.edu
+Subject: Statistics on Yiddish groups
+
+Si'z doh, efsher, statistikes vegn bateylikn zikh in Yiddish leyen-krayzn oder
+shmues-krayzn iber die velt?
+
+Are there any statistics regarding participation in Yiddish reading circles or
+conversation circles around the world?
+
+Miki Safadi
+
+6)----------------------------------------------------
+Date: Thu, 07 Mar 96 12:09:50 -0500
+From: bochner@das.harvard.edu
+Subject: Glaykhn
+
+Az s'kumt shoyn tsu reyd "glaykhn" ...
+
+The following passage, from a discussion of loan words in immigrant speech in
+Bloomfield's _Language_ (1933), is relevant:
+
+Soon after the German gets here, we find him using in his German speech, a
+host of English forms, ... He makes loan-translations, such as "ich gleich'
+das nicht" "I don't like that," where, on the model of English "like", a verb
+with the meaning 'be fond of' is derived from the adjective "gleich" 'equal,
+resemblant.' Some of these locutions, like this last, have become
+convetionally established in American immigrant German. (Quoted from the 1984
+reprint, page 462)
+
+Since German Jews were important in the American Jewish community before large
+numbers of immigrants came from Eastern Europe, it seems plausible that
+"glaykhn" in Yiddish may have originated as "gleichen" in immigrant German. Is
+this plausible for England & Australia as well?
+
+By the way, for those who don't know, Leonard Bloomfield was one of the most
+important American linguists of this century.
+
+Khayem Bochner
+
+7)----------------------------------------------------
+Date: Thu, 7 Mar 1996 17:17:33 -0500 (EST)
+From: bkatz@uoguelph.ca
+Subject: _Found Treasures_
+
+Shirley Kumove's recent posting [5.264] prompts a reminder from me that anyone
+who has not taken a look at _Found Treasures: Stories by Forgotten Women
+Yiddish Writers_, owes it to themselves to do so -- a wondeful book!
+
+Bernard Katz
+Guelph, Ontario
+
+8)----------------------------------------------------
+Date: Thu, 7 Mar 1996 17:31:32 -0500
+From: wolfim@chelsea.ios.com
+Subject: Syllable onsets in Yiddish
+
+Neil Jacobs [5.269] has raised an interesting phonological point, which I
+suspect is made more difficult to get at by the apparently inconsistent
+romanizations in UW's dictionary. I emphasize 'apparent', since there may well
+be other, non-phonological reasons for particular romanizations. For instance,
+the pronunciation 'khezhbm' is so widespread that he selected it for the
+klal-shprakh, whereas in other cases there may have been no widespread form
+with phonemic merger.
+
+I wonder if Neil would clarify some details of Yiddish phonetics to enable
+others to help his investigation.
+
+It seems to me that in Eastern Yiddish, two obstruents in word initial
+position are both either voiced or unvoiced at the phonetic level and that any
+distinction between underlying voiced/voiceless pairs is due to the usually
+redundant fortis/lenis feature. For many (some?)speakers then, 'psak' and
+'bsule' do not have the same initial consonant, though both are unvoiced. Is
+this impression borne out by your work?
+
+For some of the words cited, e.g. 'kdushe', 'sdorim', many speakers to not
+have an initial consonant cluster, but rather k'dushe, s'dorim. Is this
+correct?
+
+What do those who have zgule have in the initial clusters produced by enclitic
+s as in s'gayes, s'gopele, etc.?
+
+My apologies to Neil for answering a question with so many questions.
+
+Meyer-Leyb Wolf
+
+9)----------------------------------------------------
+Date: Thu, 07 Mar 1996 23:57:13 +0002
+From: francois.boulanger@obspm.fr
+Subject: Yiddish program in Paris
+
+I would like to thank all those who expressed interest in the Yiddish summer
+program in Paris. As I had mentioned, I am only conveying the info to Mendele
+subscribers, but cannot answer all inquiries myself. All inquiries should be
+directed by mail to:
+
+ADECY (July 1996) seminar
+BP 720
+75163 Paris Cedex 04
+France
+
+Tel and fax: (33-1) 42.71.30.07
+
+They are planning to open an e-mail account, and I will inform you on Mendele.
+_Please_ do not flood my own e-mail account with inquiries, I will not be able
+to answer them.
+
+Delphine Bechtel
+
+______________________________________________________
+End of Mendele Vol. 5.272
+

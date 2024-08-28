@@ -1,0 +1,137 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.234
+February 13, 1994
+
+1) Disraeli said it first (Arre Komar)
+2) Benjamin said it first (Hirsh Schipper)
+3) Math books, card games, etc. (Holger Nath)
+4) Introduction (Meyshke Alpert)
+
+1)----------------------------------------------------
+Date: Sat Feb 12 12:56:28 1994
+From: "Dr. Arthur Komar" <komar@yu1.yu.edu>
+Subject: Disraeli said it first
+
+Eyn mol in parliament hot Disraeli gezogt tsu an antisemit vos hot
+gegen di Yidden eppis shlekht gezogt (az zay zaynen nisht azoy fayn
+un hobn nisht azoy gute yikhes vie Englander) : "Di eltern fun di
+Yidden hobn di verter fun Got shtudiert an di zelber tsayt ven ayer
+eltern hobn immer nokh geshoykhelt in di baymer." Er hot dos gezogt
+a bissl friyer fun GBShaw. Disraeli hot gekemft az Yidden sollen dos
+rekht hobn tsu zayn mitglieders in Parliament.
+
+Arre Komar
+
+2)----------------------------------------------------
+Date: Sat Feb 12 14:32:59 1994
+From: BB7M000 <BB7M@MUSICB.MCGILL.CA>
+Subject: Benjamin said it first
+
+Judah P. Benjamin did say in the US Senate prior to 1861 in a reply
+to another senator," The gentleman will please remember that when
+his half-civilized ancestors were hunting the wild boar in the
+forests of Silesia, mine were the princes of the earth". This
+putdown may or not have carried across the Atlantic, but probably
+the seminary quotation was the reply made by Benjamin Disraeli (1801
+-1881) in the House of Commons when taunted by Irish Daniel
+O'Connel, "Yes, I am a Jew, and when the ancestors of the right
+honorable gentleman were brutal savages in an unknown island, mine
+were priests in the temple of Solomon". George Bernard Shaw was
+certainly aware of that putdown, and adopted it in his play "Caesar
+and Cleopatra". Viper-tounged, mini-brained Henry Mencken(1880-1956)
+probably saw the play and adapted it to his anti-semitic insult. Vi
+a tzibeleh.
+
+Hirsh Schipper (I have not checked Caesar and Cleopatra)
+
+3)----------------------------------------------------
+Date: Sat Feb 12 14:12:07 1994
+From: Holger Nath <hn6@columbia.edu>
+Subject: math books, card games, Yiddish wordprocessing/database
+
+To Ted Alper re math books:
+
+Lebedintsev, K.P.  1924.  Algebre.  ibergezetst fun A.Zaretski.
+Vilne: B.A. Kletskin.  184 p.  [at Harvard: Widener: Y 8512.5]
+
+Lebedintsev, K.P.  1923.  Algebre: ershte teyl.  Idish: A.Spivak.
+Kiev: Alukrainisher melukhe-farlag.  [at Harvard Microfilms:  Film A
+373.249]
+
+[BTW, unlike most of the Harvard Libraries, Government Docs and
+Microfilms (which has a number of Yiddish titles on microfilm) are
+open to the public/unaffiliated.  They can be accessed through Pusey
+Library].
+
+To Neach Zide re card games:
+
+check also out:  Shmuel Vinters article "Kortn-shprakh" in
+Filologishe Shriftn 1 (1926): 319-324
+
+It gives terms for card-playing and explains them briefly.  It has
+mostly references to "oke"
+
+Query: Yiddish wordprocessing/database:
+
+A while ago I got Nota Bene 4 and I tried using its Cyrillic/Hebrew
+fonts for its database (Ibid/Ibid Plus).  Unfortunately, I don't
+get the entire entry on the shorter browse-screen and it can't
+search for Cyrillic/Hebrew and has some problems with diacritics
+(it works, though, in the word processing program).  NB told me it
+should work, but couldn't help so far  (they are working on it, I
+was told). Does anyone have an idea or has had similar problems?
+
+Holger Nath
+
+4)----------------------------------------------------
+Date: Sat Feb 12 15:11:24 1994
+From: meyshke@aol.com
+Subject: Introduction
+
+Heysn heys ikh Meyshe Yeysef bereb Elye-Meir bereb Meyshe Aba der
+Likayers. Bay di goyim ober, (sheyn opgeredt bay di hayntike idn)
+heys ikh Michael Alpert. A muziker bin ikh a klezmer, dertsu a
+shtikl visnshaftler af dem gebit, farbundn mitn YIVO, olev hasholem.
+Mitglid bay di klezmerishe kompanyes "BRAVE OLD WORLD" un "THE
+KRAKAUER TRIO", un geshpilt a fule yorn bay "KAPELYE". Shraybn
+shrayb ikh amol idishe lider, fun inhalt epes hayntsaytik gepregt.
+In mitn drinen bin ikh mit-direktor funem yerlekhn tsuzamenfor "A
+BUFLOKS AFN DAKH" (Buffalo on the Roof) in West Virginia, vos
+farnemt zikh a yedn zumer mit idishe muzik, tents, folklor un andere
+kultur-inyonim. Amol bin ikh afile in der heym ekhet tsu pakn.
+
+Azeyvi mayn idish shtamt sheyn fun di amolike tsaytn, bin ikh zeyer
+a baln zikh tsu bakenen mit der hayntiker kompyuter-terminologye,
+vos me hot zi aroysgetrakht in der letster tsayt. Deriber bet ikh
+aykh, khevre fakhlayt, zikh tsu yaven bay mir mit etlekhene azelkhe
+termines, ikh zol kenen zayn a moderner a progresiver mit alemen
+glaykh.
+
+A greysn dank, un hot mir ale a gutn shlitvegs!
+
+Meyshke Alpert
+
+______________________________________________________
+End of Mendele Vol. 3.234
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+

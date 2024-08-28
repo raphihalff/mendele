@@ -1,0 +1,135 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.177
+December 21, 1993
+
+1) Bibliography (Bob Rothstein)
+2) Daytshmerizms (Ellen Prince)
+3) Jewish languages (Lewis Leavitt)
+
+1)----------------------------------------------------
+Date: Tue Dec 21 10:39:13 1993
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: Bibliography
+
+In response to Ellen Prince's solicitation of bibliography, I offer
+the following notes.
+
+	1. A. Zaretski, the foremost Soviet specialist on Yiddish
+syntax, published two articles on the question of verb position in
+the Yiddish sentence in the Kiev journal _Di yidishe shprakh_.  The
+first, in no. 1 (March-April, 1927), was entitled "Tsu
+Sholem-Aleykhems verter seyder" (pp. 5-10).  The second, in no. 3
+(May-June 1928), bore the title "Tsu Mendeles verterseyder [sic]"
+(pp. 19-26).  Zaretski shows that in the overwhelming majority of
+the examples in his sample, the personal verb form occupies the
+second position in the sentence, but cites examples in which the
+verb occupies the first or even the third position (as in
+exclamations like "Vi sheyn, vi likhtik dort iz!").  His conclusion
+is that the subject requires more study, but that there are both
+justifiable and unjustifiable deviations from the verb-second
+principle.  (The "errors" are a problem in contemporary newspaper
+practice; here Zaretski refers to his "bikhl" _Grayzn un sfeykes"
+[Kiev, l927].)
+
+	2. The late editor of the American _Yidishe shprakh_, Yudel
+Mark, published an article entitled "Dos ort fun beygikn verb in dem
+zats" in that journal (vol. 6 [1946], no. 1-2, pp. 1-14).  He also
+points out that verb-second is the statistical norm, but verb-first
+and verb-third are also normal in appropriate circumstances.  One
+justification for verb-third is extra stress on the second element,
+as in "Vos ER hot ibergelebt!"  Before introducing one set of
+examples, Mark points to the importance of intonation and stress by
+asking his readers to read the examples out loud:  "Mir betn bloyz
+nit leyenen ot di vayterdike doygmes mit di oygn, nor zey aroysreydn
+oyfn kol."
+
+		Bob Rothstein
+
+2)----------------------------------------------------
+Date: Tue Dec 21 11:57:13 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: 'daytshmerizms'
+
+just have to stick in my two cents. i agree with khaim that a bunch
+of different things are going on under the rubric 'daytshmerizm'. as
+i see it, there are:
+
+1. orthographic influences of new high german: still occurs in the
+classified ads in the forverts, for example, e.g. in the most recent
+forverts, 12/17/93, p. 10, ad for palace hotel: shin-vov-he-lamed
+for /shul/. (btw, the same ad has an english borrowing, baths,
+spelled beys-alef-tes-he-samekh.)
+
+2. self-conscious use or citation of nhg words not otherwise used in
+yiddish, e.g. hokhtsayt in harkavy's earlier dictionary mentioned
+previously.
+
+3. nhg borrowings fully entrenched in central yiddish but unfamiliar
+or at least marked in other varieties of eastern yiddish, e.g. kuzin,
+tante, le(y)zn, geve(y)zn, onkl, aynladn, yetst, etc etc etc. since
+most 'grammarians' of yiddish were not of this dialect, they seem to
+have had trouble distinguishing this class from type-2 hokhtsayt-type
+borrowings. as the grandchild of a very simple polish jew who left
+his goat and chickens in his village and came to america in 1890 at
+the age of 14, where he was hitched to a pushcart on the lower east
+side, and who barely knew the latin alphabet, much less german, i
+find it alternately amusing and infuriating that his lexicon should
+be labeled 'daytsmerish' by the litvak and bukovine mavens. the fact
+is that new high german was a coterritorial/contact language for
+much of the area where central yiddish was spoken (e.g. all of the
+austro-hungarian empire) and there was lots of movement back and
+forth (e.g. i recently learned that my other grandfather was born in
+hamburg of polish-jewish parents; they moved to slovakia when he was
+a small child), and you find the same sort of borrowing from german
+in this area that you find from other coterritorial languages in
+other areas. to all those who are STILL ranting and raving about
+these borrowings, i'd like to quote my students and say: 'get a
+life!'
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Tue Dec 21 12:11:02 1993
+From: Lewis Leavitt <LEAVITT@Waisman.Wisc.Edu>
+Subject: Jewish languages
+
+For an opening lecture for an adult education course on "Yiddish
+language and culture" I would like to give a brief overview of other
+jewish languages such as Ladino, Judeo-arabic, Judeo-persian etc.
+
+I would be grateful for suggested references.
+
+(My knowledge to date is based on Weinreich's chapter in his
+"history of the Yiddish language"}
+
+A shaynem dank,
+
+Lewis Leavitt
+leavitt@waisman.wisc.edu
+
+______________________________________________________
+End of Mendele Vol. 3.177
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

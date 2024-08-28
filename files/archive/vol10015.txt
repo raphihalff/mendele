@@ -1,0 +1,262 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 10.015
+June 14, 2000
+
+1) Spelling and neshome (Ellen Prince)
+2) Spelling and neshome (Geoffrey Nathan)
+3) kale gevorn (Mikhl Herzog)
+4) kale gevorn (Ellen Prince)
+5) kale gevorn (Mendy Fliegler)
+6) yidish hot nisht inter zikh kain medine (Eliahu Toker)
+7) Waiting for Mendele (Bob Poe)
+8) orl (Rick Turkel)
+9) nagan and Hirsh Glik (Hershl Hartman)
+
+1)----------------------------------------------------
+Date: Sun, 11 Jun 2000 23:31:27 -0400 (EDT)
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Spelling and neshome
+
+Marjorie Hirshan writes [10.010] on the issue of whether new publications of
+Yiddish works should have the author's spelling or YIVO spelling. She
+says:
+
+     But as Tevye would say - on the other hand, if not for
+     standardizations, we would still be reading when that Aprille with its
+     shoures soote (or a reasonable facsimile)..... I must voice my hope
+     that standardization is what happens after centuries of developmental
+     changes in speech and/or spelling, and that these standardizations are
+     based upon the words that prevail in the neshomes of the people in the
+     marketplace of the day. These rules create a base for academics and for
+     'right' and 'wrong' in fine-tuning language through time.
+
+The problem with the analogy is that Chaucer was writing in Middle English
+and we speak/read/write Modern English -- two different languages. We can
+certainly still find recent publications of his Canterbury Tales in the
+original (Whan that Aprille...), as well as *translations* into Modern
+English. This is a *very* different thing from deciding that
+twentieth-century Yiddish writers didn't/don't know how to spell their own
+language. 'Correct spelling' is merely a convention -- Birnbaum had one,
+Moyshe Nadir had one, and YIVO has one, among others. If the publisher is
+YIVO, then I guess one would expect the spelling to be changed; if it isn't,
+then it would just be chutzpah (aka khutspe), in my opinion.
+
+All this notwithstanding, it would be nice to have SOME 'standardized'
+spelling in an electronic edition, so one could do efficient searches. I
+personally YIVO-ized Olsvanger's Royte Pomerantsn transliteration for my
+online corpus, which is as chuzpahdik as one could get, but I wouldn't want
+to see it published this way for a general audience. I would like those
+'standardized' editions to be purely for this purpose and certainly not for
+reading for pleasure or research or for teaching. Just my two cents.
+
+Marjorie goes on:
+
+     Only a gazlen would veto or give up copies (Shakespeare, Browning...)
+     with the wouldsts and shouldsts and thees and thous. But only a gazlen
+     would let choice of word become a free for all between both stages.
+
+Not adhering to YIVO's fiats does not necessarily constitute a 'free for
+all'. In other speech communities it is usually the (eminent) writers that
+*become the model* for spelling! Poor Yiddish writers, they don't get no
+respect. ;)
+
+Ellen F. Prince
+
+2)----------------------------------------------------
+Date: Mon, 12 Jun 2000 10:38:42 -0400 (EDT)
+From: "Geoffrey S. Nathan" <geoffn@siu.edu>
+Subject: Re: Spelling and neshome
+
+Marjorie Schonhaut Hirshan [10.010] wrote:
+
+     [See identical quote in post above]
+
+Just to further complicate issues, I should point out that we indeed DO
+write (almost) Middle English.  The English spelling system was frozen about
+three hundred years ago, before the Great Vowel Shift.  Thus everyone else
+in the world pronounces the letter 'i' as 'ee', but WE pronounce it as a low
+to high diphthong.  Similarly differences exist for the letters 'e' and 'a'.
+In addition, we continue to write the long-lost velar fricative 'kh' all
+over the place in words like 'cough', 'right' and 'through'.  In some
+cultures (and the English-speaking one is the most so) spelling is very
+conservative, and people get extremely loyal to the 'old ways'.  This
+discussion of what to do with old books using the 'wrong' spelling is
+fascinating--as a linguist I have no wisdom to offer, however.
+Standardization is certainly a good thing for languages which are vital and
+widely taught.  As to whether Yiddish counts in that category I'd rather not
+get into...
+
+Geoffrey Nathan
+
+3)----------------------------------------------------
+Date: Mon, 12 Jun 2000 13:10:30 -0400 (EDT)
+From: "Mikhl Herzog" <mikhl@hotmail.com>
+Subject: Creative etymologies
+
+Milt Koosman's unique suggestion (Vol. 10.012) begs for an interpretation of
+_di kale iz kalye gevorn_.  Milt?
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Mon, 12 Jun 2000 13:41:10 -0400 (EDT)
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: 'kale gevorn'
+
+I may have missed some replies so please excuse me if this has already been
+mentioned, but my understanding has always been that it's not 'kale gevorn'
+but 'kalye gevorn', i.e. become spoiled (literally 'lame'). Was this a folk
+etymology?
+
+Ellen Prince
+
+5)----------------------------------------------------
+Date: Mon, 12 Jun 2000 15:55:45 -0400 (EDT)
+From: Mendy Fliegler <zemms@netkonnect.net>
+Subject: 'Kale gevorn'
+
+Milt Koosman thinks that 'kale gevorn' describes a bride-to-be. Could
+be....However if something, such as a 'makherayke', or some machinery, 'tsum
+bayshpil',  needs repair, that is something that has become 'kal-ye', or kalye
+gevorn. Note there is a difference in words...And if something is worn out, or
+goes bad,  it also becomes: kalye.
+
+Mendy Fliegler
+
+6)----------------------------------------------------
+Date: Mon, 12 Jun 2000 14:02:01 -0400 (EDT)
+From: tokere@abaconet.com.ar
+Subject: Yiddish hot nisht inter zikh kain medine...
+
+Libe mendelianer:
+
+Ikh halt far vikhtig tsu teiln mit aikh a veitiglikhe erfarung. Mit
+etlikhe monatn tzurik hot men mir ayngeladn ikh zol iberzetsn oyf yidish
+dos tshikave lid "An Anna Blume" fun Kurt Schwitters, a hanover poet
+fun onhoib tsvantsikstn iorhundert, kedei araitsugebn oikh di yidishe
+versie funem lid in a bukh vos di Hanover shtot hot geklert aroistsugebn
+un shenken di bazujer fun Hanover Expo 2000 vos fangt zikh on di teg.
+Inem dozikn bukh --hobn zey gezogt-- veln zey araygebn iberzetsungen
+funem lid in a por hundert vikhtige shprakhn.
+
+Ikh hob dos lid ibergezetst un betsaitns araingeshikt, ober es iz nit
+arayn in bukh vail, loit a briv vos zei hobn mir geshikt:
+
+"Tobias Burghardt was so kind to ask you for a translation of the poem
+'An Anna Blume". You sent us your translation. Unfortunately, I have to
+inform you that we could not consider this poem in the book. The book is
+the official present of Lower Saxony for the guests of the state who
+will visit the world exposition in Hannover. Therefore we had to
+restrict the translations to the official languages of the diferent
+countries. This is the reason why we could not take your translation in
+Yiddish into consideration. I ask you for your understanding and
+apologise for the misunderstanding. Yours sincerely Dr. Gerd Weiberg."
+
+Ikh halt atsind dem aroisgegebenem bukh in hant un es klingt modne di
+logik fun azoifil farvorfene shprakhn fun kleine afrikanishe un
+aziatishe medinkalakh vos zenen fartrotn un davke yidish, nisht. Un
+davke in Daitshland. Oikh nisht "ladino" khotsh zei hobn planirt oikh
+betn a ladino iberzetsung... Yidish hot nokh nisht inter zikh a
+medine...
+
+Eliahu Toker
+
+7)----------------------------------------------------
+Date: Mon, 12 Jun 2000 18:37:18 -0400 (EDT)
+From: poe@ekbos.com (Bob Poe)
+Subject: Re: Waiting for Mendele
+
+Martin Green has called attention to recent delays in publication
+of Mendele.  Some of that, undoubtedly, stems from the temporary
+arrangements that have required one shames to substitute for
+another.  Some of it may also be the result of the current practice
+of holding various contributions back so that several on the same
+subject can be published together, rather than simply distributing
+them in the order of submission.
+
+That said, it seems as though the delays are in the past and Mendele
+has caught up with current submissions.  I suspect, however, that
+some items may have been lost along the way.  For instance, I sent
+in a contribution on May 15 that was not published, nor explicitly
+rejected, nor even acknowledged, and the same may have happened to
+Mr. Green and others.
+
+Bob Poe
+
+[The temporary untershames adds ruefully: Bob Poe is exactly right.  A
+small number of posts between May 15 and May 23 have gone astray.  Posters
+affected are cordially asked to resubmit. nm]
+
+8)----------------------------------------------------
+Date: Mon, 12 Jun 2000 16:20:47 -0400 (EDT)
+From: rturkel@cas.org
+Subject: orl
+
+Itzik Goldenberg [10.001] wrote:
+
+     A question about Sholem Aleykhem's use of "orl" as a synonym for a
+     non-Jew.  This term appears many times, in context, in the story "Oylem
+     habe," which just appeared in The Mendele Review.  For those who
+     might not know, "orl" is a foreskin, (though spelled without the "hey"
+     at the end of the word when the actual foreskin is meant). The term
+     seems to us now humourous at best, perhaps somewhat derogatory at
+     worst.  I was wondering whether a native yiddish speaker, especially at
+     the time Sholem Aleykhem was writing these stories, before 1916, would
+     find this term amusing, or was it the matter-of-fact term used in a
+     non-derogatory sense?
+
+Just a couple of comments on "orl."  It's not a "foreskin," but
+rather "an uncircumcized male."  It comes directly from the Hebrew
+"`arel," and can be found in several contexts in Tana"kh, including the
+description of Moyshe Rabeinu as "`aral sefatayim (sefosayim)" literally
+"of uncircumcized lips," i.e., having some sort of speech impediment.
+The Hebrew word for foreskin is "`orla," which explains the final "hey"
+cited by Itzik above.
+
+Given that background, I don't find this usage the least bit
+humorous.  I wasn't around in 1916, but my guess is that this would have
+been a more or less ordinary way for a Yiddish speaker of the time in
+eastern Europe to refer to a non-Jew.  There's no doubt in my mind that
+it's a pretty derogatory term, but don't forget that this would have
+been some eighty-odd years closer to the time of frequent pogroms
+against Jewish communities, well within living memory at the time, so
+such derogation wasn't totally unwarranted.
+
+Hope this helps.  zayt mir gezunt un shtark.
+
+Rick Turkel
+
+9)----------------------------------------------------
+Date: Mon, 12 Jun 2000 17:23:22 -0400 (EDT)
+From: Hershl@aol.com
+Subject: Re: Nagan and Hirsh Glik
+
+Paul Glasser, substituting his own intuition for "overstating sources,"
+(that Glik used "shpayer," "nagan" and "pistoyl" to symbolize international
+anti-fascist unity) should be aware that the sources are Ruth Rubin, quoting
+her informant Shmerke Katcherginsky. The latter was the leading collector of
+ghetto and resistance songs and Hirsh Glik's mentor. It was to him that Glik
+first sang "zog nit keynmol," according to Katcherginsky's letter to the
+literary critic Nakhman Mayzel and quoted by him in the monograph "hirsh
+glik un zayn lid 'zog nit keynmol'" (Hirsh Glik and his Song, "Never Say"
+[The Partisan Hymn]) Ykuf, NY, 1949, pp. 14-15.
+
+Sometimes, the "simplest explanation" flies in the face of fact.
+
+Hershl Hartman
+Los Angeles
+
+______________________________________________________
+End of Mendele Vol. 10.015
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu http://metalab.unc.edu/yiddish/mendele.html
+
+
+

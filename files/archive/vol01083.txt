@@ -1,0 +1,113 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 83
+October 9, 1991
+ 
+1) Greens (Ellen Prince)
+2) Galla (Harry Katz)
+3) Galician Yiddish (Bob Goldberg)
+
+1)----------------------------------------------------
+Date: Tue, 08 Oct 91 11:01:55 -0400
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.82
+
+to mikhl herzog:
+
+>To Ellen Prince: A propos of "singulars:a shtikl lete (as
+>opposed to 'lettuce'...
+
+lettuce? it's kosher? go know. the only green thing we ate
+was pickles.
+
+2)----------------------------------------------------
+Date: Tue, 08 Oct 91 11:17:30 -0400
+From: harry@nonvax.alf.dec.COM
+Subject: RE: Mendele Vol 1.82 :  Kholodets etc.
+
+Bob Rothstein writes:
+
+        Polish _galarEta- (from MHG _galhart_; contemporary
+        German _Gallerte_) can refer to jellied meat, fish
+        or fruit.
+
+This reminds me that my mother, who is from Poland, used to
+make a dish called "gallah," (rhymes with khallah) which is
+calf's foot jelly.
+
+3)----------------------------------------------------
+Date: Tue, 8 Oct 91 15:57:59 PDT
+From: xidak!poseidon!bob@uunet.UU.NET
+Subject: Vowel differences for Galitsianer pronunciation
+
+It took me a while to reconcile Yiddish spelling with
+bobe's and zeyde's pronunciation in galitsianer yiddish, as
+well as the so-called "sepharidishe" Hebrew davening.  Here
+are the differences I have observed, all in vowels:
+
+YIVO Vowel          Standard (litvish)          Galitsianer
+---- -----          ------------------          --------------------
+a    patakh-aleph   English short a             same
+o    kometz-aleph   "aw" as in law              "oo" as in pool
+                                                (and kometz is
+                                                pronounced "koometz")
+y/i  yud            between short i and long E  same
+e    ayin           "e" as in led               same
+ey   yud-yud        English long A              varies: long A or I
+ay   yud-yud-patakh English long I              varies: long A or I
+u    vov            "oo" as in pool             i or ee
+oy   vov-yud        "oy" as in oy vey           same
+
+Thus, in Galitsianer, "nokh a mol" is pronounced "nukh a
+mul" (using YIVO transliteration). Similarly, "du bist do"
+(you are here) is pronouced "di bist du".
+
+I have heard the Galitsianer pronunciation in Hebrew
+refered to as "davenen sephardish".  An example is "burikh
+atu" instead of "borukh ato", and "v'imeri umayn" instead
+of "v'imeru omeyn".  If you want to hear a native speaker
+do this, listen to the rabbi in the final scene of the
+movie, "A Fiddler On The Roof", in which he is chanting the
+kaddish, and you'll hear "v'imeri umayn".
+
+Perhaps due to the effects of Litvish assimilation on my
+grandparents' pronunciations, I find no consistency in
+differences between yud-yud and yud-yud-patakh variations.
+If I consistently pronouce a patakh-less yud-yud as either
+ey or ay, it does not match the way they spoke, and the
+standard spelling seems to match most of the time.
+
+The New York Yiddish dailies never used a yud-yud-patakh,
+which I conjecture is due to the many differences in
+pronunciation of those vowels by readers. Thus, you can
+hear (using the YIVO vowels) at least three of the
+following:
+
+	fleysh mit beyner
+	fleysh mit bayner
+	flaysh mit beyner
+	flaysh mit bayner
+
+Another difference in pronunciation that I have noticed is
+an interchange of "oy" and the Hebrew long O "oh", as in
+the following:
+
+	Standard Yiddish	My Grandparents
+	----------------	---------------
+	moyl (mouth)		mohel (rhymes with "coal")
+	mohel (circumcisor)	moyl
+        boykh (belly)           bohekh ("oh" is long O, and
+                                        two syllables)
+
+Again, I have heard this combined with the other
+Galitsianer changes in Hebrew prayer, as "ho-ohlam" coming
+out as "hu-oylem".
+
+These are personal observations, and I'd appreciate a
+pointer to a reference that codifies these differences.
+
+... Bob
+
+______________________________________________________
+End of Mendele Vol 1.83
+

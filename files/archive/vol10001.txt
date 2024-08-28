@@ -1,0 +1,462 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 10.001
+May 15, 2000
+
+1) State of the Mendele community (Iosif Vaisman)
+2) Spelling (Noyekh Miller)
+3) yidish-simpozyum in Pariz 4-5-6 yuni 2000 (Gilles Rozier)
+4) The first Yiddish Web board (Iosif Vaisman)
+5) farshidns (elye palevsky)
+6) Hagode in Yiddish (Marc Caplan)
+7) A hagode in yiddish (Bernard Katz)
+8) orl (Itsik Goldenberg)
+9) tsvey frages (Diana Wilner)
+
+1)----------------------------------------------------
+Date: Mon, 15 May 2000 23:11:52 -0400
+From: Iosif Vaisman <iiv@mmlds1.pha.unc.edu>
+Subject: State of the Mendele community
+
+With this issue Mendele starts its tenth year, a remarkable longevity on the
+Internet time scale, keyn eyn hore. We are older than Netscape and Yahoo,
+and eBay or Amazon could have been Mendele's grandchildren.  The number of
+Mendele subscribers has reached 2,300. We live in at least 36 countries on
+six continents. The exact geographical distribution is unknown, because it
+is difficult to attribute correctly addresses in .com, .net, and .org
+domains. The table below reflects only the respective country domains --
+.ca, .il, .de, .it, etc. The actual number of subscribers from some
+countries is significantly higher.
+
+                     1993     1998    2000
+
+Canada                19       73      88                     
+Israel                 8       61      88                     
+Germany                3       45      64                  
+Italy                  -       10      31
+UK                     4       22      28                  
+Netherlands            2       26      27
+France                 -       12      26                    
+Australia              3       17      22                   
+Argentina              -       11      15
+Russia                 -        4      13
+Switzerland            -        9      12
+Hungary                -       11      11
+Japan                  1        7      11
+Poland                 3        7       9
+Austria                -        5       8 
+Brazil                 -        6       7
+South Africa           -        3       7
+Sweden                 -        6       5
+
+Total                 319     1700    2300
+
+Country domains with less than 5 subscribers include Belgium, China,
+Croatia, Czech Republic, Denmark, Estonia, Finland, Hong Kong, Iceland,
+Luxembourg, Mexico, New Zealand, Slovakia, South Korea, Spain, Taiwan,
+Turkey, and Uruguay.
+
+In the last few months Mendele issues appeared less frequently than usually;
+hopefully we will soon resume the normal operating mode. Enjoy the new
+Mendele volume!
+
+Iosif Vaisman
+
+2)----------------------------------------------------
+Date: Tue, 09 May 2000 19:25:14 -0400
+From: N Miller <nmiller@trincoll.edu>
+Subject: Spelling
+
+Should a Yiddish book, when being reissued, conform to the author's spelling
+or to the rules generally followed today?
+
+At the outset: I have nothing against YIVO spelling; quite the contrary, I
+like it a lot.  But I'm bothered that my choice rests on unexamined grounds
+and I suspect that this is true for most of us.
+
+Somewhere there's a letter from S.A. Abramovitch, the zeyde, to his publisher
+in which he says in effect: "print it my way or forget the whole thing".  And
+the zeyde's way?  A spelling that from our perspective hewed to German
+orthography wherever possible.   Not particularly strange when we consider the
+high prestige of German language and culture throughout the 19th century,
+particularly among maskilim (and virtually all Yiddish writers were products
+of the haskole).   More than that, one might argue that a Germanized spelling
+scheme implicitly placed Yiddish in at best a subsidiary position vis-a-vis
+German, and that was--if not conscious and deliberate--entirely in keeping
+with the maskilic contempt for Yiddish as opposed to Hebrew, not to mention
+that of bourgeois worldly intellectuals for the rubes and boobs of
+Yiddishland.
+
+Nothing new here surely.  In any event, the interesting question for me lies
+elsewhere.  Even though most of us today reject the maskilic scorn for
+Yiddish, even though many of us actually feel uncomfortable reading the
+standard editions of Mendele Moykher-Sforim or Sholem Aleykhem (I do for one),
+might there not be for that very reason a point in keeping the Germanic
+orthography intact?  Not because they're sacred texts, not because the
+spelling is of interest to scholars, but because reading them in their
+original spelling adds a dimension to our understanding.  The same argument
+applies of course to Soviet Yiddish.  Uneasy as many of us might feel at the
+respelling of Semitic words and so on, it is better to be reminded that
+neither writing or reading ever occurs in an ideological vacuum.
+
+As readers none of us is truly passive; whether we change the spelling or not
+we modify our relation to the text.  Changing spelling reduces dissonance,
+leaving it alone makes it if anything greater.  But doesn't reducing the
+dissonance brings today's readers into the same relation with the text as was
+the case when it was written?   Maybe.  Still, we owe those earlier readers
+--our grandparents-- the same respectful but unsentimental treatment that we
+accord their writers.  Is it even possible that readers loved, say, Sholem
+Aleykhem but didn't share his ambivalence?
+
+But by far the most important potential benefit is that retaining older styles
+stimulates a self-conscious attitude toward the YIVO standard--and therefore
+toward ourselves and where we stand,    to examine to the limited extent
+possible our own sensibilities.  I'd be delighted if someone could convince me
+to go with the flow;  I'm no more in favor of hair shirts than most
+Mendelistn.  Just the same, if discomfort is needed to maintain the critical
+stance that goes with (our accursed) modernity, so be it.
+
+*****
+
+An afterword.  I wrote what's above a couple of months ago but neglected to
+post it.  Having more recently read Mordkhe Schaechter's fascinating account
+(_fun folkshprakh tsu kulturshprakh_) I see that the issues are even more
+complicated than I had thought. But the basic question remains and I'll let it
+stand as written.  I hope it's understood that I'm not advocating khos
+vekholile the abandonment of standarized spelling and I hope a useful
+discussion will ensue.
+
+Noyekh Miller
+
+3)----------------------------------------------------
+Date: Tue, 2 May 2000 04:32:49 -0400 (EDT)
+From: Gilles Rozier <medem@club-internet.fr>
+Subject: yidish-simpozyum in Pariz 4-5-6 yuni 2000
+
+Di Medem-Bibliotek un der yidisher kunst- un geshikhte-muzey organizirn
+An INTERNATSYONALN SIMPOZYUM
+Arum der teme
+BAY DER YIDISH-ARBET , HAYNT.
+Paris, 4-5-6tn yuni 2000
+In oyditoryum fun yidishn kunst- un geshikhte-muzey
+
+Visnshaftlekhe organizatorn : Yitskhok Niborski un Gilles Rozier
+
+PROGRAM
+ZUNTIK DEM 4TN YUNI 2000
+14 az : derefenung fun simpozyum durkh Laurence Sigal (direktorshe funem
+yidishn kunst- un geshikhte-muzey) un Gilles Rozier (direktor fun der
+Medem-bibliotek)
+
+14:30 - 16:00 az
+Runder tish : vi vert yidish ibergegebn in der traditsyoneler yidisher 
+svive? Problemen baym ibergebn yidish inem veltlekhn sektor. Yidish tsvishn
+nit-yidn
+Miryam Isaacs (Universitet fun Meriland, Fareynikte shtatn), Yitskhok
+Niborski (Institut far mizrekh-shprakhn, Frankraykh), Armin Eydherr
+(shrayber un iberzetser, Estraykh)
+Forzitserin : Miryam Anissimov, shrayberin
+
+MONTIK DEM 5TN YUNI 2000
+10:00-12:00 az
+Universitet-limudim un forshung
+Jean Baumgarten (Melukhe-rot far vinsnshaftlekher forshung, Frankraykh), 
+"Di yidish-limudim in di yisroeldike universitetn"
+Shimen Neuberg (Trierer universitet, Daytshland), "Antviklung un
+oryentatsye fun di yidish-limudim in Daytshland"
+Dov-Ber Kerler (Oksforder tsenter far hebreishe un yidishe shtudyes,
+England), "Di zumer-programen, indzelekh fun yidishland"
+Forzitser : Alexandre Derczanski (Melukhe-rot far vinsnshaftlekher forshung,
+Frankraykh)
+
+14:30-16:00
+Runder tish : hayntike literarishe shafung
+Lev Berinski (fareyn fun yidishe shrayber un zhurnalistn, Yisroel)
+Hirshe-Dovid Katz [Meynkes] (Vilner universitet, Lite)
+Moyshe Lemster (shrayber, Moldavye)
+
+Rokhl Ertel (universitet Paris 7, Frankraykh), " iberzetsn fun yidish - a
+teyl fun der yidish-shafung ?
+Forzitserin : Mike Szulsztein (mitarbeterin fun di " yidishe heftn ")
+
+16:30-17:30
+retsitatsye
+tekstn fun haynttsaytiker yidisher literatur, geleyent oyf yidish un in
+frantseyzisher iberzetung durkh Basye Baum (iberzetserin un retsitatorin,
+Frankraykh)
+
+DINSTIK DEM 6TN YUNI 2000
+
+9:30-11:00
+yidish bay yingere, in shul un in lebn
+Dvoyre Kosman (lererin, Yisroel), " yidish in di yisroeldike
+dertsiungs-sistemen "
+Benyomen Schaechter (koordinator fun der " yidishvokh ", Fareynikte shtatn),
+" di bavegung fun yunge yidishistn in Amerike "
+Andrey Bredstein (Melukhe-bibliotek, Rusland), " yidish-vidervuks in
+mizrekh-Eyrope "
+Forzitserin : Louisette Kahane (gezelshaft farn yidish-limed)
+
+11:15-12:30
+oyf der yidisher gas
+Nadia Dehan-Rotschild (lererin un iberzetserin, Frankraykh), " dos lernen
+yidish in a yidishn kultur-tsenter "
+Detlef Hutschenreuter (muziker, onfirer funem " Rockteater ", Daytshland),
+"yidish teater - far vos far an oylem ? "
+Jacques Grober (mekhaber fun zinglider, zinger, Frankraykh), " tsum lid
+durkh yidish - tsu yidish durkhn lid "
+Forzitser : Henri Minczeles (historiker)
+
+14:30-15:30
+Medyums
+Boris Sandler (shef-redaktor fun " Forverts ", Fareynikte shtatn), " Der
+Forverts un zayn leyener)
+Iosif Vaisman (shmuesplats oyf internets " Mendele ", Fareynikte shtatn), 
+" internets, an alveltlekh shtetl "
+Forzitser : Claude Hampel (redaktor fun di " yidishe heftn ")
+
+17:00-17:30
+Hemshekh fun di yidishistishe institutsyes
+Dovid-Helyohu Fishman (Yidisher teologisher seminar un Yivo, Fareynikte
+shtatn), " Der Yivo un di hayntike forshung fun der yidishvelt "
+Gilles Rozier (Medem-bibliotek, Frankraykh), " di Medem-bibliotek un ir
+kultur-shlikhes "
+Norbert Engel (Strasburger shtotrot, Frankraykh), " di grindung fun an
+eyropeishn tsenter far yidish-kulturn in Shtrasburg : farmestn un
+perspektivn "
+Forzitser : Henry Bulawko (zhurnalist un shrayber)
+
+17:45-18:30
+Opshlus
+Claude-Gerard Marcus (prezident fun yidishn kunst- un geshikhte-muzey)
+Yitskhok Niborski (vitse-prezident fun der Medem-bibliotek)
+
+redes oyf yidish oder frantseyzish mit glaykhtsaytiker iberzetsung.
+
+adres tsu bashteln (shraybt oyf frantseyzish oder english):
+reservations@mahj.org
+Musee d'art et d'histoire du Judaisme
+Hotel de Saint-Aignan
+71, rue du Temple
+75003 Paris
+Tel : (00 33) 1 53 01 86 48
+
+La culture yiddish aujourd'hui
+
+Colloque international
+4 - 6 juin 2000
+
+organise par le Musee d'Art et d'Histoire du Judaisme et 
+la Bibliotheque Medem
+
+Organisateurs scientifiques : Yitskhok Niborski et Gilles Rozier
+
+Bazukht undzer vebort : http://www.yiddishweb.com/
+Ir zukht yidishe bikher tsu koyfn ? Tut a kuk oyf undzere dubletn-listes :
+http://www.yiddishweb.com/dubletn/
+
+Gilles Rozier
+Paris (France)
+
+4)----------------------------------------------------
+Date: Mon, 15 May 2000 17:16:55 -0400
+From: Iosif Vaisman <iiv@mmlds1.pha.unc.edu>
+Subject: The first Yiddish Web board
+
+Current versions of the popular Microsoft's browser and email client are
+able to handle Yiddish correctly (significant portion of thanks for this
+should go to Mark David and several other enthusiasts from the Understanding
+Yiddish Information Processing group, http://www.uyip.org). Since both MS
+Internet Explorer and MS Outlook are free programs that are currently
+bundled with the most popular operating systems and are available for
+several other operating systems, for the first time we have an environment
+that is favorable for the mass electronic communications in Yiddish. 
+
+Shtetl's software developers decided to help Microsoft and created an alpha
+version of the first Yiddish message board
+(http://metalab.unc.edu/yiddish/forum/wwwboard). The message board is
+supplied with the visual Yiddish keyboard, which means that there is no need
+to worry about the keyboard layouts and drivers. All what you need is a copy
+of Microsoft Internet Explorer 5.0 or 5.01, or AOL 5.0 installed on your
+Windows (95, 98, NT, or 2000) computer. The message board may not work on
+other platforms or in other browsers. There are several other outstanding
+technical issues with the program, but it works! You are welcome to join
+the first Internet discussion forum in Yiddish. Two other applications for
+sending email in Yiddish and for creating Yiddish web pages are coming
+soon. Watch this space!
+
+Iosif Vaisman 
+
+6)----------------------------------------------------
+Date: Sun, 16 Apr 2000 14:32:45 -0400 (EDT)
+From: EPalevsky1@aol.com
+Subject: farshidns
+
+"daled omus"  iz a mos erd, dakht zikh mir fir eyln, un dos heyst a kleyn
+shtikl eygns, take bagrenetst nor bakant.  glatshteyn, in zayn vey -lid a 
+<a gute nakht velt> ruft dos folk tsurik fun zayn farton in der breyter velt
+vos hot derlozt dem hitler khurbn, tsurik tsu eygene "daled omus"
+
+"daled omus" is a measure of ground, I believe it's four cubits, meaning a
+small something of your own, limited but familiar. In his pained poem, <a
+gute nakht velt> (good night world) Glatshteyn calls our people back from
+its involvement with the wide world that allowed the Holocaust, back to
+"daled omus.
+
+vegn etimologishn yikhes fun "khoyzek makhn" ken ikh zikh nit oprufn, nor
+s'iz kiday tsu bamerkn az di vos farmestn zikh yo mit di inyonim af an
+ernstn oyfn megn visn az mikhl herzog iz a shem dover, mit gvaldike
+fardinstn in der velt fun yidisher lingvistik.
+
+I can't comment on the etymological yikhes of the expression "khoyzek makhn"  
+but it's worth mentioning that those who undertake to deal with these issues
+in a serious manner might be aware that Mikhl Herzog is a name of renown
+with enormous contributions in the field of Yiddish linguistics.
+
+a teyl fun der muzik tsu di peysakh lider ken men gefinen in der yidisher
+hagode, dakht zikh mir s'heyst "di naye hagode" aroysgegebn fun arbeter ring
+in nyu york.in bildungs opteyl zaynen faran mentshn vos veln visn vu me ken
+gefinen di muzik tsu di iberike lider.
+
+di yidish veltlekhe shuln in amerike, fun ale rikhtungen: farband, shloem
+aleykhem institut, arbeter ring un orden, hobn ale aroysgegebn farshidene
+yidish-veltlekhe hagodes ongepikevet mit oytsres fun der yidisher literatur.  
+teyl greser shuln hobn aleyn geshafn hagodes tsugepast tsu di feyikaytn fun
+zeyere kinder. azoy hobn mir geton ven ikh hob ongefirt mit a greserer
+sholem alyekhem zuntik shul af long aylend n"y in di friye zekhtsiker yorn.
+s'volt geven interesant makhn an oyshtelung fun azlekheno hagodes, vifl me
+ken nor tsunoyfklaybn. tsi zukht efhser der yivo a nayem proyekt.
+
+some of the music to the peysakh poems can be found in recent Yiddish
+Hagodes., published by the Workemn's Circle in N.Y.  The folks in their
+Education Dept will likely be able to tell you where to find music to the
+rest.
+
+The various Worldly Yiddish School movements in America: Farband, Sholem
+Aleichem Institute, Workmen's Circle, IWO all published a variety of
+Yiddish-cultural haqgodes, jam-packed with treasures from Yiddish
+literature.  Some of the larger Shules created their own hagodes suited to
+the abilities of their children.  So we did when I directed a larger S"A
+Sunday School on Long Island N.Y. in the early 60's. It would be interesting
+to mount an exhibit of as many of these kinds of hagodes as can be gathered.
+Maybe the YIVO is looking for a new project.
+
+aykh alemen a zisn, gezuntn un koshern peysakh.
+
+elye palevsky
+
+6)----------------------------------------------------
+Date: Mon, 17 Apr 2000 12:10:27 -0400 (EDT)
+From: "Caplan, Marc" <caplm@adl.org>
+Subject: Hagode in Yiddish
+
+In Vol 09.077, Martin Green asks for information about Yiddish-Hebrew
+hagodes suitable to be used at a regular Passover seder. I was recently in
+Eichler's in Boro Park (13th Avenue and 50th Street), where I saw at least
+four editions of the Passover hagode with Yiddish translations and
+commentaries. Most of them were about $15-20 (more expensive, leather-bound
+versions were also available), and all of them seemed pretty interesting and
+"user-friendly," provided that one could read Yiddish in non-YIVO
+orthography. I asked more than one man who worked at the store for advice in
+distinguishing between the four, but nobody seemed to have a clear opinion
+as to which was the best among them. So I thumbed through the four, and
+settled on one quite at random (I'm not at home right now so I don't know
+the name of the edition I finally chose, and I haven't had a chance yet to
+read it). Anyway, these bilingual hagodes--as well as many other sforim
+with/in Yiddish--are readily available among the khasidim (as was at least
+one Yiddish-only hagode), and I look forward to returning to Eichler's, B"H,
+next year to add to my collection.
+
+By the way, for those not living in the New York area, Eichler's has a web
+site (www.Eichlers.com, if I'm not mistaken); I don't know if they sell the
+Yiddish sforim on line, but it certainly seems worth the effort.
+
+A freylekhn pesekh, alemen,
+
+Marc Caplan
+
+7)----------------------------------------------------
+Date: Thu, 20 Apr 2000 15:29:24 -0400 (EDT)
+From: Bernard Katz <bkatz@uoguelph.ca>
+Subject: A hagode in yiddish
+
+Nokh eyn vort iber di hagode far Martin Green - ikh hob gefinen eyns
+azelekhe t'vishen meyn andere hagodes!  S'iz geveh gedrukt bay di Hebrew
+Poblishing Companye in Nyu York, ober un a yor.  Es hayst: Sidur Hagada Shel
+Pesakh -im- y"kh melut v'pirushim b'ivri-taytsh Ba-utyot Gedolot im Tsyurim
+Ravim v'yfim.  That's the best I can do - my ivrit transliteration is not
+too good , I'm afraid.  There is no indication of who translated.
+
+In any case, there are 3 different Yiddish texts plus the traditional Hebrew
+text, all on each page of the hagode.  One of the Yiddish texts (called
+sefuri ha-felaot) is a straight translation in Yiddish, while the other two
+are commentaries in Yiddish on the text (sefuri yetsiot matzrim and meshali
+ya'akov).  Only the last few pages, with the shir hashirim additional
+section of the hagode, does not have the Yiddish -- even khad gadyo has
+them!  A guten yontef tsu alemen,
+
+Bernard Katz
+
+8)----------------------------------------------------
+Date: Sun, 16 Apr 2000 21:18:23 -0400 (EDT)
+From: Robert Goldenberg <goldenbe@vaxxine.com>
+Subject: orl
+
+A question about Sholem Aleykhem's use of "orl" as a synonym for a non-Jew.
+This term appears many times, in context, in the story "Oylem habe," which
+just appeared in The Mendele Review. For those who might not know, "orl" is
+a foreskin, (though spelled without the "hey"at the end of the word when the
+actual foreskin is meant).The term seems to us now humourous at best,
+perhaps somewhat derogatory at worst. I was wondering whether a native
+yiddish speaker, especially at the time Sholem Aleykhem was writing these
+stories, before 1916, would find this term amusing, or was it the
+matter-of-fact term used in a non-derogatory sense?
+
+By the way, it was no surprise that orl was not to be found in Weinreich.
+Nor was "foreskin." Weinreich avoided many "sensitive" words in his
+dictionary. I have heard that he was rather prudish in this matter, but
+perhaps there is some other reason for these omissions. I did find "orl" in
+Harkavy's dictionary.
+
+Aside from "orl," if you understand yiddish, reward yourself by reading
+Oylem Habe in the latest The Mendele Review (Vol.4 No. 5). This is the first
+of 4 parts.
+
+Itsik Goldenberg
+
+9)----------------------------------------------------
+Date: Tue, 18 Apr 2000 15:07:40 -0400 (EDT)
+From: Diana <deeee4@worldnet.att.net>
+Subject: tsvey bazundere frages
+
+Ershtens vil ikh vintshen ale meyne teyre mendeleyers a zisen und freylikhen
+Pesach.  yetz di frages, s'iz mir mer bakvem english.
+
+Does anyone recall the following expression.  "Koved ligt af mist, s'iz
+nisht umzist"  I remember my Mother saying something like that but it seems
+wrong somehow.  My Mother came from Shvir, close to Vilna.  Would appreciate
+some imput.
+
+I have just come across a book by Ludwig Lewisohn "The Island Within" a very
+interesting presentation of the misnagdim vs the khasidem.  I am wondering
+why he is never mentioned among Jewish writers.  Is it because he wrote in
+English.  Seems to me he is worthy of our attention, How do we classify him?
+
+Mendele und the Mendele Review hot mir bareykht meyn leben.  A hartziken
+dank to unzere shameysim.
+
+Diana Wilner
+______________________________________________________
+End of Mendele Vol. 10.001
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://metalab.unc.edu/yiddish/mendele.html
+
+
+

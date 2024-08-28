@@ -1,0 +1,102 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 104
+November 19, 1991
+ 
+1) Nasalization (Aren Abramson)
+2) Nasalization (Ruvn-Mendl Turkel)
+3) Schwa endings (Melekh Viswanath)
+4) Double negatives/positives (Hershel Bershady)
+
+1)----------------------------------------------------
+Date: Tue, 19 Nov 91 09:52:04 EST
+From: "Arthur S. Abramson" <ABRAMSON@UCONNVM.BITNET>
+Subject: RE: Mendele Vol 1.101
+
+On the subject of nasality as represented by the letter
+'ayin, I remember that as a student of Uriel Weinreich I
+read on article by him on the subject, but I can't find the
+reference without going to more trouble than I have the
+time for. Ssurely Mikhl knows the paper. I would like to
+add a phonetic note to the discussion. The nasality in the
+relevant Yiddish dialects may appear not only as an
+akveolar or vellar nasal consonant but also as a nasal
+vowel. Thus a colleague on my campus always pronounces
+/mayse/ 'story' with a nasalized diphthong.
+
+Aren
+
+2)----------------------------------------------------
+Date: Sun, 17 Nov 91 19:11:10 EST
+From: rmt51@cas.bitnet
+Subject: RE: Maynse (Mendele Vol 1.101)
+
+I seem to remember reading somewhere that nasals in those
+Indo-European languages that have them are derived from
+Proto-Indo-European gutturals, which would represent a
+similar process acting on the Hebrew `ayin in Yiddish.  I
+think the nasalization of a Hebrew aleph and he in similar
+environments is probably a formation by analogy with the
+`ayin.  I have an older acquaintance who was born near
+Lublin, Poland, who nasalizes at least his alephs in this
+way.
+ 
+                Rick (Ruvn-Mendl) Turkel
+ 
+3)----------------------------------------------------
+Date: Sun, 17 Nov 1991 16:19 EDT
+From: VISWANATH@DRACO.BITNET
+Subject: Schwa endings
+
+Ellen Prince writes:
+ 
+for some reason which escapes me (but which i'm sure mikhl
+herzog knows), a bunch of schwa endings become /i/ in
+american (not just boston) yiddish--khali, bobi/bubi,
+zeydi, i think suki (the thing you sit in on sukes), feygi
+(the girl's name), maki (plague), pulki (especially for the
+human thigh, for some reason--in my house at least, the
+drumstick on a fowl was always pulke)...--but not shmate
+(*shmati), tante (*tanti), tshatshke (*tshatshki) (but
+maybe tsatski, meaning 'bimbo'?), tate (*tati), moyshe
+(*moyshi), shikse (*shiksi)... what's the story, mikhl? (or
+anyone else who knows!)
+ 
+I observe that almost none of the words that undergo the
+schwa > /i/ transformation have a xxxccv (c=consonant,
+v=vowel) structure, whereas shikse and tshatshke do.
+According to this rule, pulke shouldn't become pulki, but
+don't l and r have quasi-vowel status? Also, shmate should
+become shmati, by this rule.  So maybe a modified rule: If
+the word is cvcschwa, it becomes cvci. Now that I read my
+hypothesis, it occurs to me that I may have no degrees of
+freedom left to test it!  (on the other hand, bobe, chmare,
+late, kale, etc.) In any case, I don't understand why ellen
+has an asterisk before moyshi and tati: I constantly hear
+them pronounced thus.
+ 
+melekh
+
+4)----------------------------------------------------
+Date: 18 Nov 91 08:58:31 EST
+From: "Dr. Harold Bershady" <HBERSHAD@PENNSAS.UPENN.EDU>
+Subject: Double negatives/positives
+
+There's an old joke that in Yiddish the double positive --
+"Yah, yah" -- is a negative (of course inflection is all).
+However, as a friend pointed out to me in Yiddish there are
+"double negatives" that do not mean a "positive," as would
+be the case in English.  E.g."Ich hob nisht kein gelt" (a
+refrain often heard). Is there a true double negative here?
+If so, why doesn't the logical rule apply in Yiddish as it
+does in English?  This is a minor conundrum for me, which
+doesn't interfere with comprehension, yet I'd appreciate a
+solution. Apropos of inflection, doesn't "Bubbi" also mean
+something like "dear," or "sweet" -- which one's Bubbeh
+often is, but is not often called?
+
+--Hershel
+
+______________________________________________________
+End of Mendele Vol 1.104
+

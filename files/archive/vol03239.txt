@@ -1,0 +1,151 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.239
+February 18, 1994
+
+1) WBRS Yiddish Hour (Liba Yenta Winograd)
+2) Subject: Aramaic fem. of Roshe (Moshe Taube)
+3) Subject: Yiddish/Hebrew speech synthesizers (Michael B. Braten)
+4) A Yiddish CD (Ted L. Steinberg)
+5) Roshe (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Tue Feb 15 12:19:13 1994
+From: Dia Winograd <72674.3235@CompuServe.COM>
+Subject: WBRS YIDDISH HOUR
+
+Mark David:
+
+Can one purchase the tapes of the Yiddish Hour broadcasts?
+
+Liba Yenta Winograd
+
+
+2)----------------------------------------------------
+Date: Tue Feb 15 12:45:59 1994
+From: Taube Moshe <taube@HUM.HUJI.AC.IL>
+Subject: Aramaic fem. of Roshe
+
+For Mikhl:
+
+Jastrow's Dictionary, p. 1500. gives three variants:
+1. pasekh reysh, khirek shin, yud, komets ayin, alef;
+2. pasekh reysh, khirek shin, yud, khatef-pasekh ayin, komets tov,
+alef;
+3. shvo reysh, khirek shin, yud, khatef-pasekh ayin, komets tov,
+alef.
+
+Best, Moyshe
+
+3)----------------------------------------------------
+Date: Tue Feb 15 12:45:59 1994
+From: BRATENM@cpmail-nz.cis.columbia.edu
+Subject: Yiddish/Hebrew speech synthesizers
+
+I was introduced to a hasidic rabbi who has ALS aka Lou Gehrig's
+disease. His illness has made him a mute.  He has been made aware of
+the technical possibilty of using a synthesizer attached to a PC in
+order to communicate. I have done a little detective work and have
+found that there is a DEC product called DECTALK that will read text
+phonetically.  DECTALK will follow rules of English pronunciation.
+
+My question is whether there are any products out there that can be
+used to synthesize Yiddish or Hebrew .
+
+Many thanks and Shalom.
+
+MICHAEL B. BRATEN
+PROGRAMMER/ANALYST     AP1310
+COLUMBIA-PRESBYTERIAN MEDICAL CENTER
+TELEPHONE   (212) 305-3752
+INTERNET    BRATENM@CPMAIL-AM.CIS.COLUMBIA.EDU
+                        OR
+            BRATENM@CPMAIL-NZ.CIS.COLUMBIA.EDU
+
+4)----------------------------------------------------
+Date: Wed Feb 16 08:37:41 1994
+From: "Ted L. Steinberg" <STEINBER%FREDONIA.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: yiddish cd
+
+I certainly don't want to argue with Zalmen Itzik Clare, but I must
+say that I have been enjoying recent issues of Mendele--certainly
+much more than when writers were arguing about their own pet
+theories.
+
+But that's not why I'm writing.  I'm writing to tell people about a
+compact disk that I recently found quite by accident but that I
+think is wonderful. It's called "Voices of the Ghetto--Le 19 avril
+1943", put out by WMD 7 Productions.  It has 19 or 20 songs from the
+Warsaw Ghetto performed in ways that I found to be very moving. It's
+worth looking up.
+
+Ted Steinberg
+
+5)----------------------------------------------------
+Date: Tue Feb 15 16:48:03 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: Roshe
+
+Michael Shimshoni:
+
+     Thanks. I should really have formulated my question
+differently. Let me try again. First, the problem:
+
+I'm working with two words, the feminine of "mekhUtn" and the
+feminine of "rOshe". (I use a capital letter to indicate stress.)
+The masculine forms, as cited, abstracted from regional phonological
+variants, are virtually universal in Yiddish. The feminines are
+quite variable.
+
+1. "mekhUtn". In all of Eastern Yiddish, the feminine is
+"mekhutEneste". This is clearly a pleonastic form: the Aramaic
+feminine suffix -ta (Yiddish -te) has been affixed to the Ashkenazic
+Hebrew feminine "mekhutEnes".
+
+Western Yiddish also has the feminine form "mekhUtnte", on the face
+of it, this is simply the Hebrew masculine plus the Aramaic feminine
+suffix -te. Is tis an innovation in Yiddish, or is there a
+distinctive Aramaic feminine form on which Yiddish "mekhUtnte" is
+based.
+
+2. "roshe". In all of Eastern Yiddish we find "marshA(a)s", clearly
+derived from Ashkenazic Hebrew "mirshAas". Also widespread in
+Eastern Yiddish, "rOshete/rUshete", with word- initial stress. Is
+this an innovation in Yiddish: "rOshe + -te"?
+
+In Western Poland and Western Yiddish, the predominant forms are
+reshAte" and with the nasalization of "ayin", reshA(:)nte/reshAJnte",
+with penultimate stress. Is this Hebrew feminine "rish-A" plus
+pleonastic Aramaic -te, again, innovations in Yiddish? Or,is there
+an Aramaic feminine from which they can be as easily derived?
+
+The dangers of reconstruction: In the absence of someone who knew
+better, I would have posited an Aramaic *reshAta: "r(shwa),
+sh(komets), ayin(khataf-patakh), tav(komets). I take it I would have
+been mistaken.
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 3.239
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+

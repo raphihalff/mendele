@@ -1,0 +1,184 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.352
+March 7, 1995
+
+1) Introduction (Norman Fishman)
+2) Lomir and lomikh (Mikhl Herzog)
+3) Lomir and lomikh (Moyshe Taube)
+
+1)----------------------------------------------------
+Date: Sat, 4 Mar 1995 15:42:15 -0800
+From: normf@ix.netcom.com
+Subject: Introduction/Plurals ending in "-im"
+
+As a new subscriber, I must first apologize for my lack of knowledge of
+the official transliteration of Yiddish. I read the Hebrew characters
+with difficulty, but my reading of transliterated Yiddish is improving,
+thanks to mendele online.
+
+I was born and raised in Petaluma, a former farm community in Sonoma
+County, north of San Francisco. My parents immigrated from the Ukraine
+(mother, via Palestine) and Belarus (father) in 1915-1916. They met and
+married in San Francisco and arrived in Petaluma in 1919 along with a
+large group of Jewish poultry farmers who had settled there during about
+1910 - 1920. Half of the 300 Jewish farm families were there presumably
+to learn the business in preparation for aliyah to Palestine. They
+founded and were active in all the Zionist organizations . Poale Zion,
+Farband, Pioneer Women, etc. The other half of the community were the
+"linke" who supported Birobidjan, and formed the left wing organizations.
+
+Petaluma was a vital center of Jewish life. The JCC (and shul) was built
+in 1925. Yitzhak Ben Zvi, Golda Meyerson and the gamut of Zionist
+leaders, as well as Yiddish authors, poets, theatrical personalities, and
+the like, visited the West Coast with lectures/performances/meetings in
+Los Angeles, San Francisco and Petaluma.
+
+Our parents were all Yiddish speakers, and all the functions at the
+Center were held in Yiddish. Several attempts were made to organize
+Yiddish schools for the children, but few lasted beyond one year. I was
+too young to attend the classes taught by Berkowich and his wife, Leah,
+Sholom Aleichem's daughter. We grew up knowing and understanding spoken
+Yiddish; few young people could read or write Yiddish.
+
+My wife, a native of Philadelphia, grew up in a similar environment. We
+conversed in Yiddish when we didn't want our children to understand us --
+our parents did the same in Russian when we were children. During the
+1970's and early 1980's, we were able to use our Yiddish when we visited
+family in Israel. Unfortunately, the generation of our parents has now
+gone, and the richness of their Yiddish is no longer available to us.  I
+miss the road shows (z.b., Al Harris for the Farband) that came to
+Petaluma, and I miss the traveling singers and actors who came as
+refugees to Petaluma from the Polish theater in 1938-1942.
+
+We are heartened by the resurgence of Yiddish in the Universities, in the
+revitalization of YIVO, and by the activities of Aaron Lansky and the
+National Yiddish Book Center. We enjoy mendele online very much and kvel
+with each report.
+
+Now, as to plurals that end in "-im". I'm certain that someone among you
+pointed to "goy" and "goyim". But has anyone presented "shaigitz" and
+"shkutzim"?
+
+Norman Fishman
+Menlo Park, California
+
+2)----------------------------------------------------
+Date: Sun, 5 Mar 95  12:58 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Lomir and lomikh
+
+Zishe Carlow asks:
+
+**Could anyone explain the constructions of "lomikh" and "lomir"? Why
+does "lomikh" (let me) use the accusative "mikh" (me) and "lomir" (let
+us/let's) use,  what I assume is,  the nominative "mir" (we)?  And is
+"lomikh" used only in the familiar?  When would one use "loz mikh" and
+"lozt mikh"?  And can "lomir" exclude the one being spoken to?  For
+example, can you say "Lomir aykh helfn."?**
+
+Off the top of my head:
+
+To begin with, _lomikh_ persists only in those dialects which continue to
+distinguish historically dative and accusative pronouns. No Litvak does.
+The Litvak makes no distinction between _ikh hob zi lib_ and _ikh shrayb
+ir a briv_--he uses _ir_ in both; doesn't distinguish _er hot mikh
+geshlogn_ from _er git es mir_--uses _mir_ in both; so, _mikh_ generally
+doesn't occur, except, perhaps, in very local areas in the Northeast
+where the dative-accusative case merger may have favored its retention
+at the expense of _mir_. There we'd hear _er hot es mikh gegebn_; _lOmir
+aykh helfn_ would here seem to be a second plural imperative, Litvish
+style, in which _mir_ is dative/accusative 'me' (= _lozt mir aykh
+helfn_).
+
+Where _mikh_ does occur, as in Central Yiddish, you could expect such
+distinctions as a second person singular imperative _lOm@kh up_/_lOm@kh
+g@makh_ '(you) leave me alone' and a first person plural imperative
+_lOme(r ints) gayn_ 'let's (us) go'. I've also heard a third singular
+imperative _lOm@n gayn_.
+
+I think that _lOm@kh_ can be also be considered a kind of first person
+imperative--addressed to oneself: _lom@kh z@kh a bisl avekzetsn_ 'lemme
+sit me down a bit'. I'd add a second singular imperative _lOd@kh_, as in
+_lOd@kh nish Upnarn_ 'Don't be fooled'.
+
+Of course, historically, _lozn_ is implicated in all of these forms but,
+in CY, you can also expect it to be explicit in _lOzn (=loz im) gayn_ and
+as well as _lOze (= loz er!!) gayn_, both of which I would gloss 'let him
+go', each differently nuanced (how?). For the latter, but not for the
+former, I think I could also substitute _zOle (= zol er) gayn_.
+
+Some of our proficient Central Yiddish speakers could probably offer some
+additional help here (more reliably than I). (Sam Juni? Michael Wex?)
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Tue, 07 Mar 95 10:15:00 PST
+From: taube@hum.huji.ac.il
+Subject: Lomir and lomikh
+
+The two forms reflect the process of reanalysis that this construction
+underwent in Yiddish.
+
+It started indeed as a construction with an imperative (or Jussive) +
+object in the accusative, and then (starting in the 15th century, split
+into two constructions:
+
+1. same as before, e.g. loz mikh lernen, loz im lernen, lozt mikh lernen,
+lozt im lernen etc.
+
+2. reinterpretation of the object as subject, due, among other reasons,
+to instances of neutralization, e.g. loz zi (nom.=acc) lernen.
+
+We thus obtain loz er lernen, loz ikh lernen, lom ikh lernen, (beside lo
+mikh lernen) and in the plural, lozn mir lernen, lommir lernen, lozn zey
+lernen. This means that loz turned from an imperative into an auxiliary,
+behaving very much like zol and indeed competing with it in most
+constructions, with some restrictions though: a. unlike zol it does not
+have a 2nd person sg or pl. b. it always precedes its subject.
+
+For the full history of this construction see my paper: Le developpement
+d'un auxiliaire modal en yiddish: lozn 'laisser' in: J. Fisiak, (ed.)
+Papers from the 6th International Conference on Historical Linguistics,
+1985, p.499ff. Series: Amsterdam Studies in the theory and history of
+linguistic science, IV. Subseries: Currrent issues in linguistic theory
+vol. 34. Publisher: John Benjamins.
+
+Moyshe Taube
+
+______________________________________________________
+End of Mendele Vol. 4.352
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

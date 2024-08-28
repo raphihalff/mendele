@@ -1,0 +1,185 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.113
+September 29, 1993
+
+1) Pinkes (Ellen Prince)
+2) The Yiddish Dictionary; plural of "tales"; yarmlke (Mikhl Herzog)
+3) Vegn M. Shtaynlauf un zayn frage vegn loshn (Elyet Hersh Gertl)
+4) Plural of "talis"; "Pinchas" (Amitai Halevi)
+5) Hot...geven & maynse (Pe'rets Mett)
+
+1)----------------------------------------------------
+Date: Tue Sep 28 23:34:24 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: pinkes
+
+to dvora biasca, re _pinkes_
+
+i think the word in the book is _pinkes_ (pe-yod-nun-kof-samekh),
+which means 'register'. _pinkhes_ is a man's name, so far as i know
+unrelated to _pinkes_.
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Wed Sep 29 00:01:47 1993
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: The Yiddish Dictionary; Plural of "tales"; yarmlke
+
+1. Paul Ritterband speaks  of  the  Yiddish  dictionary  project  as
+having  be _abandoned_. It was, rather, halted in its tracks, and it
+might be better to spe of it as _dormant_, although if it`s not
+revived  in  some  fashion  reasonably soon, this will be a
+distinction without a difference. Of late, there has a stir of
+interest in the possible renewal of the project. Actually, FOUR
+volumes have been published, through _aleph_.
+
+2. Robert Goldberg ask if modern Hebrew changed the plural of
+_talis_  for some reason. Not likely. The Yiddish plural _taleysim_
+is probably a _Hebreizati of an early regular Yiddish n/plural
+_tAlesn_. Yiddish _shabOsim_ from _shAbesn_ (cf. Heb. shabatot) is a
+similar case in point. Parallel instances occur when German origin
+n/plurals are Hebreized> poyerim, naronim, doktoyrim are probab~ ly
+all reinterpretations of poyern, narn, doktern.
+
+3. Dan Slobin is right, of course. Turkish phonology would require
+_yagmurlUk_ not _yagmurlAk_. I copied it incorrectly from my own
+1964 discussion of the subject. I don`t know now what my source was
+then, but I do think that I`ve confirmed the existence of a Turkish
+word of similar meaning with a Rumanian// born native speaker of
+Turkish. I`ll pursue the question.
+
+I know nothing about the regional origins of the word in Yiddish but
+it`s distribution (in the process of being plotted) appears to be
+largely on Eastern Slavic territory, as distinct from Poland where
+_kapl_ and _kapele_ prevail.
+
+The Yiddish Atlas materials do not specify Turkish elements as such.
+They do specify both Rumanian and Ukrainian ones in Yiddish, among
+which, I suspect, are a number of words of ultimately Turkish origin
+(e.g., _patlezhanes&baklezhan in their various `egg/plant` and
+`tomato` meanings < _prakes_, etc.).
+
+The person who probably knows a good deal on the subject is  the
+much maligned Paul Wexler.
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Wed Sep 29 02:08:00 1993
+From: EGERTEL@FULLERTON.EDU
+Subject: Vegn M. Shtaynlauf un zayn frage vegn loshn
+
+Kh'ken nisht redn far srov Mendelnikes nor kh'frey zikh mit Reb
+Maykl Shtaynlaufs flisikn yidish!  Loyt mayn meynung, aderabe un
+gezunterheyt zolt ir shraybn af mame-loshn.  Borekh habe!
+
+A gmar khisme toyve aykh ale.
+
+Elyet Hersh Gertl
+
+4)----------------------------------------------------
+Date: Wed Sep 29 04:49:14 1993
+From: AMITAI HALEVI <CHR04HA@vmsa.technion.ac.il>
+Subject: Plural of "talis"; "Pinchas"
+
+Robert N. Goldberg writes:
+
+>My high holiday makhsor indicates in its introduction that the
+>plural of "talis" is different in Hebrew than in Yiddish.  In
+>Yiddish it is "taleysim" while in modern Hebrew it is "talitot".
+
+>How did this difference arise?   I know there are germanic plurals
+<on some Hebrew words in Yiddish, but isn't "im" strictly a
+>Hebrew-based plural ending?  Could it be that modern Hebrew changed
+>the plural for some reason?
+
+According to Even-Shoshan, "talis" ("talit" in the Sephardic
+pronunciation) is a feminine  noun of Talmudic origin, meaning
+a toga-like  garment, without any specific religious function.
+Its plural form was  usually "taliot" or "talitot", but the
+masculine-sounding variant "talitim" also appears occasionally.
+The latter is no-doubt where the Yiddish form comes from.
+The  Rabbis of  that period were pretty lax about grammar -
+gender  in particular, whereas modern Hebrew  retains the
+standard feminine plural form, "taliot" (or "talios").
+
+2) BIASCA DEBRA HALPERIN writes:
+
+>Can anyone tell me what "Pinchas" means in Yiddish?  (Perhaps the
+>nayer mitglider vos heys Pinchas. . .)
+
+>A friend recently showed me a booklet she had obtained through
+>inter-library loan which was a "memory book" for a town in the
+>Ukraine called (I believe) "Kovel" or something like that.  It had
+>photos and information about the people who had lived there, members
+of the Kahile (maybe)and biographical information, although I didn't
+>have time to read it then.  It was rather lengthy and all in
+>Yiddish.  My friend said this was called a "Pinchas" and that word
+>was in the title.
+
+In modern Hebrew, "pinkas" - spelled with a "kof" (it should be
+"qof"  to avoid the temptation to pronounce it with a gutteral "ch")
+- simply means "notebook" or "ledger". According to Even-Shoshan, it
+original had this general sense in the Talmud, but in medieval times
+it took on the more specific meaning of "pinkas ha'kehilah", or
+"community  record", as noted above.
+
+Amitai Halevi
+
+5)----------------------------------------------------
+Date: Wed Sep 29 09:27:56 1993
+From: P.Mett@open.ac.uk (Percy Mett)
+Subject: Hot...geven & maynse
+
+Shleyme Axelrod shraybt (Mendele 3.110)
+>
+>Some Yiddish verbs are made up of a Hebrew verb + the appropriate
+>tense of "zayn".  But the past-tense auxiliary is sometimes "hobn"
+>and sometimes "zayn".  For example, Maurice Samuel, on a single page
+>(139) in _In Praise of Yiddish_ cites the following:
+>
+>he exaggerates = er iz megazem
+>he exaggerated = er *hot* megazem geven
+>
+>but
+>
+>he decrees = er iz goyzer
+>he decreed = er *iz* goyzer geven
+>
+>he influences = er iz mashpie
+>he influenced = er *iz* mashpie geven.
+>
+>Is there a rule governing the choice of the past-tense auxiliary in
+>these situations, or does one have to learn which to use verb by
+>verb?
+
+I find the *iz* construction strange. I would not say "er *iz*
+goyzer geven" but "er *hot* goyzer geven" and likewise for
+=mashpie=. To my way of thinking, the past form of =iz ...= is quite
+naturally  = ...geven=. This past form then takes *hobn* as
+auxiliary in common with the majority of verbs.
+
+ Harold L. Orbach <HLORBACH@KSUVM> shraybt:
+>
+>Adding to others who report the use of 'manses' in their families,
+>mine came from Lodz and Tomashef in Poland and my recollection is
+>that all my relatives said what I always have said myself: "manses"
+>-- though perhaps they were saying something like "maynses"
+>[meinses]? Certainly there was an 'n' sound there.
+>
+
+A much more common example of nasalization arising from Hebrew ayin
+is =yankl= (I guess this should be transcribed =yaynkl= as in fact
+some (all?) litvaks pronounce it.) But are there really no others?
+
+a gut yontef
+
+pe'rets mett
+
+______________________________________________________
+End of Mendele Vol. 3.113
+
+

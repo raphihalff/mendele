@@ -1,0 +1,152 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.175
+December 19, 1993
+
+1) "Posuk"/"Ferz" (Reuven Rachlin)
+2) "Daytchmerizmen" and "Tante/Mime//Onkl/Feter" (Michael Shimshoni)
+3) Loose rules (Vicki Fromkin)
+4) "Daytshmerizmen in Old Yiddish" and "lezn" (Marion Aptroot)
+
+1)----------------------------------------------------
+Date: Sat Dec 18 22:19:15 1993
+From: "Robert D. Rachlin" <rachlin@panix.com>
+Subject: "Posuk"/"Ferz"
+
+Recently I ventured a reply to a question whether there was an
+alternate Yiddish word for "posuk."  I suggested "ferz" and added
+that it was likely cognate to the German "Vers(pl.-e)."
+
+One correspondent, whose identity I regret I do not recall,
+commented cogently that "Vers" was one of those German words where
+initial "V" is pronounced like a "v" rather than life an "f."  He
+therefore doubted that "Ferz" would derive from "Vers."
+
+I took the liberty of consulting a German scholar at the University
+of Vermont who told me that "Vers" does indeed begin with a "V"
+sound, like most German words of Latin origin, but that many Germans
+pronounce it "ferz."
+
+Thus, I'm inclined to stick by my surmise that "ferz" and "Vers" are
+as cognate as appearance would suggest.
+
+In any event, a sheynem dank to the correspondent who raised the
+question, as he induced me to make further inquiry and learn
+something useful.
+
+Reuven
+
+2)----------------------------------------------------
+Date: Sun Dec 19 03:35:30 1993
+From: Michael Shimshoni <MASH@WEIZMANN.WEIZMANN.AC.IL>
+Subject: Re: "Daytchmerizmen" and "Tante/Mime//Onkl/Feter".
+
+As a  yekke, who  heard no  Yiddish at home,  and taught  himself
+some passive knowledge (reading with Hebrew or Latin letters) of
+Yiddish, I would hesitate to join  the ongoing discussion about
+"Daytchmerizmen".
+
+I just wonder  if in the pro and con  arguments take sufficiently
+into account the  variety in  Yiddish spoken at  different places.
+I know here in  Israel many  people from  Romania (certain  parts of
+it) who speak German fluently  (somewhat of the Austrian version),
+but at the same time,  use Yiddish as  their first language when
+speaking within the family.  It *seems* to me that they have a
+greater tendency to use in Yiddish  more of  what might be  called
+"Daytchmerizmen"  than some people of Polish origin.
+
+Now I  will let  you have  the benefit of  my Yekkish  background,
+and being able  to consult with  my mother  and another yekkish
+friend as well, and would  like to comment on what Marnen
+Laibow-Koser wrote on the subject "Tante/Mime//Onkl/Feter":
+
+>Well, as long as the pot is boiling, I might as well stir it. ;> I
+>don't know how many Mendelnikes know this, but "Tante", "Muhme",
+>"Onkel", and "Vetter" (German spellings) are *all* German kinship
+>terms. There would be nothing particularly unusual about this,
+>except that in German "Vetter" and "Muhme" mean "cousin"! (I think
+>"Vetter" is usually, but not exclusively, male; I'm not sure about
+>"Muhme".) Anybody know how this shift in meaning came about?
+
+While all these terms *are* German kinship ones, both Vetter and
+Muhme are used less and less.  Anyhow in German Muhme was never a
+term for a cousin but  for and *aunt*.  Vetter  is exclusively used
+for  a *male* cousin, the  female term being  Base.  My personal
+experience  from my distant  childhood was  that we  still  used
+Vetter,  but also  Cousin (German sp?) but did not use Base in our
+daily speaking.  Muhme I have also never  heard in daily usage,  and
+know it only  from older books. Tante and Onkel were used not only
+for the relevant kins, but for all older persons one was close to.
+Onkel Fritz was used rather than Herr Kohn which was the term used
+for people known less intimately.
+
+Michael Shimshoni
+
+3)----------------------------------------------------
+Date: Sun Dec 19 16:28:08 1993
+From: Vicki Fromkin <IYO1VAF@MVS.OAC.UCLA.EDU>
+Subject: loose rules
+
+re the continuing discussion on 'loose rules in Yiddish'.  I suggest
+that anyone who still believes the grammatical rules in Yiddish are
+less constraining than in English for example should reread Ellen
+Prince's clear, lucid explanatory discussion on linguistic grammars
+(internalized knowledge of one's language) and the use of such
+'rules'.  This also gives me the opportunity to publicly (to
+Mendele's public, that is) thank Ellen for doing such an excellent
+linguistic tutorial.  Well, Ij think it is excellent even if some of
+the 'students' didn't seem to get the message.
+
+Vicki Fromkin
+
+4)----------------------------------------------------
+Date: Sun Dec 19 16:40:52 1993
+From: Marion Aptroot <aptroot@husc.harvard.edu>
+Subject: "Daytshmerizmen in Old Yiddish" and "lezn"
+
+Reyzl Kalifowicz-Waletzky's diatribes about Yiddish can be amusing.
+However, it is dangerous to state opinions as facts without anyone
+being able to check the statements. Many Mendele subscribers are
+Yiddish enthusiasts who may take any thing stated with force as
+"Toyres Moyshe" or - lehavdl - Gospel truth.
+
+I would like to know how Kalifowicz-Waletzky can justify the use of
+the term "daytshmerizmen" when discussing Old Yiddish and also why
+she thinks "leyenen" is older than "lezn". I would never dare to
+make that statement, and I have spent many an hour reading
+pre-modern Yiddish texts. Although I haven't paid particular
+attention to the first appearance of these forms, my hunch is that
+both preexist written evidence.
+
+Am I right when I suppose Kalifowicz-Waletzky thinks that "leyenen"
+must be older because of Weinreich's hypothesis that the first
+Yiddish speakers were originally speakers of a romance language? If
+so, this seems to me to be an example of circularity.
+
+Marion Aptroot
+
+______________________________________________________
+End of Mendele Vol. 3.175
+
+Mendele has 2 rules:
+	
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

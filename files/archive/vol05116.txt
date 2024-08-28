@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.116
+September 20, 1995
+
+1) N'sokhim (Sholem Yafe)
+2) Yeshivish (David Sherman)
+3) Yiddish software (Zalman Berman)
+4) Shlok zol dir trefen (Zavi Beer)
+5) Teaching Yiddish to Children, etc. (Allan Fineberg)
+
+1)----------------------------------------------------
+Date: Tue, 19 Sep 1995 03:17:33 -0400
+From: lakejaffe@aol.com
+Subject: N'sokhim
+
+Just a word of appreciation to Eliyahu Juni for his explanation [5.110]
+of N'sokhim -- but, beyond that, for his delightful pronuncia- tion of
+the Yiddish words, the sound of which comes through beautifully, as
+though by a recording!  I enjoy hearing the various dialects of English,
+and I take even greater delight in listening to the varieties of Yiddish
+pronunciation.
+
+And isn't it interesting that all this comes about as a result of the
+limitations imposed on us by our computers' inability to use the
+Yiddish/Hebrew alphabet!
+
+Sholem Yafe
+
+2)----------------------------------------------------
+Date: Tue, 19 Sep 95 13:45:28 EDT
+From: dave@cai.lsuc.on.ca
+Subject: Yeshivish
+
+Eliyahu Juni asks [5.11] what we call the "Yeshivishese spoken outside
+yeshives". Would this be what we call Judaeo-English? How different is it
+from what Yiddish originally was, as Judaeo-Middle-German? It's the local
+language (English in this case) peppered with large influences from the
+Jewish environment (which includes Yiddish in this case).
+
+David Sherman
+Toronto
+
+3)----------------------------------------------------
+Date: Tue, 19 Sep 1995 17:03:19 +0200 (IST)
+From: berman@mars.senecac.on.ca
+Subject: Yiddish software
+
+In describing the Yiddish interactive dictionary I inadvertently gave the
+wrong page address.
+
+ Here are all the addresses I have been able to get.
+
+ Web sites:
+
+ 1. http://www.execpc.com/~rtls
+
+ 2. http://shamash.nysernet.org/computers/rtls-software
+
+ Ftp sites:
+
+ 1. "ftp.magic.ca" directory: /rtls/hebrew
+
+ 2. "shamash.nysernet.org" directory: /israel/computers/rtls-software
+
+You can also get in touch directly with:
+ //
+ // Uri Postavsky.          Email: urip@interlog.com
+ // Right to Left Software.
+
+Sorry for any inconvenience.
+
+Saul (Zalman) Berman
+
+4)----------------------------------------------------
+Date: Wed, 20 Sep 1995 5:45:45 +0000
+From: szbeer@mailbox.syr.edu
+Subject: Shlok zol dir trefen
+
+Apropos the coming Sukos holiday-a question was once posed what the curse
+"a shlok zol dir trefen" means. A shlok is the temporary rain cover for
+a suke. They used to be made of wood and hinged to permit easy openning
+and closing (when closed, the suke is not "kosher"). Often they were not
+well made and could fall into the suke.  Getting hit by one could fatal or
+even worse!  Thus, the curse.
+
+Sylvan (Zavi) Beer
+
+5)----------------------------------------------------
+Date: Tue, 19 Sep 1995 23:00:25 EDT
+From: kwms96a@prodigy.com
+Subject: Teaching Yiddish to Children, etc.
+
+1. There has been discussion here about teaching materials for children.
+For my three young children, we bought Muzzy  in German. What is Muzzy?
+The BBC has produced a series of language-learning videos and other
+instructional materials.  When you order a set, you get two videos of
+Muzzy in English, and two in the language you specify.  They have
+English, Esperanto, French, Italian and Spanish versions.  Muzzy is a
+cartoon character from outer space who crash-lands on Earth, and has a
+series of adventures with a king, a queen, their daughter the princess,
+her boyfriend, the royal gardener, and the royal advisor.  It's all good,
+gentle fun, and it's a wonderful way to start people off in learning a
+foreign language.  I'd love to see Muzzy in Yiddish!
+
+2. My family and I had the pleasure of spending two days with the four
+children of David and Simone Sherman, of Toronto. The kids speak Yiddish
+among themselves, entirely naturally and unselfconsciously, having been
+raised from birth to speak Yiddish at home with their parents and
+maternal grandparents. To hear these kids speaking in Yiddish at the Fair
+Lawn pool, where for years the youngest Yiddish- speakers have been in
+the 70's and 80's was a treat to my ears and heart.  A gezunt af  zayere
+kepelekh.    :-)
+
+3.  As the holidays draw near, I want to express my best wishes to all
+Mendelniks.  To those who have contributed so much to my enjoyment of
+Mendele, a hearty "thank you."
+
+Allan Fineberg
+
+______________________________________________________
+End of Mendele Vol. 5.116
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

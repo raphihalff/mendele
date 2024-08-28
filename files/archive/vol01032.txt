@@ -1,0 +1,211 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 32
+June 26, 1991
+ 
+1) Introduction (Ari Davidow)
+2) Notes on Yiddish (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Tue, 25 Jun 91 18:39:10 pdt
+From: well!ari@apple.COM
+Subject: bio?
+
+Hi,
+I'm Ari Davidow. I write a weekly column on Jewish
+telecommunications for the Northern California Jewish
+Bulletin. I also host the Jewish discussion area on the
+WELL (a commercial computer conferencing system based
+in Sausalito, CA), and edit the E-HUG (electronic
+Hebrew Users Group) digest. For a living I do desktop
+publishing, specializing in Hebrew and Yiddish. I have
+to confess that, while, I have considerable fluency in
+Hebrew, my Yiddish knowledge is limited to American-
+isms, and that knowledge of the specialized characters
+used by Yiddish that are common to all typographers in
+my position.
+
+On the other hand, one of the reasons why I am so
+excited by Mendele and yiddish.mail is the way they
+prove (conclusively, imho) that Yiddish is not a minor
+sideline of the Hebrew alphabet, but an important and
+living language. The existence of these journals give
+some weight to my demands of software manufacturers
+that Israeli Hebrew is not the sole relevant use to
+which the Hebrew alphabet is used, and may ultimately
+result in better tools for us to use in communicating
+in Yiddish (and Hebrew). At least, that's what I'm
+hoping to see.
+
+ari
+
+Ari Davidow      Internet:    ari@well.sf.ca.us
+      From CIS: >INTERNET: ari@well.sf.ca.us  
+From Applelink: ari@well.sf.ca.us@internet#
+
+"If there were a computer for the rest of us, it would
+know how to work in the languages other than English
+that the rest of us speak.
+2)----------------------------------------------------
+
+Date: Wed, 26 Jun 91
+From: Noyekh Miller (nmiller@trincc)
+Subject: Notes on Yiddish
+
+[Note: what follows is a bid at getting some literary
+discussion going.  The writer is himself not competent
+at this, but if someone now were to come along and do
+the job properly..]
+
+                         Vayhi
+
+                     Noyekh Miller
+
+'Vayhi bimey akhilas kest.'  Thus Mendele begins his
+story, "Seyfer Hagilgulim".  A typical opening for
+Mendele: droll but also tsu der zakh.  
+
+First a look at how it's done.  'Vayhi': what follows
+will be biblical.  'Vayhi bimey': biblical, specifical-
+ly the Megile Esther, read on the feast day of Purim. 
+Now contradictions.  'Vayhi bimey akhilas' is unexpect-
+ed since 'akhilas' is more closely associated with
+'akhilas moror': the feast turns bitter. Recall as well
+that megile and gilgul have a common root: things are
+turning over, changing.  Finally 'vayhi bimey akhilas
+kest': switching from Hebrew to Yiddish signals a move
+(changed, mgilgul gevorn) from the sacred to the pro-
+fane, from a joyous, even licentious, feast day to the
+routine and regulated life of room and board, from
+adult competence in avoiding danger (without God's help
+in the case of Purim be it noted) to immature dependen-
+cy.  
+
+'Hamavdil beyn koydesh l'khoyl'.  Mendele, instead of
+preserving that distinction, conflates the sacred with
+the secular, makes things seem heymish, cozy.  But
+heymish with a twist, a mordant restatement of his
+principal theme: that Jews who were once a people
+capable of dealing with their own destiny have (at
+least in eastern Europe) become a band of feckless
+beggars and shlimazels.
+
+An isolated instance?  Hardly.  Mendele does it dozens
+of times.  And here's Sholem Aleykhem playing the same
+tune from the opposite direction: 'a kaptsen hagodoyl
+v'hagiber v'hanoyre' (from "Doktoyrim").  The familiar
+'kaptsen godel' is one thing, the exuberant gloss on
+the shimenesra, aka shemona esrey or Eighteen Benedic-
+tions, is something quite different.  As with Mendele,
+funny and heymish.  And bitter: using the same words to
+describe a poor man's plight and God's majesty.
+
+My goal in this essay is not however to discuss Mendele
+or Sholem Aleykhem but to speculate about the world
+they wrote for and the Yiddish that was once spoken or
+at least understood in that world.  The role that
+Hebrew once played in Yiddish was qualitatively differ-
+ent from the role of any other language.  When Ameri-
+can writers use a French word they at the very least
+flatter their readers by imputing to them a certain
+level of knowing.  True as well no doubt for Yiddish
+writers who used Hebrew.  But aside from the class or
+educational dimension, and the readers I think under-
+stood it so, was the sacred-secular.  Hebrew in Yiddish
+had a resonance, now almost entirely gone, of the
+prayer book, of countless daily rituals.  Even Jews
+with a minimal knowledge of Hebrew could be counted on
+to catch the drift of a Biblical, Talmudic or synagogue
+tag.  
+
+In what follows, I'm not talking about the "normal" use
+of Hebrew words and expressions, i.e. ones that have
+long ago become an inseparable part of the lan-guage,
+so much so indeed that they have become part even of
+host languages: meshuga in Germany, cobber (khaver) in
+Britain, chutspa in the U.S.  Nor do I have in mind,
+and for the same reason, the kind of Hebrew that finds
+its way into the Yiddish spoken in Orthodox circles
+today.  I exclude these because in both cases the use
+of Hebrew is essentially unself-conscious: the Hebrew
+is not chosen over Yiddish equivalents 'for effect' but
+because it's customary or the best avail-able.  
+
+If we look then only at Hebrew used 'for effect' what
+kind of 'effect' are we talking about?  I propose anti-
+clericalism, of which I see two forms: ironic detach-
+ment and the direct frontal assault.  (Actually, the
+very existence of a Yiddish literature with or without
+Hebrew is evidence of a Kulturstreit and all early
+Yiddish writers were by definition on one side of the
+divide, but I prefer to leave that alone for the time
+being.)
+
+The examples from Mendele and Sholem Aleykhem belong to
+the first type.  In both cases either Mendele or 'Pani'
+Sholem Aleykhem (or one of his detached surrogates such
+as the 'commis-voyadzher' of the Ayzenban Geshikhtes,
+reminiscent of Faulkner's sewing machine salesman,
+V.K.Ratliff) stand outside the give-and-take.  Mendele
+may be harsh in his judgments but he never gets in-
+volved.  Sholem Aleykhem is less likely to condemn but
+he also restricts his role to recording what he sees
+and is told.  
+
+But why Hebrew?  What does Hebrew have to do with
+ironic detachment?  Briefly, this: the use of uncommon
+though generally-understood Hebrew serves to underscore
+the vision of a rapidly changing society and a disinte-
+grating culture.  Biblical and Mishnaic Hebrew serve as
+benchmarks whereby the reader, even though _and pre-
+cisely because_ he/she understands them can grasp the
+degree to which the traditional culture of eastern
+European Jews had already disappeared.  For this is a
+Hebrew whose world (either the shul itself or the
+Jewish past as constructed and filtered through its
+language) is about to become as dead for most Jews as
+Latin has been for an even longer time for most Chris-
+tians.
+
+But not only as a benchmark.  When we recall that most
+of the Hebrew words and phrases have a heavy sacramen-
+tal loading, a _pairing_ of Hebrew and Yiddish implies
+a breaking down of the distinction between the sacred
+and the profane.  Hefker velt.  
+
+So much for the ironic uses of Hebrew.  What of the
+frontal assault?  I think it's basically this: where
+Mendele and Sholem Aleykhem (both of them thoroughly
+bourgeois and conventional) duly recorded the end of
+the world as it once existed, the more radical
+veltlikhe celebrated it.  If Mendele ended with hefker,
+these begin with it; they're possessed by a positively
+antinomian urge.  Instead of pairing uncommon Hebrew
+with Yiddish, the more radical factions used _familiar_
+Hebrew that had been thoroughly Yiddishized and cor-
+rupted it by changing one of its terms.  Olev hasholem
+becomes olev hashnabel or olev hashulekhts; loshn
+koydesh becomes lokshn koydesh; etc.    
+
+However, even antinomians know about the difference
+between the holy and its opposite; they're just as much
+obsessed by the distinction as their observant opposite
+numbers (a Yom Kippur Ball is after all still a cele-
+bration of Yom Kippur); and this accounts for the kind
+of Hebraisms I've just described.  
+
+Both styles have of course disappeared long ago.  The
+generations of Yiddish-speaking Jews for whom there was
+a critical distinction between Shabes and the rest of
+the week are gone.  And so are those for whom militant
+anti-religious behavior was important.  I suggest that
+this explains the virtual absence of this kind of
+Hebrew in the work of those later writers who knew the
+language as well as Mendele did (Chaim Grade, Aaron
+Zeitlin, the Singers, J.J. Trunk).  These writers left
+us some wonderful work, but (even when like Zeitlin
+they take up classic themes) their use of language is
+thoroughly modern, i.e. a language in which the work of
+desacralization has been achieved.  
+______________________________________________________
+End of Mendele Vol 1.32

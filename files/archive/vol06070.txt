@@ -1,0 +1,130 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.070
+September 26, 1996
+
+1) The auxiliary verb for past tense (Joachim Neugroschel)
+2) Yitskhok Goldkorn (Norbert Reinhartz)
+3) Yitskhok Goldkorn (Cheryl Jaffee)
+4) Curses (Albert Braunstein)
+5) Khatskl Lemkhen (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Wed, 25 Sep 1996 18:11:30 -0400 (EDT)
+From: achim1@cris.com
+Subject: The auxiliary verb for past tense
+
+The statement that "iz" implies "perished at the hands of others" is not
+quite accurate.  As we know, the Yiddish past tense is formed by using a
+past participle with an auxiliary "zayn" or "hobn"--depending on the
+given verb and the dialect.  Unlike German, Yiddish has no consistent
+pattern of when to use which auxiliary.  In German "sein" is used for
+nearly every verb that is intransitive and implies a change (with three
+exceptions in Southern German and Austrian :   stehen, sitzen, liegen).
+In Yiddish, you unfortunately  have to learn  the auxiliary for each
+individual verb.  the only consistency seems to be that a compound verb
+takes the same auxiliary as the basic verb:  "Er iz gegangn" and "er iz
+selbstmord bagangn" vs. German "Er ist gegangen" (intransitive) but "Er
+_hat_ Selbstmord begangen" (because the verb is transitive).  To confuse
+Yiddish matters further:  a string of verbs can have an elliptical
+auxiliary after the use of the auxiliary for the first participle:  "Er
+iz geloifn un gezungn"--even though "gezungen" normally takes "hoben."
+That construction would be impossible in German:  you'd have to say: "Er
+ist gelaufen und _hat_ dabei gesungen." In regard to the three German
+verbs that take "sein" by way of exception, most German grammars,
+including the Duden are misleading.  They claim that the "sein" usage is
+medieval. Not quite.  In Middle High German you could say "er ist
+gestanden" = "He stood up"  and "er hat gestanden" meaning "he was
+standing."  Modern German and Yiddish  both keep the form of one and the
+meaning of the other.
+
+In regard to Zellig Bach's claim that "iz" implies "at the hands of
+others" he may have been thinking of the Yiddish passive voice, which
+uses the appropriate form of "vern" with the past participle of a
+transitive verb. You might want to check out the brief description of
+the passive in Weinreich's College Yiddish, which also offers a brief
+outline of the past tense with "zayn" and "hobn".
+
+Joachim Neugroschel
+
+2)----------------------------------------------------
+Date: Wed, 25 Sep 1996 02:59:32 -0700
+From: b1phmv50@sympatico.ca
+Subject: Yitskhok Goldkorn
+
+Yitskhok Goldkorn died in Toronto July 18, 1988.
+
+Norbert Reinhartz
+
+3)----------------------------------------------------
+Date: Thu, 26 Sep 1996 09:54:00 -0700 (PDT)
+From: chj@psb.nlc-bnc.ca
+Subject: Yitskhok  Goldkorn
+
+Yitskhok Goldkorn's widow informs me that her husband died on July 18,
+1988.
+
+Cheryl Jaffee
+
+4)----------------------------------------------------
+Date: Thu, 26 Sep 1996 07:55:38 -1000
+From: sbr@ausom.net.au
+Subject: Curses
+
+Someone claimed in a magazine article that the phrase "May you live in
+interesting times" is a yiddish curse. I had always thought it was
+Chinese. Did they borrow it from us? Has anyone heard a yiddish version
+of this curse?
+
+Have their been previous discussions of yiddish curses on Mendele? I
+would also be interested to know everyone's favorite curse - for
+research purposes only!
+
+Albert Braunstein
+Melbourne, Australia
+
+5)----------------------------------------------------
+Date: Thu, 26 Sep 1996 18:14:34 -0400
+From: zellig@aol.com
+Subject: Khatskl Lemkhen
+
+There were several queries recently in _Mendele_ about the work of the
+linguist Hackelis Lemchenas.
+
+His Jewish name was Khatskl Lemkhen.  If memory serves me, he was
+employed in a bank in Kovne (Kaunas), Lithuania.  By profession a
+trained philologist, he published a book, in Lithuanian, on the
+influence of the Lithuanian language on the _litvishn_ Yiddish.
+
+As author of the book his name, in Lithuanian, is Haskelis Lemchenas.
+This spelling, with the addition of "-is" at the end of his first name
+and of "-as" at he end of his last name is a curiosity of the post-World
+War I when the new republic of Lithuania was carved out from the old
+Russian empire with _Vilne_ (Vilnius), famous Jewish town of the _vilner
+go'en and, later,  seat of YIVO, as its capitol.
+
+The new government authorities soon decreed that all non-Lithuanian
+names be changed to conform with the rules of Lithuanian grammar.
+
+Since the population of the new Lithuania was very small, the motivation
+beyond this decree, besides its nationalistic-political reasons, may
+also have been for the purpose of giving an exaggerated, bloated,
+demographic picture.
+
+Thus, last male names gained at the end an added "-as," for example,
+[Lemchenas], or an extra "-us" [Rabinovitshus], and so on.  First names
+also underwent similar, Lithuanized, changes.
+
+Yudl Mark, Lithuanian by birth, (author of the _gramatik fun der
+yidisher klal-shprakh [Grammar of Standard Yiddish], became in his
+official government papers Yudelis Markas.  And the last name of the
+Yiddish writer Uri Katsenelenbogen, who then lived in my hometown
+Ponyevezh, became the seven-syllabic Katsenelenbogenas.
+
+Zellig Bach
+Lakehurst, NJ
+
+______________________________________________________
+End of Mendele Vol. 6.070
+

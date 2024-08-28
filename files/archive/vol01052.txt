@@ -1,0 +1,115 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 52
+July 26, 1991
+ 
+1) Various (Mikhl Herzog)
+2) Nokhamol un videramol (Raphael Finkel)
+
+1)----------------------------------------------------
+Date: Thu, 25 Jul 91  22:24 EDT
+From: ZOGUR@CUVMB.BITNET
+Subject: Vol 1.50
+
+Noyekh,
+ 
+In my relative seclusion, the news about Bashevis
+reached me through you. It will be interesting to see
+just when I will learn of it in some other way. Thank
+you MENDELE. Lomir ober hern besere bsures. Would you
+be good enough to provide some details.  There still
+remains an important link, by the way; Avrom Sutzkever,
+zol er lebn un zayn gezunt.
+ 
+In explanation for my "seclusion", I offer the excuse
+of total immersion in preparing the Yiddish dialect
+Atlas for publication.  I'm delighted to tell you that
+I've just completed the manuscript of Volume 1, and am
+off to the publisher, with volume (& disk) in hand, on
+August 5. If all goes well, I'll tell you "all about
+it" (and about Volumes 2 & 3) right after Rosheshone.
+ 
+Concerning Yiddish Fayvush, I "prefer" "Phoebus" only
+because I want to spread the honors around: Khayim is
+already represented by "Faytl" (often disguised as
+Vidal, Vitali/y, etc. I don't have any other basis for
+choosing between Phoebus and vivus, although "the folk"
+(whoever they are) have made their choice through the  
+pairing with Shrage, in Ivrit, with Uri. By the way, I
+think that Edward Stankiewicz, who writes about Yiddish
+names in "The Field of Yiddish", vol. 3, also prefers
+"vivus".
+ 
+zay gezunt,
+ 
+Mikhl
+ 
+PS: I wrote the above at about 7 pm on Thursday. At 8 I
+received a telephone call from the city and, among
+other things, had to elicit the news of IBS's death.
+"It was all over the Times this morning, etc." Of
+course, the Times I read this morning was the early
+edition, which reminded me of a story worth retelling,
+particularly for anyone out there who knew a dear
+friend, now deceased, Alexander ("Olek") Erlich. He was
+an economist at Columbia University, grandson of Shimon
+Dubnow, and son of . . .  he was once introduced by an
+overenthusiastic chairman as "the son of Erlich and
+Alter". Driving him home late one night, I stopped to
+pick up "tomorrow's" New York Times and asked him if
+he'd like a copy. In his inimitable, Russian accented,
+precise English bass, he replied that he had stopped
+buying the early edition of the Times since he had once
+spent a whole day at home without knowing that Hitler
+had invaded the Soviet Union.
+
+2)----------------------------------------------------
+Date: Thu, 25 Jul 1991 11:30:59 EDT
+From: Raphael Finkel <raphael@ms.uky.edu>
+Subject: RE: Vol 1.50
+
+*************************
+Slicha, Raphael, un a dank dir, Dovid Sherman.  It
+appears that the editor has goofed again and rendered
+Raphael's beautiful Yiddish characters illegible.  
+Af Yidish iz beser gezogt: ikh hob fun zey gemakht
+blote.  Here's another try.
+*************************
+
+1. yidtype.c.
+
+If you compile the program using a C compiler, you will
+have some software that will turn input looking like
+
+     a SAneM dank
+
+into output looking like
+
+
+ ___ _  _ _ ____    ____  _ _ _  _ _  _ _ _    _ _
+ , /  | ,\|    |    |  |  | |  |  | | | | |    ,\|
+ |/  _| |_\    |    |__| _|/  _|      |/_/     |_\
+ |
+
+If you also have the 'sed' program available, then
+using recast.sed will let you type in the more legible
+
+    a sheynem dank
+and get the same result.
+
+If you don't have C available, the program is useless.
+
+
+2.  Borukh-habe.  Might be the origin of 'brouhaha',
+but it is in doubt. I expect that 'copacetic' really
+does come from 'kol beseder', however.
+
+3.  Shrage-fayvel.  The fact that the two are combined
+implies to me that they are synonymous.  I trust the
+Phoebus version.  I dimly recollect that Phoebus and
+Apollo were not always the same.  Even if Shrage is a
+relexification (what a great word!) for Uri, it still
+means light.
+______________________________________________________
+End of Mendele Vol 1.52
+

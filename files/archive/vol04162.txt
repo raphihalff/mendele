@@ -1,0 +1,193 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.162
+November 2, 1994
+
+1) Introduction (Roland Millman)
+2) Transliteration (David Sherman)
+3) Yeke; Scrabble (Bob Hoberman)
+4) Yiddish Scrabble (Sarah Moskowitz)
+5) Yiddish Scrabble (David Sherman)
+6) Shtot fun Palatsn (Michael Grunberger)
+
+1)----------------------------------------------------
+Date: Wed, 02 Nov 1994 03:17:39 GMT
+From: roland.millman@weiser.com
+Subject: Introduction
+
+New "lister" on Mendele, Ruvn (Roland) Millman is a film-maker who has
+been working primarily in the corporate arena for the past ten years with
+film, videotape and television.  Roland is a graduate New York
+University's Film and Television Department.  He is now making a
+documentary film with his wife Beverly (Brurieh) Miriam Post named
+"Double Heritage".  Double Heritage is about the post-war adoption of
+Holocaust orphans by American Jewish families. Ruvn and Brurieh are
+filming people, chronicling how the adoptees fared in their new lives
+after the war.  How they came from various European countries and learned
+a new language, changed cultures, took-on a new family, new name, new
+relatives...and locked away their lives from before the war.  Ruvn has
+been learning Yiddish at YIVO evening classes since 1993.  He is a member
+of Yugntruf and Workmen's Circle's Yiddish speaking youth branch #105.
+Ruvn will be at Yugntruf's "Yidish Vokh" (god willing) this coming
+summer.
+
+Roland Millman
+
+2)----------------------------------------------------
+Date: Tue, 1 Nov 94 3:20:27 EST
+From: dave@cai.lsuc.on.ca
+Subject: Transliteration
+
+[Raphael Finkel writes:]
+
+> mayne programen kenen di oysleg-klalim (ven tsu nitsn a shlos-mem, a
+> shtume alef, un kedoyme azelkhe), un mit a rshime loshn-koydeshkike
+> verter, kenen zey zey oykh akurat oysleygn.
+
+Ikh hob genumen raphael's ide'e un geshribn a program oyf
+HyperTalk far HyperCard oyfn mekintash.  me ken shraybn oyf
+YIVO-transliteratsie un es kumt aroys oyf yidish.  ikh hob
+es genutst tsu shraybn an artikl far yugntruf mit a por yor
+tsurik.
+
+daniel moishe sherman
+
+3)----------------------------------------------------
+Date: Tue, 01 Nov 1994 14:27:47 -0500 (EST)
+From: rhoberman@ccmail.sunysb.edu
+Subject: Yeke; Scrabble
+
+About yeke: Mikhl Herzog has cited for us the suggestion that it is from
+German Geck, pronounced in some dialects as Jeck [yek], meaning something
+like 'dandy' -- which strikes me as more plausible than some of the more
+picturesque etymologies, which are just as much part of the folklore
+about Yekes as the stereotypical character is.  But I wonder how
+plausible it is that a dialectal German word would enter the general
+non-Yeke vocabulary.  What was the mechanism by which a word that
+German-speakers might have used among themselves (on fairly rare
+occasions) got into the vocabulary of non-German speakers in a parodic
+sort of way?
+
+About Yiddish Scrabble: There is Hebrew Scrabble, which you can buy in
+Israel and probably in some Jewish bookstores in the US.  You might have
+to buy 2 sets to get enough alefs and ayins, etc. for one Yiddish set.
+And of course there wouldn't be single tiles for tsvey-vovn, tsvey-yudn,
+vov-yud, etc., but I'm not sure you would want those.
+
+Bob Hoberman
+
+4)----------------------------------------------------
+Date: Mon, 31 Oct 1994 19:36:20 +0800 (PST)
+From: hcedu012@huey.csun.edu
+Subject: Yiddish scrabble
+
+My granddaughter Ariella has an idea for you. She owns a Hebrew scrabble
+set and suggests that you try using it to learn what is missing and how
+many of each letter and how many points would be desireable to make each
+letter.
+
+Sarah Moskovitz
+
+5)----------------------------------------------------
+Date: Tue, 1 Nov 94 3:42:43 EST
+From: dave@cai.lsuc.on.ca (David Sherman)
+Subject: Yiddish Scrabble
+
+Let me dredge up an old posting of mine to mail.yiddish...
+
+We had a terrific time at the Yugntruf Yidish-Vokh in Copake NY, from Aug
+31 to Sept 6.  (Dos vet zein nokh a briev, ven ikh vel hobn tseit tsu
+shreibn fun dem.)  Among the unplanned activities, we found ourselves in
+a game of Scrabble in Yiddish with Josh Waletsky and his family.  They
+have a Scrabble set which has been done over in Yiddish.
+
+Josh told me the value and breakdowns of the letters were done by someone
+else about 50 years ago.  I think some of them need adjusting. Josh's set
+had only 90 letters instead of 100:
+
+Letter		Value	How Many Tiles
+======		=====	==============
+aleph		 1	12
+beis/veis	 3	 4
+gimel		 3	 4
+daled		 2	 3
+heh		 3	 3
+vov (vowel)	 1	 5
+vov-vov (cons.)	 2	 2
+zayin		 1	 1
+ches		10	 1
+tes		 2	 5
+yud		 1	 4
+yud-yud ("ey")	 2	 3
+caph/khaph	 4	 2
+lamed		 2	 3
+mem		 2	 4
+nun		 2	 4
+samekh		 1	 3
+ayin		 1	 6
+pey		 3	 2
+fey		 3	 2
+tsadik		 8	 2
+kuph		 4	 3
+resh		 1	 4
+shin		 2	 4
+tof/sof		10	 1
+<blank>		 0	 3
+
+A computer-based analysis of word frequencies in something like
+a dictionary (not just written text) would be helpful, but I'm
+pretty sure the above numbers need some adjustment.  Clearly there
+should be more zayins, for example.  Anyway, it was a great way to
+improve our vocabulary.  (Did you know that "mi", mem-yud, means
+"effort"?  Or that "mesh", mem-ayin-shin, means "brass"?)
+
+David Sherman
+
+6)----------------------------------------------------
+Date: Tue, 1 Nov 1994 17:05:16 -0500 (EST)
+From: mgru@loc.gov
+Subject: Shtot Fun Palatsn
+
+To Bob Freedman:
+
+The Library of Congress' union catalog lists four holding libraries for
+Y. Berliner's Shtot Fun Palatsn (Mexico, 1936): Yivo, New York Public
+Library, Yale, and Library of Congress. According to RLIN, it is also
+held by Cornell.
+
+Michael Grunberger
+
+______________________________________________________
+End of Mendele Vol. 4.162
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,133 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.306
+April 18, 1996
+
+1) Tsu zayn oder nisht tsu zayn (Iosif Vaisman)
+2) Vegn tkhines (Moishe Kijak)
+3) Der shames gibt zikh an eytse (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Wed, 17 Apr 96 00:50:52 -0400
+From: iiv@mmlds1.pha.unc.edu
+Subject: Tsu zayn oder nisht tsu zayn
+
+Leonard Prager, who wrote "Shakespeare in Yiddish" (Shakespeare Quarterly,
+1968, vol.19, no.2, pp.149-163) will probably answer better, but meanwhile
+there are at least two translations of Hamlet: by Israel Schwartz (New York:
+Forverts, 1918) and by Itshe Goldberg (Minsk: Melukhe-farlag fun Vaysrusland,
+1934).
+
+About performance see paper by Iska Alter "When the Audience Called 'Author!
+Author!': Shakespeare on New York's Yiddish Stage" (Theatre History Studies,
+1990, vol.10, pp.141-162).
+
+Iosif Vaisman
+
+2)----------------------------------------------------
+Date: Wed, 17 Apr 1996 16:08:23 -0300
+From: administ@kijak.recom.edu.ar
+Subject: Vegn tkhines
+
+Ikh hob far zikh a shas tkhine, aroisgegebn durkh der Hebrew Publishing
+Company in yor 1926. es iz in ir gedrukt an azkore far izidor un aida shtraus,
+di bakante filantropn, vos zenen dertrunken gevorn ven di shif titank iz
+untergegangen.
+
+ikh volt zeier gevolt visn tzi es iz nokh epes ongeshribn gevorn vegn
+dem umglik. ikh hob geleient folkslider vegn der shif, ober nisht vegn
+dem dozikn porfolk un zeier bashlus tzu zain geeinikt in aza moment.
+ikh vel zeier danken oib emitzer ken mir epes onvaizn.
+zait ale gezunt. ayer frain fun argentine. moishe
+
+Moishe Kijak
+
+3)----------------------------------------------------
+Date: Thu, 18 Apr 1996
+From: nmiller@shakti.trincoll.edu
+Subject: Der shames gibt zikh an eytse
+
+Mendele has grown beyond any reasonable expectations and the volume of
+contributions has kept pace.  So has the number of communications between
+subscribers and the shames, some of these dealing with submitted articles,
+others with subscription questions.
+
+Opgeredt, Mendele is the only worthwhile thing on the internet and your shames
+takes his responsibilities seriously.  Nevertheless books need reading,
+gardens need tending, eyniklekh need zeydes.  Something has to change.
+
+Beginning at once,  the shames will _not_ any longer enter into negotiations
+with contributors and will _not_ answer their notes as to why their pieces
+have not appeared in Mendele.  Here are some of the reasons why they may have
+been rejected.
+
+1. The post largely duplicates what has already been run.  This happens most
+often in answer to a query.  All such posts will however be forwarded to the
+questioner.
+
+2. The post deals is not primarily about Yiddish but instead a political or
+religious gloss that takes us beyond our common interests.
+
+3. The post requires more editing than the shames deems appropriate.  This
+includes correcting typos, changing BLOCK LETTERS to a more civilized way of
+writing, eccentric layouts, shameless self-promotion, ad hominem attacks,
+lengthy quotes, yoo-hoo messages and the like.
+
+4. The post is irredeemably trivial.  This does _not_ refer to questions
+raised by subscribers who are unsure of their Yiddish.  These questions will
+be treated respectfully and where appropriate forwarded to a knowledgable
+member of our khevruse to be answered.
+
+5. The post is either not signed (full name please) or does not carry a
+usable Subject: line.
+
+I hope that Mendele's friends and readers will understand the need for
+this new arrangement.  Who knows: it may even improve things.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 5.306
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

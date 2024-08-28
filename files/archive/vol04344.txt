@@ -1,0 +1,184 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.344
+March 1, 1995
+
+1) Skotsl kumt (Eliyahu Juni)
+2) Skotsl kumt (Yekhiel Yosef Reisner)
+3) Skotsl kumt (Harvey Spiro)
+4) Skotsl kumt (Meyshe-Yankl Sweet)
+5) Geringelt; kibitzers (Leon Lipson)
+6) Pamelekh (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Tue, 28 Feb 1995 00:07:21 -0500 (EST)
+From: ao107@freenet.carleton.ca
+Subject: Skotslkint
+
+Mikhl Herzog wrote concerning 'skotslkint'.  I quizzed my grandfather,
+who taught me the phrase a while back, and got the following comments:
+
+> Eastern Yiddish, is generally an expression of surprise (and welcome)
+> when an unexpected guest appears.
+
+In my grandfather's use, it's more specific than that:  an unexpected
+guest who one hasn't seen in an unusually long time--not if your
+next-door-neighbour pops in suddenly to borrow some sugar.
+
+> In Western Yiddish, the expression _gotl_ or _kotl kum_ is said only by
+> women. Men say _sholem aleykhem_.
+
+For my grandfather (a poylisher), it carries no gender restrictions at
+all.
+
+> Etymology? A reasonable suuggestion is a medieval German expression,
+> something like _bis got willkommen_. Are there German sources to support
+> this?
+
+I don't know anything about German, but my grandfather's (folk) etymology
+is "Gott's veln kimt" which he tried to translate as something like 'God
+should welcome you' or 'Your coming is/should be God's will.'
+
+[Begin Linguistic digression]
+
+I assume that the switch from 'kimt' to 'kint' is some sort of Homorganic
+Nasal Assimilation; it doesn't seem to come from a mistaken etymology
+from kint (child), since the speaker involved understood it as coming
+from the word kimt (comes).
+
+[End Linguistic Digression]
+
+He treated it sort of as an archaic phrase, and I imagine from the way he
+used it that he hasn't used it much.  I'd bet he learned this explanation
+in Poland at least 55 years ago.
+
+Eliyahu Juni
+
+2)----------------------------------------------------
+Date: Tue, 28 Feb 95 07:18:13 CET
+From: reisner%plearn.bitnet@yalevm.cis.yale.edu
+Subject: Skotsl kumt
+
+My Yiddish, alas, leaves a lot to be desired (ich red vi a goy....), but
+let me hazard another somewhat tongue -in-cheek guess at "skotzl kumt."
+
+How about "dos ketsl kumt" = "Look what the cat dragged in!"?
+
+Yale J. Yekhiel Yosef Reisner
+Warsaw, Poland
+
+3)----------------------------------------------------
+Date: Tue Feb 28 12:38:34 1995
+From: hjs@nrc.gov
+Subject: Skotsl kumt
+
+Yude Rozof asks for a story or other reference which uses the term
+"skotsl kumt."
+
+I can't place the reference, but I believe that Sholem Aleichem uses the
+expression in one of the early Tevye der Milkhiger chapters, possibly in
+the chapter on either Menakhem Mendl or in the following one.  I'm sure
+some Mendelyaner will respond gikher (or is it flinker?) with a proper
+citation.  :)
+
+Here's where a CD ROM of Yiddish musterverks would come in handy.  Anyone
+know of such a project in preparation?  What an oytzer that would be --
+but what a small market, nebokh.
+
+Harvey Spiro
+Vienna, VA
+
+4)----------------------------------------------------
+Date: Mon, 27 Feb 95 21:55:28 CST
+From: msweet@facstaff.wisc.edu
+Subject: Skotzl kumt
+
+Anent the postings on "skotzl kumt": it's used in the beginning of
+Peretz-Hirshbein's "Grine Felder"--Rokhl, the farm wife, utters it in
+greeting her neighbors Alkone and Gitl, who have unexpectedly
+arrived--they hadn't visited for a while previously.  No sarcasm seems
+implied.  Her husband, Dovid Noyekh, simply greets them without ceremony
+with the question "Vuhin forstu, Alkone?"  Wonder if this isn't a very
+common informal greeting in peasant cultures.  I remember that it was in
+Nepal--"kahan jane" (where are you going) being the usual greeting when
+you met someone.
+
+Meyshe-Yankl Sweet
+
+5)----------------------------------------------------
+Date: Mon, 27 Feb 1995 11:00:40 -0500
+From: llipson@mail.law.yale.edu
+Subject: Geringelt; kibitzers
+
+A propos two recent postings:
+
+(i) Around 1930 my then not-yet-married aunt, who worked downtown in an
+English-speaking environment, returned home and, wishing to learn whether
+any 'phone calls had come for her, asked her mother, "Imitzer ot mir
+geringelt?" (Probably would have been applauded by Freud, who is said to
+have said There no misunderstood women -- only uncomprehended.)
+
+(ii) From childhood I was given to understand that at the card table
+there are not two tiers but three.  Behind the players are the kibitzers,
+who shake their heads and point out to the players how they ought to have
+played; behind the kibitzers are the tzitzers, who criticize the
+kibitzers' critiques by shaking their heads and saying Tz-tz-tz....
+
+Leon Lipson
+
+5)----------------------------------------------------
+Date: Tue, 28 Feb 95  09:52 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Pamelekh
+
+I think this Yiddish word is best understood as a "blend" of Polish
+_pomalu_ and German _allmaelich_. There are several such in Yiddish.
+
+I seem to recall that the author of an 18th century Yiddish text I worked
+on some tim eago (Moyshe Maruze, _Seyfer Refues_, 1790) wrote _pamelekh_
+as if it were a Hebrew word:
+
+i) In square letters, as different from the vaybertaytsh font used for
+the rest of the text; ii) without vowel letters, using nekudes, instead;
+iii) whith the letter _khes_, otherwise used only for Hebrew words, with
+an exception I won't go in to here). He writes "pasekh-pey, segl-mem,
+pasekh-lamed, khes" Surprising, because Markuze must have known all the
+possible alternative explanations for the word.
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 4.344
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

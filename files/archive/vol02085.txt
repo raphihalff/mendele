@@ -1,0 +1,141 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 85
+October 29, 1992
+ 
+1) Answer book for College Yiddish (Mikhl Herzog)
+2) Bloyz and nor (Ellen Prince)
+3) Computer Yiddish (Debra Halperin Biasca)
+4) Introduction (Joe Frisch)
+5) Khurbm (David Neal Miller)
+
+1)----------------------------------------------------
+Date: Tue, 27 Oct 92  19:39 EST
+From: ZOGUR@CUVMB.Columbia.edu
+Subject: Answer book for College Yiddish
+
+For Jeff Finger: My memory is a bit hazy on the subject
+but, I do recall a project at YIVO, many years ago (in
+which I had a hand but which David was responsible for) to
+prepare a correspondence (?) course for the University of
+Wisconsin (?) (Adult Education/Extension Program)--as you
+see, there are many question marks. It resulted in two (?)
+workbooks and perhaps, an answer book. Inquire of YIVO
+(Zachary, if you're tuned in, perhaps you can clarify this;
+or, if David Gold is on the line (or, perh Leonard, in
+Haifa knows), please shed some light on this. Sorry to be
+so
+ 
+To the pesl/pesl respondents, thanks. The "bas", diminutive
+"besl" didn' occur to me. The besl/pesl correespondence is
+interesting. I can only think of one other Western Yiddish
+etymological initial "b" that shows up as "p" in Eastern
+Yiddish: WY baafn 'to drink' (presumably cognate with
+French "boire") Eastern Yiddish pof/pufn as in "shlofn un
+pofn" a pejorative for 'to sleep' (presumably in a drunken
+stupor). More on this, anyone?
+ 
+Mikhl Herzog
+
+2)----------------------------------------------------
+Date: Tue, 27 Oct 92 21:11:07 EST
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: RE: bloyz and nor
+
+(Jeff Finger asks:)
+>
+>Is there a difference in usage and meaning between "bloyz"
+>and "nor"?
+
+i once looked at the differences and there were quite a
+few. unfortunately i can't find my notes at the moment. one
+that i remember is that _bloyz_ cannot function as a
+conjunction the way _nor_ can, e.g.
+
+ikh vel aykh gebn tsvey rubl, nor/*bloyz lozt mir geyn
+        brengen di vaser farn tatn. (rp:7)
+
+men volt gedarft oysleshn dem lomp, nor/*bloyz ikh bin foyl
+        oyftsushteyn. (rp:38)
+
+note, btw, that english _only_ can also function as a
+conjunction in this way (e.g. 'someone should turn off the
+light, only i'm too lazy to get up')
+
+ellen prince
+
+3)----------------------------------------------------
+Date: 28 Oct 1992 09:56:16 -0700 (MST)
+From: BIASCA DEBRA HALPERIN <biasca@ucsu.Colorado.EDU>
+Subject: Computer Yiddish
+
+I understand that Compuserve has a bidirectional utility
+which is Shareware.  Does anyone on the list have it?  Can
+it be shared through Mendele?  I have Wordperfect and have
+re-programmed my keyboard to input Yiddish; but I have to
+input the aleph-bet backwards, which is not practical (!).
+I note that in yesterdays message someone felt that
+uploading and downloading the aleph-bet would not be a
+problem. I wonder how that would be accomplished.
+
+The Answer Book for Weinreich would be helpful to me, too.
+
+4)----------------------------------------------------
+Date: Wed, 28 Oct 92 15:50:09 EST
+From jfrisch@euler.Berkeley.EDU Wed Oct 28 13:44:06 1992
+Subject: Introduction
+
+Ich war in Wien geborn und bin von Holland in 1940 nach
+Amerika gekummen.
+
+Ivh wohn in California bin verhairat und hob drei kinder.
+
+ Joe
+
+5)----------------------------------------------------
+Date: Thu, 29 Oct 92 8:32:36 EST
+From: David Neal Miller <dnmiller@magnus.acs.ohio-state.edu>
+Subject: Khurbm
+
+I was surprised to come upon the term "Hitler-khurbm" as
+early as 1941 in Maks Vaynraykh's paper on "Di yidishe
+visnshaft in der hayntiker tsayt":
+ 
+"Nor mir gleybn dokh in dem groysn natsyonaln un
+mentshlekhn koyekh fun der yidisher shprakh far yidn afile
+nokh dem Hitler-khurbm un afile in Amerike" (Yivo-bleter
+17:7, based on a talk presented on 3 Jan. 1941 at the 15th
+annual Yivo Conference in New York).
+ 
+Has anyone an earlier cite for the use of khurbm =
+Holocaust? Was this term in general use by 1941?
+ 
+David Neal Miller
+The Ohio State University
+
+______________________________________________________
+End of Mendele Vol 2.29
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+                          or
+                 mendele@yalevm.ycc.yale.edu
+
+If your node is Bitnet-only and is not connected to the Internet,
+please send your message to:
+
+                 mendele@trincc
+                          or
+                 mendele@yalevm
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+                          or
+                 nmiller@trincc
+
+Please sign your articles.
+ 

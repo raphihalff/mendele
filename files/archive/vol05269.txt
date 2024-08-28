@@ -1,0 +1,189 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.269
+March 6, 1996
+
+1) Looking for klezmer citations (Jonathan Dembling)
+2) Syllable onsets in Yiddish (Neil Jacobs)
+3) Glaykhn (Alan R. King)
+4) Daytchmerisms (Arre Komar)
+5) Ober/oder (Meyer-Leyb Wolf)
+6) Khone Shmeruk's prize (Michael Shimshoni)
+
+1)----------------------------------------------------
+Date: Tue, 05 Mar 1996 16:07:04 -0400 (AST)
+From: j_dembli@husky1.stmarys.ca
+Subject: Looking for klezmer citations
+
+I am currently working on a paper investigating the relationship between
+language and musical expression, and I would like to include a discussion of
+Yiddish and its connection to klezmer music.  Indeed, any scholarly references
+which speak to the connection between Yiddish and any sort of cultural
+expression would be valuable.  Please contact me directly with any specific
+references or general hints.
+
+A sheynem dank,
+
+Jonathan Dembling
+Halifax, NS
+
+2)----------------------------------------------------
+Date: Tue, 5 Mar 1996 14:26:36 -0500 (EST)
+From: njacobs@magnus.acs.ohio-state.edu
+Subject: Syllable onsets in Yiddish
+
+I would like to hear some thoughts about syllable onsets in Yiddish in the
+Loshn-Koydesh component, which involve the adjacency of two obstruents with
+(paradigmatically, in Hebrew) a conflict in voicing.
+
+I'll give a couple of examples, using the romanization and examples from Uriel
+Weinreich's dictionary.
+
+With an onset with (original, in Hebrew) voiced obstruent, followed by a
+voiceless one, we get anticipatory DEVOICING, thus, [Note:  All these examples
+involve loss of a "Hebrew" schwa.  However, our concern is the schwa-less
+*Yiddish* form, with the consonant cluster.]
+
+psure  'message, tidings'  ( < *bs-), psule 'virgin',  tkhak ( <* dkh-)
+extremity, straits' (cf. dakhkes  'want'), ksise 'agony of death' (< *gs- ,
+cf. goyses)
+
+On the other hand, in Weinreich we generally find NO ANTICIPATORY VOICING
+given; thus:
+
+kdushe, not **gdushe  'saintliness', sdorim, not **zdorim  (plural of seyder),
+pgam, not **bgam 'dent, blemish, flaw'.  Now, Weinreich does give [zgule]
+'remedy, solution'  ( < *sg- ).
+
+Observations about this from Mendele readers would be appreciated.  Naturally,
+I am NOT talking here about the well-documented anticipatory voicing
+assimilation in Northeastern Yiddish.  However, in reading the really fine
+phonetic descriptions of Viler, Gutman, Prilutski, I find only mention of how
+Central Yiddish (or, at least, non-Northeastern Yiddish varieties) lack the
+anticipatory voicing assimilation.  What I am looking at is morpheme-internal
+clusters.  Generally, these do show a tresolution of voicing conflict in, I
+think, all Yiddish dialects.  Thus, even Central Yiddish has a voiced [zh] in
+khezhbm.
+
+Is there published work out there on the morpheme-internal devoicing in d-khak
+to tkhak, but the supposed non-voing of, say, p- in pgam?  Or does all this
+have to do with some transcription or romanization convention?
+
+Thoughts or advice on this much appreciated.
+
+Neil Jacobs
+
+3)----------------------------------------------------
+Date: Tue, 5 Mar 1996 14:57:18 GMT
+From: mccay@jet.es
+Subject: Glaykhn
+
+In answer to Miki Safadi's question [5.242], I learnt that "to like" was
+'glaykhn' (as in 'Ikh gla:kh dus nisht') from my London-born-and-bred parents.
+Even as an English-speaking but linguistically-oriented young boy I remember
+thinking this sounded a bit "fishy", considering that 'glaykh' also
+corresponds to English "like" in the (completely unconnected) meaning of
+"similar to", but that's what they used.
+
+I remember reading something about different colloquial Yiddish variants of
+this somewhere, but I don't know where.  Besides the question of lexical
+choice ('gefeln' or 'glaykhn'), there is the issue of its syntax to consider:
+'_dos_ gefelt _mir_', '_ikh_ glaykh _dos_'...
+
+Alan R. King
+Gipuzkoa, Basque Country
+
+4)----------------------------------------------------
+Date: Tue, 5 Mar 1996 20:12:20 -0500 (EST)
+From: komar@yu1.yu.edu
+Subject: Daytchmerisms
+
+Thank you and hear, hear Ellen Prince [5.263]!
+
+About 2 years ago, when I first strated communicating with Mendele I was
+severely chastized for using "daytschmerisms" such as lezn, monat, etc. I was
+informed in no uncertain terms that to use such words was a "baleydigung" to
+the speakers of Yiddish. I was puzzled since I learned this vocabulary from my
+parents who came to the USA from kleyne shtetlakh in Belarus and Ukraine at
+the turn of the century. I was firmly convinced that the language that they
+spoke was a proper dialect of Yiddish.
+
+Since I was suspicious of the critics I requested information with regard to
+the nature of the dialects spoken by the current speakers of the living
+language (as opposed to the academic theoreticians of Yiddish). My initial
+request fell into a black hole of silence. Instead I was treated to dogmatic
+convoluted theoretical arguments laced with scorn.
+
+In the past year I raised I quietly raised the same question, What do the
+Khsidim speak? Finally we learn that they indeed speak the same so-called
+"daytchmerish" Yiddish that my parents spoke. But again we are being treated
+to hypothetical reasons as to "why" the speakers of the living language are
+wrong or misled. Isn't it time to end such khutspah? A language is determined
+by what the native speakers speak, not by what academic theoreticians claim
+that they should speak. If students in the various college programs are being
+misstaught so that they think that they are learning Yiddish and they
+arrogantly proceed to "correct" the native speakers, isn't it time to disabuse
+them of such error? Yiddish is not regimented by an academy as is French. That
+is one of its strengths and beauties.
+
+Arre Komar
+
+5)----------------------------------------------------
+Date: Tue, 5 Mar 1996 23:57:33 -0500
+From: wolfim@chelsea.ios.com
+Subject: Ober/oder
+
+Mikhl Herzog's comment on Ober = oder usage in German dialects is well taken.
+In the entry for 'aber' in Goetze's 'Fruehneuhochdeutsches Glossar" there is a
+general gloss "wieder" (cf. Yiddish 'ober un vider') and specifically for
+Central German: "oder; sondern".
+
+Meyer-Leyb Wolf
+
+6)----------------------------------------------------
+Date: Wed, 06 Mar 96 15:45:59 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: Khone Shmeruk's prize
+
+In 5.260 there were some comments on the mistake of the Jerusalem Post in
+referring to  "Khone Shmeruk"  as "Hana  Shamrock".  Mikhl  Herzog reports an
+especially humourous telephone exchange he had with someone who looked for the
+(female) Khana Shmorak.
+
+May I make a few comments:
+
+First Mazal Tov to Khone Shmeruk, and clearly every person is entitled to have
+his/her name to be pronounced and written correctly.
+
+As  others pointed  out, the  pronunciation of  not Hebrew  words when spelled
+in  the  usual   Israeli  method  (without  vocalization)  is difficult.  No
+Hebrew  speaker would have any  problems in pronouncing correctly my name
+Shimshoni. :-)
+
+Mikhl Herzog gave of course the correct Hebrew spelling (as K.S. likes it):
+"Khone Shmeruk (khes-nun-alef shin-mem-reysh-vov-kuf)", but for a Hebrew
+speaker "khes-nun-alef"  is  pronounced the  same  as that  of female
+"khes-nun-heh", i.e. khana.  Israelis  might be excused for not being very
+familiar with that  name of  a pretty obscure  gemara sage from Babylion.
+Someone else (not Mikhl)  thought that it was the same name as  that of Khoni
+Hama`gel, who  lived in Israel  many centuries earlier and his name is
+"khes-vov-nun-yud".
+
+As to  the mistake which M.H.   Herzog reported about the  family name which
+was  thought to be  Shmorak, this can  be explained by  the fact that quite a
+few years ago we had in Israel a fairly famous Dr Shmorak who was active in
+the Jewish Agency (as comptroller?).
+
+Finally, the name Khana ("khes-nun-alef"), while as said is obscure as a
+Jewish male name, is quite  common among Arab males.  Strange world!
+
+Michael Shimshoni
+
+P.S.  In order to avoid confusion I used throughout the Yiddish way of
+denoting Hebrew letters as Mikhl Herzog did, and not the way I usually write
+them.
+
+______________________________________________________
+End of Mendele Vol. 5.269
+

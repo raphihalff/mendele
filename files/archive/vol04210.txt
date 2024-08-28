@@ -1,0 +1,185 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.210
+December 2, 1994
+
+1) Language 'mevinim' (Ellen Prince)
+2) Sheygets (Yude Rozof)
+3) Western Yiddish folkmusic (Arre Komar)
+4) Ts(h)ipyo(ek), aynfor(hoyz) and rogelekh (Mikhl Herzog)
+5) Ts(h)ipyo(ek) and aynfor(hoyz) (Dovid Braun)
+6) Nitogedakht (Mikhl Herzog)
+7) On-line dictionary (Khayem Bochner)
+
+1)----------------------------------------------------
+Date: Thu, 01 Dec 1994 16:37:58 EST
+From: ellen@central.cis.upenn.edu
+Subject: language 'mevinim'
+
+to: zellig bach
+
+>As far as Yiddish is concernd, the situation seems to be just the
+>opposite. Some Jews,  davke because they are native speakers, consider
+>themselves experts, self-appointed mevinim, mishteyns -:) gezogt, by
+>virtue of their own "certification."
+
+ok, i'll bite. who _should_ be the experts, if not the native speakers?
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Thu, 1 Dec 1994 17:42:35 -0500 (EST)
+From: jrosof@sas.upenn.edu (Jeremy S Rosof)
+Subject: Re: sheygets
+
+It is interesting to note that the Yiddish sheygets and shikse derive
+from the Hebrew sheqes. meaning detestable thing or unclean animal.
+SheyGATS is a fascinating truly Yiddish concoction including a Semitic
+base, a Germanic pronunciation, and a Slavic contemptuous ending to top
+it all off as in yunGATSH.  In defense of the creators of this slur I
+would note that Jews were mainly on the receiving end and they needed to
+let a little steam off themselves.  Most Jews probably were and certainly
+in America today are totally unaware of the perjorative and derisive
+derivation of the word--in that sense it has lost its power, just as
+shmok today has come to mean jerk rather than d-ck.
+
+Yude Rozof
+
+3)----------------------------------------------------
+Date: Thu, 1 Dec 1994 22:05:44 -0500 (EST)
+From: komar@yu1.yu.edu
+Subject: Western Yiddish folkmusic
+
+I wish to thank Dovid Broun for the several western Yiddish folk songs
+which he submitted. The ideas that I expressed concerning the absence of
+evidence for such music was not mine, but was cribbed mostly from the
+prologue of Ruth Rubins "Voices of a People." I would like to ask Dovid
+if any of the music which accompanies the texts is extant. If so it would
+be interesting to to see the extent to which it is related to either the
+cantorial chant or the more familiar east European Yiddish folk song.
+
+As to whether Hebrew is becoming more intrusive into Yiddish in recent
+times, I must admit that my impression is largely anacdotal, but it does
+agree with that of many others to whom I've spoken. Also I find that many
+words of Hebrew root now being employed on Mendele are not found as
+prefered usage in Harkavy's 100 year old dictionary. However I would be
+very interested in hearing from others who may have made a more
+professional study of this question.
+
+Arre Komar
+
+4)----------------------------------------------------
+Date: Thu, 1 Dec 94  22:58 EST
+From: zogur@cuvmb.columbia.edu
+Subject: ts(h)ipyo(ek), aynfor(hoyz) and rogelekh
+
+Judith Binder and J. Rosof:
+
+1. ts(h)ipyor(ek): the green leaves of onions (scallions?)
+
+2. ajnforhoyz: 'inn': a perfectly good, non-daytshmerish Yiddish
+word.
+
+Beatrice Santorini:
+
+Rogelekh: probably derived from the word "rog" 'corner'. At New York
+bakeries, rogelekh seem to come in various strange shapes and sizes. I
+rely on the ones my mother made as "authentic": a small roll of dough,
+filled with nuts, cinammon, ?, and bent(?) to form 2 sides of a triangle
+(a right angle, that is; a corner?), often assuming a crescent shape.
+They were good!
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Thu, 01 Dec 1994 22:59:03 EST
+From: dovid@mit.edu
+Subject: ts(h)ipyo(ek), aynfor(hoyz)
+
+Perhaps I can help you: tshipyor, shtshipyor, or shtshipyer are scallions
+or chives.  I'm not near a dictionary of Yiddish (or Polish) at the
+moment, or near Stutchkoff's Thesaurus of the Yiddish Language, to look
+this up, and I confuse the two in English and in Yiddish anyway.  The -ek
+is a Slavic suffix, sometimes a diminutivizing suffix (sometimes it's a
+diminutivizing suffix in Yiddish too).  If the Perets text you're working
+on is from an old printing, say early 1900s when there was turmoil in
+Yiddish spelling, the sequence tsadik-yud that you encountered might've
+been Perets' rendition of what we write today as tes-shin and what we
+Romanize as _tsh_ -- the sound in [patsh].
+
+_aynforhoyz_ is an inn -- you should find this in Yiddish dictionaries
+with no difficulties.  Does it make sense for the context of the Perets
+story?  _lange aynforhoyz_ might sound funny if translated into English
+literally, namely 'long inn' -- buildings aren't usually described as
+long in English.  _lang_ in Yiddish, however, can apply to buildings or
+people, meaning 'tall and lanky'.
+
+Let us know if any of this is on the mark.
+
+Dovid Braun
+
+6)----------------------------------------------------
+Date: Fri, 2 Dec 94  09:14 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Nitogedakht
+
+Dovid Braun has pointed out to me the error in my recent posting about
+mishteyns gezogt. By writing the form "nito(p)gedakht", I suggested that
+the usual rendition "nitogedakht" actually derived from a form with "op".
+More likely that it's actually from "do" 'here'. I will still check the
+Atlas responses to see whether any "real" informants actually said "op".
+Thanks, Dovid.
+
+Mikhl.
+
+7)----------------------------------------------------
+Date: Fri, 02 Dec 94 10:06:02 -0500
+From: bochner@das.harvard.edu
+Subject: clarification: on-line dictionary
+
+In my recent note on 'oyssheygetsn' I refered to an on-line dictionary.
+At least one mendelnik interpreted this as a reference to a _Yiddish_
+on-line dictionary. Halevay! What I meant was that since I didn't
+understand Harkavy's definition of 'oyssheygetsn' as "to give a good
+rating", I looked up "rate" in an _English_ on-line dictionary, and found
+the obsolete usage that Harkavy apparently had in mind.
+
+Sorry for any confusion.
+
+Khayem Bochner
+
+______________________________________________________
+End of Mendele Vol. 4.210
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

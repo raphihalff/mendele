@@ -1,0 +1,151 @@
+______________________________________________________
+Contents of Vol. 3.244
+February 23, 1994
+
+1) Oxford Summer Program (Lisa Jenschke)
+2) Zachary Baker (Shmoyl Leyzer Wolitz)
+3) Yiddish Text to Speech (Martin Minow)
+4) Index to Yiddish Periodicals (Heidi Lerner)
+5) Introduction (Anatole Beck)
+
+1)----------------------------------------------------
+Date: Tue Feb 22 10:25:42 1994
+From: Lisa A Jenschke <ljenschk@magnus.acs.ohio-state.edu>
+Subject: Oxford Summer Program
+
+re: Michael Sweet's post
+
+Having attended the Oxford Summer program last year, I know from
+experience that all ages, nationalities, religions are welcome and
+represented.  The age range last year was from 18 to 93, and all
+ages interacted to everyone's benefit.  Many of the students were
+retired couples who wanted to improve, learn, or use their Yiddish.
+Perhaps half of the students were younger people (undergraduate and
+graduate students 18-30) who were interested in Yiddish for their
+studies.  Regardless of age, the students interacted and learned a
+lot from each other.  I don't think anyone, of any age, would feel
+out of place.
+
+zayt gezunt
+Lisa Jenschke
+
+2)----------------------------------------------------
+Date: Tue Feb 22 11:10:04 1994
+From: Seth Wolitz <slwolitz@emx.cc.utexas.edu>
+Subject: Zachary Baker
+
+I wish to publically express my appreciation to Zachary Baker of
+Yivo for all the years of superb service he has rendered us
+Yiddishists outside of New York and when we visit his shrine. He has
+done such wonderful service in helping us track down refenerences
+and texts and sent them along speedily. His contributions to Mendele
+are always invaluable and his modesty proves he is an ISH KHESED.
+Were Yiddish Studies more populated with such sterling examples of
+living Yiddishkayt!
+
+Shmoyl Leyzer Wolitz
+
+3)----------------------------------------------------
+Date: Tue Feb 22 12:17:23 1994
+From: Martin Minow <minow@apple.com>
+Subject: re: Yiddish Text to Speech
+
+I'm one of the people who developed DECtalk (small world, isn't it).
+While there are a number of Yiddish phonemes that DECtalk doesn't
+know about (and no way to add additional phonemes to the original
+set), you could probably cobble together something that would be
+better than nothing. If nothing else, Yiddish -> Roman alphabet
+transliteration -> DECtalk would probably be minimally
+understandable.
+
+The core algorithms that DECtalk uses (The Klatt synthesizer) are
+published, and there are C implementations that run on several
+workstations. These are available on Internet. Be warned, however,
+that to go from the algorithms to a working synthesizer for a new
+language is a very difficult task (certainly worth a PhD) as you
+must essentially develop a theory of the linguistics for that
+language. You'd need a decent workstation, too.
+
+Yiddish could be a very interesting language to develop a
+text-to-speech system for since its vocabulary derives from several
+language families. It's been about ten years since I worked on
+DECtalk, but I'd be happy to try to answer any specific questions
+you might have.
+
+Martin Minow
+
+4)----------------------------------------------------
+Date: Tue Feb 22 13:26:03 1994
+From: "Heidi Lerner"    <Heidi.Lerner@Forsythe.Stanford.EDU>
+Subject: Index to Yiddish Periodicals
+
+I thought that the following might be of interest to Mendelniks.
+
+The Index to Yiddish Periodicals is available to ALEPH searchers who
+can display Hebrew characters. (ALEPH is the online catalog of five
+major Israeli universities.)  This Index is put out by  by Professor
+Abraham Nowersztern of the Yiddish Department at Hebrew University.
+
+Currently seven periodicals/newspapaers are represented in this
+Index: Idishe Vokhenblat, Haynt (Warsaw), Haynt (Ekstre oysg.),
+Haynt (Byalage), Haynt: mitog oysg., Der Moment (Warsaw), Der
+Moment: mitogblat.  Searchable indexes include author, title, and
+subject. To access the Index to Yiddish Periodicals, searchers need
+to telnet RAM1.HUJI.AC.IL.
+
+Heidi Lerner, Hebraica/Judaica Cataloger
+
+5)----------------------------------------------------
+Date: Tue Feb 22 17:57:42 1994
+From: Anatole Beck <beck@math.wisc.edu>
+Subject: Introduction
+
+I am a native speaker of Yiddish (which used to be called Jewish,
+and is still called Juif in French) and as a child took post-school
+training in the language for a few years, to the point where I can
+read and write it now, though only with difficulty.  As a professor
+of Mathematics, I learned German and the two languages interfere
+with each other in my mind, so that I speak a very juedisch German
+and a very daitschish Yiddish.  I have found Yiddish speakers all
+over Europe and even in Israel, where the language survived a
+vicious assault by Hebraists in the 30s & 40s and is now so dead
+that it can be the subject of an attempted restoration.
+
+I have been interested for some decades in the possibility of
+creating a genuine transliteration scheme which would be a
+letter-for-letter transposition rather than an attempt to
+reconstruct the sound of the language in English language
+conventions.  I am looking for something which would enable a typist
+to transcribe the language without having to be able to read it.  I
+do think that for those who do not read Hebrew, the letters are a
+major bar to learning Yiddish.
+
+I also have a small interest in Ladino, having studied Spanish in
+HS, but there seems to be even less Ladino around than Yiddish.
+
+Anatole Beck
+
+______________________________________________________
+End of Mendele Vol. 3.244
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Mendele: Yiddish literature and language
+

@@ -1,0 +1,273 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.245
+December 22, 1994
+
+1) Zhe (Rick Gildemeister)
+2) Syntax of _zhe_ (Ellen Prince)
+3) Leo Fuld's language (Rick Gildemeister)
+4) Bargoens (Marion Aptroot)
+5) Malorusish (Bob Rothstein)
+6) Barkhes (Bob Rothstein)
+7) Klezmer music (Hope Ehn)
+
+1)----------------------------------------------------
+Date: Wed, 21 Dec 1994 11:13:18 EST
+From: eeglc@cunyvm.bitnet
+Subject: Zhe
+
+I liked what Yude Rozof and Arre Komar shared with us on the little
+particle that is so important as Arre said, to soften the tone of a
+statement. In Peru, where my family hails from, we used to say "no mas".
+Pase no mas (come on in). When my father moved to Spain he quickly
+learned that it has the opposite effect and implies impatience and "get
+it over with".
+
+Anyway, this is a Yiddish list not a Spanish one. What I wanted to add to
+the discussion is the repetition of the tess found in some areas for the
+2nd person plural imperative. There is a wonderful book by Ghitta
+Sternberg issued in 1984 by Pergamon Press and called: Stefanesti:
+Portrait of a Romanian Shtetl. It's a very charming book; at one point
+Sternberg discusses songs people sang (this is not a yizkor book, but a
+scholarly ethnography put together from the author's memories). One was
+Papirosn, and the words used are: Koyftshet, koyftshet papirosn, doubling
+the tess.
+
+Herts nokh a maase. I worked with a woman who was born here; one parent
+came from a town with a name something like Berisifske; the other I don't
+recall, but both were in Lithuania. Her Yiddish was native and flawless;
+she went from kindergarten to the 12th grade in Workmen's Circle schools,
+classes in Yiddish. One "flaw" her Yiddish had was the occasional greys
+instead of groys, but that's very common. However, one day she used
+sabesdikn loshn! But only one word: z(h)e. I explained to her that it was
+zhe in the klal shprakh but she wouldn't hear of it. It was ze, not zhe,
+un fartik!
+
+Rick Gildemeister
+
+2)----------------------------------------------------
+Date: Wed, 21 Dec 1994 12:10:50 EST
+From: ellen@central.cis.upenn.edu
+Subject: syntax of _zhe_
+
+so far as i know, _zhe_ cliticizes only onto imperative verbs and
+wh-words (v-words), with one exception, _nu_ (_nu-zhe_), which can
+presumably be explained as having been borrowed in toto, alongside of
+both _nu_ and _zhe_. questions for fluent native yiddish speakers or
+linguists who've researched the topic and, for the last question, fluent
+native slavic speakers or linguists who've researched the topic:
+
+1. is this correct? is there anything else that _zhe_ can cliticize onto?
+   for example, _zhe_ seems syntactically similar to english _the hell_,
+   e.g. _get the hell out of here_, _who the hell said that?_, but the
+   latter can occur on (some!) finite verbs as well, e.g. _i got the hell
+   out of there_. can _zhe_?
+
+2. can _zhe_ occur with a 'double imperative', e.g. _gey veys_, _kumt
+   est_? and, if so, on which verb? (_kumtzhe est_? _kumt estzhe_?
+   _kumtzhe estzhe_? the first sounds a little funny to me but maybe ok
+   while the second two sound very weird but i can't trust my intuitions,
+   alas.)
+
+3. can _zhe_ cliticize onto a v-word in situ, e.g. echo questions like
+   _du host gegesn VOSZHE_?
+
+4. what about multiple v-word fronting? which v-word can get _zhe_? (e.g.
+   _zi veyst nit verzhe mit vemen es shlogt zikh_, _zi veyst nit ver mit
+   vemenzhe es shlogt zikh_, _zi veyst nit verzhe mit vemenzhe es shlogt
+   zikh_. again, the first sounds a little funny to me but maybe ok while
+   the second two off the wall, ober vos veys ikh?)
+
+5. what is the syntax of slavic _zhe_? same? different?
+
+a sheynem dank
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Wed, 21 Dec 94 13:47:11 EST
+From: eeglc@cunyvm.bitnet
+Subject: Leo Fuld's language
+
+I want to thank Marion Aptroot for her reply to my query about Leo Fuld.
+He's an important Yiddish singer -- he was faithfully played at all hours
+when WEVD had extensive Yiddish music shows.
+
+One classic song (Fuld takes all the classics and does them his way,
+almost with the plaintive voice of a little boy, which I find very
+endearing) he did was "Oyf der Sudenyu", which he pronounced as "Oyf
+de-ne-sidenyu". It is definitely not a dialect I had ever heard. The *het
+ikh* I knew existed, that it could be found in some Yiddish dialects. So
+when I heard it I knew it wasn't the German "hatte".
+
+Anyway, thanks loads, Marion.
+
+Rick Gildemeister
+
+4)----------------------------------------------------
+Date: Wed, 21 Dec 1994 15:21:08 -0500 (EST)
+From: aptroot@husc.harvard.edu
+Subject: Bargoens
+
+On Wed, 21 Dec 1994 (Vol. 4.244) Jeff Zucker wrote about _bargoens_
+[barkhUns], the Dutch thieves' language.
+
+Hartog Beem wrote a book about Dutch words of Hebrew and Yiddish origins
+entitled _Uit Mokem en de Mediene. Joodse woorden in Nederlandse
+omgeving_ ("From Mokum [the big city] and the Mediene [the small
+provincial towns and villages]. Jewish words in Dutch surroundings."
+Assen: Van Gorcum, 1974). He also includes terms of Semitic origin which
+entered the language through _bargoens_. The book includes an
+introduction in which Beem describes with the way he thought these words
+entered the Dutch language.
+
+When one looks at a Bargoens dictionary, one realises that the Semitic
+component of the thieves' language is very modest.
+
+I would like to propose an end to the discussion on the topic of thieves'
+language. This is a forum on Yiddish.
+
+Marion Aptroot
+
+5)----------------------------------------------------
+Date: Wed, 21 Dec 1994 17:46:22 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Malorusish
+
+In connection with the discussion of the term _malorusish_:  The name
+_Malorossiia_ for Ukraine has its origins in Byzantine church terminology
+of the 13th-14th century.  The Russian Tsar Aleksei Mikhailovich,
+however, seems to have begun the official state use around 1654 (after
+Ukraine joined Russia), when he designated himself ruler of "Great and
+Little Russia."
+
+_Mal/opolska_ ("Little Poland"), on the other hand, is the historical
+name for the region around Cracow, as opposed to _Wielkopolska_ ("Great
+Poland"), the region around Poznan.  The two terms are usually explained
+as mistranslations of the Latin _Minor Polonia_ and _Maior Polonia_,
+respectively, meaning "junior" and "senior" Poland (since the Polish
+state traces its origins to Wielkopolska [10th c. CE], with Cracow later
+becoming the royal capital).
+
+Bob Rothstein
+
+6)----------------------------------------------------
+Date: Wed, 21 Dec 1994 17:46:56 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Barkhes
+
+Regarding the discussion of whether _barkhes_ belongs to _milkhiks_ or
+not:  Mildred Grosberg Bellin's _The Jewish Cook Book_ (NY:  Bloch, 1944)
+has a recipe for "butter barches" and one for "barches."  The latter "are
+to be used for a meat meal and are made in the same manner as butter
+barches, omitting the milk and butter," which is to be replaced with
+"water and a little shortening of dripping or rendered fat or a vegetable
+oil."  I don't know how traditional or "authentic" the recipes are.  The
+1944 edition of the cookbook is the third printing of a 1941 revision of
+a book by the same title, which, according to the publisher, had sold
+more than a hundred thousand copies.  The author of the revision (MGB) is
+described as "a graduate of Smith College" and "the wife of a physician,"
+who "uses her own kitchen as a laboratory where she combines the
+knowledge of modern American cooking with old Jewish dishes..."
+
+Bob Rothstein
+
+7)----------------------------------------------------
+Date: Wed, 21 Dec 1994 20:14:03 +0001 (EST)
+From: ehn@world.std.com
+Subject: Klezmer Music (Derivation chart)
+
+Having made this chart at the request of a fellow musicologist, I decided
+to post it on the list for the perusal of anyone else who would find it
+useful. If you are going to print it, be sure to use a *monospace* font
+(such as "courier"), and *don't* give any "justify" commands.
+
+
+THE DEVELOPMENT OF THE KLEZMER REPERTORY
+(c) 1984, 1994 by Hope Ehn
+
+              Local
+Synagogue     Folk
+  Modes       Music
+  |   \       /   |
+  |    \     /    |
+  |     \   /     |
+  |      \ /      |
+  |   Chassidic   |
+  |  Compositions |
+  |       |       |
+  |       |       }
+ Traditional Eastern
+   European Yiddish
+   |  Folk Music
+   |       \
+   |        \
+   |         \
+   |  Early Yiddish                      Other Popular
+   |  Music Theatre                      Music of the
+   | (19th c. Europe)   Ragtime  Jazz  1920s & 1930s
+   |           |     \      \     |     /
+   |           |      \      \    |    /
+   |           |       \      \   |   /
+   |           |        \      \  |  /
+Traditional   Early      U.S. Yiddish
+  Yiddish    Yiddish      Theatre and
+   Folk      Theatre       Recording
+   Music      Music          Music
+
+
+
+This is an ASCII version of the chart printed in "The Klezmer Recorder
+Band," a collection of (untexted) arrangements of Klezmer music for four
+recorders that I published in 1984. There is also a second (untexted)
+book of similar arrangements, "The Lower East Side Recorder Band,"
+published in 1988. Both collections are still in print. For purchasing
+information, send inquiries to Von Huene Workshop,
+<vonhuene@world.std.com>. (Do *not* send credit-card numbers by E-mail;
+messages pass unencrypted through many computers.)
+
+I am presently working on two more collections of Jewish music arranged
+for recorders, with alternate parts for string quartet. "Yom Tov: The
+Jewish Holiday Songbook" will contain songs with Hebrew and/or Yiddish
+text for the Sabbath, the Festivals, and patriotic holidays. "Sefarad:
+The Ladino Song Book" will contain songs from the Ladino repertory, with
+Ladino texts. I hope to finish these books before Passover. When they are
+ready, I will announce them on this list.
+
+Hope Ehn
+
+______________________________________________________
+End of Mendele Vol. 4.245
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

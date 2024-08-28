@@ -1,0 +1,241 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.339
+May 1, 1994
+
+1) Western Yiddish (Leah Zazulyer)
+2) Western Yiddish (Marion Aptroot)
+3) Yiddish /R/ in Russian (Arn Abramson)
+4) Introduction (David Zelitch)
+5) Zhid and zhidlen (Paul Ritterband)
+6) "Fritshunes"? (Shleyme Axelrod)
+7) Kortn (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Fri Apr 29 20:29:35 1994
+From: WATSON@UNO.CC.GENESEO.EDU
+Subject: "Western Yiddish"
+
+An excellent resource person would be Professor Astrid Starck at 12 rue
+de l'ours, E68100 Mulhouse, France.  Phone:  ;85-32-2885.  Deeply
+involved in Alsastian Yiddish, etc.
+
+Leah Zazulyer
+
+2)----------------------------------------------------
+Date: Sun May  1 00:27:20 1994
+From: aptroot@husc.harvard.edu
+Subject: Western Yiddish
+
+In reply to Yude Rozof's questions on Mendele 3.337.
+
+Yude Rozof's proposal to include Western Yiddish into the Yiddish family
+since "the language of the Ashkenazim may be viewed as an East-West
+continuum" is well intentioned, but makes the Western Ashkenazi raise his
+(her) eyebrows. For centuries we've known that our eastern brothers and
+sisters spoke the same language as we did, and we exported Yiddish books
+to them. This worked rather well because of the West-East (!) continuum.
+The standard literary language was based on Western Yiddish and
+differences in pronunciation were masked by a standard orthography wich
+did not reflect the dialectal differences.
+
+Except for those who insisted that Jews in the German lands spoke perfect
+German, and that the language was "corrupted" in the East by Polish Jews,
+scholars have always thought that Yiddish was one language, divided into
+dialects. The two main dialects are Western and Eastern Yiddish. The
+boundary between the two is defined according to the isogloss a:24/44 (a:
+is a long a). The numbers refer to a system devised by Max Weinreich and
+represent hypothetical vowels in proto Yiddish which I can't transcribe
+properly without the phonetic alphabet, but I'll try: vowel 24 or E4
+refers to *ej (shwa-j). Vowel 44 or O4 refers to proto Yiddish *ou (open
+o-u). a:24/44 means that speakers of Western Yiddish say _ka:fn_ and
+_fla:sh_ (Standard Yiddish _koyfn_ and _fleysh_).
+
+There are also lexical boundaries between East and West, e.g.
+_davnen/orn_ 'pray' and _sider/tfile_ 'prayer book'
+
+Yiddish in Germany was identified as a separate language from
+coterritorial German by the first Christian scholars who devoted
+attention to the language of the Jews, e.g. Johann Buxtorf the Elder in
+his _Thesaurus Grammaticus Linguae Stanctae Hebraeae_ (1609). He is the
+first in a line of speakers of German whose interest in the languae of
+the Jews led them to do serious research into Yiddish.
+
+Since the beginning of this century much has been written about Western
+Yiddish and once the complete Language and Culture Atlas of Ashkenazic
+Jewry is published, we will all be able to have a better insight into the
+distribution of the dialects. Untile then, it might be interesting to
+have a look Beranek's language atlas (Westjiddischer Sprachatlas, 1965)
+although that book has serious flaws, or read some of the many articles
+about Western Yiddish dialectology, e.g. Florence Guggenheim-Gruenberg
+and Johannes Brosi on Yiddish in Switzerland, Richard Zuckerman on
+Alsatian Yiddish, Hans-Peter Althaus and Ulrike Kiefer on Yiddish in
+Germany, Hartog Beem on Dutch Yiddish, and Uriel Weinreich, Paul Garvin,
+C.J. Hutterer, and Pavel Trost on Yiddish in Hungary and Czechoslovakia
+(and others I can't think of at the moment - my apologies, this is not a
+reflection on their work but on my memory at this late hour). And then
+there are studies on the dialectology of pre-modern Western Yiddish...
+
+There are also some overview articles on Yiddish dialectology which pay
+attention to Western Yiddish, from Uriel Weinreich's brief and clear
+remarks in his article "Yiddish Language" in the _Encyclopedia Judaica_
+to Dovid Katz's "Zur Dialektologie des Jiddischen" in Werner Besch a.o.,
+eds., _Dialektologie_ (1983).
+
+P.S. Yes, the Western Yiddish verb did have a preterite.
+
+Marion Aptroot
+
+3)----------------------------------------------------
+Date: Fri Apr 29 22:45:42 1994
+From: ABRAMSON@UConnVM.UConn.Edu
+Subject: Yiddish /R/ in Russian
+
+To: "V.U. Novick" <mendele@YaleVM.YCC.Yale.Edu>
+
+Varna, Your explanation is surely right. It is notorious among Russians
+of a certain generation that Jews use a Yiddish /R/ (probably uvular) in
+their Russian, yet, as you say, there are those who don't. The "genetic"
+explanation is, if I may say so, just silly.
+
+Arn Abramson
+
+4)----------------------------------------------------
+Date: Fri Apr 29 23:04:47 1994
+From: TBMP@delphi.com
+Subject: Introduction
+
+I am the last generation to have spent my youth in Philadelphia,
+conversing with my parents in Yiddish, reading the Yiddish daily papers
+and listening to the nightly news in Yiddish.
+
+Just a few weeks ago I attended a concert featuring the son of the old
+Yiddish Theatre actor, Jules Adler. It was a delight for me, but when he
+asked for a show of hands of those who understood Yiddish, no one under
+65 raised their hand.
+
+I look forward to sharing the Joy of Yiddish with you.
+
+David Zelitch
+
+5)----------------------------------------------------
+Date: Fri Apr 29 23:17:41 1994
+From: uap@cunyvms1.gc.cuny.edu
+Subject: zhid and zhidlen
+
+I recently came across the word 'zhidlen' which Weinreich renders as to
+curse or to call names. Does this in turn come from 'zhid'? As a
+derivative question, it seems that zhid is a perfectly respectable word
+for Jew in Polish but is essentially 'kike' in Russian usage where the
+preferred polite term is 'ivrey'.
+
+Questions? Why would Yiddish adopt an insulting term for Jews if in fact
+zhidlen is negative and derived from Russian use of the word?
+
+Why is zhid respectable in Polish, where it seems to have been invented
+but insulting in Russian?
+
+Is this a general pattern of Russian borrowing from Polish such that
+words take on very different nuance once borrowed?  Are there other
+instances of the same phenomenon?
+
+Paul Ritterband
+
+6)----------------------------------------------------
+Date: Sat Apr 30 14:06:55 1994
+From: PTYAXEL@ubvms.cc.buffalo.edu
+Subject: "fritshunes"?
+
+I have been asked to translate a handwritten letter dated January 26,
+1958 from a woman in the Soviet Union (perhaps near Minsk) to her sister
+in the US. After noting that she hasn't written in 10 years, she writes
+"Nor ikh gleyb az du vest mistame farshteyn az s'iz given alerley
+FRITShUNES velkhe hobn nisht gigebn di meglekhkayt shraybn.  Nor yetst iz
+gekumen di tsayt vider zikh farbinden tsvishn zikh als fraynt."  Can
+someone help with "fritshunes"?  I can't find it in either Harkavy or
+Weinreich.  (Either of the first two vowels could be yud or vov, and I
+suppose the first letter could be pey rather than fey.)
+
+A dank.
+
+--Shleyme Axelrod
+
+7)----------------------------------------------------
+Date: Fri Apr 29 12:41:47 1994
+From: nmiller@mail.trincoll.edu
+Subject: Kortn
+
+Many thanks to Odem Vaytman for his query about card names.  His
+reference to 'pik' (spade) led me to the dictionaries because we used
+'shippe' at home.  Not found in Weinreich but Harkavy gives it as
+'shiffe' (a typo?) and Stutchkoff says 'shippe' (cf. ModG Schippe).
+
+Ober dos iz in gantsn nisht oysn.  Odem's question got me to open
+Stutchkoff zikhroynoy l'brokhe.  To open S. is to open a world.  There's
+no better way of disabusing those whose notion of east European Jews is
+limited to shuls and shul-going than to read even a portion of the
+Yiddish words and terms for cards and card-playing.
+
+I was trained to believe that Richard Lee Whorf was right, though I
+learn that the current wisdom is that he was wrong.  Maybe if he had
+concentrated on Yiddish instead of Eskimo languages things would have
+worked out differently.  He couldn't have of course because the library
+he used, now at Trinity, didn't then and doesn't now have a Yiddish
+collection.
+
+Anyway, given the lively discussion about Hebrew and Yiddish in recent
+numbers of Mendele here are some that ought not be overlooked in any
+reshime.  My guesses, not definitions, are in parentheses.  Please
+correct as necessary.
+
+hilchos-kortn
+kortn-shas
+godel tseve (trump)
+shney zeysim
+shrage (full house)
+zogn tikn (play late into the night)
+provn khatzes (ditto)
+mbulbul zayn (shuffle)
+magbie zayn (cut the deck)
+makke zayn
+aroysgen b'kharboy ub'kashtoy
+tseyln sfire (count sevens)
+vayhi erev vayhi poyker
+eyn khokhme v'eyn tvune kneged shlekhte kortn
+
+Finally one that isn't Hebrew but which I couldn't resist:
+
+Ludmer (Ludmirer) moyd (queen of diamonds)
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 3.339
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

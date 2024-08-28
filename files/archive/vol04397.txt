@@ -1,0 +1,246 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.397
+April 25, 1995
+
+1) Hotsmakh (Dovid Braun)
+2) Hotsmakh (Zachary Baker)
+3) Hotsmakh (Hershl Hartman)
+4) Peti-meti (Ellen Prince)
+5) Moyshe Oysher (Renee Miller)
+
+1)----------------------------------------------------
+Date: Fri, 21 Apr 1995 21:37:48 EDT
+From: dovid@mit.edu
+Subject: Hotsmakh
+
+Another form of the name _hotsmakh_ is _yotsmakh_, I think.  I'd check
+Stutshkov's thesaurus under _naronim_ and/or _mumim_ if I had it handy.
+Why _mumim_ (if that is indeed a category there)?  I think h/yotsmakh is
+a name of derision for blind people, e.g. _a blinder hotsmakh_ (people
+who grew up in a Yiddish speech community might be able to enlighten us).
+I think also that the "hotsmakh iz a blinder" song in Goldfaden existed
+before Goldfaden, i.e. was a part of children's folklore, possibly a
+children's circle dance where one child is blindfolded and danced around,
+or something like that. Maybe Bob Rothstein (sorry to put the burden on
+you, Bob) will find this blind hotsmakh character in the children's
+folklore sections of the standard Yiddish folklore collections.
+
+I recorded from my grandmother, oleyoasholem, a Hebrew version of this
+game/dance, which, as I understand it, she was taught in her shtetl's
+Hebrew-language school (Beys Seyfer Amomi of the town Sukhovolye, between
+Grodno and Bialystok, in the late 1910's-early 1920's -- where the
+education was in "pre-modern Modern Hebrew" with slightly "modernized"
+Ashkenazic pronunciation, with khoylem-vov pronounced not /oy/ or /ey/
+but /ow/).  It has the same melody as the dance/game performed in
+Goldfaden's play in Yiddish:
+
+	Hebrew				English translation
+loiveyr eyn eynayim		the blind man has no eyes
+memasheysh bayodayim		gropes with his hands
+<line missing>
+vekowrey hu es bnow		and calls his son
+
+ayeko bni?			"Where are you my son?
+ayeko bni?			Where are you my son?"
+hineyni ovi			"Here I am my father,
+hineyni ovi			Here I am my father."
+
+I don't think hotsmakh/yotsmakh is related to _hots mir (a gutn) un zayts
+mir (gezunt)_ because the pronoun in this instance is _mir_ (dative), not
+_mikh_ (accusative).  This is known as the _ethical *dative*_.  Yiddish
+doesn't have an "ethical accusative" [though beginning students might
+find that it has an "immoral genitive" and a "despicable nominative" ;-)
+].  But perhaps the ethical dative actually did take the mikh/dikh forms
+earlier in the history of Yiddish.  Teyku.
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: Sat, 22 Apr 95 13:51:35 PDT
+From: bm.yib@rlg.stanford.edu
+Subject: Hotsmakh; Gefarfl
+
+I generally refrain from speculating about the derivation of a Yiddish
+word or expression, knowing how brittle the limb that one climbs out on
+can be.  Regarding "Hotsmakh" (the famous Goldfaden character), though,
+I've often been struck by the coincidence between his name and a word in
+the "Avinu malkenu" prayer that is recited on Yom Kippur:
+
+     Avinu malkenu, hatsma.h lanu yeshu'ah be-karov.
+     Our Father, our King, cause our salvation soon to flourish
+     [Philip Birnbaum's translation].
+
+The Hebrew verb "hatsma.h" (with a pata.h) means "cause to flourish" and
+derives from the root "tsema.h" = "plant," "sprout," "grow." Could
+Goldfaden have had the solemn "Avinu malkenu" prayer in mind when he
+created this rather whimsical character?  Or perhaps Perl Teitelbaum is
+closer to the mark when she points to the line "Hotsmekh a gitn yontef"
+("Have a happy holiday, now") as the inspiration for the name?  Could
+both theories be correct?
+
+Awhile back I received a phone call from a fact-checker at a prominent
+metropolitan daily newspaper (which shall remain nameless). In an article
+that she was editing she came across the (supposedly) Yiddish word
+"gefarfl," meaning (the noun) "to-do."  (As in "There was a real to-do
+over the incident.")  The best that I could come up with was that
+"gefarfl" derived from or was related to the English "kerfuffle."  I'd be
+interested to hear if any MENDELnikes are familiar with "gefarfl," its
+usage and derivation.  (Feel free to step out on a limb...)
+
+Zachary Baker
+
+3)----------------------------------------------------
+Date: Mon, 24 Apr 1995 13:18:54 -0400
+From: hershl@aol.com
+Subject: Goldfadn's Hotzmekh
+
+Following is my translation of Act 2, Scene 8 of Avrom Goldfadn's "dee
+kishefmakherin" in which Hotzmekh made his memorable entrance on the
+Yiddish stage. The original text appears in I. Goldberg, "un(d)zer
+dramaturgie," 1961, NY, Ykuf Farlag, pp. 114-115. The translation was
+commissioned by Sabell Bender for use in her workshops on Yiddish
+theatre. (Are there any theatrical geneologists out there who can trace
+the apparent direct line from Hotzmekh to Groucho to Phil Silver's "Sgt.
+Bilko"? Or from the Little Girl to Fannie Brice's "Baby Snooks"? s'volt
+geven take tchikave.)
+
+Act 2, Scene 8--Hotzmekh comes into the market square
+
+Hotzmekh (starts shouting from backstage before entering):
+
+Notions! Notions! Garters of glass, spectacles of rubber, steel
+suspenders, pins of leather, kosher soaps, non-kosher purses,
+neither-meat-nor-dairy knives, red envelopes, white sealing wax, little
+combs, little brushes, little buttons, shirt studs-- buy them cheaply,
+honestly, I tell you in all seriousness, whover wants--
+
+Little Girl: Hotzmekh, do you have English needles?
+
+Hotzmekh: English and then some-they don't speak a single word of French!
+And just how many do you need, little girl?
+
+Little Girl: A gross of needles.
+
+Hotzmekh: A gross? That quantity deserves an even lower price. (He sets
+down his pack and  unties it.)
+
+Little Girl: How dear are your needles?
+
+Hotzmekh: Not dear. 30 kopeks.
+
+Little Girl: 30 kopeks? So dear?
+
+Hotzmekh: May I live as long enough to return home to my wife and many
+children as I myself paid more for them, but in honor of the sabbath, I'm
+willing to give them to you for less.
+
+Little Girl: It's too dear. I will pay you only 20 kopeks.
+
+Hotzmekh: Such a little girl, but still big enough to haggle over the
+price. Here, I'll let you have them for 25 kopeks and put out your pretty
+little hand so I can count them out for you. (Takes needles from a box
+and counts them into her hand.) 1, 2, 3, 4, 5, 6xtell me, little girl,
+just how old are you exactly to be so good at haggling?
+
+Little Girl: I am 13 years old.
+
+Hotzmekh: That so? Do tell! 13, 14, 15, 16, 17, 18, 19, 20xand how old
+might your father be, long life to him? You think I don't know him, that
+red-headed thief, how old has he gotten to be?
+
+Little Girl: My father is about 35 years old.
+
+Hotzmekh: Isn't she a dickens, I ask you? First she fudged her age and
+now she's trying to fool with her father's age, too. Her father, she
+says, is about 35. That's okay, you can't fool me that easily. I happen
+to know that your father is easily around 40, you hear? 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50. Looking at me, little girl, just how old
+would you say I happen to be, taking into account my little beard and
+all, hah?
+
+Little Girl: How would I know? About 40, I'd guess.
+
+Hotzmekh: (Laughing.) 40 she says! I'm just a little bit closer to 60.
+Yes, yesx61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73. (Sighing)
+Oy, oy, oy, would that both of us would live as long as my zeyde. I had a
+grandfather, may he rest in peace, who lived to the ripe old age of 125!
+It's true, it's true! 125, 126, 127 (he counts up to 144). Look at that,
+little girl! There are five needles left. You can have them--I won't
+charge you anything extra for them. Is that fair? Herexand now give me
+the money and hurry on home. And make sure you don't lose any, or your
+mother might say that I didn't give you an honest count! (She pays him
+and exits.)
+
+Hershl Hartman
+
+4)----------------------------------------------------
+Date: Fri, 21 Apr 1995 23:07:27 EDT
+From: ellen@central.cis.upenn.edu
+Subject: Peti-meti
+
+here's one more trivia bit to add to the mystery of _peti-meti_. there is
+a song recorded by sarah gorby entitled _a bokher a hultay_, by kulbak i
+think. gorby's rendition, at least, includes the following code-switched
+lines:
+
+kumt tsu mir a poyer tsu, 'shto tshuvatsh, na sv'et'i?'
+entfer ikh un gib a bray, 'sv'et'i--p'et'im'et'i!'
+
+...'what's new/vos hert zikh, in the world?'
+...'the world--no big deal!'
+
+when i was transcribing it, i asked a russian speaker to translate the
+russian dialog and his translation for _peti-meti_ was 'no big deal,
+small potatoes'. he added that it's from french _petits-mets_. of course,
+i have no idea if this is correct or if it means the same thing in
+yiddish that it does in russian.
+
+ellen prince
+
+5)----------------------------------------------------
+Date: Sun, 23 Apr 1995 20:29:14 -0700 (PDT)
+From: remiller@netcom.com
+Subject: Moyshe Oysher
+
+Rick Gildermeister mentioned the other day that Moyshe Oysher may have
+come from Kishinev in Bessarabia. My late mother -in-law used to say that
+Moyshe Oysher was from her home towm which was Lipcon, Bessarabia.
+
+Renee Miller
+
+______________________________________________________
+End of Mendele Vol. 4.397
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

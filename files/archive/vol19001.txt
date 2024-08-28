@@ -1,0 +1,234 @@
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 19.001
+May 15, 2009
+
+[Moderator's note: haynt vert Mendele alt 19 yor!]
+
+1) Lyrics to Holocaust songs sought (Francine Perlman)
+2) Lyrics to Holocaust songs sought (Harriet Weinstein)
+3) Lyrics to Holocaust songs sought (Bob Rothstein)
+4) Zionist group s"s (Jack Berger)
+5) Zionist group s"s (Gerry Yankl Kane)
+6) Oyberland, oyberland (Perets Mett)
+7) Yiddish OCR (Refoyl Finkel)
+
+1)----------------------------------------------------
+Date: May 19, 2009
+Subject: Lyrics to Holocaust songs sought
+
+In reply to the April 17 request for lyrics to Holocaust songs sought by 
+Joseph Tolz:
+
+Here are lyrics sung by Mark Levy on his album, "Bin Ikh Mir a Shnayderl, 
+Yiddish Work Songs."
+
+>From the notes enclosed with the CD:
+
+"To close, we have a song by the beloved composer off 'Oifn Pripichik', 
+which hails the colonists who have come to Palestine to work their own 
+fields and build a new life with hope for a better future.
+
+Groyser got, mir zingen lider -
+undser hilf bistu aleyn.
+Nem tsunoyf di snopes, brider,
+bis di zun vet untergeyn.
+
+Loz di zun unds brien, brotn -
+zi hot unds geshaynt fun glik.
+Zet, dos broyt iz unds gerotn.
+Kinder, keynmol nit tsurik!
+
+Lozn undsere kinder visn
+fun a lebn oyf der velt,
+as dos broyt un yeder bisn
+iz fun undser eygn feld."
+
+Francine Perlman
+
+2)----------------------------------------------------
+Date: May 5
+Subject: Lyrics to Holocaust songs sought
+
+groyser got, mir zingen lider
+undzer hilf bistu aleyn!
+nemt tsunoyf di snopes, brider,
+biz di zun vet untergeyn!
+
+loz di zun undz brenen, brotn,
+zi hot undz geshaynt tsum glik;
+zet, dos broyt iz undz gerotn,
+kinder, keyn mol nit tsurik!
+
+groyser got, du helfst dem mentshn,
+ven er ruft tsu dir in noyt,
+zolst undz vayter take bentshn
+mit hatslokhe un mit broyt!
+
+nemt tsunoyf aykh ale in eynem,
+nakhes hobn mir shoyn fil,
+un dem goldenem krants dem sheynem
+fun di zangen trogt in shul!
+
+lozn undzere kinder visn
+fun a lebn oyf der velt,
+az dos broyt un yeder bisn
+iz fun undzer eygn feld.
+http://zemerl.com/cgi-bin//show.pl?title=Dos+Lid+Fun+Dem+Broyt
+
+I hope this helps.
+
+Best wishes,
+Harriet Weinstein
+
+3)----------------------------------------------------
+Date: May 4
+Subject: Lyrics to Holocaust songs sought
+
+Joseph Toltz asked in MENDELE 18.26 about "a Zionist song composed in 
+Yiddish, and sung before the war in Poland [...] to the tune of the 
+well-known Russian song 'Volga, Volga'." The first two lines he quoted 
+(but not the second two) are from Mark Warshawsky's  "Dos lid fun broyt," 
+which he dedicated to "di yidishe kolonistn tsu zingen in feld nokh der 
+arbet." Chana Mlotek published the melody and three stanzas of the song in 
+her collection "Mir trogn a gezang." The text published in the Buenos 
+Aires Musterverk edition of Warshawsky's songs contains six stanzas; the 
+sixth repeats the first.The last two lines of each stanza are repeated. 
+The melody in both editions is similar but not identical to that of 
+"Sten'ka Razin" ("Volga, Volga"). Here is the Musterverk version:
+
+Groyser got, mir zingen lider -
+undzer hilf bist du aleyn -
+nemt tsunoyf di snopes, brider,
+biz di zun vet untergeyn.
+
+Loz di zun undz brien, brotn,
+zi hot undz geshaynt tsum glik;
+zet, dos broyt iz undz gerotn -
+kinder, keyn mol nit tsurik!...
+
+Groyser got, du helfst dem mentshn,
+az er ruft tsu dir in noyt -
+zolst undz vayter take bentshn
+mit hatslokhe un mit broyt!
+
+Nemt tsunoyf aykh ale in eynem,
+nakhes hobn mir shoyn fil,
+un dem goldenem krants, dem sheynem,
+fun di zangen trogt in shil.
+
+Lozn undzere kinder visn
+fun a lebn af der velt,
+az dos broyt un yeder bisn
+iz fun undzer eygn feld.
+
+Groyser got, mir zingen lider...
+
+Bob Rothstein
+
+4)----------------------------------------------------
+Date:  May 5
+Subject:  Zionist group s"s
+
+See http://en.wikipedia.org/wiki/Zionist_Socialist_Workers_Party
+
+It is the Zionist Socialist Workers Party by its Russian initials.
+
+Jack Berger
+
+5)----------------------------------------------------
+Date:  May 5
+Subject: Zionist group s"s
+
+The left wing Zionist group Mark Fromowitz is asking about was the Zionist 
+Socialist Workers' party.  They were positioned between the Bund and the 
+Zionists.  They were close to the position of Syrkin.
+
+Barry Trachtenberg's book, "The Revolutionary Roots of Modern Yiddish, 
+1903-1917," is an excellent exposition of the revolutionary politics that 
+surrounded the development of Yidishe visnshaft.
+
+Gerry Yankl Kane
+
+6)----------------------------------------------------
+Date:  May 14
+Subject: oyberland, unterland
+
+Does anyone know what the terms "oyberland" and "unterland" mean in terms 
+of Hungary i.e. which parts of Hungary do they refer to?
+
+Perets Mett
+
+7)----------------------------------------------------
+Date: May 8
+Subject: Yiddish OCR
+
+You can now find two texts in UTF-8 that I have generated using my OCR 
+(optical character recognition) program on TIFF images from the National 
+Yiddish Book Center:
+
+ 	http://www.cs.uky.edu/~raphael/yiddish/yingele_ringele.utf8.html
+ 	http://www.cs.uky.edu/~raphael/yiddish/motl_peysi.utf8.html
+
+I do not know the copyright status of this material.
+
+I put a lot more work into the first text than the second, cleaning 
+theTIFF images and looking through the output (using Vim and my spelling 
+list) to fix obvious errors.
+For the second, I just used my program interactively on a few sample 
+pages, added information on some letters that the program was not 
+interpreting correctly, and then ran the program in batch mode on the 
+whole text.
+
+My program doesn't do well at all with (1) letters that are joined (that 
+is, there is no vertical clear space separating them), (2) pages that are 
+askew to the point that no horizontal clear space separates lines, (3) 
+graphics that prevent it from separating lines, (4) flaws that introduce 
+clear space in the middle of a letter.  With effort, I think I can fix 
+some of these flaws.
+
+This effort is a proof of concept, not an attempt to construct perfect 
+texts.
+
+My OCR software is available under the Gnu General Public License. If you 
+want to play with it, just contact me.  If there is another text you would 
+like me to try OCR on, that would be helpful as well.  One nice thing 
+about these two texts is that the printing is very clear.
+
+Refoyl Finkel
+______________________________________________________
+End of Mendele Vol. 19.001
+
+Please do not use the "reply" key when writing to Mendele. Instead, direct 
+your mail as follows:
+
+Material for Mendele Personal Notices & Announcements, i.e. announcements 
+of events, commercial publications, etc., always in plain text (no HTML or 
+the like) to:
+
+    victor.bers at yale.edu (in the subject line write Mendele Personal)
+
+Material for postings to Mendele Yiddish literature and language, i.e. 
+inquiries and comments of a non-commercial or publicity nature:
+
+     mendele at mailman.yale.edu
+
+IMPORTANT:  Please include your full name as you would like it to appear 
+in your posting.  No posting will appear without its author's name. 
+Submissions to regular Mendele should not include personal email 
+addresses, as responses will be posted for all to read.
+
+In order to spare the shamosim time and effort, we request that 
+contributors adhere, when applicable, as closely as possible to standard 
+English punctuation, grammar, etc. and to the YIVO rules of 
+transliteration into Latin letters. A guide to Romanization can be found 
+at this site: http://www.yivoinstitute.org/about/index.php?tid=57&aid=275
+
+All other messages should be sent to the shamosim at this address:
+mendele at mailman.yale.edu
+
+Mendele on the web: http://shakti.trincoll.edu/~mendele/index.htm
+
+To join or leave the list: 
+http://mailman.yale.edu/mailman/listinfo/mendele

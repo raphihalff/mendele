@@ -1,0 +1,196 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.415
+May 10, 1995
+
+1) Introduction (Murray Kastner)
+2) Yiddish software (Stan Schwartz)
+3) Genendel (Elliot D. Lasson)
+4) Does German mies come from Yiddish? (Louis Fridhandler)
+5) Alfons (Michael Steinlauf)
+6) Hotsmakh (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Wed, 10 May 1995 08:13:14 -0500
+From: kastner@cam.org
+Subject: Introduction
+
+As a child, I went to the Lubavitcher yeshiva for my first six years of
+schooling. At the time, in the forties, Hebrew was reserved for davening
+and for holy studies. Yiddish was taught as the language of business and
+the street. But my yiddish has fallen into disuse, for obvious reasons. I
+even had to learn a completely different Hebrew when I lived for a short
+time in Israel. Therefore I was very happy to find Mendele, as it gives
+me the opportunity to once again read yiddish. I especially love the
+little poems, stories and jokes ( got a lot of mileage out of the Ex-Lax
+jingles, I can tell ya!)
+
+I look forward to each digest of Mendele, and will try and contribute at
+some point. (I am even thinking of the week in the Berkshires!)
+
+Murray Kastner
+
+2)----------------------------------------------------
+Date: Tue, 9 May 1995 07:21:39 -0700 (PDT)
+From: schwartz@cts.com
+Subject: Yiddish Software
+Can anyone suggest or recommend Yiddish software for the Mac?
+
+Stan Schwartz
+
+3)----------------------------------------------------
+Date: Tue, 09 May 1995 17:27:40 EDT
+From: elasson@moe.morgan.edu
+Subject: Meaning and Origin of Yiddish name "Genendel"
+
+I am wondering if anyone knows of an ond Yiddish name, Genendel. Does it
+have a translation into Hebrew or English?  What are its origins.?  My
+research has found that the name Genendel may be a contraction of Gendel
+and Nend(t)el.  Is there any translation for these names individually.
+
+Any help would be appreciated.  Please respond by private note as I am
+not a regular on this list.
+
+Elliot D. Lasson
+
+4)----------------------------------------------------
+Date: Tue, 9 May 1995 20:09:50 -0400
+From: lfridhan@aol.com
+Subject: Does German mies come from Yiddish?
+
+My citation of a confusion of *mise* in *mise meshune* with *mise* in
+*mise zakh* (4.412, 4) led to a discussion with Ellen Prince (direct
+E-mail).  In *mise meshune* mise means death, and is from Hebrew.  In
+*mise zakh* mise means ugly, and I thought it comes from German *mies.*
+Ellen suggested it was the other way around, that I had it moyshe
+kapoyer.  She suggested that the German word, mies, came from Yiddish;
+and that the Yiddish word, mis, came from Hebrew.  Now I wonder if the
+Yiddish word for ugly comes from the Hebrew, ma-US (loathsome).  Ver
+veyst?
+
+Ellen meynt az Mikhl Herzog ken es mistome klor makhn.  Oyb er hert vet
+er zikh efsher onrufn.
+
+Louis Fridhandler
+
+5)----------------------------------------------------
+Date: Tue, 09 May 1995 21:44:44 -0500 (EST)
+From: m_steinlauf@acad.fandm.edu
+Subject: alfons
+
+To one of Joseph Sherman's recent queries: an alfons (in Yiddish, Polish
+and probably some other languages too) is a pimp.
+
+Michael Steinlauf
+
+[Virtually identical messages on this score have been received from
+Iosif Vaisman, Dovid Braun and Moyshe Taube. nm]
+
+6)----------------------------------------------------
+Date: Tue, 09 May 1995 22:31:55 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: Hotsmakh (cont.)
+
+I'm sorry to disillusion Dovid Braun about my research skills, but I've
+been unable to satisfy his hope that I might be able to find a children's
+game song about a blind Hotsmakh in one of the standard folklore
+collections (4.397).  I did, however find descriptions of children's
+games with blindfolding in the two major sources (that I'm aware of) on
+Jewish children's games: Shmuel Lehman's "Di kinder-velt," in the
+collection _Bay unz yuden [sic]_ (Warsaw, 1923), and Regina
+Lilientalowa's _Dziecko zydowskie_ [_The Jewish Child_] (Cracow, 1927).
+
+Lilientalowa describes a game called "farblendenish" or "blendenish-shpil
+blinde ku," in which a blindfolded player tries to catch one of his or
+her fleeing playmates.  (She writes that both boys and girls play this
+game, but usually separately.) Before the game begins the following
+dialog takes place, with the blindfolded player answering:
+
+		"On what are you standing?"
+		"On a barrel."
+		"What are you drinking?"
+		"Apple kvas."
+		"What are you eating?"
+		"A bagel."
+		"Catch the bird!"
+
+Lilientalowa gives the text in Polish, but points out in a footnote that
+the original is rhymed:  fas/kvas, baygl/faygl.
+
+Lehman quotes a similar text from Cherkasy, near Kiev:
+
+		"Oyf vos shteystu?"
+		"Oyf a fass."
+		"Vos trinkstu?"
+		"A glezele kvas."
+		"Veme's hendelekh geyen arum ibern hoyf?"
+		"Mayne."
+		"Az du vest zey koyln, vestu mir oykh gebn?"
+		"A make."
+		"To khap zhe mikh take."
+
+The Warsaw version of the game is called, according to Lehman,
+"shlepa-baba" (from Polish "slepa baba" [blind old woman]). He also
+quotes other names:  "blindenish"/"blindzenish," "farblendenish,"
+"blinde hener," "zhmurke," "blindzekayt," "blinde-ku," "blinde keytsh."
+His Warsaw introductory dialog is a little earthier than Lilientalowa's:
+
+		"Babele, babele, vu geystu?"
+		"Nokh fish."
+		"Zets dikh anider un pish."
+
+		"Babele, babele, vu geystu?"
+		"Nokh rayz."
+		"Zets dikh anider un shays."
+
+		"Babele, babele, vu geystu?"
+		"Nokh puter kukhn."
+		"Gey dayne kinderlekh zukhn."
+
+		"Babele, babele, vifil kinderlekh hostu?"
+		"Tseyn."
+		"Gey ale kinderlekh zeyn."
+
+In an earlier version of her work (1904), incidentally, Lilientalowa
+describes a string game "koleczko-lozeczko" ["circle-bed"], which Alfred
+Landau interpreted (in his German translation [1908]) as "etl-betl."  She
+names the following figures:  "bed," "cake" ("piernik," Landau:
+"lekakh") or "moon," "water," "cradle," "cake" again, "mirror," "saw."
+
+Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol. 4.415
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

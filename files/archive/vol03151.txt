@@ -1,0 +1,132 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.151
+December 2, 1993
+
+1) Sch and sh (Rick Turkel)
+2) Yiddish on TV & in Academe (Regina Igel)
+3) Yiddish word order (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Wed Dec  1 13:40:15 1993
+From: rmt51@cas.org
+Subject: sch and sh
+
+Meylekh Viswanath writes in 3.149:
+
+>I know of one place this side of Korea, where 'sh' is not pronounced
+>as in YIVO transcription.  In Czech, e.g., 'na shledanou' means
+>something like 'goodbye.'  The 'shl' combination in the beginning is
+>pronounced as an 's' sound followed by an 'h' sound followed by an
+>'l.'
+
+A similar situation exists in Serbocroatian.  The initial consonant
+cluster in the word "shvatiti" (to grasp; to understand) is
+pronounced as three separate sounds, with the "h" pronounced like a
+Yemenite khes (although in rapid speech it is essentially elided).
+Several other Slavic languages that use the Latin alphabet (i.e.,
+Slovak, Slovenian and probably Polish, too) have similar clusters.
+
+In the absence of the appropriate diacritical marks in ASCII, we
+seem to be stuck with 'sh' - nowadays, unfortunately, there aren't
+too many people interested in Yiddish remaining in Eastern Europe
+who will be confused by our YIVO usage.  Like many of our other
+correspondents, I find 'sch' too taytshmerish for my taste.
+
+Rick Turkel
+
+2)----------------------------------------------------
+Date: Wed Dec  1 14:01:20 1993
+From: Regina_IGEL@umail.umd.edu (ri1)
+Subject: Yiddish words on TV & Academe
+
+I should like to share with you two instances where a Yiddish word
+was used, which surprised/pleased me. I should also say that I am
+Jewish from Latin AMerica (Brazil), where Yiddish is rarely heard
+outside Jewish circles. (There are exceptions, like "bad names" that
+one usually learns from friends, and mostly, among men -- but this
+is another subject.)
+
+I heard the word Mentsch (pardon for the spelling all of you YIVO
+followers) in a TV program (Katie Lee and Rick, or it is the
+opposite order), spoken by the very nice, handsome and talented
+Latin AMerican actor, Raul Julia. He was explaining how he found
+peace/spiritual strenght with an Indian guru. In his anxiety to
+properly describe the man, he exploded:" A guru who was a real
+mensch!" He repeated the qualification more than twice.
+
+The other occasion was during a very solemn convocation ceremony
+held every year in my campus (University of Maryland). The keynote
+speaker was Prof. Tobin, from the English Department, who is also
+the President of the Senate. He is Jewish. He started his speech
+(more or less) like this: "In my predecessors' culture there is a
+word that describes the atmosphere that we all share today: the word
+is 'naches' (I do not attempt to reproduce his words here; they are
+packed in my memory. What is very salient is the word "naches"). He
+proceeded by explaining what means "naches" in Yiddish.
+
+After the ceremony (that lasted one hour, with other speeches and
+delivery of medals, awards, a musical interlude and so on), we had a
+reception, when I approached Dr. Tobin and told him how happy I was
+to have heard that word within a non-Jewish public. He appreciated
+my observation.
+
+I hope that I did not bore you with my enthusiasm. For me these
+things are kind of new. I wished that I could come to Brazil and use
+some Yiddish words... in my conversation with my non-Jews friends
+and colleagues. This culture allows it to be done. This is enviable.
+
+Thanks for your eyes.
+
+Regina Igel
+
+3)----------------------------------------------------
+Date: Wed Dec  1 14:12:28 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: yiddish word order
+
+to jason berman:
+
+the subject of yiddish word order is extremely interesting. to my
+mind, the question is not why is the discussion is lasting so long
+but why it is making so little progress. i will repeat my plea: look
+at actual yiddish discourse as produced naturally by native speakers
+and see whether the neat little 'rules' you believe exist actually
+do. (either oral or written will do; just make sure you are using
+speakers who learned their yiddish in the normal way native speakers
+do, not from weinreich's textbook.)
+
+or you might want to consult the growing body of literature in
+theoretical linguistics on the subject, some of it produced by
+mendelniks in fact (e.g. ken miner, moyshe taube, work in progress
+by dovid braun, related work by beatrice santorini, molly diesing,
+and i'm sure i've omitted some).
+
+Ellen Prince
+
+______________________________________________________
+End of Mendele Vol. 3.151
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+
+

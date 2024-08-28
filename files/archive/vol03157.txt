@@ -1,0 +1,153 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.157
+December 7, 1993
+
+1) Grammar wars (Howard Kaplan)
+2) "Jiddische Sprachgeschichte" (Zachary Baker)
+3) Verb-first Phrases in Talmudic Yiddish (Amitai Halevi)
+4) Einspruch/Aynshprukh (Shleyme Axelrod)
+5) N.T. in Yiddish (Yossi Galron)
+
+1)----------------------------------------------------
+Date: Mon Dec  6 10:38:56 1993
+From: HKAPLAN%AM.mrgate@woods.uml.edu
+Subject: Grammar Wars
+
+How about a cease fire in the Grammar Wars? Let's declare everyone
+(everybody?) correct (right?). It reminds me of the old story of the
+shipwrecked Jew on a deserted isle. When relief finally came they
+noted he/she built two synagogues. The second one was the one he/she
+didn't go to! Let a 100 synagogues bloom this Chanukah (spelling?)
+season and let's visit them all. So it goes.
+
+Howard Kaplan
+
+2)----------------------------------------------------
+Date: Mon Dec  6 11:40:17 1993
+From:  Zachary Baker (bm.yib@rlg.stanford.edu)
+Subject: "Jiddische Sprachgeschichte," by Bettina Simon
+
+The above-mentioned book, originally issued in the DDR, 1988, has
+been reissued in Frankfurt am Main, by Juedischer Verlag, 1993 (ISBN
+3-633-54077-6).  It can be ordered through bookdealers specializing
+in Western European publications (e.g., Schoenhof, in Cambridge,
+Mass., or Mary S. Rosenberg, in New York); it costs about $25.  This
+message is in response to Bob King's plaint in MENDELE 3.155.
+
+Not quite two years ago, on a visit to Berlin (to see the "Juedische
+Lebenswelten" exhibition, which included a large number of items
+from YIVO's collections), I went to the Weissensee Cemetery.  While
+there, I was shocked and saddened to see a stone for Bettina Simon,
+who died in the autumn of 1989, just around the time the Berlin Wall
+came down, at the age of about 40.
+
+Zachary Baker, YIVO Library
+
+3)----------------------------------------------------
+Date: Mon Dec  6 15:13:13 1993
+From: AMITAI HALEVI <CHR04HA@vmsa.technion.ac.il>
+Subject: Verb-first Phrases in Talmudic Yiddish
+
+The great verb-first debate has not yet died down, so let me raise a
+question that is peripherally related to the suggestion that it was
+influenced by Talmudic constructions like "omer R. Ploni".
+
+Here, with apologies for the haphazard transliteration, are a few
+typical examples from R. Shmuel Hibner's translation of Baba Metzia
+(Levkovitch, Brussels, 1961):
+
+"Modeh R. Shimon ben Eleazar": R. Shimon ben Eleazar iz moyde.
+"Amar R. Nachman amar Shmuel": Rav Nachman hot nakhgezugt fun
+Shmuel".
+"Amar lekha Rav Yoseph": Rav Yoseph vet dir azoy entfern.
+
+The subject-first order is the rule in the present, the past simple
+and subjunctive, but occasionally - for no apparent reason - a
+similar expression is translated in the past perfect:
+
+"Ela' amar Rav Zvid": Nor, hot Rav Zvid gezugt.
+"Amar leyh Rav Safra le-Rava": Hot Rav Safra gezugt tzu Rava'n.
+
+My question is whether insertion of the subject between "hot" and
+"gezugt" constitutes a violation of the subject-first rule? My own
+knowledge of Yiddish is limited, but I have no doubt that Hibner can
+be trusted to know the rules.
+
+Having mentioned this translation, let me put in a plug for it. The
+text is fully punctuated, including vowels (niqqud) - well before
+Steinsaltz.  The translation into Yiddish and accompanying
+explanation is remarkably clear.  It is heartily recommended to any
+Mendelnik who would like to attempt self study of the Talmud, and
+who - unlike the present writer - has a better command of Yiddish
+than of Hebrew and Aramaic.
+
+Amitai Halevi
+
+4)----------------------------------------------------
+Date: Mon Dec  6 15:32:34 1993
+From: Seymour Axelrod <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: Einspruch/Aynshprukh
+
+Thanks to Zachary Baker for the sketch of the remarkable life of
+Henry Einspruch/Khaim Aynshprukh, who did such a fine translation*
+of the New Testament into Yiddish.  It reads like an oysgetrakhte
+mayse:  khsidisher yikhes, labor organizer, colonist in Erets,
+multilingual pamphleteer, Lutheran missionary--and a Yiddish
+typesetter to boot.  I'm not sure what young people mean exactly
+when they say "Get a life!", but Reb Khaim certainly had one.
+----------------
+*At least, I suppose it's accurate--it tallies well with the English
+versions I have some familiarity with (King James, New English
+Bible).
+
+--Shleyme Axelrod
+
+5)----------------------------------------------------
+Date: Mon Dec  6 17:10:00 1993
+From: Joseph Galron <jgalron@magnus.acs.ohio-state.edu>
+Subject: N.T. in Yiddish
+
+In Mendele 3.150 Jeremy Stern (jstern@phoenix.Princeton.edu), wrote
+about a Yiddish version of the New Testament. In the Ohio State
+University Libraries, I found:
+
+     Dos evangelyum fon Markus <Berlin : Gedrukt bay Trovitsh und
+          Zohn, 1928> pages 79-127.
+
+          On verso of the title page: St. Mark in Yiddish. (Made in
+          Germany)
+
+     It seems to me that it is a part of a bigger work. No
+     translator mentioned.
+
+     Does anyone know about this translation? (I will be happy to
+     send some photocopies of selected pages).
+
+Joseph (Yossi) Galron           | Internet: jgalron@magnus.acs.ohio-state.edu
+
+______________________________________________________
+End of Mendele Vol. 3.157
+
+Mendele has 2 rules:
+	
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

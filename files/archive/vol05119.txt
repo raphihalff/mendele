@@ -1,0 +1,147 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.119
+September 22, 1995
+
+1) Seasonal greetings (David Herskovic)
+2) NPR Yiddish Stories (Ethan Minovitz)
+3) An alt lid (Paul Gutblatt Gilon)
+4) Yiddish software for children (Uri Postavsky)
+5) Yiddish on Mendele (Uri Postavsky)
+6) Shlak (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: 21 Sep 95 21:06:55 EDT
+From: 100114.750@compuserve.com
+Subject: Seasonal greetings
+
+In mendele vol. 5.113, Keyle Goodman signed off by kindly wishing all of
+us a gmar khasime toyve.
+
+Seasonal greetings usually are ksive va'khsime toyve from the beginning
+of Elel (from the 15th of Ov for some) until the first night of rosh
+hashone when you wish leshone toyve tikosayv vesaykhaym and the rest.
+From rosh hashone by day one starts vinching a gmar khasime toyve or a
+gmar tov until after yom kiper. It is still acceptable until after
+hoyshane rabe.
+
+This is based on the gemore that our cases are heard on rosh hashone
+we're then put on probation for the aseres ymay chive and the sentence is
+signed on yom kiper.
+
+zol bay aykh ale megiyem veren vos ir vincht zikh alayn.
+
+David Herskovic
+
+2)-----------------------------------------------------
+Date: Thu, 21 Sep 1995 18:03:46 EDT
+From: clvm21a@prodigy.com
+Subject: NPR Yiddish Stories
+
+Jay Fleischer, you're in luck (sort of)!
+
+WBFO-FM 88.7 (at the University of Buffalo) is the National Public Radio
+station you're looking for.  I don't know its wattage, but you should be
+able to receive it in Hogtown ("Chazershtot"??).
+
+If you have a Web browser, you can access a partial program schedule by
+keying in http://wings.buffalo.edu/services/wbfo.  Unfortunately, I
+couldn't spot a listing for Leonard Nimoy Yiddish stories -- or an e-mail
+address.  However, an on-line comment form is available at
+http://wings.buffalo.edu/services/wbfo/comment.html.
+
+Hope that this is of assistance.  A happy and kosher Rosh Hashana to
+all!
+
+Ethan Minovitz
+Vancouver, British Columbia
+
+3)----------------------------------------------------
+Date: Thu, 21 Sep 1995 10:58:59
+From: paul@pg.win.net
+Subject: An alt lid
+
+I would like to find the complete words and score to an dirgeful Yiddish
+song my mother sang to me in the early 30's. I just remember the first
+line.
+
+Kim tsu mir my kint, tsu mir, a nit vel ich gein tsu dir.
+
+I believe that this song might be a mother's lament at her son's
+kidnapping by a "chapper" for delivery to the Russian army under the 25
+year draft of Jewish children (Little Contonists) instituted by
+Nicholas I.
+
+Paul Gutblatt Gilon
+
+4)----------------------------------------------------
+Date: Thu, 21 Sep 1995 21:38:58 -0400
+From: urip@interlog.com
+Subject: Yiddish software for children
+
+For those who are looking for material in Yiddish for young children, you
+are invited to download the shareware version of "Aryeh to Zebra" - a
+Hebrew/English/Yiddish interactive picture dictionary for Windows.
+
+If this sounds familiar, it's because Saul Berman has posted already a
+message about it, but he asked me to do it again and correct a few typos
+in the www and ftp addresses. So here it is:
+
+If you have a graphical WWW browser check one of these:
+
+1. http://www.execpc.com/~rtls/hebrew
+2. http://shamash.nysernet.org/computers/rtls-software
+
+If you want to use ftp, try one of these sites:
+
+1. ftp.magic.ca  /rtls/hebrew/aryeh.zip
+2. shamash.nysernet.org  /israel/computers/rtls-software
+
+Uri Postavsky
+
+5)----------------------------------------------------
+Date: Thu, 21 Sep 1995 21:39:14 -0400
+From: urip@interlog.com
+Subject: Yiddish on mendele
+
+I have noticed a number of messages written in Yiddish transliterated
+into English. I assume that this is done not from choice but from lack of
+software that can deliver Yiddish through e-mail.
+
+I have developed a Hebrew Message Viewer for reading Hebrew messages on
+Compuserve (for those without Hebrew Windows). You can check it on
+Compuserve Israel forum in the software library (hebmvi.zip).
+
+If there is enough interest in this forum and if most of the readers use
+Windows to read these messages, I can modify it to handle Yiddish and
+send yiddish text through e-mail in an encoded form.
+
+The viewer program is free software. For composing messages you could
+either use Hebrew software (such as Hebrew Windows or Dagesh) or a
+Yiddish writer that I would supply for a small registration fee.
+
+Let me know what you think.
+
+Uri Postavsky
+
+6)----------------------------------------------------
+Date: Thu, 21 Sep 1995 22:00:56 -0400 (EDT)
+From:rar@slavic.umass.edu
+Subject: Shlak
+
+I liked Zavi Beer's explanation (5.116) of _a shlok [shlak] zol dir
+[dikh] trefn_ (from a falling suke cover), but there's a more likely
+source in Polish _niech cie szlag trafi_ 'damn you; may the devil take
+you' (literally, 'may you have an apoplectic fit [i.e., a stroke]').
+Polish _szlag_ is in turn from German _Schlag_, which can also mean 'a
+stroke'.
+
+Lomir ober redn fun freylekher zakhn:  ale mendelyaner berosh mit dem
+shames vintsh ikh a gezunt un zis yor.
+
+Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol. 5.119
+

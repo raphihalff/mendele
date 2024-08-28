@@ -1,0 +1,196 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.177
+January 1, 1997
+
+1) How many colleges teach Yiddish? (David Goldberg)
+2) Slavic influence on Yiddish syntax (Joachim Neugroschel)
+3) Slavic influence on Yiddish syntax (Ellen Prince)
+4) GrineR gal (Joachim Neugroschel)
+5) Grine verem (Hugh Denman)
+
+1)----------------------------------------------------
+Date: Tue, 31 Dec 96 12:32:52 EST
+From: david.goldberg@smtpgwy.mla.org
+Subject: How many colleges teach Yiddish?
+
+I write in response to Stanley Werbow's inquiry about colleges offering
+courses in Yiddish in Mendele 6.163.
+
+The MLA periodically (every 4 or 5 years since 1968) asks postsecondary
+institutions' registrars about how many students are enrolled in
+credit-bearing courses in languages other than English. How responsibly
+registrars separate language classes from classes about language (e.g.,
+reading literature in translation) we cannot say, but the numbers for
+Yiddish in the Fall semester of 1995 are as follows: 19 institutions in
+the US report having students enrolled in credit-bearing undergraduate
+Yiddish classes, 5 of those 19 report enrollments in graduate courses as
+well.  The total number of enrollments is 656.
+
+This number (as I wrote in a previous posting) is double that of the
+number recorded for 1990. The increase appears to be the result of data
+supplied by two rabbinical academies that reported registrations of 200
+and 180 students, so these students' classes may not fit the image of
+college Yiddish classes that Stanley Werbow had in mind. (They do fit
+the MLA's description of classes in languages other than English, even
+if they aren't studying Weinreich's College Yiddish or reading Moyshe
+Leyb Halpern.) How many colleges offer noncredit bearing courses through
+evening or extension programs, Hillels, and so on, would be interesting
+to know.
+
+David Goldberg
+
+2)----------------------------------------------------
+Date: Tue, 31 Dec 1996 14:59:11 -0500 (EST)
+From: achim1@cris.com
+Subject: Tenses in German and Yiddish
+
+[see also: Slavic influence on Yiddish syntax]
+
+I'm not quite sure what Hugh Denman is referring to when he writes [Vol.
+6.176] that German applies the sequence of tenses...like Latin and the
+Romance languages.  German has very strict rules of sequences, but they
+differ widely from Romance usage--as do the Yiddish sequences.
+
+Yid:  "Oyb ikh volt gekent, volt ikh gegangen.
+Ger:  "Wenn ich koennte, ginge ich" (or else use the composed
+	conditional in both clauses).
+Eng:  "If I could" [simple past tense, except for "were"), I would
+	go" (composed conditional).
+French:  "Si je pouvais" [past tense], j'y irais (simple
+      conditional).
+
+In Yiddish and in German the same tense is used in both the if-clause
+and the then-clause, but the tenses are not identical in English or
+French (or any of the other Romance languages).  And as I wrote in
+another posting, I don't think the "war" in the Remarque passage is good
+usage.  In German and Yiddish, the tense of indirect discourse is always
+the same as the tense of direct discourse. "Er hot gezogt, 'Ikh ken
+nisht.' "Er hot gezogt az er ken nisht."
+
+"Er hat gesagt, "Ich kann nicht."
+"Er hat gesagt, er koenne nicht" or , dass er nicht kann" (or a few
+variants thereof)
+
+English: "He said he couldn't. French:  "Il a dit qu'il ne pouvait pas"
+(or possibly "pourrait pas" with a slightly different nuance.
+
+I may have misunderstood Hugh, but the German (and Yiddish) tense
+sequences are very different from those in the Romance languages and in
+English.
+
+Joachim Neugroschel
+
+3)----------------------------------------------------
+Date: Tue, 31 Dec 1996 15:12:00 EST
+From: ellen@central.cis.upenn.edu
+Subject: Slavic influence on Yiddish syntax
+
+re german being an sov (subj-obj-verb) language, hugh denman points out
+[6.176] that old high german has 'very fluid word order', which persists
+into middle high german. i am not a germanist (as must be apparent from
+my shameful ignorance even of modern german!) but i must point out that
+'very fluid word order' can (and, to my knowledge, always is by modern
+syntacticians) be taken to be a surface phenomenon and is therefore not
+inconsistent with an underlying sov (or any other) word order. for
+example, russian permits all possible word orders on the surface but is
+taken to be underlyingly svo. in any event, i'd be interested in hearing
+more about ohg and mhg word order and in particular about the word order
+in luther's bible that hugh notes is quite similar to yiddish.
+
+re 'sequence of tenses': could hugh or joachim or any other german
+speaker tell me if joachim's sentence can have the second interpretation
+as well as the first:
+
+	Er sagte mir, dass er krank ist.
+	1. he told me that he was (and still is) sick.
+	2. he told me that he was (but no longer is) sick.
+
+modern (american?) english is losing some of its sequence of tense
+properties and 'he told me that he is sick' is perfectly acceptable --
+but only in the context where he's _still_ sick. similarly, 'he told me
+that he will leave' is also fine -- but only where his leaving is future
+with respect to _my_ saying, i.e. where he hasn't left yet. as i
+understand it, yiddish 'er hot mir gezogt, az er iz krank' is the way to
+say it even if he's now well, just so long as he was sick when he told
+me about it, and 'er hot mir gezogt az er vet avekforn' is ok even when
+he has already left. and i understand that slavic is like yiddish in
+this respect. so, the question for you german speakers -- is german like
+modern (american?) english or like slavic in this? (or none of the
+above. ;) ) a dank.
+
+re 'zikh' and polish and my reply to meyer-leyb last week, it turns out
+that i totally misunderstood his point! we've cleared this up in email
+but, so long as hugh brings it up, i wish to say publicly 'mea culpa,
+mea culpa, mea maxima culpa.' :-)
+
+finally, in response to hugh's saying that 'the slavic impact on yiddish
+syntax is more far-reaching than ellen believes', i must say that i
+believe the impact was _enormous_ my beef with some of the claims is
+simply in HOW this impact came to be -- i don't think it was a matter of
+just borrowing a particular _form_, since i don't see the evidence for it
+and don't know of any currently credible theory of grammar that could
+handle it, and i think a lot of what has been claimed to be syntactic
+borrowing is in fact semantic or pragmatic borrowing -- but i do believe
+there was a huge and largely unexplored impact all the same, which came
+about in other ways. just wanted to get that on the record (for which
+opportunity i thank hugh!).
+
+happy new year, everyone!
+
+ellen prince
+
+4)----------------------------------------------------
+Date: Tue, 31 Dec 1996 15:24:49 -0500 (EST)
+From: achim1@cris.com
+Subject: GrineR gal
+
+the Yiddish idiom about green bile has been mentioned in several
+postings recently, but I wonder about the adjectival ending.  since
+"gal" is feminine and since every Yiddish preposition (but one) takes
+the dative, I believe the phrase should read "mit griner gal" and not
+"mit grine gal". a number of postings seem indifferent to case and
+gender endings/ when in doubt check Weinreich's College Yiddish. der
+yidisher idiom vegn griner gal hot men tsitirt etlekhe mol bay Mendele.
+ober ikh meyn az "mit grine (sic!) gal" is falsh.  "gal" is
+loshen-nekeyve, un ale yidishe prepozitsies (akhuts einer) nemen dem
+dativ--to darf men zogn "mit grineR gal"....
+
+Joachim Neugroschel
+
+5)----------------------------------------------------
+Date: Wed, 1 Jan 1997 16:26:00 +0100 (MET)
+From: h_denman@maier.vol.at
+Subject: Grine verem
+
+This colourful topic seems to have caught the imagination of the khevre,
+so I venture to augment Meyer-Leyb Wolf's recent list of parallel
+phrases [6,176 .2] with the following (not included by Stutshkoff, but
+culled from the Groyser Verterbukh):
+
+onkumen mit maternish, mit gebrente tsores, mit biterkayt, mit khreyn, and
+also: mit kries-yam-sof.
+
+The latter example leads me to speculate whether all this bitter
+suffering might not be (subliminally?) associated in people's minds with
+the afflictions endured in the Land of Egypt, the morer of the seyder
+(often represented by khreyn in Eastern Europe) and the travails of the
+ensuing exodus, one of whose more distasteful vicissitudes included the
+worms (tola'im; Yehoyesh: "un es iz gevorn verimdik") of Exodus 16:20
+(i.e only a couple of pages after the crossing of the Red Sea). But
+where does the "grin" (= "kupern"?) come from? This detail is as curious
+in the case of the worms as it is the case of the gall. I don't recall
+ever having seen any gall, but isn't it supposed to be yellow? After
+all, "gal" is ultimately cognate with "gel" and why otherwise would it
+be called "zolc" (talk about noyekh mit zibn grayzn, that's four
+diacritics missing in four letters! - role on unicode!) in Polish?
+Perhaps some (entomologically-minded?) mendelyaner can take this
+further.
+
+Hugh Denman
+London
+
+______________________________________________________
+End of Mendele Vol. 6.177
+

@@ -1,0 +1,219 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.124
+October 6, 1994
+
+1) Hebrew/Yiddish Software (Mordechai Steve Seidman)
+
+1)----------------------------------------------------
+Date: Mon, 3 Oct 1994 14:33:32 -0400
+From: srs3@crux3.cit.cornell.edu
+Subject: Hebrew/Yiddish Software list
+
+Sorry this list is so long, but I have edited down to a minimum.
+It should contain all the information and phone numbers that so far
+have been alluded to in this list
+
+Hebrew/English/Russian software, wordprocessors
+
+	Lev Software 1-(800) 776-6538
+	P.O. Box 17832, Plantation, FL 33318
+
+
+	Gamma Productions, Inc.
+	710 Wilshire Bvd, Suite 609
+	Santa Monica, CA  90401  USA
+
+
+    I just received an announcement from Gamma Productions of
+    UniType that extends Windows to accept 175 languages. Will
+    work in any Windows application, according to the flyer.
+    "Right-to-left languages require text to be intered one line at
+    a time with carriage returns."
+    List $299 (special until May 1 for Gamma customers $149)
+
+	Gamma Prod.
+	2130 Sawtelle Blvd. Suite 305
+	Los Angeles, CA 90025
+	310-478-6774
+
+
+Hebrew & Judaic Software:
+
+Davka Co.
+	Davka Co.
+	7074 N. Western Ave.
+	Chicago, IL  60645
+	(800) 621-8227
+
+    They have CD roms of extensive Hebrew literature (Talmud etc.)  besides
+    word processors etc.  Now, if they would only issue the stuff with nikud
+    in it, even i would get it (expecially a computer Talmud with nikud
+    would be great... but at least if the tanakh would have the nikud i
+    would be happy)
+
+Torah Educational Software
+	Torah Educational Software
+	230 East Rout 59
+	Nanuet, NY 10954
+	(800) 952-6853
+	(914) 426-3845
+	(914) 425-1042 (FAX)
+
+    Sells the 'Bible Scholar' for mac or ibm for $239, fonts, plus much
+    more.  Hebrew Writer-tm 2.5 (made in Israel) has auto-nikud, $189
+    for IBM.  (according to the sales representative this program
+    will automatically put in the nikud from a database supplied with
+    the program.  if it works properly, it sounds like a dream come true :)
+
+Lautman & Associates
+	Lautman & Associates (Hebrew Software)
+	P.O. Box 5405
+	Herzliya 46153,  Israel
+	+972-9-585075
+	FAX: +972-9-576017
+
+
+Nisus can be bought direct (and at student discount) nisus@weber.ucsd.edu
+	Nisus Software  (formerly Paragon Concepts, Inc.)
+	107 S. Cedros Ave.
+	Solana Beach, CA  92075-1900
+	(800) 922-2993 (extension #1 for technical support)
+	(619) 481-1477
+	(619) 481-6154 (FAX)
+	AppleLink: NISUS.MGMT
+
+    Macintosh word processor that supports mixed directional text including
+    Arabic, Czech, English, Hebrew, Hungarian, Persian (Farsi), Polish and
+    Cyrillic Languages.  You can also type in Chinese, Korean, and Thai, if
+    you have the appropriate Language Extensions (script, keyboard layout file,
+    fonts,etc.).
+
+    Call Apple's Customer Assistance (WorldScript info) (800) 776-2333
+
+    Nisus suggests calling MacConnection for discount
+	MacConnection
+	(800) 800-0002
+	(603) 446-7711
+	(603) 446-7791 (FAX)
+
+
+Accent Software International/Kivun
+	Accent Software International/Kivun
+	P.O. Box 53063
+	Jerusalem ISRAEL
+	Tel: +972-2-793723
+	Fax: +972-2-793731
+	questions may be addressed to: info@accent.co.il
+
+    This company produces the multilingual Windows word processor, Dagesh,
+    which is distributed by Davka, among other companies.
+    It has been on the market for almost two years
+    and supports typing in virtually all
+    Western languages (e.g. English, French, Spanish, Finnish,
+    etc.), as well as Hebrew and Russian.
+    There is a complete Hebrew and English Spell checker,
+    including options for checking Hebrew according to either
+    "regular" or academic usage.  It includes 20+
+    fonts in Hebrew (as well as the fonts needed for Russian
+    support).  The spell checker does not check nikud, however
+    There is also a less expensive version Dagesh Lite.
+    Current version is 1.1 and includes a free upgrade to 2.0,
+    scheduled to ship later this year. (Note: Lite does not include
+    a free upgrade)
+
+
+Kabbalah Software
+	Kabbalah Software
+	8 Price Drive
+	Edison, NJ 08817
+	kabbalah@israel.nysernet.org
+	980-572-0869
+
+Linguist's Software, Inc.
+	Linguist's Software, Inc.
+	PO Box 580
+	Edmonds, WA 98020
+	(206) 775-1130
+
+    The only full, complete, accurate, and authorized source that I know if is
+    sold by Linguist's Software for $99, I believe. What I have is on three
+    floppies, in MS Word format, for the MAC and requires a Hebrew font. I have
+    used it and my professors here are impressed. I am, too. It says on the
+    disk, copyright by Deutsche Bibelgesellschaft 1967/77/83 and 1987 by P.B.
+    Payne. They are the ones who produce the Biblia Hebraica Stuttgartensia,
+    the standard among Western theological scholarship. I'm sure that they have
+    a Windows version as well. Hope this helps.
+    (zxmli05@student.uni-tuebingen.de (Shaughn Daniel)
+
+    A recent phone call to them has revealed that you must also purchase
+    a BHS font that has the cantillation marks.  The upshot of this is that
+    their software isn't compatible with the Macintosh HebrewScript
+    system extensions.  I would strongly urge the company to make their
+    software compatible with the "upper ascii" Israeli-Hebrew fonts.
+
+Judaic Clip Art (free catalogue)
+	Heritage Graphics
+	PO Box 139R
+	Blauvelt, NY  10913
+	(914) 359-0761
+
+------------------------------------------------
+
+7. ftp.netcom.com  /pub/abdali
+   this archive has macintosh system software extensions that will allow
+   Hebrew/Arabic word processing while still leaving your machine essentially
+   an English based machine.  This pretty much will make your machine bi-
+   lingual.  It works with system 7.0.1 but can be buggy at times.  You may
+   have to install fonts manually with Font DA mover.  System 7.1 works, and
+   appears more stable.  Included is MuEdit 1.3, which is a terrific text
+   editor fully compatible with Israeli and Arabic right to left fonts.
+
+   (I have found that with 7.0.1 I must install fonts with FontDA mover
+   that can handle true-type fonts... but with system-7.1 i can just drag
+   the fonts with all the other extensions onto the closed system folder
+   and reboot and everything is fine)
+
+   In any event, I have found that MuEdit 1.3 is completely compatible
+   with WorldScript 7.1.  Tex-Edit 2.5 (Ie. Texas-Editor) is another
+   shareware text editor that is Worldscript compatible.
+
+
+A short description of the Global Jewish Networking Server, of other
+information resources related to Jewish and Israeli matters and the
+access to software which can give you the best interaction with these
+systems follows.
+
+mordechai steve seidman
+
+[A thousand thanks from all of us.  Along with Khayem Bochner's fine
+survey of guides to Yiddish we now have two FAQ files.  These will be
+available via anonymous ftp.  The shames is also preparing a memo on
+searching the archives.  nm]
+
+______________________________________________________
+End of Mendele Vol. 4.124
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

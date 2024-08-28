@@ -1,0 +1,235 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.206
+January 22, 1997
+
+1) Yiddish with Word for Windows (Michael Ben-Levi)
+2) Yankev/Yoykl (Khayem Bochner)
+3) Nartlen (Perl Teitelbaum)
+4) lizhes, lizhves, luzhbes (dovid braun)
+5) Yiddish influence on German underworld language (Ruben Frankenstein)
+6) Yugntruf vebzaytl (Meylekh Viswanath)
+7) Valentines Day Yiddish (Stanley Wernick)
+
+1)----------------------------------------------------
+Date: Tue, 21 Jan 1997 12:32:21 +0000
+From: gur@ix.netcom.com
+Subject: Yiddish with Word for Windows
+
+Microsoft Hebrew Word for Windows has excellent search and replace
+capacity. It is an ideal program for creating a Yiddish typesetting
+program with an internal conversion dictionary [standard Hebrew/phonetic
+Hebrew] and Yiddish spell check.
+
+The purpose of the project, sponsored by the World Jewish Congress, is
+to enable Yiddish published in Russia to revert to the standard spelling
+of Hebrew from the phonetic spelling which was mandated by the Soviet
+authorities about 70 years ago.  To accommodate their readers, standard
+Hebrew will be printed first and then followed by the phonetic spelling
+in parentheses.  This conversion option is for anyone who would like to
+have the phonetic spelling of Hebrew in parentheses immediately
+following the standard spelling, or vice versa.
+
+Microsoft said that the development of a Yiddish Extension for Hebrew
+Word for Windows is complicated because it failed to designate the
+Yiddish characters which are internal in the font as Hebrew letters.  To
+create a Yiddish Extension will mean that both Microsoft and Glyph
+Systems, Microsoft's sole distributor in the U.S. and Canada for Middle
+East Languages, will have to cooperate in  modifying  Hebrew Word for
+Windows.  They are both open to looking into doing it.
+
+Since Microsoft and Glyph rely on market forces in deciding the extent
+to which they will proceed with developing a product, it is important to
+let both Microsoft and Glyph know that there is a large, dedicated
+Yiddish constituency.
+
+Demonstrate your support by e-mailing Microsoft and Glyph! In your own
+words, urge them to modify Hebrew Word for Windows so that Glyph will be
+able to produce a Yiddish Extension so that a project sponsored by the
+World Jewish Congress will be able to develop a Yiddish typesetting
+program with an internal conversion dictionary and spell check.
+
+If you teach Yiddish, you may also want to include the names of your
+students who are interested in signing on to your e-mail message.
+
+We need your help in lobbying Microsoft for Yiddish!
+
+The e-mail addresses are:
+
+      Avery Bishop: averyb@microsoft.com
+      Steven Reef, Glyph Systems: 3791521@mcimail.com
+
+Michael Ben-Levi
+
+2)----------------------------------------------------
+Date: Tue, 21 Jan 1997 22:18:19 -0500
+From: bochner@deas.harvard.edu
+Subject: Yankev/Yoykl
+
+In 6.198 Ruben Frankenstein shraybt vegn di farsheydene diminutivn funem
+loshn-koydesh nomen Yankev, un dermont tsvishn zey dem nomen Yoykl.
+
+Ikh hobn keyn mol nisht gehert dem forem Yoykl, akhuts in eyn fal: der
+tate mayner heyst take Yoykl. Un er aleyn zogt az afile in poyln hot er
+keyn mol nisht bagegnt nokh a mentsh vos heyst Yoykl. Derfar volt mir
+geven interesant tsu hern vegn andere mentshn mit dem nomen, un fun
+vanen zey shtamen.
+
+In 6.198 Ruben Frankenstein wrote about the various diminutive forms of
+the Hebrew name Jacob, and among them he mentioned the form "Yoykl".
+
+I've never heard that form except in one case: it's my father's name.
+And he says that even in Poland he never met anyone else with that name.
+So I'd be interested in hearing about other people with that name, and
+where they came from.
+
+A dank,
+
+Khayem Bochner
+
+3)----------------------------------------------------
+Date: 21 Jan 97 22:43:46 EST
+From: 74031.775@compuserve.com
+Subject: Nartlen zikh
+
+Narty (pl) in Polish are skis. The Yiddish nartlen zikh comes from
+Polish.
+
+Perl Teitelbaum
+Queens, NY - formerely Wroclaw, Poland
+
+4)----------------------------------------------------
+Date: Wed, 22 Jan 1997 10:13:41 EST
+From: dovid@mit.edu
+Subject: lizhes, lizhves, luzhbes
+
+fraynd bredshteyn [6.205] dermont _lizhes_ (afn smakh fun rusish-yidishn
+verterbukh fun shapiro u"a).  _lizhes/lizhves/luzhbes_ zaynen 'ice
+skates', nit 'skis'.  di leksikografn hobn kombinirt tsu fil zakhn unter
+eyn dakh.
+
+dovid braun
+Cambridge, MA
+
+5)----------------------------------------------------
+Date: Wed, 22 Jan 1997 16:27:05 +0100 (MEZ)
+From: frankens@mail.uni-freiburg.de
+Subject: Yiddish influence on German underworld language
+
+Ruth Liberman asks [6.205] about the influence of Yiddish on the german
+underworld language, called Rotwelsch. It is not very easy to define
+exactly when this happened. Research of this idiom is quite neglected. I
+believe, mainly in the 16th and 17th centuries. In the 18th century this
+process must have been concluded. Some of the vocabulary came then into
+colloquial German. I doubt very much the maintained etymology of
+"Hals-und-Bein-bruch" from "Hatslokhe uwrokhe". Even without such
+exaggerations at least 10 percent of the Rotwelsch vocabulary is of
+Hebrew origin, but with alterated meaning.
+
+Ruben Frankenstein
+
+6)----------------------------------------------------
+Date: Wed, 22 Jan 1997 14:44:43 -0500
+From: viswanat@pacevm.dac.pace.edu
+Subject: Yugntruf vebzaytl
+
+Yugntruf proudly announces its Webpage at:
+
+http://library.pace.edu/~viswanat/yiddish/yugntruf.html
+
+it is also accessible as a link from:
+
+http://library.pace.edu/~viswanat
+
+and from various other locations (including Yahoo).  Please visit us and
+send us your comments. At present, we have the following leads on our
+webpage:
+
+        What is Yugntruf, and what do we do?
+        The latest issue of Yugntruf
+        Forthcoming Activities
+        Photographs of Yiddish Vokh, 1996
+        Photographs of the Birdwatching outing, spring 1996
+        Other Yiddish Weblinks.
+
+
+Mit hanoe un shtolts, anontsirt Yugntruf zayn naye vebzaytl, vos gefint zikh
+afn vebadres
+
+http://library.pace.edu/~viswanat/yiddish/yugntruf.htm.
+
+Irkent undz oykh dergreykh fun
+http://library.pace.edu/~viswanat
+(vos iz gringer tsu gedenken) un fun a sakh andere vebzaytlekh
+(arayngenumen Yahoo). Zayt azoy gut, kimt tsu bazukh un shik undz ayere
+bamerkungen.  Ot iz der itstike toykhn funem zaytl:
+
+     Vos zaynen mir, un vos tuen mir? Who are we?
+     Der nayster numer Yugntruf zhurnal
+     Kumedike Aktivitetn
+     Fotografyes fun yidish-vokh 1996
+     Fotografyes funem feygl-shpatsir, friling 1996
+     Andere yidishe vebbleter
+
+Meylekh Viswanath
+
+7)----------------------------------------------------
+Date: Wed, 22 Jan 1997 15:30:15 EST
+From: stantheman4@juno.com
+Subject: Valentines Day Yiddish
+
+I have finally gotten the nerve to write to this esteemed group of
+scholars. I am but a rank beginner compared to the rest of you but I
+need help. I am in a Yiddish class and I  have been asked to come up
+with "Yiddish Phrases that pertain to love" for our class next month
+which coincides with Valentines Day. I would be very grateful for any
+help in this matter.
+
+Stanley Wernick
+Albuquerque, N.M.
+
+______________________________________________________
+End of Mendele Vol. 6.206
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

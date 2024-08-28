@@ -1,0 +1,213 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.289
+January 22, 1995
+
+1) Hometowns (Howard Gershen)
+2) Bakent, derkent, bakant (Mikhl Herzog)
+3) Der/bakenen, pronouns, "component consciousness" (Dovid Braun)
+4) Apikoyres (Mikhl Herzog)
+5) Goethe and Yiddish (Ruben Frankenstein)
+
+1)----------------------------------------------------
+Date: Thu, 19 Jan 1995 17:03:44 -0500
+From: howard@boxhill.com
+Subject: Hometowns
+
+While most Mendelniks are from the U.S., the list has also received or is
+receiving messages people in:
+
+Argentina	Australia	Austria		Belgium
+Britain		Canada		Finland		France
+Germany		Israel		Italy		Netherlands
+New Zealand	Poland		South Africa	ex-Soviet Union
+
+There may be more. This covers the period during which I've been a
+subscriber (since June 1993).
+
+Country of origin can usually be determined from an email address by
+inspecting the last two characters: e.g., "il"=IsraeL; "ca"=CAnada;
+"de"=DEutschland; etc.
+
+Howard Gershen
+
+2)----------------------------------------------------
+Date: Thu, 19 Jan 95  17:41 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Bakent, derkent, bakant
+
+Perhaps the distinction that Arre Komar suggests can be expressed more
+accurately  as follows:
+
+_mir hobn zikh (in his dialect _undz_) bakent_
+'We got to know one another'
+
+_mir hobn zikh derkent_
+'We recognized one another'
+
+_zey zaynen mir/undz bakant_
+'They are familiar to me/us'
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Thu, 19 Jan 1995 20:40:32 EST
+From: dovid@mit.edu
+Subject: der/bakenen, possessive & refl. pronouns, "component consciousness"
+
+To Arre Komar:
+
+a) _bakenen_ and its variants means 'to acquaint'.  It does not mean
+'recognize'. 'Recognize' is _derkenen_.  The distinction you mention is
+probably misremembered. (Which Yiddish dictionary do you consult, by the
+way?)
+
+b) I surmise that Reb Arre studied German at some point in his life (is
+this right?) and perhaps used/s it actively.  Your proficiency in that
+language seems to have interfered with the Yiddish spoken to you at home.
+How can I tell?
+
+	i. in Yiddish, the possessive pronoun (mayn, dayn, zayn, ir,
+undzer, ayer, zeyer) is not inflected for agreement when it precedes a
+singular noun (or noun phrase), so _MAYN eygene mame_, not *mayne eygene
+mame.  (A star next to an example in this context means 'ungrammatical'.)
+In German, however, this would be correct.  [To the specialist:  I'm
+ignoring "mass nouns" in "Lithuanian Yiddish", e.g. mayne gelt, dayne
+vaser.]  The possessive pronoun is only inflected for plural agreement,
+so _mayne eygene kroyvim_ but *mayn eygene/eygn kroyvim.
+
+	ii. in German, _wir waschen uns_, but in Yiddish:  _mir vashn
+zikh_ or in the dialects that haven't made it into written Yiddish:  undz
+vash(t)'mir zikh, mir vash(t)'mir zikh.  I think these are the correct
+facts.  In all of these, however, the reflexive pronoun is _zikh_ in both
+1st person singular ('I') *AND* 1st person plural ('we').  Your example,
+*mir hobn undz bakent/ bakant is _mir hobn zikh bakent/bakant_ in
+Yiddish.
+
+c) M. Weinreich's point was actually that what he called
+"komponentn-visikayt" (there's no letter "g" in the word) was a problem
+for the status of the language.  It seems that Ashkenazic Jews,
+throughout their thousand years of Yiddish use, have usually had some (or
+a lot of) knowledge of one or more other languages at the same time --
+languages which contributed to their Yiddish lexicon/morphology/
+phonology/syntax.
+
+Thus, individual speakers and the group as a whole have been more aware
+of the origin of the forms of their language than speakers of other
+languages usually are. The English speaker might not know or ever pay
+attention to the fact that the English words _book_ and _table_ are
+(respectively) Germanic and Romance in origin; but the Yiddish speaker is
+more aware of the languages from which his/her language is derived since
+chances are great that s/he might know, say, (some of) a Slavic language
+and (some) Hebrew.  E.g., s/he might know that the Yiddish word _zhabe_
+'frog' is _z.aba_ in Polish and the Yiddish word _shabes_ is _shabos_ in
+(Ashkenazic) Hebrew.
+
+While the English-speaker goes about his business of speaking what s/he
+calls the *English* *language*, the Yiddish speaker has often questioned
+the languagehood of Yiddish since it might look to him/her that it uses
+the words of other languages or "has no words of its own" for certain
+concepts -- or even that all of its words belong to different languages.
+
+(At the recent YIVO gathering in honor of Max Weinreich's 100th birthday,
+Prof. Benjamin Harshav -- formerly Hrushovski -- seems not to have
+understood that _table_ is the English word for 'table' as well as the
+French word for 'table'; for him, the Yiddish word _tish_ is "German"
+and, in fact, the Yiddish word _promine'nt_ is German. Leaves you wonder
+how to say 'table' in English and 'table' in Yiddish. Leaves you
+wondering whether English is a language, whether Yiddish is a language,
+or whether any language is a language.  A strange conception,indeed.)
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Thu, 19 Jan 95  17:41 EST
+From: zogur@cuvmb.columbia.edu
+Subject: _Apikoyres_
+
+Sam Juni glosses the word _apikoyres_ as 'heathen', 'atheist'. It's
+neither. It's more accurately glossed 'heretic', one who holds opinions
+contrary to established religious beliefs.  Not the same thing at all.
+
+I once made the mistake of referring to myself as an _apikoyres_ and was
+quickly upbraided for my presumptuousness. One must first be a
+_talmid-khokhem_ before one becomes an _apikoyres_.
+
+Mikhl Herzog
+
+1)----------------------------------------------------
+Date: Fri, 20 Jan 1995 15:26:26 +0100 (MEZ)
+From: frankens@mibm.ruf.uni-freiburg.de
+Subject: Johann Wolfgang von Goethe and Yiddish
+
+Some of you may be surprised to hear that the young Goethe was an ardent
+scholar of Yiddish and Hebrew. One result of his studies is his
+"Judenpredigt", a droshe written in the west-yiddish he learned in
+Frankfurt (he had private teachers coming to his home).
+
+Here it is:
+
+"Sagen de Goyen wer haetten kae Koenig, kae Kaeser, kae Zepter, kae Kron;
+do will ich aech aber beweise dass geschrieben staeht: dass wer haben aeh
+Koenig, aeh Kaesr, aeh Zepter aeh Kron. Aber wo haben wer denn unsern
+Kaeser? das will aech och sage. Do drueben ueber de grosse grause rote
+Meer. Und do waere dreimalhunerttausend Johr vergange sei, do werd aeh
+grosser Mann, mit Stiefle und Spore grad aus, sporenstrechs gegange komme
+uebers grosse grause rote Meer, und werd in der Hand habe aeh Horn, und
+was denn ver aeh Horn? aeh Duet-Horn. Und wenn der werd ins Horn duete,
+do waeren alle Juedlich die in hunerttausend Johren gepoeckert sind, die
+waeren alle gegange komme ans grosse grause rote Meer. No was sogt ehr
+dozu? Un was aeh gross Wonner sei werd, das will ich aech och sage: Er
+werd geritte komme of aeh grosse schneeweisse Schimmel; un was aeh Wonner
+wenn dreimalhunertunneununneunzigtausend Juedlich waere of den Schimmel
+sitze, do waeren se alle Platz habe; un wenn aeh enziger Goye sich werd
+ach drof setze wolle, do werd aeh kenen Platz finne. No was sogt ehr
+dozu? Aber was noch ver aeh greser Wonner sei werd, das well ich aech och
+sage: Un wenn de Juedlich alle waere of de Schim- mel sitze, do werd der
+Schimmel Kerze gerode seine grosse grosse Waetel ausstrecke, do waeren de
+Goye denke: kennen mer nich of de Schimmel setze wer uns of de Waetel.
+Und denn waere sich alle of de Waetel nuf hocke;  Un wenn se alle traf
+setzen, un der grosse schnee weisse Schimmel werd gegange komme dorchs
+grause rote Meer zorick, do werd aeh de Waetel falle lasse, un de Goye
+werde alle ronder falle ins grosse grause rote Meer. No was sogt ehr
+dozu?"
+
+Nu, un vos zogt ir Mendelniks zudem?
+
+Ruben Frankenstein
+
+______________________________________________________
+End of Mendele Vol. 4.289
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

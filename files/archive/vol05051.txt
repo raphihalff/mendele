@@ -1,0 +1,261 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.051
+July 12, 1995
+
+1) Bunem Viner (Leybl Botvinik)
+2) Shepn/shlepn (Shleyme Axelrod)
+3) Shepn/shlepn (Hershl Bershady)
+4) Shepn/shlepn (Paul Pascal)
+5) Music notation (Sholom Pearlman)
+6) Teaching Yiddish (Anna Gonshor)
+7) Davka (Anno Siegel)
+8) Koala Farlag (Zachary Baker)
+9) Reading material for kids (David Sherman)
+
+1)----------------------------------------------------
+Date: Wed, 12 Jul 95 07:05:26 IDT
+From: leybl@telecomm.tadiran.co.il
+Subject: s'iz gefaln a demb: bunem viner, zikhroyno levrokho
+
+mayn tayerer fraynt fun der vaytns, bunem iz mer nito. vi golde hot es
+ibergegebn, iz er take geven a demb. -- a demb in a vald vu kemat ale
+beymer zaynen shoyn opgebrent un opgelendt gevorn. muzn mir, deriber,
+farflantzn naye beymer.
+
+s'vet gedoyrn lang, lang, biz s'vet shteyn vider aza demb vi bunem, un
+keyn glaykhn vet shoyn mer nit zayn. a varemer yid, an ibergegebenem tsu
+yidish un tsum reynem, sheynem bundishn ideal. er iz geven a tuer far
+yidish, un nit nor a reder. er hot bavizn a sakh tsu ton in shtarkn un
+farteydikn undzer geroydeftn mame-loshn.
+
+di ale vos hobn im gekent vet zey shtark oysfeln dem kiln shotn vos er
+hot geshpreyt in zayn farteydikn yidishe shprakh un kultur. koved zayn
+ondenk.
+
+leybl botvinik
+netanya
+
+2)----------------------------------------------------
+Date: Wed, 12 Jul 1995 10:45:03 -0400 (EDT)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Shepn/shlepn
+
+Patty Becker (5.050) asks about _shepn_/_shlepn_/_schlepn nakhes_.  The
+usage can be summed up this way, I think:  _dem goles shlept men, ober
+nakhes fun kinder shept men_:  'One wearily drags around the Exile, but
+one derives/draws proud pleasure from one's children.'  The overlap in
+meaning between "drawing" and "dragging" adds to the similarity in sound
+in producing the confusion, which is quite widespread.
+
+The "c" in "sch" has no function, and so "sch" has no place in YIVO's
+standard romanization scheme; the standard forms are _shepn_ and
+_shlepn_.  (Mendele 4.170 has a simplified guide to the YIVO system.)
+
+Shleyme Axelrod
+Buffalo, New York
+
+3)----------------------------------------------------
+Date: Tue, 11 Jul 1995 20:40:19 -0400 (EDT)
+From: hbershad@sas.upenn.edu
+Subject: shep, shlep, nakhes and khohp
+
+There is a difference between saying "ikh hob nakhes" and "ikh khop
+nakhes: -- yes?  The first receives, the second snatches.  Is this
+analagous to saying "ikh shep nakhes" vs "ikh shlep nakhes"?
+
+Hershl Bershady
+
+4)----------------------------------------------------
+Date: 11 Jul 95 23:31:40 EDT
+From: 75332.2735@compuserve.com
+Subject: Shepn/schepn/shlepn
+
+Patty Becker has asked about the distinction, with regard to nakhes,
+between shepn and shlepn.  One does _not_ shlep nakhes, unless one has
+children from whom nakhes is not forthcoming.  Men _shept_ nakhes, one
+_draws_ nakhes, as one draws water from a well.  Shlepn suggests dragging
+a burden, which nakhes is the antithesis of.  (Of course, one could argue
+that the English words *draw* and *drag* come from the same root, but for
+that argument make your posting to "Villiam, _English_ Literatur un
+Lengvidzh", not to Mendele.)
+
+As for spelling, *schlep* is German in orthography.  Standardized Yiddish
+transliteration into English, following the YIVO model, keeps it simple:
+sh means sh.  (You'll _see_ *sch*, but that spelling is rong.)  ;)
+
+Paul Pascal
+Toronto
+
+5)----------------------------------------------------
+Date: Tue, 11 Jul 1995 21:45:56 -0600 (MDT)
+From: pearlmas@essex.hsc.colorado.edu
+Subject: Music notation
+
+It is so enjoyable to read the many Yiddish songs that are posted from
+time to time.  A good number of them, however, are new to me--as they may
+well be to plenty of other subscribers--and I would like very much to
+know the music to which the words are sung.
+
+Being new to the Internet in general, I wonder if someone has already
+developed a functional form of music notation that can be transmitted via
+email, without requiring graphic computer capabilities.
+
+The "tonic sol-fa" notation, consisting of English characters (doh, re,
+mi, fa, so, la, ti, doh'   abbreviated "d,r,m,f,s,l,t,d' ") and certain
+punctuation marks, might be adapted.  For example, Hatikvah might be
+written:
+
+	(Tempo 4/4)   |l,t,:dr|m-:m-|fm:fl'|m-:--|  [un vayter]
+
+where, in the key of C, "la," would be the note A below middle C; the "|"
+is a bar-sign, and the " : " marks the mid-bar.  The symbols "," and " '
+" after a note would indicate it belongs in the octave above or below the
+central octave, respectively.
+
+If this is of interest to others, I would welcome a more simple and
+effective approach.  We could discuss it by direct personal mail, so as
+not to bore other Mendelyanern with a topic that may not be of general
+concern.
+
+Sholom Pearlman
+Denver, Colorado
+
+6)----------------------------------------------------
+Date: Wed, 12 Jul 1995 00:23:35 EDT
+From: cxag@musica.mcgill.ca
+Subject: Teaching Yiddish
+
+In response to Helen Abeles's question regarding day schools that teach
+Yiddish, allow me to share a deep secret:) with the Mendele fraynd.
+There exists in dem vaytn un kaltn Canada, in der shtot Montreal a day
+school system of over l600 students that teaches Yiddish from
+kindergarten through to senior high school. There are 2 elementary
+branches and ahigh school oyfn nomen Yiddishe folks shuln un Peretz shuln
+un Bialik High School.  These schools are celebrating 80 years of
+existence and are the largest school within the Montreal Day school
+system which includes over 20 schools and approx. 60000 students. Di vos
+zorgn zikh vegn dem kiyum fun Yiddish voltn b'emes badarft zikh
+araynkhapn tsu undz in shtot zen vos fara oytzres mir farmogn onhebndik
+mit di shuln, dernokh di velt barimte Yiddish Folks Bibliotek un gevis
+undzer Yiddish teater vos shpilt 2 mol in  yor, 3-4 vokhn. Montreal was
+and continues to be an active centre of Yiddish culture, Yiddish learning
+and Yiddish activity in general.
+
+As for the schools, I would be happy to  hear from anyone interested in
+what we do here.  I'll be back in Montreal early August. Dervayl hot mir
+alle a gezuntn zumer.
+
+Anna Gonshor
+Montreal
+
+7)----------------------------------------------------
+Date: Wed, 12 Jul 95 11:33:03 +0200
+From: anno4000@w172zrz.zrz.tu-berlin.de
+Subject: Davka
+
+In 5.039 Harvey Spiro says he has heard "davka" creeping into Yiddish
+spoken in Israel.  I believe the word must have been in use in at least
+some dialects of Yiddish long before Israel existed because it has made
+its way into German.  "Aus Daffke" is used to describe the motivation (or
+rather absence of a rational motivation) for an action, meaning "for
+spite", "for no good reason", "just because I wanted to."  It's a bit on
+the colloquial side of the language, as are many of the German words of
+Yiddish origin, but it can be found in most dictionaries.
+
+Anno Siegel
+Berlin, Germany
+
+8)----------------------------------------------------
+Date: Wed, 12 Jul 95 07:32:59 PDT
+From: bm.yib@rlg.stanford.edu
+Subject: Koala Farlag (Melbourne)
+
+For those interested in recently published Yiddish children's books (of a
+secular nature, that is; there is also a burgeoning literature in Yiddish
+aimed at Hasidic children and youth), the fittingly named Koala Farlag,
+in Melbourne (3 Lubrano Street, East Brighton, Victoria 3187, Australia),
+has published a number of titles.  Most are aimed at young children who
+are just beginning to learn to read Yiddish.  The latest publication by
+Koala Farlag is "Tantsndike Dinozavers" (Dancing Dinosaurs), by Rebecca
+White, a 14-year-old student at Leibler-Yavneh College in Melbourne.  A
+press release issued by Koala Farlag notes:
+
+"She formerly studied Yiddish at Sholem Aleichem College's Sunday School,
+and has since continued her interest in Yiddish by taking private
+classes.  In fact, it was a homework assignment last year set by her
+Yiddish tutor, Mrs Bobbi Zylberman, which led to Rebecca's debut as a
+published author....  [Dancing Dinosaurs] tells of a little girl,
+Malkele, who can't get to sleep because she imagines dinosaurs coming out
+of her doll box.  But Malkele's fears are overcome when her father
+promises he will eat up any dinosaurs he finds in her bedroom -- with
+horseradish!"
+
+The cost of the book is $5.00 (Australian), plus $3.00 (Australian) for
+postage and handling.  For those Mendelnikes who happen to be near Gold's
+or Sunflower Bookshops, in Melbourne, it is also available for purchase
+there.
+
+Zachary Baker
+
+9)----------------------------------------------------
+Date: Wed, 12 Jul 95 12:29:06 EDT
+From: dave@cai.lsuc.on.ca
+Subject: Reading material for kids
+
+Harvey Spiro asks about reading material for kids. If you don't mind the
+religious content, there's a fair bit of new material available from the
+Judaica stores in Boro Park (Eichler's on 13th Ave., for example), in New
+York. These are produced by and for the Chassidic Yiddish-speaking
+community, so they're infused with that culture.  Some of it is rather
+good, and some of it comes with accompanying tapes (e.g. Di Alef-Beys
+Velt).
+
+David Sherman
+Toronto
+
+______________________________________________________
+End of Mendele Vol. 5.051
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

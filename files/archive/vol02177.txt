@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 177
+April 19, 1993
+
+1) Welcome (Debra Halperin Biasca)
+2) Gotenyu ti nash (Bob Rothstein)
+3) Slippers (Pe'rets Mett)
+4) Jacinta un Talila (Pierre Lewis)
+5) (Stephen Dowling)
+
+1)----------------------------------------------------
+Date: Sun Apr 18 17:16:52 1993
+From: Debra Halperin Biasca <biasca@ucsu.Colorado.EDU>
+Subject: Re: Welcome to Steven Dowling
+
+[Stephen Dowling writes:]
+
+Ikh bin oykh a talmid fun Pesakh Fiszman, un du host
+mir gekoift a sakh Yidishe bikher, zumer 1992!  Welcome
+to MENDELE.
+
+Debra Halperin Biasca
+
+2)----------------------------------------------------
+Date: Sun Apr 18 23:26:21 1993
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: Gotenyu ti nash
+
+Two or three people have correctly identified the _ti
+nash_ used by Manger as Russian or Polish (or Ukrainain
+or other Slavic), but didn't quite get the sense of the
+whole phrase _Gotenyu ti nash_. It's a vocative phrase,
+something like "Thou/You God of ours." This kind of
+mixture of Slavic and Yiddish and/or Hebrew is found in
+a sizeable body of hassidic songs, presumably
+reflecting the inclination of at least some hassidim to
+find mystical meaning in objects of everyday life that
+surrounded them, including the non- Jewish languages
+that they heard around them.
+
+	Bob Rothstein <rar@slavic.umass.edu>
+
+3)----------------------------------------------------
+Date: Mon Apr 19 05:18:46 1993
+From: P.Mett@open.ac.uk (Percy Mett)
+Subject: slippers
+
+[David (Daniel Moishe) Sherman asks:]
+
+>While we're on the subject, what do people use for
+>slippers? We use shteklatshn or shketshikh.
+
+shtekshikh oder pantoffel
+
+pe'rets mett
+
+
+4)----------------------------------------------------
+Date: Mon Apr 19 10:17:56 1993
+From lew@bnr.ca
+Subject: Jacinta un Talila
+
+The welcome message on subscription suggests I quickly
+introduce myself. So here goes...
+
+ikh lern zikh tsur tsayt yidish. ikh red shoyn daytsh,
+vos helft zeyer fil (mayn mame-loshn iz frantseyzikh).
+shver zaynen far mir di oysyes un di hebraishe verter.
+
+ober far vos lern ikh zikh yidish?
+
+- shprakhn zaynen zeyer interesant, shpetsiel far mir
+  der varglaykh tsvikhn yidish un daytsh (vi a rayze in
+  der fargangenheyt).
+
+- ikh hob mir tsvey CDs gekoyft, vos vundershoyn zaynen
+  un vos ikh vil beser farshteyn ("Jacinta, Autres
+  chansons yiddish" [Ocora] un "Talila et l'ensemble
+  Kol Aviv" [Arion] -- hot ir di gehert?).
+
+- ikh hof yidn (un ire tife sheroshim) beser tsu
+  farshteyn.
+
+Well, enough (and enough mistakes -- transliteration is
+easier to read than to write, esp. with german writing
+habits!) for a first post.  Now I will listen!  I hope
+this mailing list will be yet another source of info on
+this fascinating language and the folks who speak it.
+
+Nor a goy,
+
+Pierre (my friend Rivka calls me Pierrele)
+
+Is there an FAQ for this list.  Questions I have
+include:  Is there a standard codepage for Yiddish
+(maybe iso8859 addresses this?)?  I have found some TeX
+fonts which look very nice (still have to learn TeX),
+but no X11 font.  Are there some?  Is transliteration
+the standard mode in this group?
+
+BTW, I did hack one X11 font (based on lucidatypewriter
+14).  Also I suppose I'll find the answers to some/all
+of these questions on the backfiles, so maybe you
+should tell me where to get them from.
+
+A groysn dank,
+Pierre Lewis
+
+5)----------------------------------------------------
+Date: Mon Apr 19 13:23:34 1993
+From: stephen dowling <71072.2134@CompuServe.COM>
+Subject: YIDDISH CONCERTS IN NEWYORK
+
+A Concert in honor of...
+
+ The volunteers & staff of the Cultural & Education
+ Department & The Jewish Book Center on its 2nd
+ Anniversary!
+
+Featuring...
+
+Irina Fogelson and Elena Ostrovsky an unusual program
+of Yiddish * Russian * Italian English and Gypsy Art
+and Folksong
+
+Admission *$4.00 admission $3.00 Workmen's Circle Members
+
+* $2.00 of the admission price can be used as a credit
+ for purchases of $20.00 or more on the day of the
+ concert.
+
+* * * * * * * * * * * * * *
+
+Paul Zim & Joanne Borts
+in Concert! A Yiddish Cabaret!
+
+Thursday, June 10th, 6:15 pm
+Admission:  Workmen's Circle Members $7.00
+General Admission $9.00
+
+The Jewish Book Center is located at 45 East 33rd
+ Street between Park & Madison Avenues.  For more
+ information or to purchase tickets in advance, please
+ call 212/889-6800, ext. 285.
+
+Stephen Dowling
+______________________________________________________
+End of Mendele Vol 2.177

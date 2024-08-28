@@ -1,0 +1,237 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.309
+April 4, 1994
+
+1) Amerika gonif (Cal Pryluck)
+2) Amerika ganif (Golda Werman)
+3) Jacinta (Odem Vaytman)
+4) Introduction (Ayelet Margalioth)
+5) Learning Yiddish (Ayelet Margalioth)
+6) Ver zogt az yidn kenen nor handlen? (Meyshe Alpert)
+
+1)----------------------------------------------------
+Date: Sun Apr  3 16:01:36 1994
+From: <PRYLUCK@VM.TEMPLE.EDU>
+Subject: Amerika gonif
+
+"Amerika gonif" is one of the exclamations I remember as a regular part
+of my family lexicon as I drifted further and further from what had been
+my first language.  My father used it as an ironic comment about
+individuals and society.  My interpretation is something like: "some
+people sure know how to take advantage of opportunities."  The phrase
+seemed to imply both admiration and vague criticism.
+
+Cal Pryluck
+
+2)----------------------------------------------------
+Date: Mon Apr  4 06:29:33 1994
+From: <RWERMAN@vms.huji.ac.il>
+Subject:  Amerika ganif
+
+The best description I know of "Amerika ganif" is in the following joke:
+
+A recent Polish immigrant to New York uses an escalator for the first
+time in his life.  He is amazed.
+
+"Amerika ganif," he says, "me shtayt un me gayt."
+
+__Golda Werman
+
+3)----------------------------------------------------
+Date: Sun Apr  3 19:48:47 1994
+From: <74031.775@CompuServe.COM>
+Subject: Jacinta?
+
+Ikh hob nor vos gekeyft a nayem CD fun Jacinta vos heyst Autres Chansons
+Yiddish un es iz gemakht in Frankraykh fun Radio France.  Loytn tekst
+Jacinta shtamt fun Argentina.  Ir stil iz nit kin traditsioneler khotsh
+merstn fun di lider zenen folkslider.  Efsher tsvishn undzere Parizer
+Mendelnikes fran emetser vos veyst epes veygn ir.
+
+Odem Vaytman
+
+4)----------------------------------------------------
+Date: Sun Apr  3 22:53:40 1994
+From: <akmargal@husc.harvard.edu>
+Subject: Introduction
+
+This is by way of a very short introduction (my apologies to those
+Harvard or Canadian people who already know me).
+
+My name is Ayelet Kuper Margalioth and I'm a Senior at Harvard. I'm from
+Montreal, and when I'm there I'm involved in the Montreal Yiddish Theatre
+(I also learned some of my Yiddish at Bialik High School, but mostly from
+my family).
+
+Next year I'll be going to England to get an M.Litt. in Yiddish
+Literature at Oxford. At the moment I'm actually majoring in Biology, but
+I'm taking a class in Yiddish novels with Prof. Ruth Wisse here at
+Harvard and took another last semester on Yiddish short stories (if
+anyone knows where to find out of print English translations of Yiddish
+book, besides at the National Yiddish Book Center, please let me know). I
+think that's about it -  I have to get back to work on my thesis, which
+is due next week. Zeyer gut tsu eich bakenen (I think that makes sense;
+I've forgotten a lot here at school),
+
+Ayelet Margalioth
+
+5)----------------------------------------------------
+Date: Sun Apr  3 22:55:43 1994
+From: <akmargal@husc.harvard.edu>
+Subject: Learning Yiddish
+
+In reply to Seth Golub:
+
+I know that there are Yiddish-instructional audiotapes available, I'm
+just not sure where one would find them in the USA. The Jewish Public
+Library in Montreal has a set, though, and might be able to help you find
+them closer to home (they're at 5151 Cote-Ste-Catherine St in Montreal,
+Quebec, Canada, but I don't know the Postal Code or Phone Number).
+Widener Library Judaica, Room M, Harvard College, Cambridge MA 02138
+might also have a copy or know where to find one.
+
+Ayelet Kuper Margalioth
+
+6)----------------------------------------------------
+Date: Mon Apr  4 00:17:58 1994
+From: meyshke@aol.com
+Subject: Ver zogt az yidn kenen nor handlen?
+
+Thot you cyber-shraybers would like to see more of what's happening to
+Yiddish music out on the information superhighway. The following comes to
+me via Henry Goldberg of Boston, a gezunt em in pupikl. I take no
+responsibility for orthography. Az me fort kayn Sevastopol, iz nit vayt
+fun Cyberopol. . .
+
+           Zayt mir ale hi-res un shtark
+
+           Meyshe Alpert
+
+PRINT : PRINT "HEY! ZHANKOYE"
+PRINT
+'      Em
+PRINT "Az men fort kine Se-vas-to-pol"
+PLAY " e  e   e    g    b  b   b  g"
+'      A      Am       Em
+PRINT "Iz nit veit fon Sim-fere-o-pol"
+PLAY " a  a   a    e   g   g    f+e"
+'        Am          B7             Em
+PRINT "  Dor-tn iz a stan-tzi-ye fa-ran. "
+PLAY "   e   g  f+ g a    a   f+ f+ e2. p4"
+PRINT ""
+PRINT "Ver darf zu-chen ni-ye glik-ken"
+PLAY " e   e    e  g    b  b  b    g"
+'      A      Am         Em
+PRINT "S'iz a stan-tziye an an-ti-kel "
+PLAY " a    a a    e     g  g  f+ e"
+'        Am             B7            Em
+PRINT "  In Zhan-ko-ye, dzhan, dzhan, dzhan..."
+PLAY "   e  g    f+ g   a2     f+2     e2. p4"
+PRINT ""
+PRINT ""
+PRINT "Chorus:"
+'         Am        D7
+PRINT "   Hey Zhan, hey Zhan-ko-ye, "
+PLAY "T205a2  a2    >d  d    d  c <"
+'         G               D7       B7
+PRINT "   Hey Zhan-vi-li, hey Zhan-ko-ye,"
+PLAY "    b   g    g  b   >d  c    <b a"
+'         Em              Am     B7     Em    AmE7
+PRINT "   Hey Zhan-ko-ye, dzhan, dzhan, dzhan."
+PLAY "    g   g    f+ g   a2     f+2    mle2g2a2b2 mn"
+PRINT ""
+PRINT "   Hey Zhan, hey Zhan-ko-ye, "
+PLAY "    a2  a2    >d  d    d  c <"
+PRINT "   Hey Zhan-vi-li, hey Zhan-ko-ye,"
+PLAY "    b   g    g  b   >d  c    <b a"
+PRINT "   Hey Zhan-ko-ye, dzhan, dzhan, dzhan."
+PLAY "    g   g    f+ g   a2     f+2    e1. p2"
+
+PRINT "En-fert Yid-den af mine ka-she"
+PLAY " e  e    e   g   b  b    b  g"
+PRINT "Vi'z mine bri-der, vi'z A-bra-she"
+PLAY " a    a    a   e    g    g f+  e"
+PRINT "  S'gayt ba im der trak-tor vi a bahn."
+PLAY "   e      g  f+ g   a    a   f+ f+e2. p4"
+PRINT ""
+
+PRINT "Di mi-me Lay-e ba der ko-sil-ke"
+PLAY " e  e8 e8 e   g b  b   b8 b8  g"
+PRINT "S'iz a stan-tziye an an-ti-kel "
+PLAY " a    a a    e     g  g  f+ e"
+PRINT "  In Zhan-ko-ye, dzhan, dzhan, dzhan..."
+PLAY "   e  g    f+ g   a2     f+2     e2. p4"
+PRINT ""
+PRINT ""
+PRINT "Chorus:"
+PRINT "   Hey Zhan, hey Zhan-ko-ye, "
+PLAY "T205a2  a2    >d  d    d  c <"
+PRINT "   Hey Zhan-vi-li, hey Zhan-ko-ye,"
+PLAY "    b   g    g  b   >d  c    <b a"
+PRINT "   Hey Zhan-ko-ye, dzhan, dzhan, dzhan."
+PLAY "    g   g    f+ g   a2     f+2    mle2g2a2b2 mn"
+PRINT ""
+PRINT "   Hey Zhan, hey Zhan-ko-ye, "
+PLAY "    a2  a2    >d  d    d  c <"
+PRINT "   Hey Zhan-vi-li, hey Zhan-ko-ye,"
+PLAY "    b   g    g  b   >d  c    <b a"
+PRINT "   Hey Zhan-ko-ye, dzhan, dzhan, dzhan."
+PLAY "    g   g    f+ g   a2     f+2    e1. p2"
+
+PRINT "Ver zog az Yidden kenen nor handlen,"
+PRINT "Essen fette yoich mit mandlen"
+PRINT "  Nor nit zine kine arbetsman?"
+PRINT
+PRINT "Doss kenen zogen nor di sonim"
+PRINT "Yidden, shpite zay on in ponim!"
+PRINT "  Tit a kik of dzhan, dzhan, dzhan..."
+
+PRINT "English rendering by Jerry Silverman:"
+PRINT
+PRINT "       When you go to Sevastopol,"
+PRINT "       That's not far from Simferopol,"
+PRINT "         There you'll find a pretty little town,"
+PRINT "       Who would need to seek new pleasure"
+PRINT "       It's the best by any measure,"
+PRINT "         Called Zhankoye, zhan, zhan, zhan."
+PRINT
+PRINT "       If you ask a Jewish farmer"
+PRINT "       Where's my brother, where's Abram,"
+PRINT "         He's driving on his tractor like a train"
+PRINT "       The women operate machines,"
+PRINT "       It's all beyond your wildest dreams,"
+PRINT "         In Zhankoye, zhan, zhan, zhan."
+PRINT
+PRINT "       Who says that Jews know business only?"
+PRINT "       We've all heard that old baloney;"
+PRINT "         And not be a working man."
+PRINT "       Our enemies are in disgrace,"
+PRINT "       Jews will spit right in their faces,"
+PRINT "         Take a look at zhan, zhan, zhan."
+
+______________________________________________________
+End of Mendele Vol. 3.309
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net

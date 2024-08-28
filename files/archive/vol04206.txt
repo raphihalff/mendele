@@ -1,0 +1,228 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.206
+November 30, 1994
+
+1) Western Yiddish folk music (Dovid Braun)
+2) A teacher(?) learns from a student! (Louis Fridhandler)
+
+1)----------------------------------------------------
+Date: Wed, 30 Nov 1994 02:16:08 EST
+From: dovid@mit.edu
+Subject: Western Yiddish folk music
+
+On the subject of music, it was very pleasant to read Arre Komar's recent
+contribution (of a number of issues ago).  His latest communication on
+the subject, however, warrants comment.
+
+"An interesting question was raised concerning western Yiddish folk
+music. In fact there doesn't seem to be any.  [...] [T]rue secular
+folksongs dealing with romantic and personal topics seem to [have] arisen
+suddenly in Poland in the 18th century, [...] it seems to have been the
+spontaneous creation of the women who spoke true mama [sic] loshn, rather
+than the more sophisticated hebraized Yiddish of the kheder [sic]
+educated men (which seems to be getting more popular among academicians
+in recent years)."
+
+As for the last point regarding Yiddish stylistics (viz., the register
+used in academic Yiddish), I know of no documentation in the literature
+for the validity of this statement.  In fact, I know of the opposite:
+there have been summonses to maintain Talmudic style in Yiddish
+expository prose (Yudl Mark's article "Lomir ufhitn di ashires fun
+talmed-khokhems shprakh" from the 1950s [?] is, if memory serves me
+correctly, the title of one such well known manifesto.)  And recall that
+kheyder is Jewish primary school, so saying that academicians are using
+kheyder-loshn isn't giving them much credit -- it is just as
+sophisticated as children learning khumesh can be expected to be.  So I
+assume that Komar means the register of Jewish scholarly discourse. But I
+also know of no serious claim in the literature that the Yiddish used by
+academes today is any different from the Yiddish used by academes in
+previous years. There are a number of Mendele-readers who are quite well
+acquainted with Yiddish academic writing both of today and years past,
+and I wonder if they would concur with my subjective feeling that no
+special "Hebraicization" has occurred in the register of academic
+discourse.  (A "Yiddishization" -- yes, i.e. expository prose has come to
+reflect the facts of the various registers and styles of spoken Yiddish
+more and more over the past century.)
+
+Ober nit dos bin ikh oysn, as you can see by my subject line.
+
+I wish to correct an error of reasoning and a factual error which inhere
+in the statement "there doesn't seem to be any [western Yiddish folk
+music]".
+
+Firstly, it would probably be the assumption of any student of culture
+that where there are groups of people, there is music (instrumental,
+song, what-have-you).  When looking at a specific ethnic group, then,
+negative evidence is not instructive (the Talmudic dictum "loy yodati
+eyno rayo", i.e. '[the claim] "I did not know" does not constitute
+evidence'). In our specific instance, this would translate into the
+faulty logic of the claim "unless you have evidence that group X has some
+form of musical expression, assume that they don't".
+
+Fortunately, we don't have to rely on conceptual arguments to derive the
+claim that "mayrev-yidn" had folkmusic.  We can simply open one of the
+classic collections of Yiddish folkmusic.  Take, for example, Y.-L.
+Cahan's _Yidishe folkslider mit melodyes_.  Since they are quite
+entertaining (linguistically, poetically, culturally), let me reproduce
+songs #264-266.  This way, readers will get a glimpse of some "Western
+Yiddish" in full, running text as opposed to the single words or phrases
+usually adduced in discussion of the dialect. These songs, you will note,
+fit Arre Komar's definition of folkmusic, viz. "secular [creations]
+dealing with romantic and personal topics".  (Note, also, that these are
+not criteria that the present-day folklorist usually uses for determining
+the "folkness" of a cultural ceation -- does the Peysekh song "Mo adabro,
+mo asapro, ver ken zogn, ver ken reydn, vos di eyns batayt" not fall
+under the category of Yiddish folkmusic because it is of a religious
+nature? -- but that's another story.)
+
+(The following is a transcription of the text presented in Cahan, which
+itself is a transcription of Western Yiddish into the writing system of
+Eastern Yiddish.  I wouldn't be surprised if the actual pronunciation,
+especially of the vowels and diphthongs, is quite different from the way
+it is presented by Cahan, a non-linguist.  But we'll have to leave that
+to our imagination and to those who know more about Western Yiddish
+phonology than I to further clarify.  By the sequence "ou" is meant the
+vowel sound in American English _so_ or _sew_.)
+
+Cahan #264
+- -----------
+
+ven de matesdorfer madelokh
+zayn nokh ezoy eydl
+gey iekh doukh liber
+tsi de ritlens kreydl
+
+dou zougt de kreydl:
+iekh vorf dekh eros;
+gebt eyr ir noukh e poar
+barkhezlokh derouf
+
+The footnotes tell us that Cahan collected this song from Roze
+Halbershteter, born 1852.  Max Weinreich, who edited the 1957 edition of
+Cahan's _Yiddish Folkslider..._ glosses the song with the following
+approximation:  "The girls of Matesdorf may be real fine, but I
+nevertheless go to Kreydl, Ritl's daughter.  Says Kreydl:  'I'm throwing
+you out!'  So he gives her a couple of khales on top of everything
+else".(_barkhes_  are 'khales' in Western Yiddish.)
+
+Cahan #265
+- -----------
+shabes ouvnt zougt de mame:
+netl, tsik de u!
+tsik de nur day aler shenste
+shabeskladl u.
+
+tomer kimt der khosn
+in nemt dekh oune gelt;
+e mise mad tsi patern
+iz git far de gantse velt
+
+M. Weinreich indicates in the footnotes that _netl_ is a girl's name and
+_tsik de u_ is the equivalent of Eastern Yiddish 'tu zikh on'.  The
+reader of Yiddish should find the rest of the song discernible (if quite
+different from the language we're used to).  Cahan collected this from
+Hermine, the daughter of Roze Halbershteter (of #264 fame), who was born
+in 1890.
+
+Cahan #266
+- ------------
+shabes ouvnt zougt de mame:
+zali, ti dekh u,
+kensti mit mer mitgeyn
+in tantszal enu.
+
+ti der dayne ale shenstn
+shabesklader u,
+tomer vird zikh aner
+ferlibn in du.
+
+dali, dali, day,
+ezoy zougt mer, ezoy,
+e mise mad puter tsi vern
+iz ka shpileray.
+
+vasti ferheyrat zay,
+makhst dokh in krey ay;
+dous iz doukh va
+nur puter zay
+
+Key:  zali = 'girl's name'; u = modern Yiddish 'on'; enu = mod. Yid
+'arunter'; in du = 'in dir'; zougt mer = 'zogt men'; vasti = 'vestu';
+makhst doukh in krey ay = in English: 'you soil yourself in horseradish';
+puter zay = mo. Yid. 'poter zayn'.
+
+All three songs are from Ayznshtot (Eisenstadt); the last one is also
+from Lackenbach.  These are in Burgenland (part of Austria, bordering on
+Hungary.)
+
+I hope you enjoyed this very basic introduction to Western Yiddish
+folkmusic. I personally know very little about it, but obviously there is
+"what to know".
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: 29 Nov 94 20:26:34 EST
+From: 74064.1661@compuserve.com
+Subject: A teacher(?) learns from a student!
+
+Of course it was bound to happen!  A beginning Yiddish student in Israel
+has taught me a lesson I should have had right up front in my mind.  At
+my advanced age, I tend to think of myself as having things to teach, and
+I do.  But as I pointed out in an earlier post, contact with a student is
+always an opportunity for the teacher to learn important lessons,
+solicited or not.  Miriam Halkin is, as she says, a beginner in Yiddish.
+She forcefully, on target, made a most important point about the
+desirability of accurate, grammatical Yiddish on Mendele.  As a beginner,
+she wants to feel confident that she is not misled grammatically,
+orthographically, idiomatically, etc.  Do we need a better lesson than
+this?  Do not Mendele subscribers feel a responsibility to the young
+'uns? Isn't that the only way to see that Yiddish lives?
+
+Thanks for the lesson, Miriam.
+
+(A lebn af dayn kepele!  I hope that's correct.  Don't ever hesitate to
+check with your local teacher(s).)
+
+Still, I am interested in reading all contributions, corrected or
+uncorrected, from beginners who are bound to stumble, or from veterans
+who may have a more casual approach to grammar, etc.  I vote for an
+inclusionary policy.
+
+Louis Fridhandler
+
+______________________________________________________
+End of Mendele Vol. 4.206
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

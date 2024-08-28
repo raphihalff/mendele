@@ -1,0 +1,222 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.296
+January 28, 1995
+
+1) Mendele who-is-who (Anno Siegel)
+2) A Question about Shmuel-Zaynvl (Dovid Braun and Khayem Bochner)
+3) Who is Moyshe Flekhter/Flekhtl (Dovid Braun)
+4) The Great Apikores of Vilna (Szalom Lew Korbman)
+
+1)----------------------------------------------------
+Date: Fri, 27 Jan 95 15:17:49 +0100
+From: anno4000@w172zrz.zrz.tu-berlin.de
+Subject: Mendele who-is-who
+
+Dear Mendelniks,
+
+the first edition of Mendele's "ver is der doziker" is now available. The
+file name is who-is-who and it can be retrieved by anonymous ftp
+
+from the well known place:
+
+  ftp.mendele.trincoll.edu in the directory pub/mendele/files
+
+The file consists of all introductions that have been sent to Mendele, in
+alphabetical order by last name.  There are currently 350 of these and
+the file size is a little less than 400 KBytes.
+
+I intend send updates in monthly intervals near the end of each month, so
+new introductions will be included after a while.  Also, if you have
+already sent an introduction and now send another, the new one will
+replace the old one.
+
+If you have comments, suggestions or corrections concerning the
+who-is-who, please send them to my address siegel@zrz.tu-berlin.de.
+
+Be well,
+
+Anno Siegel
+Berlin, Germany
+
+[A hartsikn dank in nomen fun ale Mendelyaner.  The file will also be
+available in compressed form for those who use pkzip or its equivalent.
+Those who download the zipped form shought remember to set the ftp
+transmission to "bin". nm]
+
+2)----------------------------------------------------
+Date: Fri, 27 Jan 1995 18:34:59 EST
+From: dovid@mit.edu
+Subject: A Question about Shmuel-Zaynvl
+
+Certain Yiddish names are commonly paired, such as Menakhem-Mendl,
+Shrage-Fayvl, Itshe-Meyer, Doyv-Ber and there are many reasons.  In the
+last one, for instance, a name from Semitic (Hebrew) is coupled with its
+Yiddish translation -- the first name reflects the name by which the
+name- bearer is called to the Torah and the second is the one by which he
+is called in everyday discourse.
+
+Khayem Bochner and I would like to know whether Shmuel-Zaynvl (variants:
+Zanvl, Zavl) is a common pairing.  There was the pre-WWII Yiddish
+folklorist Shmuel-Zaynvl Pipe.  Are you familiar with any others (famous
+ones, infamous one, or simply family members)?  Please answer to my or
+Khayem's address and we'll summarize the results on Mendele (and we'll
+explain why we've asked). Thanks!
+
+Dovid Braun  dovid@mit.edu
+Khayem Bochner bochner@das.harvard.edu
+
+3)----------------------------------------------------
+Date: Sat, 28 Jan 1995 00:50:24 EST
+From: dovid@mit.edu
+Subject: Who is Moyshe Flekhter/Flekhtl
+
+In the folksong section of the _Forverts_, "Leyener dermonen zikh lider",
+of January 13, 1995, the authors (Khane and Yosl Mlotek) discuss a
+children's rhyme and song which begins with the words "Afn hoykhn barg/
+afn grinem groz/ shteyen a por daytshn/ mit di lange baytshn/ [...]".
+(This rhyme is pre-1900, so neither the Germans of WWI nor the Germans of
+WWII are meant, by the way.)
+
+First of all, does anybody on Mendele know this rhyme/song?
+
+Secondly.  A version of it printed in the Ginzburg-Marek collection
+contains a stanza:  "Kumt khayem der blinder/mit di tsvelf kinder/kumt
+moyshe flekhter/ makht on a gelekhter/oy, kha-kha-kha, oy kha-kha-kha".
+Perhaps Khayem der blinder and Moyshe flekhter existed, perhaps they only
+exist for the rhyme. I'm wondering, though, what a _flekhter_ is.  Is
+anybody familiar with this character (from this or another rhyme/song)?
+And if so, how do you interpret the word?
+
+A final note:  I've collected a version of the (quite popular) children's
+song that begins with the words:  "Kumt der liber zumer/ shpiln mir in
+zamd" in which a character "Moyshe Flekhtl" appears in the second stanza.
+Now, _flekhtn_ is 'to braid (e.g. hair, a khale/challah'); _flekhtl_ is
+the noun form - 'braid'; and _flekhter_ is 'one who braids'.  But is
+there any other understanding of this word or the activity that I don't
+understand, such that a character should have been created out of it and
+this character travelled from one children's song to the next?
+
+I'll be happy to receive replies at my personal e-mail address; I'll then
+summarize them on Mendele.
+
+Dovid Braun
+
+p.s. This possibility occurred to me: to compose rhymes in doggerel style
+is _flekhtn gramen_. Maybe this guy was a _gramen-flekhter_, a clown
+type. This accords with the description of him: "Kumt Moyshe flekhter/
+makht on a gelekhter". But still, any other explanations and allusions to
+him known to you?
+
+4)----------------------------------------------------
+Date: Fri,  27 Jan 95 10:57:35 GMT
+From: s.korbman@agora.stm.it
+Subject: The Great Apikores of Vilna
+
+I know a story that is similar to the one told by Rick Turkel on the
+Apikores Subject. If it is similar, why tell it again and waste your time
+and my time?   First, because it is a story that I like very much, in
+which I feel deeply involved; second, because similar is not equal, and
+the world is made up of subtle differences; third, because I discovered
+Mendele one week ago, I feel enthusistic about it and I have to
+contribute in a way or another.
+
+It goes like that:
+
+In a little shtetl in Poland lived an Apikores; he did not believe in
+the religious narishkaytn: he never went to Shul, he travelled on
+Saturdays, he ate pork. He also mocked the religious jews and met with
+other Apikorsim to enjoy how clever they were. Short, he was a normal
+Apikores and was quite satisfied of himself.
+
+He learnt that in Vilna was living a Great Apikores, the most important
+Apikores in his times, and decided to go and visit him, so that they
+could discuss how to fight the religious mob.
+
+When in Vilna, he asked were was the Great Apikores of Vilna, and they
+kept addressing him to the main temple. It is a mistake, he thought, who
+cares, I will ask inside.
+
+In the Shul was a long table, with old and wise man around it discussing
+Toire un Mishne. At the head of the table was sitting an impressive
+character, big, with a long white beard, commanding eyes, who discussed,
+monitored, counterbated, was the leader of every argument. Imagine the
+surprise of our little Apikores when he is told that that person is the
+famous Great Apikores of Vilna! But he is not easily frightened: he goes
+directly to the man and asks:
+
+        - Mister! Are you the Great Apikores of Vilna?
+
+        The other one interrupts his speech and looks at him; than he
+says, with a deep, sonorous voice:
+
+        - Yes, I am the Great Apikores of Vilna. Who are you? What do you
+want?
+
+        - I too am an Apikores and I came to visit you. But what are you
+doing here? Why do you waste your time speaking with these beheymes?
+What are you doing in this place of mishigas?
+
+        - You did not study the Bible? You do not read the Talmud?
+
+        - Of course not! There are much better things in life than such
+tedious trevia.
+
+        The Great Apikores of Vilna rises to his feet and shouts:
+
+        - You are not an Apikores! You are an ignoramus!"
+
+
+This is the story, which I think thoroughly illustrates the meaning of
+the _Apikores_ word and the misunderstanings it is subject to: it really
+means "heretic", but it is also commonly used for "non religious Jew" or
+"a Jew who rejected Jewry"; may be that the word also feels the influence
+of the non-Jewish equivalent, "epicurean", usually associated with
+someone who enjoys the good things of material life (typically food and
+sex).
+
+There remains a sheyle that I would like to ask. I am ignorant and/or an
+apikores: to me, the story is a vits, it makes me laugh. My wife is a
+gelernete un a frime, she does not laugh at it, she claims that I have it
+all upside down; not only that, my Jewish friends take it as a meaningful
+tale but nothing to laught about. Is the story humorous or not? Only for
+Apikores?
+
+Szalom Lew Korbman
+Milan, Italy
+
+______________________________________________________
+End of Mendele Vol. 4.296
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

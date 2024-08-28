@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.155
+October 26, 1994
+
+1) Chopped Liver (Jack Feldman)
+2) Yeke (Mikhl Herzog)
+3) The red and the yellow (Mikhl Herzog)
+4) Kasrilevke (Mikhl Herzog)
+5) Toronto (Mikhl Herzog)
+6) Yiddish life in Estonia (Soreh Benor)
+
+1)----------------------------------------------------
+Date: Mon, 24 Oct 1994 15:54:00 -0700
+From: feldman@math.berkeley.edu
+Subject: Chopped liver
+
+I recently heard once again (this time on a T.V. commercial) the
+complaint "what am I, chopped liver?", and am wondering whether any of
+you can trace this back to the Yiddish or Yinglish remark from which it
+must come.
+
+Jack Feldman
+
+2)----------------------------------------------------
+Date: Tue, 25 Oct 94  00:07 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Yeke
+
+I think Ruben Frankenstein's third option is on the mark. "Yeke" is most
+likely derived from German "Jeck" a regional variant of Standard German
+"Geck" 'coxcomb','dandy'. The other, more fanciful "etymologies" are
+probably the result of the general unawareness of the "g/j" regional
+variants in German which yield "janz jut" where we would expect "ganz
+gut".
+
+There's another, widespread reflection of this variation in Yiddish:
+Standard Yiddish "dayges" 'worries' (Eastern Yiddish variants include
+"da(n)ges/da:(n)ges/(rarely) daynges"), is realized as "da:yes" (with "j"
+not "g"!! and often with nasalized "a:) throughout much of Western
+Yiddish.
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Tue, 25 Oct 94  00:07 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: The red and the yellow
+
+Having become a member of the jet set "af der elter", I was compelled to
+make a trip to far off places on very short notice, just a few days ago,
+before I had a chance to supplement my earlier posting about "redheads".
+A chance meeting abroad now compels me to take it all back.
+
+I originally implied (or concurred [Vol4. 138]in Dan Leeson's assertion)
+that the designation of a 'redhead' as a "geler" was specific to Litvish
+Yiddish. I was going to supplement this with the suggestion that this
+might have been an avoidance device. I'm told that "a reyter" in Litvish
+Yiddish designates a "kaasn", a man quick to anger. Hence, call a redhead
+"a geler". There are, after all, other examples of such "avoidance
+devices" among Litvakes. The Litvak says "avu freystu zikh" ('where do
+you rejoice?') instead of "vu veynstu?" ('where do you live = cry?'). He
+says "fisnoge" and "fisribe" to distinguish the "fis" that he walks on
+from the "fis" that he eats. Why not "a geler" to distinguish a redhead
+from a man quick to anger?
+
+Enter Shmuel Atzmon, director of the Tel Aviv Yiddish Theatre, who
+assures me that his mother who knew Bashevis well in Bilgoraj, deep in
+Poland, spoke of him as "Itsik der geyler". Where do we go from here?
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Tue, 25 Oct 94  09:46 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Kasrilevke
+
+Kayle Goodman. We sang it, and that's all there was to it:
+
+Fun vanen ku-umt a yid? Fun Kasrilevke.
+Fun vanen ku-umt a yid? Fun Kasrilevke.
+Fun vanen ku-umt a yid? Fun Kasrilevke.
+Fu-un Kasri-ilivke-ke-ke!
+
+Was there more? Did ANYONE write it?
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Tue, 25 Oct 94  09:46 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Toronto
+
+Sheine Mankowsky. I'm shattered! Devastated! That ANYONE, particularly a
+Torontonian, would say of Toronto that it's "not traditionally known in
+the past for its Yiddish atmosphere" defies belief. I envy your youth,
+and perhaps your relatively recent arrival in Toronto, which alone can
+account for your not knowing that Toronto is, at least historically, the
+MOST Yiddish of cities! I leave it to present day Torontonians to defend
+the city's honor ("honour" that is).
+
+As a graduate of and former teacher at Toronto's "Farband yidishe folk
+shul un mitl shul" and as the very first administrator of your very own
+Bialik school (better known in my day as the "Viewmount shule") which was
+itself born of the "Farband folk shul", I implore you to look into the
+history of the community you so glibly malign -:), please!
+
+Mikhl Herzog
+
+6)----------------------------------------------------
+Date: Tue, 25 Oct 1994 14:28:33 -0400 (EDT)
+From: seb28@columbia.edu
+Subject: Yiddish life in Estonia
+
+I'm an undergrad at Columbia University (ich lern zich a bisl Yiddish),
+and I just found out that the College sponsors an annual fellowship for
+several students to spend a summer in Estonia. I think this might be a
+great opportunity for me to use my new Yiddish skills to search out and
+work with any Jewish communities that remain in that area. But I'm not
+sure if there even are any -- this is where Mendele comes in. Is anyone
+familiar with current Yiddish life in Estonia?
+
+Soreh Benor
+
+______________________________________________________
+End of Mendele Vol. 4.155
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.159
+October 31, 1994
+
+1) Yitskhok Berliner (Bob Freedman)
+2) Bonkele (Dovid Braun)
+3) Sholem Aleichem: Attention Deficit? (Louis Fridhandler)
+4) Yiddish Sentence Revised as Criticized (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Sun, 30 Oct 1994 11:23:23 EST
+From: rfreedman@shrsys.hslc.org
+Subject: Yitskhok Berliner
+
+I am trying to locate the following book:
+
+    Shtot Fun Palatsn, published in Mexico in 1936
+    by Yitskhok Berliner (1899-1957) and illustrated
+    by Diego Rivera
+
+Bob Freedman
+
+2)----------------------------------------------------
+Date: Sun, 30 Oct 1994 13:32:19 EST
+From: dovid@MIT.EDU
+Subject: Bonkele
+
+To Soreh Benor:
+
+I don't have anything very revealing to say about _bunshke_, but I'm told
+that my grandmother used to call my mother _bonkele_ when she was a tot.
+Makes you wonder...
+
+Dovid Braun
+
+3)----------------------------------------------------
+Date: 30 Oct 94 16:30:30 EST
+From: 74064.1661@compuserve.com
+Subject: Sholem Aleichem: Attention Deficit?
+
+Re: Harvey Spiro's "Did Sholem Aleichem have Attention Deficit?"
+
+I don't think there is any reason to conclude that Sholem Aleichem had an
+attention span problem.  First of all: I caution against mistaking an
+author for his characters.  E.g., there is no clue suggesting that
+Shakespeare was crazily ambitious for power like Lady Macbeth or as
+indecisive and depressed as Hamlet.  Mark Twain was neither Huckleberry
+Finn nor Jim.  All art is autobiography, and there are author-character
+identifications but not identities.  Sholem Aleichem labored over his
+work for many hours and days and weeks in deeply concentrated attention.
+This is evident from contemporary observers.  In addition to Yiddish and
+Hebrew authors, and Talmud and Tanakh, Sholem Aleichem read the Russian
+authors, and Mark Twain, Dickens, Thackeray, et al. in Russian
+translation.  This _must_ have taken intense, concentrated attention.  He
+neglected business affairs to great financial loss through attention to
+his writing.  From my perspective, there is no reason to diagnose in
+Sholem Aleichem an Attention Deficit and Hyperactivity Disorder (ADHD).
+He made some rash decisions at times, but don't we all?  In early youth,
+he hardly reread his own work before sending it off.  This changed as be
+became an experienced writer, and often revised and re-edited.
+
+As to Tevye, Sholem Aleichem makes him artfully change focus to back and
+fill in and toss off revealing comments.  Tevye certainly pays attention to
+the main thing: concern about feeding his family and maintaining his
+"family values," but makes a mistake or two.  Further, in the Tevye
+stories, there are two characters: Tevye the monologist plus Sholem
+Aleichem the silent listener paying close attention through a a long story.
+(Incidentally, in the original version of the first story, Sholem Aleichem
+is _not_ silent).  The stories became tragic as the years go by.  Sholem
+Aleichem continues patiently listening, very attentively.  In "An Eytse,"
+Sholem Aleichem is again the listener, not the one seeking advice.  Sholem
+Aleichem listens very attentively to the nudnik at first, but finally loses
+both patience and temper, a rare occurrence.
+
+Motl seems not unmanageable.  He is bright and observant and often
+cooperative.  His language changes from childish to poetically adult, an
+author's device.  Of course, as child, he changes focus, but from a
+child's perspective the world demands attention in so many directions at
+once.  The child better change focus to absorb what he needs to become a
+mentsh.  I can only guess he did not need Ritalin, but that's up to
+_very_ careful, experienced, attentive diagnosticians.
+
+For insight into Sholem Aleichem, we ought to look at his life _and_
+work. For one thing, his evident, much too close, identification with his
+father led, in my opinion, to an earlier death than he might otherwise
+have suffered.  See my article, "Was his Death Too Soon?" in "The Three
+Great Classic Writer of Modern Yiddish Literature, Volume II,
+Sholem-Aleykhem," Malibu, CA: Joseph Simon Pangloss Press, 1994, p. 17.
+
+Louis Fridhandler
+
+4)----------------------------------------------------
+Date: Sun, 30 Oct 1994 17:44:25 -0500
+From: zellig@aol.com
+Subject: Yiddish Sentence Revised as Criticized
+
+A Mendele member wrote that he "stopped reading Mendele a while back
+because [he] was sick of the grammarians" (4.119,4).  Then he "flamed" me
+for having the audacity of analyzing critically a Yiddish sentence in
+Steven Pinker's recent book _The Language Instinct_ (4.118,1).  He
+continued:  "Boy, things are getting worse.  Poor Pinker, the MIT
+linguist, gets slammed... all because of a few words in Yiddish about
+grandmothers, grandfathers, and balls.  A shande, I tell you."
+
+Well, if you and I can  be corrected for faulty spelling and incorrect
+grammar, why not--especially--a linguist?
+
+Pinker himself did not find it a "shande," nor a "kharpe".  In his reply
+in Mendele (4.129,1) there was no indication whatsoever that he felt the
+least bit insulted, and no sign at all of any degree of defensiveness.
+He wrote: "I was _amused and enlightened_ (Italics added) to read the
+recent discussion in Mendele (kindly forwarded to me by several
+colleagues)... and I had already received several letters, pointing out
+that [the sentence] was puzzlingly nonstandard."  He added that he
+already changed the words and spelling of the sentence to the YIVO
+standard, for the next edition.
+
+In an E-mail letter I asked him to advise me the revised sentence, with
+permission to publish it in Mendele.  Back came his prompt and friendly
+reply:  He has no objection to discussing his revised sentence in
+Mendele.
+
+This is the new, revised text:
+
+      Az di bobe volt gehat beytsim volt zi geven mayn zeyde.
+
+Mendele readers may recall that this revision corresponds exactly with my
+word analysis of the original mangled sentence ("Az der bubbe vot gehat,"
+4.118,1).
+
+Zellig Bach
+
+______________________________________________________
+End of Mendele Vol. 4.159
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

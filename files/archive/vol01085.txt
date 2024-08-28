@@ -1,0 +1,118 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 85
+October 10, 1991
+ 
+1) Galitzianer Yiddish (Ellen Prince)
+2) "Galitsyaner Yiddish" (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Wed, 09 Oct 91 11:56:11 -0400
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.83
+
+[Bob Goldberg writes:]
+
+>Subject: Vowel differences for Galitsianer pronunciation
+
+>It took me a while to reconcile Yiddish spelling with
+>bobe's and zeyde's pronunciation in galitsianer yiddish, as
+>well as the so-called "sepharidishe" Hebrew davening.  Here
+>are the differences I have observed, all in vowels:
+
+i've had the same problem. at least in my recollections,
+tho, there are some more variations:
+
+>YIVO Vowel          Standard (litvish)   Galitsianer
+>---- -----          ------------------   --------------------
+>o    kometz-aleph   "aw" as in law       "oo" as in pool
+>                                         (and kometz is
+>                                         pronounced "koometz")
+
+not all komets-alefs are u, tho--nokh 'still' is always
+nokh (tho nokh 'after' is nukh), zol/volt/hob/hot/... are
+always o, mir/zey hobn is o but ikh vil hobn is u... (it
+depends on what the vowel was in old yiddish/middle high
+german.)
+
+>e    ayin    "e" as in led      same
+
+but some ayins are ey, no? e.g. avek is e but ikh meg is
+ey; bet 'bed' is e but shtetl is ey, ikh ze 'i see' rhymes
+with ikh gey 'i go', etc.
+
+>ay   yud-yud-patakh English long I     varies: long A or I
+
+this was often a:, as in father, no? e.g haynt as ha:nt,
+tsiga:ner 'gypsy', bla:bn 'stay', dra:tsn 'thirteen'...
+when a couple remarried, each with a child from a previous
+marriage and then had a child together, it was 'ma:ns,
+da:ns, in inze(r)s'! (mayns, dayns, un undzers', for you
+litvaks out there.)
+
+
+>u    vov     "oo" as in pool     i or ee
+
+some vovs remained u: nu! 
+
+>Thus, in Galitsianer, "nokh a mol" is pronounced "nukh a
+>mul" (using YIVO transliteration). Similarly, "du bist do"
+>(you are here) is pronouced "di bist du".
+
+no, i don't think nokh a mol was ever nukh--unless it meant
+'after a time'. what i remember for 'again' was
+categorically 'nokh a mul'.
+
+>Perhaps due to the effects of Litvish assimilation on my
+>grandparents' pronunciations, I find no consistency in
+>differences between yud-yud and yud-yud-patakh variations.
+>If I consistently pronouce a patakh-less yud-yud as either
+>ey or ay, it does not match the way they spoke, and the
+>standard spelling seems to match most of the time.
+
+stigmatized regional dialects are VERY RARELY consistent
+when the speakers have some contact with other, more
+prestigious dialects, in any language. i bet they were more
+consistent with ey for ayin than with ay for yod-yod--for
+some reason, ey for ayin was much less stigmatized.
+likewise u for komets-alef was pretty unstigmatized and
+therefore relatively consistent.
+
+>Another difference in pronunciation that I have noticed is
+>an interchange of "oy" and the Hebrew long O "oh", as in
+>the following:
+>
+>	Standard Yiddish	My Grandparents
+>	----------------	---------------
+>	moyl (mouth)		mohel (rhymes with "coal")
+>	mohel (circumcisor)	moyl
+>        boykh (belly)           bohekh ("oh" is long O, and
+>                                        two syllables)
+
+yup. also fro for froy, of for oyf, but never shon for
+shoyn, right?
+
+it's not easy to be a galits...
+
+[Ellen Prince]
+2)----------------------------------------------------
+Date: Wed, 9 Oct 91  21:30 EDT
+From: ZOGUR@CUVMB.BITNET
+Subject: RE: Mendele Vol 1.83; Yiddish Literature and Language <MENDELE@TRINCC>
+
+Bob Goldberg: you've got a good ear; some problems with
+your interpretations but too much to deal with off hand.
+Designations like "galitsyaner yiddish" are quite inexact
+but we "know what you mean". The very work for you to see
+for a systematization of all of this will be "in press" as
+of November 1: Volume 1 of "The Language and Culture Atlas
+of Ashkenazic Jewry"  (a dialect atlas--maps and all). In
+the meantime, read Herzog, "The Yiddish Language in Northern
+Poland --Its geography & History" (Indiana, 1965); Max
+Weinreich, "History of the Yiddish Language" (Chicago,
+1980). More, after November 1.
+
+[Mikhl Herzog}
+______________________________________________________
+End of Mendele Vol 1.85
+

@@ -1,0 +1,189 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.002
+May 16, 1993
+
+1) Initial consonants (Arn Abramson)
+2) Nar/shtumer alef (Arnie Kuzmack)
+3) Nar/naronim (Isabelle Kreindler)
+4) Yiddish theater and Klezmer music in New York (David Niemeijer)
+5) Irregular plurals (Khaim Bochner)
+
+1)----------------------------------------------------
+Date: Sat May 15 20:26:21 1993
+From: "Arthur S. Abramson" <ABRAMSON%UCONNVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject:      Initial consonants
+
+    Ellen Prince is right in saying that the letters
+'alef and <ayin stand for consonants in some varieties
+of modern Hebrew and certainly in biblical Hebrew. For
+Oriental Jews still speaking the Hebrew of their home
+countries, word-inital 'alef stands for a glottal stop
+(not a fricative) and <ayin for some kind of pharyngeal
+fricative or glide, whatever is normal in the Arabic
+dialect of the same people. In discussing this with
+Semiticists, I have come to understand that the exact
+phonetic nature of these consonants in biblical Hebrew,
+not to mention post-biblical Hebrew, is moot. Indeed,
+Arabists, particularly the experimental phoneticians
+among them, have shown that the so-called "voiced
+pharyngeal" fricative differs somewhat in production as
+you move from one Arabic variety to another.
+
+    As for the beginnings of Yiddish orthography, based
+as it was on Hebrew script, there is also the question
+of the kind of Hebrew that the Jews were using for
+liturgy and the study of texts as they settled in
+Germanic lands after a sojourn in Romance territory.
+
+   It should also be pointed out that in Hebrew not
+only is the letter vav (=vov) used both consonantally
+and vocalically, but so is 'alef when it appears as the
+medial or final element in a root. In addition, if the
+consonant represented by the letter vav is to be
+reconstructed, as is commonly done, as /w/ in biblical
+Hebrew, then we must understand that this "consonant"
+was a glide or semivowel,thus a phoneme with
+consonantal functions in some contexts but with a
+rather vocalic phonetic nature!
+
+Arn Abramson
+
+2)----------------------------------------------------
+Date: Sat May 15 20:39:06 1993
+From: lkuzmack@sytex.com (Arnie Kuzmack)
+Subject: Nar; shtumer alef
+
+Nar/naronim
+===========
+
+Isaac Aronson writes:
+
+>I wonder if the plural of nar, which is, after all, a
+>fairly expressive noun, might not be influenced more
+>directly by expressive forms of Hebrew origin which
+>have the derivational suffixal -n, e.g.,kabtsn/
+>kabtsonim, batlen/batlonim, perhaps shdkhn/shadkhonim,
+>etc. It further seems that perhaps with the exception
+>of dokter/doktoyrim, the use of the -im plural with
+>non-Hebrew-Aramaic stems is expressive: tayvl/tayvolim,
+>poyer/poyerim. Whether fakter/faktoyrim 'agent' is
+>expressive or not, I have no idea.
+
+Also, Yitzhak Kertesz writes:
+
+>Didn't the expression "hazonim - naronim" help the
+>spread of this irregular plural? Or even originate it?
+>and what about the meaning of the word? namely, isn't a
+>word with the meaning "narr" allowed to show a little
+>"narrishkeyt"?
+
+So far, the discussion has established that "nar" is of
+Germanic origin but has not explained the -on- in the
+plural.  The examples of Hebrew words ending in -n
+(including hazn/hazonim) don't do it, since these
+follow the regular rules for plurals of Hebrew nouns in
+Yiddish.  And the other examples of -im plural endings
+for non-Hebrew words don't insert an additional
+consonant.
+
+Yitzhak Kertesz' suggestion, however, leads me to a
+different speculation.  There is one example of
+inserting -on-, namely rav/rabonim.  Was there a
+parallel expression "rabonim -- naronim"?
+Alternatively, might the pair rabonim/naronim
+humorously suggest that a fool is puffed up with his
+own importance and considers himself as having the
+dignity of a rav?
+
+Shtumer alef
+============
+
+Ellen Prince describes the consonantal values of alef
+and ayin in Semitic languages and points out that the
+Greeks also converted them to vowels.  I agree.  My
+point, perhaps poorly expressed, was that this would
+not have meant much to those originally devising what
+was to become the Yiddish writing system in the Middle
+Ages.
+
+Yitzhak Kertesz writes:
+
+>You conclude by claiming that yid is written with a
+>shtumer aleph because it was pronounced by many as
+>"id". But couldn't the writing precede and influence
+>the pronunciation? Namely, written with an aleph for
+>some mysterious reason, and that would cause people to
+>start pronouncing it as "id"?
+
+Sure.  I was simply reacting to a number of
+contributors who cited dialects that use [id].  The
+original alternative hypothesis was that the alef-yud
+spelling developed because of religious scruples over
+writing yud-yud.
+
+Arnie Kuzmack
+
+3)----------------------------------------------------
+Date: Sun May 16 15:51:11 1993
+From: Isabelle Kreindler <RHLE812%HAIFAUVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: nar/naronim
+
+I am rather puzzled by the nar/naronim since I've
+always thought it was nar/naroyim????  Is that perhaps
+unique to Riga Yiddish?
+
+Isabelle Kreindler
+
+
+4)----------------------------------------------------
+0Date: Sun May 16 17:37:35 1993
+From: DAVIDN@SARA.NL
+Subject: Yiddish theater and Klezmer music in New York
+
+We will be visiting New York from May 27 until June 16
+and are very much interested in Yiddish theater and
+Klezmer music. What places should we go to? Where can
+we find out what shows are on? Are there things we
+should not miss?
+
+Any suggestions are welcome!
+
+David Niemeijer
+
+5)----------------------------------------------------
+Date: Sun May 16 19:08:44 1993
+From: bochner@das.harvard.edu
+Subject: Re: Irregular plurals
+
+davism@turing.cs.nyu.edu (Martin Davis) asks:
+> Is it a coincidence that the words of non-hebraic
+> origin with Hebraic plurals (nar, por, doktor) end in a reysh?
+
+I think it's a coincidence; offhand I can find one
+counterexample: tayvl "devil" - tayvolim or tayvlonim.
+Perhaps also kundes-kundeysim, but I don't know the
+etymology of kundes.
+
+By the way, what Mikhl Herzog says about dialectal
+confusion between -n & -im makes a lot of sense for
+examples like poyerim. And then we can account for
+doktoyrim as assimilation to a common pattern for loshn
+koydesh nouns, as he says.
+
+BUT X-Xonim, as in nar-naronim, is _not_ a common
+pattern. Offhand I know of only two cases where it
+occurs in real loshn koydesh verter: rov-rabonim, and
+lets-leytsonim (or leytsim).
+
+Since it isn't a common pattern, I think we have to
+appeal to old-fashioned analogy here. I've always
+guessed that the form originated with the desire to
+have a humorous parallelism in the phrase "rabonim un
+naronim".
+
+-- Khaim
+______________________________________________________
+End of Mendele Vol. 3.002
+

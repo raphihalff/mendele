@@ -1,0 +1,213 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.031
+June 19, 1994
+
+1) Introduction (David Gasser)
+2) Handwriting (Khayem Bochner)
+3) German and Yiddish (Zev bar-Lev)
+4) Schlemiel (Yitzhak Kertesz)
+5) Pique (Mikhl Herzog)
+6) Jacob Pat (Gaston L. Schmir)
+7) Sholem Asch; Jacob Pat; a proposal (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Fri Jun 17 15:53:25 1994
+From: david_gasser@merck.com
+Subject: Introduction
+
+As someone with absolutely no formal introduction to Yiddish (I speak
+Dutch fluently but my parents never spoke Yiddish), I still understand
+quite a bit when it's spoken.  I have only rarely seen it written.  I
+have more trouble reading the (transliterated into English) language.
+Are dictionaries published in English characters?  Are there conventions
+for the transliteration?  Can you recommend any material which I could
+use to teach myself?  I'm a quick study with languages and would really
+like to speak Yiddish well.
+
+I would appreciate your insights.  Thanks.
+
+David Gasser
+
+2)----------------------------------------------------
+Date: Fri Jun 17 13:55:15 1994
+From: bochner@das.harvard.edu
+Subject: re: handwriting
+
+Bear in mind that handwriting is very individual. In Yiddish this is
+particularly true with respect to cursive combinations of letters (ayin
+plus reysh, nun plus daled, etc), and this is a particularly difficult
+area for those of us who were taught that to write every letter
+separately ;-)
+
+In the cases I've dealt with, familiarizing myself with the handwriting
+has been enough to transform something that was impenetrable at first to
+something only moderately difficult ;-)
+
+Treat it like breaking a code: start with the short words. Most of them
+will be common words, and at least some of them should be unmistakable.
+Treat them as clues: if you find a clear case of "der", for instance,
+that tells whether this writer links ayin and reysh together. If they do,
+then that explains the funny curlicue at the ends of lots of other words.
+Now maybe that helps you come up with a good guess about a word you
+couldn't decipher before. That gives you another clue. And so on. After a
+while you learn all the special tricks in this particular handwriting,
+and it becomes reasonably clear. Wherever it isn't smudged or scribbled;
+the worst thing is a smudge on top of a word you don't know ...
+
+The best thing is to find someone who learned to read & write in Europe,
+and have them help you get started.
+
+Good luck,
+
+Khayem Bochner
+
+3)----------------------------------------------------
+Date: Fri Jun 17 15:12:40 1994
+From: zbarlev@zeus.sdsu.edu
+Subject: German and Yiddish
+
+a little example to back up mark devlin's insightful comments on German &
+Yiddish: a friend of my mother's, whose Yiddish is mostly a little
+remembered from when she was a child, traveled around Germany very easily
+using her Yiddish.  often there was no comment at all, just communication
+such as it was.  but occasionally she was asked where in Germany she was
+from! (apparently the response to her answer was non-remarkable.)
+
+Zev bar-Lev
+
+4)----------------------------------------------------
+Date: Fri Jun 17 15:20:50 1994
+From: BM.LBH%RLG.bitnet@YaleVM.YCC.Yale.Edu
+Subject: Schlemiel
+
+> As a sort of appendix, I would add that there _are_ a number of Yiddish
+> words that have been borrowed into German.  The ones I am aware of are
+> among those familiar to most Americans: Chuzpe, Schlamassel, Schlemiel
+> (as they are spelt in German).
+
+Mark Devlin,
+
+what is your proof that the last two were borrowed Y>G and not G>Y?
+
+I don't think anybody doubts the origins of "Chupze" (greetings, Ms.
+Szabo), but the other two?
+
+Yitzhak Kertesz
+
+5)----------------------------------------------------
+Date: Fri Jun 17 15:24:43 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: Pique
+
+A recent sequence of postings on Mendele prompted me to relate the
+following in a private message to one of our subscribers. hamEYvn yOvin!
+
+	Maks Vaynraykh, olevasholem, hot amol dertseylt az der khilek
+tsvishn an english-reyder un a yidish-reyder iz vos an english reyder,
+ven er hert a vort vos er farshteyt nit, farshemt zikh, makht a shvayg,
+un zukht in verterbukh. Vos tut ober a yidish-reyder in aza fal? Er
+shraybt on a briv in der redaktsye fun Forverts (oder, haynt tsu tog, in
+Mendele) un zogt "s'iz nito aza vort".
+
+To my constant delight, Yiddish "as she is spoke" continues to reveal
+itself in often upredictable and always colorful ways, defying
+authoritative pronouncements about what is or is not a Yiddish word.
+
+Mikhl Herzog
+
+6)----------------------------------------------------
+Date: Sat Jun 18 10:11:58 1994
+From: glschm@minerva.cis.yale.edu
+Subject: Jacob Pat
+
+With reference to Jacob Pat, mentioned by Noyekh Miller in Mendele 4.030,
+the following information appears in News of the YIVO (Yedies fun YIVO),
+no 98, June 1966:
+
+"Jacob Pat [1890-1966] was born in Bialystok...He became of the pioneers
+of the Yiddish school in Poland and executive secretary of the TSISHO
+(Central Yiddish School Organization....He was a delegate to the first
+World Conference of YIVO in Vilna [1935].
+
+Zint di mit tsvantsiker yorn is er geven a firndiker tuer fun Bund, a
+shtendiker mitarbeter fun der varshever Folkstsaytung un fun a rey
+literarishe oysgabes...Zint 1942 biz ... 1962 iz er geven
+ekzekutiv-sekretar fun yidishn arbeter-komitet. Er iz geven initsiator,
+mitgrinder vi oykh forzitser fun alveltlekher yidishn kultur-kongres.
+Yakov Pat iz geven zeyr a frukhperdiker shrayber...hot er geshribn
+kurtser un gresere dertseylungen, etlekhe bikher bashraybungen tsu der
+friiker geshikhte fun Bund, a groyser tsol kinder-mayselekh (zint 1918)un
+einakters farkinder, lernbikher fun yidish un yidisher literatur, vi oykh
+etlekhe drames. Zayn letst bukh Khaneke (1965) iz a dertseylung far
+kinder vegn der untererdishn bavegung in bialystoker geto."
+
+Jacob Pat was the author of Ash un fayer (Iber di khurves fun poyln),
+CYCO, New York, 1946, which also appeared in English translation, Ashes
+and fire, International UP, New York, 1947.
+
+Gaston L. Schmir
+
+7)----------------------------------------------------
+Date: Sun Jun 19 14:12:05 1994
+From: nmiller@mail.trincoll.edu
+Subject: Scholem Asch; Jacob Pat; a proposal
+
+From our department of no-sooner-asked-than: Regarding Dan Leeson's
+request (Vol.4.023; see also Pinyeh Weichsel's post in Vol.4.025), there
+is a brief note in the latest issue of "Afn Shvel", no. 294, telling of
+Henne Berliner-Fishtal's succesful defense of her dissertation
+(institution not named) entitled "The Change in Scholem Asch's
+Reputation".
+
+(Incidentally, I was a personal witness to that change as a young man.
+Details some other time.)
+
+Many thanks for Gaston Schmir's quick reply as to who Jacob Pat was.
+And as is the way with such things, no sooner had I announced my
+ignorance than I found in Jacob Glatstein's posthumous (1972) _In der
+Velt mit Idish_ a loving memorial to Jacob Pat.  But according to JG,
+Pat was not simply a shtendiker mitarbeter of the Folkstsaytung but at
+one point editor.  In the U.S.he became an editor of Tsukunft.
+
+I'll say it again: what the world needs is--at the very least--a
+biographical dictionary of the world of Yiddish letters.  There is no
+reason why this could not be a group effort.  Mendele can easily deposit
+in its archives directory any and all articles about Yiddish writers that
+readers submit.  Such a dictionary would certainly be and remain
+incomplete and even fragmentary, but it would be a start.
+
+Better yet, if one or more of our knowledgeable readers would be willing
+to serve as an editorial board for the project, we might get somewhere
+reasonably quickly.
+
+Vos zogt ir, chevra?
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.031
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

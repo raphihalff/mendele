@@ -1,0 +1,131 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.110
+September 28, 1993
+
+1) The Yiddish Dictionary (Paul Ritterband)
+2) Hobn/zayn in past tense with Hebrew verbs (Shleyme Axelrod)
+3) Yontiv and manse (Harold L. Orbach)
+4) Plural of talis (Bob Goldberg)
+5) Yarmlke (Dan Slobin)
+
+1)----------------------------------------------------
+Date: Sun Sep 26 20:45:54 1993
+From: uap@cunyvms1.gc.cuny.edu
+Subject: The Yiddish Dictionary
+
+There are three or four volumes out, through beys, but the project
+has been abandonedd to the best of my knowledge.
+
+Paul Ritterband
+
+2)----------------------------------------------------
+Date: Mon Sep 27 13:48:27 1993
+From: Seymour Axelrod <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: hobn/zayn in past tense with Hebrew verbs
+
+Some Yiddish verbs are made up of a Hebrew verb + the appropriate
+tense of "zayn".  But the past-tense auxiliary is sometimes "hobn"
+and sometimes "zayn".  For example, Maurice Samuel, on a single page
+(139) in _In Praise of Yiddish_ cites the following:
+
+he exaggerates = er iz megazem
+he exaggerated = er *hot* megazem geven
+
+but
+
+he decrees = er iz goyzer
+he decreed = er *iz* goyzer geven
+
+he influences = er iz mashpie
+he influenced = er *iz* mashpie geven.
+
+Is there a rule governing the choice of the past-tense auxiliary in
+these situations, or does one have to learn which to use verb by
+verb?
+
+A dank.
+
+--Shleyme Axelrod
+
+3)----------------------------------------------------
+Date: Mon Sep 27 19:06:19 1993
+From: Harold L. Orbach <HLORBACH@KSUVM>
+Subject: Yontiv and manse
+
+Yontiv:
+
+If "Good Yontif to the Pontif" was used in NY c.1979, that was
+redoing the old "joke" which was told to me c.1960 and undoubtedly
+had been in circulation long before.  Can anyone date it?  It sounds
+like music hall and vaudeville stuff.  My Chicago friend had legions
+of yiddish-american jokes (many quite Catskillian in character and
+unprintable).  When I was in HS in NYC, I vividly recall a trip to a
+Broadway movie house [the Capitol the Paramount] for a movie, Artie
+Shaw's band and some comics. One had a routine that used Yiddish
+extensively, e.g., teaching French starting with "gay avec," "gay
+viter und viter avec..."  [c.1944]  One uncle had a large collection
+of 78 rpm yiddish records of comics with lots of joke routines which
+as a child I was not supposed to listen to. Have any studies been
+done of this material?  This was entirely in Yiddish, though with
+"American-yiddish" words tossed in.
+
+Manse:
+
+Adding to others who report the use of 'manses' in their families,
+mine came from Lodz and Tomashef in Poland and my recollection is
+that all my relatives said what I always have said myself: "manses"
+-- though perhaps they were saying something like "maynses"
+[meinses]? Certainly there was an 'n' sound there.
+
+Harold L. Orbach
+
+4)----------------------------------------------------
+Date: Mon Sep 27 19:27:25 1993
+From: xidak!poseidon!bob@uunet.UU.NET (Robert N. Goldberg)
+Subject: Plural of "talis"
+
+My high holiday makhsor indicates in its introduction that the
+plural of "talis" is different in Hebrew than in Yiddish.  In
+Yiddish it is "taleysim" while in modern Hebrew it is "talitot".
+
+How did this difference arise?   I know there are germanic plurals
+on some Hebrew words in Yiddish, but isn't "im" strictly a
+Hebrew-based plural ending?  Could it be that modern Hebrew changed
+the plural for some reason?
+
+Bob "Nissen" Goldberg
+
+5)----------------------------------------------------
+Date: Tue Sep 28 10:18:52 1993
+From: Dan Slobin <slobin@mpi.kun.NL>
+Subject: yarmlke
+
+If "yarmlke" does come from Turkish, as Mikhl Herzog and others
+suggest, it does not come from the non-existent "yagmurlak."  The
+Turkish noun "yagmur" means `rain' (the g has a micron--the
+so-called "soft g," which is not pronounced, but is reflected in
+lenghtening of the preceding vowel, something like "yaamur").  The
+only "yarmlke"-like word in modern Turkish is "yagmurluk"-- `rain'
+plus a nominal suffix, meaning `raincoat' or `eave' (of a house, to
+divert the rain)--that is, more generally, `rain-thing'.  It is not
+inconceivable that in some Turkic language spoken in
+Yiddish-speaking territory (southern Ukraine) there was a word like
+"yagmurluk" that referred to a head-covering intended to protect one
+from the rain--hence our Yiddish meaning. Is there any evidence of
+the regional origins of "yarmlke"?
+
+(In my mother's southern Ukrainian Yiddish, stuffed cabbage leaves
+are called "prakes"--clearly derived from the Turkish "yaprak"
+`leaf'.  The food is called "yaprak dolmasi" `leaf stuffed-thing' in
+Turkish--curiously entering Greek through the second half of the
+compound, familiar to Americans now as "dolmas".  Are there studies
+of the geographical regions of Yiddish that have Turkish lexical
+items?)
+
+Dan Slobin (slobin@cogsci.berkeley.edu)
+
+______________________________________________________
+End of Mendele Vol. 3.110
+

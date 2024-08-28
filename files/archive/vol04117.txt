@@ -1,0 +1,151 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.117
+September 30, 1994
+
+1) Milgroymen un nisht mandlen; rov (Elliot Hersch Gertel)
+2) Rov vs. Rabay (Arnie Kuzmack)
+3) Pomegranate; gut yontef; "schmon" (Mikhl Herzog)
+4) Pomegranate (Gaston L. Schmir)
+
+1)----------------------------------------------------
+Date: Thu, 29 Sep 1994 18:03:32 -0800 (PST)
+From: egertel@ccvax.fullerton.edu
+Subject: Milgroymen un nisht mandlen; rov
+
+Mekoyekh 4.114:
+
+1. A yasher-koyekh Leybl Fridhandler!  Akhuts soyne-yisroel un
+soyne-yidish, avade darfn ale makhn zikh bay zikh in der heym bay
+mendele!
+
+2. Dan Leeson: "Pomegranate" af yidish iz (der) milgroym,
+loshn-rabim/mertsol: milgroymen.
+
+3. Shloyme-Khayem Cohen: Kh'hob nisht keynmol nisht in ergets nisht
+gehert az der titl rov zol men barekhenen vi a peyorativ! Ir redt vi azoy
+me ruft a rov af english tsi af yidish?  Vayl kh'meyn az me ruft a
+nisht-ortodoksisher rov af yidish "Rabay" ken _dos_ efsher zayn far
+gevise mentshn a baleydikung.  Nor rufn a rov "rov" un dos zol zayn
+umdekheretsdik, neyn, _dos_ hob ikh keynmol nisht gehert!
+
+Quick summary af english: 1. Applause for Louis Fridhandler's welcoming
+attitude!  2. Yiddish for pomegranate is milgroym, plural: milgroymen.
+3. I have never heard the title rov for a Rabbi thought of as demeaning
+in any way...
+
+Elliot Hersch Gertel
+
+PPS: While also sharing Lou's attitude about boors vis-a-vis Orange
+County (where I find myself in goles) I have to admit I have found
+anti-Yiddish sentiments even in far more enlightened corners of the
+world!
+
+2)----------------------------------------------------
+Date: Thu, 29 Sep 1994 23:48:33 -0400 (EDT)
+From: kuzmack@umbc.edu
+Subject: Re: Rov/Rabay
+
+I agree that we should minimize pejorative words about other Jews.  In
+this case, however, it is the non-Orthodox Rabbis who are described with
+the pejorative term.  Hundreds of years ago, a Rabbi was a "rov" in
+Yiddish, period.  Yiddish-speaking and Hebrew-speaking Orthodox Jews
+started using the term English term "rabay" to express the notion that
+non-Orthodox Rabbis were not really Rabbis.
+
+Arnie Kuzmack
+
+3)----------------------------------------------------
+Date: Fri, 30 Sep 94  01:32 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Pomegranate, gut yontef, a mystery, etc.
+
+I've been away for a while and am just catching up. Briefly:
+
+1. Of Zellig Bach. I quote a novel I've just finished reading (Maichael
+Ondaatje _The English Patient_. Vintage, 1993.) Speaking of respondents
+to a lecture, he writes of them as "pertinently critical but never
+impertinent". A fitting description of Dr. Bach, a rarity in our midst.
+
+2. Earlier queries about Zamosc and Chelm
+
+Both lie within the boundaries of Central Yiddish (i.e. "Polish
+Yiddish"): gayn, kimen, shlufn, leybn, tsa:t, houis, etc.
+
+3. Dan Leeson:
+
+'pomegranate' in Yiddish is "milgroym". Why the puzzle and the implied
+connection to the word for 'orange'?
+
+4. Shleyme Axelrod:
+
+Just ruminating: None of the Yiddish greetings with "gut"-- gut shabes,
+gut yontef, gut yor--displays a gender inflection; or do they all? As you
+say, "yor" is neuter, and the uninflected "gut" is to be expected, but
+what of the other two? They're certainly masculine--der shabes (despite
+the Hebrew feminine) and der yontef--but, were they always so? I don't
+know about them in particular, but I do know that at an earlier stage of
+the language, Hebrew origin words were generally integrated as neuters in
+Yiddish: dos seyfer, dos mes, dos ponim, etc. They subsequently shifted
+gender categories (and today, only very few words are borrowed into the
+neuter: dos pensl, dos baysikl). Can we assume that "gut shabes" and "gut
+yontef" reflect earlier neuters stuck in this particular context?
+Probably not in view of two other expressions with non-Hebrew
+masculines: i) Doesn't Bashevis write "kurts-fraytik"? ii) The very
+earliest documented full-blown Yiddish sentence (in the makhzer of Worms,
+1272) begins with the words "gut tog". It looks like something else is
+going on here.  End of rumination.
+
+4. A mystery.
+
+In a book recently published in Germany (Igor Trutanow, _Zwischen Koran
+und Coca Cola_. Aufbau Taschenbuch Verlag, Berlin, 1994), the author, on
+a journey through the central Asian republics of the former Soviet Union,
+writes (p. 131) of police activity as "dem schmon unterziehen". "Schmon
+bedeutet 'Durchfilzen'. Dieses Jargonwort hebraeischer Herkunft kam ueber
+das Jiddische ins Gulag-Russische. Die multinationale Gulag-Belegschaft
+fuehrte das Wort in die jeweiligen Muttersprachen ein."
+
+"Durchfilzen" seems to refer to something like a body-search. "Schmon"?
+Hebrew-origin? Anybody?
+
+A gut un gezunt yor aykh alemen.
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Thu, 29 Sep 1994 20:08:11 -0400 (EDT)
+From: Gaston L Schmir <glschm@minerva.cis.yale.edu>
+Subject: Re: pomegranates
+
+According to Uriel Weinreich, the Yiddish word for pomegranate is
+"milgroym".
+
+Gaston L. Schmir
+
+______________________________________________________
+End of Mendele Vol. 4.117
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

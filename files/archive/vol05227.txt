@@ -1,0 +1,131 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.227
+January 21, 1996
+
+1) Is Yiddish dying? (Ellen Prince)
+2) Pluperfect (Dovid Braun)
+3) Pluperfect (Meyer-Leyb Wolf)
+4) Yiddish manuscripts in the British Library (Zachary Baker)
+5) Transliterated spelling (Sheldon I. Clare)
+
+1)----------------------------------------------------
+Date: Fri, 19 Jan 1996 14:59:06 EST
+From: ellen@central.cis.upenn.edu
+Subject: is yiddish dying?
+
+to arnie herschorn: you enumerate [5.224] a number of points and, for many,
+you cite references. i was wondering if you have references for some of the
+others. in particular, i am puzzled by #7, the smaller the number of persons
+who are fluent in the language, the more the language tends to be considered a
+dead language. my puzzlement stems from the fact that there are many languages
+(probably more than half of the extant languages of the world in fact) with a
+few hundred or fewer speakers and i know of no one who considers them dead or
+dying for that reason. (the speakers of many are of course currently in the
+process of language shift and so they may be considered moribund for that
+reason, but that's independent of the size of the speech community. and there
+are many languages with fewer than 200 speakers that are alive and well.)
+
+i'm also puzzled by #10, that the reason that latin is considered a dead
+language is that the number of churchmen speaking it today is smaller than the
+number of romans who used to speak it. do you have a reference for that?
+
+might i point out that the fact that millions of diasporan jews being able to
+communicate in hebrew, both orally and in writing, for nearly two millenia did
+not make hebrew a living language, whereas a far smaller number of babies in
+palestine did?
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Fri, 19 Jan 1996 19:53:50 EST
+From: dovid@mit.edu
+Subject: pluperfect
+
+Aaaaah!  Thanks for the clarification, Ellen. And yes, I confused the condi-
+tional with the pluperfect:  indeed, Olsvanger uses _gevezt_ only for the past
+conditional.
+
+Dovid Braun
+Cambridge, MA
+
+3)----------------------------------------------------
+Date: Sun, 21 Jan 1996 03:39:09 -0500
+From: wolfim@chelsea.ios.com
+Subject: gevest
+
+Collectors of instances of 'gevest' should check out Yehoash's bible
+translation. The pluperfect is commonly formed with gevest in the neviim and
+ksuvim sections, e.g yeshaye 38:10a. Yehoash was also a Litvak.
+
+Meyer-Leyb Wolf
+
+4)----------------------------------------------------
+Date: Fri, 19 Jan 96 19:09:43 PST
+From: bm.yib@rlg.stanford.edu
+Subject: Yiddish manuscripts in the British Library
+
+I have just received a fascinating bibliographical article by Leonard Prager
+and Brad Sabin Hill, "Yiddish Manuscripts in the British Library" (in The
+British Library Journal, vol. 21, no. 1, Spring 1995, pp. 81-108).  The
+offprint was sent to me by Brad Hill, who is the curator of Hebrew books at
+the British Library.
+
+The article "gives a brief and only preliminary account of some fifty Yiddish
+manuscript texts in the collections of the British Library" (p. 94).  The
+manuscripts run the gamut from a beautifully illuminated Yiddish Mahzor (Add.
+MS. 27071), circa 1560, to the script of a play by the London Yiddish author
+Nathan Horowitz, "Shol hameylekh:  a biblishe drame in 7 akten," which is
+dated 1933.  The article treats liturgical works, illuminated and decorated
+manuscripts, ethics, letters, public records, medicine, drama, the Lord
+Chamberlain's Plays (all plays performed on British stages were, until 1968,
+legally required to be licensed by the Lord Chamberlain; Yiddish troupes
+largely observed this law only in the breach, with perhaps a quarter of all
+Yiddish plays being performed *with* licenses), and manuscript notes in
+printed books).
+
+Notwithstanding the authors' claim that their article offers only a
+"preliminary account" of the Yiddish manuscripts under discussion, they cover
+a range of subjects relating to Yiddish philology and bibliography, in
+considerable detail -- especially in the footnotes. Though bibliographical
+essays tend to be rather dry, this one contains a fair amount of subtle yet
+pointed commentary.  Let two examples suffice:
+
+      Esdaile [noted British bibliographer] in his The British Museum Library:
+      a Short History and Survey (London, 1946), p. 299, wrote: 'With Hebrew
+      is often classed Yiddish.  But this, though written and printed in
+      Hebrew characters, is not Semitic, but European, being the dialect
+      (Juedisch) of the Jews in Germany...'  The flawed definition given here
+      of Yiddish, 'the dialect of the Jews in Germany', is surprising.  At the
+      very moment Esdaile wrote and only a few miles from where he wrote a
+      vibrant Yiddish culture flourished in the East End of London.  In his
+      day a significant world-class literature existed in Yiddish, which was
+      the language of the majority of Eastern European Jews and of hardly a
+      remnant in Germany proper.  (p. 97)
+
+      From a footnote on the Bove-bukh, by Elia Levita (Elye Bokhur):
+      Ironically, it has been universally forgotten by Yiddish scholarship
+      in England that this classic work of Yiddish literature is based
+      ultimately on an Anglo-Norman epic inspired by a figure from (South)
+      Hampton; a student of Yiddish literature cannot but smile when
+      encountering a pub named 'Sir Bevis of Hampton' in this Hampshire port
+      town.  (p. 104)
+
+Zachary Baker
+
+5)----------------------------------------------------
+Date: Fri, 19 Jan 1996 11:20:35 -0400 (EDT)
+From: clare@vms.cis.pitt.edu
+Subject: Transliterated spelling
+
+I am still confused as to how to transliterate words such as _tree_, beym or
+baym versus _near_, baym or beym. I've seen both methods used in Mendele.
+
+A shaynem (sheynem?) dank un a gutn shabbes.
+
+Sheldon I. Clare
+
+______________________________________________________
+End of Mendele Vol. 5.227
+

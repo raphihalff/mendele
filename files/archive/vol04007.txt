@@ -1,0 +1,145 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.007
+May 24, 1994
+
+1) Fornal (Bob Rothstein)
+2) Voroshilovka (Bob Rothstein)
+3) Meeting in Minsk (Shmuel Wolitz)
+4) Dropped pronouns (Arre Komar)
+5) Priziv (Chane Honig)
+6) Preglen (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Mon May 23 16:39:55 1994
+From: rar@slavic.umass.edu
+Subject: Fornal
+
+In Polish (whence also in Ukrainian) _fornal_ is a farm worker,
+especially one who works with horses.  It originally meant the hook that
+is used to attach the wagon- or plow-pole to the traces (part of the
+harness) and is derived from German _Vornagel_.
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: Mon May 23 17:09:25 1994
+From: rar@slavic.umass.edu
+Subject: Voroshilovka
+
+In Mendele 3.344 Zachary Baker identified the location of Voroshilovka in
+Ukraine, citing _Where Once We Walked-, an extremely useful gazeteer.
+Another useful source for tracking down locations in the Russian empire
+is the _Russisches geographisches Namenbuch_, ed. Max Vasmer and Herbert
+Bra"uer, published in 11 volumes (plus map supplement) by Harrasowitz in
+Wiesbaden between 1964 and 1989.  It identifies Voroshilovka, for
+example, as a small town or village at the confluence of the rivers Baran
+and Bug, in the Tyrovsk _volost'_ of the Vinnitsa _krai_ of the Podolia
+_guberniia_ (using the pre-revolutionary territorial divisions) and
+refers to V. K. Guld'man, _Podol'skaia guberniia..._
+(Kamenets-Podol'skii, 1889).  It also lists three other villages (in the
+Kostroma _guberniia_), Bol'shaia [Big] Voroshilovka, Malaia [Little]
+Voroshilovka and Sredniaia [Middle-sized] Voroshilovka.
+
+Bob Rothstein
+
+3)----------------------------------------------------
+Date: Mon May 23 20:48:48 1994
+From: slwolitz@emx.cc.utexas.edu
+Subject: Meeting in Minsk
+
+May 25, 1994 a meeting on Belarus-Yiddish conference. Possibility of free
+room and board. Address: Belarus 220050, Mensk- 50, Vul. Revaliutsyia, 15
+Mizhnarodnaia asatsyiatsyia belarusistan (MAB). The meeting will address
+Jewish Culture in Belarussian Culture and interexchanges.
+
+Shmuel Wolitz
+
+4)----------------------------------------------------
+Date: Mon May 23 20:50:54 1994
+From: komar@yu1.yu.edu
+Subject: Dropped pronouns
+
+In heavily declined languages the pronoun is frequently redundant and
+therefore is easily dropped. One sees this very strongly in Spanish: e.g.
+"quiero ir","quieres beber?", etc.  In Yiddish I have always felt that
+there is an additional impetus coming from the Hebrew usage of postfixed
+pronouns yielding such polyglot formations as "bistu gekumen?" From there
+it is a short step to drop the postfixed "u". What started off as the
+inverted order of the interogative form, once becoming a postfixed
+addition to the already declined verb, was perceived as a redundant
+addition to the already properly employed declension. Of course this is
+only a conjecture on my part and I would be interested in hearing the
+customary cavilling that is sure to follow.
+
+Arre Komar
+
+5)----------------------------------------------------
+Date: Mon May 23 23:24:07 1994
+From: ahonig@mailbox.syr.edu
+Subject: Re: Priziv
+
+Rick Glidemeister asks about priuv.  I believe that the word sought for
+is PRIZIV.... In the folk song Yoshke fort avek.."  where the girl sings
+OY OY Der ban is shoyn gekumen, un es khapt mich on a shrek  with the
+chorus being Oy Oy yoshke fort avek.... , Yoshke replies in the next
+verse that "ich vel fonye dinen" (I will serve the tsar"... she
+sings..."Koyf mir nit keyn lokenes (earrings?) und macht mir nit sheyn.
+Koyf dir a por shtivelach (boots) , in priziv darfst du gayn". Her reply
+in the song suggests that he is going into the tsar's long service.
+
+This is a wonderful song for singing in duets for a Yiddish folk song
+concert...when I do a concert...however, I play both parts...and it still
+sounds broad humor-ish.
+
+A shaynem dank far all the interesting mail from Mendelniks.
+
+Chane (Alice Honig)
+
+6)----------------------------------------------------
+Date: Tue May 24 00:33:32 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: Preglen
+
+Leigh Lisker: My own very vague memory about a possible Slavic connection
+to preglen also stems from Uriel Weinreich. Can we compromise on
+something like "I don't know, but maybe it's . . . "?
+
+In any event, Bob Rothstein has just reported three entries in Grimm:
+bra"geln, pra"geln, and pregeln."The last two entries," he says, "cite
+Schade's hypothesis on a Slavic origin."
+
+So, to add to Ellen Prince's pro-drops, go figure. -:)
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 4.007
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

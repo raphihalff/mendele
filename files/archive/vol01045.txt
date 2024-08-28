@@ -1,0 +1,296 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 45
+July 19, 1991
+ 
+1) Yidtype (Raphael Finkel)
+
+1)----------------------------------------------------
+Date:   Mon, 8 Jul 1991 
+From:   Raphael Finkel <raphael@ms.uky.edu>
+Subject: Re: hebtype.c -> yidtype.c
+ 
+---- yidtype.c
+/**********************************************************************/
+/* yidtype.c  --  A program which generates ASCII based Yiddish text.  */
+/*                                                                    */
+/* This is version 2.1, released (?) July 8, 1991, raphael@ms.uky.edu */
+/* mods: has some Yiddish-specific characters, modified the appearance */
+/* of some characters, added some punctuation, revised the mapping between */
+/* English and Yiddish.   */
+/*  */
+/* Based on version 1.0 of hebtype.c, released on June 11th, 1991.   */
+/* "Hebrew Type" was written by Lee Lawrence who hereby declares it   */
+/* to be public domain and may be redistributed, provided that no fee */
+/* is ever charged.   I also politely request that any programs which */
+/* are derived from this code or Hebrew font refer to Lee Lawrence    */
+/* as the originator.   If you have any suggestions, or if you find   */
+/* any bugs, or make any enhancements that I might be interested in,  */
+/* you can reach me by e-mail at leel@cs.colorado.edu                 */
+/*                                                                    */
+/* I hope you enjoy this program.  If so, let me know.                */
+/**********************************************************************/
+ 
+#include <stdio.h>
+#define AVGCLEN 4.5  /* average hebrew character length          */
+int MAXCOL=79;       /* maximum number of useable output columns */
+ 
+char *aleph[] = {   /* NOTE: shifting is because of doubled backslash */
+"   _  |_  ___  ___  _  _  _ ____ \\_  _  __  ____ __ __   _ _         ",
+" \\/ |   |    |    |  | | /|  | |  |\\  |   |    |  |   |  ,\\|         ",
+" | _|  /     | ___|    |__|  | |  |   | | |    | /| __|_ | \\         ",
+"             |                                                       ",
+" ___  _ _ _ __  ___ _ _ _ _  __   __   _ _ ___  _  _  ____   //    ",
+"  | | | | |   | , / | |  \\| |_ | |_ |  | | |  |  |  | |  |        ",
+" _| | |/_/    | |/  |/  __\\    | ___| _|/  |_/   | _| |__| o       ",
+"                |   |          |                 |                 ",
+" _ _  _ _  _ _  _ _ _ _ _        /  _  |                           ",
+"  | |  | |  | | ,\\| ,\\|  |   o o   | | |                           ",
+"  | |  ___      |_\\ |_\\  . / / o    /  o                           ",
+"                     |              o                              "};
+char *trans[3] =  { "mlXxytHzwhdgb- ","TSrkCcFfesNnM.\"", "vIAaoi,;:'?!   " };
+        /* the mapping */
+int  pos[3][16] = { 0,5,9,14,19,22,27,32,36,39,43,48,51,56,60,63,
+                    0,5,11,15,19,23,27,32,37,42,47,50,53,58,60,63,
+                                        0,5,10,15,19,23,26,28,30,32,34,38,40};
+ 
+main (argc,argv)
+int argc;
+char **argv;
+{
+        extern int optind;
+        extern char *optarg;
+        int c,i,j,k,len,rlen,rpos,p,outpos,lnum,flush=0,center=1;
+        char read[1024],line[1024],out[4][1024],*fill;
+        while ((c = getopt(argc,argv,"lcrw:")) != EOF) {  /* handle options */
+          switch (c) {
+          case 'l':  /* left flush */
+               flush=0;
+               center=1;
+               break;
+          case 'c':  /* centered text */
+               flush=1;
+               center=2;
+               break;
+          case 'r':  /* right flush */
+               flush=1;
+               center=1;
+               break;
+          case 'w':  /* set width */
+               MAXCOL = atoi(optarg);
+               break;
+          default:
+               fprintf(stderr, "Usage: %s [-lcr] [-w width]\n",argv[0]);
+               exit(2);
+               break;
+          }
+        }
+        fill = (char *) malloc(MAXCOL*sizeof(char));  /* to position output */
+        for (i=0;i<MAXCOL;i++) fill[i]=' ';
+        while (gets(read)!=NULL) { /* main reading loop */
+          rlen = strlen(read);
+          rpos = 0;
+                  if (rlen == 0) printf("\n\n\n\n");
+                  else while (rpos<rlen) {
+            breakitup(read,line,&rpos);  /*make sure pieces can fit on line */
+            len = strlen(line);
+            outpos = 0;
+            for (i=len-1;i>=0;i--) {  /* process characters in reverse */
+              lnum = 0;
+              if (index(trans[lnum],line[i])==NULL) lnum++;   /* found 1st? */
+              if (index(trans[lnum],line[i])==NULL) lnum++;   /* found 2nd? */
+              if (index(trans[lnum],line[i])==NULL) continue; /* found 3rd? */
+              p = 15-strlen(index(trans[lnum],line[i]));  /* get position    */
+              for (k=pos[lnum][p];k<pos[lnum][p+1];k++) { /* do font columns */
+                for (j=0;j<4;j++) {                       /* do font lines   */
+                  out[j][outpos] = aleph[j+(4*lnum)][k];  /* create output   */
+                }
+                outpos++;
+              }
+              /****** some dageshim and other simple pronunciation dots ******/
+              if (line[i]=='b'&&line[i+1]=='%') out[1][outpos-3]='.';/* bet  */
+              if (line[i]=='x'&&line[i+1]=='%') out[1][outpos-3]='.';/* caf  */
+              if (line[i]=='f'&&line[i+1]=='%') out[1][outpos-2]='.';/* pay  */
+              if (line[i]=='T'&&line[i+1]=='%') out[1][outpos-2]='.';/* tav  */
+              if (line[i]=='w'&&line[i+1]=='%') out[1][outpos-2]='.';/*cholam*/
+              if (line[i]=='w'&&line[i+1]=='^') out[0][outpos-1]='.';/*shuruq*/
+              if (line[i]=='S'&&line[i+1]=='>') out[0][outpos-1]='.';/* shin */
+              if (line[i]=='S'&&line[i+1]=='<') out[0][outpos-5]='.';/* sin  */
+            }
+            for (j=0;j<4;j++) out[j][outpos] = '\0'; /* null terminate output */
+            fill[flush*(MAXCOL-strlen(out[0]))/center] = '\0';
+            printf("%s%s\n%s%s\n%s%s\n%s%s\n\n",fill,out[0],fill,out[1],
+                                              fill,out[2],fill,out[3]);
+            fill[flush*(MAXCOL-strlen(out[0]))/center] = ' '; /* undo fill */
+          }
+        }
+        exit(0);
+}
+ 
+/* This subroutine crudely guesses whether or not the  */
+/* next full word will fit on the current output line. */
+/* The routine is overly conservative, and should eventually be rewritten. */
+breakitup(read,line,rpos)
+int *rpos;
+char *read,*line;
+{
+  int i,last,nextword,stop;
+  last = strlen(read);
+  while ((last - *rpos)*AVGCLEN > MAXCOL) last--;
+  stop = last;      /* stop is the maximum chars that will actually fit */
+  nextword = last;  /* nextword will become the new rpos starting position */
+  if (last!=strlen(read)) {
+    while (read[--last]!=' ' && last >= *rpos);  /* skip to start of the word */
+    nextword = last+1;
+  }
+  if (last < *rpos) {    /* word is too long so print it truncated */
+    last = stop;
+    nextword = stop;
+  }
+  for (i = *rpos;i<last;i++) line[i - *rpos] = read[i];  /* copy to string */
+  line[last - *rpos]='\0';
+  *rpos = nextword;
+}
+/* EOF */
+---- recast.sed
+s/p/f%/g
+s/i/y/g
+s/yy/yi/g
+s/kh/x/g
+s/ts/c/g
+s/n\([ ?.,;:]\)/N\1/g
+s/x\([ ?.,;:]\)/X\1/g
+s/f\([ ?.,;:]\)/F\1/g
+s/m\([ ?.,;:]\)/M\1/g
+s/c\([ ?.,;:]\)/C\1/g
+s/n$/N/g
+s/x$/X/g
+s/f$/F/g
+s/m$/M/g
+s/c$/C/g
+s/u/w/g
+s/ay/I/g
+s/ey/A/g
+s/oy/wy/g
+s/\( \)\([AIyw]\)/\1-\2/g
+s/sh/S/g
+s/^\([AIyw]\)/-\1/g
+s/|//g
+---- README
+yidtype, version 2.1, released (?) July 4, 1991, raphael@ms.uky.edu
+ 
+Based on hebtype, described below.
+ 
+hebtype -- A program to generate Hebrew text with ASCII characters.
+           Written by Lee "Lev" Lawrence  :  leel@cs.colorado.edu
+           Version 1.0 released June 11, 1991.
+ 
+Features:
+  - Smallest possible font that's still readable, and size consistent.
+    (my font is a hybrid of standard printed and simplified block styles.)
+  - Don't use weird symbols that aren't on all machines.
+  - Easy to use:  enter hebrew in proper direction, simple key mapping
+  - Program can be used interactively per line or via redirection.
+  - Hebrew can be printed flush right, flush left, or centered.
+  - Supports any output width (e.g. 80, 132, 40, ...)
+  - Long lines get automatically wrapped to next line, at word breaks.
+  - Complete implementation is one file, less than 130 lines including font.
+  - Supports simple dots like dagesh, shuruq, and cholam for some letters.
+  - Written in C for portability and easy customization.
+ 
+    This program was inspired by, but not based on, the program BHL EXEC
+    written by Benny Reuter which runs in REXX.
+ 
+THE KEYBOARD MAPPING:
+ 
+  The Hebrew characters in the font are each mapped to a single character.
+  Simple pronunciation dots are completely optional and are an extra character.
+  Input was made to be easy for English speakers to remember semi-phonetically.
+  Final letters and "unusual/modern" letters like chet and tet are capitalized.
+ 
+  Yidtype uses slightly different mapping from Hebtype; here is the Yidtype
+  correspondence table:
+ 
+aleph   -  (shtumer alef)
+veys    b
+beys    b%
+gimel   g
+daled   d
+heh     h
+vov     w
+zayin   z
+khes    H
+tes     t
+yud     y
+khof    x X
+lamed   l
+mem     m M
+nun     n N
+samekh  s
+ayin    e
+fe      f F
+pe      f%
+tsadi   c C
+kuf     k
+resh    r
+shin    S
+sof     T
+tof     T%
+tsveyvov        v
+tsvey yud       A
+pasakh tsvey yud I
+pasakh alef     a
+kometz alef     o
+pintl yud       i
+punctuation:  ,.';:?"!
+ 
+-  A dagesh can be added to (veys, khof, and sof) by following it with a "%"
+-  The dot designating "shin" and "sin" is added by ">" and "<" respectively.
+-  A "vav" can be pronounced "oo" (shuruq) by following it with "^", or it
+   can be pronounced "oh" (cholam) by following it with "%".
+ 
+THE COMMAND LINE OPTIONS:
+ 
+  The generated text can be lined up along the right margin, or
+  centered.  The default is no alignment, i.e. left margin.  The
+  options for left, right, and center alignment are -l  -r  and  -c You
+  should only use one of these on the command line.
+ 
+  You can change the width to be larger or smaller than the default of
+  79 columns by using the -w option.  On many devices, printing in the
+  last column forces a line feed... this is why the default is 79 and
+  not 80.
+ 
+  Example:  Print text centered using only forty columns and write
+            all the output to the file "outfile".
+ 
+  Type:     yidtype -c -w 40 > outfile
+ 
+BUGS:
+ 
+  The automatic word-wrap is overly conservative and doesn't take a
+  chance that long lines will not mess up the output.
+ 
+  Not all pronunciation symbols are implemented, nor are they planned.
+ 
+recast.sed -- a script for converting reasonable input formalism into
+        what yidtype expects.
+ 
+usage: sed -f recast.sed  (takes from standard input, goes to standard output)
+ 
+what it does:
+        p for pe
+        i for yud without the pintl; you still get the pintl if you say "yi"
+        kh for khes
+        ts for tsadi
+        u for vov
+        ay for pasakh tsvey yud
+        ey for tsvey yud
+        oy for vov-yud
+        sh for shin
+        initial shtumer alef added when needed
+        use | to prevent these rules:
+                tes-samekh is t|s; |ay prevents shtumer alef at start of word
+  
+______________________________________________________
+End of Mendele Vol 1.45

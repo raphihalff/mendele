@@ -1,0 +1,145 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.090
+November 4, 1996
+
+1) Yiddish romanization (Zachary Baker)
+2) A new www site (Michael and Bobbi Zylberman)
+3) Stanford University Program In Jewish Studies (Dan Leeson)
+4) Yiddish vegetarian writers (Shimke Levine)
+
+1)----------------------------------------------------
+Date: Fri, 1 Nov 1996 12:36:16 -0500 (EST)
+From yivo1@metgate.metro.org
+Subject: Yiddish romanization
+
+For those who are interested in that perennial topic, the romanization
+(transliteration/transcription) of Yiddish, I would like to direct your
+attention to a major article on the subject, "Ambiguities in the
+Romanization of Yiddish," by Bella Hass Weinberg, which appears in the
+latest issue of Judaica Librarianship (vol. 9, no. 1-2, Spring
+1994-Winter 1995; pp. 58-74).  Dr. Weinberg is, among other things, a
+professor of library science at St. John's University, consulting
+librarian at YIVO (with which she has been associated, in various
+capacities, for 25 years), compiler of the extensive index to the
+English translation of Max Weinreich's History of the Yiddish Language,
+editor of Judaica Librarianship (the flagship journal of the Association
+of Jewish Libraries), and an acknowledged expert in romanization issues,
+particularly (but not exclusively) as they affect libraries and their
+readers.  The abstract of her article follows:
+
+Romanization of Yiddish is one of the most complex activities in
+Hebraica cataloging, especially for publications that do not use
+Standard YIVO Orthography.  The Library of Congress has adopted the YIVO
+table for vowels, but uses its own Hebrew table for consonants.  LC's
+publication Hebraica Cataloging provides little guidance on Yiddish
+Romanization, and MARC [machine-readable cataloging] records contain
+many errors and inconsistencies in the application of the table.  YIVO's
+linguistic reference works, notably Uriel Weinreich's Modern
+English-Yiddish, Yiddish-English Dictionary and the translation of Max
+Weinreich's History of the Yiddish Language, often contradict each other
+in the Romanization of Hebraisms, while LC's rules for Romanizing
+Hebraisms seem to have changed recently.
+
+Hebrew titles for Yiddish works are particularly problematic, as there
+are two possible pronunciations [i.e., Sephardic and Ashkenazic].  LC
+appears to be moving in the direction of providing two Romanized title
+entries in such cases.
+
+Several transliterated Yiddish dictionaries have been published in the
+past decade.  Some use the YIVO system; others do not.  The extent to
+which these tools can provide assistance to Hebraica catalogers is
+assessed.
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Sat, 02 Nov 1996 21:41:11 +1000
+From: mzylberm@ozemail.com.au
+Subject: A new www site
+
+Mendele subscribers should visit the new web site of the SKIF Youth
+Movement in Melbourne at :
+
+http//yoyo.cc.monash.edu.au/~lozz/skif/index.html
+
+It is an impressive Web site and particularly interesting for people to
+see what new generations think and say.
+
+There is also a transliterated page of Yiddish which will shortly be
+displayed using Yiddish characters.
+
+Michael and Bobbi Zylberman
+
+3)----------------------------------------------------
+Date: Sat, 02 Nov 1996 20:11:40 EST
+From: leeson@aspen.fhda.edu
+Subject: Stanford University Program In Jewish Studies
+
+An announcement about an upcoming pair of talks at Stanford University,
+Stanford, California
+
+On Tuesday, Nov. 19, 1996, 8 pm (Oak West Lounge, Tresidder Union), Dr.
+Joshua A. Fishman, Distinguished University Research Professor of Social
+Sciences, Ferkauf Graduate School of Psychology, Yishiva University,
+will speak on the topic of "The Holiness of Yiddish" (in English).
+
+On the next day, at 4 pm (same location), his topic will be "Yiddish and
+English: An Odd Couple" (in Yiddish).
+
+This is the third annual lecture program in Yiddish studies given by
+Stanford University, and the turn out is always substantial.  Two
+different lectures have been established as the norm, one in English and
+one in Yiddish.
+
+Should anyone want additional information, call 415-723-7589.
+
+And I (sob!) can't go to the second one. Oi!!
+
+Dan Leeson
+Los Altos, California
+
+4)----------------------------------------------------
+Date: Sun, 3 Nov 1996 16:49:22 -0500
+From: shimke2@aol.com
+Subject: Yiddish vegetarian writers (Menke Katz)
+
+There is no point to repeating the entire message, since many others
+have already provided the information I had.  But I would like to second
+the glowing words about Menke's wonderful personality.  He was like a
+second (ideal) father to me, although once I moved down South we saw
+each other only on all too rare occasions.  I still have a sense of
+longing each time I think of his loss.
+
+I can confirm that Menke was a vegetarian from a very early age.  Some
+associations the question evokes in me:  accompanying Menke to a diner
+near his home in Spring Glen, where he would always order the same
+thing, his most beloved dish -- a baked potato.  As he sat with a friend
+in a diner, eating a baked potato and talking, his eyes sparkled with an
+intense warmth and life I have known from no one else.  (I suspect that
+I might have experienced something similar from Wolf Yunin if I had
+known him when he was a bit younger and in better health.)
+
+Menke used to say "Di greste nesiye iz arum a tish!"  He also used to
+say that a knife was meant for peeling fruit.  He told me he bacame a
+vegetarian as a child.  He also told stories of digging in frozen fields
+for potatoes during the famine of WW I, when his father was already in
+the States but the rest of the family was still in Lithuania.  Read his
+"Ode to the Potato."
+
+Dovid, his son, told me that he himself had _never_ eaten meat.
+(Incidentally, in addition to his scholarly achievements, Dovid is a
+fine writer, under the pseudonym of Heershadovid Menkes.)
+
+I met a Yiddish-speaking vegetarian who was part of a Yiddishe Kultur
+leyen-krayz in San Francisco.  He attributed his vegetarianism to
+Tolstoy's influence, and told me that many East European Jews were
+influenced by Tolstoy.  I do not know how wide-spread that phenomenon
+really is.
+
+Stanley F. (Shimke) Levine
+
+______________________________________________________
+End of Mendele Vol. 6.090
+

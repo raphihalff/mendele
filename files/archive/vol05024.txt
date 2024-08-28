@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.024
+July 15, 1995
+
+1) Yidish mit kompyuter af dem Tsvishn-Nets (Refoyl Finkel)
+2) The name Tevye (Rick Turkel)
+3) The name Tevye (Bob Werman)
+4) Yiddish Gilbert and Sullivan (Yisroel Feldman)
+
+1)----------------------------------------------------
+Date: Wed, 14 Jun 1995 11:32:19 -0400
+From: raphael@cs.engr.uky.edu
+Subject: yidish mit kompyuter af dem Tsvishn-Nets
+
+keyedue, hob ikh gemakht mit kompyuter etlekhe programen un shriftn vos
+helfn mir drukn yidish.  haynt iz aroys epes a bisl nay:  ikh hob
+gepoyelt makhn fun yivo-transcriptsie a "gif-file", vos ikh hob geshtelt
+af dem "www" (gants-veltlekh vebs).  git nor a kuk af
+
+    http://www.cs.engr.uky.edu/~raphael/yiddish.html
+
+zen di ershte pruvn.
+
+di mayse aleyn iz a bisl vi men makht fun an altn mantl a lidl: fun mantl
+a rekl, fun rekl a vestl, fun vestl a hitl, fun hitl a keshene, fun
+keshene a knepl, fun knepl a gornisht, un fun gornisht dos lidl. ikh heyb
+on mit yivo-transcriptsye, tsu-rekht makh di oysleyg fun hebreyeshe
+verter, leyg arayn in a mitl-forem vu, lemoshl, 'sh' vert prost a shin,
+fun dem in "TeX" forem, fun dem in "dvi" forem, fun dem af mayn
+ze-fenster in "X11" forem, fun dem in "gif" forem, fun dem in
+gants-veltlekh vebs forem.  A gantser khad-gadyo, ober dos rov iz
+oytomatish, b"h!
+
+di programen zaynen khinom in
+
+    ftp://www.cs.engr.uky.edu/cs/software/yiddish.tar.gz
+
+far di vos farmogn "Unix".
+
+Refoyl Finkel
+
+[A simen az undzer khoshever Refoyl derlozt nisht az groz zol im vaksn
+unter di fis.  Bloyz mit a por teg tsurik hobn mir zikh dervust az eyner
+fun Mendele's naye abonantn (Harald Helgott) hot ayngeshtelt a "home
+page" vos gebt aroys yidishe poezie in transkriptsie:
+
+     http://www.cs.brandeis.edu/~hhelf/yiddish.html
+
+Yetzt kenen mir leyenen di zelbe poezie in ebreishe oysies.  Ven der
+shames volt geveyn a shadkhan volt er forgeshlogt khotch a hypertextishe
+bindung tsvishn di tsvey "home pages".  A hartsikn yasher-koyekh beyde.]
+
+2)----------------------------------------------------
+Date: Wed, 14 Jun 95 13:49:29 EDT
+From: rturkel@cas.org
+Subject: The name Tevye
+
+Harvey Spiro replied (Vol. 5.023) to an earlier request for
+information on the name Tevye.  His answer is basically correct,
+although the proper Hebrew vocalization is Tuvia, not Tovya, so
+his postulated intermediate *Toyvya doesn't exist.  Incidentally,
+the name Tuvia still in current use.
+
+zayt gezunt un shtark.
+
+Rick Turkel
+
+3)----------------------------------------------------
+Date: Thu, 15 Jun 95 0:01 +0200
+From:rwerman@vms.huji.ac.il
+Subject: The name Tevye
+
+The name Tov'ya appears about a dozen times in the tanach, usually
+associated with the Exilic period.  The name Tuv'ya is also common in
+modern Hebrew.
+
+I imagine the Yiddish speaking reader of Hebrew might pronounce the name
+Tuveya, or Toveya or Teeveya, depending on where he came from.  These are
+likely only a hop, step and a jump from Tevye.
+
+Bob Werman
+Jerusalem
+
+4)----------------------------------------------------
+Date: Wed, 14 Jun 1995 23:02:48 -0400 (EDT)
+From: wexfeld@delphi.com
+Subject: More on Yiddish Gilbert and Sullivan
+
+In response to Varda Novick's recent post about Yiddish Gilbert and
+Sullivan, readers might want to know that cassette tapes of Der Yiddisher
+Mikado and Der Yiddisher Pinafore are available via mail order from the
+Gilbert and Sullivan Yiddish Light Opera Co., c/o Bob Tartell, 690
+Hawthorne St., W. Hempstead, NY 11552, for $15. I first found out about
+them through an ad in the English-language Forward.
+
+The recordings are accompanied by a (very accomplished) pianist. The
+singing is excellent, and the words are generally easy to understand.  I
+hesitate to commend any particular performers, since most are terrific,
+but the tenor in the Mikado (Yanki-Pu) has a meltingly beautiful voice.
+I also particularly enjoy the moving rendition of "Oy Vey'z Mir, Oy Vey'z
+Mir, Oy Vey's Mir"/"Tit Willow" ("Oyf a boym bay a vaser a faygele kleyn
+zingt vey'z mir, oy vey'z mir, oy vey'z mir") in the Mikado, and "Ikh Bin
+Der Keynig Fun Dem Yam/"I Am The Monarch Of The Sea" ("Un vo ikh gey
+zingt men a b'racha/un mir zaynen di shvester un di gantse mishpokhe") in
+Pinafore.  The chorus is also excellent and fully in the spirit of the
+proceedings.  The tapes include only the songs, not the spoken dialogue.
+The whole production is very professional, very lively, and very funny,
+and somehow retains the spirit of Gilbert and Sullivan transposed to a
+rather different setting.
+
+Yisroel Feldman
+
+______________________________________________________
+End of Mendele Vol. 5.024
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

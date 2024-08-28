@@ -1,0 +1,138 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 159
+March 16, 1993
+ 
+1) Housekeeping (Noyekh Miller)
+2) MOW/Evening of Jewish Lesbian Entertainment (Tova Stabin)
+3) Ye 'yes'(Berl Hoberman)
+4) Mutual comprehensibility (Berl Hoberman)
+
+1)----------------------------------------------------
+Date: Mon Mar 15 1993
+From: nmiller@dot.trincoll.edu
+Subject: Housekeeping
+
+1. Some of you have already noticed that there's been a
+slightly different look to things in the last few numbers
+of Mendele. That's because we've changed machines.  Mendele
+is no longer serviced by Trinity's Vax and uses instead a
+machine with a different operating system (Unix).  There
+may yet be another change in a few weeks, but at this time
+the shames makes this request of you:
+
+Please do NOT write to: nmiller@vax1.trincoll.edu
+                                or
+                        mendele@vax1.trincoll.edu
+
+Instead, address all personal mail to:
+
+                        nmiller@dot.trincoll.edu
+                                
+Communications to Mendele still go to:
+
+                        mendele@yalevm.ycc.yale.edu
+
+2. Some of you who have tried to download back files by
+means of anonymous ftp may have had trouble exiting by use
+of the "bye" command.  A note from Harold Orbach points out
+that "quit" works just fine.
+
+A sheynem dank aykh.
+
+Noyekh
+
+2)----------------------------------------------------
+Date: Mon Mar 15 16:05:14 1993
+From: IN%"tova@u.washington.edu"
+Subj: MOW/Evening of Jewish Lesbian  Entertainment
+
+
+There will be a benefit for Bridges, a Journal for Jewish
+Feminists and our Friends, at the March on Washington, for
+Lesbian, Gay and Bi Equal Rights and Liberation.  It will
+be an Evening of Jewish Lesbian Entertainment, beginning
+with a Havdallah (end of the Sabbath) service and
+commemoration of the 50th Anniversary of the Warsaw Ghetoo
+Urpising, with Rabbi LInda HOltzman.  There will be music
+by Alix Dobkin, Ruth Pelham, Laura Berkson, and a Klezmer
+band jam.  Laurie Wolf will MC the evening. The event is on
+April 24, 1993, 8:00p.m., at the New YOrk Avenue
+Presbyterian Church, at 1313 New York Avenue N.W.,
+Washington, D.C. (metro stop is "metro Center", near 13th
+and G).  Tickets are $10, less if you can't, more if you
+can, and are available in advance from Bridges, P.O. Box
+18437, Seattle, WA  98118, or at the door. ASL and
+Wheelchair accessible.  (if you have any questions, you can
+also email me at -- tova@carson.u.washington.edu).
+Thanks!!! hope to see you all there!!!!
+
+Tova Stabin
+
+3)----------------------------------------------------
+Date: Tue Mar 16 12:19:12 1993
+From: RHOBERMAN%SBCCMAIL.bitnet@YALEVM.YCC.YALE.EDU
+Subject: Ye  'yes'
+
+Everyone knows the Yiddish word for 'yes' is /yo/ (I guess
+in Polish, Galitsyaner, and Ukranian dialects /yu/?).  But
+my grandmother, from a town a few miles west of Minsk well
+inside Litvish territory, said /ye/ to rhyme with /fe/
+'yuck' and /ikh ze/ 'I see', and insisted that this was not
+the English word "yeah" but genuine Yiddish.  Of course she
+knew /yo/, but said that's not the way it was pronounced in
+her dialect.  What's puzzling is that there is no regular
+sound change from /o/ to /e/ in Yiddish and she said /do/
+'here', /sho/ 'hour'.  (/kop/-/kep/, /nomen/-/nemen/ and
+/helfn/- /geholfn/ are different phenomena: they're
+morphological alternations that carry contrasts of
+meaning).
+
+I haven't heard of anyone else saying /ye/.  Is this a
+well-known variant? Where does it occur?  Does anyone
+(Mikhl?) have an explanation for its history?
+
+Berl (Bob) Hoberman
+rhoberman@sbccmail.bitnet
+rhoberman@ccmail.sunysb.edu
+
+4)----------------------------------------------------
+Date: Tue Mar 16 12:19:12 1993
+From: RHOBERMAN%SBCCMAIL.bitnet@YALEVM.YCC.YALE.EDU
+Subject: Mutual comprehensibility
+
+Were all Yiddish dialects mutually comprehensible?  A
+linguist friend has asked me this, knowing perfectly well
+that it is an undefined question, because two aspects are
+left open: how comprehensible is comprehensible, and when
+and where are we asking about.
+
+For comprehensibility: do we require instant ease of
+conversation, or is a period of accommodation acceptible;
+how frequent do we tolerate misunderstandings?  Obviously
+one can LEARN to understand a different dialect, just as
+one can learn a foreign language.  As for when and were:
+clearly someone who had never left his/her village has much
+less experience with different dialects than someone living
+for some years in the Lower East Side of New York.
+
+So let's define it arbitrarily and hypothetically as
+follows: is it the case that any two Yiddish speakers who
+had never left their villages in anywhere in eastern Europe
+(let's exclude Western Yiddish from consideration) and
+rarely or never talked with people from elsewhere could, if
+brought suddenly together, have conducted an extended
+conversation including more than a simple exchange of basic
+factual information?  We'll allow a bit of difficulty for
+the first few minutes, and an occasional minor misunder-
+standing that would be easily clarified.  Anybody want to
+hazard a thought on this question?  Guesses, estimates, and
+anecdotes welcome.
+
+Berl (Bob) Hoberman
+rhoberman@ccmail.sunysb.edu
+
+______________________________________________________
+End of Mendele Vol 2.159
+

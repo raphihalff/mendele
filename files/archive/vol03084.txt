@@ -1,0 +1,126 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.084
+August 18, 1993
+
+1) Nokh a mol transcription (Khaim Bochner)
+2) Grubyan (Khaim Bochner)
+3) Lafayette Klezmorim (Fishl Kutner)
+4) Standardized transcription (Itsik-Ayzik Aronson)
+5) Bisti (Leigh Lisker)
+
+1)----------------------------------------------------
+Date: Tue Aug 17 17:41:31 1993
+From: bochner@das.harvard.edu
+Subject: nokh a mol transcription
+
+I would like to enthusiastically second Arn Abramson's point that
+our richness of dialects is not a reason not to use a systematic
+transcription. If a litvak writes "sheyn" instead of "shoyn", I
+don't have any more trouble understanding that than when I hear it
+said that way. But if he/she writes "shane" (English-style) or
+"schehn" (German-style), I feel like I'm puzzling out a code (and
+don't always have the patience).
+
+I hope my friend Moyshe Waldoks won't mind my picking on him as a
+recent example: I'm sure I'm not the only one who finds "strieml",
+"zveytns", etc. harder to understand than "shtrayml", "tsveytns".
+
+If I try to write in my parents dialect, Lemuushl, az iyekh dertsayl
+aakh az baa ints zugt men "kenaynehuure", it may be hard to read for
+people who aren't familiar with Galitsiyaner Yiddish, but I think
+it's still easier than if I wrote: Limooshle, as eeuch derzale ach
+as ba ins soogt mann "kenninehowrie".
+
+(Dos heyst, oyf klal-shprakh: Lemoshl, az ikh dertseyl aykh az bay
+undz zogt men "kenaynehuure" onshtot "keyn ayin hore".)
+
+-- Khaim
+
+2)----------------------------------------------------
+Date: Tue Aug 17 17:52:03 1993
+From: bochner@das.harvard.edu
+Subject: grubyan
+
+Ellen Prince writes:
+> one problem with the -yan of grubyan being cognate of the suffix in
+> oxonian etc is the stress: it's grubYAN, whereas one would expect
+> GRUByan if it were a suffix, no?
+
+Actually, no ;-)
+
+Most suffixes don't take stress, but the ones that form pejorative
+terms for people (men?) generally do: shayderuk', yungatsh',
+frumak', all with stress on the last syllable. I think Yudl Mark
+points this out in his grammar, but I haven't had a chance to check.
+Anyway, grubyan' fits this pattern.
+
+The next question is: where does this pattern come from? The
+suffixes all look Slavic: can one of the Slavicists tell us what
+their stress characteristics are?
+
+-- Khaim
+
+3)----------------------------------------------------
+Date: Tue Aug 17 18:21:42 1993
+From: Philip Kutner <fishl@well.sf.ca.us>
+Subject: Lafayette Klezmorim
+
+Melinda Saveleva states that the Lafayette Klezmorim are the only
+such group in Indiana.  My list of 120 U.S. Klezmer groups does not
+list any other one in Indiana.
+
+32 of the 50 states have Klezmer groups.  CA has by far the most
+with 29.  NY is next with 17 and followed by MD with 8.
+
+Any subscriber to DER BAY may receive a copy of this list or one of
+Yiddish teachers or Yiddish clubs by merely sending a SASE to:
+
+FISHL c/o der bay
+1128 Tanglewood Way
+San Mateo, CA  94403
+
+Fishl
+
+4)----------------------------------------------------
+Date: Tue Aug 17 20:50:27 1993
+From: hia5@midway.uchicago.edu
+Subject: Standardized transcription
+
+Bob Goldberg complains about the "standardized" (YIVO) transcription
+of Yiddish.But the YIVO transliteration is a one-to-one Latinization
+of the Hebrew letters used to write Yiddish. It really doesn't
+reflect any dialect, since, e.g., transliterating giml-vov-tes gives
+a sequence of letters "gut," which just as giml-vov-tes is
+pronounced either /gut/ or /git/. But to -transliterate-
+giml-vov-tes as "git" is impossible--giml-yod-tes is /git/. I can't
+see any reason to oppose the YIVO transliteration. As for the YIVO
+orthoepy--it's wierd. I know of no other language where the only
+acceptable stage pronunciation (a Southern Yiddish) is diametrically
+opposed to the "literary norm," self-proclaimed by YIVO. As a
+Litvak, I'm very happy that YIVO arbitrarily chose basically a
+Litvak norm for their "literary norm." And as a teacher of Yiddish
+I'm even happier, because, unfortunately, there is -no- way of
+arriving at a stage pronunciation (Galitsyaner yidish) from the
+orthography.
+
+Howie (Itsik-Ayzik) Aronson
+
+5)----------------------------------------------------
+Date: Tue Aug 17 20:52:37 1993
+From: llisker@babel.ling.upenn.edu
+Subject: bisti
+
+In reading the discussion of how to spell Yiddish I was taken aback
+by the spelling of the third "word" of the song that made the hit
+parade during WW2, and would like enlightenment.Why is bisti not
+spelled as two words, probably bist di. If phonetic judgment says
+that either the t or the d must go, then bis di seems just as
+reasonable as bist i. But a Yiddish speaker of my close acquaintance
+rejects bisti as simply nonsense.
+
+Leigh Lisker
+______________________________________________________
+End of Mendele Vol. 3.084
+

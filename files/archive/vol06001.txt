@@ -1,0 +1,157 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.001
+May 20, 1996
+
+1) Mendele iz alt finif yor (Noyekh Miller)
+2) Shmukler (Victor Bers)
+3) Numerical values of alef-beyz (Walter Golman)
+4) Numerical values of alef-beyz (Howard Kusnetz)
+
+1)----------------------------------------------------
+Date: Mon, 20 May 1996
+From: nmiller@shakti.trincoll.edu
+Subject: Mendele iz alt finif yor
+
+Mit finif yor tsurik hot Mendele ongefangen mit tsvey-un-tsvantsik abonantn,
+kemat ale fun undz tsunoyfgebundn durkh bitnet.  (Ir gedenkt bitnet, khevre?
+Ay, vu zenen di shney fun di fargangene yorn?)  A listserver hot men nokh
+nisht gehat.  Un vegn internet un home pages un nokh azoyne tsatskelekh hot
+men nokh nisht gevust. Haynt-tsu-tog zaynen mir mer fun a toyzent, farshpreyt
+af der gorer velt in zibn-un-tsvantsik lender un medines -- un take tsulib dem
+internet.
+
+Country        Subscribers            Country        Subscribers
+-------        -----------            -------        -----------
+Argentina              3              Japan                  1
+Australia              8              Korea                  2
+Belgium                1              Mexico                 1
+Canada                63              Netherlands            8
+Costa Rica             1              New Zealand            1
+Croatia                1              Poland                 5
+Finland                1              South Africa           4
+France                 1              Spain                  3
+Germany               24              Sweden                 1
+Great Britain          8              Switzerland            5
+Hungary                7              Uruguay                2
+Iceland                1              USA                  821
+Israel                30              Venezuela              2
+Italy                  3              ???                   33
+
+Total               1041
+
+*******
+
+As we begin a new year of Mendele the shames wishes to thank all of our
+correspondents for making our list what it is.  And to invite all those who
+have not yet written to join those who have.
+
+When Mendele was small it was still possible to send welcome messages to new
+subscribers inviting them to send us short introductions.  Not long ago your
+shames tried to fold such a welcome note into the one that the the listserver
+automatically issues.  It didn't work.  Instead there was a brief flurry of
+"undigested" (single) posts.  A shames an umgelumperter!  We may try again
+some day.  Meanwhile, if you haven't introduced yourself, please do so.
+
+Un yetst, nokhamol afn rehktn fus.
+
+Noyekh Miller
+
+2)----------------------------------------------------
+Date: Fri, 10 May 96 20:24:26 EDT
+From: vbers@yalevm.cis.yale.edu
+Subject: Shmukler
+
+The other day I disgraced myself (nokh a mol) at the Yale-New Haven leyn kreiz
+by confidently declaring that "shmukler" means jeweler. A mitglid produced
+Weinreich, who defines the word as lacemaker. Hoping for some miracle, I
+checked Harkavy--keyn nes. Then I hoped that I was guilty, at the most, of a
+daytchmerism: no luck there either, at least in my small Langenscheidt.
+
+I wish to do penance by reporting competetent information on the semantic
+history of the word. Was I a zumerdiker nar to assume a connection to German
+Schmuk = adornment, pl = jewlery? Is there a non-Germanic root in question?
+Some birfurcation of meanings?
+
+Victor Bers
+
+3)----------------------------------------------------
+Date: Sat, 11 May 1996 21:54:07 -0400 (EDT)
+From: velvele@wam.umd.edu
+Subject: Numerical values of alef-beyz
+
+A postscript to Zellig's post  (5.317):
+
+Russian Jews used to refer in horror to the "shvartse meye-nikes," the "Black
+Hundreds," who were encouraged -- and sometimes ordered -- by the Tsarist
+government to conduct pogroms against Jews.
+
+Walter (Velvl) Golman
+Silver Spring, Maryland
+
+4)----------------------------------------------------
+Date: Mon, 13 May 1996 18:56:27 +0000
+From: helkay@hal-pc.org
+Subject: Numerology
+
+Zellig Bach in Mendele 5.317 touched only very briefly on the use of Hebrew
+letters for numbers.  Of course the entire art (science?) of Gematriya is rife
+in Hebrew, but for some reason, one finds less of it in Yiddish.
+
+In addition to the examples given by Bach, there is the "lamed-vovnik".
+According to tradition, the entire world continues to exist due to the z'khus
+of thirty six righteous people.  Lamed plus Vov equal thirty six, and each of
+thse hidden saints is a lamed-vovnik.
+
+Of course, the numerology also helps when one wishes to refer to someone else
+in a pejorative way.  Calling someone an akhzig-naynzig is much more socially
+acceptable than the less subtle term, and is less likely to earn the user a
+bloody nose.
+
+Howard Kusnetz
+
+______________________________________________________
+End of Mendele Vol. 6.001
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

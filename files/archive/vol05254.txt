@@ -1,0 +1,171 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.254
+February 14, 1996
+
+1) -axts and -ax (Kalman Weiser)
+2) Composite tenses/moods (Khayem Bochner)
+3) High school credit course in Yiddish (Sheine Mankovsky)
+4) Khsidish or misnagdish (Hershl Hartman)
+5) Khsidish or misnagdish (Arnie Kuzmack)
+6) Bokser (Hugh Denman)
+
+1)----------------------------------------------------
+Date: Tue, 13 Feb 1996 11:38:04 -0500 (EST)
+From: kiw2@columbia.edu
+Subject: -axts and -ax
+
+The following query was passed on to me by a linguistics grad student who
+found it on a linguistics list:
+
+     Being at the moment in a place where the relevant literature (if any) is
+     not available, does anyone out there know anything about the possible
+     etymology of the Yiddish deverbal suffix /-axts/ as in /piSaxts/ 'urine'
+     (cf. /piSn/ to 'piss'), /brexaxts/ 'vomit' (/brexn/), /Spajaxts/ 'saliva'
+     (/Spajen/ 'to spit')?
+
+     I'd also appreciate some information on the curious diminutive plural
+     /-ax/, which appears to have no Germanic source and looks like a Slavic
+     locative, which would be weird.  Any help appreciated.
+
+     Roger Lass
+     Department of Linguistics
+     University of Cape Town Rondebosch
+     roger@beattie.uct.ac.za
+
+I assume Prof. Lass does not subscribe to Mendele, so it would be appropriate
+to respond to him personally.  However, I would certainly like to see a
+response on Mendele, as well.
+
+Kalman Weiser
+New York, NY
+
+2)----------------------------------------------------
+Date: Tue, 13 Feb 96 12:24:31 -0500
+From: bochner@das.harvard.edu
+Subject: Composite tenses/moods
+
+Meyer-Leyb Wolf is apparently unfamiliar with the use of "geven" that Dovid
+mentioned, and asks for examples. And if he's unfamiliar with it, I would
+guess that many others are too. Here's what I can find on hand:
+
+From Yiddish II, chapter 17:
+Ven ikh zol geven visn, volt ikh (geven) gekumen.
+Had I known, I would have come.
+
+Sholem Aleykhem, cited by Y. Mark:
+Ir zolt geven zen zayn retsikhedik ponim.
+You should have seen his murderous face.
+
+Zaretski(1929, page 128), in his list of conditional forms, gives:
+volt geven makhn
+volt geven gemakht
+volt gehat gemakht (!)
+
+The last of these is unfamiliar to me (and apparently to Dovid as well);
+unfortunately he doesn't give examples.
+
+My understanding is that, just as "gehat" has acquired a use as a particle for
+creating the pluperfect & future perfect, "geven" has acquired a use as a
+particle for emphasizing that a conditional expression is counterfactual. I
+asked Mordkhe Shekhter about this once; he said that while the forms with
+"geven" are usually counterfactual, he didn't think they were necessarily
+unambiguously counterfactual. Unfortunately, the grammatical literature I have
+at hand doesn't clarify matters any further.
+
+My impression is that the forms with "geven" are common in Sholem Aleykhem;
+unfortunately I haven't been collecting them as I read.
+
+Khayem Bochner
+
+3)----------------------------------------------------
+Date: Tue, 13 Feb 96 14:47:59 EST
+From: sheine_mankovsky@cclink.metrodesk.metrotor.on.ca
+Subject: High school credit course in Yiddish
+
+I wrote about the high school credit course being offered by the North York
+Board of Education here in Metropolitan Toronto earlier this year.
+
+The eighteen students returned after the winter break, and even survived a
+move to another school due to construction at Earl Haig.
+
+I am pleased to inform you that the Community Hebrew Academy of Toronto (CHAT)
+is looking at the details of how to bring the course into their program in
+September, 1996.  So, Yiddish will continue to be part of this community's
+Jewish education commitment.
+
+Did I read something about someone saying that Yiddish is dead? Could this
+have been an error in fact--as well as in judgment?
+
+Sheine Mankovsky
+
+4)----------------------------------------------------
+Date: Tue, 13 Feb 1996 15:12:11 -0500
+From: hershl@aol.com
+Subject: Khsidish or misnagdish
+
+Anno Siegel (V 5.248) can rest assured about the origins of the song _der rebe
+elimeylekh_. The lyrics were written by the humorist and satirist Moishe Nadir
+(Yitskhok Reiss) at a time when he was far closer to Marx and Lenin than to
+either the Baal Shem Tov or the Vilner Gaon.
+
+Hershl Hartman
+
+5)----------------------------------------------------
+Date: Tue, 13 Feb 1996 22:24:49 -0500 (EST)
+From: kuzmack@cpcug.org
+Subject: Misnagdishe songs
+
+Eliyahu Juni wrote about the song "az der rebe zingt" as involving different
+verbs for the rebbe and the khsidim, such as "un az der rebe est, fresn ale
+khsidim."  The version I remember was much harsher in depicting the
+relationship:
+
+un az der rebe est, shlingn ale khsidim.
+un az der rebe trinkt, gisn ale khsidim.
+
+BTW, I remember a snippet of another anti-khsidish song.  In the gathering, a
+Jew does not feel well, so the rebe lays his hands (?) on him.  The result:
+der yid iz bald geshtorbn.
+
+Arnie Kuzmack
+
+6)----------------------------------------------------
+Date: Tue, 13 Feb 1996 20:53:56 +0000
+From: uclhhfd@ucl.ac.uk
+Subject: Bokser
+
+Meyer-Leyb Wolf is clearly right [5.252] in deriving 'bokser' from earlier
+forms of the NHG 'Bockshorn(baum)', but his gloss, while offering a charming
+pun on the name of the original enquirer, is perhaps a little misleading.
+
+The word 'Bock' can indeed mean 'hart', but also refers to the male of any
+horned or antlered mammal. Consider, however, the appearance of the realia in
+question! The resemblance is more to the flat, twisted horns of a billy-goat
+than to the antlers of any kind of deer. And just as Y. 'bok' means 'male
+goat', so 'Bock' can denote the same animal in NHG (the more specific form
+being 'Ziegenbock').
+
+The word must be directly or indirectly calqued on the Gk. 'aigokeros' with
+the unequivocal sense of 'goats-horn'. Incidentally, the Latin botanical name
+'ceratonia' is similarly derived from the Gk. The irony of all this is that,
+whereas most European languages derive their current term for 'carob' from the
+Arabic form (cognate with the H.), if they do not resort to N.T. mythology,
+that is, Y. (together with the obsolescent NHG form and the Gk. from which it
+ultimately descends) has a form of European origin.
+
+By the way, the topos of the carob as suitable comestible for hermits residing
+in deserts is not confined to Christian literature. I believe there are
+midrashic counterparts. More intriguing is the question of the route by which
+the word got into Gm. & Y. Overlap between the habitat of the tree and either
+Gm. or. Y. speech-territory can never have been very great (possibly confined
+to the northern littoral of the Adriatic). Could returning crusaders have
+brought back the word with the fruit? Or is this potential grist to the mill
+of one of our 24-carat Balkan Sprachbund-enthusiasts?
+
+Hugh Denman
+
+______________________________________________________
+End of Mendele Vol. 5.254
+

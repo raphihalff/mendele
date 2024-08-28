@@ -1,0 +1,170 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.022
+June 28, 1996
+
+1) Yiddish proverbs (Zellig Bach)
+2) _Tam-tam_ (Meinhard E. Mayer)
+3) _Tam-tam_ (David Lidsky)
+
+1)----------------------------------------------------
+Date: Thu, 27 Jun 1996 19:26:10 -0400
+From: zellig@aol.com
+Subject: Yiddish proverbs
+
+In Mendele 6.019,5 Paolo Agostini cited ten proverbs some of which, in
+his opinion, are "characteristic of Yiddish only."
+
+This characteristic is not applicable to most of them.   Proverb No. 3,
+for instance ("a halber emes iz a gantser lign"), is a universal given,
+and the same idea is expressed in many adages in various languages.
+
+Agostini's first proverb reads:  "Tsen goyim zaynen nor tsen goyim, ober
+tsen yidn zaynen shoyn a minyen" [ten non-Jews are a mere ten non-Jews,
+but ten Jews already constitute a minyen].   While this proverb draws a
+comparison _between_ non-Jews and Jews, may I add the folowing saying,
+pointing to an interesting comparison _within_ groups of Jews, namely:
+
+_Nayn rabonim zaynen nit kayn minyen, ober tsen balegoles zaynen a
+minyen._
+
+[Nine orthodox rabbis do not constitute a minyen (the minimum quorum of
+ten Jewish males for praying together as a collective), but ten
+balegoles (draymen, wagon drivers) do.]
+
+The sum total of the accumulated religious knowledge of the nine rabonim
+is, of course, very weighty in the context of Jewish life and the
+immense esteem of religious education, as succinctly expressed in the
+popular proverb "Toyre iz the beste skhoyre"  [the Bible is the best
+merchandise].*)
+
+However, when it comes to "dos pintele yid," the heart and soul of each
+individual Jew, even balegoles, who, as a rule, probably did not advance
+in their religious learning beyond kheyder, count more on the scale of
+forming a minyen for religious services, and ten balegoles, therefore,
+constitute a minyen while nine rabonim do not.
+
+A rare but very interesting estimation and love of _amkho_, the great
+jewish masses without the exalted mantle of learnedness.
+__________
+*) This translation, while not intentionally, trivializes the encapsulated
+philosophy in this proverb -- the great yearning of generations and
+generations of Jewish parents for their sons achievements in religious
+studies and the life-style of the people.
+
+Zellig Bach
+Lakehood, NJ
+
+2)----------------------------------------------------
+Date: Thu, 27 Jun 1996 21:46:41 PDT
+From: hardy@lynx.ps.uci.edu
+Subject: _Tam-tam_
+
+Unfortunately Tam-tam chose to distribute in PDF format, which is
+unreadable for us hard-core Unix users. Why not HTML, or offer a choice?
+
+Meinhard E. Mayer
+
+3)----------------------------------------------------
+Date: Fri, 28 Jun 96 16:38:07 PDT
+From: fdlidsky@netvision.net.il
+Subject: _Tam-tam_
+
+The appearance of the AEDCY's "Yidisher Tamtam" on the Internet is a
+cause for rejoicing (I see that it's been around for a few months but
+I've only just learned about it from Mendele, as I guess have many other
+people). This Yiddish Internet zine is particulary exciting because it
+is produced in such an esthetically pleasing form. Well done AEDCY!
+
+And yet...This visually beautiful zine is in the Acrobe Acrobat pdf
+format. The Acrobe Acrobat reader is an enormous piece of software (the
+3.0 beta 1 version is taking up almost 3 mega of precious space on my
+small hard disk). It's running slowly on my computer and in other ways
+is not problem-free.
+
+I would have been happy to have received the Yidisher Tamtam in ASCII.
+Would that then have meant not seeing it in letters of the Yiddish
+alphabet? I seem to remember that the question of Jewish versus English
+letters in internet Yiddish has been discussed in the past on Mendele.
+I'm not sure if anyone has suggested a solution quite like the
+following.
+
+Yiddish texts on Mendele appear in English (or "Latin") letters in
+various forms of transcription which aim to reproduce the sound of the
+Yiddish. They are not in transliteration, that is to say that no direct
+attempt is made to indicate the letters which would be used to write the
+same words by means of the Yiddish alphabet. This is probably the only
+practical solution for two reasons. Firstly because, though Hebrew
+letters may be sent via e-mail, special software is needed and in my
+experience it does not always work (the technical details are beyond me
+but I think that what I've said is true). Secondly because many Mendele
+subscribers feel more comfortable reading Yiddish in English rather than
+Yiddish letters and would object strongly to Yiddish letters on Mendele
+even if the technical problems could be solved.
+
+However, in Yiddish, a transliteration and a transcription of a text do
+not need to be too dissimilar. A quick glance at, for example, the table
+of the Yiddish alphabet in Weinreich's "College Yiddish" shows that the
+sounds of the letters may be transcribed in a form in which the
+pronunciation of the Germanic and Slavic-derived parts of the lexicon is
+immediately and intuitively clear to an English speaker and yet the
+original Yiddish letters may be unambiguously reconstructed with, I
+think, only one exception. A slight modification of Weinreich's
+transcription would remove that exception and produce a system which
+would allow the sounds of Yiddish to be written in English letters at
+the same time as it would indicate the exact spelling in the letters of
+the Yiddish alphabet.
+
+Thus a Yiddish text could be sent by e-mail in a transcribed form in
+which it could be easily read by those who want to read it that way (as
+already happens on Mendele). And a simple software program could be used
+to turn it into Yiddish letters by those people who wish to do so.
+
+All of the above applies to those parts of the Yiddish lexicon which are
+Germanic-Slavic in origin. Words of Hebrew-Aramaic origin could be
+transcribed in the same way producing something like the form in which
+they appear in Soviet Yiddish spelling when turned into Yiddish letters
+by the software. That would be no terrible thing.
+
+If it were ever desired to produce the original "Hebrew" spelling of
+Hebrew-Aramaic derived words that could be done with a somewhat greater
+complexity in the system of transcription. Thus those portions of the
+text would be tagged (say with an asterisk at their beginning and end)
+and the software would translate them into Jewish letters according to a
+different paradigm in which:
+
+(1) English consonant letters only would be turned into Jewish letters
+except that the small number of vowel letters used in Hebrew words would
+be indicated by special English combinations (thus, for example, the
+Yiddish word tam, meaning taste, might be transcribed ta'm, a' being
+equivalent to ayen---if it were written as tam the vowel letter in the
+middle of the word would be ignored by the software).
+
+(2) Those consonant letters which appear only in Hebrew-Aramaic-derived
+words would be indicated specially. Thus while s would would = samekh,
+as usual, s' might = sin and s" might = sof; while kh would = khof, as
+usual, kh' would = khes; while v would = vov, v' would = veyz and so on.
+
+Admittedly the existence of a separate (and less unambiguously
+transcribable) spelling system for the Hebrew-Aramaic portion of the
+vocabulary does mightily complicate matters. But the reproduction of
+that sort of spelling in Jewish letters would only be for special
+occasions. For those people who are used to reading non-Soviet Yiddish
+in Yiddish letters reading Soviet Yiddish is no big deal (in fact it can
+be a lot of fun). My hypothetical software would usually produce
+something similar to Soviet orthography for the Hebrew-Aramaic words.
+
+Of course for all of the above to work one would have to be careful to
+stick to a uniform, standardized (but simple and intuitive) system of
+transcription of Yiddish.
+
+I'd be interested to receive people's reactions to my idea. Will I ever
+be able to receive Tamtam on the internet in that form which I have
+suggested?
+
+David Lidsky
+
+______________________________________________________
+End of Mendele Vol. 6.022
+

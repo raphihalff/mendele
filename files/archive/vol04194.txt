@@ -1,0 +1,157 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.194
+November 22, 1994
+
+1) Mendelniks at the lsa? (Ellen Prince)
+2) Mayrev Yidishe Muzik? (Rick Gildemeister)
+3) Peretz's "Frume kats" (Moyshe-Shaye Steinlauf)
+4) Tsvi Schooler (Leybl Goldberg)
+5) Zamenhof and Yiddish (Howie Aronson)
+
+1)----------------------------------------------------
+Date: Tue, 22 Nov 1994 10:08:57 EST
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Mendelniks at the lsa?
+
+this won't do for a mendelnik convention, obviously, but how many of you
+will be at the lsa meeting in new orleans this january? if more than one,
+perhaps we could have our second annual mendelnik-lunch-at-the-lsa?
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Mon, 21 Nov 1994 14:15:01 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Mayrev Yidishe Muzik?
+
+Ikh hob letstns geleyent Arre Komar's zeyer interesante verter vegn
+Yidishe muzik, vos es iz folksgesang, folkslid un der Yidisher "stil" un
+fun vanen, oder beser gezogt, viazoy me makh "Yidish" a melodi.
+
+Mayn frage haynt hot tsu ton mit yidn in Mayrev-Yidishe lender. Tsi iz
+der "klezmer" stil geven gut gekent in Elzas oder Endingen? Vossere muzik
+tipn hot men dort? Tsi iz faran bay zey a yidisher stil, vos tsu *zey*
+hot a yidishn tam, ober take nisht der selbiker stil vos men hot gefunen
+bay yidn in Poyln un Besarabie, lemoshl?
+
+Efsher ken franyd Arre oder andere mentshn derklern epes oder gebn an
+entfer tsu mayn frage? Vi modne, vos biz itst iz di miglekhkeyt bay mir
+keynmol nisht in moyekh gekumen, az Mayrev-Yidn voltn gehat efsher zeyer
+eygene muzik, oder efsher hobn zey geshpilt di zelbike muzik vi in Poyln,
+un es iz bay zey nisht keyn originele "folks" muzik.
+
+Yo, yo,ikh veys az mayn loshn iz a bisl komish; hot an anderer Mendelnik
+ober gezogt az di vos kenen, zoln pruvn shraybn oyf Yidish.
+
+Rick Gildemeister
+
+3)----------------------------------------------------
+Date: Mon, 21 Nov 1994 14:41:46 -0500 (EST)
+From: m_steinlauf@acad.fandm.edu
+Subject: Peretz's "Frume kats"
+
+To answer, albeit briefly, Moishe Feller's question about Peretz's "Frume
+kats": the story has generally been read as a not-so-sutle attack on the
+hypocrisy of Jewish orthodoxy, indeed, of religious orthodoxy in general.
+For this reason, it was one of the most commonly anthologized Peretz
+stories in the Soviet Union. By the way, in general with Peretz, his
+stories are rarely just "stam mayses." While they're rarely allegories
+strictly speaking, there's frequently a "shpits," typically located in
+the last lines.
+
+So break your head and enjoy!
+
+Moyshe-Shaye Steinlauf
+
+4)----------------------------------------------------
+Date: Mon, 21 Nov 1994 21:06:00 -0500 (EST)
+From: lgoldberg@worldbank.org
+Subject: Tsvi Schooler
+
+Re: Harvey Spiro's queries:
+
+I also have fond memories of hearing Tsvi Schooler's raspy greeting "A
+hartsikn gut-morgn aykh!" every day on WEVD in New York in the 1960s and
+70s just before he would read the news in Yiddish.
+
+I don't know about his publications, but Harvey or others may be
+interested in knowing that Schooler was interviewed on camera about his
+film career (he played "Charlie the Marxist" in the 1932 film version of
+_Uncle Moses_) in the documentary on Yiddish movies, _Almonds and
+Raisins_ (c. 1980, narrated by Orson Welles).  Those in the Washington,
+D.C. area can find the film in the library of the BJE (Board of Jewish
+Education) in Rockville, Maryland [tel. (301) 984-1611].  It's also
+available for purchase from ERGO Media in New York.
+
+Leybl [bela'z "Lee"] Goldberg
+
+5)----------------------------------------------------
+Date: Mon, 21 Nov 1994 23:25:00 -0600
+From: hia5@midway.uchicago.edu
+Subject: Zamenhof and Yiddish
+
+In Mendele Vol. 4.183, Zellig Bach points out Zamenhof's plea for a
+consistent Yiddish orthography based on the phonology of Yiddish. It is
+true that he states "there is no basis for writing ... double consonants,
+the letter 'h', etc., only because these words are so written in German."
+Yet, Zamenhof had an absolute terror of homonymy (his Esperanto avoided
+all instances of homonymy). For this reason he did propose such spellings
+as:
+
+lehben   to live        vs.    leben   near
+mehl     flour                 melen   draw
+nehmen   take                  nemen   names
+nohkh    still                 nokh    after
+ohrem    arm                   orem    poor
+vehgen   weigh                 vegn    about
+vell     wave                  velen   want
+zunn     sun                   zun     son
+
+Incidentally, the Zamenhof Yiddish grammar is a fascinating and important
+work. It has been published by Adolf Holzhaus: L. Zamenhof, Provo de
+gramatiko de novjuda lingvo kaj Alvoko al la juda intelektularo,
+published in 1982 by the Fondumo Esperanto (Helsinki). This volume
+contains the original Russian text from 1879-1882 along with an Esperanto
+translation.
+
+Howie Aronson
+
+P.S. Don't forget: Barry Schechter speaking in Yiddish on Yiddish
+dialectology, Wednesday 30 November in Cobb Hall106, University of Chicago.
+Contact me for further details.
+
+______________________________________________________
+End of Mendele Vol. 4.194
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

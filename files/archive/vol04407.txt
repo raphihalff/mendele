@@ -1,0 +1,171 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.407
+May 3, 1995
+
+1) Introduction (Danny Feldman)
+2) Russian-Yiddish Dictionary (Alice Nakhimovsky)
+3) Di etimologye fun "antplekn" (Peter Kluehs)
+4) Der may iz gekumen (Shleyme Axelrod)
+5) Cat's cradle (Hadass Klausner)
+6) Cat's cradle (Mikhl Herzog)
+7) Ladybug (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Wed, 3 May 1995 11:17:48 +1000
+From: danielf@werple.mira.net.au
+Subject: Introduction
+
+Greetings from down-under.
+
+I have been learning Yidish for the last 3 years under the tutelage of
+Bobbi Zylberman in Melbourne, Australia. We meet once a week to read,
+discuss and (with great difficulty, since my family spoke German) learn
+grammar. I have recently discovered the joys of the Internet and
+specifically the mendele group. It is always interesting to read about
+the on-going search for meaning of words, discussions on history and
+cultural activities. It gives me a warm feeling to be part of, what seems
+to be, a growing community of Yidishists.
+
+Just a question on the cd-rom issue, which is a great idea, however, is
+there any Yidish work on diskettes? I don't think it would be difficult
+to have a dictionary, novels and other works on diskette. In fact, we can
+probably get most of the work on the internet itself. I would be
+interested to know if it is possible.
+
+Danny Feldman
+Melbourne, Australia
+
+2)----------------------------------------------------
+Date: Tue, 02 May 1995 13:42:28 -0400
+From: alice@cs.colgate.edu
+Subject: Russian-Yiddish Dictionary
+
+Howard Gershon asks about a dictionary for his cousin.  I have a
+Russian-Yiddish dictionary, hardback, put out in a burst of liberalism in
+1984 by the Russki yazyk publishing House, Moscow.  Unfortunately, it
+goes only one way!  I wonder if that's one of the ones Kamkin is selling?
+
+Alice Nakhimovsky
+
+3)----------------------------------------------------
+Date: 02 May 1995 20:48:00 +0200
+From: pete@pko.rhein-main.de
+Subject: Di etimologye fun "antplekn"
+
+in di letste por khadoshim hob ikh keseyder geklert vegn dem shoyresh
+funem vort antplekn, nor s'iz mir geblibn a retenish. haynt trakht ikh az
+s'volt gekont eksistirn a kroyveshaft tsu dem daytshn vort 'entflechten'.
+
+ikh tu a kuk in mayn Etymologie-Duden un vos gefin ikh do? in MHD
+'flechten' iz geven 'vlehten' _ober_ es bazirt oyf dem indogermanishn
+shoyresh 'plek-', vos hot gehat dem badayt 'flekhtn oder viklen'. iz dos
+a tsufal oder zenen do faran nokh mer yidishe verter vos hitn ayn asa
+same alte vortslen?
+
+peter kluehs
+wehrheim, germany
+
+4)----------------------------------------------------
+Date: Tue, 02 May 1995 17:41:15 -0400 (EDT)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Der may iz gekumen
+
+Mit an erekh finf-un-fuftsik yor tsurik (nu, efsher shoyn zekhtsik) hob
+ikh oysgelernt a lidele vegn dem khoydesh may; muzik, dakht zikh, fun
+Haydnen.  Es heybt zikh on:
+
+Der may iz gekumen
+Mit zayn tsoyber, mit zayn prakht.
+Ale grozn, ale blumen
+Hobn oyfgevakht.
+
+Tsi veyst emetser dos gantse lidl?
+
+Shleyme Axelrod
+Buffalo, New York
+
+5)----------------------------------------------------
+Date: 03 May 1995 06:54:43 GMT
+From: hadass.klausner@magnet.at
+Subject: Cat's cradle
+
+Ellen, I thought I was the only one to get stuck playing cat's cradle.
+Well, I mannaged to ged over the "pinky point", but have never figured
+out the next step...
+
+I don't know, Dan, the meaning in Yiddish, but it's called "Savta
+sorregget" in Hebrew (Grandma knitting). Maybe this helps.
+
+Hadass Klausner
+
+6)----------------------------------------------------
+Date: Wed, 3 May 95  09:47 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Cat's cradle
+
+And, while we're at it, the second figure in "etl-betl" is generally
+called _a shpigl_.
+
+Mikhl Herzog
+
+7)----------------------------------------------------
+Date: Wed, 3 May 95  09:47 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Ladybug
+
+Zellig asks about the Yiddish names for the "ladybug". My inventory
+includes the following:
+
+moyshe rabeynus ki'ele
+moyshe rabeynus ferdele
+gots beheymele
+meylekh moshi'ekhl
+
+I think that the specific rationale for this class of names is to be
+found in general European folklore rather than in anything specifically
+Jewish. The Yiddish names are, I believe, "Judaizations"
+
+The most common designation in German is _Marienkaefer_, obviously a
+reference to Mary. I assume there are numerous dialect variants as well
+(Anno?). For that matter, who is the "lady" in English "Ladybug" (and US
+dialectal Lady-bird)? You guessed it! Anyone with access to Volume III
+materials of DARE should be able to tell us more.
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 4.407
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

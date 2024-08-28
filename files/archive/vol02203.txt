@@ -1,0 +1,155 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 203
+May 14, 1993
+
+1) Introduction (Sean Martin)
+2) Idiomatic expressions (David Sherman)
+3) Shtumer alef (Arnie Kuzmack)
+4) Opatoshu (Rosa Lehmann)
+5) Nar/naronim (Isaac Aronson)
+
+1)----------------------------------------------------
+Date: Thu May 13 22:04:05 1993
+From: Sean A Martin <semartin@magnus.acs.ohio-state.edu>
+Subject: Introduction
+
+I just subscribed to Mendele and, at Noyekh Miller's
+request, am providing an introductory statement.  I'm a
+second-year graduate student in Yiddish and history at
+Ohio State; I'm working with Professors David Neal
+Miller and Neil Jacobs.  I look forward to reading the
+list.
+
+Sean
+
+2)----------------------------------------------------
+Date: Thu May 13 22:20:36 1993
+From: dave@cai.lsuc.on.ca (David Sherman)
+Subject: idiomatic expressions
+
+One that we use fairly often at home is:
+
+"Vos shteystu vi a leymine goylem?"  (Standing around
+like a (clay?) Golem [presumably when it had not been
+awakened by the Maharal.)  Rather like "Don't just
+stand there!".
+
+David Sherman
+
+3)----------------------------------------------------
+Date: Thu May 13 23:47:52 1993
+From: lkuzmack@sytex.com
+Subject: Shtumer alef
+
+Mikhl Herzog writes in Mendele 2.200:
+
+>     I view the use of alef in Yiddish against this
+>background of Hebrew-origin constraints. Except for
+>[e], every word-initial vowel in Yiddish is either
+>represented by alef [a, o], or preceeded by alef [i, u,
+>ey, ay, oy]. My explanation is that Hebrew words (with
+>an exception that I can't explain ##), unlike words in
+>Yiddish  never begin with a vowel sound. They do begin
+>with alef and ayin but these are, historically,
+>consonants. In Yiddish, both alef and ayin lost their
+>consonantal value and were thus freed, in the case of
+>the word-initial, so-called shtumer-alef, to serve a
+>strictly orthographic (dummy consonantal) function and,
+>in the case of ayin, to represent [e]. Why [e]? Perhaps
+>there is some phonetic explanation. (In Western
+>Yiddish, ayin often represents [e, e:] in Hebrew-origin
+>words, too: sho 'hour(s)' is [she:], moes "money" is
+>[me:s].
+>
+>## udvar adonay/unsane toykef
+
+Despite his much greater knowledge of early Yiddish
+spelling than mine (non-existent), I find this argument
+unconvincing.
+
+First, if you want to say that the Hebrew initial alef
+and ayin were consonants, you could with as much
+justification say that an initial vav is a consonant
+even when pronounced [u].  There is a clear grammatical
+rule determining when an initial vav is [ve] and when
+it's [u].  Why say that [adaber] begins with a
+consonant and [udvar] with a vowel?
+
+Second, even in the Biblical period, the consonental
+value of alef, ayin, vav, and yud were beginning to
+weaken and they were beginning to be used
+(inconsistently) as vowel signs, for example, in the
+'-im' plural ending.  By the Middle Ages, with very
+unsophisticated knowledge of Hebrew grammar, I doubt
+people had much sense of any of this.
+
+Third, in Hebrew, ayin often takes patach where alef
+takes tsere, for example, yoydea ('he knows') vs. qoyre
+('he reads').  This would tend to associate alef with
+[e] and ayin with [a].
+
+I suspect the reason for the shtumer alef was much
+simpler.  In Hebrew, grammar tells you when an initial
+vav or yud is a vowel or a consonant.  (Actually,
+initial yud can't be a vowel.)  In a Germanic language,
+this did not work -- an initial vav could be [u] or [v]
+(or perhaps [f]); an initial yud could be [y] or [i].
+The shtumer alef distinguished between them.  It was
+also used in the middle of words to resolve
+ambiguities, even where Yivo found it unnecessary
+centuries later.
+
+I have no idea why alef was chosen, rather than ayin.
+Perhaps further discussion could shed some light on
+this.
+
+In any case, it appears that the answer to my original
+question: why write alef-yud-daled for [yid], is that
+it was in fact pronounced by many as [id].
+
+Arnie Kuzmack
+
+4)----------------------------------------------------
+Date: Thu May 13 22:54:05 1993
+From: DAVIDN@SARA.NL
+Subject: Re: Opatoshu
+
+I am really sorry. I didn't mean to offend anyone by
+suggesting that no reaction is equal to showing no
+interest in, or worse, ignorance of Opatoshu. I know
+that the stories by Joseph Opatoshu are worth reading
+and writing about (and I see most of you do). That is
+why I asked for your help in the first place. It really
+suprised me that no one answered my first query. Maybe
+it wasn't wise, but I tried the provocative method.
+And, it worked. I am sorry that some of you felt
+offended.
+
+Thanks a lot for the suggestions (incl. Margaret's
+private mail)!
+
+Rosa Lehmann
+
+5)----------------------------------------------------
+Date: Fri May 14 00:50:08 1993
+From: hia5@midway.uchicago.edu
+Subject: Nar/Naronim
+
+I wonder if the plural of nar, which is, after all, a
+fairly expressive noun, might not be influenced more
+directly by expressive forms of Hebrew origin which
+have the derivational suffixal -n, e.g.,kabtsn/
+kabtsonim, batlen/batlonim, perhaps shdkhn/shadkhonim,
+etc. It further seems that perhaps with the exception
+of dokter/doktoyrim, the use of the -im plural with
+non-Hebrew-Aramaic stems is expressive: tayvl/tayvolim,
+poyer/poyerim. Whether fakter/faktoyrim 'agent' is
+expressive or not, I have no idea.
+
+Isaac Aronson
+
+______________________________________________________
+End of Mendele Vol 2.203
+

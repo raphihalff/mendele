@@ -1,0 +1,114 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 101
+November 16, 1991
+ 
+1) Pronunciation: the Sephardic and Ashkenazic 'ayin' (Hersch Basser)
+2) Pronunciation: Anglicization (Khaim Bochner)
+3) Pronunciation: the French connection? (Khaim Bochner)
+
+1)----------------------------------------------------
+Date: Fri, 15 Nov 1991 12:59:35 -0500
+From: fishbane@epas.utoronto.CA
+Subject: RE: Mendele Vol 1.100
+
+yankel, yeinkiv has been taken to be a sephardic ayin,
+other sephardiisms are supposed to be ashenazik yad=hand
+where yod would be expected and some other cases-- but
+ashkenazic ayin does strange things, young women= neireh,
+plural "neires"-- like meile, meiles-- a quality, my crowd
+goes in the opposite direction also-- not dreitsin-- but
+drahtsin, fahrtsin -- etc. ,  and while were on
+pronunciations my uncle zeydel could never begin with a
+vowel -- a yid was always a "heed" etc.  and he definitely
+said shufki, this was no yinglish.--
+
+hersch
+
+2)----------------------------------------------------
+Date: Fri, 15 Nov 91 14:20:53 -0500
+From: bochner@das.harvard.edu
+Subject: RE: "holly bread", etc.
+
+WRT khali and other such pronunciations, first some facts,
+then some speculation:
+
+The pattern is anglicization of Yiddish final -e differs in
+different regions. "Bubbie" and "Zeydie" are pretty much
+universal (in the US), but here I think we probably have
+convergence with English diminutives in -y, like mommy and
+daddy. In Buffalo, where I grew up, I don't recall hearing
+_any_ other Y words pronounced in English with final "-ie".
+
+In Boston (and Eastern Mass. in general), on the other
+hand, many words are pronounced this way, including
+"matsie", which Ellen cites as _not_ having this
+pronunciation in her dialect. I've even heard "chepie"
+("Don't chepie me" = "tshepe mikh nisht")!!
+
+Ok, now speculation. Mike Alpert, who grew up in the Boston
+suburbs, commented on this to me once. Summarizing with a
+linguist's terminology, he says that in Litvishe dialects
+final -e is higher and more front than in most other Y
+dialect areas (this sounded convincing when he
+demonstrated). And he claims that the Boston area has a
+high proportion of Litvaks. So the idea would be that the
+litvish pronunciation of -e crosses some perceptual
+boundary for English speakers, such that it gets perceived
+as "ie" rather than the "uh" that -e otherwise gets
+anglicized as. In places where the proportion of Litvaks is
+high enough, this could influence the local patterns of
+anglicization, even for speakers not of litvish background.
+(And vice versa.)
+
+And the puzzling word by word distribution could result
+from anglicized pronunciations being borrowed from
+neighborhood to neighborhood.
+
+BUT I don't know how many of the premisses of this
+explanation hold up.
+
+-- Khaim
+
+3)----------------------------------------------------
+Date: Fri, 15 Nov 91 14:42:19 -0500
+From: bochner@das.harvard.edu
+Subject: RE: "maanse"
+
+ZOGUR@CUVMB.BITNET writes
+> Fayvl: how about that nasalization in your "bube-maanse".
+> Any justification in Hebrew classical phonology for the
+> nasalization of "ayin": manse. ya(y)nkef and consistently
+> among Sefardim, in Judeo-Italian, etc. Anyone else on this?
+
+"maanse" and "maynse" are very common pronunciations,
+especially, I think, in SE (Ukrainian) Yiddish. As Mikhl
+points out, the example of this phenomenon that everyone
+knows is "Yankev". But it doesn't have to be around an
+ayin, others of the Hebrew "guttural" consonants will do:
+bansher <ba'Asher (with an aleph), yandes < yahAduth (with
+a he). This only happens when the consonant is followed by
+a "hateph" vowel (if you know your Dikduk).
+
+Max Weinreich, I believe, gives an explanation along these
+lines: Suppose these combinations got contracted to long
+vowels very early, before the Ashkenazim moved to Ashkenaz.
+At that point the every day language would have been a
+romance language; suppose it was some variety of Old French
+that had long nasal vowels, but no other long vowels. Then
+these long vowels in loshn koydesh words might have been
+nativized by nasalizing them: Ya~kov, etc. Later, when the
+common language shifted to germanic Old Yiddish, with no
+nasal vowels, these pronunciations could be nativized
+again, to Yankev, etc.
+
+To me this seems to have a lot of "if"s in it. Maybe it all
+holds up if you know enough about the early history, but I
+don't. In any case, I haven't heard any other explanation
+that holds up at all.
+
+-- Khaim
+
+______________________________________________________
+End of Mendele Vol 1.101
+

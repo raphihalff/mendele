@@ -1,0 +1,125 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.317
+May 10, 1996
+
+1) Der alefbeys and its numerical values (Zellig Bach)
+2) Goldbergs and mysteries of Shakespeare translations (Iosif Vaisman)
+
+1)----------------------------------------------------
+Date: Thu, 9 May 1996 23:17:35 -0400
+From: zellig@aol.com
+Subject: Der alefbeys and its numerical values
+
+This is a brief description how the _numerical_ values of the letters of the
+alefbeys are used in Yiddish:
+
+Table of the numerical values of the alefbeys:
+
+      alef    1     lamed    30
+      beys    2     mem      40
+      giml    3     nun      50
+      daled   4     samekh   60
+      hey     5     ayen     70
+      vov     6     pey      80
+      zayen   7     tsadek   90
+      khes    8     kuf     100
+      tes     9     reysh   200
+      yud    10     shin    300
+      kof    20     tof     400
+
+Note:  The sister-letters beys-veys, kof-khof, pey-fey, tof-sof have the same
+numerical values;  similarly the final letters khof, mem, nun, fey, tsadek --
+same values as the main letters.
+
+The Yiddish word _khay_ (/khes/ and /yud/) means life, as in the popular,
+joyous song "am yisroel khay" -- the people of Israel live.  It has, of
+course, the same Hebrew root as the famous toast _lekhayim_  [to life], as
+well as to the word "khayim" [life itself].
+
+Some Jewish women, and not infrequently their gentile friends, wear a "khay"
+pin, or pendant, since this word, and the joined design of the two letters
+/khes/ and /yud/,  have taken on aspects of an amulet, an omen for good health
+and good luck.
+
+(In the B'nai B'rith International Monthly I saw recently an advertisement for
+a _mezuze_. as a lapel pin.   According to the ad, it was designed and blessed
+by rabbis for the wearers' "divine protection and guidance.")
+
+On the occasions when a greater amount than the single value of a letter is
+called for, the values of two letters -- or more-- are combined.  The
+above-mentioned "khay" is a combination of the two letters /khes/ 8 plus
+/yud/10, representing the number 18.
+
+We find in Yiddish a number of numerical letter expressions: "Daled a'mes" a
+frequently heard bitter lament about one's small, crowded living quarters:
+"daled" referring to _four_, and "a'mes," a Hebrew word for the measure of a
+very short length.
+
+Congregants called up on Shabes to the reading of the toyre  frequently
+announced their donations in numerical letters, such as "giml khay' (3 times
+18), or "yud khay" (10 times 18) as part of their spoken Yiddish.
+
+Examples of other letter value combinations in Yiddish:  A "kof-heyer" (20
+plus 5);  "kuf kerblekh" (100 rubl):  /kuf/ plus /nun, pronounced "kan" --
+150;  "kan terutsim" [150 excuses]; Sholem-Aleykhem:   "Kh'farmog shoyn haynt
+hundert-fuftsik toyznt karbonim -- kan elef ru'k [I already have150 thousand
+rubl kesef -- silver]  (_Khuliot_, Vol. 2, p. 97).
+
+Several generations ago the letter cipher "taryag" was widely known in both
+Yiddish and Hebrew., an acronym of the letters /tof/ + /reysh/ + /yud/ +
+/giml/, the sum of which is 613, a shorthand reference  to the number of
+religious _mitsves_.  As  many other numerical letter expressions, it could,
+and was,  on occasion secularized and used as a _generic_ number.  At a
+meeting of a secular organization, when a proposal for some action was
+offered, the local "philosopher," a member of the board, buried it under a
+barrage of questions.  To which another board member commented:  "Er vil
+taryag bavorenishn"  [he wants (all) 613 precautions and safeguards].
+
+Zellig Bach
+
+2)----------------------------------------------------
+Date: Fri, 10 May 1996 14:02:21 -0400 (EDT)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Goldbergs and mysteries of Shakespeare translations
+
+Giving references to the Yiddish translations of Hamlet (vol5.306) I simply
+copied the names of translators from the bibliographic records. Leonard Prager
+appropriately pointed out (vol5.308) that in case of Goldberg's translation
+there are some unanswered questions. Indeed, his name is given as Itshe
+Goldberg on five books (Yuli Tsezar, 1933; Hamlet, 1934; Otelo, 1935; Romeo un
+Zhulyete, 1935; Der shturem, 1937) and as Y. Goldberg on Henry IV, 1936 (all
+books were published in Minsk). Usually well-informed Library of Congress'
+Name Authority File has only one entry for this name (that probably covers two
+different Itshe Goldbergs) and does not give any dates. Goldberg is not
+mentioned in both editions of Soviet Literary Encyclopaedia, nor in
+Belorussian Encyclopaedia.
+
+Surfing through the Yiddish books of that period we encounter another Goldberg
+"the translator". His name is Lev, the Name Authority File knows that he lived
+in 1892-1955, and he translated much more serious dramas: Stalin, Di yesoydes
+fun Leninizm, 1924; Bukharin, Di internatsionale burzshuazye un Karl Kautski,
+ir apostel, 1925; Stalin, Fragn fun Leninizm, 1936 (all published in Moscow).
+
+It may look like a different profession, but surprisingly Lev Goldberg appears
+again, this time in Varshe in 1914 with two translations: Minyaturn by Janusz
+Korczak, and ... Yehudis, a tragedye in finf akten by Friedrich Hebbel. Now
+the question of whether Itshe Goldberg and Lev Goldberg are one person becomes
+quite legitimate (besides, Yitzhok-Leib is not that uncommon name). To add
+another brick to this construction we find a Libe shpil, drame in dray aktn by
+Arthur Schnitzler, translated by Y. Goldberg and published in Varshe in 1922.
+
+Of course, the picture is not complete. This hypothesis, if correct, clarifies
+the first name question, but we still know little about Goldberg(s)' life and
+works and I agree with Leonard Prager that this is very unfortunate.
+
+Disclaimer: Above speculations are based on bibliographic records only, I have
+not seen any of the books in question.
+
+Iosif Vaisman
+Chapel Hill, NC
+
+______________________________________________________
+End of Mendele Vol. 5.317
+

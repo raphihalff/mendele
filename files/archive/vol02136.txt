@@ -1,0 +1,127 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 136
+January 14, 1993
+ 
+1) Mr. Boym in the Closet (Berl Hoberman)
+2) Consonantal shift (Yankel Lantz)
+3) Onkl/feter (Mikhl Herzog)
+4) The Forward (Goldie Gordon)
+5) Yiddish typesetting (Mark David)
+
+1)----------------------------------------------------
+Date: 11 Jan 1993 14:14:44 -0500 (EST)
+From: Robert D Hoberman <RHOBERMAN@ccmail.sunysb.edu>
+Subject: Mr. Boym in the Closet
+
+My student Ken Wishnia is working on a translation of
+Sholem Aleykhem's short one-act play "Mister Boym in
+klazet".  It depicts a confrontation between a veteran New
+Yorker whose Yiddish is full of English and his "green"
+sister, whose Yiddish is maybe a bit heavy on the Slavic.
+We've managed to identify most of the obscure (to us, at
+least, and to his father and my mother) words and phrases,
+in some instances by consulting a Slavist friend, but there
+are a few puzzles left.  Can anyone help with the
+following?  We can guess, but does anyone know?
+
+"holedrantses":  Some sort of insulting term; 'hooligans',
+'good-for-nothings'?
+
+kleytl: 'bar, barroom'.  It's a room within an inn or
+tavern.
+
+"shnaydn bay der neyditsh".  Sew with a machine?  Some
+specialized form of sewing?
+
+What's the feminine of the good Amero-Yiddish word
+"lendlord"?  Sholem Aleykhem uses "lendlorikhe" -- what's
+that -khe suffix?  I seem to remember some discussion of it
+in Mendele last year, but can't recall the details.
+
+[See especially 1.112, 1.114, and 1.115 nm]
+
+Berl
+
+2)----------------------------------------------------
+Date: 12 Jan 1993 16:53:49 -0500 (EST)
+From: STU_RWLANTZ%JMUVAX.bitnet@YaleVM.YCC.Yale.Edu
+Subject: consonantal shift
+
+Is it just coincidence that there is a sound shift in
+Sephardic/ Ashkenaz which appears to parallel one in
+Indogermanic?  I think of emet/emes and das/dat, for
+example.
+
+Yankel Lantz
+
+3)----------------------------------------------------
+Date: Tue, 12 Jan 93  21:51 EST
+From: ZOGUR@CUVMB.Columbia.edu
+Subject: Onkl/feter
+
+To Eli Katz: although marginal to the point of your message
+about your "onkl", it's an interesting
+phenomenon--onkl/feter, that is--that has it Western
+Yiddish parallels as well: younger people called their
+grandpare "oma and opa" while they knew their great
+grandparents by thje terms wit which their own parents
+addressed them "fra:le" and "ha:rle". My own aun and uncles
+were also "onkl" and "tante" (sometimes "auntie") while I
+cal my parents aunts and uncles "mime" and "feter". You and
+I seem to be of same vintage. Best regards.
+
+Mikhl.
+
+4)----------------------------------------------------
+Date: Wed, 13 Jan 93 21:37 EST
+From: Goldie Gordon <ggordon@BKLYN.BITNET>
+Subject: Jewish Forward
+
+Shalom Mischa van Vlaardingen,
+
+I tried to bitnet you directly but my e-mail was
+undelivered, so I hope you read my message on the network.
+I am the person who arranged for the Jewish Daily Forward
+to send to you directly a subscription form for the
+newspaper. I am curious to hear from you after you get the
+actual newspaper and have made the time to read through its
+contents. If you have any problems, I am only a local phone
+call away from the New York Office of the Jewish Forward.
+Mazel Tov on acquiring a second dutch Mendelnik. With
+Yiddish regards,
+
+Goldie
+
+5)----------------------------------------------------
+Date: Thu, 14 Jan 1993 01:38:48 -0500
+From: mhd@world.std.COM
+Subject: RE: Yiddish typesetting
+
+There's a Yiddish font called Mordkhe that was made truly
+Yiddish using Fontographer.  The process and some technical
+issues, e.g., why a Hebrew font isn't good enough, were
+discussed in an issue of the Yugentruf journal a year or so
+ago by the font's creator, Adam Whiteman.
+
+Dorothy Wasserman has a company, Wasserman Associates, that
+sells this font.  They're in NYC.  She introduced herself
+electronically as a mendelnik in Mendele Vol. 2 no.46,
+giving her email address:
+
+ 71201.3150@CompuServe.COM
+
+Nobody on Mendele responded a while back when I asked how
+the Yugentruf journal and Afn Shvel were published by
+computer, so I asked Gitl Schaechter myself recently.  I
+was a little surprised by the answer: "We still take it to
+the Hasidim in Brooklyn for typesetting." She indicated,
+however, that they did expect to be able to do everything
+by computer eventually.
+
+Mark David
+
+______________________________________________________
+End of Mendele Vol 2.136
+

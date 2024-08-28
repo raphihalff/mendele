@@ -1,0 +1,191 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.169
+November 14, 1995
+
+1) Standard Yiddish (Bob Poe)
+2) Zhargon (Chana Mlotek)
+3) Poem about Yiddish (Chana Mlotek)
+4) Soviet Yiddish songs (Chana Mlotek)
+
+1)----------------------------------------------------
+Date: Mon, 13 Nov 95 15:33:31 EST
+From: poe@keps.com
+Subject: Standard Yiddish
+
+I'd like to make a few points that, I think, have not yet been raised on
+this subject.  I am not a linguist, however, so I invite correction from
+those who know.
+
+(a) I have always had a mental image of the evolution of a language that
+starts in a prehistoric time when the language group is small and unified
+and all speakers speak very similarly.  Then, as the group expands and
+spreads out geographically, various subgroups become somewhat isolated
+from each other, and their speech begins to diverge, forming regional
+dialects.  Thus, one rational goal of a standard might be to restore and
+preserve the original root language, or otherwise to identify the common
+elements of the various dialects as a basis for a cross-regional lingua
+franca.
+
+(b) In practice, even if there is an identifiable common root, this is
+unlikely to happen.  Instead, one dialect tends to become dominant over
+the others, because of the political, religious, cultural, commercial, or
+intellectual dominance of one region over the others. When a language
+group becomes a nation, the dialect of the capital or of the court may
+provide the basis for a standard.  (I think I have read that different
+dialects were dominant in the history of English, because of the
+different political dominance of the regions at different times.)
+
+(c) But this is only the *basis* of a standard language.  Typically, an
+aristocracy (of power, of wealth, of education, of culture) emerges in
+the dominant region and places increasing demands on the language as more
+complicated and subtle forms of expression are needed.  Thus, a class
+distinction arises, which eventually transcends the regional
+distinctions.  The standard language becomes larger, more powerful, more
+refined, more literary, more regular, more self-conscious.  It does not
+supplant the dialects:  ordinary people in London or Paris speak with
+strong local variants of the language, but intellectual discourse in
+those cities or in New York, Edinburgh, Sidney, or Nice, will tend toward
+the standard.  It is quite common for a person to lose his or her local
+or regional dialect, more or less consciously, through education,
+although it may still tend to resurface in certain contexts.  And I've
+been told that the "purest" French is not the "debased" speech of Paris,
+but that spoken in the Loire Valley, where so many of the aristocracy
+lived.
+
+(d) Once there is a (de facto) standard language, it tends to evolve
+alongside the dialects, but perhaps more conservatively. Certainly, the
+written language tends to slow down the process of change in spelling and
+(even) pronunciation.  Thus, the way a language is spelled tends to
+reflect the way it was pronounced some centuries ago, when the writing
+system settled down.
+
+(e) In some cases, the standard may actually become codified and
+regulated by the "authorities".  The Academie Francaise is the usual
+example given.  This has not happened in English, for instance, where the
+authorities are kept busy enough keeping track of what *is*, rather than
+what *should be*.
+
+How does this apply to Yiddish?  Well, the standard may well represent a
+refined, literary language that evolved from a dominant dialect, and the
+spelling (both in Hebrew and in Roman characters) is based on an earlier
+pronunciation of that language.  (The YIVO reforms may have altered that
+situation somewhat.)  In other words, it is probably *not* a synthetic
+fabrication of the scholars.  So perhaps someone can comment on whether
+"oyf" was once pronounced as written in the Litvish dialect or in
+literary circles--say, 200 years ago.  Or whether the "ey" pronunciation
+common in Litvish for "oy" in the standard is a more recent evolution in
+the common speech of the region.  (Those seem to be the most prominent
+differences between common Litvish pronunciation and the standard
+spelling.)
+
+Some of us might have preferred a synthetic standard, which was
+constructed to be dialect-neutral, but history has proclaimed otherwise.
+I seriously doubt whether the preference for Litvish forms in the
+standard was imposed arbitrarily by a small number of scholars in the
+20th century.
+
+Certainly, it is the standard language that should be taught in schools
+and that should be used for intellectual discourse. Non-native speakers
+should (first) be taught the standard. But the dialects are the living
+speech of the people, and no one should be ashamed to use one if he or
+she is fortunate enough to have grown up speaking it or has otherwise
+acquired it. They even play a role in the written language--for instance,
+for realistic dialogue in fiction and drama--, just as in English or
+other modern languages.
+
+This last comment raises one more question:  how do you indicate dialect
+pronunciations in writing?  I have seen it written several times on
+Mendele that the YIVO orthography can be used phonetically for this
+purpose, but I'm not completely convinced. In particular, how does one
+indicate the distinction between long and short vowels, which has been
+lost in the standard? E.g., der zun vs. di zun:  Should we write "der
+ziin"? "der zi:n"? "der zihn" (got zol ophitn!)?  And how do you do that
+in the Hebrew alphabet?
+
+Bob Poe
+
+2)----------------------------------------------------
+Date: Mon, 13 Nov 1995 21:40:31 -0500
+From: zishe@aol.com
+Subject: Zhargon
+
+With respect to the so-called disparagement by Sholem Aleichem in his
+usage of the word "zhargon" in referring to Yiddish, may I suggest that
+Prof. Michl Herzog is correct-- his argument is substantiated in Max
+Weinreich's _History of the Yiddish Language_, where a section is devoted
+to this subject (5.4). Up to the beginning of the 20th century Weinreich
+writes _zhargon_ was used as a neutral designation.  "In Sholem
+Aleichem's miscellany _Yiddishe folksbibliotek_ (vol. 1, 1888), we read:
+_'Di hefkervelt: a zhargonish verk'_... _'Zikhroynes iber zhargonishe
+shrayber'_...At the end of the volume the editor, Sholem Aleichem, writes
+'about Jargon orthography' and calls for 'a Jargon grammar.'   In this
+article Mendele is included among 'our best Jargonists'... In a letter to
+Spektor in 1902, Sholem Aleichem wrote: 'Ah, Jargon, Jargon!  Who knows
+what role it is destined to play among our people.'"  Weinreich mentions
+other titles of works that were called Jargon, and were later changed to
+Yiddish.
+
+In my research of folk poets I came across a poem by the Maskilic poet
+Michel Gordon (1823-1890), author of popular songs like "Di bord" (The
+Beard), "Di mashke (Whiskey) and others.  Incidentally, Peretz wrote that
+Gordon wasn't known because "our Hebrew, Polish and Russian writers are
+always silent about the work and influence of jargon."  Michel Gordon has
+a poem "Der kadokhes" in which he hides himself under the name of Jargon.
+Jargon (Gordon) laughed at Kokher's  (a made-up name) beard and therefore
+he's suffering from ague. (See my paper "A gilgl fun Mikhl Gordon's _Di
+bord_" (Transformation of Michel Gordon's _The Beard_), _Yivo Bleter_,
+xxxv, 1951, pp.299-311).
+
+Chana Mlotek
+
+3)----------------------------------------------------
+Date: Mon, 13 Nov 1995 21:40:31 -0500
+From: zishe@aol.com
+Subject: Poem about Yiddish
+
+The poem is entitled "Yiddish" and it was written by Morris Rosenfeld
+(1862-1923).  Chana and Joseph Mlotek, who conduct a bi-weekly column in
+the Yiddish newspaper _Forverts_, "Perl fun der yidisher poezye" (Pearls
+of Yiddish Poetry) have been replying to such inquiries as yours now for
+25 years and readers can avail themselves of this service.  In the
+original there are ten stanzas- (Is this too long to print?) but there
+are some minor differences in the text that Anno cited.  The third stanza
+he cites is the last (the tenth stanza) of the poem.
+
+Last stanza:
+
+Es megn gebn undzere pney
+Far undzer shprakh a groshn,
+Mir lakhn zikh oys fun zey
+Un reydn mame-loshn!
+
+Chana Mlotek
+
+4)----------------------------------------------------
+Date: Mon, 13 Nov 1995 21:40:31 -0500
+From: zishe@aol.com
+Subject: Soviet Yiddish songs
+
+[Anna Shternshis's] idea (5.161) of finding the Jewish elements in the
+first collection of Moshe Beregovski is interesting.  The singling out of
+Shabes might also apply to your theme: "Dem eynem tog shabes" (Beregovski
+no. 13-14); "Shabes farnakht, vi me zet nokh nit keyn shtern" (18);
+"Shabes baytog iz a yomer mit a klog" (43); or "Rosh-khoydesh elel,
+mamenyu, oyfdernakht" (45).
+
+Studying in kheyder: "Ikh hob opgelernt eyn blat gemore, / Ikh bin a
+yingl fun dem kheyder aroys." (no. 50, also 51:3)
+
+Speaking Yiddish: "Kinstlekh redt er rusish gut - Yidish nit kayn vort"
+(34:3);  "Rusish redt er on a shir, - Yidish nit kayn vort" (37:3)
+
+Anti-Semitic utterances and references: "Un itster - iz dokh ongekumen
+Petlurovtses" (no. 25); "Podn'ali nagajki i kriknuli: zhidy!" (no. 32).
+
+Chana Mlotek
+
+______________________________________________________
+End of Mendele Vol. 5.169
+

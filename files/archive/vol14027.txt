@@ -1,0 +1,179 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 14.027
+January 5 , 2005
+
+1) Gender of yortsayt (Scott Slapin)
+2) Non-idealized Yiddish (Rochelle Eissenstat)
+3) Non-idealized Yiddish (Marc Caplan)
+4) Khavele tsum get (Harold L. Orbach)
+5) zhote (Moyshe Taube)
+6) taytsh Khumash (Yoyne Freer)
+
+Visit Mendele on the Web: http://www.mendele.net
+
+1)----------------------------------------------------
+Date: January 1, 2005
+From: scottslapin@hotmail.com
+Subject: Re: Gender of yortsayt
+
+Der yortsayt.
+
+Some examples of transformations from feminine (or neuter) base words to more
+specific masculine forms in written Yiddish are:
+
+di tsayt, der yortsayt, der moltsayt
+
+di/dos shtik, der frishtik
+
+dos bukh, dos/der verterbukh
+
+dos yor, der nay-yor, der shvartz-yor
+
+dos vort, der entfer ('antvort')
+
+These transformations do not occur in German, though all the words I listed
+above are of Germanic origin. These transformations do occur in many varities
+of Yiddish. The change to masculine gender suggests a more specific variety
+than the base noun, though it does not occur consistently. This is somewhat
+along the lines of what happens in spoken eastern Yiddish with collective vs.
+specific nouns, though this is not often seen in literary Yiddish. (i.e. di
+esn vs. der esn, food in general vs. a specific kind of food.)
+
+Ich ken nit aynshtimen mit di korespondentn vos haltn 'der yortsayt' far a
+fargrayztn yidish. S'iz nor meglakh tzu farposhetern a shprakh biz zi hot
+nisht kayn variantn, ven di shprakh iz a toyte(vi latayn). Un dos iz nit
+yidish.
+
+_Der_ yortzayt (azoy vi _di_ yortzayt in gevise dialektn) iz kosher. Gey freg
+nor bay dem noenstn Litvak.
+
+Scott Slapin
+
+2)----------------------------------------------------
+Date: January 2, 2005
+From: Chanasdaughter@aol.com
+Subject: Re: Non-idealized Yiddish
+
+The problem of Yiddish speakers from different areas is a very old one. And
+each one who is using words from the surrounding nonYiddish language acts as
+if  he/she is speaking Yiddish and the other is not.
+
+Rochelle Eissenstat
+Yerushalayim
+
+3)----------------------------------------------------
+Date: January 4, 2005
+From: acaplan@indiana.edu
+Subject: Re: Non-idealized Yiddish
+
+Lyubov Dukker posting in 14.026 on "non-idealized Yiddish" does nothing to
+support Ewa Geller's article, and much to refute it (unwittingly). It should
+be noted that her primary example, the colorful dialogue between her
+mother-in-law and a "neighbor," occurs not between a student of the Yiddish
+language and a native informant--the crux of Geller's polemic--but rather
+between two _native speakers_ of Yiddish! By the same token, one could take
+any number of examples of two native speakers of English--one from the U.S.
+and the other from, say, Jamaica, Ireland, Nigeria, India, etc--and point to
+similar misunderstandings and instances of mutual incomprehension. Would
+anyone extrapolate from such examples that the speakers are speaking different
+languages? That there is no point in such speakers attempting to communicate?
+That there is no hope for the student of this language called, imprecisely and
+anachronistically, English to master the language and its various dialects?
+That there is no point in linguists trying to posit a standard
+grammar/vocabulary/standard of usage in spite of the proliferation of dialects
+and ideolects? For what it's worth, my wife Brukhe is from England and I'm
+from Louisiana. dankn got hobn mir yidish tsu redn vayl a'nisht voltn mir zikh
+keyn mol nisht farshtanen af english!!!
+
+Marc Caplan
+
+4)----------------------------------------------------
+Date: January 2, 2005
+From: hlo@ksu.edu
+Subject: Khavele tsum get
+
+Does any one know the story of "Khavele tsum get" ?  If so, who wrote
+it, and when and where can I find it?
+
+My mother used to tell it and I can't remember whether it was just about
+someone in her shtetl, or actually a piece of literature.
+
+With thanks for your help!
+
+Harold L. Orbach
+
+5)----------------------------------------------------
+Date: January 3, 2005
+From: mstaube@mscc.huji.ac.il
+Subject: Re: zhote
+
+Just guessing. zhote could be zholte, the Slavic equivalent of gele 'yellow',
+but here possibly 'sallow' or 'redhead'.
+
+Moyshe Taube
+
+6)----------------------------------------------------
+Date: January 5, 2005
+From: jfreer@acsu.buffalo.edu
+Subject: taytsh Khumash
+
+I recently acquired a 5 volume taytsh khumash. I am curious about the Yiddish
+orthography and specifically its history and possible explanations for its
+peculiar style.  First let me describe a typical page, as I think it may have
+some bearing on its intended audience.
+
+The largest typeface is for the Hebrew.  Next to it is ONKELOS (Aramaic).
+
+Below that are multiple small sections that vary from page to page; some only
+appear on a few pages. I will try to approximate the headings for the most
+common sections, but I am unfamiliar with the names and I apologize for what I
+do to them (especially P/F, T/S and vowels):
+
+Rashi
+Square Hebrew font for quoted text, followed by Rashi Script commentary
+
+SHFSI KHOKHMIM, BAL HTURIM, ENINI KHTA ADM VKHU
+all in Rashi Script
+
+The bottom of the page contains 2-4 Yiddish sections, all in square font:
+
+FIRISH LSOROS ELHIM (largest font), SFR HISHR, FRKI DRBI ELIEZR, FRUSH E"T,
+LKUTIM AL HATORAH
+
+Although clearly Yiddish, these have a distinctively Hebrew look and
+spelling:
+--They have a large number of vowel markings.
+--The vowel markings are redundant, e.g. yud AND a khirek (under the
+preceding consonant)
+--They include vowels never used in Yiddish (3-dot segol, 2-dot tseyrekh)
+
+EXAMPLE
+geven:
+       giml (with khirek), yud, tsvey vovn (with segol), ayen, nun
+(in fact, past participles always begins with 'gi' instead of 'ge')
+
+Incidentally, this is similar to the Yiddish in a copy of Tsene Rene I have
+(although not identical--past participles are 'ge'). That edition also has
+some commentaries below Ashkenazi's text (including SFR HISHR).
+
+Questions:
+--Does anyone know the history of this kind of writing?
+--For whom was this type of book written? It's complexity and detail makes
+it unlikely to be aimed at women or less educated men.  Did learned men
+read such commentaries in Yiddish (just as they would have listened to
+divrey toyra or homilies in Yiddish)?
+--Finally, what was the purpose of the elaborate Hebraization?
+
+a sheynem dank,
+
+Yoyne Freer
+
+______________________________________________________
+End of Mendele Vol. 14.027
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+

@@ -1,0 +1,135 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 241
+May 6, 1992
+ 
+1) Layt (Margaret Mikulska)
+2) Vayter vegn Kindervelt (Ely/et Hersh Gertl)
+3) Shvartse kershelekh (Ruvn-Mendl Turkel)
+4) Vilne (Dan Shevitz)
+5) Yiddish summer camps (Dovid Braun)
+
+1)----------------------------------------------------
+Date: Tue, 5 May 92 18:34:26 PDT
+From: mikulska@de.UCSD.EDU
+Subject: -layt (Yunyenlayt)
+
+> Date: Sun, 03 May 92 11:03:22 EDT
+> From: Cal <PRYLUCK@TEMPLEVM.BITNET>
+> Subject: Yiddishization of English
+> 
+> Eli Katz's Yiddish version of "Hold the Fort" includes an
+> interesting line: "Yunyenlayt in krig."  The last word I
+> understand to be originally German; what about the first
+> word?  It looks to me like a Yiddish version of the English
+> "union men," combining an English word with a generalizing
+> term, -layt.  Am I reading this correctly?
+> 
+
+Doesn't -layt come straight from the German "Leute"
+(people/men&women) ?
+
+Margaret Mikulska
+
+2)----------------------------------------------------
+Date: Tue, 5 May 1992 21:14 PDT
+From: EGERTEL@FULLERTON.EDU
+Subject: Vayter vegn Kindervelt
+
+To Cal Pryluck (regarding vol. 1, no. 239):
+
+My intention was to assure proper credit to the correct
+sponsoring agent for the right camp and certainly not to
+cause embarrassment.  I must admit though that I thoroughly
+enjoyed your masterfully crafted and poetic clause used to
+describe your blushing reaction (I would be very hard put
+to render it into Yiddish!) I was merely reminiscing when I
+went over to Yiddish.  I stated that to the best of my
+recollection the parents (of the kinderlekh at Kindervelt)
+mainly spoke Yiddish while we kinderlekh only used English
+amongst ourselves.  (This formed a major linguistic and
+cultural barrier separating Kindervelt from Unser Camp...)
+I finally went back in 1989 to see what had become of the
+place.  It was all boarded up, a silent, empty ruin.  The
+"No Trespassing" signs deterred me from closer examination.
+There may have also been a "For Sale" sign attached to a
+tree.  (Anyone want to buy it for a new Kindervelt -a
+YIDISH LAND- and truly make it Unser Camp once again?)
+
+Elliot Hersch Gertel (Elye/t Hersh Gertl)
+
+3)----------------------------------------------------
+Date: Wed, 6 May 92 09:35:25 EDT
+From: rmt51@cas.bitnet
+Subject: RE: Mendele Vol 1.239 & 1.240
+
+If I'm not mistaken, Theodore Bikel has a version of
+"Shvartse Karshelekh" on one of his Yiddish records.  He
+sings it as if he were a drunken Galitsyaner, the chorus
+beginning "Ay, vay iz tsi mi-er..."
+ 
+Rick (Ruvn-Mendl) Turkel   (rmt51@cas.bitnet)   (rmt51@cas.com)
+ 
+4)----------------------------------------------------
+Date: Wed, 06 May 92 10:01:03 EDT
+From: dshevitz@theory.lcs.mit.edu
+Subject: Mendele Vol 1.240
+
+David Miller writes:
+
+   Vilne--as well as its companion font, Kovne--are based upon
+   the Hebrew font distributed with the old Mac in Hebrew
+   init/da; Vilne strips the Mac in Hebrew-specific encoding
+   while Kovne retains the right-to-left encoding unique to
+   Mac in Hebrew.  Mac in Hebrew is/was shareware, with a fee
+   payable, if memory serves, to the Cambridge (MA) Hillel
+   Foundation; Vilne and Kovne are themselves in the public
+   domain
+
+You've got it almost right.  MacInHebrew was developed by
+Dr. Joseph Weinstein and distributed by MIT Hillel
+Foundation, 312 Memorial Drive, Cambridge, MA 02139.
+Version 2.x was shareware ($25 requested); subsequent
+versions are by license only ($65).  Alas, we stopped
+shipping recently because the current version is not
+compatible with the newest Mac systems or hardware.  We
+have no current plans for an upgrade.
+
+Users of MacInHebrew or parts thereof may indeed want to
+make a donation to MIT Hillel, or at the very least to
+acknowledge the organization in some way.
+
+ ___  _ \ | ____     ____  _ _ _ _ _ _     \ |
+ , /  | |\|    |     |  |  | | | | | |     |\|
+ |   _| | \    |     |__| _|     |/_/      | \
+
+Dan Shevitz (rabbi@mit.edu)
+
+5)----------------------------------------------------
+Date: Wed, 06 May 92 10:22:19 -0400
+From: David Braun <braund@linc.cis.upenn.edu>
+Subject: Yiddish summer camps
+
+Kinder-Ring = Workmen's Circle
+Kinderland = IWO and their inheritors
+Kindervelt/Undzer Kemp = Farband
+Hemshekh = Bund
+Boyberik = Sholem-Aleichem Folk Institute
+Camp Hofnung = Workmen's Circle (in Pennsylvania)
+
+	to add a few.
+
+Any in Canada?
+
+Dovid Braun
+
+______________________________________________________
+End of Mendele Vol 1.241
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

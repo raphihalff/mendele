@@ -1,0 +1,139 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.142
+December 16, 1996
+
+1) Hebrew Word for Windows (Hugh Denman)
+2) Dray flign mit eyn klap (Hugh Denman)
+3) "Do" iz nito in "nishto" (Zellig Bach)
+4) Olsvanger's umlauts (Joachim Neugroschel)
+
+1)----------------------------------------------------
+Date: Sun, 15 Dec 1996 19:29:09 +0100 (MET)
+From: h_denman@maier.vol.at
+Subject: Hebrew Word for Windows
+
+We frequently bemoan the fact that we are restricted to transcription
+when we wish to write in Yiddish on Mendele. However, I have just made
+the interesting discovery that if one accesses one's e-mail via Hebrew
+Word for Windows one can already incorporate the complete Ivrit alphabet
+(without nekudes). Or, at least, one can, if one uses Eudora as one's
+e-mail software, as my colleagues and I at UCL do.
+
+Theoretically, it is supposed to be possible to add a Yiddish font to
+Hebrew WinWord, but so far the gremlins have prevented me from achieving
+this. Meanwhile, Mark David, the moderator of the uyip mailing list, is
+working away on behalf of the Committee for the Implementation of
+Standardized Yiddish Orthography with the endorsement of the YIVO
+Institute to provide for the implementation of the entire range of
+Yiddish letters and digraphs within the the unicode system which will
+eventually replace ASCII and solve all our computing problems.
+
+But in the meantime, while we wait for the ideal solution, much can be
+done with Hebrew Winword. I append a specimen text which I will keep
+brief so as not to try the patience of those of you who don't have this
+programme:
+
+[Tsum bedoyeren, ken undzer kompyutr nisht aroysshik azoyne oysyes.  nm]
+
+Hugh Denman
+London
+
+2)----------------------------------------------------
+Date: Sun, 15 Dec 1996 21:01:01 +0100 (MET)
+From: h_denman@maier.vol.at
+Subject: Dray flign mit eyn klap
+
+With reference to the recent queries by Al Grand and Sema Chaimovitz
+Menora [6,141. 5, 6 & 7]:-
+
+One transliterates 'zikh' because the word is (normally) written with a
+yud, but one often encounters the transcription 'zakh' (or, indeed, the
+spelling with pasekh (/pasakh) alef) because that is (approximately) how
+the word is pronounced on account of consistent vowel lowering before
+the khof/ khes and reysh sounds. A more accurate description of the
+sound in question is the open central vowel whose IPA representation is
+an upside-down [a].
+
+Olsvanger uses an umlaut over the o in oy in the 1947 edition of his
+book (and a circumflex over the e in ey in the 1936 edition) to
+represent the historical phoneme derived from Hebrew-Aramaic khoylem/
+khoylem vov as well as from Middle High German long o and ou (in words
+such as we would write: oylem, royt and boym respectively).
+
+The Ukrainian word for cemetery is indeed 'tsvyntar'. And, incidentally,
+Joachim Neugroschel [6,140. 3], when listing the Yiddishist's
+lexicographic panoply, includes a Russian dictionary, which could,
+indeed, occasionally be helpful, but a Ukrainian dictionary (e.g.
+Andrusyshen, Toronto U.P.) would be infinitely more useful! And for good
+measure, why not add Lexer's three-volume "Mittelhochdeutsches
+Handwoerterbuch" as well?
+
+Hugh Denman
+London
+
+3)----------------------------------------------------
+Date: Sun, 15 Dec 1996 20:27:23 -0500
+From: zellig@aol.com
+Subject: "Do" iz nito in "nishto"
+
+In my humble opinion Joachim Neugroschel, in his various posts in
+_Mendele_ appears to parade unnecessarily with polyglotic phrases, some
+of which in languages quite removed from Yiddish, excepting, of course,
+the illustrative expressions in German. Similarly, in answering a query
+in  _Mendele_ about the history of Yiddish (6.140,3), he appends to his
+answer a list of no less than (count them) eight (8) different
+dictionaries that the querent might consult, IMHO a futile excercize
+since most Mendelianer, I'm sure, do not have such a rich access to
+dictiionaries as a professional translator.
+
+Herewith two slight general corections in Neugroschel's posts:
+
+In a recent post he wrote (6.132,3):  When someone thanks you, one would
+say in Yiddish "nisht do farvos."  [That would be the equivalent of
+"don't mention it" or "thanks for nothing" in English.]
+
+This is contrary to the _written_ and _literary_ Yiddish.  "_Do_" in
+Yiddish strictly means "here, place," for instance, "nisht do gedakht"
+[(this calamity) should not happen _here_].
+
+Yiddish _do_ (in the meaning of here) is not included  in "nishto," as
+it would seem from the poster's example "nisht do farvos."
+
+It is totally different from the Yiddish personal pronoun _du_, the
+familiar form of address (as distinct from the formal _you_, the
+familiar distinction in Yiddish between dutsn un irtsn).  This _du_,
+contrary to _do_, indeed merges with and is  incorporated  in  certain
+verb cases  and becomes /tu/, examples:  darfstu, vilstu, zukhstu.
+Therefore,  "nito" or "nishto" has nothing to do (English verb) with
+Yiddish _do_ (adverb) . In another post (1.138,3) he wrote:  "The
+component  tongues of Yiddish -- German, Hebrew, Polish, etc."  This
+statement, too, is partly misleading.  The three main  components of
+Yiddish are:  German, Hebrew-Aramaic, and Slavic.  Polish is part of the
+_general_ Slavic component (that includes Belorussian, Ukrainian,
+Polish, and Russian), and is _not_ a main component by itself, as it
+would seem from the quoted passage.
+
+Zellig Bach
+Lakehurst, NJ
+
+4)----------------------------------------------------
+Date: Sun, 15 Dec 1996 20:55:35 -0500 (EST)
+From: achim1@cris.com
+Subject: Olsvanger's umlauts
+
+benegeye Al Grands shayle [6.141] vegn dem iberklang (= Umlaut) bay
+Olsvanger, meyn ikh az der mekhaber fun _Royte (Reyte ?) Pomerantsn_ hot
+gevolt onvayzn dem litvishn aroysred:  klal-yidish "oy" > litvish
+"ey"--lemoshl:  moyshe/meyshe.....  voynen/veynen, etc.
+
+benegeye zayn frage vegn "zikh/zakh":  di klal-ortographye "zikh" is
+daytshish--nor der klal-aroysred iz mer tsi veniger "zakh"--un in di
+dialektn hert man andere versyues:  lemoshl "zhikh" in bialistok....
+
+Joachim Neugroschel
+
+______________________________________________________
+End of Mendele Vol. 6.142
+

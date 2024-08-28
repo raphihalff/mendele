@@ -1,0 +1,154 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.285
+April 14, 1997
+
+1) Ashkenazic Studies (David G. Roskies)
+2) Nivl-pe (Meyer-Leyb Wolf)
+3) Nivl-pe (David Lidsky)
+4) Yiddish in Yiddish letters (David Lidsky)
+
+1)----------------------------------------------------
+Date: Sun, 13 Apr 1997 14:25:59 -0500 (EST)
+From: daroskies@jtsa.edu
+Subject: Ashkenazic Studies
+
+These critical thoughts were inspired by a call for papers
+[Announcements (3/12/97)] for a forthcoming conference in Poland
+inaugurating a new field called Ashkenazic Studies .  The positive
+aspects of this inaugural conference are fairly obvious.  It offers a
+belated response to Sephardic Studies. It suggests a way out of the
+impasse of dedicating one's life to Yiddish language and culture.  It
+is surely no accident that most of the "big name" academics in the
+field (including myself, I suppose), have hyphenated careers:  Yiddish
+and psychoanalysis; Yiddish and Hebrew; Yiddish and modernism; Yiddish
+and politics, and so on.  By redefining what we do in terms of
+"Ashkenaz," we broaden and deepen our scope.  We also send a very
+clear message to the few historians of medieval Ashkenaz that they
+cannot ignore the study of Yiddish.  The unspoken ideological agenda
+of "Ashkenazic Studies," however, is to offer a counterweight to
+Zionism.  As the prose accompanying the Call for Papers makes
+eminently clear: Ashkenaz stands for language, culture, and land.  The
+fact that it no longer exists is precisely what makes it so
+attractive. It is easier to claim than the messy geopolitical present.
+Ober nisht dos bin ikh oysn.
+
+To be a true scholar of Ashkenaz, there are five areas that one must
+master: (1) Khumesh mit Rashi, the foundational document of all of
+Ashkenazic culture; (2) Talmud with Tosefos, the core of the elite
+culture; (3) medieval Muser literature, the most popular form of
+Jewish self-expression throughout the history of Ashkenaz; (4)
+Mysticism; and (5) the Yiddish language.  Of all these areas, which
+are inextricably bound together, I can claim some expertise only in
+the last.  In this lifetime, I fear, I will never be counted among the
+true scholars of Ashkenaz.
+
+David G. Roskies
+
+2)----------------------------------------------------
+Date: Sun, 13 Apr 1997 13:54:58 -0400 (EDT)
+From: wolfim@idt.net
+Subject: Nivl-pe
+
+The attempts [6.283ff] to explain away the pronumciation of _nibl-pe_
+as _nivl-pe_ are probably in vain. Not only does Harkavy register
+_nibl-pe_, but so do Stutchkoff and Birnbaum. It appears that Sam
+Weiss is referring to an alternative compound from _nivul_ 'ugliness'
++ _pe_. _nivul_ is spelled with vov, rather than veyz.The interchange
+of _nibul_ and _nivul_ is is found in The Talmuds, though not in the
+compound _nibl-pe_.
+
+_nivl-pe_ is a Yiddish innovation for all we know.
+
+Meyer-Leyb Wolf
+
+3)----------------------------------------------------
+Date: Mon, 14 Apr 1997 20:02:26 -0700
+From: fdlidsky@netvision.net.il
+Subject: Nivl-pe
+
+The question of the pronunciation "nivl pe", as against "nibl pe", has
+been discussed in recent Mendele postings.
+
+Could the occurence of "nivl pe" in Yiddish be due to confusion of two
+different (though Even-Shoshan writes that they are etymologically
+related) Hebrew words? "Nibul" (nun, beyz, vov, lamed) means
+obscenity, repulsiveness etc. according to Alcalay's dictionary and
+from it there comes the usual Hebrew term for obscenity and its usual
+Yiddish cognate.
+
+"Nivul" (nun, vov, vov, lamed) is translated by Alcalay as disgrace,
+ugliness and so on.
+
+In view of their similarity in both sound and meaning these two words
+might easily be confused by a Yiddish speaker who knows Hebrew well
+leading to the pronunciation "nivl pe".
+
+Interestingly Tsanin, in his Yiddish-Hebrew dictionary gives the
+Yiddish form as "nivl pe", that is he spells the Yiddish word nun,
+veyz...(not nun, beyz...) giving the Hebrew translation as "nibul peh"
+(nun, beyz...). Perhaps "nivl pe" is the way that he grew up
+pronouncing the word. In addition to variation between individual
+speakers could there be an element of regional dialect variation in
+the use of the two forms?
+
+David Lidsky
+
+4)----------------------------------------------------
+Date: Mon, 14 Apr 1997 21:19:44 -0700
+From: fdlidsky@netvision.net.il
+Subject: Yiddish in Yiddish letters
+
+I have just sent a posting to Mendele in which I had to spell out
+various Yiddish and Hebrew words letter by letter. Everybody on the
+list uses this clumsy procedure when the need arises. At present there
+is no alternative. That is one reason why it would be helpful to be
+able to use the Jewish letters on Mendele. Another reason is that many
+of the postings on the list are written in Yiddish. People vary in the
+system of transcription which they use and this sometimes leads to
+difficulties. In addition there is a less tangible, perhaps
+sentimental, but in my opinion no less important reason for preferring
+the Yiddish alphabet. For the last one thousand years Yiddish has been
+written almost exclusively using the Jewish letters. It is a pity not
+to continue that millenial tradition on the information superhighway.
+And apart from those reasons I personally just can't get used to
+reading Yiddish in English letters---I'm sure other Mendele
+participants must feel that way.
+
+I know that this question has been discussed before on the list. At
+least one person has pointed out that there are Hebrew mailing lists
+(the ones I know of are Mikhtav and Doar) and that they use Hebrew
+letters. The system of Hebrew e-mail which they use could also be used
+for Yiddish. A few months ago I sent a posting to Mendele in which I
+suggested what I subsequently realised was a completely wrong-headed
+solution to the problem.
+
+It is clear that all the postings on the list have to exist in English
+letters (as they do now). Not everone knows the Yiddish alphabet and
+not everyone has a computer system which can display the Jewish
+letters. However, I should like to suggest the following alternatives:
+
+1. That posters to Mendele be offered the option of sending (as an
+e-mail attachment to their message containing their English-letter
+posting) a file using Yiddish letters. This attached file could use an
+ASCII-based Hebrew format (as in Mikhtav and Doar) or else it might
+use a word processor format (such as that of Hebrew Word for Windows
+or Dagesh).
+
+2. That if they wished to do so posters might submit a Yiddish-letter
+version of of their posting as well as the English-letter posting and
+the Yiddish-letter version would appear in the body of the list (using
+ASCII-base Hebrew format) for those are able to read it.
+
+One can envision other possible solutions such as a WWW version of
+Mendele using Hebrew HTML (a problematic subject in itself, I know).
+
+What do other people think about this?
+
+David Lidsky
+Jerusalem, Israel
+
+______________________________________________________
+End of Mendele Vol. 6.285
+

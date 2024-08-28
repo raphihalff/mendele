@@ -1,0 +1,176 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.046
+August 4, 1996
+
+1) Non-standard Yiddish (Ronald Florence)
+2) Non-standard Yiddish (Kalman Weiser)
+3) Dutzn un irtzn (Doodie Ringelblum)
+4) Yiddish names (Miki Safadi)
+5) Yiddish names (Zachary Baker)
+
+1)----------------------------------------------------
+Date: Thu, 1 Aug 1996 17:35:19 -0400
+From: ron@mlfarm.com
+Subject: Instructional materials for non-standard Yiddish
+
+[Regarding Eliyahu Juni's query (6.045)]: There is always H.E. Goldin,
+_The Yiddish Teacher_ (Hebrew Publishing Company, 1993), in the same
+format and style as _Shalom Aleichem_, which is used to teach Hebrew to
+adults.
+
+Ronald Florence
+Stonington, CT
+
+2)----------------------------------------------------
+Date: Thu, 1 Aug 1996 18:03:52 -0400 (EDT)
+From: kiw2@columbia.edu
+Subject: Learning non-standard Yiddish
+
+In response to Eliyahu Juni's query:
+
+S.A. Birnbaum, son of the famous Nathan Birnbaum and himself a great
+Yiddish linguist and Hebrew paleographer, was firmly opposed to
+"klal-yidish" on both ideological and practical grounds.  He denounced
+SYO (Standard Yiddish Orthography), which is based on "klal yidish"
+(which is in turn based on Vilna pronunciation) as "neo-maskilic,"
+"heretical," and unreflective of the pronunciation of three-quarters of
+Yiddish speakers. His "Yiddish:  A Survey and Grammar" (University of
+Toronto, 1979) provides instruction in what Birnbaum calls "Southern
+Yiddish," i.e. "Polish" Yiddish, although he offers notes explaining
+differences between it and the other dialects.  Further, he employs in
+the book his own interdialectal orthographic and transliteration
+systems, allowing the reader to pronounce words according to any of the
+three major dialects. Birnbaum also published a spelling dictionary for
+his orthography some time in the '30s.
+
+Kalman Weiser
+New York, NY
+
+3)----------------------------------------------------
+Date: Fri, 2 Aug 1996 21:31:49 +1000 (EST)
+From: doodie@melbpc.org.au
+Subject: Dutzn un irtzn
+
+Some years ago, when I did the Yiddish summer program at Colombia
+University, the advanced Yiddish class was castigated by the professor
+for addressing each other and occasionally him by _du_ instead of _ir_.
+He stated that when he was a student it was inconceivable to address the
+teacher in that way, and that even school colleagues used _ir_ except
+with their close friends. He felt our use of _du_ was a reflection of
+"thinking" in English since "you" is used both in singular and plural,
+and "thou" has effectively disappeared.
+
+However having grown up in Yiddish circles in Melbourne, Australia I
+think _du_ is used almost exclusively and acceptably by everyone and of
+all ages ie by both Australian born and European-born, old and young. If
+anything my impression is that _du_ is more acceptable because of the
+relative informality of relationships now rather than any grammatical
+transposition. In the Melbourne context this might be because virtually
+the entire Yiddish speaking community arrived together post-war and in
+many ways regard each other and all their off-spring as one extended
+family or it may just be a reflection of the late 20th century.
+
+But I would be interested to know if this is a common experience
+elsewhere in the world, and whether anyone knows if other languages have
+undergone a similar "deformalisation" - eg is _vous_ more likely to be
+_tu_ in 1990s France than it was in the 1930s?
+
+Doodie Ringelblum
+
+4)----------------------------------------------------
+Date: Thu, 1 Aug 1996 16:12:09 -0700
+From: msafadi@ucla.edu
+Subject: Yiddish names
+
+A fraynt fregt, fun vanen shtamt zayn nomen, Kugelman? Hot es tsu ton
+mit essenvarg oder mit a koyl?
+
+Miki Safadi
+
+5)----------------------------------------------------
+Date: Fri, 2 Aug 1996 15:38:27 -0500 (EST)
+From: yivo1@metgate.metro.org
+Subject: Yiddish names
+
+Here are two sources for Jewish -- and Yiddish -- personal names, both
+of them in-print:
+
+Harkavy, Alexander.  Yiddish-English-Hebrew Dictionary.  A reprint of
+the 1928 expanded second edition.  New York:  YIVO Institute for Jewish
+Research; Schocken Books, 1988.  See pp. [525]-530, "Fartseykhenish fun
+yidishe nemen.  Mit zeyer iberleyg oyf english."
+
+Gorr, Shmuel.  Jewish Personal names:  Their Origin, Derivation and
+Diminutive Forms.  Edited by Chaim Freedman.  Teaneck, NJ:  Avotaynu,
+1992.  (Rabbi Gorr's book includes a few questionable etymologies.)
+
+There are a number of dictionaries of Jewish surnames, but the state of
+the art for that genre is represented by Alexander Beider's two books:
+
+A Dictionary of Jewish Surnames from the Russian Empire.  Teaneck, NJ:
+Avotaynu, 1993.  Covers the 15 gubernii of the Russian Pale of
+Settlement (i.e., excluding Congress Poland).
+
+A Dictionary of Jewish Surnames from the Kingdom of Poland.  Teaneck,
+NJ: Avotaynu, 1996.  Covers the 10 gubernii of Congress Poland (=
+Kingdom of Poland).
+
+Each of Beider's volumes includes several thousand surnames that the
+author encountered in various types of lists, along with etymologies
+for, and geographic distributions of these names.  The two dictionaries
+also include extensive introductions, of a substantial scholarly nature.
+The author, a computer analyst (and Soviet emigre) who lives in Paris,
+is said to be working on a companion volume that will cover Jewish
+surnames in Galicia.
+
+(N.b., As he points out in his introductions, many surnames are
+formed on the basis of personal names.)
+
+Zachary Baker
+
+______________________________________________________
+End of Mendele Vol. 6.046
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

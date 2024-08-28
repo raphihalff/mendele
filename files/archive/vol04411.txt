@@ -1,0 +1,173 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.411
+May 8, 1995
+
+1) Introduction (Mark Melnick)
+2) Russian-Yiddish Dictionaries (Leybl Goldberg)
+3) Etl betl (Mikhl Herzog)
+4) Another talmid in need of housing (Scott Mendel)
+5) Yiddish tutor needed (Marvin Friedman)
+6) A new who-is-who on file (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Fri, 05 May 95 16:20:00 PDT
+From: melnick@gwscstam.groupw.wec.com
+Subject: Introduction
+
+I am a newcomer to Mendele.  I am a single, 37-year old male, currently
+living in Stamford, Connecticut, USA.  I am an attorney working in
+Stamford for Group W Satellite Communications, a subsidiary of
+Westinghouse Electric Corp. involved in the field of cable and satellite
+television and radio programming distribution and other media-related
+technical services.
+
+I was born and raised in Brooklyn, lived in Manhattan since graduating
+from law school and moved to Connecticut only recently.  I am "2G"
+(Second Generation).  My mother, from outside of Prague, Czechoslovakia,
+was in Auschwitz and Bergen-Belsen.  My father, from Pietrikov and then
+Tomasczov (forgive any spelling errors), Poland, was on the run in Russia
+during the war.  Of course, both lost most of their families.  My parents
+spoke Yiddish to each other in my childhood household. (Until I was
+around ten, they called me "Mendele.")  I was a "good Jewish boy" for
+much of my youth, then a rebel, and now I have returned to Judaism, not
+as a religion but as an ethnic and cultural identity.  I am an avid fan
+of klezmer and other Jewish music.  My Yiddish language skills are
+sketchy; I can understand the gist of spoken Yiddish at best.  I have
+become computer-literate only in the last few months.  I stumbled upon
+the Mendele mailing list (and a few others related to Judaism) pretty
+much by accident.
+
+Mark Melnick
+
+2)----------------------------------------------------
+Date: Thu, 04 May 95 13:33:00 -0400
+From: lee.goldberg@neteast.com
+Subject: Russian-Yiddish Dictionaries
+
+Howard Gershen inquired about Russian-Yiddish and Yiddish dictionaries.
+As far as I know, the only one generally available is the 1984 hardcover
+Russko-evreiskii (idish) slovar/Rusish-yidisher verterbukh by Shapiro,
+Spivak, and Shulman.  I got my copy earlier this year from Victor
+Kamkin's in Rockville, Maryland for $22.50.  The softcover dictionary
+Howard referred to must be the Hebrew-Russian one which someone tried to
+sell me at the same store (a result of the ambiguity of "yevreiskii"
+[Jewish] in Russian).
+
+According to the editors of the 1984 Russian-Yiddish dictionary, the last
+Yiddish-Russian one was published in Minsk in 1941 under the editorial
+direction of Rokhkind and Shklyar and prior to that only one edited by
+Yitskhok Mendel Lifshits (friend of the "other" Mendele) in 1876.  There
+are several other Russian-Yiddish dictionaries, published in 1868-69,
+1909, and 1941, but no "two-way" Russian-Yiddish, Yiddish-Russian ones
+listed.
+
+Incidentally, the 1984 Russian-Yiddish dictionary is a good one, too. It
+includes a comprehensive survey of Yiddish grammar by Falkovitsh in an
+appendix.  It's also much more reliable than Weinreich in giving you
+terms Yiddish speakers actually use (rather than terms that scholars
+_wish_ they would use): for instance, if you look up "plastinka"
+([phonograph] record) in the Russian-Yiddish dictionary, you get "plat,
+plate, plastinke," whereas if you looked it up in Uriel Weinreich you'd
+find Weinreich's invention, "disk".  Other _mayles_ are the dictionary's
+copious examples illustrating Russian and Yiddish usage and the fact that
+it consistently indicates Yiddish stress.
+
+Leybl Goldberg
+
+3)----------------------------------------------------
+Date: Fri, 5 May 95  18:37 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Etl betl
+
+I will try, sometime next week, to dig up more information on the Yiddish
+names for the figures of the "Cat's cradle". The only two I recall are
+"betl" and "shpigl".
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Fri, 5 May 95 23:08:56 CDT
+From: sm21@midway.uchicago.edu
+Subject: Another talmid in need of housing
+
+With all due apologies to Brian, who got here first and should get all
+the first choices:
+
+I will also be attending the YIVO/Columbia Univ. Yiddish Summer Program
+and am looking for housing in Manhattan.  I'll be in NYC for about 8
+weeks, from June 11 to August 6.  Housing at Columbia is nice enough (and
+air-conditioned...I stayed their last summer) but it cost about $900 for
+the two months.  If anyone has an extra room they would sublet (and Brian
+has already turned it down) please drop me an email.
+
+A shaynem dank,
+
+Scott Mendel
+
+5)----------------------------------------------------
+Date: Sat, 6 May 1995 22:32:39 -0400
+From: marvinf629@aol.com
+Subject: Yiddish tutor needed
+
+A group of Yiddish students in San Francisco, ranging from onhaber to
+intermediate, have been attending conversation groups, and on our own
+have formed a small study group  to practice some of the grammar
+exercises from Weinreich's College Yiddish and Sheva Zucker's new book.
+However, we feel a need for more formal, and structured instruction.
+None of us are affiliated with any educational institution.  We wonder if
+there might be a Mendelnik in the Bay Area (perhaps a graduate student of
+Eli Katz in Berkeley, or at Stanford) who'd be interested in teaching an
+evening class for us and others who might be interested.  We would of
+course be willing to pay a reasonable fee.
+
+Replies can be sent directly to me.  A dank.
+
+Marvin Friedman
+
+6)----------------------------------------------------
+Date: Mon, 8 May 1995
+From: nmiller@mail.trincoll.edu
+Subject: A new who-is-who on file
+
+Anno Siegel, a lebn af im, has compiled a new version of introductions by
+our members.  The file is available via anonymous ftp (see below for
+details).
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.411
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

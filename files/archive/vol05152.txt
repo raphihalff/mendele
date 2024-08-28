@@ -1,0 +1,172 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.152
+October 26, 1995
+
+1) Hobn/zayn (Rick Gildemeister)
+2) Hobn/zayn (Khayem Bochner)
+3) Khapn (Mikhl Herzog)
+4) Khapn (Golda Werman)
+5) _The Man without a World_ (Ted Steinberg)
+6) Yiddish for all jews?! (Ellen Prince)
+7) Yiddish theater in Israel (Zvi Oster)
+
+1)----------------------------------------------------
+Date: Tue, 24 Oct 1995 15:10:50 EDT
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: hobn/zayn
+
+I just want to add a little complication with the auxiliary words, to add
+on just a smidge (as my grandmother from Mississippi olehasholem flegt
+zogn) to what Khayem Bochner nicely laid out for us. One is rather
+deceptive:
+
+In the klal-shprakh you have for hobn:
+
+infinitive: hobn     past participle   gehat
+
+1. ikh hob           mir hobn
+2. du host           ir hot
+3. er/zi/es hot      zey hobn
+
+In the dialects that say zUgn, khUlem, etc. you have infinitive hUbn but
+"o" everywhere else. zey hobn gevolt hubn.
+
+Then the past perfect. I've seen a litvish usage: er iz gevest gegangen
+But Isaac Bashevis Singer says: er iz gehat gegangen.
+
+In German dialects, the past participle appears three basic ways:
+
+1. gzi (gezayn: the Middle High German vowel i-circumflex never changed
+   to ay in Switzerland)
+2. geweest (Standard Dutch for geven)
+3. gven (like what other language we all love?)
+
+Rick Gildemeister
+
+2)----------------------------------------------------
+Date: Thu, 26 Oct 95 10:08:57 -0400
+From: bochner@das.harvard.edu
+Subject: vider "hob" un "bin"
+
+Judith Nadler suggests that the use of "hobn" or "zayn" in forming the
+past tense depends on whether the main verb is transitive: "ikh hob
+gegebn" vs. "ikh bin geshtanen".
+
+Unfortunately, this is only half true, and actually not even quite that.
+
+It is true that verbs that take "zayn" are predominantly intransitive.
+All of the simple verbs (i.e. ones without a prefix) are, as far as I can
+tell. I can think of a few with prefixes, however, that are transitive,
+and still take "zayn": 'ikh bin oysgeshtanen groyse tsores', 'zey zenen
+farbaygeforn mayn hoyz'. Still, it's a pretty good correlation.
+
+But in order for this correlation to help you know when to use "zayn", it
+would have to go the other way: you would have to know that if a verb is
+intransitive, it will take "zayn". And that just doesn't hold up, alas.
+'ikh hob gelakht', 'ikh hob getsitert', 'ikh hob gedrimlt': all
+intransitive, all take "hobn", not "zayn". So you still have to learn
+which ones take "zayn".
+
+While we're on the subject of correlations, here's another one: all the
+verbs that take "zayn" have past participles that end in "n":
+"geshtanen", "gelofn", "geforn", "geven/gevezn", etc. No exceptions that
+I know of. But, of course, there are lots of verbs whose participles end
+in "n", but that still take "hobn": "gezen", "gevorfn", "gegesn", etc.
+
+Ah, but those are transitive! How about intransitive verbs whose
+participles end in "n", and that still take "hobn" to form the past? When
+you get that picky, it gets harder to think of examples. But I bet there
+are some; I leave it as an exercise for the reader ;-)
+
+Khayem Bochner
+
+3)----------------------------------------------------
+Date: Tue, 24 Oct 95 17:55 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Khapn
+
+Add to the repertoire:
+
+_khap arayn_  for  _carpe diem_.
+
+Consider that, given the etymology of Yiddish _khapn_, its paradigm is
+anomalous.
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Wed, 25 Oct 95 9:29 +0200
+From: rwerman@vms.huji.ac.il
+Subject: Khapn
+
+As to khapen, did you report that the salesmen who stood at the entrance
+of East Side shops and tried to induce customers to come into the store
+were called khapers [kidnappers?]?
+
+Golda Werman
+
+5)----------------------------------------------------
+Date: Tue, 24 Oct 1995 7:25 pm EDT (23:25:13 UT)
+From: steinberg@fredonia.edu
+Subject: _The Man without a World_
+
+Does anyone here know anything about a movie called _The Man without a
+World_ by filmmaker Eleanor Antin?  I saw it last week and it's one of
+the strangest films I've ever seen.  Perhaps I was just gullible, but,
+since it's a silent black-and-white film, I thought it was, as the
+prologue explained, a lost Yiddish film.  Actually it was made in 1991. I
+still can't decide if I liked it, but it was certainly intriguing.  If
+anyone has more information about the film or about Eleanor Antin, I
+would love to hear it.  Thanks.
+
+Ted Steinberg
+
+6)----------------------------------------------------
+Date: Tue, 24 Oct 1995 22:02:56 EDT
+From: ellen@central.cis.upenn.edu
+Subject: yiddish for all jews?!
+
+morrie feller writes:
+
+>... Yiddish should be taught on as broad a scale as Hebrew, and that
+>synagogues and Jewish community centers have to be convinced that Yiddish
+>should be part of their curriculums.  This would also apply to Bureaus of
+>Jewish Education (or their equivalent).
+
+uh, hebrew is presumably the ancestral tongue of jews in general; yiddish
+is a (more recent) ancestral tongue of jews from some parts of europe. if
+all jewish children should be taught yiddish, then they should also be
+taught ladino and judeo-italian and judeo-greek and judeo-persian and
+judeo-arabic and judeo-marathi and... :)
+
+btw, the museum of the diaspora on the grounds of tel aviv university has
+a fascinating exhibit of texts from many (maybe a hundred) 'jewish'
+languages.
+
+ellen prince
+
+7)----------------------------------------------------
+Date: Wed, 25 Oct 1995 16:08:08 EST
+From: zoster@radiol.som.sunysb.edu
+Subject: Yiddish Theater Productions in Israel
+
+The subscribers of Mendele will probably be intersted to learn of two
+interesting Yiddish productions in Tel Aviv.
+
+"Khumesh Lider" by Yitzkhok Manger, directed by Shmuel Bunim,  with music
+by Dov Zeltzer was performed on October 9,10, and 11 at the ZOA House. It
+was also performed in Jerusalem on 10/12 and in Netania on 10/14/1995 "A
+Goldfaden Khulem"- di originele muzikalishe forshtelung 21 kinstler will
+be performed with simmultaneous Hebrew translation. Re-written by Yakov
+Rothman. Performances were scheduled in Tel Aviv, Jerusalem, Ra'anana and
+Netania from October 29 and 31 and November 15 and 21, 1995. The two
+productions are presented by the newly formed Yiddish Theater In Israel -
+"Yiddish-shpil" (in hebrew it is one word)
+
+Zvi Oster
+
+______________________________________________________
+End of Mendele Vol. 5.152
+

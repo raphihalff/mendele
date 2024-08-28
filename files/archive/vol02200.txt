@@ -1,0 +1,161 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 200
+May 13, 1993
+
+1) Coffee talk (Paul Weichsel)
+2) Plurals (Ellen Prince)
+3) Yiddish spelling conventions (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Wed May 12 14:56:12 1993
+From: Paul Weichsel <weichsel@symcom.math.uiuc.edu>
+Subject: Coffee Talk
+
+My reaction to Gerald M. Phillips' inquiry is the
+following.
+
+1. My mother used to say on special occassions: Oy,
+der hartz vert mir ferklempt, meaning that she felt a
+constricting pressure around her heart, meaning that
+she was feeling very distressed.
+
+2. As far as "konnektekezoink" is concerned, I guess
+that it is a product of one of the shows more
+imaginative writers.
+
+3. Is "Coffee Talk" good for the Jews? It provides
+some hillarious moments for this particular Jew and I
+am delighted to see it on the airwaves. Yasher koiach
+Saturday Night Live!
+
+P. Weichsel
+
+2)----------------------------------------------------
+Date: Wed May 12 16:48:30 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Plurals
+
+on the nar/naronim, dokter/doktoyrim, shabes/shabosim
+thing: it's not unlike modern english dive/dove, where
+the 'historical' past tense would be (and still is for
+some) dived but where it was recategorized as being in
+the drive/drove, strive/strove verb class. when the
+change goes the other way, we call it 'regularization';
+when it goes this way (from less marked to more marked,
+i mean), we chuckle...
+
+p.s. mikhl, thanks for poyerim--i always forget that
+one.
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Thu May 13 02:28:27 1993
+From: ZOGUR@CUVMB.Columbia.edu
+Subject: Yiddish spelling conventions
+
+Meylekh, my earlier comments were apparently unclear. I
+hope the following ones don't add to the confusion.
+
+   Let me elaborate somewhat on matters of Yiddish
+spelling conventions. Indulge me if I ramble a while
+and belabor the obvious. Perhaps I don't really have to
+establish the relevance of pre-Yiddish traditions for
+an understanding of some Yiddish spelling conventions.
+Still, it helps me to ramble so, perhaps it will be of
+some help to you too.
+
+     Like other Jewish languages, Yiddish uses the
+Hebrew or, if you prefer, the Jewish alphabet. It
+inherited the letters and many of the conventions
+associated with them, perhaps indirectly from Hebrew,
+more directly from Aramaic, and in some manner from
+other Jewish language forebears as well, certainly from
+Judeo-French. The earliest dated, connected Yiddish
+text, for example, (the rhymed couplet in the Worms
+makhzer, dated 1272: "gut tak im betaGe sver dis
+maxazor in beth hakneseth traGe" (in which G is
+probably the fricative counterpart of [g]), already
+displays well developed spelling conventions, and
+apparently has a Judeo-French parallel: "bon dzhor(e)**
+. . ." etc.
+
+     There is much to be learned from how the letters
+were first used (and not used). Hebrew-origin words
+retained their traditional spelling, except where their
+origin was somehow obscured, as in the case of "mekn"
+(to erase). Some letters were never used for non-Hebrew
+words, or in positions in which Hebrew spelling
+conventions (which may have reflected Hebrew phonology)
+precluded them from occurring.
+
+     Unlike today, "samekh" for example, occurred only
+in Hebrew words. The [s] sound was represented by
+"sin". This surely had something to do with the
+historical difference between "samekh" and "sin" and
+the manner in which they corresponded to the "eses" of
+the corterritorial, non-Jewish languages.
+
+     Unlike today, the [x] sound in word-initial
+position was represented by "khes", never by "khof"
+which, unlike "khes", was precluded from occuring in
+that position. in Hebrew. In the 19th century, Mendele
+is still writing "khotsh" and "khlebn" with "khes".
+
+     For the same reason, "vov", not "fey" represented
+word-initial [f] although, I must admit that, at some
+point, the system may have gotten messed up by the use
+of "veyz" for initial [f], What can you do?
+
+     I view the use of alef in Yiddish against this
+background of Hebrew-origin constraints. Except for
+[e], every word-initial vowel in Yiddish is either
+represented by alef [a, o], or preceeded by alef [i, u,
+ey, ay, oy]. My explanation is that Hebrew words (with
+an exception that I can't explain ##), unlike words in
+Yiddish  never begin with a vowel sound. They do begin
+with alef and ayin but these are, historically,
+consonants. In Yiddish, both alef and ayin lost their
+consonantal value and were thus freed, in the case of
+the word-initial, so-called shtumer-alef, to serve a
+strictly orthographic (dummy consonantal) function and,
+in the case of ayin, to represent [e]. Why [e]? Perhaps
+there is some phonetic explanation. (In Western
+Yiddish, ayin often represents [e, e:] in Hebrew-origin
+words, too: sho 'hour(s)' is [she:], moes "money" is
+[me:s].
+
+     I think you quetioned my explanation for the
+traditional use of the shtumer alef in spelling such
+words as "yid", and "yidish" on the grounds that
+initial "yud" has a consonantal function in Hebrew and
+thus could have/should have? been carried over into the
+non-Hebrew component of Yiddish as well. The fact that
+it wasn't, if it wasn't, does not however, invalidate
+what I've said about the origin of the word-iniitial
+shtumer alef convention.
+
+     As to why this convention was applied in the case
+of [yid/yidish/yingl] when consonantal "yud" was
+available, we probably have to look elsewhere, perhaps
+to the dominance/"prestige" of the Litvish variants
+[id/idish/ingl].
+
+     Wasn't there actually a newspaper called "Der Jud"
+(spelled "yud", "vov", "daled")? The preferred form,
+before modern spelling reform, became "Der Id" (spelled
+"alef", "yud", "daled"). By the way,the three words in
+question, yield three systems: i)   a yid [a yid/ayid]
+-- der/dem yid ii)  a id-- der/dem id iii) a-y-id
+[ayid]--der id
+
+-----------------------------------------------
+** spelled "yud", "vov", "reysh", ("alef")
+## udvar adonay/unsane toykef
+
+Mikhl Herzog
+______________________________________________________
+End of Mendele Vol 2.200
+

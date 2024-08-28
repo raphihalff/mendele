@@ -1,0 +1,184 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.061
+July 19, 1995
+
+1) Musical notation for Internet (Dvorah Halperin Biasca)
+2) Papirene kinder (Stanley Werbow)
+3) Komets alef beys (Dovid Braun)
+4) Komets-alef O again (Larry Rosenwald)
+5) Nursery rhymes & Hebrew-Yiddish pairs (Miriam Isaacs)
+6) Nursery rhyme (David Sherman)
+7) Khotch (Fishel Hoppe)
+
+1)----------------------------------------------------
+Date: Tue, 18 Jul 1995 15:56:43 -0600 (MDT)
+From: biasca@horton.colorado.edu
+Subject: Musical notation for Internet
+
+For [Sholom Pearlman, 5.051] who was wondering about a potential
+Internet-worthy musical notation: check Mendele,Vol3.127 (Indexed under
+the title "Shloflidele") for another possibility.
+
+Dvorah Halperin Biasca
+
+2)----------------------------------------------------
+Date: Wed, 19 Jul 1995 09:30:13 -0500
+From: s.werbow@mail.utexas.edu
+Subject: Papirene kinder
+
+The song "papirene kinder" may well have been sung in the concentration
+camps, but it is much older than WWII. My mother sang it to us in the
+20's or 30's, and I have always assumed that it was an immigration song
+about the parents left behind in the old country. It is not in Ruth
+Rubin's Voices of a People. Nor in the Mloteks' Pearls of Yiddish Song or
+in Mir Trogn a Gezang.
+
+Stanley Werbow
+
+3)----------------------------------------------------
+Date: Wed, 19 Jul 1995 00:24:42 EDT
+From: dovid@mit.edu
+Subject: Komets alef beys
+
+To Eliyahu Juni:
+
+Maybe I misexpressed myself.  The kids who sang the song were native
+speakers of Yiddish who hadn't yet been exposed to the meaning of "komets
+alef [o]", as you say was your own case. *Because* they were native and
+because they were of the age that they knew the alef-beys (but not
+_niked_ 'vocalization' yet), they used two words that they *knew* instead
+of the two words which wouldn't have made sense to them at this stage of
+their language and concept acquisition (viz., _koyekh *shepn*_ and
+_komets alef *o*_).  Point is that a native, reliable informant for an
+adult term or concept must be able to speak adult Yiddish.  That's what I
+meant, in case it didn't get across.
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Wed, 19 Jul 1995 08:13:04 -0500 (EST)
+From: lrosenwald@wellesley.edu
+Subject: Komets-alef O again
+
+I read Eliyahu Juni's posting with fascination.  What still puzzles me,
+though, is this - in so far as I can see, in some sense it doesn't really
+matter whether you're used to komet-alef beys or komets-alef O in
+general, since in the context of the song the phrase has to rhyme with
+vos ir lernt do, doesn't it?  Best,
+
+Larry Rosenwald
+
+5)----------------------------------------------------
+Date: Tue, 18 Jul 1995 22:02:56 -0400 (EDT)
+From: miriamis@gwis2.circ.gwu.edu
+Subject: Yiddish Nursery rhymes & Hebrew-Yiddish pairs
+
+In response to Itzik Shpitzik, my parents version of that was a little
+cruder, but we are Galitsianer.
+
+Itzik, shpitzik nudl freser
+Gayt tsim galekh, ganvet a meser
+Gayt aran, p-t zekh oys
+Kimt aroys, zugt nisht oys
+
+Nu?
+
+Ikh hab anander frage. Se zaynen do vertlekh vos kinder zogn vos zenen a
+por Hebraish un Yidish, ikh denk fin a tzayt ven men iz nisht zikher
+gevezn ver farshtayt vos, zol zayn klor- code mixing- by the linguists as
+I do now, but systematically in pairs? I know of two Hamor-ayzl
+tson-retekh- a friend from israel told me her parent generation said
+that.
+
+Miriam Isaacs
+
+6)----------------------------------------------------
+Date: Wed, 19 Jul 95 13:45:32 EDT
+From: dave@cai.lsuc.on.ca
+Subject: Nursery rhyme
+
+The nursery rhyme Max ben-Aaron asks about appears in "Kinder-Lider",
+poems for children, by Beryl Sigal (Workmen's Circle, 1970), p. 10:
+
+[transliterating]
+
+Itzik, shpitzik,
+nodl, teshl
+loyf un koyf mir
+kvas a fleshl.
+
+a bisl mir
+a bisl dir
+eyns un tsvey
+un dray un fir!
+
+This book has lots of similar ones.
+
+David Sherman
+Toronto
+
+7)----------------------------------------------------
+Date: Wed, 19 Jul 1995 11:29:24 -0400 (EDT)
+From: hoppe@mcmail.cis.mcmaster.ca
+Subject: Khotch
+
+Yankel Gerger asks for the "where used" of khotch.  I seem to recall this
+word used at the start of the second line of a haunting song from the
+time of the Second World War.  My grandmother used to sing it and I have
+a copy somewhere in an old songbook.
+
+Zog nisht kayn mol az ir geyt dem letstn veyg.
+Khotch himlen bleyene ...
+AZ komen vil nokh undzer osgebengte sho.
+
+I'm new to this list and its a pleasure to realize that so many others
+still care about this language.
+
+Fishel Hoppe
+
+______________________________________________________
+End of Mendele Vol. 5.061
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

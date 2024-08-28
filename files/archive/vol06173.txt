@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.173
+December 30, 1996
+
+1) Search of Mendele archives (Iosif Vaisman)
+2) Faktn kegn Filologosn (Khayem Bochner)
+3) Shpigel shprakh (Norma and Bernard Rubin)
+4) "Ikh fur aheym" (Marcia Gruss Levinsohn)
+5) "Bay Mir Bist Du Sheyn" (Milt Eisner)
+6) Masculine form for rebitsn (Irwin Mortman)
+
+1)----------------------------------------------------
+Date: Sun, 29 Dec 1996 16:34:53 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Search of Mendele archives: new and improved
+
+My apologies to everybody who tried to search Mendele archives in Shtetl
+in the past several weeks: due to some security problems with the old
+software (WAIS) the search did not work. Now Mendele archives are
+reindexed using state-of-the-art search engine (Isearch from CNDIR).
+Isearch is a powerful retrieval system that implements sophisticated
+search and ranking of the results algorithms. Isearch works efficiently
+with complex boolean queries using weighted search terms, at the same
+time the search form is user-friendly and simple. Currently only
+full-text search is possible, search by fields (subject and author)
+would be enabled later.
+
+Search results are ranked according to the frequency of occurences of
+higher scoring words. The score of the word depends on its frequency in
+the database. For example, using word "yiddish" as one of the search
+terms will not do any good, because "yiddish" occurs in every single
+issue of Mendele.
+
+Speaking of issues, current database includes 1,693 volumes of Mendele
+(yasher koyekh, Noyekh). It is 4,233,776 bytes of high-quality
+first-class information with almost no artificial flavors, artificial
+colors, and other harmful ingredients. The database will be updated
+approximately bimonthly.
+
+URL for the search form:
+
+http://sunsite.unc.edu/yiddish/mendeles.html
+
+The old URL (http://sunsite.unc.edu/yiddish/mewais.html) now points to
+the new search form and can be used as well.
+
+Comments and suggestions about the new search engine and its
+implementation would be appreciated.
+
+Iosif Vaisman
+
+2)----------------------------------------------------
+Date: Sun, 29 Dec 96 22:06:21 -0500
+From: bochner@deas.harvard.edu
+Subject: Faktn kegn Filologosn
+
+Ikh vil nor alemen meldn az in dem nayem (oktober-detsember 1996) numer
+"Oyfn Shvel" iz do a fayner artikl fun Dovid-Elye Fishman vos makht klor
+di farfirerishe disinformatsye in Filologoses taynes kegn yidishizm, in
+zayn vikuekh mit Dovid Katsn in Englishn "Forward" dem fargangenem
+zumer.
+
+Khayem Bochner
+
+3)----------------------------------------------------
+Date: Sat, 28 Dec 1996 21:58:24 -0500 (EST)
+From: boomie@idirect.com
+Subject: Shpigel shprakh
+
+While listening to Kol Yisroel short wave, poetry of two Yiddish poets
+was read.  The poets were a father and son, Josef Kerler and Boris
+Karloff.  During the reading the phrase "shpigl shprakh" was used.  Can
+any one comment on the derivation and meaning of the phrase or is it an
+expression coined by the poets?
+
+Norma and Bernard Rubin
+
+4)----------------------------------------------------
+Date: Sun, 29 Dec 1996 23:16:37 -0500 (EST)
+From: mashinke@wam.umd.edu
+Subject: "Ikh fur aheym"
+
+Sema Chaimovitz Menora fregt in vol. 6.152 vegn dos lidl, "ikh fur
+aheym."  ikh hob gevust az ikh hob a tashmir fun an altn plate un hob es
+nor vos gefunen.
+
+It is sung by Sam Appel on a record, "Songs I Love."  Listening to it,
+these are the words I was able to make out. (He sings fast.)
+
+ikh fur a heym
+
+mazel-tov aykh Yidn.  mit mazol zol es zayn.
+ikh veys ir vet zayn tsufridn.  ot vos hert zikh ayn.
+gehoft hot mir oyf shtendik,  oykh tsu undzer glik.
+der goles iz geendikt  un ikh fur yetst zurik.
+es ruft oyf mir di shpine.  es hot mir ufgegolt.
+ikh fur in Palestine  vi mayn zeyde hot gevolt.
+
+ikh fur a heym.  ikh fur a heym.
+ikh voyn nit mer  bay dem geher.
+...
+
+tsi iz dos dem lidl vos ir vilt?  az ir vilt vel ikh shikn di resht.
+
+The accompaning notes say, "I'm Going Home," although written many years
+ago, is very timely.  It tells about the Jew who is planning to return
+to Israel, and with typical Jewish humor, explains why.  A great
+all-time classic." There are songs sung in Yiddish, Hebrew and English,
+all relating to Israel.
+
+ikh vintsh aykh ale a gut gezunt 1997.
+
+Marcia Gruss Levinsohn
+
+5)----------------------------------------------------
+Date: Sun, 29 Dec 1996 11:20:26 -0800
+From: eisner@erols.com
+Subject: "Bay Mir Bist Du Sheyn"
+
+I recently acquired the book _100 Best Songs of the '20s and '30s_.  On
+page 362ff. I find "Bei Mir Bist Du Schoen (Means That You're Grand),"
+with the following credits:
+
+Original Lyrics by Jacob Jacobs
+Music by Sholom Secunda
+English Version by Sammy Cahn and Saul Chaplin.
+The score contains the English lyrics only.
+
+What are Jacob Jacobs' original Yiddish lyrics to "Bay Mir Bist Du
+Sheyn"?
+
+Milt Eisner
+McLean VA
+
+6)----------------------------------------------------
+Date: Sun, 29 Dec 1996 18:48:39 GMT
+From: mortman@iac.net
+Subject: Masculine form for rebitsn
+
+Has anyone coined a  Yiddish word for the masculine form for rebitsn?
+Obviously the requirement was not necessary until this generation.
+
+Irwin Mortman
+Cincinnati, OH
+
+______________________________________________________
+End of Mendele Vol. 6.173
+

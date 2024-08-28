@@ -1,0 +1,161 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.190
+November 20, 1994
+
+1) Patshi patshi kikhelekh (David Sherman)
+2) "The Pious Cat" by Peretz (Moishe Feller)
+3) Campaign for a New Edition of Steinmetz's Book (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Sat, 19 Nov 94 22:31:39 EST
+From: dave@cai.lsuc.on.ca
+Subject: Patshi patshi kikhelekh
+
+My 3-year-old can answer this one for you:
+
+patshi patshi kikhelekh
+di mame vet koyfn shikhelekh
+der tate vet koyfn zekalekh
+far <kid's name> fisalekh!
+
+There are lots of minor variations.
+One has the last line as "dos kind vet esn kikhalekh!".
+
+David Sherman
+
+2)----------------------------------------------------
+Date: Thu, 17 Nov 1994 21:01:53 -0700 (MST)
+From: feller@pcef.pc.maricopa.edu
+Subject: Interpretation of "The Pious Cat" by Peretz
+
+Our little leyenkreis has just read "Di Fruhmeh Kahtz" by Peretz.  It
+does not seem to be "stam" a "meiseh", but rather an allegory.  We would
+like to know if anyone on Mendele has an interpretation for this story,
+or if anyone can lead us to a reference which discusses the meaning and
+significance of the story.
+
+Moishe Feller
+
+3)----------------------------------------------------
+Date: Sat, 19 Nov 1994 20:11:20 -0500
+From: zellig@aol.com
+Subject: Campaign for a New Edition of Steinmetz's Book
+
+Sol Steinmetz, the well-known lexicographer and Executive Director of the
+Random House dictionaries, is a "yidisher yid" in all respects.
+
+He is a true "khoyveyv yidish," a lover of Yiddish, and his book _A
+Century of Yiddish in America:  Yiddish and English_ is one of the few
+books seriously treating the influence of Yiddish lexemes and usages upon
+contemporary English.
+
+The book demonstrates not only his scholarly research, but the care,
+enthusiasm, and love he invested in his work.  It is an enriching,
+_teacherly_, book, with a special chapter on romanization and a short
+glossary of Yiddish words and their English equivalents, an excellent
+reference work for anyone interested in Yiddish.
+
+The book, however, published in 1986, is out of print.
+
+I sent a letter to the University of Alabama Press, its publishers,
+urging them to issue a new edition of the book.  Herewith a copy of my
+letter:
+
+May I respectfully suggest to re-issue Sol Steimetz'es book _A Century of
+Yiddish in America_for the following considerations:
+
+a)  There is a definite strong movement of interest and renewal in
+academic institutions, offering courses in Yiddish and Yiddish
+literaturte;
+
+b) Many well-known universities and colleges are establishing in their
+libraries special sections of Yiddish literature sponsored by the
+National Yiddish Book Center;
+
+c)  There is a wide movement of Yiddish Clubs all over the United States
+fostering the maintenance and furtherance of the Yiddish language. These
+Clubs just held in Toronto, Canada, their Second International Conference
+(October 7-10, 1994).  Number of participans 184, an inctrease of 45
+participants from the First International Conference of Yiddish Clubs a
+year ago.
+
+d)  The electronic E-mail group called _Mendele:  Yiddish Literature and
+Language_.
+
+The number of current subscrikbers to Mendele is about 600, and the
+subscriber list increases every montn by 8 -10 new members.  It is to be
+expected that this list will within one year's time reach ther 1,000
+mark. And continue growing.
+
+Mendele subscribers arer hundreds of plain folk, as well as from
+different academic fields, not just Linguistics--faculty members, retired
+academicians, instructors, students.
+
+Mendele distributes to its subscribers 7 - 8 times a week its lively
+bulletins, filled with rich materials about Yiddish, Yiddish literature,
+history of the Jewish people and the recent past, scientific inquiries,
+etc, representing a colorful exchange and lively discussion forum of
+opinions and views.  All published matter in Mendele is written by its
+members.
+
+Please note that the Mendele list of subscribers consists not just of
+members in the United States, but also from all over the world, namely
+from:  Australia, Belgium, Brazil, Canada, Finland, France, Germany,
+Great Britain, Hong Kong, Israel, Italy, the Netherlands, New Zealand,
+Poland, South Africa, Switzerland, Turkey.
+
+On the basis of all the above enumerated factors, it is evident that you
+would now have a ready target audience, with a much greater buying
+potential than when you published this book in 1986.
+
+In a follow-up letter several days later I mailed to the University of
+Alabama Press a front-page article from the  English _Forward_ (October
+22, 1994), entitled "Reyd Nor Yidish"  (Speak Only Yiddish), a detailed
+and enthusiastic report of the Second International Conference of Yiddish
+Clubs in Toronto.
+
+I called their attention to the last paragraph of the article: "With the
+love that brings these neo-Yidishists together... the air was full with
+joy at being in the bosom of the _mishpokhe_ and of being flagrantly
+addicted to--Yiddish."
+
+Let's hope this type of gentle pressure from the public will bear
+results.
+
+Zellig Bach
+
+______________________________________________________
+End of Mendele Vol. 4.190
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

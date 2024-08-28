@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.028
+June 17, 1994
+
+1) Introduction (Marcy J. Miller)
+2) Introduction (Herbert Fishman)
+3) Yiddish handwriting (Gaston L. Schmir)
+4) Translation (Fishl Kutner)
+5) Shabeysenakht (Yude Rozof)
+
+1)----------------------------------------------------
+Date: Thu Jun 16 22:39:13 1994
+From: mjmiller@freenet.columbus.oh.us
+Subject: Introduction
+
+I am the Eams Chair in Yiddish Culture for the Bendin Program abroad.
+Formerly a passive reader, I can finally come out of the cyber-closet. I
+have ties (chains) to the Yiddish program at Ohio State University in
+Columbus, OH.  I have authored many works on Natural Gas Pipeline testing
+and Telephone Network Automation, and hope to follow with some writings
+exploring my Bendin roots (Vortslen).
+
+Marcy J. Miller
+
+2)----------------------------------------------------
+Date: Thu Jun 16 23:47:26 1994
+From: 70724.2130@CompuServe.COM
+Subject: Introduction
+
+I have been a Mendelnick for about a month and I thought that it was
+about time to introduce myself. I'm a retired engineer from General
+Electric Co. and I speak, write, and understand Yiddish to some degree.
+In the last two years I've been using the language quite a bit with some
+Russian immigrants who are in my age group. The Yiddish is not perfect
+but we manage to make ourselves understood. The greatest difficulty I
+have is when I take one of them to the doctor and act as an interperter.
+A large number of the medical terms are beyond me and we have to revert
+to pointing to words in an English-Russian dictionary.
+
+I want to thank Shleyme Axelord for quoting the source for the
+translation of [cargo] hold on ship or plane. I have a sort of tattered
+Yiddish-English dictionary with a missing title page. When I looked up
+the reference, I realized that I have a copy of Harkavy's English-Yiddish
+Verterbukh. Ich dank dir nach amohl.
+
+Herbert Fishman
+
+3)----------------------------------------------------
+Date: Thu Jun 16 17:59:06 1994
+From: glschm@minerva.cis.yale.edu
+Subject: Yiddish handwriting
+
+I have also been faced with the problem of deciphering handwritten
+Yiddish. One easily accessible source is Uriel Weinreich's superb
+textbook "College Yiddish". Owing to the idiosyncratic nature of
+handwriting, it is probably useful for the novice to compare samples from
+different sources. In my case, I consulted the alphabet table in
+Weinreich as well as a similar table drawn up by my late father, a native
+speaker of Yiddish. The differences in the two tables were not
+insignificant and samples of Yiddish handwriting would on occasion
+correspond more to one or to the other.
+
+Gaston L. Schmir
+
+4)----------------------------------------------------
+Date: Thu Jun 16 22:56:11 1994
+From: fishl@well.sf.ca.us
+Subject: Translation
+
+Larry Rosenwald in MENDELE 4.026-2 asked for suggestions on reading
+Yiddish script. Zuckerman and Herbst in their beginners text, Learning
+Yiddish in Easy Stages, have a half dozen examples of Yiddish penmanship
+styles, in addition to showing how to write the letters.
+
+It might be apropos here to give a few suggestions and caveats for those
+doing translations for others and for those hiring translators.
+
+Translation is an art. Therefore not everyone is a good translator even
+though one is knowledgeable. You should:
+
+        Have several dictionaries and a magnifying glass.
+
+        Never work with originals.
+
+        Enlarge and alter shade if needed.
+
+        Determine means of payment--beforehand.
+
+        Ask/give beginners, or first time users, a quote on a sample page
+        or two.
+
+        Know that the range for those working by the hour is $10-$40/hr.
+
+        Know that _Der Bay_ has a list of/for subscribers who are
+        translators (NO CHARGE to be listed or for recommendations).
+
+        Expect that the tasks are often long letters or manuscripts from
+        a great grandfather.
+
+        Determine the form of the finished copy. It may be typed, on
+        disk, on cassette or even handwritten.
+
+The last mentioned item is the cause of more problems than any other.
+
+Fishl Kutner
+
+5)----------------------------------------------------
+Date: Thu Jun 16 19:28:10 1994
+From: jrosof@sas.upenn.edu
+Subject: Shabeysenakht
+
+[Re: Mendele Vol 4.027]
+
+Zayt moykhl, Ikh hob dos letste mol gehat a toes ha-dofes, vil ikh dos
+itster farrikhtn:  Shpeysenakhts nitsn di poylishe yidn, galitsianer,
+rumener un andere dorem-yidn.  Shabeysenakht gefint men ba litvakn.
+Shabeysenakhts, azoy aroysgeredt, gefint men ba keynem nit alpi mayn
+zikorn.  Ikh shrayb vider amol tsu mendele vayl dos ershte mol iz nisht
+geven klor loyt mayn shraybn vu in yidishland m'hot genitst shabeysenakht
+un vu shpeysenakhts. Yetst zol zayn klor!
+
+Yude Rozof
+
+______________________________________________________
+End of Mendele Vol. 4.028
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

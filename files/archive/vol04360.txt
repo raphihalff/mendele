@@ -1,0 +1,238 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.360
+March 9, 1995
+
+1) Elye, Heshl, Yoshe, Yoynosn, Iser (Eliyahu Juni)
+
+1)----------------------------------------------------
+Date: Thu, 9 Mar 1995 03:32:46 -0500
+From: ao107@freenet.carleton.ca
+Subject: Elye, Heshl, Yoshe, Yoynosn, Iser. . .
+
+In Vol 4.355,  Reb Duvid Braun wrote farshidene interesante rayoynes in
+response to my comments on diminutives;  here are various ramblings in
+reply:
+
+1.  Eliyahu / Elye:
+
+If we're going to return to Yiddish already, in my dialect it should be
+Eliyuhi;  diminutivizable to Eleshi (poylishe bube), Eliko (minkatcher
+babe) or Elinyu (russishe shvesterkinder, were I to have any.)  Elye,
+however, is a litvishe moniker which I don't particularly care for,
+because:
+
+a) I have a chip on my shoulder about *not* being a Litvak,
+
+b) it reminds me of a certain rosh yeshive from Pennsylvania who shall
+remain nameless, known throughout the yeshivishe world simply as "Reb
+Elye," among whose khsidim I cannot be counted, to say the least.
+
+2.  Yehoshua / Heshl / Yoshe,  Yosef / Yosl:
+
+Reb Duvid wrote that his reason for suggesting that /he'shl/ implies that
+the original was once pronounced /yeho'yshue/ (with stress on the second
+syllable), even though this form is problematic, was because diminutive
+personal names usually stress the same syllable as the 'original' name.
+
+I can see his point, but /yeho'yshue/ sounds so strange to my ear that
+I'd rather posit an etymology which keeps the penultimate stress. Better
+an exception to diminutives using "original" stress (for which I'd be
+curious to see some evidence) than such an exceptional stress pattern as
+/yeho'yshue/.
+
+Reb Duvid posited the following transformation:
+
+   yeho'(y)shue --> yo'shue --> yoshe
+
+   yeho'(y)shue --> ho'shue --> he'shl
+
+Granted, it works.  But I'd rather not posit /yeho'yshue/ unless my back
+is against the wall and the boydm is falling on my head, klots and all.
+:-)
+
+So I still think the following transformation is better:
+
+   yeho(y)shu'e --> yoshu'e --> yo'she
+
+   yeho(y)shu'e --> hoshu'e --> he'she / he'shl
+
+I would posit that stress goes on the penultimate syllable, and moves to
+remain on that syllable when vowels are dropped, changing the stress from
+/yoshe'/ and /heshe'/ to /yo'she/ and /he'she/.
+
+Reb Duvid put the /y/ in /yeho(y)shu'e/ in parenthesis, and suggested
+that "this khoylem-vov was (is?) dialectally pronounced [o] and not
+[oy]."  He suggested an analogy with the the name Yosef, pronounced
+/yeysef/ by Litvishe, and /yosef/--not */yoysef/--in dialects where
+khoylem-vov is usually pronounce [oy].  He suggests that this variation
+helps account for the diminutive /yosl/, derived from /yosef/, not
+/yoysef/.
+
+{I am assuming that the [o] he refers to is the same as a litvisher komets
+(or a komets before a shvo-noch for poylishe/ingerishe), similar to
+the sounds symbolized in IPA as [^] (the u in but) and 'open-o' (the o in
+bore).}
+
+In the dialects I'm familiar with, /yoysef/ is often pronounced /yosef/
+in casual speech, but never in kriyas hatoyre or formal speech.  This [o]
+is a noticeably short vowel, much shorter than the [oy] in /yoysef/.  My
+gut feeling is that it can only replace [oy] in closed syllables (those
+which have a consonant after the vowel).  Why should [yoys] in /yoysef/
+be considered closed any more than [hoysh] in [yehoyshue]?  I can't think
+of any logical reason, and I certainly don't want to start arguing about
+syllable structure.  It just feels that way.
+
+Other examples where [oy] becomes [o]:   baal peoyr becomes baal peor;
+doyr - dor;  boyr - bor;  shoyr hamued - shor hamued;  groys - gros
+(feels ingerish, not poylish--gets spelled giml-reish-komets.alef-samech,
+especially as a name);  royt - rot (same feeling as gros, and parallel
+spelling);  khaloys - khalos (feels poylish, not ingerish);  khaloym -
+khalom, or khuloym - khulom - khulem;  oyf - of;  loyfn - lofn;  hoyf -
+hof;  soyf - sof;  kiyoyr - kiyor;  moyshe - moshe - moshke; doyv - dov;
+moyfsim - mofsim;  apikoyres - apikores, apikorsim;  soynim - sonim;
+soykhrim - sokhrim;  roysh - rosh.
+
+But there are plenty of counterexamples: hoyz - hows, with a very
+noticeable w -- not hos; and the same goes for oys - ows, aroys - arows,
+hoyzn - howzn, poyer - power, boym - bowm, toyzent - towzent.  And oyf -
+of - owf, hoyf - hof - howf, royt - rot - rowt, come to think of it.  And
+broyn - brown, although the family name is usually broner, not broyner.
+
+And there are plenty of words which [oy] doesn't change at all:
+kharoysis, khoylim, oylem, goylem, oire, koyre, toyre, skhoyre, moyre
+(although moyrayni - morayni), koyrim, shoyn, kroyn, goy, azoy, soykher,
+koyne, koyfn, boydm, yoyneh, and noyekh.  And who could forget khoyzik?
+
+The only thing consistent in all this mess of data is that to my ear, all
+the oy's sound like they're in open syllables, and all the o's sound like
+they're in closed syllables.  Maybe it's because I'm used to the notion
+that [o] only appears as a replacement komets instead of [u] in closed
+syllables, and here it's replacing a choylem, so this may be a load of
+rubbish.  Then again, these two features seem to occur in the same
+dialects, so maybe I'm not so crazy after all.  Still, /yeho'shue/ sounds
+almost as bad as /yeho'yshue/, although /yoshu'e/ doesn't sound half bad,
+much better than /yoyshu'e/.  And yes, I do realize that none of this
+forms even a semi-solid argument about anything we're talking about.
+
+Maybe what's bothering me is that all the examples we're dealing with
+have unstressed vowels which are barely articulated, (mostly realized as
+schwas,) while /yeho'yshiye/ or /yeho'yshuwe/ has an unstressed full
+vowel--a diphthong no less--which seems to be fully articulated, and
+another unstressed vowel not separated from it by a consonant.  If it was
+ever stressed that way, it surely was not pronounced that way outside the
+most stilted of contexts.
+
+If that hasn't provided you with food for thought, you're a picky eater.
+
+3. Yoynosn / Nosn:
+
+Es chato-ay ani mazkir hayoym.  (You shouldn't think I'm such a groyser
+tsadik that I'm doing tshuve on my own:  Reb Duvid caught me in flagrante
+delicto.)  'Khob tsigeshtelt boydm tsu klots:  I claimed that
+ante-penultimate stress is anomalous in Hebrew loan words in Yiddish. Reb
+Duvid came up with some examples:  /kalo'nimus/, /ro'sheshone/,
+/akha'zhvereysh/, and /yo'ynosn/.
+
+I'm used to /klo'ynimes/ and /yo'ynosn/;  /ro'sheshone/ and
+/akha'shvereysh/ sound horrible, even worse than /yeho'yshue/.  (I'm
+tempted to say something about balegoles, but the Teamsters haven't
+forgiven me for the last one yet.)  Another example is /yo'ykhenon/.
+/yeho'yshue/ *still* sounds incredibly strange.
+
+Tangentially, Reb Duvid asked if I would concur that the name /yo'ynosn/
+is never used in the (chareidi) Yiddish speech communities to which I
+have access, and suggested that "if anything, it's _nosn_."
+
+Regarding /yo'ynesn/, I can do more than just concur--here's some
+evidence, from a mayse-sh'hoye.  (This story was reported to me by my
+first cousin, daughter of Mendele member Shmilu Juni.)
+
+One of my forty-second cousins in Israel recently celebrated the bris of
+his first-born son, who he named Yonatan.  One of the guests was another
+cousin of mine, an elderly man who grew up in Satmar (the original),
+speaks Yiddish and little else (despite living in Israel for 50 years),
+and who brings out the "ultra" in "ultra-Orthodox."  This elderly cousin
+chided the father of the boy for choosing such an un-traditional name,
+saying, "fun vi host di genimen aza nimen vi yoynosn?  nisht fun dayne
+zaydes;  bei indz in di heym hot men nisht genitst azelekhe neimn vi
+yoynosn."
+
+But /yo'ynosn/ is _not_ replaced by /nosn/.  (Sigh. . . here we go
+again.) Nosn is an entirely different name, although it's also associated
+with Duvidameylekh.  Did you follow the story while he got older?  (Hint:
+think prophecy, not war.)
+
+{To round out the almost-but-not-quite set, there's Nism, as in Nissim,
+(miracles), pretty rare but still around.  And Nisn, as in the month
+Nisan, often given to boys born on the relevant rishkhoydesh; which
+reminds me of Paysakh, given to boys born on the relevant holiday.  Yes,
+it makes sense; but strangely, there are no counterparts Tishrey, Sukes,
+Kislev, Iyer, Shviyes, or Sivan (although Sivan is popular among modern
+Israelis, and might be traditional among some Sephardim).}
+
+4.  Yisroel / Iser:
+
+Someone (Meylekh Viswanath?) raised the issue that just as /he'shl/ does
+not seem to follow from the standard stress in /yehoyshu'e/, /I'ser/ does
+not follow from the standard stress in /yIsro'el/.
+
+If my solution for Heshl was right, then it can be used for I'ser as
+well:
+
+yIsro'el --> yIsro'l --> yI'serl --> I'serl --> Iser
+
+And when the name yisroel is used in full, it often pronounce yIsro'l;
+could that be evidence that my first step is valid?
+
+{While we're dealing with Iser, might it not be derived from a
+translation of Yisroel, i.e. 'Israel' (or a Slavic variation on
+'Israel')?  Intuitively I find such an option more appealing, and there
+are plenty of other names in loshn koydesh which get paired with their
+translations in other languages.}
+
+To anyone who had the zitsflaysh to actually read through this whole
+thing, a shaynm dank.  Come to think of it, maybe you should get out more
+;-).
+
+Reb Duvid closed with "Be me well and strong."
+
+After such a lange megile, I'll have to add "Have me a good Pirem".
+
+Eliyahu Juni
+
+______________________________________________________
+End of Mendele Vol. 4.360
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

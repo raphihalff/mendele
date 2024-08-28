@@ -1,0 +1,178 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 7.001
+May 15, 1997
+
+1) Mendele fayert zayn geburtstog (Noyekh Miller)
+2) Pronunciation reversals (Ellen Prince)
+3) Pronunciation reversals (Rick Turkel)
+4) Pronunciation reversals (Sam Weiss)
+
+1)----------------------------------------------------
+Date: Thur, 15 May 1997
+From: nmiller@trincoll.edu
+Subject: Mendele fayert zayn geburtstog
+
+Tayere mendelistn, haynt iz alt mendele zeks yor.  Tsum finftn
+geburtstog hob ikh geshribn az mir hobn dergraykht mer fun a toyzent
+abonantn.  Der hayntiker numer iz 1255.  Un oyb azoy vi ken men zogn
+az yidish iz a toyter loshn?
+
+Un nisht bloyz gevaksn; mendele hot oykh bakumen a nayer un
+shpanendiker suplement, _The Mendele Review_, unter di redaktsie fun
+Leonard (Yude-Leyb) Prager.
+
+A por verter af english.
+
+These past six years have been six exhilirating years for your shames.
+Never in 75 years have my days been as rich and enjoyable as these. I
+thank you all from the bottom of my heart.
+
+But there comes a time when one should turn to other affairs.  Entire
+mountain ranges of books that haven't been read lately or read with
+understanding or read at all.  Birds to stare at, woods to walk in.
+Nu, un tsvey mazikim vu zenen, der zeyde zol zey tsertlen un oykh
+mit zey amol lernen bolek?  (Der entfer: afn tsveytn shtok.)
+
+Most important, Mendele can benefit from new blood, new ways of doing
+things.
+
+And so I'm happy to announce that Victor Bers and Iosif Vaisman have
+agreed to take over the management of Mendele.  Victor has been my
+silent shutef almost from the beginning, when Mendele moved over from
+its hand-sewn status on the Trinity machine to its present berth under
+the Yale listserver, and he has been a source of solid level-headed
+support all these years.  Iosif is known to most Mendelistn for his
+informative posts and especially for his own inspired web-site, The
+Virtual Shtetl, which among many things makes it possible to search
+through past issues of Mendele.  The two will work together to produce
+what I am certain will be a joy to read.
+
+It was hoped that this issue would mark the first under new
+management. Victor nebekh is still a working-stiff and has term-papers
+and exams and dissertations to take care of.  And so your shames has
+agreed to a promotion: he will be the unter-shames for the next week
+or two or until such time as Victor and Iosif can move in completely.
+
+Akhuts dem blaybt afile a gevezener shames an abonant. Men vet zikh
+nokh zeyen, af dem megt ir zayn zikher.  Zayt mir ale gezunt.
+
+Noyekh Miller
+
+2)----------------------------------------------------
+Date: Wed, 14 May 1997 19:23:12 EDT
+From: ellen@central.cis.upenn.edu
+Subject: Pronunciation reversals
+
+Marjorie Hirshan asks why, when speaking English, Yiddish speakers
+(who've learned English as adults) tend to say /v/ where they should
+say /w/ and /v/ where they should say /v/. I believe this is a case of
+where what they are in fact saying is phonetically *between* English
+/v/ and /w/ and it is we, the native English listeners, that assign it
+to the wrong category since we (given our sound system) figure it has
+to be one or the other and it doesn't sound like the one it's supposed
+to be.
+
+Another possibility might be the case of the Yiddish speaker who in
+fact has learned to produce English /w/ and /v/ as two distinct sounds
+but who may have trouble remembering which one belongs in which
+English word. When they get it right, we don't notice anything; when
+they get it wrong, we notice. Therefore we would have the impression
+that they always get it wrong, nebekh. ;)
+
+In either case, the reversals, like beauty, would be in the eye (ear)
+of the beholder...
+
+There may be a lot more to it -- I'm sure Arn Abramson, our resident
+phonetician, can tell us!
+
+Ellen Prince
+
+3)----------------------------------------------------
+Date: Wed, 14 May 1997 18:59:01 -0400
+From: rturkel@cas.org
+Subject: Pronunciation reversals
+
+I believe this is the phenomenon known as hyperurbanism.  Yiddish
+speakers were told from the beginning that they were mispronouncing
+"w" sounds as "v" and took great pains to correct themselves.  In so
+doing, they went too far and extended the "w" to legitimate "v" sounds
+as well.  I remember my late grandmother cleaning house with a wacuum
+cleaner.
+
+A story:
+
+During WW II my late father-in-law, who spoke beautiful litvak Yiddish
+despite having been born in the USA, tutored English to what are now
+known as New Americans.  He used to tell the story of one man who had
+a devil of a time saying "Washington."  Harry said to him, "Say 'oo,'"
+which the man did with no trouble.  Then he said, "Now say
+'Ashington,'" which he also said clearly.  "Now put the two together,"
+said Harry, and the man said "U-Vashington."
+
+Be me well and strong.
+
+Rick Turkel
+
+4)----------------------------------------------------
+Date: Wed, 14 May 1997 19:59:32 -0400 (EDT)
+From: sweiss@mail.bcpl.lib.md.us
+Subject: Pronunciation reversals
+
+The 'w' sound serves no phonemic function in Yiddish; i.e. no meaning
+hinges on whether a 'v' or a 'w' is heard, as it does in the English
+pair "vest/west".  Therefore, when hearing such pairs in English, the
+Yiddish speaker perceives the differences as interchangeable variants
+of the same sound, and is as likely to choose the more "English
+sounding" 'w' as she would the more "common sounding" 'v'.
+
+Sam Weiss
+Baltimore
+
+______________________________________________________
+End of Mendele Vol. 7.001
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    victor.bers@yale.edu                     Victor Bers
+    iiv@mmlds1.pha.unc.edu                   Iosif Vaisman
+    nmiller@mail.trincoll.edu                Noyekh Miller
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

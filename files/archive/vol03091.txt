@@ -1,0 +1,206 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.091
+August 24, 1993
+
+The shames would greatly appreciate your cooperation in
+these small matters:
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@yalevm.ycc.yale.edu
+
+If you want to discuss personal business, please write to:
+
+                 nmiller@starbase.trincoll.edu
+
+Please provide a Subject: line.
+
+Please sign your articles.
+
+A dank.
+
+1) YIVO and Southern Yiddish (Nissen Goldberg)
+2) Dos un yents (Dovid Braun)
+
+1)----------------------------------------------------
+Date:Mon Aug 23 20:40:18 1993
+From: xidak!poseidon!bob@uunet.UU.NET (Robert N. Goldberg)
+Subject: YIVO and Southern Yiddish
+
+To clarify my point about the older orthography, I'm not saying we
+should go back to it, merely that the "extra" letters sometimes
+served a useful purpose.  The fact that the extra letters did not
+ALWAYS guide pronunciation and were based on German orthography was
+a good reason to clean up and standardize the spelling, but not a
+justification for adopting a minimalist spelling standard for
+Yiddish.
+
+Question about YIVO to our YIVO experts: How do you represent a long
+"o" sound in YIVO transliteration?  I'm thinking of how to
+distinguish the Yiddish word for "mouth" from the Yiddish
+pronunciation of the Hebrew word moel.  My grandmother referred to
+her mouth as "man mOl" (where I use capital "O" for a long "o"), and
+the moel as a "moyl".  I realize there's no problem in YIVO
+orthography because the latter is spelled in Hebrew, but how would I
+write my grandmother's southern dialect in YIVO transliteration?
+
+To Dave Sherman, re: Oyfn pripetshik: we (my family) sings it
+"kumets alef u".  It rhymes that way and reflects the most common
+pronunciation of komets aleph in sefardish ("southern") Yiddish.
+The number of exceptions to the rule is small compared to the number
+of times it works for southern Yiddish.  So do teach it to your
+children that way!
+
+By the way, "kumets alef = u" also works for the southern European
+pronunciation of Hebrew.  In my grandparents' shtibl, I heard such
+things as "burikh atu ... hu-oylam" and "v'imri umayn", which
+reflect "kumets alef = u", "vov = i", and Hebrew long O = "oy"
+(which makes its way into STANDARD YIDDISH words like "oysyes").
+
+My unsubstantiated gut feeling is that mmodern Yiddish orthography
+reflects both a distancing from German (which I approve of) and rank
+chauvinism against the southern dialects of Yiddish (which I find
+insulting). vegn dos ikh vil epes fun di YIVO meyvns heren.
+
+Bob "Nissen" Goldberg
+
+2)----------------------------------------------------
+Date: Tue Aug 24 01:39:18 1993
+From: David Braun <braund@babel.ling.upenn.edu>
+Subject: dos un yents
+
+A por inyonim:
+
+1. To Paul Ritterband:  please give my regards to your wife, my
+former high school principal.
+
+2. David Sherman:  Ask shver-un-shviger how they were taught.  I'll
+bet they were actually taught "pasekh-alef [a], kumets-alef [u]".
+The fcat fact that you sing it (and Surele sings it and maybe your
+in-laws too) with [o] is because that's how it's most commonly sung.
+So there should be no problem.
+
+3. Yiddish folksingers often break rhymes (or what look like they
+were originally meant by the original songwriter) to be rhymes.  Not
+just in folksongs -- in counting-out rhymes, etc.  Take, for
+instance, a song I recorded from my grandmother (it's in Prilutski's
+early collections), which starts out:
+
+	a mol iz geven azoy un azoy
+	a man hot avekgeforn a yunge froy.
+
+This is a perfect Standard Yiddish rhyme.  Volt dokh gedarft zayn
+gut. But...  there was no Standard Yiddish as we know it today when
+this song was first recorded (by Prilutski in 1911 or 1914 and in my
+family - circa 1910 but probably within the twenty years before
+that).  I recorded this song, as mentioned, from my grandmother, of
+Suchowola, Poland (between Bialystok and Grodno) where the one StY
+_oy_ is pronounced [ey] (the classic litvish-marker) and the other
+-- [ou].  My grandmother's rendition:  sometimes (a) and sometimes
+(b): a mol iz geven azey un azey
+
+	(a) a man hot avekgevorfn a yunge froy
+	(b) a man hot avekgevrofn a yunge frou
+
+[OOPS.  A few lines up I meant to say that the other diphthong
+correspond- ing to StY _oy_ is [oy] or [ou] -- there's variation
+between the two.] (There's actually a lot more that could be said
+about this:  was this song then composed in the small area where the
+oy/ey or oy/ou merger took place to yield the situation we have in
+so-called StY?  Or does this harken back to the hypothesis, I think
+of Max Weinreich, that there was actually a form _frey_ 'froy'?
+
+Another example is the counting-out rhyme (like English
+eenie-meenie-miny-moe:([)
+
+	eyne deyne dutke datke
+	tsibele bebele broyne kladke
+	eyne deyne doys
+	vemen s'kumt aroys
+
+{For the less proficient in Yiddish:  there are nonsense words in
+here, so don't be surprised if you can't find half of it in the
+disctionary.)
+
+Now, I heard the rhyme at the end as a full rhyme, or often it was
+broken, vi keyn mol gornisht, as such:
+
+	eyne deyne dous
+	vemen s'kumt aroys
+
+or
+
+eyne deyne doys
+vemen...arous
+
+If you listen to the Megile-lider of Itsik Manger, you'll hear
+people breaking intended rhymes quite often (I'm talking about the
+Burstyn family's rendition, I think the only recorded rendition).
+Mike Burstyn sings:
+
+	...a mol
+	...ayzn un shtul (='shtol')
+
+In this case, the rhyme could have been fully successful in his
+dialect (unlike the froy-azoy example above, in which the rhyme is
+unacceptable in any spoekn dialect [except for the small merger
+area]).  Burstyn might have been wavering between "teater-loshn" and
+"di literarishe shprakh" or whatever he spoke/speaks at home.
+
+	I could bring more examples from my folksong collection
+(with my grandmother as informant -- a blatant rhyme-breaker) but
+none come to mind at the moment (especially bec of the hour).  This
+definitely should be looked into.  Itsik Gottesman has told me that
+his grandmother, a tape of whose singing he produced (Az di furst
+avek) and of whom some 300 songs/ballads/etc. were collected, was
+also a blatant rhyme-breaker. Ellen, what can you tell us about
+Sarah Gorby?  She, on the other hand, was a professional performer
+-- did she break rhymes too?
+
+Bekitser, rhyme-breaking is a possibilty in folk tradition (and
+perhaps profesional tradition as well) in Yiddish.  Of course this
+could be a disturbance in chorus-singing, though. The rhyme-breaking
+takes place, of course, when there's variation within one dialect
+(or within the speaker's repertoire of dialects, e.g. Burstyn) or
+when a rhyme created in one dialect (presumably) is picked up by
+speakers of another.
+
+4.  Khayim:  Shloyme Birnboym proposed a spelling system that would
+reflect everybody's variation.  It's in his early works and in his
+1979 _Yiddish:  A Survey and a Grammar_ he uses the "eynhaytlekher
+oysleyg", aka YIVO system, alongside his system.  (It's act ually
+very unreliable in that book because of the multitude of typos.) His
+suggestion in the 1920s or 1930s was to differentiate between the
+alef written with a komets underneath and an alef written with a dot
+above it -- the one with the komets is Northeastern Yiddish [o],
+Southern Yiddish [u]; the one with the dot is [o] in all dialects,
+e.g. in kop.  His vov is everybody's [u], e.g. literatur, but
+otherwise it's melupm-vov for So Southern Yiddish [i] and
+Northeastern Yiddish [u].  He also uses khirik-yud for the long [i:]
+as opposed to short [i], a distinction absent in North- eastern.
+
+While the standard Yiddish orthography (and the non-standard
+variants ) are an extra burden for the speaker of Southern Yiddish
+(these people have to learn that [kimen] and [finf] are spelled with
+different representations of the vowel [i], Birnbaum's system
+creates the extra burden on the litvak, since s/he has to unmerge
+his [i], know when his [o] corresponds to [o] and when to [u], etc.
+etc. Lifshits also tried to introduce some superdialectal spelling
+conventions in his dictionaries (Yiddish-Russian and Russian-Yiddish
+in the 1880s, if if memory serves me corectly):  he had an umlaut
+over the alef which was for him [u], as opposed to the alef which is
+[o], e.g. kopirn.
+
+5.  der mentsh trakht un got lakht -- I plan to leave the computer a
+half hour ago and what happens?  Ikh tseshrayb zikh.  But one last
+word: I'm moving to Boston in a week and would like to be in touch
+with Yiddish-speakers, young and old, in that area. Please drop me a
+line if you have any referrals!  Thanks!
+
+Dovid Braun	braund@babel.ling.upenn.edu
+
+______________________________________________________
+End of Mendele Vol. 3.091
+

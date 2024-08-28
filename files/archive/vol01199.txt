@@ -1,0 +1,165 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 199
+March 29, 1992
+ 
+1) Entfers (Dovid Braun)
+2) Bialik (Mikhl Herzog)
+3) "Ost und West" (Martin Davis)
+4) Seyfer and bukh (Mikhl Herzog)
+5) Kh'hob zikh barekhnt
+
+1)----------------------------------------------------
+Date: Fri, 27 Mar 92 14:12:47 EST
+From: David Braun <braund%linc.cis.upenn.edu@YALEVM.YCC.Yale.Edu>
+Subject: entfers
+
+[David Sherman says:]
+
+>I once heard Sam Norich telling the anectode of some Jews
+>in Russia who needed to communicate with the local
+>authority (police officer, whatever) about some crime that
+>had been committed.  But they didn't speak Russian, so they
+>found a Russian who spoke German.  Then one of the Jews
+>begins telling the story of what happened -- and (as Norich
+>told it) it came out with a wonderful collection of
+>Hebrew-based words that would make it totally
+>incomprehensible to a German-speaker.
+
+If I understood correctly your narration of Norich's
+narration of this joke, the code which Proger, Herzog, and
+I were talking about probably doesn't come into play here.
+What (might've) happened in this anecdote was that the Jews
+said: "es iz geven a geneyve in shtot", etc. and the
+German-understanding Russian had no clue what geneyve,
+gazlen, etc. were.  This wasn't in code, though, naturally,
+for the Jews had no other way of expressing geneyve.
+
+The issue of _Jew_ is really interesting, no matter what
+the answer (as if there really were an answer).
+
+*******************
+
+[David Sherman cites:]
+
+>       homen hot gevolt di yidn umbrengn
+>	hot er zikh aleyn ofgehongn
+>	aleyn is er geven a kapore
+>	oy, iz dos a gesrukhe!
+>
+>[gesrukhe = bad smell]
+
+Judging by the meter (and lack of rhyme), your melody is
+probably different from mine.
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: Fri, 27 Mar 92  22:14 EST
+From: ZOGUR%CUVMB.BITNET@YALEVM.YCC.Yale.Edu
+Subject: RE: Mendele Vol 1.197
+
+Dan Breslauer,  As an authority on Bialik, will you take it
+amiss if someone suggests that you run right out and really
+learn Yiddish? Bialik was, after all one of the very few
+who wrote his own poetry, ORIGINALLY, in both languages;
+i.e., he didn't simply translate from one to the other. And
+then there are the jokes. Ah, the jokes! WELCOME!
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Sat, 28 Mar 92 10:09:29 -0500
+From: davism%turing.cs.nyu.edu@YALEVM.YCC.Yale.Edu
+Subject: "Ost und West"
+
+David Brenner inquires about the journal "Ost und West". I
+have no information about that, but he may be interested in
+a Yiddish (silent) film made in Vienna in the 1920s with
+that title. It was Molly Picon's first and was later
+reissued in the US with the title strangely mutated to
+"Mazel Tov"!
+
+The film was in the context of the "Ost Juden" mainly from
+Galicia who had come to Vienna seeking refuge from the war
+of 1914-18. These were not always appreciated by the
+prosperous semi-assimilated Viennese Jews. The film shows
+the development of a young Galizianer "rube", rejected by
+the American Molly, despite being formally married to him
+(because the "Haray at" had been said at what was meant to
+be a mock wedding). Helped by his clean shaven Viennese
+uncle, the lad becomes a success as a secular scholar,
+writing a book called "Ost und West" (and of course wins
+Molly).
+
+This likely is little use to David Brenner, but it was a
+really interesting film.
+
+Martin Davis
+
+4)----------------------------------------------------
+Date: Sat, 28 Mar 92  10:42 EST
+From: ZOGUR%CUVMB.BITNET@YALEVM.YCC.Yale.Edu
+Subject: RE: Mendele Vol 1.198
+
+David Sherman: No, in Yiddish, seyfer DOES NOT belong to a
+subset of bukh. If you can't identify the object's contents
+from a distance, you might call a khumesh, but that would
+be your only excuse.
+
+David Braun, A propos of your "dautsh" joke, fill in the
+blank in the following "A Varshove izikimin kan Ameyrike;
+nu:kh tsvay vokhn ote gizukt: 'az yakh binikimin kan
+Ameyrike obox shoynikent redn dra:tsn shprakhn; ha:nt,
+azexobzox shoyn o:sgileyrnt Engelish, kenox shoyn ------'.
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Sat, 28 Mar 92 14:31:12 EST
+From: David Braun <braund@linc.cis.upenn.edu>
+Subject: kh'hob zikh barekhnt
+
+Probably the 'other' Ben-Ami is the' right' Ben-Ami.
+Yankev Ben-Ami (playwright, director) was much too recent.
+But once again, don't have dates at  hand.
+
+*****
+
+Mikhl Herzog urged me to mention to Mendele that the
+Yiddish of Immanuel Olsvanger's [imonuel olshvanger] _Royte
+Pomerantsn_ is not of the Kurland dialect, but is probably
+litvish Yiddish of the Grodne/Byalistok area (specifically
+Grayvi [Polish: Grajewo], if I remember Olsvanger's
+birthplace correctly). There are umlauts on some of the o's
+in the book, as in the title: Ro"yte Pomerantsen, and there
+are some cases of au where Standard Yiddish has oy
+(araus/aroys), but these should be taken with a grain of
+salt because he was trying (sometimes succeeded, sometimes
+didn't) to present the Yiddish phonology in such a way that
+it would be understandable to German readers.
+
+His original of Royte Pom.. was published in the 20's or
+early 30's by the Schweizer Gesellschaft fu"r Volkskunde.
+The reader is supposed to be able to understand
+"everything" in the book because glosses of many of the
+words are given.  This is actually false advertising to the
+reader of the American Schocken edition: the English reader
+has no way of understanding the Yiddish unless... (s)he
+understands a lot of Yiddish.  The reader of the original
+publication was supposed to be a German-reader/speaker, so
+all the items of Slavic/Semitic/Romance extraction in the
+Yiddish of Royte Pom.. are glossed in footnotes, since the
+German is expected to be able to understand most of the
+materials from the Germanic component.
+
+Dovid Braun
+______________________________________________________
+End of Mendele Vol 1.199
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

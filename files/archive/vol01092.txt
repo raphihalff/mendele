@@ -1,0 +1,147 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 92
+October 28 , 1991
+ 
+1) Kitkes, etc. (Mikhl Herzog)
+2) Browning (Noyekh Miller)
+3) Color shifts (Melekh Viswanath)
+4) Etymologies and proof (Melekh Viswanath)
+5) Housekeeping (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Wed, 23 Oct 91  02:25 EDT
+From: ZOGUR@CUVMB.BITNET
+Subject: RE: Mendele Vol 1.90
+
+Re   'kitkes' etc.: Dissertation in progress on "Regional
+variation in the occurrence and meaning of Yiddish food
+terms associated with holidays". Will probably restrict
+itself largely to baking, with special emphasis on "Sabbath
+Bread" (NOT universally "khale", by the way). Author:
+Elinor (Leah) Robinson, Columbia University.
+
+2)----------------------------------------------------
+Date: Wed, 23 Oct 91
+From: nmiller@trincc
+Subject: Vol1.88
+
+Dave Sherman's query about how to refer to autumn
+colors evoked a proposed solution which in turn evoked
+old memories.  
+
+In brief, my proposal is: oysgegrint.  It has the
+distinct advantage of not being a translation from
+English, said translations being almost always infelic-
+itous.  
+
+But while we're on the subject of oysgegrint, older
+readers especially will remember when this was a taunt
+that immigrants used on one another.  I recall vividly
+how some landsman or visitor (himself barely arrived)
+would sneeringly ask: "shoyn a bisl oysgegrint"?  To
+which my mother would snap back: "Yo, shoyn pinktlikh
+azoy geyl vi aykh!", or in a less feisty mood: "Afile
+oysgegeylt!".  They never bothered her again on that
+subject.
+
+So why use the word for autumn?  Because happily or
+alas we no longer have very many Yiddish-speaking
+immigrants with whom we can adopt lofty attitudes
+(farisene neyzer).  But it's a pretty word, it's Yid-
+dish, and now its use even involves ironic overtones.
+
+Noyekh
+
+p.s. My (mostly) ladies at the local Hebrew Home vote for
+ibergebitn.  I think they're right.
+
+3)----------------------------------------------------
+Date: Mon, 28 Oct 1991 13:50 EDT
+From: VISWANATH@DRACO.BITNET
+Subject: Mendele vol1.88
+
+[David Sherman writes:]
+We were out for a drive in southern Ontario yesterday, and
+wanted to point out the leaves turning (changing colour) to
+the kids.  What's the right verb?
+_____________________
+ 
+What about pushet 'baytn zikh di kolir'?
+ 
+melekh (viswanat@draco.rutgers.edu)
+
+4)----------------------------------------------------
+Date: Mon, 28 Oct 1991 13:51 EDT
+From: VISWANATH@DRACO.BITNET
+Subject: Mendele Vol1.90
+
+On Herzog's reply to Bob's 'demand' for proof and Aren's
+later addition to the discussion:
+ 
+Requiring (sic!) proof that there is no relationship is not
+very reasonable. In fact we can't prove that ANY two
+languages are NOT related.
+____________________________________
+ 
+Whereas Herzog's above statement is certainly true, an
+alternative derivation such as Aren later provided would
+certainly have gone a long way in satisfying Bob (I
+believe).  Certainly, it would have satisfied me.
+ 
+Also, when a non-linguist like Bob (I presume) or me
+ventures a statement such as 'heirat < harey at'  I submit
+that we should not be asked to produce proof; rather it
+should be taken as a null hypothesis that then needs to be
+refuted (in the manner that Aren refuted the harey at
+hypothesis).
+ 
+Finally, can even a positive statement such as Bob's
+actually be proven? The best we can do, it seems to me is
+to pile on the evidence as much as we can.
+ 
+melekh (viswanat@draco.rutgers.edu)
+
+5)----------------------------------------------------
+Date: Mon, 28 Oct 91
+From: nmiller@trincc
+Subject: Housekeeping
+
+Since a number of subscribers have raised the question
+of back numbers, I thought a note to the entire list
+might be in order.
+
+The easiest way (for the shames at least) is to make
+all files available via anonymous ftp.  It may also be
+the simplest procedure for subscribers as well.  Unfor-
+tunately, the people who run the local show (firen or
+praven di melikhe, as we say at home, is even closer to
+describing the situation) don't know or pretend not to
+know how ftp works.  As a result, ftp is out unless
+someone on the list knows of an installation that would
+be willing to play host to our files.  
+
+The next best solution is for me to ship files by mail. 
+Files are best sent in compressed _and_ encoded form. 
+There are two options.  1) If the files are to be
+stored on your pc, you will need two pieces of soft-
+ware.  The first (UUDECODE.COM) decodes the compressed
+file, the second (such as ARCE2.COM) decompresses it. 
+2) If the files are to be stored on your mainframe, it
+should have the equivalent software.  Check with your
+local hommes-papier and hope for the best.
+
+You say you haven't got UUDECODE.COM  or ARCE2.COM? 
+Mendele has and will gladly send them to you as *.BAS
+files.  You need only download them to your pc, then
+use the BASIC software that came with your operating
+system to convert the two files into *.COM files.
+
+Finally, if none of the above are right for you, let me
+know and we can try to work out an arrangement.
+
+Noyekh
+
+______________________________________________________
+End of Mendele Vol 1.92
+

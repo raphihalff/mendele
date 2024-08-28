@@ -1,0 +1,164 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.135
+November 19, 1993
+
+1) LC practice on dates (Paul Maher)
+2) Yiddish shayles, cont. (Ellen Prince)
+3) Reb and snow (Hershl Berman)
+4) The extra n-sound (Khaim Bochner)
+5) Forms of address (Khaim Bochner)
+
+1)----------------------------------------------------
+Date: Thu Nov 18 10:34:53 1993
+From: "PAUL MAHER" <MAHER@MAIL.LOC.GOV>
+Subject: LC practice on dates
+
+     In response to Zachary Baker's note on 666 wherein he states
+that  "The Library of Congress, in  its wisdom,  no  longer  uses
+Hebrew letters to represent Hebrew dates ..."
+
+     LC  uses "Western-style arabic numerals for numerals in  the
+vernacular" not only  for Hebrew, but  also  for Arabic alphabet,
+Far  Eastern, Greek,  Indic,  etc., materials.  This practice  is
+based  on Anglo-American Cataloging Rules,  Second Edition,  1988
+Revision, rule  C.5A  and  rule  C.5D  which  was adopted by  the
+Canadian  Library Association (Ottawa),  the  Library Association
+(London), and the American Library Association (Chicago).
+
+     "The above reflects my personal opinion, and not necessarily
+that of my employer."
+
+     Paul Maher
+     Leader, Hebraica Cataloging Team
+     Regional and Cooperative Cataloging Division
+     Library of Congress
+
+2)----------------------------------------------------
+Date: Thu Nov 18 12:13:42 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: yiddish shayles, cont.
+
+to all native yiddish speakers:
+
+molly diesing has pointed out a potential problem with the sentences
+i asked about, so please substitute the following, in which the 'es'
+is optional in 2, 4, and 6. (you can put it in or leave it out,
+whichever sounds better--that's not what i'm concerned about.) so,
+nokhamol, are the following ok? do some sound better than others?
+
+1. ven/az es geyt a shney, fort er in arbet.
+
+2. geyt (es) a shney, fort er in arbet. (to mean the same as 1)
+
+3. afile ven/az es geyt a shney, fort er in arbet.
+
+4. afile geyt (es) a shney, fort er in arbet. (to mean same as 3)
+
+5. nor ven/az es geyt a shney, fort er in arbet.
+
+6. nor geyt (es) a shney, fort er in arbet. (to mean same as 5)
+
+(i don't care whether it's ven or az; take your pick. also,
+as mentioned above, i don't care whether there's an 'es' or
+not in 2, 4, and 6; take your pick.)
+
+vi alemol, a sheynem dank.
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Thu Nov 18 11:41:00 1993
+From: Hal Berman <hberman@edu.uwo.ca>
+Subject: Reb and Snow
+
+Reb:
+
+	I don't know the feminine version if there is one, but reb
+is only used when you know the person. It is a sign of earned
+respect, not just politeness.  You all wouldn't call be reb Hershl,
+but someone who knows me might...
+
+Geyn a shnei (I hate transliteration):
+
+	One thing that I have to make clear is that the VERB must
+always be the SECOND SENTENCE UNIT. therefore it has to be "es geyt
+a shnei" It can not, I repeat NOT, be "geyt es a shnei".
+
+	Secondly, es geyt a regn un es FALT a shnei. So the whole
+sentence needs reworking.
+
+	I hope that things are a little clearer.
+
+Hershl Berman.
+
+4)----------------------------------------------------
+Date: Thu Nov 18 13:56:11 1993
+From: bochner@das.harvard.edu
+Subject: Re: the extra n-sound
+
+Eliyahu Ahilea writes:
+
+> In polish language sometimes the n-sound is dictated not by the
+>letter n but by a sign (like the french cedille) under the preceding
+>vowel, like in Walesa (pronounced "valensa",
+...
+> this polish characteristic probably got into Yiddish words,
+>including  (as > above) words originated in Hebrew.
+
+None of the real Slavicists here have spoken up, so I'll give it a
+shot: (mevinim zoln farshteyn az ikh pruv do tsu derklern mit
+poshete verter, nisht dafke pinktlekh ...)
+
+While the nasal sounds in certain Polish words are indicated only by
+an accent mark in standard Polish spelling, this doesn't mean that
+those sounds appeared mysteriously or by themselves. In most cases
+the history of the word is known, and the nasal sound has always
+been there (although it's been lost in most of the other Slavic
+languages). So, for instance, "five" in Polish is "piec" (with a
+hook under the 'e', and an accent mark on the 'c') pronounced
+roughly "piench". Compare that "n" with Greek "pente" (or Yiddish
+"finf"), and you can see that there has been a nasal sound in the
+Indo-European word for "five" (reconstructed as *penkwe) for LONG
+time.
+
+The point is that Polish doesn't particularly add nasals when they
+weren't there already. And so this doesn't help us explain how these
+Hebrew words, which didn't originally have nasals, acquired them.
+
+Khaim
+
+5)----------------------------------------------------
+Date: Thu Nov 18 13:59:49 1993
+From: bochner@das.harvard.edu
+Subject: Re: Forms of address
+
+Howard I. Aronson writes:
+
+> In traditional Yiddish society, one addressed a man politely using
+> 'reb' plus first name. Is anyone aware of an equivalent polite way
+> of addressing a woman? Thanks.
+
+Khotsh me hert es zeltn, ken men, azoy vi ikh farshtey, nutsn
+"mores" (mem reysh sof) far a froy azoy vi me nutst "reb" far a
+mentsh.
+
+Khaim
+
+______________________________________________________
+End of Mendele Vol. 3.135
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+

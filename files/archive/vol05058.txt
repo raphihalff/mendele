@@ -1,0 +1,171 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.058
+July 18, 1995
+
+1) Komets-alef beys and teaching (Eliyahu Juni)
+2) Origins of Yiddish (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Tue, 18 Jul 1995 04:27:38 -0400
+From: ao107@freenet.carleton.ca
+Subject: Komets-alef beys and teaching
+
+In vol. 5.055, Dovid Braun mentioned that at an event which he attended,
+some children sang the song "oyfn pripetshik"  with the following
+mistake:
+
+zogt zhe kinderlekh, gedenkt zhe tayere
+vos ir lernt do
+zogt zhe nokh a mol un take nokh a mol
+komets alef beys
+
+(This last line should have been "komets alef oh".)
+
+Reb Dovid attributed the mistake to a lack of Yiddish fluency, and such a
+lack might produce such a mistake.  But I think it is very likely that it
+could come about as a result of different learning experiences.
+
+The phrase "komets-alef oh" meant nothing to me until I sat in shul one
+shabes morning and overheard a small child, with his nose in the first
+page of a sidur (the one which has all the permutations of letters and
+vowels), slowly reading "komets-alef oh, komets beyz boh, komets-giml
+goh. . ."
+
+When I was taught to read loshn-koydesh as a child, I was expected to put
+my finger on a letter or a string of letters and read it, or read
+something to which someone pointed.  I never recited the names of the
+letters and vowels--I just pronounced them.  And I never read aloud
+together with other children--it was always an individual or silent task.
+When I moved on to learn khumesh, mishne and g'more, I never chanted a
+text and translation in a group--I listened to a rebbe translate and
+explain, and was often called upon to translate and explain myself, but
+there was rarely a prescribed text which I had to repeat verbatim.
+
+In summer learning programs and in brief stints in more traditional
+khadorim, I was exposed to a different sort of pedagogy:  the rebbe would
+recite a text and its translation a few times (sometimes word by word,
+sometimes phrase by phrase), and then the entire class (as many as 40
+boys) would recite the entire passage and its translation in unison,
+interspersing the translation with the text in exactly the same pattern
+as the rebbe had done.  (The recitation was done in a particular tune,
+and my grandmother used a similar pattern and tune in describing to me
+her experience in kheyder in Minkatch in the 'teens and '20s.)
+
+The child whom I overheard in shul reciting the alef-beys was using the
+same rhythm and sing-song which traditional khadorim used for translating
+khumesh.  When I went to yeshive in New York, there was a kindergarten
+down the hall, and I often overheard young voices chanting "komets-alef
+oh, komets-beyz boh. . ."
+
+[I've heard the same style and similar tunes used for translation into
+Yiddish and English, depending on the language of the particular class.
+I've also been in a class where the children spoke no Yiddish, but mimed
+the rebbe's translation into Yiddish by following the tune and memorizing
+the strings of sounds, without understanding what they were saying.  Many
+a yeshive bokher has picked up Yiddish (and a lousy knowledge of khumesh)
+this way.  And in classes where the rebbe translated into English, a word
+considered inappropriate for tender ears would sometimes be translated
+into Yiddish, so the children would "know" the taytsh without
+understanding it.]
+
+Before I was exposed to this style of teaching, I assumed that all the
+instances of the word "alef" in the song "Oyfn pripetshik" (which I had
+heard but didn't understand, not speaking Yiddish,) were followed by the
+word "beyz" (as indeed the first one is).  When I again heard the song
+after I had learned of this style of teaching, it struck me that the
+words to the song were really "komets-alef oh", the beginning of the long
+recitation of every letter combined with the vowel komets, followed by
+each letter combined with each of the other vowels.
+
+(In the traditional arrangement of that first page of the sidur, each
+letter appears alone in large print; then, in small print, each letter
+combined with komets, each letter combined with patakh, then tseyre,
+segeyl, khirik khoser, khirik moley, khoylem khoser, khoylem moley,
+kubuts, and m'lupum.  My impression is that in most pre-WWII khadorim
+(and in some contemporary ones), children learned to read out of the
+sidur, beginning with this first page and going through until they knew
+the whole davenen. They then moved on to learn khumesh.)
+
+I imagine that a Yiddish speaker, even a native speaker, who learned the
+way I did and was never exposed to the traditional teaching style, could
+easily make the same mistake, and, assuming the "oh" in "komets-alef oh"
+to be gibberish, change it to "komets alef beyz".  Knowing what this
+particular phrase means seems to depend more on familiarity with the
+recitative teaching style (which is used to teach loshn-koydesh) than on
+fluency in Yiddish.
+
+Eliyahu Juni
+
+2)----------------------------------------------------
+Date: Tue, 18 Jul 1995 13:00:29 EDT
+From: ellen@central.cis.upenn.edu
+Subject: Origins of Yiddish
+
+i think the immediate origins of yiddish, i.e. where the yiddish speakers
+came to german-speaking lands from, is one of the most puzzling issues
+about yiddish today. like alice, i just don't see the evidence for a
+romance (french or italian) provenance. alice charitably mentions that
+there is little evidence 'aside from vocabulary (e.g. tsholent,
+bentshn)'. i would add that there is absurdly little evidence from
+vocabulary! the lexicon of yiddish speakers in particular and jewish
+language speakers in general (see wexler's paper on jewish languages) is
+remarkably hospitable to borrowing; furthermore, yiddish speakers have
+demonstrated remarkable language loyalty, shlepping not only lexical
+items but whole languages around the world. so where are the massive
+romance borrowings we'd expect if in fact their first language was french
+(or italian) when they arrived in german-speaking lands? tsholent,
+bentshn, yenta, and a handful of others just ain't gonna cut it...
+
+food for thought: there are more yiddish borrowings in webster's third
+internatl dictionary of the english language than there are romance
+borrowings in yiddish! that is, yiddish-speaking immigrants to america
+and their offspring, altho a tiny percentage of american english
+speakers, retained/borrowed so many yiddish lexical items in(to) their
+english that they managed to get a fair number into the language as a
+whole, while those early yiddish speakers, allegedly arriving with french
+or spanish as their dominant language, couldn't even manage to keep more
+than a precious few in their OWN speech! how is this possible?
+
+i think it's time to do serious work on other levels of the
+language--syntax, semantics, and pragmatics. i believe one of the key
+features of yiddish that distinguishes it from (middle high) german is an
+early tendency toward svo word order (i.e. infl-medial) (see beatrice
+santorini's dissertation)--this could be a romance influence, since
+romance has always been svo--could it be aramaic as well? what do we know
+about the aramaic that they could have been speaking? the np-np form of
+adjectival modification (a bokher a fayner) may have been inspired (not
+borrowed, just inspired) by semitic since it looks like hebrew; its
+discourse function and therefore distribution look a lot more like
+romance--but what did adjectival modification look like in aramaic and
+how did it function? clitic-climbing (zey hobn dos afile nit gevolt
+gloybn, where the _dos_ has moved up to the finite verb; zey hobn zikh
+nit vos tsu freyen, where the _zikh_ has moved up out of the
+vos-infinitive to the finite verb) is attested in romance--but just how
+similar is it? what about aramaic? i think it's time to really grapple
+with these questions and not just accept what has been claimed.
+
+one thought. let's assume, as bob king has proposed, that the first
+yiddish speakers came to bavaria/austria from italy. (certainly bavaria
+gets my vote as the area they were initially concentrated in, wherever
+they came from.) well, what do we know about where in italy they'd been
+living and for how long and from where they'd come? ok, here's the point:
+what is today northern italy and what is directly south of
+bavaria/austria (around trento and points north) is _still_, in 1995,
+somewhat german-speaking. is it possible that they'd lived there for
+centuries and spoke _german_ there the whole time? and that they'd
+originally come _there_ speaking a semitic language? i throw this out as
+a wild speculation, since i have no idea of the demographic facts of jews
+in italy at the time, but it would be a way of having our cake and eating
+it too, since they could then be coming from italy but in fact had
+already become germanic-speakers a long time before, with perhaps just a
+smattering of italian, and it would give us a scenario where the language
+switch was indeed from semitic to germanic, just pushed back a few (or
+many) centuries. just a thought.
+
+ellen prince
+
+______________________________________________________
+End of Mendele Vol. 5.058
+

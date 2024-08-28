@@ -1,0 +1,209 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.235
+January 28, 1996
+
+1) Yiddish books in London, England (Roger Harris)
+2) Soviet Yiddish songs (Shleyme Axelrod)
+3) Yiddish dictionaries (Serge Rogosin)
+4) Pluperfect (Neil Jacobs)
+5) Pluperfect (Meyer-Leyb Wolf)
+6) Rebirth of Hebrew compared with that of Yiddish (Morrie Feller)
+7) Badkhn vs. marshelik (David Goldberg)
+
+1)----------------------------------------------------
+Date: Thu, 25 Jan 1996 22:19:16 +0000 (GMT)
+From: rwsh@dircon.co.uk
+Subject: Yiddish books in London, England
+
+In Mendele vol.5.230, Alan King wrote: A question:  Could anyone please tell
+me where (if anywhere) one can buy Yiddish books in London?
+
+I maintain a list of Judaica and Hebraica booksellers in the United Kingdom.
+It is available at the following sites:
+
+  ftp       shamash.nysernet.org/israel/ejin/brijnet/books/list.txt
+  gopher    shamash.nysernet.org/ejin/brijnet/books/list
+  www url   http://shamash.nysernet.org/ejin/brijnet/books/
+
+It is hard to know what stock is being held at any time by any particular
+bookseller so you may have to do some browsing or telephoning. Book dealers in
+the Stamford Hill area (postcode/zipcode = N16 ___) are likely to have Yiddish
+books in stock and to speak Yiddish too.
+
+If you are planning to visit London in March then please see the entry for
+Jewish Book Week which will be held during 10-17 March 1996.
+
+The Friends of Yiddish meet every Saturday afternoon at the Toynbee Hall, 28
+Commercial Street, London E1, at 3.00 pm. The nearest Underground railway
+station is only a few steps away: Aldgate East (Metropolitan and District
+Lines). Contact: Majer Bogdanski, +44 (0)171-488 3092.
+
+The Spiro Institute is planning a Yiddish seminar to be held in London during
+the second half of August 1996. I shall post details when they are available.
+
+Please e-mail me if you need any further information.
+
+Roger Harris
+
+2)----------------------------------------------------
+Date: Thu, 25 Jan 1996 17:55:36 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Soviet Yiddish songs
+
+Michael Shimshoni (5.233) adds a verse to the Soviet Yiddish song cited by
+Iosif Vaisman (5.219).  I assume that the following, a fragment recalled from
+my 1930's childhood in Brooklyn, is from the same song, though the _ay_s were
+_day_s in my version.
+
+Khaver Stalin iz gekumen,                  Comrade Stalin came,
+(Day-day-day, day-day-day!)
+Hot er undz tsunoyfgenumen.                And he gathered us up.
+(Day-day-day, day-day-day!)
+
+(Bob Rothstein:  Can you provide any more verses?)
+
+Shleyme Axelrod
+Buffalo, NY
+
+3)----------------------------------------------------
+Date: Thu, 25 Jan 1996 20:20:50 -0500
+From: srogosin@aol.com
+Subject: Yiddish dictionaries
+
+Is there a Yiddish dictionary--etymological or otherwise--that lists the first
+appearance of a word in Yiddish, as the OED does for English?  As I mentioned
+in a previous thread, I am researching Jewish connections to the balalaika for
+a book that I am writing.  I would like to know if "balalaika" is listed in
+any Yiddish dictionaries.  Can anyone remember if Sholem Aleichem used the
+word in any of his works?  Thanks for the attention.
+
+Serge Rogosin
+Queens Village, NY
+
+4)----------------------------------------------------
+Date: Thu, 25 Jan 1996 23:31:28 -0500 (EST)
+From: njacobs@magnus.acs.ohio-state.edu
+Subject: Pluperfect and other particles
+
+On Ellen Prince's point about the pluperfect marker being a particle rather
+than a verb:
+
+In the spoken American English of many people, there appears to be a
+irrealis-subjunctive particle * -a * , which derives from the verb *have*:
+
+For example:   "You shoulda ran faster, man..."  "You shoulda went to the
+store earlier, before it closed"  "I coulda ate the whole pizza if you didn't
+ask for some".  For speakers who have this construction, they use -a +  2nd
+form of the verb (e.g., ran, went, ate).  Note that when these same speakers
+are producing straightforward "have" constructions, they use the 3rd form of
+the verb, even when have is reduced:  "I've run faster before; You've gone to
+the store too late; I've eaten the whole pizza--would you like an apple?"
+
+Neil Jacobs
+
+5)----------------------------------------------------
+Date: Fri, 26 Jan 1996 01:10:23 -0500
+From: wolfim@chelsea.ios.com
+Subject: Pluperfect
+
+To Ellen Prince: Sorry, I got the impression that you were suprised that some
+Litvaks werent auxiliary challenged.
+
+I've forgotten how long it took Yehoash to carry out his translation; I know
+it was a long and not very easy time. I suspect that when he was translating
+the section where he used 'gevest' he may have been under the influence of
+older translations. Most Tora translators, from Mendl Satanover on, have tried
+to reproduce the sonority of the old translations and experimented with using
+some of their special vocabulary as well.
+
+Your question on the 'pluperfect _particle_' is a good one -- meaning I dont
+have a real answer. I was glossing the yiddish grammatical term 'invaryant',
+but I dont recall when I first took to considering the pluperfect 'gehat' an
+'invaryant'. I cant find any mention in the literature. I believe the notion
+originated with Uriel Weinreich and I heard it in one of his classes on
+Yiddish grammar. In any case, in his dictionary, under 'gevezt', he calls the
+form "a particle used in forming the pluperfect".
+
+Meyer-Leyb Wolf
+
+6)----------------------------------------------------
+Date: Fri, 26 Jan 1996 10:43:16 -1000
+From: feller@indirect.com
+Subject: Comparison of rebirth of Hebrew with revival of Yiddish
+
+Bob Hoberman in 5.232 gave a summary history of the Hebrew language and its
+rebirth in Palestine. He ends his story with the statement: "So Hebrew was
+revived because there was a need for it, people wanted to talk with each other
+and had no other language in common". I have just finished re-reading "Tongue
+of the Prophets" by Robert St.John which tells the story of how Eliezer ben
+Yehudah struggled to revive the Hebrew language. And, "mirabile dictu", I got
+a completely different picture of what ben Yehudah was faced with. There was
+no obvious need for it, and the people were not interested in making Hebrew
+their common language. Ben Yehudah had an up-hill battle all the way to force
+the Jews of Palestine to learn and speak Hebrew. For further corroboration of
+the difficulties which the rebirth of Hebrew faced, these will be found in
+"Hebrew the Eternal Language" by William Chomsky.
+
+Recognizing that efforts which are being made, and will be made, to ensure the
+survival and growth of Yiddish also face difficulties, albeit of a different
+nature than those which Eliezer ben Yehudah faced, there are reasons enough to
+feel that in the long run we will succeed. One of these reasons is the fact
+that Yiddish is not nearly as close to being dead as Hebrew was. If we will
+it, it will be no dream.
+
+Morrie Feller
+Phoenix
+
+7)----------------------------------------------------
+Date: Fri, 26 Jan 96 17:51:59 EST
+From: david.goldberg@smtpgwy.mla.org
+Subject: Badkhn vs. marshelik
+
+Sara Benor [5.234] asks about the distinction between badkhn and marshelik in
+Fefers poem "A khasene in birobidjan".
+
+If Weinreich and Harkavy treat the two as having the same meaning, we can
+probably say that in the period their dictionaries describe there was no
+distinction between the terms.  Another source for the idea that the 19th
+(considering the literary sources Harkavy used) and 20th century Yiddish world
+did not distinguish between the two is Petrushka's Yidishe folks
+entsiklopedya, which mentions that the two words are synonyms,and also notes
+that the first use of the word badkhn can be found in Rashi (!), and documents
+previous appearances of the aramaic root *beyz-daled-khes* (freyen) in
+talmudic literature.  Possibly there was an earlier time in which the terms
+had distinct meanings, say for instance if the pompous figure of the German
+Hofmarschall (Lord Chamberlain, according to my Cassell's) was mocked in some
+sort of carnival/purim upsidedownday, and later that mocking role or material
+or costume from it was added to the badkhonish repertoire, or both roles were
+played by the same individual.  But that is not, I would guess, a distinction
+that Fefer could make.
+
+I suggest, instead, that Fefer is inventing a distinction supported by the
+source languages of the two words: badkhn being a loshn-koydesh word, and
+marshelik being of European (French?) origin.  Fefer is caught, as every
+Soviet Yiddish writer was, in the impossible situation of having to reject and
+denigrate a tradition while writing from within it, and not without some
+measure (notoriously small in Fefer) of affection for it. Fefer here (my
+supposition continues) seizes on the clearly traditional, loshn-koydesh word
+and the figure it names as a target for his rejection of the traditional
+world: certainly there would be no old fashioned badkhn figure in birobidjan.
+But he is describing a Jewish wedding and it does have a traditional flavor
+(and, by God, he likes it) and so he resurrects the word marshelik to identify
+the non religious jester who entertained at the wedding: taking the
+traditional role (but not back to its ancient, biblical roots implied by the
+semitic name) and transforming it into something new.  Badkhns are identified
+as part of the trappings of traditional clericalism and despicable religiosity
+elsewhere in Yiddish Soviet literature at this time: an example is found in
+the children's play from this period by Itsik Kipnis: "Di farshterte khasene".
+Fefer knew the basic outlines of Jewish history, by the way, but his eye for
+Jewish detail was not always particularly on target: in _Shotns fun der
+varshever geto_, I believe, he describes a beutifully set seder table that
+includes a *koylitsh* !
+
+David Goldberg
+
+______________________________________________________
+End of Mendele Vol. 5.235
+

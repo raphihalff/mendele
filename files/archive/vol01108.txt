@@ -1,0 +1,131 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 108
+November 21, 1991
+ 
+1) Double negatives (Frederick Van Doren)
+2) Which shtetl? (Mikhl Herzog)
+3) Double negatives (Ellen Prince)
+
+1)----------------------------------------------------
+
+Date: Wed, 20 Nov 91 8:16:29 est
+From: VANDOREN@DICKINSN.BITNET
+Subject: Mendele Vol 1.104
+
+The idea that syntactic structure should reflect "logic" is
+culturally conditioned. English disallows double negatives,
+so we say it's a "logical" language. Standard Russian
+requires double negatives: "ja nichego ne znaju" [lit: 'I
+don't know nothing'], but no native speaker woul construe
+this to mean 'I do know something'.
+
+2)----------------------------------------------------
+Date: Wed, 20 Nov 91  13:21 EST
+From: ZOGUR@CUVMB.BITNET
+Subject: RE: Mendele Vol1.105
+
+Fayvel:   Do you know the town your Suvaler bobi(!) was
+from? It sounds to me as if it's an extension of the Womzi
+(Lomza) Grajvi (Grajewo)  area. Mikhl.
+
+3)----------------------------------------------------
+Date: Wed, 20 Nov 91 14:22:42 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.106
+
+on harold bershady's question about yiddish negation:
+
+yiddish has what is called 'negative concord'--if the
+proposition conveyed is negative, all non-specific
+expressions in the proposition have to be negated. this is
+not unusual in european lgs, as has been pointed out. it
+works somewhat differently in each language family,
+however, and differently from language to language within a
+family. closest to home, black english has negative
+concord, of which perhaps the most famous/impressive
+example (from labov) is:
+
+it ain't no cat can't get in no coop 
+
+which means: 
+
+no cat can get in a coop, or: there's no cat that can get
+in a coop.
+
+(black english, like yiddish and just about every other
+germanic language, uses 'it' for 'there'.)
+
+closest to yiddish, bavarian german (which shares a zillion
+other features with yiddish) has negative concord.
+
+as for 'two negatives make a positive', this is a fact of
+(standard, two-valued) logic, NOT a fact of language. it
+was applied to english around the seventeenth century, i
+think, by some 'grammarian' who was trying to stamp out
+negative concord in english (chaucer had no problem with
+it, of course).
+
+one last note--dave sherman (and many grammar books) say
+that 'keyn' is required when 'an indefinite article is
+called for'. close, but not quite. what matters is whether
+the noun phrase refers to a specific or nonspecific entity.
+for example, in english:
+
+john wants to marry a norwegian
+
+is ambiguous. it may be that john has a specific woman in
+mind and i happen to refer to her as 'a norwegian'. in this
+case, i could continue with:
+
+but she doesn't want to marry him.
+
+in the other, nonspecific, sense, any norwegian will
+do--all john wants is to marry someone/anyone with the
+property of being a norwegian. in this sense, i couldn't
+continue with 'but she doesn't want to marry him'. however,
+i could continue with:
+
+but he'll never find one.
+
+now, if we make the sentence negative, there are still two
+readings:
+
+john doesn't want to marry a norwegian--and she doesn't
+want to marry him. john doesn't want to marry a norwegian,
+which is good since he'll never find any.
+
+ok, so now to yiddish. so far as i know, the
+first--specific--sense would not have keyn, whereas the
+second--nonspecific--sense would (for most speakers):
+
+yankl vil nit khasene hobn mit a norveger--un zi vil nit
+khasene hobn mit im. yankl vil nit khasene hobn mit keyn
+norveger, vos iz gut vayl er vet keyn norveger keynmol nit
+trefn.
+
+is that ok, you yiddish speakers? 
+
+the crucial one is this--is it bad (as this account
+predicts)?:
+
+*yankl vil nit khasene hobn mit keyn norveger--un zi vil
+nit khasene hobn mit im.
+
+(note, by the way, that 'khasene' doesn't get a 'keyn'--so
+far as i know,
+
+yankl vil nit keyn khasene hobn mit...
+
+would have the literal rather than idiomatic sense--john
+doesn't want to have a(ny) wedding with... if this is true,
+then 'khasene' in the idiom khasene hobn 'get married'
+isn't even nonspecific--it doesn't refer in ANY way. it's
+just part of a complex predicate, like 'the bucket' in kick
+the bucket 'die'.)
+
+more than you ever wanted to know about negative concord...
+
+______________________________________________________
+End of Mendele Vol 1.108
+

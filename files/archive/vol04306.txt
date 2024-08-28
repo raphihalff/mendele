@@ -1,0 +1,164 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.306
+January 31, 1995
+
+1) Introduction (Harold Boll)
+2) Irving and Irwin; proverbs (Daniella HarPaz)
+3) Kenen/konen; a personal note (Rick Gildemeister)
+4) In der emesn (Morrie Feller)
+5) In der emesn (Khayem Bochner)
+
+1)----------------------------------------------------
+Date: Tue, 31 Jan 95 10:13:54 EST
+From: boll@keps.com
+Subject: Introduction
+
+Although I was born in Germany after the war, my formative years from the
+age of 2 were spent in Newark, N.J. in a 3-decker neighborhood not all
+that dissimilar to the descriptions provided by Philip Roth in some of
+his novels. In the 4th grade, the wooden desk that I sat at had the
+initials R.S. dug into its surface, which stood for our most famous
+graduate at the time - Rod Steiger. My parents are holocaust survivors
+from the town of Gombin in Poland and I grew up speaking a rich mixture
+of English & Yiddish and often not knowing the difference.  This made
+kindergarten a somewhat traumatic experience for me since my young
+classmates would sometimes give me quizzical looks when I voiced words
+they didn't understand ("Give me a handtuch, please.")
+
+As the years passed my exposure to Yiddish only occurs on visits home to
+see family and relatives.  My comprehension remains high, although when I
+try to speak I often revert to Deutsch due to many years of studying it
+in school.  At a relatively recent Yiddish Film Festival sponsored by the
+Yiddish Film Institute at Brandeis University, I found that I could
+understand much of what was being said on screen without looking at the
+subtitles.  I'm currently working my way through Weinreich's book on
+learning Yiddish.  I get a lot of pleasure when visiting my parents in
+trying out my Yiddish or eavesdropping on conversations among the truly
+fluent at their condominium complex in Florida.
+
+I credit much of my renewed interest in Yiddish to Mendele.  Thanks to
+one and all whose participation sustains this electronic journal.
+
+Harold Boll
+
+2)----------------------------------------------------
+Date: Mon, 30 Jan 1995 12:52:11 -0500 (EST)
+From: harpaz@binah.cc.brandeis.edu
+Subject: Irving and Irwin; proverbs
+
+1. Does anyone know what Yiddish name (if there is a direct connection)
+   is for "Irving"?  or "Irwin"?
+
+2. A colleague of mine is beginning work on Jewish proverbs (mostly
+   Ladino) and would like to do *some* work with Yiddish proverbs.
+   I gave him several references to consult, but it is not my forte'...
+   Is there a quintessential work on Yiddish proverbs or list that he
+   should consult above all others?
+
+a dank in faroys,
+Daniella HarPaz
+
+3)----------------------------------------------------
+Date: Tue, 31 Jan 95 09:25:51 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: More on kenen/konen & a personal note
+
+I was out sick last week and had nothing to do but lie in bed and watch
+movies. Two I watched were "Mirele Efros" and "Der Dybuk". I was
+absolutely astonished; it was as if ear plugs had been taken out of my
+ears. I no longer depended on the subtitles; what once sounded like
+fonfevate nonsense (which I attributed to the particular movie print used
+and the conversion to video) was suddenly fresh and clear. I was able to
+detect lots of dialect variations to the point that the movies seemed
+artificial, but then I said to myself, Rick, people do move! OK, she's
+supposed to be from Grodne and she sounds like a Volinerke, but no one
+said where she was born.
+
+At any rate, what I'm trying to say is that the daily exposure to Yiddish
+through this list, and my forcing myself periodically to write my
+postings in Yiddish has resulted in a significant improvement in my
+facility for the language. I was so delighted I wanted to shout it from
+the rooftops! I cer- tainly couldn't have done it alone, and I want to
+give my most hartsikn dank to my Mendelyaner friends.
+
+Having just read Mikhl's posting on his underestimation of the spread of
+konen, everyone in both films said konen. I thought that that might be
+one area where the stage pronunciation may have had a normative influence
+and required konen; but, if so, why is everyone speaking in their own
+dialect? According to recent postings, I was led to believe konen was
+isolated to North-East Yiddish. Mikhl's most recent observation seems to
+make sense when applied to these movies as cases in point.
+
+Rick Gildemeister
+
+4)----------------------------------------------------
+Date: Tue, 31 Jan 1995 08:41:03 -0700 (MST)
+From: feller@pcef.pc.maricopa.edu
+Subject: Gender of _emes_
+
+A possible answer to Zishe Carlow's question about the word _emes_.
+While Weinreich indicates that _emes_ is masculine gender, as a Hebrew
+word it is feminine gender.  Why the change in gender when switching from
+Hebrew to Yiddish, I don't know.  When all else fails, I usually pick up
+my telephone and call Mordkhe Schaechter.  He always has a good answer!
+
+Morrie Feller
+Phoenix
+
+5)----------------------------------------------------
+Date: Tue, 31 Jan 95 10:47:39 -0500
+From: bochner@das.harvard.edu
+Subject: "In der emesn"
+
+Sholem Aleykhem, Zishe! Mir zenen geven tsuzamen in zumer-program, '88.
+
+Ir fregt vegn "in der emesn". Bekitser, oyf loshn-koydesh iz dos vort
+"emes" loshn-nekeyve, un mistome iz es a mol geven loshn-nekeyve oyf
+yidish oykh. Hot men in der tsayt bashafn an oysdruk "in der emesn", mit
+"der", vi es past far a loshn-nekeyvedikn substantiv. Der nun baym sof,
+iz, vi ir shraybt, enlekh tsum nun in "tatn" oder "in der luftn"; in
+frierdike tsaytn hot men dos genitst mer vi inem hayntikn loshn.
+
+Shpeter iz dos vort "emes" gevorn loshn-zokher oyf yidish, un derfar,
+loyt der hayntiker gramatik, volt men gedarft zogn "in dem emes". Nor der
+oysdruk "in der emesn" iz undz farblibn, a zeykher fun frierdike doyres.
+ ;-)
+
+Khayem Bochner
+
+______________________________________________________
+End of Mendele Vol. 4.306
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

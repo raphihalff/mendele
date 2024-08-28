@@ -1,0 +1,160 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.200
+December 24, 1995
+
+1) Another Yiddish euphemism (Zellig Bach)
+2) Hebrew fonts (David Sherman)
+3) Yiddish in American film (Sore Benor)
+4) Der tunkeler vegn nudnikes (Peter Kluehs)
+
+1)----------------------------------------------------
+Date: Sat, 23 Dec 1995 17:35:59 -0500
+From: zellig@aol.com
+Subject: Another Yiddish euphemism
+
+I the old country every Jewish boy learned, even in his early infancy,
+that _shmaysn_ [to slap or lash] had a direct association with _hintn_
+[Yiddish for buttocks], the fleshy lower backside, as the natural and
+unique "reserve" for shame and punishment for "unjewish" mischievous
+behavior.
+
+The Hebrew word used as a euphemism for "hintn" is tof-khes-sof
+(to'khes), meaning under, below. (The euphemism for men's underwear,
+specifically for _gatkes_ is "takhtoynim" from the same Hebrew root.]
+
+For other Yiddish euphemisms see the discussion about vulgarisms in _A
+Century of Yiddish in America:  Yiddish and English_ by Sol Steinmetz,
+pp. 56-57;  also my recent post 5.198,3.
+
+So far, "tokhes" or "tukhes" is not considered acceptable in polite
+society or family-oriented magazines or newspapers.  At most, it would
+likely be treated in print as the famous /f/ word, that is by printing
+only the initial /t/, and for each consecutive letter a short dash or
+hyphen /- - - - -/. The French _derriere_ , however, is for some resaon
+found acceptable.
+
+Alan Dershowitz, the celebrated Harvard law professor, recently submitted
+a satirical sketch to the journal of the American Bar Association in
+which the Yiddish expression "tokhes afn tish" (literally, put your rear
+end on the table) appeared in a bit of dialogue.  The editors of the
+journal objected to the expression and changed it.
+
+The expression "tokhes afn tish" is a frequently used phrase among card
+players when the game is for money, and simply means 'put your money on
+the table,' i.e. in the "bank."
+
+This word sometimes finds its way in a TV commercial (with a /k/ in place
+of the /kh/), as in a recent Whoopi Goldberg commercial for a telephone
+company ("I can sit on my tokis and do nothing to earn big savings").
+
+The accepted substitute in English for "tokhes" has been _tushie_ or
+_tushy_, apparently formed, according to Steinmetz, on the basis of a
+baby-talk diminutive.  This word was then shortened to "tush," as in Mel
+Brooks' classic movie "Blazing Saddles," where a women bar singer by the
+name (I believe) of Von Push, in a satirical spoof of a Marlene Dietrich
+seductive song, rhymed "push" with "tush."
+
+I heard about an advertisement in the New York subways where a physician
+by the name of "Dr. Tush" offered his services for size reduction or an
+otherwise surgical procedure thereabouts.
+
+And the _New York Times_ (12/17/95, p. 3), describing the white-gloved
+men on the subway platforms in Japan who push passengers into the already
+crowded cars and who are called in Japanese "shiri oshi," translated it
+as "tushy pushers".
+
+Is it possible that the expression "tokhes afn tish" in a card game is a
+vulgar but somewhat innovative, playful Yiddish translation of the
+English phrase "bare your assets," that is, show us your money and  put
+it on the table, the word 'assets' here having a double entendre, and the
+phrase gained in popularity on account of its vulgarity and because some
+found it funny?
+
+Zellig Bach
+
+2)----------------------------------------------------
+Date: Sat, 23 Dec 95 18:53:29 EST
+From: dave@cai.lsuc.on.ca
+Subject: Hebrew fonts
+
+Zavi Beer asks [5.195] about Hebrew fonts for Mendele. It's fundamentally
+impossible without restricting access to Mendele to those who can support
+the relevant software. Not everyone can. For example, I usually read
+Mendele on a VT-100 compatible terminal (yes, a terminal, not a computer
+running software that makes it emulate a terminal). Non-ASCII text just
+won't work.
+
+Now, it's possible to convert YIVO transcription to Yiddish with
+reasonable accuracy (though the words from loshn-koydesh won't come out
+right). Refoyl Finkl developed the concept a long while back, and I wrote
+a "yiddish writer" stack for HyperCard on the Mac that does a nice job.
+(I did it for an article I had to write for _Yugntruf_ magazine.)  I type
+in YIVO transcription, click a button, and my program converts it to
+Yiddish, using the Vilne font, in a separate field on the screen. Anyone
+who doesn't mind the text being slightly mangled (most specifically re
+the Hebrew-origin words) might run such a program on the transliterated
+portions of Mendele, if they wanted.
+
+(I'll be happy to send my HyperCard stack to anyone who wants it.)
+
+David Sherman
+Toronto
+
+3)----------------------------------------------------
+Date: Sat, 23 Dec 1995 22:11:50 -0500 (EST)
+From: seb28@columbia.edu
+Subject: Yiddish in American film
+
+To add to the discussion from a few weeks ago about American films that
+include Yiddish:
+
+Watching "Willy Wonka and the Chocolate Factory" last week, I was
+surprised to hear a bisl Yiddish. Willy Wonka (played by Billy Wilder)
+says a few lines in Yiddish, in addition to other languages. I wonder if
+the pygmy-like "Oompa-Loompa" characters are at all related to the
+Yiddish word "umgelumperte," which means awkward.
+
+Sore Benor
+New York
+
+4)----------------------------------------------------
+Date: 24 Dec 1995 14:01:00 +0200
+From: pete@pko.rhein-main.de
+Subject: Der tunkeler vegn nudnikes [5]
+
+hot der balebos vider geshikt zayn diner: "gey zog dem nudnik, az ikh bin
+shoyn geshtorbn". iz der diner gekumen un gezogt az der nudnik hot
+gezogt, er iz zeyer tsebrokhn fun zayn toyt un az er vil kumen im opgebn
+dem letstn koved, opheybn im, onton im di takhrikhim un firn im tsu
+kvure. itst set ir shoyn, vi m'ken a sakh oyfton mit a nudnik!
+"276,891,367 terutsim" - hot gezogt, ikh gedenk nisht ver - "zaynen faran
+oyf poter tsu vern fun a nudnik, nor keyn eyner fun zey toyg nisht".
+
+ikh ken a yidn, vos az er flegt geyn fun shvitsbod un emetser flegt im
+bagegenen un zogn: "tsu refue!", flegt der yid entfern: "geyt tsu ale
+rukhes"... far vos hot der yid azoy brutal geentfert oyf a vuntsh? gants
+poshet: der yid hot moyre gehat fun nudnikes. hot er moyre gehat, az oyb
+er vet entfern "a dank", vet yener glaykh onheybn fregn: "tsi iz geven a
+gute bod?" oder "tsi zaynen dort a sakh mentshn?" un "tsi iz faran
+pare?", un "tsi iz do genug vaser?" oder "tsi ken men dort shteln gehakte
+bankes?" un "tsi iz faran genug ort tsu prudzhen di zakhn?", un azoy
+vayter un azoy vayter. derfar flegt er azoy sharf un grob opentfern. nor
+oyb ir meynt, az dos hot geholfn, hot ir aykh a toes.
+
+nokh a yid hot gehat a teve, az beshas er flegt forn in ban un tsu im
+flegt zikh tsuzetsn a parshoyn un fregn: "vuhin fort a yid?", flegt der
+yid im opentfern raptem, in eyn otem: "ikh for keyn lekhevitsh, un forn
+for ikh fun baranovitsh, durkh keydenov, aleyn bin ikh fun kobrin; ikh
+hob a vayb mit 7 kinder, dray yingelekh un 4 meydlekh, shteyen nokh nisht
+in shidukhim; ikh for gesheftlekh, ikh hob a krom fun shnit-skhoyre; nat
+aykh a papiros un geyt gezunterheyt". meynt ir, az dos hot geholfn? hot
+ir vider a toes.
+
+peter kluehs
+wehrheim, germany
+
+______________________________________________________
+End of Mendele Vol. 5.200
+

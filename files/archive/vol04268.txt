@@ -1,0 +1,178 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.268
+January 8, 1995
+
+1) Right hand/left hand (Anatole Beck)
+2) Zooish-jewish (Mendy Fliegler)
+3) Yiddish wordprocessors (summary) (Iosif Vaisman)
+4) Alte zakhen, alte shikh (Michael Shimshoni)
+
+1)----------------------------------------------------
+Date: Fri, 6 Jan 95 11:06:30 CST
+From: beck@math.wisc.edu
+Subject: Right hand/left hand
+
+I am interested in a question concerning the technology of writing: Do
+left-handed people write Yiddish (Hebrew, Arabic) more easily than
+right-handers ?  I have asked several people, but never gotten any
+satisfying answser.  I know that when I write Yiddish, I push the pen or
+pencil, nothing at all like the cramped style I sometimes see when
+watching left-handers write English.
+
+Perhaps some Mendelniks who have actually _taught_ Yiddish can inform me of
+this particular fact.  In connection with this, would left-handers be
+more fluent writing mirror-English?  Would right-handers write better
+Yiddish in reverse?
+
+My thanks to anyone who has some expertise in this.
+
+Anatole Beck
+
+2)----------------------------------------------------
+Date: Fri, 6 Jan 1995 20:32:24 -0500
+From: sroolik@aol.com
+Subject: Zooish-jewish
+
+Tzu alle mendelakh, Ikh vill aykh zugn az Zintig, Yanuar dem 15tn a
+mitgliederin ofizier fun inzer Yidish fun grois Vashington, vet forshteln
+far kinder, tate/mame, zeyde/bobe,  in Yidish, in der Nashionaller Zoo,
+in Vashington, die khayes vus voynen in der Amozonia sectar.  Miriam
+Isaacs vet fiern die gruppe, un es kost nisht kayn gelt. Elf draysik in
+der frie. 'kh hof aykh tzu zeyn dortn...
+
+Mayn numen is oykh Mendele.
+
+Mendy Fliegler
+
+3)----------------------------------------------------
+Date: Sat, 7 Jan 1995 21:55:44 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Yiddish wordprocessors (summary)
+
+So far I received 7 responses to my survey on the Yiddish wordprocessors,
+describing 3 programs, and several requests for the results. I am posting
+this preliminary summary, and if there would be more responses (and I
+hope there would) I will post an update.
+
+A groysn dank to Garry Margolis, Howard Aronson, Susan Harlap, Peter
+Kluehs, Dan Leeson, Marcia Gruss Levinsohn, and Marion Aptroot for their
+input.
+
+Iosif Vaisman
+
+=============================================================================
+
+1. Nisus Writer (Versions 3.47 - 4.0) Mac, System 7
+Manufacturer: Nisus Software Inc.
+107 South Cedros Avenue
+Solana Beach, CA 92075
+tel: (800) 922-2993 / (619) 481-1477, fax: (619) 481-6154
+Vendor: Nisus Software, MacZone (800-258-0882), MacConnection (800-800-2222)
+Price: $170-300
+
+Comments: Fonts are OK, but you're better advised to buy a commercial
+font from, e.g., Ecological Linguistics.
+
+Easy to type both Yiddish and English in one line: Yes--but--the problem
+is not NisusWriter's (NIsusWriter will even sort according to the
+alef-beys, with or without nikudot. You can even search for Hebrew words
+by triliteral root); the problem is that I still haven't found a font
+that will reproduce the YIVO/TSISHO "oysleyg," i.e., it's hard to find
+pasekh tsvey yudn, fe mit a rafe, veys mit a rafe. The other YIVO letters
+(sin, tov/sov, melumpm vov, yud mit a khirik) are available in the
+Ecological Linguistics fonts. I'm trying to find out from them if the
+remaining problem letters are available in the latest version.  Program
+is highly recommended.
+
+2. Hebrew Edit (Version 1.0) IBM, DOS
+Manufacturer: Right to Left Software, PO Box 94034,
+3332 Yonge St, Toronto, Ontario M4N 3R1, Canada
+tel: 416-489-7440,  fax: 416-489-6654
+Vendor: Right to Left Software
+Price: $19
+
+Comments: Shareware program. Nikudes can be suppressed to enable users of
+different wordprocessors to read the resulting 128+ hebrew ascii files.
+Very nice large hebrew block letters and script letters.
+
+3. EinsteinWriter (Version 7.4) IBM, DOS
+Manufacturer:  Possibly Perceptronics & Einstein
+tel: 972-2-415228 (Israel)
+
+Comments: I've used this in various versions for years in Israel, with a
+standard Israeli keyboard. It gives you two options. Either you can type
+in english, with english help etc; if you want to insert a yiddish or
+hebrew word, phrase or more, you press a single key. That takes care of
+the font and the right-to-left direction and the end-of-line wrap. You
+press the same key to return to english.  Alternatively, you can chose to
+type in hebrew, with hebrew help and onscreen menu. The same single key
+inserts the english words.
+
+
+                                                1       2       3
+
+Number of responses:                            3       2       1
+Overall program quality:                        9       8       10
+Manufacturer's customer support:                9       ?       ?
+Fonts quality:                                  8       10      ?
+Screen quality:                                 10      9       7
+Output quality:                                 10      10      ?
+Footnotes, references, other options:           Y       ?       6
+Easy to install:                                Y       Y       Y
+Easy to learn:                                  Y       Y       Y
+Easy to use the program:                        Y       Y       Y
+Easy to format the document:                    Y       8       7
+Yiddish and English in one line:                Y       N       Y
+Inserting pictures into the document:           Y       N       ?
+Export/import files:                            Y       N       Y
+
+4)----------------------------------------------------
+Date: Sun, 08 Jan 95 15:19:23 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: Alte zakhen, alte shikh
+
+Henry Mullish tells of his experience in Israel.
+
+This cry for used stuff has become now less common.  I know it since I am
+here,  from the middle  1930s.  The "proper"  way it is  sounded is "alte
+zakhen, alte shikh".  While most  of those who were in that line were
+Arabs, some Jews did compete with them.
+
+Michael Shimshoni
+
+______________________________________________________
+End of Mendele Vol. 4.268
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

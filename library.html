@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="libs/jquery/1.11.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <title>mendele</title>
+</head>
+
+<body>
+    <header>
+        <a class="homepage" href="/">
+            <h1 class="homepage yid" dir="rtl">מענדעלע</h1>
+        </a>
+    </header>
+    <div id="vol-browser" style="padding: .5em">
+        <a class="menu-item" href="library.html" disabled>Library</a> <span class="hide">|</span> <a class="menu-item" href="about.html">About Us</a>
+    </div>
+        <div id="issue">    
+            <h2 id="issue-header">Library | ביבליאָטעק</h2>
+            <h3 id="issue-date">August 12, 2024</h3>
+            <h3 id="issue-special">[Here you can find PDFs of standardized Yiddish texts, sorted by author. Some contain embedded and defunct RealAudio links. The MP3 files (and the PDFs) can however still be found on the <a class="author-highlight" href="https://yiddish.haifa.ac.il/Stories.html">Haifa University Yiddish site</a> that was edited by Leonard Prager.]</h3>
+            <div id="toc">
+                <h4 class="toc-entry"><a href="#1">Anonymous</a></h4>
+                <h4 class="toc-entry"><a href="#2">Sholem Asch</a></h4>
+                <h4 class="toc-entry"><a href="#3">Bashevis Singer</a></h4>
+                <h4 class="toc-entry"><a href="#4">Dovid Bergelson</a></h4>
+                <h4 class="toc-entry"><a href="#5">Leyb (Leon) Feinberg</a></h4>
+                <h4 class="toc-entry"><a href="#6">Mikhoel Felsenbaum</a></h4>
+                <h4 class="toc-entry"><a href="#7">Yankev Glatshteyn</a></h4>
+                <h4 class="toc-entry"><a href="#8">Chaim Grade</a></h4>
+                <h4 class="toc-entry"><a href="#9">Avrom Grinboym</a></h4>
+                <h4 class="toc-entry"><a href="#10">Yoysef Guri</a></h4>
+                <h4 class="toc-entry"><a href="#11">Sarah Hamer-Jacklyn</a></h4>
+                <h4 class="toc-entry"><a href="#12">Binem Heler</a></h4>
+                <h4 class="toc-entry"><a href="#13">Dovid Hofshteyn</a></h4>
+                <h4 class="toc-entry"><a href="#14">Yitskhok Ikht</a></h4>
+                <h4 class="toc-entry"><a href="#15">Alter Kacyzne</a></h4>
+                <h4 class="toc-entry"><a href="#16">Tsvi Kanar</a></h4>
+                <h4 class="toc-entry"><a href="#17">Levin Kipnis</a></h4>
+                <h4 class="toc-entry"><a href="#18">Kehos Kliger</a></h4>
+                <h4 class="toc-entry"><a href="#19">Avrom Koralnik</a></h4>
+                <h4 class="toc-entry"><a href="#20">Rokhl Korn</a></h4>
+                <h4 class="toc-entry"><a href="#21">Yekhezkel Kotik</a></h4>
+                <h4 class="toc-entry"><a href="#22">Ariela Krasni</a></h4>
+                <h4 class="toc-entry"><a href="#23">Moyshe Kulbak</a></h4>
+                <h4 class="toc-entry"><a href="#24">Mani Leyb</a></h4>
+                <h4 class="toc-entry"><a href="#25">Yekhezkel Lifshits</a></h4>
+                <h4 class="toc-entry"><a href="#26">Itzik Manger</a></h4>
+                <h4 class="toc-entry"><a href="#27">Mendele Mokher-Sforim</a></h4>
+                <h4 class="toc-entry"><a href="#28">Kadia Molodowsky</a></h4>
+                <h4 class="toc-entry"><a href="#29">Moyshe Nadir</a></h4>
+                <h4 class="toc-entry"><a href="#30">Nakhman Bratslever</a></h4>
+                <h4 class="toc-entry"><a href="#31">Dov Noy</a></h4>
+                <h4 class="toc-entry"><a href="#32">Yoysef Opatoshu</a></h4>
+                <h4 class="toc-entry"><a href="#33">Nokhem Oyslender</a></h4>
+                <h4 class="toc-entry"><a href="#34">Y. L. Peretz</a></h4>
+                <h4 class="toc-entry"><a href="#35">Noyekh Prilutski</a></h4>
+                <h4 class="toc-entry"><a href="#36">Melekh Ravitsh</a></h4>
+                <h4 class="toc-entry"><a href="#37">Avrom Reyzen</a></h4>
+                <h4 class="toc-entry"><a href="#38">Yoyne Rozenfeld</a></h4>
+                <h4 class="toc-entry"><a href="#39">Mordkhe Schaechter</a></h4>
+                <h4 class="toc-entry"><a href="#40">Lamed Shapiro</a></h4>
+                <h4 class="toc-entry"><a href="#41">Sholem Aleykhem</a></h4>
+                <h4 class="toc-entry"><a href="#42">Shaye Shpigl</a></h4>
+                <h4 class="toc-entry"><a href="#43">Itshe-Meyer Shpilrayn</a></h4>
+                <h4 class="toc-entry"><a href="#44">Nokhem Shtif</a></h4>
+                <h4 class="toc-entry"><a href="#45">Abraham Nahum Stencl</a></h4>
+                <h4 class="toc-entry"><a href="#46">Avrom Sutskever</a></h4>
+                <h4 class="toc-entry"><a href="#47">Mendl Tabatshnik</a></h4>
+                <h4 class="toc-entry"><a href="#48">Arn Tseytlin</a></h4>
+                <h4 class="toc-entry"><a href="#49">Itshe Meyer Vaysenberg</a></h4>
+                <h4 class="toc-entry"><a href="#50">Leyzer Volf</a></h4>
+                <h4 class="toc-entry"><a href="#51">Max Weinreich</a></h4>
+                <h4 class="toc-entry"><a href="#52">Eliezer Wiesel</a></h4>
+                <h4 class="toc-entry"><a href="#53">YIVO</a></h4>
+                <h4 class="toc-entry"><a href="#54">Y. Y. Zinger</a></h4>
+            </div>
+            
+            <div class="post" id="1">
+            	<h2 class="post-subject">Anonymous</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/DosGetoBrent.pdf" download>Dos geto brent</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/Shabesdike.pdf" download>Shabesdike</a></h3>
+            </div><hr><div class="post" id="2">
+            	<h2 class="post-subject">Sholem Asch</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/AshKidesh.pdf" download>Kidesh hashem</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/AshKoyler.pdf" download>Dos koyler gesl</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/AshShtiler.pdf" download>A shtiler gortn</a></h3>
+            </div><hr><div class="post" id="3">
+            	<h2 class="post-subject">Bashevis Singer</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/BashevisGimpl.pdf" download>Gimpl Tam</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/BashevisShusterlekh.pdf" download>Di kleyne shusterlekh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/BashevisTsaytlin.pdf" download>Arn Tseytlins eseyen</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/YYZingerZamd.pdf" download>Zamd</a></h3>
+            </div><hr><div class="post" id="4">
+            	<h2 class="post-subject">Dovid Bergelson</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/BergelsonFargrebter.pdf" download>In a fargrebter shtot</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/BergelsonShur.pdf" download>Yoysef Shur</a></h3>
+            </div><hr><div class="post" id="5">
+            	<h2 class="post-subject">Leyb (Leon) Feinberg</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/FeinbergShprakh.pdf" download>Shprakh fun shprakhn</a></h3>
+            </div><hr><div class="post" id="6">
+            	<h2 class="post-subject">Mikhoel Felsenbaum</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/FelsenbaumIngrid.pdf" download>Ingrid Shtark: an intervyu</a></h3>
+            </div><hr><div class="post" id="7">
+            	<h2 class="post-subject">Yankev Glatshteyn</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/GlatshteynReyd.pdf" download>Reyd tsu mir yidish</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/GlatshteynYash.pdf" download>Ven yash iz gekumen</a></h3>
+            </div><hr><div class="post" id="8">
+            	<h2 class="post-subject">Chaim Grade</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/GradeKrig.pdf" download>Mayn krig mit Hersh Raseyner</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/GradeMusernikes.pdf" download>Musernikes</a></h3>
+            </div><hr><div class="post" id="9">
+            	<h2 class="post-subject">Avrom Grinboym</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/GrinboymItshe.pdf" download>Itshe Meyer Shpilrayn</a></h3>
+            </div><hr><div class="post" id="10">
+            	<h2 class="post-subject">Yoysef Guri</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/GuriViKumt.pdf" download>Vi kumt a kats ibern vaser?</a></h3>
+            </div><hr><div class="post" id="11">
+            	<h2 class="post-subject">Sarah Hamer-Jacklyn</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/HamerDzhaklinMames.pdf" download>Mayn mames kholem</a></h3>
+            </div><hr><div class="post" id="12">
+            	<h2 class="post-subject">Binem Heler</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/HelerVunderlekhn.pdf" download>In vunderlekhn loshn</a></h3>
+            </div><hr><div class="post" id="13">
+            	<h2 class="post-subject">Dovid Hofshteyn</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/HofshteynYidishn.pdf" download>In yidishn vort</a></h3>
+            </div><hr><div class="post" id="14">
+            	<h2 class="post-subject">Yitskhok Ikht</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/IkhtOy.pdf" download>Oy, hot er gedavnt!!!</a></h3>
+            </div><hr><div class="post" id="15">
+            	<h2 class="post-subject">Alter Kacyzne</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KatsizneGoldene.pdf" download>Goldene shikh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KatsizneSheydim.pdf" download>Sheydimlekh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KatsizneShidekh.pdf" download>Der shidekh in Partshev</a></h3>
+            </div><hr><div class="post" id="16">
+            	<h2 class="post-subject">Tsvi Kanar</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KanarLemekh.pdf" download>Ikh un Lemekh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/TsviKanarOpgegebn.pdf" download>Opgegebn broyt</a></h3>
+            </div><hr><div class="post" id="17">
+            	<h2 class="post-subject">Levin Kipnis</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KipnisMame.pdf" download>Mayn mame loshn</a></h3>
+            </div><hr><div class="post" id="18">
+            	<h2 class="post-subject">Kehos Kliger</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KligerYidish.pdf" download>Yidish</a></h3>
+            </div><hr><div class="post" id="19">
+            	<h2 class="post-subject">Avrom Koralnik</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KoralnikMazl.pdf" download>On mazl</a></h3>
+            </div><hr><div class="post" id="20">
+            	<h2 class="post-subject">Rokhl Korn</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KornLetster.pdf" download>Der letster veg</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KornYener.pdf" download>fun yener zayt lid</a></h3>
+            </div><hr><div class="post" id="21">
+            	<h2 class="post-subject">Yekhezkel Kotik</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KotikZikhroynes.pdf" download>Mayne zikhroynes</a></h3>
+            </div><hr><div class="post" id="22">
+            	<h2 class="post-subject">Ariela Krasni</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KrasniBadkhonim.pdf" download>Badkhonim lider</a></h3>
+            </div><hr><div class="post" id="23">
+            	<h2 class="post-subject">Moyshe Kulbak</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/KulbakMunye.pdf" download></a>Munye der foygl-hendler un malkele zayn vayb</h3>
+            </div><hr><div class="post" id="24">
+            	<h2 class="post-subject">Mani Leyb</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ManiLeybYidish.pdf" download>Yidish</a></h3>
+            </div><hr><div class="post" id="25">
+            	<h2 class="post-subject">Yekhezkel Lifshits</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/LifshitsTsaytlin.pdf" download>Arn Tseytlin: a kurtse biografye</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/LifshitsTsaytlin2.pdf" download>Bamerkungen</a></h3>
+            </div><hr><div class="post" id="26">
+            	<h2 class="post-subject">Itzik Manger</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/MangerHershl.pdf" download>Di mayses fun Hershl Zumervint</a></h3>
+            </div><hr><div class="post" id="27">
+            	<h2 class="post-subject">Mendele Mokher-Sforim</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/MendeleBaybak.pdf" download>Der baybak</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/MendeleKelbl.pdf" download>Dos tosfos yom tov kelbl</a></h3>
+            </div><hr><div class="post" id="28">
+            	<h2 class="post-subject">Kadia Molodowsky</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/MolodovskiShtub.pdf" download>A shtub mit zibn fentster</a></h3>
+            </div><hr><div class="post" id="29">
+            	<h2 class="post-subject">Moyshe Nadir</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/NadirMame.pdf" download>Mame loshn</a></h3>
+            </div><hr><div class="post" id="30">
+            	<h2 class="post-subject">Nakhman Bratslever</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/NakhmenHenglaykhter.pdf" download>A mayse mit a henglaykhter</a></h3>
+            </div><hr><div class="post" id="31">
+            	<h2 class="post-subject">Dov Noy</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/NoyAraynfir.pdf" download>Araynfir: etnografishe anketes</a></h3>
+            </div><hr><div class="post" id="32">
+            	<h2 class="post-subject">Yoysef Opatoshu</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/OpatoshuEybike.pdf" download>S'eybike khupe-kleyd</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/OpatoshuTikn.pdf" download>Tikn khtsos</a></h3>
+            </div><hr><div class="post" id="33">
+            	<h2 class="post-subject">Nokhem Oyslender</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/OyslenderGoldfadn.pdf" download>Goldfadn in Peterburg</a></h3>
+            </div><hr><div class="post" id="34">
+            	<h2 class="post-subject">Y. L. Peretz</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PeretsBontshe.pdf" download>Bontshe Shvayg</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PeretsBontshe2.pdf" download>Bontshe Shvayg: II</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PeretsGabe.pdf" download>Reb Yokhanen gabe</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PeretsHekher.pdf" download>Oyb nisht hekher</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PeretsMekubolim.pdf" download>Mekubolim</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PeretsNeile.pdf" download>Neile in gehenem</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PeretzMeshugener.pdf" download>Der meshugener batlen</a></h3>
+            </div><hr><div class="post" id="35">
+            	<h2 class="post-subject">Noyekh Prilutski</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/NoyekhPrilutskiDer.pdf" download>Der yidisher bal-melokhe un dos yidishe lernyingl</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PrilutskiLokshn.pdf" download>Lokshn</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/PrilutskiVikuekh.pdf" download>Tsum vikuakh vegn di hebreizmen</a></h3>
+            </div><hr><div class="post" id="36">
+            	<h2 class="post-subject">Melekh Ravitsh</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/RavitshYidish.pdf" download>Yidish</a></h3>
+            </div><hr><div class="post" id="37">
+            	<h2 class="post-subject">Avrom Reyzen</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ReyzenOreme.pdf" download>Di oreme kale</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ReyzenPoresh.pdf" download>Der poresh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ReyzenSkhar.pdf" download>Skhar limed</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ReyzenSukhe.pdf" download>Di groyse suke</a></h3>
+            </div><hr><div class="post" id="38">
+            	<h2 class="post-subject">Yoyne Rozenfeld</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/YoyneRozenfeldKonkurentn.pdf" download>Konkurentn</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/YoyneRozenfeldVos.pdf" download>Vos hot pasirt mitn altn?</a></h3>
+            </div><hr><div class="post" id="39">
+            	<h2 class="post-subject">Mordkhe Schaechter</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShekhterTsum.pdf" download>Tsum yidish fun morgn</a></h3>
+            </div><hr><div class="post" id="40">
+            	<h2 class="post-subject">Lamed Shapiro</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShapiroGegesene.pdf" download>Gegesene teg</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShapiroRov.pdf" download>Der rov un di rebetsin</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShapiroRoykh.pdf" download>Roykh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShapiroVayse.pdf" download>Vayse khale</a></h3>
+            </div><hr><div class="post" id="41">
+            	<h2 class="post-subject">Sholem Aleykhem</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemAlemen.pdf" download>Alemen glaykh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemDreyfus.pdf" download>Dreyfus in Kasrilevke</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemFrier.pdf" download>A frier peysekh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemHitl.pdf" download>Iber a hitl</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemHodl.pdf" download>Hodl</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemMotl.pdf" download>Motl-Peysi dem khazens</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemOylem.pdf" download>Oylem habo</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemOysgetreyslt.pdf" download>Oysgetreyslt</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemPorfolk.pdf" download>Dos porfolk</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SholemAleykhemShir.pdf" download>Shir-hashirim</a></h3>
+            </div><hr><div class="post" id="42">
+            	<h2 class="post-subject">Shaye Shpigl</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShpiglNiki.pdf" download>Niki</a></h3>
+            </div><hr><div class="post" id="43">
+            	<h2 class="post-subject">Itshe-Meyer Shpilrayn</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShpilraynKonspekt.pdf" download>A konspekt fun a kurs in dem 2tn moskver melukhishn universitet</a></h3>
+            </div><hr><div class="post" id="44">
+            	<h2 class="post-subject">Nokhem Shtif</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtifYidn.pdf" download>Yidn un yidish</a></h3>
+            </div><hr><div class="post" id="45">
+            	<h2 class="post-subject">Abraham Nahum Stencl</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtentslNakht.pdf" download>Nakht tfile</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtentslRuml.pdf" download>Ruml</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtentslShifn.pdf" download>Shifn-roykh</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtentslShlos.pdf" download>Fun "Un tsum shlus"</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtentslTemze.pdf" download>Temze in nepl</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtentslTsvey.pdf" download>Di tsvey lukhes</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/ShtentslVaytshepl.pdf" download>Vaytshepl Yerushalayim dBritn</a></h3>
+            </div><hr><div class="post" id="46">
+            	<h2 class="post-subject">Avrom Sutskever</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/SutskeverYidish.pdf" download>Yidish</a></h3>
+            </div><hr><div class="post" id="47">
+            	<h2 class="post-subject">Mendl Tabatshnik</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/TabatshnikMame.pdf" download>Mame loshn</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/TabatshnikTsaytlin.pdf" download>Fun a shmues mit Arn Tseytlin</a></h3>
+            </div><hr><div class="post" id="48">
+            	<h2 class="post-subject">Arn Tseytlin</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/TsaytlinDernenterung.pdf" download>Dernenterung un noentkayt tsvishn yidish un hebreish</a></h3>
+            </div><hr><div class="post" id="49">
+            	<h2 class="post-subject">Itshe Meyer Vaysenberg</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/VaysnbergMazl.pdf" download>Mazl tov</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/VaysnbergTate.pdf" download>A tate mit bonim</a></h3>
+            </div><hr><div class="post" id="50">
+            	<h2 class="post-subject">Leyzer Volf</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/VolfOytobiografye.pdf" download>Oytobiografye</a></h3>
+            </div><hr><div class="post" id="51">
+            	<h2 class="post-subject">Max Weinreich</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/VaynraykhDaytshmerish.pdf" download>Daytshmerish toyg nit</a></h3>
+            	<h3 class="post-author"><a class="pdf" href="files/library/VaynraykhVos.pdf" download>vos volt yidish geven on hebreish?</a></h3>
+            </div><hr><div class="post" id="52">
+            	<h2 class="post-subject">Eliezer Wiesel</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/VizlTsaytlin.pdf" download>Arn Tseytlin Z"L</a></h3>
+            </div><hr><div class="post" id="53">
+            	<h2 class="post-subject">YIVO</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/YivoEtnografishe.pdf" download>Etnografishe anketes: heft 1</a></h3>
+            </div><hr><div class="post" id="54">
+            	<h2 class="post-subject">Y. Y. Zinger</h2>
+            	<h3 class="post-author"><a class="pdf" href="files/library/YYZingerFremder.pdf" download>A fremder</a></h3>
+            </div><hr>
+            
+        </div>
+    
+</body>
+</html>
+

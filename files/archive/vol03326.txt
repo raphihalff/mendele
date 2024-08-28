@@ -1,0 +1,140 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.326
+April 22, 1994
+
+1) Mountain Jews (Leah Zazulyer)
+2) Finger games (Leah Zazulyer)
+3) Loshn-koydesh words vs Germanic (Rick Gildemeister)
+4) Introduction & gzhibe (Perl Teitelbaum)
+5) Re: me tut fregn (Khayem Bochner)
+
+1)----------------------------------------------------
+Date: Thu Apr 21 12:56:14 1994
+From: WATSON@UNO.CC.GENESEO.EDU
+Subject: Mountain Jews
+
+It is my understanding that the socalled Mountain Jews. speak Tat, a
+Persian languagesome 1500 years old.  Their true connection to Judaism is
+not clear anymore.
+
+Leah Zazulyer
+
+2)----------------------------------------------------
+Date: Thu Apr 21 14:05:02 1994
+From: WATSON@UNO.CC.GENESEO.EDU
+Subject: Finger Games
+
+Can anyone add to my memories of a phrase something like "chip-chip,
+belalach", said while two people alternatingly pinch the skin of the
+other person's hand, palm down, followed by some other phrase and a
+scrambling of hands, or some such?
+
+Leah Zazulyer
+
+3)----------------------------------------------------
+Date: Thu Apr 21 13:13:16 1994
+From: EEGLC%CUNYVM.bitnet@YaleVM.YCC.Yale.Edu
+Subject: Loshn-koydesh words vs Germanic
+
+I often find myself wondering why a loshn-koydesh word would have entered
+Yiddish when Germanic equivalents exist. I've not read anything on the
+subject, but I have a few hunches. Words relating to religious practice,
+of course, abound (interesting exception is Yortsayt, which I read
+somewhere wended its way into the speech of Bukharan Jews). The category
+that I couldn't get were these everyday words like meyle, efsher,
+mistome, etc. It occurred to me finally that these words serve to qualify
+or distinguish.
+
+I've had occasion to listen to "religious discourse Yiddish" on WEVD, and
+it occurs to me that there may lie the origin of these words. Words like
+probably, necessarily, perhaps, even, etc., which are used in Talmudic
+discourse could have received a "Jewish" colorization in the popular mind
+and be perceived, therefore, as different from their Germanic
+equivalents, or have a Jewish nuance to them. These words were, then,
+introduced by men? Someone on Mendele said a few weeks ago, "I don't
+write about what I don't know," so I think I'll sign off this subject and
+let the khakhomim un gelernte layt bay undz in Mendele tell us the real
+scoop on this, if there is one.
+
+Rick Gildemeister
+
+4)----------------------------------------------------
+Date: Thu Apr 21 19:23:59 1994
+From: 74031.775@CompuServe.COM
+Subject: Introduction & gzhibe
+
+Ikh heys Perl Teitlboym/ Paula Teitelbaum un ikh bin geboyrn gevorn in
+poyln nokh der tsveyter velt milkhome. Keyn amerike bin ikh gekumen in
+1967.  Mayn yidish iz fun der heym un fun shul. Ikh ken oykh poylish,
+rusish, shpanish un a bisl hebreish.
+
+Howie Aronson shraybt "A student of mine recently heard the Yiddish word
+'zhibe' which is said to mean something approximating hair coming down
+over the forehead.....The question arises, where does it come from?...."
+
+>From Polish. The word "grzywa" ( rz = z as in azure )  means a horse's
+mane, and "grzywka" means bangs. Thus the Yiddish "gzhibe" - to mean
+both.  The second one is frequently used in our family. My six-year-old
+daughter is always told, "Kem tsu di gzhibe!" Look at the Polish
+spelling, and you can see why it was impossible to find in a Polish
+dictionary.
+
+Perl Teitelbaum
+
+5)----------------------------------------------------
+Date: Fri Apr 22 09:43:04 1994
+From: bochner@das.harvard.edu
+Subject: Re: me tut fregn
+
+Arayngekukt in Vaynraykhs _Geshihkte fun der yidisher shprakh_ tsu zen
+vos er shraybt vegn "a kuk ton", hob ikh gefunen epes interesants vegn
+"me tut fregn". Dos hob ikh gefunen in di heores ("footnotes"), vos zenen
+nishto in der englisher iberzetsung. Ikh tsitir fun dem fertn band, zaytl
+252:
+
+"Mitn aspektoidn furem _(ikh) tu a shprung_ tor men nit tsunoyfmishn di
+perifrastishe konstruktsye _(ikh) tu shpringen_, vos zi vert oft genitst
+in tkhine-loshn un oykh ertervayz in tsentral-yidish in der geredter
+shprakh. Beetsem iz _(ikh) tu shpringen_ = _(ikh) shpring_, mernit vos di
+forme iz lenger un bemeyle hot zi mer vog in zats. Dos iz efsher der tam,
+vos zi hot gefunen an akhize in tkhine-loshn (6.9); a mol iz zi mashmoes
+geven mer farshpreyt in der reydshprakh oykh."
+
+Heyst es az M. Vaynrakh hot gemeynt az dos iz poshet a stilistishe zakh
+(un iz ale mol geven azoy?). Yudl Mark un andere hobn ober gemeynt az
+s'iz do a taytsh fun aspekt. Fun vanen shtamt dos khiluke-deyes? Ikh heyb
+nisht on tsu visn.
+
+Khayem Bochner
+
+______________________________________________________
+End of Mendele Vol. 3.326
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

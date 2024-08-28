@@ -1,0 +1,146 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.132
+November 15, 1993
+
+1) Ufruf (Jeremy Stern)
+2) Oy, hobn mir getanzt (Sheldon Benjamin)
+3) Kasha varnishkes (Bob Rothstein)
+4) Etemologye (Khaim Bochner)
+5) Question (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Fri Nov 12 15:46:27 1993
+From: Jeremy Stern <jstern@phoenix.Princeton.EDU>
+Subject: _ufruf_
+
+I wrote
+> >One question I have is why Orthodox people generally call the
+> >pre-marriage calling to the Torah an "ufruf".  I would have expected
+> >the more common "oyf" prefix (more common in America).  By the way,
+> >Yekkified Jews do say "Aufruf."
+
+Perets Mett responded
+> The pronunciation =ufruf= is not "Orthodox". It is the litvishe
+> pronunciation. In poylishe yidish 'oyfruf' is pronounced =awfreef=
+> as it is spelt (=aw= being one of the ways of pronouncing khoylem).
+> One would therefore "expect" the pronunciation =oyfruf= [as spelt]
+> by litvaks. Since litvaks pronounce 'oyf' as =af= it is perhaps not
+> surprising that 'oyfruf' undergoes a change in pronunciation. I
+> believe it is a frequent phenomenon for common words to have an
+> irregular pronunciation. (No doubt we shall hear from the linguists
+> on this.)
+
+All this I know.  In fact, at Oxford, they teach the forms "uf" and
+"aruf." When I encountered the Soviet orthography this past summer
+in Oxford, I saw that it had alef-vov-fey and alef-reysh-vov-fe for
+the two words.
+
+My original question was, why did Orthodox Jews take up "uf". I
+cannot think of another instance of wide-spread Orthodox usage of a
+NE Yiddish form.
+
+Jeremy Stern
+
+2)----------------------------------------------------
+Date: Sat Nov 13 14:22:54 1993
+From: sbenj@MIT.EDU
+Subject: Oy, hobn mir getanzt
+
+My parents once heard Jan Peerce sing Al Joelson's Anniversar Waltz
+in Yiddish and have asked me if I had any idea where one could find
+it (the words, not the recording).  Well, said I, I could always ask
+Mendele.  And so I have.
+
+Sheldon Benjamin
+
+3)----------------------------------------------------
+Date: Sat Nov 13 16:12:28 1993
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: Kasha varnishkes
+
+In his November 12 column in the English _Forward_ Philologus
+considers the possible origins of the culinary term "kasha
+varnishkes."  He ultimately connects it with the Russian word
+_vareniki_ for a kind of filled dumpling.  He suggests that the
+Yiddish (Yinglish?) term originally referred to a dumpling stuffed
+with kasha (buckwheat groats), later perhaps to kasha stuffed into
+tubular pasta, and finally to what we know today, i.e., kasha served
+with flat (often bow-tie noodles).
+
+Although _vareniki_ are a fairly standard part of Russian cooking,
+it's in Ukraine that they're really a kind of national dish, known
+as _varenyky_.  More interestingly, the 1907 Hrynchenko dictionary
+of the Ukrainian language, which I have cited before on this list,
+includes a word _varenytsia_ (pl. _varenytsi_), defined as "round or
+rectangular pieces of rolled out dough that have been boiled in
+water; often these are the pieces that were prepared for _varenyky_,
+but were left over due to a lack of filling; they are then boiled
+together with the _varenyky_."
+
+This could be a more direct source for "kasha varnishkes," if the
+kasha was originally served, not with bow ties, but with left over
+pieces of boiled pasta.
+
+Bob Rothstein
+
+4)----------------------------------------------------
+Date: Sun Nov 14 18:06:36 1993
+From: bochner@das.harvard.edu
+Subject: Re: etemologye
+
+Arthur Komar fregt:
+> Gibt es an untershied tsvishen "leyzen" un "leynen"? "leyzen" iz
+> bashtimt fun daytch. Vuhin kumt dos vort "leynen"? Darf men dos nor
+> banutsen ven men zogt "leynen toyre", un farvos?
+
+Ershtns: "es gibt" iz nisht keyn yidisher oysdruk; s'iz reyn daytsh.
+"Gibt" iz afile nisht keyn vort oyf yidish: me zogt "er git", nisht
+"er gibt", vi oyf daytsh. Ir vilt mistome fregn: "Tsi iz faran an
+untershid in taytsh ...".
+
+Tsveytns: oyf der klal-shprakh iz nishto keyn untersheyd in taytsh.
+"Leyenen" iz dos eltere vort, punkt vi "bentshn", un "tsholnt",
+shtamt es fun der romanisher shprakh vos yidn hobn geredt eyder zey
+hobn zikh ibergetsoygn in di daytshe lender. farglaykh "leggere" oyf
+italyenish.
+
+Dritns: ir zent ober gerekht, az es zenen do dialektn in velkhe s'iz
+take do an untersheyd in taytsh tsvishn di tsvey verter. Oyf mayn
+(galitsiyaner) heym-dialekt nutst men take leyenen nor oyf sforim,
+vi ir zogt.  "Baa ints laynt men a sayfer, ober a biikhl leyzt men."
+(Dos heyst oyf klal-yidish: "Bay undz leyent men a seyfer, ober a
+bikhl lezt men.")  Biz itst hob ikh gehert dem untersheyd nor in
+mayn mishpokhe.  Vu hot ir es gehert?
+
+Khaim
+
+5)----------------------------------------------------
+Date: Sun Nov 14 22:14:51 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: question
+
+this isn't a question about yiddish, but i bet someone out there
+knows the answer. how would 666 be represented in hebrew alphabetic
+numerals? a dank.
+
+Ellen Prince
+
+______________________________________________________
+End of Mendele Vol. 3.132
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+

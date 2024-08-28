@@ -1,0 +1,221 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 03
+May 21, 1992
+ 
+1) Reb Shlemiel revisited (Ytitzhak Kertesz)
+2) A query and an announcement (Noyekh Miller)
+3) Tshuves (Nahum Goldmann)
+4) Syntactic problems (Robert Rothstein)
+5) Khalishen (Zev Hochberg)
+
+1)----------------------------------------------------
+Date: Mon, 18 May 92 12:05:42 PDT
+From: Evelyn Ehrlich <BM.LBH%RLG@Forsythe.Stanford.EDU>
+Subject: Reb Shlemiel revisited
+
+When I introduced myself to Mendele, I mentioned my current
+interest, the origins of Shlemiel and Shlimmazal, with the
+hope that I would get some reactions from other Mendelists.
+Especially, because the earliest use of these words that I
+could find, is from 1784.
+
+Now David Sherman was kind enough to ask about it,so I can
+give it a second try. (1.238 item 1)
+
+(1) Shlemiel from Shlumiel ben Tsurishadday
+
+This is the most well known explanation, based on Heine's
+poem "Jehuda Halevi". I. Tabak points out (Judaic lore in
+Heine p. 153) that Heine misinterprets his sources. It is
+indeed an ingenious "Khap", but cannot be the origin of the
+word. So we are left with the following possibilities: a.
+there was another person named Shlumiel, who is responsible
+for this word. b. the word is of German origin, c. or the
+word is a combination of Hebrew words (shelomi El, etc.)
+
+(2) Shlimazal from schlecht + mazal
+
+First of all, your computer mistyped the word, probably
+because it is not PC compatible. The word is not schlecht,
+but the in meaning identical schlimm. This is indeed the
+most frequently given explanation (see Weinreich, e.g. or
+Dov Noy in the Enc. Jud. v. "Folklore") The question is,
+since when does mazal mean luck? This leads us to a very
+difficult conceptual problem, the history of the
+philosophical category "Chance". Other explanations exist
+for schlimmasal from the German. They are also mentioned in
+Weinreich's History of the Yiddish, in a very awkward way
+(see index).
+
+(3) Of course, words are only words. The real question is,
+did these characters really exist? If so, was it a separate
+category in society, such as batlanim, letsim, meshugoim,
+etc.? And if so, what was specifically Jewish about them?
+
+For even more info you have to wait until I get all my
+thoughts organized.
+
+...  Yitzhak Kertesz (bm.lbh@rlg.bitnet)
+
+2)----------------------------------------------------
+Date: Mon, 18 May 92
+From: nmiller@trincc
+Subject: A query and an announcement
+
+Sherri Calvo asks whether there is a Yiddish primer
+that's less tough going than Weinreich's.  Replies
+can be sent to:
+
+    CALVO@NSSDCA.GSFC.NASA.GOV
+
+or to Mendele.
+
+*********************
+
+The Workmen's Circle has just announced its schedule of
+summer activities: ten programs that will interest
+Mendele's readers (several speakers are themselves
+Mendelnikes).  Everything takes place at Circle Lodge
+(Hopewell Junction, N.Y.) which is an easy drive from New
+York City.  Accomodations are available at reasonable rates
+for A.R. members and non-members.
+
+Here are some of the programs.
+
+June 26-28 (weekend) Remembering I.B. Singer
+ 
+     DEVORA MENASHE TELUSHKIN
+
+     RABBI JOSEPH TELUSHKIN
+
+     DAVID ROSKIES, I.B. Singer's Demons
+
+July 5-10 (5-day midweek) The Many Voices of Yiddish
+
+     ELI KATZ, Early Developmental Yiddish Literature
+
+     CHANE AND YOSL MLOTEK, The Phases of Yiddish Song
+          in America
+
+August 16-21 (5-day midweek) Hands-on-Performing Arts
+
+     PESAKH FISZMAN, Yiddish Language (for those who
+          want to practice and perform)
+
+August 21-23 Intensive Language Weekend
+
+     Conversational Yiddish (6 hours)
+
+August 23-28 (5-day midweek) Jewish Humor, Folklore and
+     Cultural Arts
+
+     ZACHARY BAKER, Shtetl Genealogy
+
+     EMANUEL GOLDSMITH, Vunder iber Vunder: a believe-
+          it-or-not Approach to Yiddish Culture
+
+     ROBERT A. ROTHSTEIN, Folklore: the Yiddish
+          Folksong, Yiddish Proverbs, Multi-Culturalism
+          East European Style
+
+*********************
+
+An afterthought: maybe we ought to plan a Mendele pitnik at
+one of these summertime extravaganzas?
+
+Noyekh
+
+3)----------------------------------------------------
+Date: Wed, 20 May 1992 11:24:00 -0400
+From: Nahum Goldmann <ACOUST@BNR.CA>
+Subject: Mendele vol. 2.01
+
+To: M.-N. Eytan
+
+  "Should we, as Jews, admire... "
+
+I believe it is a wrong question.  One can only ask in this
+context:
+
+  "Should I, as a human beings..."
+
+Let's not pretend that it is only our(?) problem.  And
+could there be a COLLECTIVE(?) response?  Who is going to
+enforce it?  Everyone has to answer this question
+individually.  Of course, I reserve the right not to shake
+a particular hand, but that is my individual solution.
+
+
+To S. Feldman
+
+My impression is that the easiest and the least expensive
+way would be to subscribe to Compuserve (it has a gateway
+to the Academic Net).
+
+
+Greetings
+
+Nahum Goldmann <acoust@BNR.CA>
+
+4)----------------------------------------------------
+Date: Wed, 20 May 92 18:11:37 -0400
+From: ROBERT.ROTHSTEIN@SLAVIC.umass.edu
+Subject: Syntactic problems
+
+    The syntax of the first stanza of the _Internatsional_,
+which has puzzled Seymour Axelrod and Eli Katz, is not as
+bad as it seems: Shteyt oyf, ir ale ver, vi shklafn in
+hunger lebn muz, in noyt... [note the corrected version:
+IN NOYT, not UN NOYT]
+
+        Arise, all ye who like slaves
+        Must live in hunger, in need...
+
+In English _who_ can be singular or plural ('he who
+lives...' vs. 'they who live...'); in Yiddish _ver_ seems
+to be grammatically singular even when the reference is to
+a plurality.  Thus the singular verb form _muz_ rather than
+the plural _muzn_.
+
+                Bob Rothstein
+
+5)----------------------------------------------------
+Date: Thu, 21 May 1992 01:08 EST
+From: Zev Hochberg <HOCHBRGZ@ACFcluster.NYU.EDU>
+Subject: RE: ubbergechalished
+
+Cal Pryluck asks
+
+> She asked me to ask you for a translation of a word she
+> thinks is "ubbergechalished" or "ibbergechalished."  "It
+> explains how in Yiddish how I feel -- but I don't think I'm
+> translating it accurately."  The general domain has to do
+> with weakness, exhaustion, fatigue, etc.  But none of these
+> seem to her as descriptive as "ubbergechalished."
+
+I would translate "like a wet noodle" (or lukshen, if you
+prefer.) [Noodle is a moderately Yidlish word.]
+
+To khalesh is from the Hebrew (hello Yitzchak Kertesz)
+khalash = weak, and means to faint; also, khalesh tzu means
+be itching for, dying for (Weinreich), in the sense, I
+imagine,  of fainting away with need (a rather genteel -
+no, not gentile - image.)
+
+Zev Hochberg
+______________________________________________________
+End of Mendele Vol 2.03
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

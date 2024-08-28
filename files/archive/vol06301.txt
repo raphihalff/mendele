@@ -1,0 +1,206 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.301
+May 13, 1997
+
+1) The English _Forward_ maims Yiddish (Ellen Prince)
+2) A vertl af yidish (Hershl Hartman)
+3) A vertl af yidish (Morrie Feller)
+4) A vertl af yidish (Mendy Fliegler)
+5) Sherlock Holmes af Yiddish (Heynekh Sapoznik)
+6) A new transcription proposal (Sholem Yafe)
+7) Frequency of letters in Yiddish (Estelle Souche)
+8) Lipograms (Estelle Souche)
+
+1)----------------------------------------------------
+Date: Sun, 11 May 1997 14:24:30 EDT
+From: ellen@central.cis.upenn.edu
+Subject: The English _Forward_ maims Yiddish
+
+My apology to Zellig Bach for misinterpreting his post re 'mentsh' in
+the English Forward.
+
+I would have no problem with the Forward deciding to adopt YIVO
+transliteration conventions. I just have a problem with anyone
+dictating any sort of linguistic conventions. And I suspect the
+Forward has a pretty good sense of what their readership is most
+likely to be familiar with, which has to be their primary concern.
+
+Btw, this week's issue has my beloved noun 'big' in a front-page
+headline... ;) (Ok by me -- I just hope they know that this is not a
+possible usage for native English speakers.)
+
+Ellen Prince
+
+2)----------------------------------------------------
+Date: Sun, 11 May 1997 19:39:03 -0400 (EDT)
+From: hershl@aol.com
+Subject: A vertl af yidish
+
+Tried to do it with the tip of my tongue, but it got stuck in the
+cracks on the keyboard. Better with the fingertips.
+
+English: God loves the poor and (but?) helps the rich.
+
+faryidisht: oremelayt helft der riboynesheloylem mit libe; gvirim
+helft er mit maysim.
+
+Hershl Hartman
+
+3)----------------------------------------------------
+Date: Sun, 11 May 1997 21:48:30 -1000
+From: feller@indirect.com
+Subject: A vertl af yidish
+
+In response to the request of Shari Buxbaum in Mendele 6.300, this
+saying can be found in "Words Like Arrows" by Shirley Kumove (p.108).
+It is given in regular Yiddish, transliteration and English.  The
+transliteration is: "Got hot lib dem oreman un helt dem noged."
+
+Morrie Feller
+Phoenix
+
+4)----------------------------------------------------
+Date: Mon, 12 May 1997 11:34:37 EDT
+From: emenems@juno.com
+Subject: A vertl af Yidish
+
+Dos vertl iz:
+
+G-t hot lib dem oreman, un helft dem nogid...(G-d loves the poor man
+and helps the rich one.
+
+Un vos iz der untershid tvishn 'nogid' un 'poretz'??
+
+Mendy Fliegler
+
+5)----------------------------------------------------
+Date: Mon, 12 May 1997 11:10:11 -0400 (EDT)
+From: sapoznik@aol.com
+Subject: Sherlock Holmes af Yiddish
+
+Does anyone have any  information about Yiddish translations of the
+Sherlock Holmes stories? How many were done and how faithfully do they
+hew to the originals? A dank,
+
+Heynekh Sapoznik
+
+6)----------------------------------------------------
+Date: Tue, 13 May 1997 03:16:24 -0400 (EDT)
+From: lakejaffe@aol.com
+Subject: A new transcription proposal
+
+In recent issues of Mendele several people have expressed their
+dissatisfaction and frustration with the standardized system of
+writing Yiddish using English letters.
+
+Maybe the following will be of help.
+
+Don't think about the Yiddish letters that you would use in writing
+the word.  Think only of the _sound_ of the word. Here is a key to the
+sounds, using common words as they are pronounced in ordinary
+American English:
+
+        a  ---   car, father
+        e  ---   set
+        i  ---   machine, ski, debris
+        o  ---   horse, cough
+        u  ---   ruler
+
+       ay  ---   Mayan, bayou, kayak, aye, Joseph Haydn
+       ey  ---   they, hey!
+       oy  ---   toy
+
+       sh  ---   shoe
+       zh  ---   azure
+        g  ---   good
+        s  ---   salt
+
+       kh  ---   voiceless throat sound
+        r   ---  voiced throat sound (untrilled uvular R, as in
+                   French)
+
+      Letters not listed above are pronounced as in English.
+
+      The letters c, j, q, w, and x are not used.
+
+Zol zayn mit mazl!
+
+P.S.  Yiddish has no capital letters,  but the English alphabet does.
+And since we are using the English alphabet, I think we should use
+capital letters wherever appropriate -- as at the beginning of a
+sentence,  or the first letter of a name.
+
+Sholem Yafe
+
+7)----------------------------------------------------
+Date: Tue, 13 May 1997 14:50:20 +0200 (MET DST)
+From: esouche@ens.ens-lyon.fr
+Subject: Frequency of letters in Yiddish
+
+Does anybody know if there are some statistics about the frequency of
+letters in Yiddish? I remember of seeing such statistics about French
+(the most common letters being e, s, a, r, t...) and am wondering if
+some similar statistics exist for Yiddish.
+
+Estelle Souche
+
+8)----------------------------------------------------
+Date: Tue, 13 May 1997 14:50:20 +0200 (MET DST)
+From: esouche@ens.ens-lyon.fr
+Subject: Lipograms
+
+I would like to know if some lipograms (i.e., texts with missing
+letters, such as "La disparition" by the French writer Georges Perec-
+who, by the way, might have been I.L. Perets' great-grandnephew -
+which included no "e") have ever been written in Yiddish.
+
+A dank in advance,
+
+Estelle Souche
+
+______________________________________________________
+End of Mendele Vol. 6.301
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,136 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.066
+September 22, 1996
+
+1) Address of Y.L.Peretz Farlag (Michael Schein)
+2) Pi, pa, po (Ellen Cassedy)
+3) The impact of Lithuanian on Yiddish (Gintis Kaminskas)
+4) Can Yiddish Survive? (Meyer David)
+
+1)----------------------------------------------------
+Date: Fri, 20 Sep 1996 08:21:22 -0500 (CDT)
+From: mschein@comp.uark.edu
+Subject: Address of Y.L.Peretz Farlag
+
+I am trying to obtain a book published in 1982 by Y.L. Peretz Farlag (in
+Tel-Aviv), and am having difficulties finding the address of that
+publishing company.  I would be very grateful for suggestions regarding
+the finding of their address (and electronic address, if such exists).
+Thank you very much.
+
+Michael Schein
+
+2)----------------------------------------------------
+Date: Fri, 20 Sep 1996 11:18:00 -0400
+From: cassblum@aol.com
+Subject: Pi, pa, po
+
+I'm struck  by the similarity of "pi, pa, po" to "Fi, Fie, Fo, Fum," the
+refrain used in Jack and the Beanstalk and other children's stories and
+rhymes. Does anyone care to speculate on this?
+
+Ellen Cassedy
+Bethesda, MD
+
+3)----------------------------------------------------
+Date: Sun, 22 Sep 1996 15:15:42 +1000
+From: peter.holmes@u030.aone.net.au
+Subject: The impact of Lithuanian on Yiddish
+
+Could some subscriber possibly help me find a book by Hackelis
+Lemchenas?  It was published in Lithuania in 1970 (in Lithuanian) and
+it's about 'the influence of the Lithuanian language on the local
+dialect of Yiddish'.  The Lithuanian title of the book translates as the
+bit in inverted commas.  I won't bother spelling it out in Lithuanian
+just now.  I would be most grateful if someone could tell me where I
+could get a second-hand copy of this book, or a photocopy.
+
+Gintis Kaminskas
+
+4)----------------------------------------------------
+Date: Fri, 20 Sep 1996 23:09:46 -0400 (EDT)
+From: mhd@world.std.com
+Subject: Boston Herald Article: Can Yiddish Survive?
+
+Mendele and its shames were prominently featured today at the front of
+the Arts and Lifestyle section of the Boston Herald.  Yes, our own
+shames, Noyekh Miller, was most prominently featured with a towering 1/2
+page tall by 3 columns wide photo, sitting next to his computer screen
+displaying "der yiddisher tam-tam", the web page, in Netscape. Below
+this photo was the headline: "Can Yiddish survive?  Experts kibbitz
+about uncertain future of the ancient language".
+
+Aaron Lansky and Samuel D. Kassow were quoted as well as shown on the
+continuation page in file photos, and Mordkhe Schaechter was also
+quoted. The article also referred to Ruth Wisse's "Shule Daze" article,
+and quoted from it, but did not offer any new quotation from her.
+YiddishNet and Virtual Shtetl got mentions, as did Mendele's "more than
+1,000 subscribers in 24 countries".
+
+It was all in all a fairly well done piece.  And balanced: not a wildly
+enthusiastic Yiddish-is-blooming kind of thing, but not a yizker service
+kind of thing either.
+
+I'm glad to see our shames gain some deserved recognition.  Mendele is
+among the world's finest publication about Yiddish Language and
+Literature, on paper, in cyberspace, or otherwise, and Noyekh is the
+main reason for its great success.
+
+tsu noyekh: a yasher koyekh!
+
+tsu di abonenten fun mendele vinsh ikh aykh ala a gmar khasime toyve un
+a laykhtn fast,
+
+Mark David (Meyer)
+Boston
+
+[Zogt der shames: a sheynem dank meyern ober loybn iz beser di
+mendelistn velkhe _shraybn_.  Ven nisht zey volt dokh fun Mendele
+gornisht geveyn.. nm]
+
+______________________________________________________
+End of Mendele Vol. 6.066
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

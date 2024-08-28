@@ -1,0 +1,175 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 149
+January 31, 1993
+ 
+1) Truth in advertising (Martin Davis)
+2) Afn Shvel and Forward (Seymour Axelrod)
+3) Kestlikh (Bob Werman)
+4) Buried Dogs (Bob Rothstein)
+5) Call for papers (Rosemary Seton/Leonard Prager)
+
+1)----------------------------------------------------
+Date: Tue, 26 Jan 93 16:22:37 -0500
+From: davism@turing.cs.nyu.edu
+Subject: truth in advertising
+
+There used to be a restaurant in Berkeley called Balabosta.
+
+Martin Davis
+
+2)----------------------------------------------------
+Date: 26 Jan 1993 22:45:50 -0500 (EST)
+From: Seymour Axelrod <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: Afn Shvel, Forward
+
+Some related questions, and one not.
+
+1.  In *Afn Shvel* No. 287-288, July-December 1992, a harsh
+review by M.B.B. (mem-beys-beys) of a transliterated
+Yiddish-English dictionary begins with a familiar
+expression: "Leygt zikh nisht kayn feygelekh in buzem!"
+What does this mean?
+
+2.  Later, the reviewer criticizes the transcription:  "Di
+transkriptsie?  Zi toyg af 'tish-un-nayntsik' (oder:
+[tof-shin-ayin-hey]-nayntsik)..."  From the context, it's
+clearly no compliment--but what does it mean?  There
+appears to be a pun on "tish" and "[tof-shin-ayin-hey]",
+ayo?
+
+3.  The authoritative (and acerbic) tone of the review
+reminds makes me suspect that M.B.B. is Mordkhe Schaechter.
+Can anyone on MENDELE confirm or deny?
+
+4.  Unrelated:  Who does Philologos in the English
+*Forward*?  Is it a MENDELEnik?  (Or -nitse?)
+
+--Shleyme
+
+3)----------------------------------------------------
+Date: Wed,  27 Jan 93 18:40 +0200
+From: RWERMAN%HUJIVMS.bitnet@YaleVM.YCC.Yale.Edu
+Subject: RE: kestlikh
+
+Beatrice Santorini writes:
+
+>Apropos Dvosye Bilik's query concerning "kestlikh" in a
+>description of the Tsenerene: i don't think it's related to
+>"gaystlikh", but rather to German "k"ostlich"---delicious,
+>enjoyable, outstanding (of food, and also metaphorically
+>used).
+
+and adds the speculation,
+
+>[Hence "af kest"?]
+
+I do not think that af kest, meaning board [as in room and
+...] is of that origin, but I am not sure what the origin
+was.
+
+When my friend was asked by a Mea Sh'arim dweller how a
+good Jewish boy got to University, my friend explained that
+he had gotten a "stipendia."  This appeared unfamiliar to
+the questioner so my friend went on to explain that it
+meant af kest without getting married, a concept that could
+be comprehended as kest was one of the awards a rich man
+gave his new son-in-law, board without having to work so he
+could devote himself to study of Torah [meaning g'mora].
+
+
+__Bob Werman    rwerman@hujivms.bitnet    rwerman@vms.huji.ac.il
+Jerusalem
+
+[Beatrice Santorini is not responsible for that parenthetic
+remark: I am.  I had "pencilled in" the remark as a
+reminder to look into the matter.  I did and decided not to
+use it.  Then I forgot and left it standing.  My apologies
+to all and particularly to Beatrice. nm]
+
+4)----------------------------------------------------
+Date: 27 Jan 1993 22:28:25 -0500 (EST)
+From: rar@titan.ucs.umass.edu
+Subject: Buried dogs
+
+The dog is buried not only in Hebrew and Yiddish, but also
+in Polish (tu jest pies pogrzebany), Russian (vot gde
+sobaka zaryta), Slovak (tu je pes zakopany), etc.  But the
+source is usually assumed to be German (da/hier liegt der
+Hund begraben).  Keith Spalding's _An Historical Dictionary
+of German Figurative Usage_ (Oxford:  Blackwell, 1959--),
+s.v. _begraben_, lists various old attestations and some
+theories of origin, including the notion that "dog" really
+means "treasure," since "it is believed that the hound of
+hell [_der Hoellenhund_, Cerberus] guards hidden
+treasures."
+
+Bob Rothstein
+
+
+5)----------------------------------------------------
+Date: Sun, 31 Jan 93 10:28:25 IST
+From: rosemary seton via lp <RHLE302@HAIFAUVM.BITNET>
+Subject: call for papers
+ 
+           Call for Papers for the
+
+     Abraham Nahum Stencl Memorial Volume
+ 
+1993 marks ten years since the death of the London Yiddish
+poet, Abraham Nahum Stencl (Avrom-Nokhem Shtentsl), and a
+Memorial Volume is being planned to honor his memory. This
+volume will include a catalogue of the Stencl Archive at
+SOAS (University of London), a subject and title index to
+_Loshn un lebn_, the journal founded and edited by Stencl
+for four decades, and essays on the life and work of
+Stencl, his circle, and on Yiddish culture in Britain
+generally.
+ 
+Articles (all of which will be refereed)
+on any of the following subjects will be welcomed:
+ 
+1.  The life and work of Abraham Nahum Stencl.
+
+2.  The journal _Loshn un lebn_.
+
+3.  Yiddish language, literature, press, theater, etc. in
+    Britain.
+
+4.  Yiddish mss. and rara in British libraries.
+
+5.  Yiddish writers in Berlin in the 1920s and 1930s (ANS
+    lived in Berlin from 1921 to 1936).
+
+6.  Stencl's Polish background -- Czeladz and the
+    surrounding shetls and towns, especially Bedzin and
+    Sosnovtse (Polish: Sosnowiec).
+
+7.  The British period in the lives of Yiddish writers
+    who settled permamently elsewhere.
+
+8.  The Yiddish-language labor movement in Britain;
+    the Bund representation in London; Shmuel Ziglboym
+    (Artur) {Samuel Ciegelbaum} (1895-1943).
+
+9.  Translations of the work of Stencl or of any other
+    Yiddish writer closely associated with Britain.
+
+10.  Any subject which touches upon Yiddish culture and has
+     a British dimension as well.
+ 
+Articles are to be in English, typed in Word Perfect 5.1 or
+in some program easily imported to WP5.1.  They should be
+submitted on diskette by 1 September 1993 or earlier to
+Leonard Prager, Department of English, University of Haifa,
+Haifa, Israel 31905.
+ 
+      Rosemary Seton, Archivist
+      Stencl Archive, SOAS (University of London)
+      Thornhaugh St., Russell Square.,
+      London WC1H OXG, England (UK)
+
+______________________________________________________
+End of Mendele Vol 2.149
+

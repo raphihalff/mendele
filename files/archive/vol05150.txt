@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.150
+October 24, 1995
+
+1) Khapn (David Sherman)
+2) Khapn (Eli Katz)
+3) Hob un bin (Khayem Bochner)
+4) Hob un bin (Judith Nadler)
+5) A second letter to Philologus (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Sun, 22 Oct 95 22:51:25 EDT
+From: dave@cai.lsuc.on.ca
+Subject: khapn / lak'khenen
+
+The song "Avreml der marvikher" has a line "arayn in tfise far lak'khenen
+a broyt" (i.e., sent to prison for stealing a loaf of bread).
+
+David Sherman, Toronto
+
+2)----------------------------------------------------
+Date: Mon, 23 Oct 1995 10:06:34 -0700 (PDT)
+From: katz@sonoma.edu2
+Subject: khapn
+
+At the risk of repeating something that someone may already have posted
+and that I may have missed, here are a couple of additions to the "khapn"
+discussion:
+
+1. "khap nit!" in the sense "Don't anticipate; let me finish speaking;
+you really don't know what I intend to say."
+
+2. "zikh khapn" to remember abruptly something one should have been aware
+of, e.g. "er hot zikh gekhapt az er hot ibergelozt dem shlisl in der
+heym."
+
+Eli Katz
+
+3)----------------------------------------------------
+Date: Sun, 22 Oct 95 23:09:22 -0400
+From: bochner@das.harvard.edu
+Subject: hob, bin
+
+David Herskovic asks about the difference between hobn and zayn in
+forming the past-tense. The brief answer is: you've summarized the facts
+pretty well, and there is no simple answer.
+
+But, since it's not much fun to leave it at that, here's some more
+detail. Most verbs use hobn 'have' to form the past tense. The ones that
+use zayn 'be' are a limited list, but that list includes some of the most
+important every day verbs, so verbs that use zayn aren't rare at all,
+even though the list is limited. (It's usually that way with the hard,
+irregular parts of grammar ;-) Here are the most common ones, broken down
+into some categories of meaning:
+
+motion:  geyn, loyfn, faln, flien, forn, kumen, shvimen, shpringen
+position: blaybn, zitsn, lign, shteyn
+other:   zayn, vern, vaksn, shtarbn, geshen, shlofn
+
+As you can see, they mostly fall into a couple of meaning-classes, but
+still you can't really predict which ones will take zayn, you just have
+to know it (or learn it;-). The list is pretty short, but then you have
+to add all the prefixed forms of these verbs, like avekgeyn, araynloyfn,
+onkumen, etc, and that makes it much longer.
+
+And then of course there's the question of dialect. Most dialects agree
+pretty well on most of this, but still, some people say "iz geshlofn" and
+others say "hot geshlofn". This means that while it's easy to list the
+common ones, since almost everybody agrees on those, it's harder to nail
+down a complete list, since there's disagreement. And then we have some
+dialects have simplified the whole system, and use hobn for everything:
+"hob geven", "hob gegangen".  I just met some one (from Grodne?) who
+talks that way.
+
+David writes: "I am not sure if every 'bin' becomes a 'zenen' when
+pluralised." This is one complication you don't have to worry about, I
+don't think. Some people say "zaynen" instead of "zenen", of course, but
+whatever forms your dialect has for 'to be', those should be the forms
+you use in making the past tense. Unless of course it's a verb that uses
+"hobn"!  I haven't heard of any complications in this respect. So far,
+anyway!
+
+Khayem Bochner
+
+4)----------------------------------------------------
+Date: Mon, 23 Oct 1995 14:17:53 -0500
+From: judi@midway.uchicago.edu
+Subject: hob, bin
+
+I think it depends on whether the associated verb is "transitive" (can
+have a direct object) or "intransitive" (cannot have a direct object).
+Bin", "is", "zenen", is used with intransitive verbs (geshtanen/gekimen);
+"hob", "hot", "hobn" is used with transitive verbs
+(gegeyben/genimen/gezokt).
+
+Judith Nadler
+
+5)----------------------------------------------------
+Date: Mon, 23 Oct 95 18:33 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Philologus: Mea culpa but you still don't get it!
+
+[Mikhl Herzog's letter to Philologus (5.131) was answered in the Forward
+(10/20/95) though the letter's provenance is not mentioned.  nm]
+
+Dear Phil (is it OK if I call you Phil?):
+
+1. _You_ were right! _I_ was wrong! _I_ should apologize!
+
+Sholem Aleykhem _didn't_ call himself _a zhargonisher shrayber_ in his
+epithet, and he _didn't_ say it in his will. Did I just make that up? I
+don't think so. I'm somewhat constrained in conducting a full search now,
+but I'm looking for my source.
+
+2.  _You_ were right? _I_ was wrong? _I_ should apologize?
+
+_Nowhere_ did I say that the Yiddish term (_zhargon_) "originally had no
+such pejorative sense".  _You_ made that up.  _You_ should apologize!  Do
+you?
+
+3. Your interpolation into the citation in my letter is
+
+a) _wrong_ and
+b) apt to be attributed to me.
+
+The Czernowitz Conference of 1908 _did not_ "proclaim Yiddish to be the
+'national language of the Jewish people, supreme even over Hebrew". You
+missed the point. The Conference proclaimed Yiddish to be "_A_ national
+language of the Jewish people".  Say you're sorry!
+
+4. What does your term "Yiddish lovers" mean? It sounds disparaging. Are
+you a "Yiddish lover"? 'fess up! There are many kinds of Yiddish lovers,
+often of different ideological bent, and not all of them have trouble
+with the fact that Sholem Aleykhem raised his own children in Russian.
+
+By the way, do you really _know_ his children couldn't read him in
+Yiddish? (Have you checked with Bel Kaufman?)  After all, I _knew_ that
+he called himself _a zhargonisher shrayber_, and I may just have been
+wrong.
+
+5. I'm only a linguist and lay no claim to a literary sensibility. Yet, I
+can't believe that you interpret the opening lines of Sholem Aleichem's
+_Ayznban Geshikhtes_ as a reflection of his  disparagement of Yiddish,
+rather than as a satirical acknowledgment of the "received" intellectual
+climate of his time (about which there is no dispute). All the Yiddish
+writers of the 19th century had to struggle to overcome these
+intellectual barriers when they turned to writing in Yiddish. Reading
+their apologias is instructive. But turn they did. Incidentally, do you
+count Mendele and Sholem Aleykhem among the "lovers of Yiddish"?  What
+about Bialik?
+
+6. Finally, you suggest of Sholem Aleykhem that Yiddish "was not
+considered by him to be quite on a par with the great culture-bearing
+languages of Europe". It would be instructive to know what you think. Was
+it?  Is it?
+
+There's more but who's got the time? I'm still a loyal reader, but I have
+to get back to finishing Volume III of the Atlas. (Volume II is off the
+press!)  Soon, we'll be able to spar some more.
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 5.150
+

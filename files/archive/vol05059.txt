@@ -1,0 +1,118 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.059
+July 19, 1995
+
+1) Origins of Yiddish (Dovid Braun)
+2) Origins of Yiddish (Alice Faber)
+
+1)----------------------------------------------------
+Date: Wed, 19 Jul 1995 00:00:02 EDT
+From: dovid@mit.edu
+Subject: Origins of Yiddish
+
+It seems to me that, Max Weinreich's chef d'oeuvres notwithstanding,
+we're still quite far away from understanding where/when/how Yiddish
+originated. Yiddish should provide a tremendous source of indirect
+evidence for the history of Ashkenazic Jews over the past millenium.  It
+seems almost trivial to state, but the fact is that hardly anyone has
+taken up the call.
+
+This is my brief overview, to be taken with a grain of salt since I
+haven't spent much time researching the issues (although thinking about
+them - yes):
+
+1. Weinreich's hypothesis places a lot of weight on a mere handful of old
+(apparent) Romanisms.  Therefore the "Romance component" is highly
+controversial.  (The -s plural in certain morphophonological environments
+in Yiddish is nearly identical to that of Dutch -- and I'm not familiar
+with a claim that Dutch got *its* -s [in those specific environments]
+from Romance -- although that might just be my ignorance.) The -es plural
+marker is more complicated, and it is most common on nouns of Slavic
+origin.  Its appearance is thus an even later development which under
+nobody's theory could be a direct borrowing from the Old French of
+centuries before.
+
+2. King's and King/Faber's proposals have interesting and strong
+supporting evidence (regional _ets_, for instance, which is probably
+related to Bavarian _o"s_), but there too there are only a handful of
+facts (albeit strong ones) pointing to Bavaria.  When the depth and the
+breadth of the _Language and Culture Atlas of Ashkenazic Jewry_ become
+available to us, for instance, we will be no doubt see other traits of
+Eastern Yiddish which are strikingly similar to other regional,
+non-Bavarian, German traits.  (Of course, these things may be found in
+the already existing literature to a certain extent, but the Atlas has
+them arranged systematically and was a systematic investigation of
+these questions, not an anecdotal one as was the bulk of the
+investigations preceding it.)
+
+3. Katz's Aramaic-speaking people are not documented.  They may have
+existed "logically," but we need more evidence.  And since we have no
+direct evidence of their existence, we are even farther away from knowing
+what their Aramaic was like -- which makes any assertion about the effect
+of *that* language on Yiddish highly problematic.
+
+4. Wexler's theory.  I'm only familiar with it second- or third-hand so I
+have nothing to say about it.
+
+Back to my first paragraph:  these questions are glaring.  As I was
+saying to a friend -- a Jewish historian -- a few days ago:  the fact
+that much Eastern Yiddish kinship terminology for the nuclear family is
+of Slavic origin *logically* has tremendous meaning.  (I'm talking about
+_tate/pape, mame, bobe, zeyde_.)  By "logically" I mean that it provides
+indirect evidence for overwhelming contact between Slavs and Jews, or at
+least contact between Jews from Germanic lands and speaking a Germanic
+language with Jews from Slavic lands speaking a Slavic language.
+(Imagine:  Jews from Germanic countries move eastward, marry into and
+politically/culturally overtake the "Knaanic" families already on Slavic
+territory and speaking a Slavic language.)  Historians may be wary of the
+value of this type of indirect evidence but, as Mikhl Herzog said,
+"bemokem sheeyn ish iz hering oykh a fish." On second thought, let me
+delete the apologetics:  indirect evidence can be *very* strong,
+sometimes even stronger than a contextless and/or questionably reliable
+document.  It takes a considerable disruption of the status quo for
+kinship terminology of a language to undergo change.
+
+Dovid Braun
+
+2)----------------------------------------------------
+Date: Tue, 18 Jul 1995 23:59:57 -0400
+From: faber@haskins.yale.edu
+Subject: Origins of Yiddish
+
+Ellen Prince makes some important points with regard to how we should
+approach investigating Yiddish origins. I don't have anything to say
+about syntactic and semantic (structural) influences, though I agree that
+this would be an interesting and worthwhile avenue to pursue. With regard
+to history, however, I'd like to second Ellen's suggestions about the
+intersection of Germany, Austria, and Italy as a possible "homeland". I
+think that this makes a whole lot of sense. However, I think it's very
+hard to find evidence that would convince a skeptic. The reason for this
+is simple: some of the earliest evidence we have for Jewish settlement
+patterns in Europe comes from charters granted Jewish communities by the
+Roman Catholic Church (like that for Cologne). Other varieties of early
+Christianity (e.g., Arian) were much more tolerant of diversity, and
+perhaps wouldn't have bothered to grant a formal (potentially
+preservable) charter. Live and let live. Now the important thing to note
+is that many of the Germanic tribes converted first to Arian rather than
+Roman Christianity. It was only when the Arian "heresy" was (officially)
+suppressed that these areas fell under the Roman Church. So there
+probably wouldn't be early documentation of Jewish communities in Greater
+Bavaria. There's some evidence internal to the history of Yiddish and
+Yiddishkeit for population concentrations in Bohemia (rabbis that Rashi
+corresponded with/cited). I heard once that the "New Synagogue" in Prague
+dates from the 16th century, and if you take the name seriously, that
+assumes that there was at least one older synagogue. Etc.
+
+This is getting too stream of consciousness, but, one more and then I'll
+stop. I once outlined this whole problem to a colleague of mine who
+specializing in Medieval Europe. He looked at me like I was nuts for
+thinking this was a problem; "Obviously," he said, "a lot of people
+converted."
+
+Alice Faber
+
+______________________________________________________
+End of Mendele Vol. 5.059
+

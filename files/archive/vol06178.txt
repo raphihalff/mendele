@@ -1,0 +1,127 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.178
+January 2, 1997
+
+1) Slavic influence on Yiddish syntax (Miriam Isaacs)
+2) Slavic influence on Yiddish syntax (Hugh Denman)
+3) Grine verem (Sema Chaimovitz Menora)
+
+1)----------------------------------------------------
+Date: Wed, 1 Jan 1997 13:02:09 -0500 (EST)
+From: miriamis@gwis2.circ.gwu.edu
+Subject: Slavic influence on Yiddish syntax
+
+In reply to Hugh Denman's remarks [6.176] on the reflexive in Yiddish
+being limited to 'zikh' it should be remembered that this is not true of
+all dialects of Yiddish, and in some dialects the reflexive does agree
+with the subject.
+
+Miriam Isaacs
+
+2)----------------------------------------------------
+Date: Thu, 2 Jan 1997 15:35:03 +0100 (MET)
+From: h_denman@maier.vol.at
+Subject: Slavic influence on Yiddish syntax
+
+I have a sinking feeling that on this topic we may be beginning to bore our
+fellow Mendelyaner by talking too much about German and in excessively
+technical detail. I also feel that Ellen has already formulated a consensus
+we can all agree on, at least provisionally, in the last paragraph of her
+most recent communication [6,177. 3]. However, since I have been asked some
+specific questions by both Joachim and Ellen [6,177. 2 & 3], I'll try and
+answer them as briefly as I can.
+
+It was never my intention to claim that the sequence of tenses rules in
+German and the Romance languages are identical. The German rules are at once
+more fluid and more complex. What is important in this context is simply
+that in German there ARE rules that, at the very least, PERMIT using a more
+remote tense in indirect discourse and in older and more literary German
+REQUIRE it, whereas in Yiddish and Slavic the ONLY rule is that the tenses
+of direct and indirect discourse are identical:
+
+"Ich schreibe einen Brief." - Er sagte, er schriebe (schreibe) einen Brief.
+"Ich habe einen Brief geschrieben." - Er sagte, er haette (habe) einen Brief
+geschrieben.
+"Ikh shrayb a briv." - Er hot gezogt, az er shraybt a briv.
+"Ikh hob geshribn a briv." - Er hot gezogt, az er hot geshribn a briv.
+"Pisze list." - On powiedzal, ze pisze list.
+"Napisalem list" - On powiedzal, ze napisal list. (Once again I apologise
+for the loss of diacritics: the e of the first-person "pisze" should, of
+course, be imagined as having an ogonek etc., etc.)
+
+Similarly Ellen's "Er hot mir gezogt, az er vet avekforn." will in German
+be: "Er sagte mir, er werde wegfahren." As in Yiddish, this does not tell us
+whether he has done so yet or not, but unlike both Yiddish and Slavic it
+does not replicate the tense (or, in this case, mood) of the direct speech.
+On the other hand, one could say (somewhat as in Ellen's American English
+examples): "Er hat mir gesagt, dass er wegfahren wird." which is somewhat
+colloquial, but more precise in that one then knows that he is still here.
+And I don't, of course, dispute for a moment that Joachim's 'Er hat gesagt,
+dass er es nicht kann' is perfectly acceptable in a contemporary colloquial
+style.
+
+Unlike Ellen, I can't claim to be a "modern syntactician", which perhaps
+explains why I have some difficulty with metaphyical distinctions between
+"surface phenomenon" and "underlying level".
+
+Ellen enquires about the meaning of "Er sagte mir, dass er krank ist." It
+does mean: "He told me that he was (and still is) sick." and does not mean:
+"He told me that he was (but no longer is) sick." (which would be [in the
+equivalent register] "..., dass er krank war."). "Interestingly the various
+alternative possibilites, including "..., er sei krank (gewesen)." and "...,
+er waere krank (gewesen)." not only belong to differing stylistic registers
+but also convey mounting degrees of scepticism as to the veracity of the
+reported indisposition.
+
+I'm afraid that in my present rural retreat I don't have to hand a copy of
+Luther's Bible (which is, incidentally, not that easy to find, since it is
+very different from the so-called Luther-Bibel now used in Lutheran
+churches) so it is difficult for me check my distinct recollection that at
+least the 1534 version has word order that is at times reminiscent of
+Yiddish. However, the "Kleine Enzyklopaedie Deutsche Sprache" (Leipzig,
+1983) helpfully illustrates my point by quoting Matth. 18:10 first from
+Luther's 1522 NT translation: "Sehet zu, das yhr nicht verachtet yemand von
+disen kleynen", and then from his revised 1546 translation of both
+testaments: "Sehet zu, das yhr nicht jemand von diesen Kleinen verachtet",
+and we see the change taking place before our eyes. At the same time it must
+be said that even today reality is much more complex than the school
+grammars would have us believe. Thus there is a phenomenon that Germanists
+often refer to as "Ausklammerung", a kind of common-sense recidivism that
+puts parts of the sentence (especially if somewhat verbose) back into the
+position following the past participle, the dependent infinitive or the
+separable prefix. E.g.: "Vieles hatte Glum schon gesehen auf seinem Weg von
+seiner Heimat bis ueber den Rhein hinweg" (Heinrich Boell). This tendency is
+even stronger in German dialects and in everyday conversation. It is my
+suspicion that this represents the real "underlying" German word-order,
+smothered in the standard literary language from the 17th to 19th centuries
+but constantly resurfacing in more natural contexts and, of course,
+reflected in Yiddish that was never subject to German academism (at least in
+matters such as these).
+
+I have every sympathy with Mendelyaner who find the above somewhat tedious.
+I didn't realise where my earlier comments were leading. On the other hand,
+it seemed impolite to ignore questions put directly to me.
+
+Hugh Denman
+London
+
+3)----------------------------------------------------
+Date: Wed, 1 Jan 1997 16:45:17 -0500
+From: lights4607@aol.com
+Subject: Grine verem
+
+I really opened up a can of worms with my original request for the
+origins of "grine verem."   And I thank everyone for their interesting
+postings on this issue. With reference to Hugh Denman's concern about
+why "grine" modifies worms and gall,(vol. 6 177), it _would_ be
+interesting to know why "grine" varem is used.  As to gal (gall), I
+understand that it does have a greenish color to it, as opposed to the
+yellow that H. Denman suggests.
+
+Sema Chaimovitz Menora
+
+______________________________________________________
+End of Mendele Vol. 6.178
+

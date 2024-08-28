@@ -1,0 +1,212 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.131
+October 8, 1994
+
+1) Ravel's Chants Hebraiques (Ruben Frankenstein)
+2) Yiddish software (Stanley Werbow)
+3) Yidish un kompyuters (Peter Kluehs)
+4) The Film: Ivan and Abraham (Jesse C. Rabinowitz)
+
+1)----------------------------------------------------
+Date: Sat, 8 Oct 1994 11:52:35 +0100 (MEZ)
+From: frankens@mibm.ruf.uni-freiburg.de
+Subject: Ravel's Chants Hebraiques
+
+Daniella HarPaz asks about the text of two songs set by Maurice Ravel.
+This deserves a longer answer, since we have here to do with one of the
+greatest masterpieces of jewish music. With the term Jewish music I mean,
+music dealing with jewish themes and motives regardless of the composer`s
+descent.
+
+The first encounter of Maurice Ravel with jewish folklore was 1910 as he
+wrote his "Chants Populaires" with folksongs of dif- ferent languages,
+one of them he called "Chanson Hebraique" though its main language was
+Yiddish. It is the popular song "MEYERKE".
+
+The text of the song is:
+
+Meyerke mayn sun, Meyerke mayn sun!
+zi weystu far vemen du shteyst?
+-Lifney meylekh malkhey hamlokhim, tatenju.
+
+Meyerke mayn sun etc.
+vos vestu oysbetn bay im?
+-Boney, khajey, mzoney, tatenju.
+
+Meyerke mayn sun etc.
+oyf vos darfstu boney?
+-Bonim oyskim batoyre, tatenju.
+
+Meyerke mayn sun etc.
+oyf vos darfstu khajey?
+-Kol hakhayim joydukho, tatenju.
+
+Meyerke mayn sun etc.
+oyf vos darfstu mzoney?
+-ve`okhalto ve`sovoto uvejrakhto, tatenju.
+
+The original song contains another strophe:
+Meyerke mayn sun etc.
+zi veystu ver du bist?
+-Hineni he`oni mima`as, tatenju.
+
+4 years later Ravel again dealt with jewish motives writing his "Deux
+Melodies Hebraiques" and again the term hebrew was not the correct one.
+The first "Kaddisch" is mainly aramaic and is the original text of the
+Kaddish prayer. The second is this wonderful philosophical meditation
+"Fregt di velt di alte kashe" - a mid- stage between a song and a
+wordless Nigun, conserving the riddle in the intonation of the answer
+without words.
+
+Fregt di velt an alte kashe:
+
+Tra-la tra-di-ri-di-rom - -
+entfert men: Tra-di-ri-di-rey-lom,
+oy-ey, tra-di-ri-di-rom!
+Un az men vil, ken men oykh zogn:
+Tra-i-dim?
+Blaybt dokh vayter di alte kashe:
+Tra-la tra-di-ri-di-rey-lom.
+
+Do I have to write the translation or interpretation? I believe they are
+clear. You find the text and partiture in:
+
+Fritz Mordechai Kaufmann: "Die schoensten Lieder der Ostjuden",
+Berlin 1920, 1935, Jerusalem 1971.
+
+Menachem Kipnis: "Hundert Folks-lider" Buenos Aires 1949.
+
+And I believe also in the 4-volume "Anthology of Yiddish Folksong"
+edited by Aharon Vinkovetzki and others, Jerusalem.
+
+Also, at least one of the two (Meyerke) in: Nathan Ausubel`s
+"A treasury of jewish folklore", New York.
+
+If more information or details are needed I shall be glad to
+add.
+
+Ruben Frankenstein
+
+2)----------------------------------------------------
+Date: Sat, 8 Oct 1994 11:16:17 -0500
+From: s.werbow@mail.utexas.edu
+Subject: Yiddish software
+
+Many thanks to Mordechai Steve Seidman for the fine catalog of
+Hebrew/Yiddish software sources. This emboldens me to ask him or others
+the following question. I have an old Yiddish word processing program
+called Mouse-Write which came out of the Hillel at Harvard (I think). It
+worked fine on Mac system 6. Now I have a Power Mac with System 7.0.2, on
+which the program writes fine on the screen, but does not print out. Is
+there some way to get the printer to function? Grateful for any help.
+
+Stanley Werbow
+
+3)----------------------------------------------------
+Date: 08 Oct 1994 19:57:00 +0200
+From: pete@pko.rhein-main.de
+Subject: Yidish un kompyuters, a por entfers
+
+tsurik fun di vakatsyes in Bavarye mit naye koykhes un hanoe tsu leyenen
+di mendele brivn un shraybn a por entfers!
+
+far d. jacobowitz
+-----------------
+a sheyner hebreisher editor iz Hebrew-Edit. s'iz shareware un kost bloys
+US$ 19. er hot nikud un vet farkoyft fun right to left software, toronto,
+ontario, canada. in mendele No. 4.099 hob ikh geshribn vu men ken
+aroplodn dem editor.
+
+far m.s. seidman
+----------------
+in ayer reshime fun wordprocessors far yidish hob ikh nisht gefunen dem
+Hebrew-Edit. er iz veyniker shver un mer volvl vi ale editorn vos ir hot
+bashribn.
+
+far e.q. feins
+--------------
+ayer tate hot avade geredt fun a 'bashefenish' vos in english iz a
+creature. agev, s'iz nokh faran dos daytshishe vort 'beschaffen' mitm
+taytsh 'gemakht'.
+
+far l. botwinik
+----------------
+ayern barikht #1 vegn dem tzenter far yidish un tekhnologishe naywarg hob
+ikh geleyent mit a shtarkn interes. ikh volt gevolt aykh helfn mit ayer
+vikhtikn arbet. lemoshl, oyb ir hot plener ajnshteln a database far
+yidishe literatur, ikh volt kopirn hebreishe tekstn mit mayn hebrew-edit.
+di files vos men bakumt azoy lozn sikh gut aynshpaykhlern in a database.
+mir hobn nor nokh dos problem, az dos internet ken nisht transmitirn di
+diakritishn oysyes fun hebrew-ascii. efsher iz do shoyn a program kedey
+tsu transliterirn hebrew-ascii in latin oysyes. ver git unds do an eytse?
+
+peter kluehs
+
+4)----------------------------------------------------
+Date: Sat, 8 Oct 94 13:20:35 PDT
+From: panisse@mendel.berkeley.edu
+Subject: The Film: Ivan and Abraham
+
+The film "Ivan and Abraham" by the French director Yolande Zauberman was
+recently shown in the Bay Area.  It is described by Leah Garchik in a
+review in the SF Chronicle as a "movie about the friendship between two
+boys in a shtetl near the Polish border in 1930 (in which) a full picture
+of life in the Pale emerges."  I found the film to be an exceptional
+achievement in many areas, and would like more information about it.
+
+Where was the film made?  Has Yolande Zauberman made other films?  What
+is her background?  Was the shtetl totally recreated, or were existing
+buildings used?  None of the actors or actresses were familiar to me.  I
+would like to know who they were and whether they were professional or
+not.
+
+Parts of the story were difficult for me to follow.  This could result
+from the fact that I don't know very much about the culture pictured, or
+that the subtitled English version was badly cut, or that the film maker
+is at fault.
+
+For example:  what is Ivan's relationship to the Nachman family?  The
+subtitles indicate only that he is an "apprentice" and must leave the
+family because he is too old.  I didn't understand the spoken dialogue at
+that point and was not able to recognize the original word translated as
+"apprentice."  And if he was indeed an apprentice, what was the skill he
+was learning in the Nachman household?
+
+I was somewhat confused by various scenes and dialogue related to the
+Mother.  She seemed too young to be the Mother of Rachel.  What was the
+significance of her statement that she like men, but not her husband?  I
+did not understand the the reference to the dress by Rachel and her
+Mother.
+
+I would appreciate information about the film, the players, the maker,
+and the specific points I have mentioned above concerning the story.
+
+Jesse C. Rabinowitz
+
+______________________________________________________
+End of Mendele Vol. 4.131
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

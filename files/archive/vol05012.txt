@@ -1,0 +1,305 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.012
+May 24, 1995
+
+1) Russian-Yiddish dictionary (Iosif Vaisman)
+2) Oyf di Idishe Felder fun Ukraine (Iosif Vaisman)
+3) More about "melupm kind" (Tomer Bendovid Shiloach)
+4) Yablokoff's autobiography (Harold Black)
+5) Yiddish at Yad Vashem (Morrie Feller)
+
+1)----------------------------------------------------
+Date: Mon, 22 May 1995 20:38:41 -0400 (EDT)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Russian-Yiddish dictionary
+
+To Jack Feldman:
+
+The Russian-Ukrainian-Yiddish mathematical dictionary
+
+|   AUTHOR: Instytut ievreiskoi proletarskoi kultury (Akademiia nauk
+|           Ukrainskoi RSR)
+|    TITLE: Matematishe terminologye.
+|    PLACE: Kiyev,
+|PUBLISHER: Melukhe-farlag far di Natsyonale Minderhaytn in USRR,
+|     YEAR: 1935
+| PUB TYPE: Book
+|   FORMAT: 119 p. 23 cm.
+|    NOTES: At head of title: Institut far Yidisher Proletarisher Kultur ba
+|           der Ukraynisher Visnshaftlekher Akademye, Filologishe Sektsye.
+|           Added t.p.: Matematychna terminolohiia.
+|           The terms are in Russian, Ukrainian and Yiddish.
+|  SUBJECT: Mathematics -- Dictionaries -- Polyglot.
+
+is still available at the UC Berkeley library. Call QA5 .A51.
+
+Iosif Vaisman
+
+2)----------------------------------------------------
+Date: Mon, 22 May 1995 21:20:54 -0400 (EDT)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Oyf di Idishe Felder fun Ukraine
+
+To Ben Alpers:
+
+Issachar Ryback (1897-1935), Jewish artist and book illustrator,
+b. in Lithuania, d. in Paris.
+
+Book in question:
+
+|   AUTHOR: Ryback, Issachar, 1897-1935.
+|    TITLE: Sur les champs juifs de l'Ukraine /
+|    TITLE: Oyf di Idishe felder fun Ukreyne : bilder.
+|    PLACE: Paris :
+|PUBLISHER: A. Simon,
+|     YEAR: 1926
+| PUB TYPE: Book
+|   FORMAT: 15 p. : plates ; 38 cm.
+|    NOTES: "Il a ete tire de cet ouvrage cinquante exemplaires sur papier
+|           Holande B.F.K., numerotes de 1 a 60.  Trois cents exemplaires sur
+|           papier Japon, numerotes de 51 a 350."
+
+
+Other books:
+
+|   AUTHOR: Ryback, Issachar, 1897-1935.
+|    TITLE: J. Ryback /
+|    PLACE: Paris :
+|PUBLISHER: Ed. de l'Amitie Francaise,
+|     YEAR: 1934
+| PUB TYPE: Book
+|   FORMAT: [55] p. : ill. ; 24 cm.
+
+|    TITLE: Yissakhar Ber Ribak :
+|           zayn lebn un shafn /
+|    PLACE: Pariz :
+|PUBLISHER: Komitet tsu fareybikn dem ondenk fun Yissakhar-Ber Ribak,
+|     YEAR: 1937
+| PUB TYPE: Book
+|   FORMAT: 93 p., [32] leaves of plates : ill. (1 col.), ports. ; 34 cm.
+|    NOTES: Legends in French.
+
+|   AUTHOR: Smolar, Boris, 1897-
+|    TITLE: Kindervelt
+|    PLACE: Varshe :
+|PUBLISHER: Kinderfraynd,
+|     YEAR: 1938
+| PUB TYPE: Book
+|   FORMAT: 16 p. : ill. ; 18 cm.
+|   SERIES: Kinder fraynd: Bibliotek beys ; 3
+
+|   AUTHOR: Margolin, Miriam, 1896-1968.
+|    TITLE: Mayselekh far kleyninke kinderlekh
+|    PLACE: [New York? :
+|PUBLISHER: s.n.,
+|     YEAR: 1922
+| PUB TYPE: Book
+|   FORMAT: 12 p. : ill. ; 21 x 27
+
+|   AUTHOR: Margolin, Miriam, 1896-1968.
+|    TITLE: Little stories for little children /
+|    PLACE: Mt. Kisco, NY :
+|PUBLISHER: Moyer Bell Ltd.,
+|     YEAR: 1986
+| PUB TYPE: Book
+|   FORMAT: [32] p. : ill. ; 21 x 27 cm.
+|    NOTES: English and Yiddish.
+|           Translation of: Mayselekh far kleynike kinderlekh, with original
+|           Yiddish.
+
+|   AUTHOR: Kvitko, Leib, 1890-1952.
+|    TITLE: In vald
+|    PLACE: Berlin :
+|PUBLISHER: Shveln,
+|     YEAR: 1930
+| PUB TYPE: Book
+|   FORMAT: 15 p. : ill. ; 23 x 30 cm.
+
+|   AUTHOR: Choron, Rose, 1917-
+|    TITLE: Family stories :
+|           travels beyond the shtetel /
+|    PLACE: Malibu, CA :
+|PUBLISHER: Joseph Simon/Pangloss Press,
+|     YEAR: 1988
+| PUB TYPE: Book
+|   FORMAT: 125 p. : ill. ; 24 cm.
+
+|   AUTHOR: Kvitko, Leib, 1890-1952.
+|    TITLE: Foyglen /
+|    PLACE: [Yerushalayim] :
+|PUBLISHER: Universitah ha-Ivrit bi-Yerushalayim, ha-Makhon le-madae ha-
+|           Yahadut, ha-Hug le-Yidish,
+|     YEAR: 1983 1922
+| PUB TYPE: Book
+|   FORMAT: 15 p. : ill. ; 24 x 35 cm.
+|   SERIES: [Sofre Yidish be-Verit-ha-Moatsot]
+|           Reprint. Originally published: Berlin : Farlag "Shveln", 1922.
+
+
+Iosif Vaisman
+
+3)----------------------------------------------------
+Date: Mon, 22 May 1995 13:02:07 -0600 (CST)
+From: kruegetd@cnsvax.uwec.edu
+Subject: More about "melupm kind"
+
+Re: final n>m
+
+I am a physics major who has been dabbling with languages since about
+birth, having been raised in a yinglish speaking house with many
+[puertorrican] spanish [spanglish] speaking babysitters and family
+friends.  Anyways...about the final -n becoming -m, I think it is
+probably due to some kind of post-bilabial assimilation of the
+syllabicated nasal "-n".  This exact same phenomenon is found in the
+speech of most Germans, as in the word "haben" usually pronounced "habm",
+and by some simply "haamm" [say two m's there...] This at least is my
+analysis of their pronunciation, as best I can approximate it via ascii.
+As far as m before t becoming n, I think that is quite a common occurence
+in every language...even in english, where, especially within words, a
+nasal preceding [especially] a stop [whether voiced or not], assimilates
+to that stop.  [In english, I believe it is particularly common for the
+following stop to disappear if the stop is voiced.] Enough of my
+conjecture.
+
+Tomer Bendovid Shiloach
+
+4)----------------------------------------------------
+Date: Tue, 23 May 1995 08:58:38 -0400
+From: hb0001@epfl2.epflbalto.org
+Subject: Yablokoff's autobiography
+
+I've been asked by several people about the price of Yablokoff's
+autobiography, _Der Payatz_. The price of the book is 24.95 plus 2.50 for
+handling and shipping.  Bartleby Press 1-800-448-1076.
+
+Harold Black
+
+5)----------------------------------------------------
+Date: Tue, 23 May 1995 23:47:43 -0700 (MST)
+From: feller@indirect.com
+Subject: Yiddish at Yad Vashem
+
+I recently received a packet of brochures, a letter, and a membership
+card requesting that I join the American Society for Yad Vashem. Since
+the letter was written by a Mr. Ben Lerman, I returned the application
+and membership card explaining why I felt that I could not join this
+organization at this time, and I enclosed my translation of Dovid Braun's
+letter on the subject of Yiddish at Yad Vashem which appeared in Oyfn
+Shvel, No.297, P.19, Jan-March, 1995.  I think all Mendelniks should be
+made aware of this remarkable letter which I would like to post here and
+now. (Dovid has graciously not only agreed to my posting of his letter,
+but he has also supplied me with background material and a transliteration
+of his Yiddish version.)
+
+First, some background.  A number of issues ago, _Afn Shvel_ printed a
+letter by historian Dr. Adina Cimet de Singer as an editorial.  In this
+letter, Dr. Singer, a native speaker of Yiddish from Mexico and mother of
+two young girls whom she is raising in Yiddish, expressed her outrage
+over the fact that,upon a recent family visit to Yad Vashem, her family
+could not go on a guided tour of the grounds conducted in Yiddish because
+such did not exist, nor was there any willingness to provide it or to
+realize the value of such a service if it were made available.  (Guided
+tours were available in a whole host of other languages, including
+English, French, German, Hebrew, etc.)  A subsequent issue presented a
+letter in response by an anonymous writer who stated that the "Language
+War" (i.e. between Hebrew and Yiddish) was over, and one dare not rock
+the boat, i.e. the issue should not even be brought up.  Dr. Singer's
+reply was printed thereafter, to which Braun's letter is a further reply.
+Herewith, Braun's text:
+
+With regard to Dr. Adina Cimet de Singer's summons [_Afn Shvel_ No.291,
+pp.1-2; No. 295, pp. 19-20] not to exclude Yiddish from Yad Vashem, allow
+me to add the following to her rebuttal to the anonymous critic:  The
+very existence of Yad Vashem is based on ideology, philosophy, ethics,
+symbolism, morality -- that is to say, "non-practical things".  No one
+was forced to erect a memorial to the victims of the Holocaust for
+"practical" reasons, let alone a whole institute dedicated to them.  This
+was purely an act of the spirit.
+
+As such, the question is then: how is Yad Vashem fulfilling its spiritual
+duty if it denies a certain segment of Jewry access to the Holocaust,
+namely, Yiddish-speaking Jews?
+
+Of course one might argue that all contemporary speakers of Yiddish know
+some other language anyhow, so one may ignore Yiddish.  Then a further
+question arises: how is Yad Vashem fulfilling its spiritual duty when it
+discriminates (even if "only" symbolically) against the language of those
+murdered (whose memory it is Yad Vashem's goal to preserve) and against
+their heirs -- us?
+
+Herewith is Braun's original Yiddish text:
+
+In shaykhes mit Dr. Adina Tsimet Zingers ruf [_Afn shvel_ 291: 1-2;
+295:19-20] nit oystsushlisn yidish fun Yad-vashem, derloybt mir tsu
+derleygn ot vos tsu ir opentfer dem anonimen kritiker:
+
+Di etsem eksistents fun Yad-vashem iz bazirt af idealogye, filosofye,
+etik, simbolik, moral -- s'heyst: "nit keyn praktishe zakhn".  Keyner iz
+nit geven geneyt tsulib "prakishe" taymim uftsushteln an ondenk di
+korbones fun khurbm -- shoyn opgeredt fun a gantsn institut.  Dos iz
+hoyle rukhnies. Un vi bald az rukhnies, fregt zikh:  vi azoy derfilt der
+yad-vashem zayn gaystike ufgabe, az er farshtelt dem tsutrit tsum khurbm
+far a teyl yidn, dehayne:  yidish-reydndike?
+
+Ay, ale yidish-reydndike yidn kenen ba hayntikn tog an ander loshn say
+vi, meg men bekheyn ignorirn yidish?  Fregt zikh vayter:  vi azoy zhe
+derfilt der yad-vashem zayn gaystike ufgabe, az er diskriminirt (afile
+ven "nor" simbolish) kegn dem loshn fun di umgekumene (vemens ondenk s'iz
+dokh zayn tsil uftsuhitn) un kegn zeyere yorshim -- undz?
+
+I also indicated to Mr. Lerman that I would consider joining the society
+if it would take steps to correct this mistake in a proper and suitable
+manner.  If any Mendelniks would like to add their voice to Dovid's and
+mine, they can write to the chairman of the American Society for Yad
+Vashem, Mr. Eli Zborowski, 48 W. 37th St. - 9th Floor, New York, N.Y.
+10018.
+
+Morrie Feller
+Phoenix, Arizona
+
+______________________________________________________
+End of Mendele Vol. 5.012
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

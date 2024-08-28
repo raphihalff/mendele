@@ -1,0 +1,170 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.165
+December 14, 1993
+
+1) Yiddish grammar (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Mon Dec 13 15:52:32 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: yiddish grammar
+
+To: marnen laibow-koser
+
+i appreciate your very rational peace-making post, but would like to
+make a few comments in the hope of clarifying some points.
+
+>The recent debate about verb-first construction is, in fact, a
+>perfect example. Those who claimed that it was always incorrect were
+>flying in the face of established evidence, trying to remold the
+>data to fit the hypothesis instead of the other way around.
+
+ales heyst a 'hypothesis'.
+
+hypothesis: a tentative investigation that accounts for a set
+of facts and can be TESTED BY FURTHER INVESTIGATION; a theory.
+(american heritage dictionary, 3rd ed. emphasis mine.)
+
+as you no doubt noticed, there was no possibility of testing the
+claim made here by the bermans; rather, we were supposed to take
+a line from a 1st year language textbook as irrefutable fact.
+just wanted to point that out...
+
+> Perhaps because Yiddish is primarily a
+>spoken language, the rules seem to be looser in Yiddish than in,
+>say, Latin, but that doesn't mean they don't exist. However,
+>precisely because the rules *are* loose, we must be very careful
+>about saying "always" and "never".
+
+first, EVERY natural living language is 'primarily a spoken
+language'. a very tiny percentage of the world's natural languages
+also have a literary tradition, and yiddish is in fact one of these.
+however, having a literary tradition is really irrelevant to whether
+a language has a grammar. EVERY NATURAL LANGUAGE HAS A GRAMMAR. or
+as many grammars as it has dialects. the grammar of a language
+resides in the head of the person who speaks it. how else could we
+explain one's ability to produce and understand sentences never
+before uttered? a parrot memorizes a bunch of 'sentences'; people
+don't. rather, we memorize a bunch of words and then we somehow
+infer a bunch of rules/strategies/patterns/whatever for how we may
+combine those words to form the possible utterances of the language.
+we call those rules/strategies/patterns a 'grammar'.
+
+the task of the contemporary yiddishist, then, would be to figure
+out what those rules/strategies/patterns in a yiddish speaker's head
+are. several issues arise here.
+
+first, in whose head should we look? i.e. different yiddish speakers
+have different grammars; which one(s) should we try to investigate?
+in one sense, the answer is simple and non-controversial: only the
+yiddish of NATIVE speakers can give us insights into what the
+grammar in a REAL yiddish speaker's head looks like. you and i and
+all the others whose competence in yiddish is as semi-speakers,
+adult language learners, passive bilinguals, etc. cannot possibly be
+trusted to produce the necessary sort of data for such study, since
+the one thing we know about the yiddish grammars in our heads is
+that it is significantly different from those we would consider
+native speakers of yiddish. ok, so we take as data the output of
+native yiddish speakers, those who acquired the language at the
+normal time (early childhood) and in the normal way (in a yiddish
+speech community). (what constitutes a yiddish speech community is
+itself an interesting sociolinguistic question that i won't pursue.)
+
+so now for the next issue: WHICH native yiddish speaker's yiddish
+output should be taken as data? here the issue is socio-political,
+not linguistic. from a linguistic point of view, any and all native
+dialects are well-formed, rule-governed, equal in all (linguistic)
+respects. from a socio-political view, some are better than others.
+the point i wish to make here is that we must not confuse what a
+linguist would call 'bad yiddish', i.e. the yiddish of someone who's
+not a native speaker, with what a layperson might call 'bad
+yiddish', i.e. the yiddish of a native speaker of a socially
+stigmatized dialect.
+
+now to yiddish grammar per se. it's simply not true that it's
+'looser' than, say, latin grammar. or than any other grammar, for
+that matter. of course, we, as modern english speakers, have very
+little acquaintance with latin and what we may know of it typically
+involves the dialect of a tiny handful of speakers (caeser, cicero,
+livy, virgil...), so we may think that it's very monolithic, but of
+course, when it was a living language, it had the same range of
+social and geographic dialects as any other living language, more
+than most no doubt given the huge region and society in which it was
+spoken. consider that each of the modern romance languages (french,
+spanish, italian, portuguese, catalan, rumanian, provencal,
+moldavian...) is simply the modern version of a different dialect of
+latin.
+
+as to the substance of yiddish grammar, a good deal is known, thanks
+to fairly intensive research in the past 25 years, most of it by
+some of the syntacticians on mendele. one very salient feature that
+has been at issue here is that yiddish is a so-called 'verb-second'
+language, meaning it is a language (like ALL germanic languages
+except modern english, i.e. like german, dutch, swedish, danish,
+norwegian, icelandic, frisian...) in which the tensed verb stands in
+second position in CANONICAL (i.e. typical) declarative sentences.
+put differently, there is exactly one 'slot' before the tensed verb
+and, in canonical declarative sentences, it is always filled. what
+is also known is that yiddish, like icelandic, has NONCANONICAL
+declarative sentences in which the preverbal slot is NOT filled. as
+is the case with ALL noncanonical sentence-types in any language,
+such sentences have rather special discourse functions and therefore
+have a restricted distribution. that is, they don't sound normal
+unless they're in the 'right' discourse context, since they add a
+certain 'meaning', and, if that meaning is not appropriate in the
+discourse context, the occurrence of such a sentence would sound
+bizarre. let me illustrate with a different language (english) and a
+different noncanonical sentence-type ('topicalization'):
+
+1. q: have you seen sam lately?
+   a1: i saw sam yesterday.
+   a2: sam i saw yesterday.
+
+in answer to 1q, a speaker could say either 1a1, the canonical form, or
+1a2, a noncanonical form called 'topicalization'.
+
+2. q. what's new?
+   a1.: i saw sam yesterday.
+   a2.: #sam i saw yesterday.
+
+in answer to 2q, the canonical form in 2a1 is still fine, but the
+topicalization in 2a2 would be weird indeed.
+
+this is what i mean about noncanonical forms having a 'restricted
+distribution'.
+
+so we see that the availability of different sentence-types doesn't
+mean the grammar is 'looser'; on the contrary, we see that it's more
+complex than it would otherwise be and that native speakers have a
+richer set of 'rules' in their head than they would otherwise have.
+
+sorry for the long rambling; i hope this has been of some help.
+
+ellen prince
+
+______________________________________________________
+End of Mendele Vol. 3.165
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

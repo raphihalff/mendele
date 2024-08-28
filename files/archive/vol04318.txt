@@ -1,0 +1,156 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.318
+February 8, 1995
+
+1) Yiddish proverbs (David Sherman)
+2) What's happening at Oxford? (Ben Alpers)
+3) Buloff and folktales in Yiddish (Cecile Kuznitz)
+4) Buloff and folktales in Yiddish (Dovid Braun)
+5) A tchaynik hakn (Michael Shimshoni)
+6) "Az der bube volt gehat" (Alan Shuchat)
+7) Talach (Victor Bers)
+
+1)----------------------------------------------------
+Date: Tue, 7 Feb 95 13:36:49 EST
+From: dave@cai.lsuc.on.ca
+Subject: Yiddish proverbs
+
+> Daniella HarPaz requested a work on Yiddish proverbs.  "Words Like
+> Arrows, a Treasury of Yiddish Folk Sayings," compiled by Shirley Kumove,
+> ... It is a small paperback.  Warner Books, A Warner Communications Company.
+
+The copy I have is a nice hardbound copy, published by Schocken Books in
+New York in 1985.  (Also bears a copyright of University of Toronto Press
+1984.)  I believe I've seen it in Judaica stores over the years too.
+
+David Sherman
+
+2)----------------------------------------------------
+Date: Tue, 07 Feb 95 17:22:31 EST
+From: blalpers%pucc.bitnet@yalevm.cis.yale.edu
+Subject: What's happening at Oxford?
+
+What exactly is going on at Oxford?  I have heard all kinds of rumors of
+wild Yiddish turf-battles.  Does the formation of the Oxford Institute of
+Yiddish Studies mean that the world of Yiddish has been enriched?  Or is
+this merely an apolitical version of the kind schism that used to cripple
+the Jewish left?  If someone could simply summarize what has been going
+on at Oxford I would be very grateful.
+
+Ben Alpers
+
+3)----------------------------------------------------
+Date: Tue, 7 Feb 1995 17:16:41 -0800 (PST)
+From: tsirl@leland.stanford.edu
+Subject: Buloff and folktales in Yiddish
+
+Norman Zide asked [4.316] about locating the original Yiddish versions of
+several works. As for Joseph Buloff's To the Old Marketplace, a
+typescript of the Yiddish version is in Buloff's papers in the YIVO
+Archives. I don't believe it was ever published in Yiddish in book form,
+but it may have been serialized in the Forverts.
+
+As for Binah Weinreich's Yiddish Folktales, the originals of the material
+used in the book are also from several collections in the YIVO Archives.
+Binah was, I believe, preparing a Yiddish version of the book with the
+original texts. I don't know the status of the project but you could
+contact her c/o YIVO to inquire.
+
+Cecile Kuznitz
+
+4)----------------------------------------------------
+Date: Tue, 07 Feb 1995 22:39:30 EST
+From: dovid@mit.edu
+Subject: Yiddish originals available
+
+To Neyakh Zide:
+
+Buloff's memoirs were printed in installments in _Di goldene keyt_ a few
+years ago (circa 1990-92, perhaps?).  The originals of _Yiddish
+Folktales_ which Beatrice Weinreich edited have not appeared in their
+original.  If I remember correctly, the YIVO intends/intended to publish
+the "YIVO Collection of Yiddish Folktales" in Yiddish, but has not made
+good on the plan yet. (Jews often call themselves the "am-haseyfer"
+'People of the Book' because of our culture's emphasis on education,
+literacy and book knowledge.  I have a new take on the expression,
+though:  we're so appreciative of our books because their publication
+takes so long that we figure we won't see them in our lifetimes anyway.)
+
+Dovid Braun
+
+5)----------------------------------------------------
+Date: Wed, 08 Feb 95 11:53:26 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: A tchaynik hakn
+
+Several  posters  to  Mendele  have  done  the  opposite  of  "haking"
+tchayniks and  have *seriously*  discussed the origin  of the  term "a
+tchaynik hakn".   I just wish to  add that in this  case modern Hebrew
+borrowed the  term from  Yiddish.  In  Hebrew it is  used in  the form
+"leqashqesh baq'umq'um", which means making  noise (or rattling) in or
+with the kettle.   It has essentially the same meaning  as the Yiddish
+original.
+
+Michael Shimshoni
+Rehovot, Israel
+
+6)----------------------------------------------------
+Date: Wed, 08 Feb 1995 13:52:17 -0500 (EST)
+From: ashuchat@wellesley.edu
+Subject: "Az der bubbe vot gehat.."
+
+I read with great enjoyment Zellig Bach's dissection of Steven Pinker's
+(as corrected) "az di bobe volt gehat beytsim volt zi geven mayn zeyde",
+the euphemisms he mentions, and the subsequent correspondence. In my
+family, this saying was sanitized even further: "az di bobe iz geven der
+zeyde." I never understood why everyone laughed!
+
+Alan Shuchat
+Wellesley, MA
+
+7)----------------------------------------------------
+Date: Wed, 08 Feb 95 13:54:12 EST
+From: vbers@yalevm.cis.yale.edu
+Subject: Talach
+
+A colleague asks me to ask the Mendelenikes the meaning of the word
+"talach."
+
+Victor Bers
+
+______________________________________________________
+End of Mendele Vol. 4.318
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

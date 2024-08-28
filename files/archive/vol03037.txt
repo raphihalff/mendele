@@ -1,0 +1,177 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.037
+June 18, 1993
+
+1) Vacation time (Noyekh Miller)
+2) Miscellany (Bob Rothstein)
+3) Nekhtiger tog (Pe'rets Mett)
+4) Hybrid idioms; playing-card terms (Shleyme Axelrod)
+
+1)----------------------------------------------------
+Date: Wed Jun 16 13:17:59 1993
+From: noyekh miller <nmiller@starbase.trincoll.edu>
+Subject: vacation time
+
+If you plan to be away from your machines for any length of time and
+don't want to clog up your mailbox, here's how you can disengage
+_temporarily_ from Mendele.
+
+Send this message:
+
+              set mendele nomail
+
+to:
+
+              listserv@yalevm.ycc.yale.edu
+
+
+Needless to say, when you've returned refreshed and ready for more
+mendele, send to the same address as above this message:
+
+              set mendele mail
+
+Fort gezunt un komt gezunt!
+
+Noyekh
+
+2)----------------------------------------------------
+Date: Thu Jun 17 11:13:00 1993
+From: ROBERT A ROTHSTEIN <rar@slavic.umass.edu>
+Subject: Misc.
+
+[shmarovoz--3.006]
+
+Ukrainian _shmarovoz_ or _smaroviz_ = a) 'wheel-greaser' and hence
+'someone involved with wagons and therefore constantly covered with
+grease' and b) 'someone dressed in dirty clothing'. Yiddish also has
+_shmarovoz_ and _smarovoz_ in both meanings. Ukrainian
+_shmaruvaty_/_smaruvaty_ and Russian _shmarovat_ 'to grease,
+lubricate' are presumably from Polish  _smarovac'_ 'idem', which is
+in turn from MHG _smir(w)en_ or MLG _smeren_. Cf. modern standard
+German _schmieren_.
+
+But there is also a Russian dialect and argot (thieves' slang) word
+_shmara_ = 'thief's lover or prostitute,' of uncertain etymology.
+Combined with the root of the Russian verb _vozit'sia_ 'busy oneself
+with' it gives another meaning to the word _shmarovoz_, namely,
+'pimp.'
+
+I don't know whether that meaning exists in Yiddish; it would make
+sense as a possible reading of the line from the song "Dem ganefs
+yikhes" (or "Vos bistu, ketsele [or:  kotinke] baroygez?"),
+especially in its context:
+
+     Mayn tate iz a shmarevoznik [a variant form?],
+     Di mame ganvet fish in mark,
+     Un der bruder iz a kartozhnik,
+     Un di shvester...ti di di di di di di di dom...
+
+(This is Kipnis' version; Cahan has a similar text, for which he
+glosses _shmarovoznik_ as 'proster yung.')
+
+[publication--compiled before Mikhl's brief note]]
+
+Since the authors receive no honoraria, I feel free to announce the
+publication by Northwestern University Press of the 5th collection
+of _The Field of Yiddish_, edited by David Goldberg, which contains
+the following papers:
+
+Edward Stankiewicz, "The Yiddish Thematic Verbs"
+Christopher Hutton, "Normativism and the Notion of Authority in
+  Yiddish Linguistics"
+Ellen F. Prince, "On the Discourse Function of Syntactic Forms
+  in Yiddish:  Expletive ES and Subject Preposing"
+Robert D. King, "Early Yiddish Vowel Systems:  A Contribution
+  by William G. Moulton to the Debate on the Origins of Yiddish"
+Neil G. Jacobs, "Central Yiddish Backing and Drawl:  The
+  Implications of Fusion for a Phonological Rule"
+Jean Baumgarten:  "Les manuscrits yidich de la Biblioteque
+  Nationale de Paris"
+David Golberg:  "Fantasy, Realism, and National Identity in
+  Soviet Yiddish Juvenile Literature:  Itsik Kipnis' Books for
+  Children"
+Daniela Mantovan:  "Der Nister's 'In vayn-keler':  a Study in
+  Metaphor"
+Dahlia Kaufman:  The First Yiddish Translation of _Julius
+  Caesar_"
+Robert A. Rothstein:  "'Geyt a yid in shenkl arayn':  Yiddish
+  Songs of Drunkenness"
+Jeffrey Shandler:  "'We Can Read and Understand':  a Semiotic
+  Analysis of the American Yiddish Primer and the Transformation
+  of Literacy."
+
+     Bob Rothstein <rar@slavic.umass.edu>
+
+3)----------------------------------------------------
+Date: Thu Jun 17 11:15:09 1993
+From: P.Mett@open.ac.uk(Percy Mett)
+Subject: Nekhtiger tog
+
+Robert D. Rachlin writes: [Mendele 3.029]
+
+>        Arnold Kuzmack's suggestion that nekhtiger tog may mean "a
+>day like night" comports with the usage I've heard.  Usually it
+>follows some outrageously unlikely proposition, e.g.: "Shulamit in a
+>sheytl?  A nekhtiger tag!"
+
+In my book, that doesn't prove a thing. a nekhtiger tog (= a yesterday)
+will never happen again, so is an unlikely proposition.
+
+Just in case you were interested.
+
+pe'rets mett
+
+4)----------------------------------------------------
+Date: Fri Jun 18 12:53:04 1993
+From: Seymour Axelrod <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: Hybrid idioms; playing-card terms
+
+In view of the weightier matters recently put on the table here (the
+startling proposals from Wexler that Yiddish is a Slavic language
+and that modern Hebrew is Yiddish, and the revitalization of Yiddish
+contemplated in Boro Park), I'm almost embarrassed to raise the
+following--but not so embarrassed as to refrain.
+
+(1) To Elye Katz:  are bilingual (E-Y) expressions includable in
+your collection of idioms?  A very common (and useful) one from my
+childhood:
+
+"pleyn un poshet" =  straightforward(ly), without embellishment;`Period!'
+"Lomir zogn dem emes:  er'z a ganef, pleyn un poshet."
+
+Also:  "iz dos a sistem [what makes it hybrid is that the emphasis
+is on the first syllable:  SIStem]?" = `what kind of way is that to
+run a railroad?'; where's the fairness/sense in that?  Milt Gross,
+who wrote and illustrated brief comic pieces (English, with very
+exaggerated Yiddish accents) about apartment-dwelling immigrant Jews
+in New York City in the 1930's-40's [Nize Baby; Looey, Dot Dope],
+made frequent use of this.
+
+(2) I'd be interested in knowing how others refer[red] to
+playing-card suits and values.  Weinreich gives
+
+club = der shpog
+diamond = der lekekh
+heart = dos royts, dos eykhl
+spade = der pik, dos shvarts
+ace = di toyz
+jack = der poyer
+(no separate entry for king or queen in cards)
+
+Maybe these were the standard terms in der alter heym.  But when my
+father played pinochle, poker and klabyatsh with his landslayt and
+other friends (all native speakers of Yiddish, but long after their
+immigration to the US) in Brooklyn, the English words were generally
+used, except that a spade (or spades) were often called "shipe"
+(Slavic?).  The cards from two through 10 were numbered in Yiddish,
+sometimes in diminutive:  a tsveytl harts, for example. The picture
+cards and ace were English:  dzhek, kvin, kin[i]g, eys.  Trump was
+"tromf"; I never heard Weinreich's "kozer".
+
+--Shleyme Axelrod
+
+______________________________________________________
+End of Mendele Vol. 3.037
+

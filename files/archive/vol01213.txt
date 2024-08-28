@@ -1,0 +1,187 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 213
+April 13, 1992
+ 
+1) The YIVO system (Zev Bar-Lev)
+2) Transcription (Brett Kessler)
+
+1)----------------------------------------------------
+Date: Fri, 10 Apr 92 08:54:18 -0700
+From: zbarlev@sciences.sdsu.edu
+Subject: RE: Mendele Vol 1.211
+
+The following is the YIVO system for transcription, as
+presented in Weinreich's "College Yiddish" (ignoring the
+use of brackets to enclose the transcription, and the use
+of capitals), where it is used to explain the sounds of
+Yiddish to the American student. I add additional Yiddish
+examples after **  at my own risk.
+
+b,d,g: ** Yidd. examples: bakn, dank, gey avek ("bake,
+thanks, go away")
+
+p,t,k as in Yiddish post, teler, ken ("mail, plate, can")
+
+f,v,s,z as in Eng. "far, very, seem, gaze" **finf, vos,
+beser, zingn
+
+when -t or -st is added to a word ending in b,d,g,v,z, the
+consonant changes in sound but not spelling:  lebt, redst,
+zogst, ...
+
+sh as in Eng. **shadkhen
+zh as g in rouge, s in measure  **kum-zhe
+
+h,y as in Eng. "have, yes"  **hob, yor
+
+kh like German ch in "lachen"  **khapn, makh, ikh, gikh,
+rekht, khaver
+
+ts: tsu, tsi, alts, zetser
+tsh: mentsh, tshepen, petsh
+
+l: two varieties are distinguished, with italics used for
+the "softer" one. (but this is not renderable on e-mail):
+ful, mol, vs. biLik, Libe.
+
+m, n, ng: mame, **nudnik, yung notice also "syllabic" n
+(vowel n): lipn, hobn, shraybn, zokn, zogn
+
+r: rekhn, lerer, shener, merer, firer
+
+VOWELS:
+
+a,e,i,o,u [as in MAMA JET SKI NO GURU]: mame, vaser; beser,
+kenen, himl, 
+
+yidish; lomir, nokh; kumen, muzn
+
+(e is thus also used for the shorter, unstressed vowel in
+beser, etc.)
+
+ay as in Eng. "fine": tsayt, vayt
+ey as in Eng. "vein": veynen, sheyn, meydl
+oy: groys
+
+Hope this helps anyone interested. 
+
+Zev Bar-Lev
+
+2)----------------------------------------------------
+Date: Fri, 10 Apr 92 10:46:27 -0700
+From: Brett Kessler <bkessler@hplblk.hpl.hp.COM>
+Subject: transcription
+
+As a new participant, I don't know whether requests for
+transcription standards are so frequent that they are
+traditionally answered by directly mailing a canned
+response to the requestor, or whether the silence to recent
+requests is due to everbody holding back in expectation
+that somebody will proffer The Official YIVO Standard
+Reference.  I don't have the latter (but would appreciate
+any bibliographic references), and if the former situation
+holds, I invite the moderator to suppress my posting.
+
+The YIVO standard is not a transliteration scheme, but a
+system for transcribing Yiddish sounds in the Roman
+alphabet: the crucial distinction is that words of
+Hebrew/Aramaic extraction are transcribed phonetically,
+without reference to their Hebrew/Aramiac/Yiddish spelling.
+
+And yet, the following is also true:
+
+-- The granularity of the transcription is exactly the same
+as that of the Yiddish orthography.  For example, no notice
+is taken of stress, of syllabicity in /l/ and /n/, of
+palatalization in /l/, or of the distinction between yud as
+a true consonant and yud as a marker of palatalization.
+
+-- Indeed, if you were to spell the Hebrew and Aramaic
+words according to the rules of the phonemic orthography
+(as they used to do in Russia), the transcription could be
+implemented as a completely automatic element-by-element
+transliteration of the standard orthography.
+
+-- The Roman letters chosen to represent the sounds of
+Yiddish happen to match up with no particular dialect, but
+rather with the pronunciation that the Hebrew letter is
+most directly evocative of. Thus 'gut', not 'git', as
+suggested by vov; 'groys', not 'greys', as suggested by vov
+yud; 'vayn', not 'vaan', since no one would think of using
+yudn to represent an /a/ sound.  [This is a moderately
+contentious way of looking at things.  One could argue,
+*almost* as convincingly, that the sounds are the more
+conservative pronunciations, or that the scheme blatantly
+favours Vilne.]
+
+So the idea is to write down your Yiddish in the standard
+orthography, but treating Semitic elements as if they were
+Germanic/Slavic elements that you had to write out
+phonemically.  (I'm ignoring the question as to what the
+standard orthography is, since it's rather a longer point
+to answer.  I hope most people already know it.)  Then
+apply the following conversions, ignoring shtumn alef:
+
+a	pasekh-alef
+o	komets-alef
+b	beys
+g	giml
+d	dalet
+h	hey
+u	vov
+v	tsvey vovn
+oy	vov yud
+z	zayen
+zh	zayen shin
+t	tes
+y	yud konsonant (or sign of palatalization)
+i	yud vokal
+ey	tsvey yudn
+ay	pasekh tsvey yudn
+kh	khof
+l	lamed
+m	mem
+n	nun
+s	samekh
+e	ayen
+p	pey
+f	fey
+ts	tsadek
+k	kuf
+r	reysh
+sh	shin
+
+
+It is understandable that German spelling conventions are
+not followed; somewhat more surprising that Eastern
+European conventions aren't followed either.  In fact, the
+system seems downright Anglic. The only apparent exceptions
+are the vowels, but I would claim that European vocalism is
+already incorporated as a subscheme in English: note for
+example how many people mispronounce "Punjab", because they
+can't believe that "u" would be sounded as in "pun" in a
+word of foreign origin.  So was this scheme adopted only
+after Yivo moved to America?  If so, was the scheme
+promulgated for the use of English speakers, or was it
+intended from the start to be a system for all users of the
+Roman alphabet?
+
+Disclaimer: this is mostly from memory, based largely on
+long exposure to the Library of Congress standard (a
+slightly elaborated version of the Yivo standard) and books
+published by Yivo.  I apologize for any misstatements and
+invite corrections.
+
+Brett Kessler
+
+______________________________________________________
+End of Mendele Vol 1.213
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

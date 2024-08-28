@@ -1,0 +1,175 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.408
+May 4, 1995
+
+1) Introduction (Rudi Roth)
+2) Introduction (Van Wallach)
+3) Introduction (Malkah Bachman)
+4) Yidish oyf cd-rom (Yude Rozof)
+
+1)----------------------------------------------------
+Date: 3  May 95 20:52 GMT
+From: rothr@infomail.infonet.com
+Subject: Introduction
+
+I am a very recent member of Mendele, connecting from Belgium, Brussels
+Area. My name is Rudi Roth, mathematician and working today in
+data-commmunications. I started Yiddish a good year ago at a 2-week
+summer course (a Pintele of Yiddish) in the University of Brussels and
+continued since. Got this tuesday my Yiddish exam and cross my fingers.
+
+I managed since some days to type in correctly yiddish under Word6 and
+would like to see how we could exchange yiddish typed texts over the Net.
+In Europe, we use X.400 as mail system and you can just attach any file
+with your mail. Over the Net it is somewhat more complicated today. Any
+candidates?
+
+I have also two suggestions for Mendele:
+
+1. Calender of Yiddish activities.
+
+As I have seen in Mendele, there are several events taking place
+regarding yiddish activities, why not make a kind of rolling-over
+calender issued once a week or a fortnight and containing those such as
+Mamelosh '95, Ashkenaz, Yiddish convention in Miami, a yiddish summer
+programme in Polen and Galicie,...? It could consist of activities of a
+certain duration that are worth the trip, the detour or that someone
+travelling in the area could attend.
+
+I know of some other activities in Europe that are worth mentionning and
+I just list here what I have and know. If Mendele wants to make a
+calender, this could be a start and why not already somewhat structured
+(I just add a suggestion hereafter, feel free to adapt):
+
+Dates,Location,Activity,Organizer,tel,fax,contact name,price
+
+18 JUNE,25JUNE,Krakau(PL),Yiddish song festival (no more info available)
+
+3 JULY,14 JULY,Brussels(BE),A Pintele of Yiddish (course and
+activities),Martin Buber Institute of the free University of Brussels,+32
+2 650 33 48,+32 2 650 33 47,Mr W. BOK
+
+17 JULY,11 AUGUST 95,Oxford(UK),Yiddish Summer Course,Oxford Institute
+for Yiddish Studies,+44 1865 798989,+44 1865 798987,Marie
+Wright,450-975USD
+
+2. Yiddish and etymology.
+
+My other suggestion concerns etymology and it could become a part of the
+now "well-known" yiddish on cd-rom.
+
+Several languages have imported words from yiddish and accepted them as
+part of the "official" language. A lot of the words came from hebrew, but
+were derived from the yiddish form. Why not search for those in several
+languages. I have some in french and dutch and I am sure that there are
+"tons" in english, but also in other languages.
+
+That's it for now. A gut yor.
+
+Rudi Roth
+
+2)----------------------------------------------------
+Date: Wed, 3 May 1995 20:12:44 -0400
+From: tazio57@aol.com
+Subject: Introduction
+
+The notice about introductions finally has goaded me in to action. My
+name is Van Wallach, I'm 37, and I have been getting Mendele since last
+fall and have found it very useful. I am a magazine writer in Westport,
+Connecticut, a zamler for the National Yiddish Book Center and a
+contributor to der bay on Jewish film and music subjects, although I have
+not written anything lately. I also write a column for a local newspaper,
+The Minuteman, called Ongepatshket, about the experience of being a new
+father. I have a long interest in Yiddish. Besides the historical and
+cultural meaning, I just love the sound of Yiddish. I like writing about
+Yiddish culture (in English) and am constantly looking for outlets. I
+also want to introduce it to my son, and already play "On Wings of Song,"
+Tex Klez, the Klezmer Conservatory Band and other tapes to him so the
+sounds and moods will be familiar to him. If anybody else is giving their
+children a Yiddish introduction, I would like to hear about it.
+
+Van Wallach
+
+3)----------------------------------------------------
+Date: Wed, 3 May 1995 23:55:25 -0400
+From: batshira@aol.com
+Subject: Introduction
+
+I didn't mean to "lurk"!  I too joined the list over the past month or
+two and didn't get around to saying hello 'til now.   I really identify
+with Joann Z. Green's recent introduction, where she speaks of being "a
+newcomer to Yiddish, stricken with all the symptoms of new romance" --
+amen!   Mine is the usual story: grandparents from the Old Country who
+spoke Yiddish, parents who used it as stumbling secret code - and my
+brother and me, with our handful of funny-sounding words...  I started
+studying Yiddish (via a community class in Berkeley) a few months ago,
+led to it by a growing desire to understand the culture and "neshuma" of
+my family's recent and erased history...  also with a desire to be able
+to read among the incredible treasure-trove of poets (I myself am a
+writer--  ).
+
+I have found Mendele to be a *very* heymish place to come, read, think &
+reflect on what's written here....  It's a wonderful resource, I am so happy
+to have discovered it (and all of you!).
+
+Meanwhile -- why wait? -- I have two questions:
+
+1.  I was surprised & excited to read that one subscriber, Alan Shuchat,
+has a bobe from Soroki -- my mother's mother came from that town & I know
+so little about it -- (she left in 1913 for the States; died in 1956) --
+any information/ resources/ anecdotes people have to share about that
+town would be gratefully appreciated!
+
+2.  I am moving to Albany, NY in a few months to enter a doctoral program
+at the State University there -- alas, they do not offer Yiddish -- can
+anyone recommend someone to study Yiddish with or someplace to study
+there?
+
+Merle (Malkah) Bachman
+
+4)----------------------------------------------------
+Date: Wed, 3 May 1995 18:40:34 -0400 (EDT)
+From: jrosof@sas.upenn.edu
+Subject: Yidish oyf cd-rom
+
+Yasher-koyekh Leybl!  Halevay nokh azoyne psures vegn kompyutervarg
+oysgedrukt af aza laytishn shteyger vi ban aykh.
+
+Yude Rozof
+
+______________________________________________________
+End of Mendele Vol. 4.408
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

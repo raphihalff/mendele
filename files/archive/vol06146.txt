@@ -1,0 +1,183 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.146
+December 18, 1996
+
+1) Tsvinter (Iosif Vaisman)
+2) Oy with an umlaut (Bob Hoberman)
+3) Zakh/zikh (Mark David)
+4) Zakh/zikh (Mikhl Herzog)
+5) Yiddish in pre-expulsion England (Dan Leeson)
+6) Yiddish in pre-expulsion England (Ellen Prince)
+7) Yiddish in pre-expulsion England (Iosif Vaisman)
+
+1)----------------------------------------------------
+Date: Tue, 17 Dec 1996 12:36:53 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Tsvinter
+
+Sema Chaimovitz Menora asked [6.141,7] about the origin of Yiddish word
+_tsvinter_. In Yiddish it came by way of Ukrainian (_tsvintar_), but
+originally it was one of those Greek words (_koimeterion_) that became
+truly international: Latin _coemeterium_, Italian _cimitirio_, English
+_cemetery_, Dalmatian _czimitar_, Polish _cmentarz_, Slovac _cinter_,
+Hungarian _tzinterem_, etc. are all closely related.
+
+Iosif Vaisman
+
+2)----------------------------------------------------
+Date: Tue, 17 Dec 1996 13:52:32 -0500 (EST)
+From: rdhoberman@ccmail.sunysb.edu
+Subject: Oy with an umlaut
+
+Litvaks from some areas have a funny vowel where other Litvaks have ey,
+for standard Yiddish oy.
+
+This vowel actually sounds a lot like a German o-umlaut followed by y,
+or halfway between oy and ey.  You can hear it in the Yiddish and Hebrew
+of Lubavitchers, and my grandfather, from near Kovne, had it too,
+despite being a vehement misnaged (!).  I've always imagined that was
+what was meant in Ro"yte Pomerantsn, though I don't know where the
+storytellers were from.
+
+Bob Hoberman
+
+3)----------------------------------------------------
+Date: Tue, 17 Dec 1996 20:09:18 -0500 (EST)
+From: mhd@world.std.com
+Subject: Zakh/zikh
+
+Al Grand asked [6.145] if zakh is as good as zikh. Yes.  Actually, it's
+preferred when the emphasis is not on the "zikh". Vos hert zakh? But if
+you're emphasizing the "zikh", you say "zikh", "tut dos nisht far mir,
+tut dos far zikh aleyn".
+
+As for umlaut over the o in royte, it's a totally nonstandard spelling,
+and I think it's nonsensical.  Probably, it was added to give the
+appearance of word in a foreign, Germanic language, which Yiddish
+actually is.   I'd ignore the umlaut.  Royte is the YIVO standard
+transcription, and is even the way most people write it who don't follow
+YIVO in their transcription of Yiddish.  If you ignore the umlaut, all
+is well.
+
+By the way, I'm a card carrying non-academic, but I admit some of my
+best friends are academics.
+
+Mark David
+
+4)----------------------------------------------------
+Date: Tue, 17 Dec 96 23:04 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Zix, zex, zax, zx!
+
+zix is usually unstressed and pronounce variously, and correctly, as
+zex, zax, even zx in different regions. In my own speech, the zix
+variant is usually apparent only under stress.
+
+As for the o"y in Olsvanger: It's probably intended to convey the
+quality of a regionally restricted vowel in the Yiddish of Kurland and
+parts of neighboring Lithuania. I would rather try to convey it with
+"eu" as distinct from the better known Litvish "ey" in "breyt" (mit
+puter), "reyt" (red), etc.
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Tue, 17 Dec 1996 11:42:02 EST
+From: leeson@aspen.fhda.edu
+Subject: Yiddish in pre-expulsion England
+
+David Lidsky asks [6.144] about the possibility that Scott meant Yiddish
+when the heroine of Ivanhoe was said to be speaking Hebrew.
+
+This may be a _very_ far-fetched analysis, but the heroine of Ivanhoe was
+modeled after a very real and living person, the Philadelphian beauty
+Rebecca Gratz.   Scott is said to have been taken with her because she
+was alleged to have been a dazzler.  She was born in Philadelphia on
+Mar. 4, 1781 and died there, unmarried, on Aug. 27, 1869.
+
+Since Gratz was the daughter of Michael Gratz (b. Langendorf in 1740) it
+does not seem likely that Yiddish would be part of her skills.
+
+Of course there is a limit to how much Scott might have appropriated
+from Rebecca Gratz' person, and I may have gone too far, but it is a
+distant possibility, in which case Scott probably really meant Hebrew
+and not Yiddish.
+
+Sorry, that's the best I can do (but I can juggle and play Yiddish tunes
+on the clarinet at the same time which is somewhat better than my answer
+to this question).
+
+Dan Leeson
+Los Altos, California
+
+6)----------------------------------------------------
+Date: Tue, 17 Dec 1996 17:55:30 EST
+From: ellen@central.cis.upenn.edu
+subject: scott's _ivanhoe_
+
+re david lidsky's query re rebecca in _ivanhoe_, accg to philadelphia
+lore, scott's model for this character was philadelphia's rebecca gratz.
+i don't know how true this is but i would certainly bet that rebecca
+gratz was more likely to have studied hebrew than to have spoken
+yiddish. perhaps someone else here has more information.
+
+ellen prince
+
+7)----------------------------------------------------
+Date: Tue, 17 Dec 1996 22:30:29 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Ivanhoe in Yiddish
+
+David Lidsky asked about Yiddish translations of Ivanhoe [6.144,6].
+There were at least two: Ayvenhoye, oder Dos umkehrung fun dem krayts
+ritser (Varsha: A. Ginz, 1879) and Der shvartser ritser (Varsha: Bikher
+far ale, 1920). I don't know the names of translator(s).
+
+Iosif Vaisman
+
+______________________________________________________
+End of Mendele Vol. 6.146
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

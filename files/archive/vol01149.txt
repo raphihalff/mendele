@@ -1,0 +1,220 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 149
+January 28, 1992
+ 
+1) Yiddish syntax (Ellen Prince)
+2) Midrashic sources of oy vey? (Lazer Segal)
+3) Various (Yude-Leyb Proger)
+
+1)----------------------------------------------------
+Date: Mon, 27 Jan 92 11:54:46 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.146
+
+>From: dave@lsuc.on.CA
+>Subject: RE: Mendele Vol 1.141
+>
+>Ellen Prince writes:
+>> re the idea about geveyzn at the end of the verb phrase and
+>> geven in the middle, that's a nice project! i believe old
+>> yiddish had only geveyzn, and we know that old yiddish was
+>> verb final...
+>
+>We do?  I didn't.  Interesting.  You mean participle final,
+>like modern German?
+
+i meant verb-final. old yiddish and modern german and also
+dutch are sov--subject, object, verb, with the extra twist
+that, in main clauses only, the part of the verb that
+carries tense moves to second position. since i don't know
+german, i'll give examples using english words:
+
+subordinate clauses ('basic' sov word order):
+...because hans a movie sees/saw
+...because hans a movie seen has
+...because hans a movie see will
+...because hans a movie see can
+
+main clauses (sov word order plus tensed verb in 2nd
+position):
+
+hans sees/saw a movie 
+hans has a movie seen
+hans will a movie see
+hans can a movie see
+
+'topicalized' main clause (where something other than the
+        subject is 'topicalized' to first position; note:
+        tensed verb is still in second position):
+
+a movie sees/saw hans
+a movie has hans seen
+a movie will hans see
+a movie can hans see
+
+what happened in yiddish (in the 18th century, more or
+        less, according to beatrice santorini's
+        dissertation) is two things:
+
+(1)the rule that says that the finite verb be in second
+   position was extended to subordinate clauses.
+
+(2)the basic word order became svo (subject,verb,object).
+   however, there are lots of 'remnants' of the old sov
+   word order, which is how come geven/geveyzn can pop up
+   at the end of the clause.
+
+more than you ever wanted to know about germanic syntax...
+
+Ellen Prince
+
+2)----------------------------------------------------
+Date: Mon, 27 Jan 92 12:17 MST
+From: ELSegal@UNCAMULT.BITNET
+Subject: RE: Mendele Vol 1.146
+
+ My real research in midrashic studies has ;led me into
+some fascinating tangents of expressions of distress in
+biblical and talmudic literature, including such
+expressions as hoy, oy, eey, vay and way, etc.  All the
+above are well attested in classical sources, leading me to
+the suspicion that their later colloquial counterparts
+among Ashkenazim (oy vey) and Sfardim (way) may be parts of
+the Hebrew-Aramaic heritage rather than, as I had supposed,
+borrowings from the respective German\Slavic\Arabic
+environments.  Can anyone shed light on the topic (e.g.,
+what do we know about the use of oy and vey among the
+Germans and Slavs)?
+
+Lazer Segal
+
+3)----------------------------------------------------
+Date: Mon, 27 Jan 92 15:05:56 IST
+From: leonard <RHLE302@HAIFAUVM.BITNET>
+Subject: mendele
+ 
+To: Noyekh Miller
+Re: vol. 1, no. 144
+ 
+Once we adopt the Standard Yiddish Romanization (SYR),
+which is keyed to Standard Yiddish (StY),some of our
+difficulties may disappear. The preposition _lebn_ 'near'
+and the verb _lebn_ 'live' are always pronounced with a
+final syllabic /m/ : /lebm/.  But in SYR (so-called Yivo
+transcription, not to be confused with transliteration,
+which implies letter-to-letter substitution), which is
+morphophonemic, we romanize: lebn.  Moroever, _lebn_ is one
+of the few prepositions (_in_ and _fun_ are two others)
+which does not require the masculine and neuter definite
+articles: _Er voynt lebn gortn_ 'He lives near the garden'.
+In SYR, Moishe-Nussen would romanize his name Moyshe-Nosn
+and everyone would pronounce it according to his own
+dialect/
+ 
+sociolect/idiolect, etc.
+
+_Nosn_ can be pronounced /Nusn/.  But regardless of whether
+or not M.-N. agrees to Nosn, he must acknowledge that the
+final _n_ is syllabic and the presence of the _e_ before it
+is derived from NHG and is inauthentic.  Thus we should
+write _vos_, even though the phonological realization of
+the komets alef in some dialects is /u/.  In other words,
+we all follow the same spelling (here = romanizing)
+conventions, and if we wish to indicate pronunciation, we
+use phonetic notation. Incidentally, isn't the Yiddish name
+Meylekh as opposed to the Hebrew Melech.  It is a thorny
+business to suggest to others how to spell their names, but
+these matters are not purely arbitrary.
+
+I notice that the subject of how to romanize Yiddish is
+constantly being raised in _Mendele_ and we will have to
+keep hammering at it until we reach a a sensible and
+civilized consensus.  The notion of spelling by ear to
+placate one's ancestors is touching but totally impractical
+-- and also inconsiderate of one's colleagues who are kept
+guessing what you are trying to say.  Let's stick to
+Standard Yiddish in the Standard Yiddish Romanization.
+ 
+ 
+To: David Sherman
+Re: vol. 1, no. 145
+ 
+It is, I believe, always better to borrow authentic
+morphemes and follow the normal neologizing patterns of a
+language than to accept barbarisms of the order of
+_boyd-vuchers_!
+ 
+In StY we write _gey_ even though it it pronounced /ay/ in
+Central (Polish) Yiddish.  When we write the word in
+Yiddish we write it with two yods, without a pasakh = /ey/.
+The correct transcription is _mayn_ -- here there is a
+pasakh under the two yuds -- not the German _mein_.  The
+tes + shin sound is /tsh/ and thus you would have to write
+_vatsher_ if you wanted to borrow English _watch_.
+ 
+To: Dovid Braun
+Re: vol. 1, no. 145
+ 
+Dovid, here are the two references you requested.  I give
+them as they appear in my _Yiddish Literary and Linguistic
+Periodicals and Miscellanies_ (Norwood Editions, 1982),
+which I believe is out of print and in any event is now
+undergoing revision for an expanded and corrected second
+edition -- for which I would appreciate the assistance of
+all Mendele khevre with access to Yiddish collections:
+ 
+_Yidish far ale; khoydeshdiker zhurnal_ 'Yiddish For All,
+Monthly Journal' Warsaw: 1 - 2 {= Nos. 1 - 14}; March 1938
+- June / July 1939. // ed. by Noyekh Prilutski.  Volume I
+(1938) = pp. 1-296 = 1 (March), 2 (April), 3 (May), 4
+(June), 5 (July), 6/7 (August/September), 8 (October), 9
+(November), 10 (December); II (1939) = pp. 1-128 = 1 {11}
+(January), 2 {12} (February/March), 3 {13} April/May, 4
+{14} June/July.
+ 
+   This is the first Yiddish linguistic periodical intended
+for the educated lay person, yet it contains a wealth of
+important information useful to the linguist as well.  The
+debate over Hebraisms is aired in I, 3, 65-75 and a useful
+list of doublets is given in I, 10, 291-293. There is a
+great deal of onomastic data in these slim volumes.
+Contributors include: B. Braverman, Yoysef Erlikh, A.
+Golomb, M. Grosman, Yitskhak Grudberg, M. Kahanovitsh, Z.
+Kalmanovitsh, Kh.-Sh. Kazhdan, M. Landman, Yudl Mark, L.
+Olitski, Zalmen Reyzn, Khayim Semyatitski, Avrom Sutskever,
+Arn Tseytlin, Maks Vaynraykh, Sh. Vinter, Yude-A. Yofe.
+Rep: JNL, NN, NNYI, UH. Sources: Weinreich #33; _Yivo
+Bibliography 1925-1941_, New York, 1943, #2527.
+ 
+_Yidishe filologye: tsveykhoydeshdike bleter far
+shprakhvisnshaft, literaturforshung un etnografye_
+{tsvey-khoydeshdike bleter far shprakh-visnshaft,
+literatur-forshung un etnografye}. {yiddish philology :
+bimonthly leaves for linguistics, literary research and
+ethnography}
+ 
+   Warsaw : 1, 1 - 1, 4 / 6 {3 issues}; January / February
+- July / December  1924. // ed. by Noyekh Prilutski, Zalmen
+Reyzn, Maks Vaynraykh.
+ 
+   This journal is the predecessor of the _Filologishe
+shriftn_. It was published as a single volume by
+Kultur-lige in Warsaw in January, 1926 with the aid of the
+recently organized YIVO. It belongs to the small body of
+indispensable source books for the student of Yiddish
+language, folklore and, to a lesser extent, literature.
+Contributors include: Shloyme Birnboym, Aleksander Harkavi,
+Alfred Landoy, Shmuel Leyman, Regine Lilyental, Kh. Lunski,
+Yitskhok Shiper, Nokhem Shtif, Yankev Viler. .sk Rep: JNL;
+NNYI. Sources: Kan #76; Weinreich #34. .sk
+ 
+I have access to these periodicals, but have not found the
+Prilutski article you are looking for.  Both periodicals
+could do with indexes.
+
+Yude-Leyb Proger
+
+______________________________________________________
+End of Mendele Vol 1.149
+ 

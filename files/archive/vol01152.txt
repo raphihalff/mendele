@@ -1,0 +1,184 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 152
+January 29, 1992
+ 
+1) A bakoshe (Raphael Finkel)
+2) 'Oy vey' (Martin Davis)
+3) Standard Yiddish (Meylekh Viswanath)
+4) Introduction (Martin Davis)
+5) Standard Yiddish (Ellen Prince)
+6) Ludic Yiddish (Ellen Prince)
+7) Housekeeping (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Tue, 28 Jan 1992 09:49:24 EST
+From: Raphael Finkel <raphael@ms.uky.edu>
+Subject: a bakoshe
+
+ikh heyb itst on shraybn kleyne mayselekh un vitsn far der
+tokhters vegn.  ikh druk zey mit di TeX-varg vegn velkhn
+ikh hob shoyn geshribn.
+ 
+tsi kent ir ale azoy gut zayn un mir shikn kleyne
+mayselekh, geshribn mit yivo-transkriptsie?  di tokhter
+penina iz alt finf yor (zeks iy"h in april), un ken leyenen
+i english i yidish.  zi hot lib mayselekh mit khayes, vi
+hozn, ferd, eynherner, bern, un dos glaykh.
+ 
+zorgt nit vegn oysleg fun hebreyishe verter; ikh ken zey
+ibershraybn mit pasike oysyes.  (lemoshl, ikh vel iber-
+shraybn 'lemoshl' vi 'lmshl', un 'oysyes' vi 'uTiuT')
+ 
+a sheynem dank ir ale faroys.
+
+Raphael Finkel
+
+2)----------------------------------------------------
+Date: Tue, 28 Jan 92 09:50:50 -0500
+From: davism@turing.cs.nyu.edu
+Subject: "Oy vey"
+
+Ach und weh! is (I believe) standard German.
+
+Martin Davis
+
+3)----------------------------------------------------
+Date: Tue, 28 Jan 1992 10:39 EDT
+From: VISWANATH@DRACO.BITNET
+Subject: RE: Mendele Vol 1.149
+
+Re Yude-Leyb Proger's suggestion for transcription of my
+name, I agree with him.  I never (consciously) write it
+Melech, but I did usually write it Melekh, as a concession
+to most of the people in my shul and elsewhere who wouldn't
+know what Meylekh was (believe it or not). However, I agree
+with Yude-Leyb that Meylekh is better (especially since I
+always insist on Meylekh even in shul (but not to the point
+of correcting people who say Melekh); so henceforth at
+least in Mendele, Meylekh I shall be.
+
+I would also like to second Yude-Leyb's suggestion re
+adoption of SYR.
+ 
+However, I hope he will forgive the occasional use of
+nonSYRisms, since I usually hear what I have been told is
+dorem? Yiddish and if the word is not one that I know from
+print, I tend to store it in dorem Yiddish orthography in
+my memory.
+ 
+Meylekh.
+
+4)----------------------------------------------------
+Date: Tue, 28 Jan 92 10:08:18 -0500
+From: davism@turing.cs.nyu.edu
+Subject: Introduction
+
+My name is Martin Davis. I'm a mathematician/computer
+scientist at NYU. My parents were Polish Jewish immigrants
+in the 1920s. (I was born in 1928.)
+
+My parents spoke Yiddish to each other, but English to me.
+Thus, my Yiddish hearing is much better than my speech. I
+used to go to the Yiddish theatre on Second Avenue when I
+was a boy. My favorite was Maurice Schwartz in "Shylock's
+Daughter." I learned a little written Yiddish in a somewhat
+progressive Chedar, but really have no formal knowledge of
+the grammar. I read quite slowly, still not comfortable
+with the alphabet, and am totally thwarted by vowel-less
+Hebrew words.
+
+I studied German in high school and college, and my spoken
+Yiddish is inevitably corrupted by this exposure. (Yiddish
+speakers easily detect the German influence.)
+
+My Judaism is strictly sentimental. I'm a totally
+non-observant atheist, and have been happily married to a
+gentile woman for 40 years.
+
+The level of scholarship of MENDELE is well over my head,
+but I do find it interesting and fun, and I hope I will be
+tolerated.
+
+This is probably more about me than you wanted to know.
+
+Martin Davis
+
+5)----------------------------------------------------
+Date: Tue, 28 Jan 92 12:01:58 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.150
+
+for m.-n. eytan:
+
+mo% she&r msyo+r,
+puve$ vu lir ske zhe$kri? sa vu ple&? sina%, po+te&tr ke vu
+ka%pra%dre$ no proble&m ave&k votrortograf. me&rsi.
+
+[conventional spelling and translation for the rest:
+
+mon cher monsieur,
+pouvez-vous lire ce que j'ecris? ca vous plait? sinon,
+peut-etre que vous comprendrez nos problemes avec votre
+orthographe. merci.
+
+'dear sir, 
+can you read what i'm writing? do you like it? if not,
+perhaps you will understand our problems with your
+spelling. thanks.']
+
+p.s. and this silly little illustration was in *standard*
+french! imagine our tsuris with your farkakte spelling of a
+*nonstandard* dialect!
+
+Ellen Prince
+
+6)----------------------------------------------------
+Date: Tue, 28 Jan 92 12:06:23 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.151
+
+for yude-leyb prager:
+
+you mention that the jokes you sent to mendele had to be
+translated from 'ludic' yiddish into yiddish-yiddish. do
+you still have the original ludic versions? if so, i'd be
+very grateful if you could send them to me, since one of my
+research areas is 'yinglish', the dialect of english spoken
+by certain jews of a yiddish background and which i think
+is the same as 'ludic yiddish'.
+
+a dank aykh.
+
+Ellen Prince
+
+7)----------------------------------------------------
+Date: Tue, 28 Jan 92
+From: nmiller@trincc
+Subject: Domestic matters
+
+Two items: recent contributors may have noticed that their
+names have been tacked on at the end of their messages.
+This may make things a bit easier in the case of long
+messages.  I mention this so that those who may have a
+special preference as to signature will do their own
+signing.
+
+The second has to do with mail that doesn't go through
+for one reason or another.  This appears to happen more
+with Internet than Bitnet subscribers and a common reason
+given is that the receiver's disk is full.  The shames
+tries to resubmit whenever possible, but there are by now a
+fair number of subscribers who've missed numbers.
+
+If you're one of those and life is less than full for the
+lack of every last pearl, just let the shames know.
+
+Noyekh
+
+______________________________________________________
+End of Mendele Vol 1.152
+
+
+
+

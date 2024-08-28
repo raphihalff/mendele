@@ -1,0 +1,156 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.209
+December 2, 1994
+
+1) Error-free Yiddish (Mimi Halkin)
+2) Hebraicization (Rick Gildemeister)
+3) Tshepn (Yude Rozof)
+4) Tshepn (Arnie Kuzmack)
+
+1)----------------------------------------------------
+Date: Thu, 1 Dec 1994 21:14:38 +0200 (EET)
+From: mhalkin@lib.haifa.ac.il
+Subject: Error-free yidish
+
+I'd like to clarify something about my request for correct Yidish in
+Mendele. It's not standard Yidish I'm looking for - I can cope with
+dialectic variations in usage and orthography, and I imagine we all enjoy
+them and learn from them. It's just gross errors of grammar and syntax
+that I'd like eliminated, if possible, and I think that's what Zellig
+Bach's proposal aimed to do, no more.
+
+Miriam Halkin
+
+2)----------------------------------------------------
+Date: Thu, 01 Dec 94 15:50:42 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Hebraicization
+
+Dovid Braun and Arre Komar have discussed Hebraicization in Yiddish and
+discuss its presence in religious or academic discourse. I'm not a formal
+scholar, but I've done a lot of reading about the presence of the
+loshn-koydesh component in Yiddish. I can't overlook what I read once
+about Glikl Haml's Zikhroynes, that the vocabulary used was about 30%
+words from loshn-koydesh. I've found in reading Western Yiddish, older
+and more current alike, that the language does indeed seem to use much
+more loshn-koydesh vocabulary. I would guess that this can be explained
+by the fact that cryptonyms needed to be used in order not to be
+understood by gentiles. Die Reste des Juedisch-Deutschen contains scads
+of loshn-koydesh words that never went East.
+
+This raises the question of whether cryptonymic jargon phrases can be
+called "Yiddish". If we see that these forms start carrying over into
+everyday speech, I'd see a case for it, which would explain Glikl's
+usage. I remember words like "ferkhileft" and countless other words now
+not used by speakers from Central and Eastern Yiddish, which she used
+routinely. "Ferkhileft" is perhaps not a good example, since the whole
+method of money-lending related to this word no longer exists, but, trust
+me, you see words like "shoufel", which Mendelyanern Marion Aptroot
+pointed out to me could have gone into Dutch through thieves' argot,
+which contained a lot of this crypto-language that existed up till World
+War II.  An interesting trade-jargon made up of crypto-Hebrew words was used by
+the cattle-traders of Alsace/SW Germany/Switzerland.
+
+To bring this long message back to a focus, I'm trying to say that "low"
+context words of Hebrew/Aramaic origin are very plentiful and not at all
+literary or religious, and probably came into the Yiddish language to
+prevent Germanic Gentiles from understanding Yiddish conversations.
+Resorting to Hebrew/Aramaic cryptonyms was simply not necessary further
+East, where the H.-A. component is smaller. Catholic and Eastern Orthodox
+Poles couldn't necessarily understand German any more easily than Hebrew.
+Nu, zoln di talmude-khakhamim epes zogn derfun. Ikh bin avade nisht
+zikher vos ikh hob rikhtik genutst dos vort "cryptonym" ober mayne
+bamerkungen zenen do, kedey ale zoln leyenen mayn brivele un zogn tsi ikh
+bin gerekht, oder zey kenen oykh derklern zeyere taynes; punkt azoy lernt
+yeder eyner a bisl mer.
+
+Rick Gildemeister
+
+3)----------------------------------------------------
+Date: Thu, 1 Dec 1994 17:33:22 -0500 (EST)
+From: jrosof@sas.upenn.edu
+Subject: tshepn
+
+[Mottel Lakin wrote in vol. 4.208:]
+
+>I find no such word in Weinreich.
+
+Tshepen (no sch!) is certainly in Weinreich: "bother, touch, handle,
+tamper with" tshepen zikh (tsu): "badger, bother pick on, annoy, bully."
+I'm sure the various other words which Mottel listed are also in
+Weinreich.  I doubt the origin suggested: tzepeetsa does not sound enough
+like tshepn, first of all.  Second of all Yiddish has absorbed relatively
+few words from Russian at all thanks to the restrictions on residence
+imposed by the pale of settlement.  The principal Slavic languages which
+influenced the development of Yiddish were as I recall from reading
+Czech, Polish, Ukrainian, and Bellorussian.  I've listed them in
+chronological order reflecting the pattern of Jewish migration east.
+
+From what I understand, although I do not speak Slavic languages, Polish
+has been by far the dominant Slavic language in its contributions to
+Yiddish; Jewish migration east was accomplished under the political
+auspices of the Polish-Lithuanian empire, thus the preeminence of Polish.
+It is noteworthy that modern Yiddish preserves original stress patterns
+of old Polish pronunciation.  Again though I am not a speaker of Slavic
+languages, my friends who speak Russian have impressed on me the
+remarkable closeness of this language group. That is, Polish is much
+closer to Russian than Yiddish is to Icelandic or German is to English.
+Thus it seems possible that the Russian source suggested for the Yiddish
+tshepen is _related_ to the actual source word in another Slavic language
+from which the Yiddish word may be derived.  I turn further discussion
+over to the Slavicists.
+
+Yude Rozof
+
+4)----------------------------------------------------
+Date: Thu, 1 Dec 1994 23:23:36 -0500 (EST)
+From: Linda Kuzmack <kuzmack@umbc.edu>
+Subject: Re: Tshepen
+
+I found it hard to believe that Weinreich did not have this common and
+tamevdik word.  Lo and behold, on page 202, second column, a little more
+than half way down:
+
+tshepen: touch, handle; bother; badger.
+t' zikh (tsu): tamper with, bother, pick on, annoy, bully.
+
+A freylekhn khanuke aykh alemen!
+
+Arnie Kuzmack
+
+______________________________________________________
+End of Mendele Vol. 4.209
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

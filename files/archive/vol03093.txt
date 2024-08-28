@@ -1,0 +1,155 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.093
+August 26, 1993
+
+1) Hilf gevinsht -- the real post! (Pierre L. Lewis)
+2) Pronunciation alternatives (Nissen Goldberg)
+3) Polish (?) geography (Zev Kesselman)
+4) Corrigendum (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Wed Aug 25 08:45:24 1993
+From: "Pierre (P.) Lewis" <lew@bnr.ca>
+Subject: Hilf gevinsht -- the real post!
+
+Tayere MENDELnikes
+
+ikh lern zikh tsur tsayt yidish gants aleyn. ikh vintsh mir emetsn
+vos mir ken helfen a bisl derbay: freges entfern vegn gramatik,
+farsendenish, kontekst un kultur (bayspiln speter). ikh volt gevolt
+kenen (hope this is correct wrt politeness!) a mentsh vos redt
+yidish vi a vaser, hot gramatik lib, un vos efsher ken a bisl taytsh
+nokh dertsu. nor a por freges (un minutn) a vokh, mer nit!
+
+ikh lez (conjugating leyenen is still too scary) tsur tsayt "yidishe
+kinder giml" un es geyt gants gut. un demolt kumt College Yiddish.
+di oysyes (training my OCR routines has been quite a bit tougher
+than anticipated) un di hebreishe verter makhn mir di greste
+shverikeytn. ikh bin a goy, un di mame-loshn iz frantseyzikh. ikh
+red oykh english un taytsh (un C++).
+
+Sample questions:
+
+- [translation]: "if i were a bird, i would fly to thee" (in German:
+  "waere ich ein Vogel, floege ich zu dir"): how to translate
+  German's Konjonktiv II?
+
+- [parsing]: "a koyne vi an arbes di groys": it means "a customer
+  tiny like a pea", but I don't really understand the sentence
+  structure (ie. what depends on what? -- eg. is "arbes" a genitiv,
+  why "vi"?
+
+- [vocab]: "rivkale, di shabesdike, arbet in fabrik": what does
+  shabesdik mean. Weinreich (or "vaynraykh" a la YIVO) proposes
+  "festive". How can a person be festive? Maybe life-of-the-party is
+  meant :-)?
+
+- [grammar]: modern German has both kennen (er kennt) and koennen
+  (er kann, no T). Thus I expected to write in Yiddish: "zi ken (no
+  T) nit kumen vayl zi kent (with T) nit dem veg". But Yiddish seems
+  to have merged both. Is this correct?
+
+- [sound]: can I have heard "er hot mitgebrengt za (instead of zayn)
+  fidele"? Just as German 'ein' matches Yiddish 'a', maybe German
+  'sein' can be matched (in some dialects) by 'za'.
+
+I expect most questions to be related to structure.
+
+A groysn dank,
+
+Pierre[le] Lewis
+
+P.S. The recent discussion on transliteration and transcription has
+been quite interesting. Besides clarifying the concepts, I have
+learned a lot about Yiddish dialects. I just wanted to mention that
+transliteration/transcription is done in the context of a given
+("target") language (in the case of YIVO, English). Tsveyvovn become
+a V in English (because the sounds match), but would probably be a W
+if the context had been German (as in Salcia Landmann's book). And I
+would have found it much easier to write/read. (note: I'm not a
+linguist).
+
+Is "Weinreich" written in yet another transliteration system, or is
+it simply the German spelling?
+
+2)----------------------------------------------------
+Date: Wed Aug 25 17:21:14 1993
+From: xidak!poseidon!bob@uunet.UU.NET (Robert N. Goldberg)
+Subject: Pronunciation alternatives
+
+My point is admittedly shifting somewhat as this discussion
+proceeds. I don't quarrel with a standard orthography, although I
+think a better choice could have been made than the YIVO standard,
+but that's life. But I still say there should be a way to determine
+the pronunciation from the dictionary, and this means (gasp) that
+the southern dialect would have to be addressed by the standard in
+some way.
+
+This idea is not so radical.  My Webster's New Collegiate Dictionary
+(1979) gives the standard pronunciation alternatives in common
+dialects, and even some non-standard pronunciations in some cases.
+For example, two pronunciations are given for "potato", and three
+for "postnuptial".
+
+Why not the same for Yiddish?  Why not annotate Weinreich's
+dictionary with regional alternates?  To save space, why not assume
+the most common vowel shifts (such as /kumets alef u/ for the
+southern dialect) and not bother listing alternatives unless they
+DON'T follow the dialect vowel-shifts?  In Ellen Prince's by now
+famous /nokh/ and /nukh/ example, the pronunciation differs
+according to the meaning of the word, so there would be separate
+southern dialect pronunciations listed under the already separate
+entries for the different meanings of StY _nokh_.
+
+This would help people like me who wish to speak a common regional
+dialect and sing songs intended for that dialect, as well as give me
+an accepted authority to consult when obnoxious people correct my
+dialect into THEIRS on the grounds that my pronunciation is
+illiterate or just plain wrong ("nobody says /tipet/, it's
+/tupet/").
+
+Bob "Nissen" Goldberg
+
+
+3)----------------------------------------------------
+Date: Thu Aug 26 01:25:20 1993
+From: "Zev Kesselman - Ext. 7306" <ZEV%HADASSAH@VMS.HUJI.AC.IL>
+Subject: Polish(?) geography
+
+	I'm trying to figure out where my father's shtetl in Poland
+was. Maybe someone out there has some savvy in poilishe geography.
+
+	The place was called Wolcza Dulna (pronounced
+vultcha-doolnya; anshuldikt mir, ehrliche orthographists!).  My
+cousin claims it was punkt-farkert: Dulna Wolcza.  I don't know if
+it's a village, city, county, region, or what.  When my father left
+it, it was Austria; when my cousin's father left it, it was Poland.
+Oyfn greynitz?
+
+	I ask, because we just discovered a possible family
+connection hailing from the cities Sonok/Linsk in Poland, and I
+would like to establish at least a geographic connection, if there
+is one.  Email info to:
+
+Zev Kesselman
+Zev@Hadassah.Bitnet
+
+4)----------------------------------------------------
+Date: Thu Aug 26 1993
+From: nmiller@dot.trincoll.edu
+Subject: Corrigendum
+
+For having overlooked Zachary Baker's identification of Yehupets as
+Kiev, my apology.
+
+Vi shteyt in posuk: V'gam im yomar hechacham lodaat (afile ven a
+narr vil vern oys-narr) lo yuchal limtso (iz keyner nishto in
+d'reym).
+
+Noyekh
+
+______________________________________________________
+End of Mendele Vol. 3.093
+

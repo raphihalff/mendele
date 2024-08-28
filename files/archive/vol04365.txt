@@ -1,0 +1,175 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.365
+March 12, 1995
+
+1) Gel and fiftsn (Johan Seynnaeve)
+2) Gel and fiftsn (Anno Siegel)
+3) Khil, srul, shmil(ik) (Dovid Braun)
+4) A Yiddish name (Michael Shimshoni)
+5) Khosn-kale (Michael Shimshoni)
+
+1)----------------------------------------------------
+Date: Thu, 9 Mar 1995 19:04:42 EST
+From: jocysey@wvnvm.wvnet.edu
+Subject: Gel and fiftsn
+
+In Old High German the adjective _gelo_ is a so-called _wa/wo_ stem
+(only a handful of adj. belong to this class).  The Nom.sg. has the
+ending -o, the oblique cases have -w+vowel: so, gelo (N.sg.) vs.
+gelwes (G.sg.). In Middle High German a new paradigm was created
+based on the oblique cases and the _w_ strengthened to a stop and
+was reanalyzed as part of the stem, hence Modern German: gelb-er,
+gelb-es, etc... In many German dialects, however, the Nom. sg.
+was generalized, the final unstressed vowel was reduced to schwa,
+and in many cases dropped out.  This is presumably also the scenario
+for Yiddish.  In Standard Dutch the word is <geel>, the result of
+lengthening of the stem vowel in open syllable, a change that preceded
+final vowel deletion.  Some Dutch dialects (my own West Flemish
+dialect included) still have _gelw@_.  So once again the different
+stages in the historical development of an item are reflected in
+the current geographical landscape of Germanic.(cf. also yellow)
+
+ad _fuftsn_:in the history of germanic deletion of an [n] before
+a fricative is well-known: compare German <uns> and English <us>.
+Notice that Yiddish has a schwa in five: [fin@f] but not in fifteen.
+The condition for n-drop is that the nasal and the fricative be
+tautosyllabic. In many cases the vowel preceding the nasal lengthened
+compensatorily after n-drop: Dutch is a good illustration, both
+<vijf> and <vijftien> evince nasal deletion and vowel lengthening.
+My guess is that in Northeastern Yiddish the i~u alternation is the
+result of n-retention vs. n-deletion + lengthening, only NEY has lost
+the short-long distinction in its vowels.
+
+Johan Seynnaeve
+Morgantown, West Virginia
+
+[forwarded by Dovid Braun]
+
+2)----------------------------------------------------
+Date: Sat, 11 Mar 95 13:58:55 +0100
+From: anno4000@w172zrz.zrz.tu-berlin.de
+Subject: History of _gel_ 'yellow' and _fuftsn_
+
+Dovid Braun:
+
+The final b in German "gelb" is a recent developement which doesn't
+appear before the 15th century.  A number of dialects, as well as Dutch,
+still have "geel" in various spellings.
+
+As for the vowel change from "finef" to "fuftsn" (also "fuftsik"), a
+number of contemporary German dialects show the same phenomenon. It
+appears in dialects as diverse as Bavarian and Berlin, and only the
+composite forms lose the umlaut, never the basic number.
+
+Anno Siegel
+Berlin, Germany
+
+3)----------------------------------------------------
+Date: Sat, 11 Mar 1995 00:57:49 EST
+From: dovid@mit.edu
+Subject: Khil, srul, shmil(ik), etc.
+
+Ellen Prince:
+
+In those dialects with long vowels, the post-tonic /e/ of names ending in
+-el drops out, while the stressed vowel lengthens, thus: /khi:l, shmi:l,
+sru:l/ etc.  In those dialects, the diminutive (or further diminutive) is
+with -ik:  /khi:lik/, etc. In litvish Yiddish, there are no long vowels,
+and different things happen:  I don't know for sure about _yekhiel_
+(although I think it's /khi'el/ -- bisyllabic), but _shmu'el_ remains
+bisyllabic and, in some subdialects (e.g. mine), hiatus-breaking y
+enters:  [shmuyel].  (M. Herzog mentioned once a further litvicization:
+pre-/y/ lowering to yield [shmoyel].)  _yisro'el_ is [yisro'(y)el] and,
+so I've been told, [yisro'l] -- again in a subdialect of litvish.  For
+litvakes, the diminutive suffix is more frequently -ke, and in these
+cases the above-mentioned /e/ deletes:  srolke (vs. srulik), shmulke (vs.
+shmilik).
+
+And wrt _elye_ as litvish only -- that puzzled me too. E. Juni is called
+Eliko, Eleshi by his grandmothers since these are the further diminutive
+forms of Elye.  (That is, it might be pronounced /elye, eli, eLe/ where
+the "L" stands for 'light /l/', but they're all forms of the name
+standardly transcribed _elye_.)  Litvish diminutives of _elye_ are
+/eLtshik, elinke/.
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Sun, 12 Mar 95 15:41:39 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: A Yiddish name
+
+Ellen Prince in her discussion of Yiddish names also mentions:
+
+>re stress, what about this: my father was yekhiyl.. and i never heard
+>any real diminutive form. is there one?
+
+The brother of our first President Chaim Weizmann and the father of our
+present President Ezer Weizman was also a "Yekhiyel", who lived in Haifa
+(as I did then) and was known as *Khilik*.   Could that be the diminutive
+form Ellen asked for?
+
+Michael Shimshoni
+Rehovot
+
+5)----------------------------------------------------
+Date: Sun, 12 Mar 95 15:58:36 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: Khosn-kale
+
+Shleyme Axelrod discusses the uses of khosn and kale:
+
+>Dvorah's impression that _khosn_ and _kale_ are what the couple are
+>called from the engagement until after the ceremony is corroborated by
+>Weinreich who translates _khosn_ 'bridegroom(-to-be), fiance' and _kale_
+>'bride(-to-be), fiancee'.
+
+This  is also  the  usage  in Israeli  Hebrew  (hatan-khatan and  kala
+respectively).  I  enjoyed making  use of the  other meaning  of these
+words.  When one of my sons got married I told  him after the wedding
+that from then on my relation to  that lady will be the  same as his
+were till  then.  He was slightly  concerned, I do not  remember if he
+blushed, till I pointed out that from now on she was my kala=daughter-
+in-law (shnur?).
+
+This double meaning of the terms hatan and kala can be found already in
+the Tanakh.
+
+Michael Shimshoni
+
+______________________________________________________
+End of Mendele Vol. 4.365
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

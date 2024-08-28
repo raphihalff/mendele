@@ -1,0 +1,135 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.316
+May 10, 1996
+
+1) Tshatshke/tsatske (Ellen Prince)
+2) Recording by Sholem-Aleykhem (Louis Fridhandler)
+3) YIVO recordings (Sherry Mayrent)
+4) Fun dem shames (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Thu, 09 May 1996 18:39:31 EDT
+From: ellen@central.cis.upenn.edu
+Subject: Tshatshke/tsatske
+
+i find harvey spiro's proposed hebrew etymologies really fascinating. and i
+agree entirely (pace noyekh!) with his intuitions about two separate words,
+tshatshke for 'knick-knack' and tsatske(le) for 'young woman to reckon with'
+(or however else you would translate 'oy, iz dus a tsatskele!' ;) ).
+furthermore, i am pretty sure it's not limited to yinglish but is in fact at
+least in the version of central yiddish that he and i grew up with.
+
+at the same time, it should be mentioned that it's very common for two
+dialectal versions of the same word to diverge in meaning, making for two
+distinct words. _kirk_, now only a man's name, used to be a dialectal variant
+of _church_; _chief_ and _chef_ were dialectal variants; likewise for _catch_
+and _chase_, etc.
+
+ok, i think we now need the old yiddish experts. (that's [[old yiddish]
+experts], not [old [yiddish experts]]!) can beatrice or someone tell us if
+_tshatshke_ or _tsatske_ occur before slavic contact? a dank.
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Thu, 9 May 1996 20:03:52 -0400
+From: lfridhan@aol.com
+Subject: Recording by Sholem-Aleykhem
+
+Sholem-Aleykhems shtime  (5.312, 2)?
+
+Ikh hob nor vos ibergeleyent epes fun Berkovitsh vegn Sholem-Aleykhemen vi er
+hot epes arayngeredt in a gramofon tsvey zakhn in 1915 in Nyu York in a shvern
+tsushtand, krank un umetik.
+
+Berkovitsh shraybt in Undzere Rishoynim 5: 195:
+
+Er hot zikh nokh gepruvt treystn mit khaloymes vegn filmirn zayne verk, vegn
+_araynredn_ zayne monologn in gramofonishe platn. .... [er] iz eynmol in a
+brenendikn zumer-tog, in krankn, farshmakhtn tsushtand, geforn in shtot tsu
+der _viktor_-gezelshaft makhn a probe afn gramofon. ....s'iz oyfgehit gevorn
+zayn shtim, in klorer, daytlekher diktsiye, durkh tsvey arayngeredte fragmentn
+fun zayne verk: _Ven Ikh Bin Roytshild_ un an onheyb fun an umbakanter zakh
+untern titl _A Freylekhe Khasene_, vos er hot aponim, gehat bedeye
+ontsushraybn.
+
+Oy volt ikh es gevolt hern af a teyp-mashin!!  Nu, Chaim ^Qeynekh Sapozinik!
+Vi azoy kumt di kats ibern vaser?  Meglekh?
+
+Louis Fridhandler
+
+3)----------------------------------------------------
+Date: Thu, 9 May 1996 23:04:08 -0400 (EDT)
+From: oyfpro@cris.com
+Subject: YIVO recordings
+
+Several years ago I had the good fortune to work very closely with Henry
+Sapoznik, in his capacity as Sound Archivist at YIVO, in an effort to catalog
+and (we hoped) transfer to an accessible medium all the Yiddish 78s in the
+YIVO collection.  The response of the institute was underwhelming, and when
+Henry and YIVO parted company, I suspect that all prospects for further
+official issuing of such material ended as well.  I relate this in the hopes
+that the Mendele community can perhaps create a groundswell of support for
+such projects and thus influence the powers that be that access to such
+precious resources is essential for those of us interested in pursuing,
+perusing, preserving and/or purveying yiddish culture.
+
+Sherry Mayrent
+
+4)----------------------------------------------------
+Date: Fri, 10 May 1996
+From: nmiller@shakti.trincoll.edu
+Subject: Fun dem shames
+
+Der shames fort avek af a vokh un efsher a bisl lenger.  Hert nisht oyf tsu
+shraybn.  Dos vet shoyn zayn farn  z e k s t n  band vayl Mendele fayert
+zayn gebortstog dem 15ten May.  Zayt mir ale gezunt.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 5.316
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,228 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.182
+November 14, 1994
+
+1) Redt and ret (Meylekh Viswanath)
+2) Redt vs ret; bistu vs bist du (Arre Komar)
+3) Writing morphemes (Arn Abramson)
+4) Bistu (Mikhl Herzog)
+5) Bistu (Rick Turkel)
+6) Gemination (Dovid Braun)
+
+1)----------------------------------------------------
+Date: Mon, 14 Nov 94 10:06:18 EST
+From: pviswana@andromeda.rutgers.edu
+Subject: Redt and ret
+
+ikh hob gefregt tsi men transkribit 'redt' vi 'redt' tsi 'ret.'
+Hot mikhl derklert:
+
+>
+> zogn, zogt men take "ret"; shraybn, shraybt men ober "redt", say mit
+> yidishe oysyes, say ven men transkribirt zey. Farvos?
+>
+> The "terets" is simple.
+[...]
+>
+> A principle of Yiddish spelling, and the prevailing principles of its
+> transcription, is to preserve the morphological integrity of the word. We
+> must therefore distinguish "er zingt/shtert/redt" from "er
+> zinkt/shtekht/ret".
+
+Very informative, thanks.  I definitely didn't know all that, esp. shtert
+-> shtekht.  I didn't even know of retn = rescue, but I had thought of
+the possibility of such a word.  Nevertheless, I wasn't sure to what
+extent YIVO transcription was strict.  For example, we have 'farshemt'
+meaning 'renowned' and 'farshemt' meaning 'ashamed' both transcribed
+similarly (I presume) with no way of recovering the original.  I realize
+that with 'redt' we have an easy way of distinguishing the two spoken
+possibilities.  On the other hand, I understood transcription to make it
+possible to more faithfully express dialect differences.  If this is so,
+then writing 'the yid. for speak' as 'redt' would not be helpful; if
+there were some dialect that actually did pronounce the 'd' in 'redt,'
+the system would not allow us to show that distinction.
+
+The answer to this 'what if' query may very well be that 'that does not
+happen' or 'it's not worth allowing for that possibility in the interests
+of the greater good.'  I presume that the answer is the second one and in
+this case, the YIVO transcription rules don't follow (what I understand
+to be) the general rule of transcription.
+
+Meylekh Viswanath
+
+2)----------------------------------------------------
+Date: Sun, 13 Nov 1994 15:20:31 -0500 (EST)
+From: komar@yu1.yu.edu
+Subject: redt vs ret, un bistu vs bist du
+
+I don't claim to be a professional Yiddishist however in a certain sense
+I am a native yiddish speaker since it was my first language at home as a
+child. I notice that when I speak I make a clear distinction between redt
+and  ret. The former ending is slightly softer and more d-like than the
+latter.  however when in comes to  bistu   it is a sharp clear t rather
+than a d as in the more germanic (or should I say daytchmerish) bist du.
+
+Arre Komar
+
+3)----------------------------------------------------
+Date: Sun, 13 Nov 94 21:35:17 EST
+From: abramson@uconnvm.uconn.edu
+Subject: Writing morphemes
+
+In my two postings about points and questions raised by Dovid and Meylekh
+very late last  night, I was guilty of an oversight. I said, "Curiously
+enough, there are instances in which the morphemic or lexical information
+is not preserved in the writing. On this board I have seen "bistu" for
+/bis du/ 'are you (fam.).' It also occurs in Yiddish script in the
+equivalent way way: beyz-yud-samekh-tes-vov! the rendition "tu" must be
+meant to reflect the lack of a contrast between /d/ and /t/ immediately
+after /s/ and the impression that the consonant is more like a /t/ than a
+/d/. (Leigh Lisker remarked on this in a posting some time ago . No one
+responded.) Compared with the writing of "redt," this is paradoxical. Why
+not preserve the information that it is the pronoun "du"?"
+
+Instead of /bis du/ for the more explicit form of 'Are you (fam.)' I
+should have written, of course, /bist du/. What must happen in running
+Yiddish speech, not surprisingly, is that the final voiceless /t/ of
+/bist/ is  assimilated to the initial voiced /d/ of /du/, given that they
+are both articulated by the tongue tip at the ridge just above the upper
+teeth (alveolar ridge). The same thing apparently happens in /host du/
+'have you,' which is pronounced /hostu/ and is so written in Yiddish
+script and thus in the YIVO spelling.
+
+In her new textbook recently advertised here, Sheva Zucker introduces
+these spellings  without comment, at least at first. Presumably, if I
+were in her class and wrote /host du/ or /bist du/, either in roman or
+Yiddish script, she would mark it wrong as an unconventional spelling. In
+such instances, I wonder how Mikhl Herzog's comment about preserving
+morphemic in formation, as in /redt/ rather than /ret/, is to be applied.
+
+Arn Abramson
+
+4)----------------------------------------------------
+Date: Sun, 13 Nov 94  22:32 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Bistu
+
+Arn Abramson:
+
+I'm not at all satisfied that I can provide as reasoned an explanation
+for writing "bistu" as I was able to do for writing "redt" as against
+"ret", "zingt" as against "zinkt". (As an aside, note that "bistu" has a
+Litvish variant "bistE" with word- final stress, as in "un vu bistE
+geven" 'and where were YOU?'.)
+
+Two things come to mind: the first may simply be fortuitous, and may be
+said to "permit" the accepted spelling; the second may, by some stretch
+of the imagination, be said to underly it. I'm not happy with either as
+"explanations" but, I offer them, off-the-cuff, as somehow, relevant.
+I've never given the matter any thought before.
+
+As for i: The spelling "bistu" is permissible and tolerable because there
+doesn't seem to be any actually occurring ambiguity. There is no
+distinction between "bistdu" and "bistu" to parallel that between "zingt"
+and "zinkt".
+
+As for ii (and this is more tortured), tell me first why you suggest that
+the spelling "bistu" is "for the expression /bis du/" rather than for the
+expression /bist du/, in which -t and d-have merged and assimilated as
+[t] to the preceding unvoiced [s]. I don't disagree, but perhaps for
+different reasons--unsatisfactory ones, maybe, but what the hell?
+
+Aren't we dealing with a word that was historically "bis"? Thereafter
+"bis + du", with the assimilation of "d" to the preceding "s", yielded
+[bistu], but could as easily have yielded the litvish type *bizdu--do you
+remember that for Uriel "the fact that" was "the [fagthat]"?
+
+Ultimately, metanalysis of [bis+du] in Yiddish and in German produced
+"bist" but left "du" (in this context [-tu]) unchanged, the consonant
+serving two masters; in English, I am guessing, and in Dutch(?), on the
+contrary, the pronoun gave up the consonant; thus "you"/"U".
+
+In other words, writing "bistu", preserves the _historical_ morphology
+represented by your writing /bis du/, even if it misrepresents the
+synchronic morphology, the preservation of which dictates the distinction
+"redt" and "ret".
+
+Whew! Will you buy that?
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Mon, 14 Nov 94 00:38:46 EST
+From: rturkel@cas.org
+Subject: Re: /bistu/
+
+Arn Abromson recently discussed the pronunciation of /bistu/, which he
+derives from /bis du/.  If this were correct I'd say that the /s/
+devoices the /d/.  However, /bistu/ is really /bist + du/, and it's the
+/t/ that devoices the /d/.
+
+Rick Turkel
+
+6)----------------------------------------------------
+Date: Mon, 14 Nov 1994 02:29:59 EST
+From: dovid@mit.edu
+Subject: gemination ('doubling of consonants')
+
+After composing my entry on double consonants, I reread it and took a
+double-take, realizing that, as it stood, I was claiming what Arn
+Abramson says I claim.  And after intuiting a bit and thinking back to
+the Yiddish linguistic literature I've read that touches on the matter, I
+was satisfied with my claim: normal spoken Yiddish has a phonological
+(postlexical, if you will) rule of degemination.  Wherever you have two
+like consonants meeting, pronounce the sequence as if there were only
+one.  "madam meyerson" is syllabified as [ma.da.me.yer.son]; "onnemen" is
+syllabified as [o.ne.men]. In "careful speech", a speaker might lengthen
+the consonant for purposes of disambiguation or phonetically preserving
+the integrity of each morpheme, but in casual speech, this is lost
+categorically. This being the fact, the codifiers of the Soviet Yiddish
+spelling system were able to go ahead and propose _orthographic_
+degemination (within the word); the Soviet spelling is thus: o-n-e-m-e-n.
+
+The following two sentences should illustrate that gemination is not
+contrastive.  (It might be difficult to level out the intonational
+differences between the sentences; but after you do bearing in mind
+that this should be said in casual style, the two sentences should come
+out equal.)
+
+ay, onnemen dem shuster far a man?
+ayo, nemen dem shuster far a man?
+
+Dovid Braun
+
+______________________________________________________
+End of Mendele Vol. 4.182
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

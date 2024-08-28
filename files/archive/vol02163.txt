@@ -1,0 +1,140 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 163
+March 19, 1993
+ 
+1) Yo/ye (Pe'rets Mett)
+2) Ye/yo (Noyekh Miller)
+3) Yiddish cataloging (Yankaleh Ziso)
+4) Dutsen Eltern (David Sherman)
+5) Reyzl (David Sherman)
+
+1)----------------------------------------------------
+Date: Fri Mar 19 04:56:25 1993
+From: P.Mett@open.ac.uk
+Subject: Yo / ye
+
+Berl (Bob) Hoberman writes [Mendele Vol 2.159]:
+
+ >>Everyone knows the Yiddish word for 'yes' is /yo/ (I guess
+ >>in Polish, Galitsyaner, and Ukranian dialects /yu/?).  But
+ >>my grandmother, from a town a few miles west of Minsk well
+ >>inside Litvish territory, said /ye/ to rhyme with /fe/
+ >>'yuck' and /ikh ze/ 'I see', and insisted that this was not
+ >>the English word "yeah" but genuine Yiddish.  Of course she
+ >>knew /yo/, but said that's not the way it was pronounced in
+ >>her dialect.  What's puzzling is that there is no regular
+ >>sound change from /o/ to /e/ in Yiddish and she said /do/
+ >>'here', /sho/ 'hour'.
+
+I have not heard anyone pronounce the word as /yu/; it is
+pronounced /yo/ by Poylishe/Galitsyane/Ukrainishe as far as
+I know. On the other hand most Litvishe I know pronounce it
+/ye/. Any way it is not cognate to "sho" and "do" which are
+pronounced by Poylishe as /shu/ and /du/.
+
+Is this any help?
+
+pe'rets mett
+
+(Does this spelling overcome the objections of the purists?)
+
+2)----------------------------------------------------
+Date: Fri Mar 19 09:30:04 1993
+From: NMILLER@BINAH.CC.BRANDEIS.EDU
+Subject: Ye/yo
+
+The first time I ever ran across 'ye' in print was in Kadya
+Molodovsky's _Bam Toyer_.  It was important for her story,
+which takes place in Israel in the early 50's, to distin-
+guish among the various kinds of Yiddish and quasi-Yiddish
+that were being spoken.  I mention this by way of a plug
+for a fine writer whose approach to the novel is so
+different from that of her fellow poet Chaim Grade. I
+wonder if someone who knows about these matters would care
+to comment.
+
+Noyekh
+
+3)----------------------------------------------------
+Date: Fri Mar 19 09:53:39 1993
+From: ZISO@ZODIAC.RUTGERS.EDU
+Subject: Yiddish cataloging
+
+Shalom u-vrakhah,
+
+Berl H. touches on a most interesting and practical
+problem, also for cataloging. In the process of cataloging
+over 500 Yiddish fiction titles, imagine how many times I
+am facing the decision of: The author is (p r o b a b l y.
+It's something to research and know how) from Galitsya, or
+Poland ...) therefore the transliteration should be for
+this vowel e, u, y, i, o.
+
+And mind you, many, many times such decisions are taken by
+someone who couldn't care less, or know more, about such
+issues. I  donnot want to belabor the very clear
+explanations of Berl H. about morphological alterations and
+questions of comprehensibility, but I think you get my
+drift as far as the need to be informed and acutely aware
+of such questions in Yiddish transliterations. That can
+explain a few of the misscomprehensibilities on OCLC/RLIN.
+But do you want explanations, or correct access ?
+
+I promise to not become a nudnik.
+
+Yankaleh Ziso
+
+4)----------------------------------------------------
+Date: Fri Mar 19 11:29:34 1993
+From: dave@CAI.LSUC.ON.CA
+Subject: Dutsen eltern
+
+[Pe'rets Mett says:]
+
+> One thing that puzzles me is that the kashes seem to be
+> phrased in terms of the familiar "dir" which children do
+> not use to their parents.
+
+Perhaps it's regional.  In our dialect children do use
+dir to their parents, and I thought it was quite common
+throughout Yiddish.  Mikhl?
+
+(What's the word in Yiddish, incidentally? It's "tutoyer"
+in French in "dutzen" in German.  "Dutsen" also?  Is there
+for verb for "to address someone as ir"?)
+
+David Sherman
+
+5)----------------------------------------------------
+Date: Fri Mar 19 11:42:38 1993
+From: dave@CAI.LSUC.ON.CA
+Subject: Re: Reyzl
+
+Hello, Reyzl.  Good to see you on MENDELE.  A grus tsu Josh
+un di kinder.... which reminds me: all MENDELEniks should
+consider making time to come to Copake NY for the annual
+Yugntruf yidish-vokh.  Me farbrengt a vokh dortn mit
+mishpokhes vos redn yidish tsuzamen.  A mekhaye!  It runs
+over the last week of the summer, leading up to Labour Day.
+
+>  Can one type in in Yiddish characters and have
+> others be able to read the Yiddish text even if they don't
+> have something like Note Bene?
+
+Absolutely not.  People on MENDELE are not all using the
+same kind of computer.  I'm using a VT-100 compatible
+(dumb) terminal, for example, connected to a UNIX system.
+Other people are using terminals, PCs, Macs and other
+computers of all stripes.  We're stuck with ASCII
+characters, which means transliteration.
+
+Zay gezunt,
+
+David (Daniel Moishe) Sherman
+Toronto
+
+______________________________________________________
+End of Mendele Vol 2.163
+

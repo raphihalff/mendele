@@ -1,0 +1,156 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.081
+October 16, 1996
+
+1) L. L. Zamenhof and Yiddish (Howard I. Aronson)
+2) L. L. Zamenhof and Yiddish (Bob Rothstein)
+3) L. L. Zamenhof and Yiddish (Irving D. Goldfein)
+4) Yiddish vegetarian writers (Pawel Brunon Dorman)
+
+1)----------------------------------------------------
+Date: Tue, 15 Oct 1996 15:54:27 -0600
+From: hia5@midway.uchicago.edu
+Subject: L. L. Zamenhof and Yiddish
+
+Ellen Prince (Mendele Vol 6.080) asked about whether L. L. Zamenhof, the
+inventor of Esperanto, knew Yiddish. Although he apparently regarded
+Russian as his first (and favorite) non-invented language, he clearly
+was a speaker of Yiddish and, in fact, wrote a fascinating grammar of
+Yiddish in Russian. The grammar was not published until 1982 with the
+original Russian and a complete Esperanto translation. In it Zamenhof
+argued for Latinization of the Yiddish writing system. He proposes a
+literary pronunciation that is almost exactly the same as the YIVO norm.
+A propos of another thread he states that one should spell 'auf' as
+'af.' His proposed spelling norms totally reject the daytshmerish
+orthography in favor of one reflecting actual Yiddish pronunciation. He
+calls for a purging of daytshmerisms from the language. All in all, a
+very "modern" approach for 1879-1882, the approximate time of
+composition.
+
+I don't know about the 'the,' but it is widely accepted that only one
+purely Yiddish morpheme made it into Esperanto. This is the suffix (now,
+basically, substantive) -edz-o 'husband,' which is viewed as a back
+formation of -edz-in-o 'wife,' and which appears to derive from the
+suffix -etsn in the word rebetsn.
+
+By the way, Zamenhof's writings on Yiddish are collected in: Adolf
+Holzhaus. "L. Zamenhof, Provo de gramatiko de novjuda lingvo- kaj
+-Alvoko al la juda intelektularo. Helsinki, 1982.
+
+Howard I. Aronson
+
+2)----------------------------------------------------
+Date: Tue, 15 Oct 1996 22:49:37 -0400 (EDT)
+From: rar@slavic.umass.edu
+Subject: Zamenhof
+
+Re Ellen Prince's question about Ludwig Zamenhof's native language:
+
+According to Reyzen's _Leksikon_, Zamenhof's father, Marcus, and his
+grandfather, Fabian, were both teachers of French and German in
+Bialystok, then part of the Russian empire, where four
+languages--Russian, Polish, German and Yiddish--were common. Reyzen says
+nothing about his first language, but points out that Zamenhof once
+thought that Yiddish, because of its widespread character, might serve
+as a basis for an international language. Zamenhof spent three years
+working on a Yiddish grammar, only fragments of which were ever
+published (in a Yiddish periodical). In his publications on Yiddish he
+suggested adopting the Latin alphabet for Yiddish.
+
+In 1958 the editor of _Yidishe shprakh_, Yudel Mark, gently corrected a
+reader who had asserted that Zamenhof's mother tongue was Russian.  He
+argued that Zamenhof grew up in a bilingual milieu even if he learned
+Russian as a child and heard Russian at home--and from his mother at
+that (YS 18:80).
+
+In a subsequent issue of the journal (YS 19 [1959]:30) another reader
+expressed his surprise that Zamenhof had written for a Yiddish
+periodical and worked on the language.  He related his own experience of
+being visited daily by Dr. Zamenhof (who was an ophthalmologist) during
+the four weeks in 1902 when he was a patient in a Jewish hospital in
+Warsaw.  He reported that the doctor normally used Polish while making
+his rounds, but since he (the patient) spoke little Polish, Zamenhof
+spoke "a 'daytshn' yidish" with him.  He added that the doctor "[hot]
+ober keyn mol nit oysgeredt keyn ekht yidish vort."  The editor (Mark)
+conceded that this may have been true, but suggested that the strongly
+anti-Yiddish attitude of the time would have made it difficult for a
+doctor to deal officially with his patients in ordinary Yiddish, "nit
+fardaytshndik a bisl zayn shprakh."  Mark added that it is conceivable
+that a person could perfectly well write about linguistic matters in
+Yiddish without being a fluent _speaker_ of the language.
+
+Bob Rothstein
+
+3)----------------------------------------------------
+Date: Wed, 16 Oct 1996 13:26:34 -0700
+From: goldfein@ix.netcom.com
+Subject: Zamenhof
+
+A second-hand but reliable personal reference: my father has often told
+me of his friendship with Zamenhof's daughter, in Warsaw. She told him
+that her father had done quite a lot of writing in Yiddish, and had in
+fact worked on a Yiddish grammar which was never published. His dream,
+however, could have been in Russian, German, Hebrew or English -
+languages with which he also had great facility.
+
+Irving D. Goldfein
+
+4)----------------------------------------------------
+Date: Wed, 16 Oct 96 09:01:19 CET
+From: dorman@plearn.edu.pl
+Subject: Yiddish vegetarian writers
+
+Is there someone who knows which Yiddish writer was vegetarian? or who
+was writing about it? References would be enough.
+
+It would be great help - because I will publish booklet about famous
+vegetarian people.
+
+Pawel Brunon Dorman
+
+______________________________________________________
+End of Mendele Vol. 6.081
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

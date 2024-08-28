@@ -1,0 +1,136 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.223
+January 19, 1996
+
+1) Pluperfect (Ellen Prince)
+2) Pluperfect (Rick Gildemeister)
+3) Columbia/YIVO Yiddish Summer Program (Yankl Salant)
+
+1)----------------------------------------------------
+Date: Thu, 18 Jan 1996 13:29:02 EST
+From: ellen@central.cis.upenn.edu
+Subject: Pluperfect
+
+thanks, dovid, for the long post. i see i didn't make myself clear. (or maybe
+you didn't. :) )
+
+first, i don't know why you say olsvanger uses _gevest_ as an 'invariant
+auxiliary in the pluperfect' -- all the tokens of _gevest_ i see are in the
+past *conditional* (i.e. with _voltn_). for the pluperfect, i've found about 6
+tokens and he uses _geven_ and _gehat_ as one would expect, e.g.:
+
+zey hobn beyde gehat gedint in soldatn, hobn zey gekent shisn. (RP51) 'they
+had both served as soldiers, so they knew how to shoot.'
+
+az der yid iz geven avekgegangen, fregt der toyber dem zun:... (RP168) 'when
+the guy had gone away, the deaf man asks his son:...'
+
+but now to more serious misunderstandings. of course you're right that SOME
+northeast yiddish (ney) speakers have leveled the hobn/zayn distinction in
+general. obviously, they are therefore of no relevance whatsoever to the form
+of the pluperfect i'm looking at and so i haven't considered them at all. the
+ney speakers i was referring to are those like olsvanger who still have a
+hobn/zayn distinction in general AND keep the earlier pluperfect, with _geven_
+as the past participle of _zayn_, e.g. the second example cited above, rather
+than use _gehat_ with both _hobn_ and _zayn_ verbs in the pluperfect. ok, is
+this clear now? sorry for leaving so much to inference.
+
+>If being a litvak is significant to auxiliary selection, and given that
+>_some_ levelling in _some_ areas of Lite and Vaysrusland has taken place,
+>wouldn't we dafke expect instances of _gehat_ with _zayn_-verbs?
+
+[i know noyekh doesn't like such quotes -- but this question is too
+complicated to paraphrase! zayt mir moykhl.] this is a slight restatement of
+what i just said: so far as i can tell, those ney speakers who retain a
+hobn/zayn distinction in general do NOT use _gehat_ with _zayn_ verbs in the
+pluperfect! it's the central yiddish speakers (and maybe southeast?) that do.
+which is very interesting and in fact fits in with my little story that what's
+going on is a syntactic reanalysis, not a lexical confusion. thanks for
+bringing it to my attention!
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Thu, 18 Jan 96 11:04:38 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Gewesst/gevezt
+
+The Olsvanger book [see 5.216, 5.218] was first published in German. I have a
+copy which was given to me as a gift by colleagues at NYU who knew that I had
+a real interest in Yiddish (I also cataloged most of their old Yiddish
+newspapers and perio- dicals). The supplementary material and footnotes are in
+German, texts are in Yiddish.
+
+The book claims to use Northeastern Yiddish. "Oy" is rendered <circumflex> ej.
+Double s is used to render Yiddish samekh, and single s is for zayen. W is
+used for v, so you get "gewesst". There are some gender conflicts, and I think
+the texts don't use neuter, so you get "di kop" instead of der. The hobn/zayn
+usage is like the klal-shprakh. But the gewesst always attracted my attention
+since my first excursions into Yiddish were I.B. Singer (btw, Der knekht was
+the first Yiddish novel I ever read, and I highly recommend it to beginners),
+and he uses "iz gehat gegangen".
+
+In Dutch you get geweest, and in Schwyzerduetsch you get gzi (gesein). Is
+there an attested Yiddish use of gezayn, I wonder?
+
+Rick Gildemeister
+
+3)----------------------------------------------------
+Date: Thu, 18 Jan 1996 12:43:56 -0500
+From: yankl191@aol.com
+Subject: Yiddish Summer Program
+
+tayere mendelyaner--ot iz undzer hayorike prese-reklame vegn der
+kolombye/yivo-yidish-zumer-program.  zayt azoy gut un kumt shtudirn yidish
+bay undz in nyu-york.  oyb nisht, shikt andere.  a sheynem dank.
+
+yankl salant
+
+1996 Columbia/YIVO Yiddish Summer Program accepting applications
+
+New York City--January 9, 1996--Applications are now being accepted for the
+Uriel Weinreich Program in Yiddish Language, Literature and Culture, which
+will take place on the Columbia University campus from June 24 to August 2,
+1996.  The program, jointly sponsored by the Max Weinreich Center of the YIVO
+Institute for Jewish Research and Columbia University, is a six-week,
+non-matriculating, three-credit college course offered on three levels:
+elementary, intermediate and advanced.  The program proper will be preceded by
+an optional two-week review session for intermediate and advanced students
+beginning on June 10.  Elementary students with no reading or writing
+knowledge of the Yiddish alphabet are required to attend a one-day reading and
+writing workshop on Sunday, June 23. People worldwide have discovered the
+importance of Yiddish as a key to understanding a significant component of the
+Jewish heritage.  Every summer for the last twenty-eight years, several dozen
+people from diverse backgrounds, professional pursuits and places as
+far-ranging as Russia, Poland, Lithuania, Argentina, China and Australia make
+their way to New York City to study Yiddish in the world's first and most
+acclaimed, college-level Yiddish-language program. Many summer program
+students have gone on to become fellows of the Max Weinreich Center, an
+accredited institute for advanced study of East European and American Jewish
+history and culture.  Others have entered graduate programs in Jewish studies
+offered by major universities throughout North America, Europe and Israel.
+The program has thus served as an essential stepping stone in the careers of
+such prominent scholars in the field of Yiddish as Janet Hadda, Michael
+Stanislawski, Jack Kugelmass and Irena Klepfisz. Participants in the program
+not only learn the fundamentals of Yiddish grammar and read Yiddish literary
+classics, but also explore the riches of East European and American Jewish
+culture through lectures in Yiddish and English, Yiddish films, Yiddish
+conversation groups and a variety of workshops in translation, theater,
+folksong and traditional dance. As a means of expanding the opportunities for
+verbal practice and creating a feeling of camaraderie, out-of-towners are
+given the option of staying in single rooms in  Yidish hoyz, a Yiddish
+dormitory suite on campus. Excursions to Jewish points of interest in and
+outside of New York City add depth and immediacy to subjects covered in the
+classroom. Dr. Allan Nadler, Director of Research at YIVO, has called the
+program "an intensive, intellectually stimulating experience, whose rewards
+remain throughout one's lifetime."   For an application including information
+on housing and partial scholarships, call, fax or write to Jeffrey Salant,
+Director of Yiddish Language Programs, YIVO Institute for Jewish Research, 555
+West 57th Street Suite 1100, New York, NY 10019, (212) 246-6080, fax (212)
+292-1892.  The deadline for scholarship applications is March 28.
+
+______________________________________________________
+End of Mendele Vol. 5.223
+

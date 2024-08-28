@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.345
+May 10, 1994
+
+1) Introduction (Ryan Oliver)
+2) Shin-vov-lamed-lamed (Arnie Kuzmack)
+3) Lesbian klezmorim (Shleyme Axelrod)
+4) Birobidzhan (Diane Rabson)
+5) Oyverbotl/orembotl (Elye/t Hersh Gertl)
+6) A makh ton (Beatrice Santorini)
+7) Yiddish word for marry (Zev Kesselman)
+
+1)----------------------------------------------------
+Date: Mon, 09 May 1994 23:24:58 -0400 (EDT)
+From: RYAN@umiami.ir.miami.edu
+Subject: Introduction
+
+There isn't much to say.  My mother speaks Yiddish, eventhough sh
+is from Cuba.  Her parents were from Russia.  I don't speak much
+just know a few phrases and words, but I am interested in learning.
+I do know Hebrew.  i am residing in Miami for a while.
+
+Ryan Oliver
+
+2)----------------------------------------------------
+Date: Sat May  7 00:17:32 1994
+From: kuzmack@umbc.edu
+Subject: Shin-vov-lamed-lamed
+
+Dvorah Halperin Biasca asks about the translation of shin-vov-lamed-lamed
+in the following phrase by H. Leivick:
+
+> ver es iz 'sh-v-l-l' di lebedike role fun undzer literatur un fun undzer
+> yidish, iz 'sh-v-l-l' undzer koym-ideye umetum.
+
+Shoylel zayn is derived from the Hebrew root shin-lamed-lamed, meaning to
+negate or deny (an idea or statement).  The Modern Hebrew [shlili],
+'negative', is from the same root.
+
+Arnie Kuzmack
+
+3)----------------------------------------------------
+Date: Mon May  9 14:28:40 1994
+From: PTYAXEL@ubvms.cc.buffalo.edu
+Subject: Lesbian klezmorim
+
+A bilingual gag too good to go unremarked in MENDELE appears in a piece
+in the latest issue of _Bridges_ ("A journal for Jewish feminists and our
+friends", whose managing editor, incidentally, is a MENDELEnitse.)  The
+article mentions a klezmer band, whose players are lesbians, named ...
+Lebedyke un Freylekh. Doubling the pun,  the writer points out that
+"_lebedik un freylekh_ means _joyous and gay_ in Yiddish".
+
+--Shleyme Axelrod
+
+4)----------------------------------------------------
+Date: Mon May  9 15:01:47 1994
+From: rabson@meeker.ucar.EDU
+Subject: Birobidzhan
+
+Our Yiddish vinkl may be interested in contributing a book or two to the
+folks in Birobidzhan.  Did anyone get their mailing address?  I've sent a
+couple of messages, but have heard nothing.  I assume they were also
+referred to the National Yiddish Book Center.
+
+Diane Rabson
+
+5)----------------------------------------------------
+Date: Mon May  9 17:39:33 1994
+From: EGERTEL@CCVAX.FULLERTON.EDU
+Subject: Oyverbotl/orembotl
+				     .
+Kh'veys az in posekh shteyt [OYVERBOT L] taytsh "senil" nor bay uns in
+der meshpokhe zogt men "OREMbotl" aroysgeredt epes azoyns: [OOrem-bootl].
+Nokh emetser?  Tsi bin ikh oykhet gevorn ........ (khas-vekholile!)...
+
+Agev, hob ikh nisht tsu der hant a Stutshkov do bay mir in byuro (un
+farkert, nishto keyn kompyuter bay uns in der shtub...).
+
+Mit de'kherets,
+
+Elye/t Hersh Gertl
+
+6)----------------------------------------------------
+Date: Tue May 10 00:17:36 1994
+From: beatrice@zora.ling.nwu.edu
+Subject: "a makh ton"
+
+hello, i have two questions.  one is relatively straightforward, and the
+other perhaps less so.  the straightforward one first.  i can't figure
+out what the following sentence from "grine felder" means.
+
+Me tor nisht a makh ton mitn hant oyf a dorf-mentshn.
+
+now the second question, which is related a bit to holger nath's recent
+question about "nas vern/vern nas".  the reason i'm interested in the
+sentence from "grine felder" is that it is an instance of the so-called
+stem construction---that is, the type "a shprung ton", "a geshrey-oys
+gebn", etc.  in this construction, the stem "a shprung", "a geshrey-oys"
+and so on usually precedes "ton" or "gebn" (at least when those verbs are
+infinitives or participles).  but there seems to be some word order
+variation possible.  in his insightful article on the construction (word
+38 (1987), 13-25), moyshe taube writes that "er hot ir a kush gegebn" and
+"er hot ir gegebn a kush" are both possible (p.22, fn.3).  now "kush"
+exists as an independent word, but certain stems are not like this.  for
+instance, the list that taube gives on p.15 of his article includes
+"bombel" (dangle), "koketir" (flirt), "mrike" (grumble), "waks" (grow),
+all of which are restricted to the stem construction.
+
+what i am curious to know is whether it is possible to have, say, "kh'hob
+dos ershte mol geton a koketir" or "hot dos berdl bay mayn bruder shtark
+geton a vaks" in addition to the attested examples that taube cites
+("kh'hob dos ershte mol a koketir geton" (p.15) or "hot dos berdl bay
+mayn bruder shtark geton a vaks" (p.20).
+
+many thanks in advance for any information on this.
+
+beatrice santorini (b-santorini@nwu.edu)
+
+7)----------------------------------------------------
+Date: Tue May 10 11:05:00 1994
+From: zev%hadassah@VMS.HUJI.AC.IL
+Subject: Yiddish word for marry
+
+Has it ever been discussed/determined here, whether the similarity of the
+word for "get married" (hairaten) to the Hebrew formula ("harei at...")
+is accidental or not?  A native German speaker here claims the word is
+pure German.
+
+If yes, can you cite the appropriate reference?  If not, can you post the
+opening paragraph?
+
+Zev Kesselman
+
+______________________________________________________
+End of Mendele Vol. 3.345
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

@@ -1,0 +1,199 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.014
+June 6, 1994
+
+1) Subject pro-drop (Ellen Prince)
+2) Yiddish Events in Tel Aviv (Moshe Maszlanka)
+3) Yidish Vokh (Odem Vaytman)
+4) Oyver-botl and its original form (Dovid Braun)
+5) Questions from the Underworld (Gregg Kinkley)
+6) Baltaxe (Henry Mullish)
+
+1)----------------------------------------------------
+Date: Sun Jun  5 08:26:57 1994
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Subject pro-drop
+
+[To Bob Rothstein:]
+
+just got home from israel and was delighted to find your note [Vol4.012]
+about zaretski and kagarov. just what i was hoping for! thanks! (if you
+or anyone else come across anything else, i'd be grateful to hear about
+them as well.)
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Sun Jun  5 12:48:25 1994
+From: ruah9408@ccsg.tau.ac.il
+Subject: Yiddish Events in Tel Aviv
+
+If you haven't found yet enough reasons to visit Israel, here you have 2
+more:
+
+12 June 1994 at the Tel Aviv Museum Hall (Shaul Hameleh Blvd.) will be
+otorgued the ITZIK MANGER Yidish Literature prize (24th. issue). [at 7.30
+p.m.]
+
+David Hofshtein Prize, by the Yidish Writers in Israel Union. (8th.
+Issue). Monday, 27th June 1994, 7 p.m. at the Lrivik House, 30 Dov Hoz
+St. Tel Aviv.
+
+Moshe Maszlanka
+
+3)----------------------------------------------------
+Date: Sun Jun  5 21:48:05 1994
+From: 74031.775@CompuServe.COM
+Subject: Yidish Vokh
+
+YIDISH VAKATSIYE
+
+Di yerlikhe Yugntruf-Yidish vokh iz say far nisht khasene gehate, say far
+khasene gehate, vos zukhn a kheynivdike iberlebung mit netsbol, shvimen,
+zingen, zikh shifln, shpatsirn, lektsiyes, a lager-fayer un a sakh mer  -
+alts oyf yidish!
+
+Mir yidish-libhobers funem yingern dor vos zenen far a yorn gekumen oyf
+undzer 18ter yerlikher yidish-vokh fun Yugntruf (der ershte iz geven in
+1976) gedenken vi gut mir hobn farbrakht.  M'iz shoyn gekumen fun
+frankraykh, daytshland, ungarn, yapan, shveydn un kanade, vi oykh fun a
+tuts shtatn.
+
+Dos yor vet di yidish-vokh forkumen dinstik, dem 30stn oygust, biz
+montik, dem 5tn september, 1994, in "kemp emanuel" in Copake, NY, in de
+prekhtike berkshir-berg.  Dos esn iz kosher, un s'iz do a shil.  S'vet
+zayn a kindhiter bshas gevise aktivitetn.
+
+Der prayz far der gantser vokh iz a vilde mitsiye -- bsakh-hakl $190 a
+mentsh oyb ir blaybt biz zuntik dem 4tn september, arayngerekhnt
+trinkgelt un transport fun shtot New York.  Oyb ir kent blaybn biz
+montik, dem 5tn september, kost bloyz $15 mer, bsakh-hakl $205.  Far
+private tsimer/vashtsimer darf men nokh tsutsoln $25/$50 a mentsh.  Ale
+bateylikte in der yidish vokh darfn zayn Yugntruf-mitglider.  Dos khaver
+gelt iz ober say vi a mitsiye: $10 far studentn, $18 far nisht-studentn.
+Me darf registrirn in gikhn. Far a yorn hot zikh ongefilt gikh.  Gedenk
+zhe tsu reservirn ayere erter bald.
+
+Mir shteln itst tsunoyf dem tsaytplan far der yidish-vokh.  Oyb siz do a
+teme vos ir kent veygn ir redn (lemoshl, literatur tsi politik), oder an
+aktivitet vos ir kent onfirn (lemoshl, a sportshpil), zayt azoy gut, lozt
+undz visn oyfn aplikir-boygn do untn, un shikt im arayn in eynem mit ayer
+tshek in byuro fun Yugntruf, 200 West 72nd Street, #40, NY NY 10023-2805
+Der telefon numer in der Yugntruf byuro iz 212-787-6675.
+
+----------------------------------
+
+Vi heyst ir? __________________________________ Oyf yidish ___________________
+
+Adres ________________________________
+
+Telefon (in ovnt) _______________________ Telefon (bay tog) __________________
+
+Vi vilt ir kumen?  ____oyto   ____ Brukliner oytobus  ___Bronkser oytobus
+
+Oyb ir kent onfirn mit an aktivitet, oder ouf a gevise teme, git do a kurtse
+
+bashraybung : _________________________
+
+Mishpokhe: rekhnt oys di nemen fun di mishpokhe-glider vos kumen mit, vi oykh
+
+di elter fun di kinder ____________________
+
+Vilt ir beser a private tsimer/vashtsimer ($25/$50 iberik a mentsh)? _________
+
+Odem Vaytman
+
+4)----------------------------------------------------
+Date: Mon Jun  6 19:49:40 1994
+From: dovid@MIT.EDU
+Subject: oyver-botl and its original form
+
+The spelling of oyver-botl in that article in the Forverts is according
+to how the expression appears in peyrek (Pirkey Oves).  I doubt it was
+meant to be read any way other than [oyver-botl].  Assuming Yiddish got
+the expression from Mishnaic Hebrew, we would indeed expect
+[oyver-uvoteyl] and then maybe [oyver-uvotl].  Yiddish is "bound" by the
+rule in the sense that, if a lexical item in which this rule is
+instantiated makes it into Yiddish, the phonetic output of such a rule
+shouldn't be expected to be different in Yiddish, al- though it may be.
+In oyver-botl, the original sounds different in the Yiddish by lacking
+the result of the Hebrew lenition rule (/b/ going to /v/ after /u/) AND
+the conjunction u- itslef.  So if oyver-uvoteyl is read without the
+conjunction in Whole Hebrew, you have oyver-boteyl and not *oyver-voteyl.
+The u- dropped out first, presumably within Hebrew where Hebrew
+phonological rules hold, then got integrated into Yiddish where vowel
+reduction took place a la Yiddish phonological rules and stress patterns:
+boteyl --> botl. So my assumption is that oyver-uvoteyl was already
+lacking the conjunction in pre-Yiddish Hebrew speech (vernacular or
+learned discourse, or whatever form of Hebrew it was that first fed into
+Yiddish).
+
+Dovid Braun
+
+5)----------------------------------------------------
+Date: Mon Jun  6 20:30:00 1994
+From: gkinkley@uhunix.uhcc.hawaii.edu
+Subject: Questions from the Underworld
+
+	Aloha, mendelniks, fun Hawaii, the treyffene medinah of the
+Pacific.  I had to desubscribe from mendele for awhile (I was on
+Compu$erve), but now with an internet connection I am back I hope.
+
+	I have two questions, both of which can probably be answered
+readily by most of you out there, but I plead my ignorance, so bear with
+me:
+
+1. What does YIVO stand for? (not politically; acronymically)
+2. What does "shpilkes" mean?  Etymology?
+
+	At this point in my beginning of the study of Yiddish, I'm afraid
+that if Leo Rosten doesn't have it, I don't have it.  Any help would be
+appreciated.
+
+Gregg Kinkley
+
+6)----------------------------------------------------
+Date: Mon Jun  6 21:06:17 1994
+From: MULLISH@ACFcluster.NYU.EDU
+Subject: Baltaxe
+
+Since there are so many melamdim on this discussion list, permit me to
+present the following question. I have recently made a professional
+e-mail contact with a fellow whose last name is Baltaxe. He is a proud
+Jew and though an American now lives and teaches in a university in New
+Zealand.
+
+He claims that his name means originally: the bailiff of a rabbinical
+court.
+
+I wonder if anyone can corroborate this meaning?
+
+Henry Mullish
+
+______________________________________________________
+End of Mendele Vol. 4.014
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

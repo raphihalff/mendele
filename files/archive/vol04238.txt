@@ -1,0 +1,148 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.238
+December 15, 1994
+
+1) Trilled 'r'/curses (Yude Rozof)
+2) The [RR] proposal (Zellig Bach)
+3) Vi got in Frankraykh (Michael Shimshoni)
+4) Thieves' Latin or Kokhemer loshn (Ruben Frankenstein)
+5) Hob und bin (Bert Steinberg)
+
+1)----------------------------------------------------
+Date: Wed, 14 Dec 1994 22:02:19 -0500 (EST)
+From: jrosof@sas.upenn.edu
+Subject: Trilled 'r'/curses
+
+How widespread is the rolled r in Yiddish?  Is it found in South German
+Yiddish as in coterritorial German dialects?  Does it vary regionally in
+Eastern Europe?  Re: speech impediment: are some people physically
+incapable of rolling their r's or is this merely a question of upbrin-
+ging?  I have noticed that a rolled r is common in the Yiddish of
+recent immigrants from Eastern Europe.  Is the current high frequency of
+the rolled r in this group attributable to interference from the Slavic
+tongues or does this reflect authentic traditions?
+
+Another theme.  Yiddish has been a hobby of mine for quite a few years
+now, and I _still_ know close to zero Yiddish curses.  I know "gey kakn
+afn yam," "kak zikh oys!" and "a shtik drek!"  I also know "a pisher, a
+pots, a shmok, a tsatske".  I imagine one can by analogy say "pisht zikh
+oys!"  That about completes my knowledge of Yiddish curses.  I have heard
+enough "ir zolt vaksn vi a tsvibl mitn kop in d'rerd!"  I want to see
+some mamoshesdik shpet-loshn, some real Yiddish vulgarity on a par with
+German Scheisse, English sh--, f---, etc.  No hyphens in Yiddish please!
+
+Is Yiddish really such a pristine language?  All shmo and beytsim?  Lozt
+hern khevre!  Git (shpet) loshn!
+
+Yude Rozof
+
+2)----------------------------------------------------
+Date: Wed, 14 Dec 1994 22:28:54 -0500
+From: zellig@aol.com
+Subject: The [RR] proposal
+
+I greatly appreciate Anno Siegel's comment (4.236,2) about my [RR]
+proposal, and fully agree with the logic that the [RR] flag, for  Review
+Requested, be published with the text proper and *not* deleted.
+
+No shame attaches to anyone acknowledging, even publicly, that he or she
+does not know a language they did not learn, but wish to learn.
+
+The [RR] tag, at the beginning of the message, will serve as a useful
+indicator that the text has been reviewed prior to publication, and (I
+quote) "would thus make Mendele an even more valuable instrument in
+learning (or picking up) some Yiddish."
+
+Zellig Bach
+
+3)----------------------------------------------------
+Date: Thu, 15 Dec 94 11:02:36 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: Vi got in Frankraykh
+
+Alan Astro asked:
+
+>Also, how German do people feel "gliklekh vi got in frankraykh" is?  Does
+>it have real yikhes in Yiddish?
+
+I know that expression (in German, with German spelling) with a minor
+difference.  Instead of "gliklekh" it says "lebt".  I took it to refer to
+the  comfortable life and good  food of France.  Simply,  leading a
+pleasant life.
+
+Michael Shimshoni
+
+4)----------------------------------------------------
+Date: Thu, 15 Dec 1994 11:26:47 +0100 (MEZ)
+From: frankens@mibm.ruf.uni-freiburg.de
+Subject: Thieves' Latin or Kokhemer loshn
+
+Eve Jochnowitz [Vol. 4.229] asked about _rotwelsch_. My answer may have
+been too short. This vernacular of the vagabonds in German lands (similar
+idioms must be found in Roman languages and in Anglo-Saxon as well) goes
+back to the 13th century. One of the first studying and writing about it
+was Martin Luther. Salcia Landmann published in her popular book about
+Yiddish a small dictionary of this language, just to show the high
+percentage of hebrew and aramaic words in it, of which quite a lot
+changed or shifted their meaning. The best source and dictionary of this
+language was published by Sigmund Wolff, the author of the dictionary of
+Yiddish (just the words of german origin). Besides the oldest name
+_rotwelsch_ the language has also a name  that stems from Yiddish:
+_kokhemer loshn_, a German name: _kundenschall_ = sound of the
+well-informed, and a gipsy name _jenische sprache_ = from the gipsy word
+"dsan" - to know. It is this language which served as a canal for quite a
+lot of idioms from the Hebrew through the Yiddish or directly into the
+colloquial German, like the word Pleite (playte) from the Hebrew "pleyta"
+for bankruptcy.
+
+Ruben Frankenstein
+
+5)----------------------------------------------------
+Date: Thu, 15 Dec 1994 09:06:12 -0500
+From: mate1920@aol.com
+Subject: Hob und bin
+
+Our Yiddish havorah has been discussing the proper use of the verbs hob
+and bin for months now -- since many recall using one or the other for
+the same verbs in the past tense.  Is there a rule of grammar which
+governs here -- or is it purely a dialect variation.  Any help is
+appreciated.
+
+Bert Steinberg
+
+______________________________________________________
+End of Mendele Vol. 4.238
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

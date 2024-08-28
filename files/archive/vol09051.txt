@@ -1,0 +1,307 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 09.051
+January 11, 2000
+
+1) EYDES project (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Tue, 11 Jan 2000 17:29:30 -0500 (EST)
+From: "mikhl herzog" <mherzog@bestweb.net>
+Subject: EYDES project
+
+I expect that the following will be of considerable interest to Mendele
+subscribers who are interested in the language, culture, and history of
+Ashkenazic Jewry. My colleagues and I will be pleased to respond to any
+questions that may arise therefrom. Questions may be directed to
+mherzog@bestweb.net or to robert.neumann@rhein-neckar.netsurf.de
+
+Mikhl Herzog, Editor-in-Chief
+Language and Culture Atlas of Ashkenazic Jewry,
+Columbia University
+
+
+The following report was recently delivered in Chicago, to the annual 
+Meeting of the Linguistic Society of America, by Robert Neumann, a 
+member of the Editorial Collegium of the _Language and Culture Atlas of 
+Ashkenazic Jewry_ (LCAAJ), and chief of it data-processing operations.
+
+Abstract
+
+Beginning in 1959, a group of field workers interviewed emigrant informants
+in the USA and Israel, many of them survivors of the Holocaust, and all of
+them native to one of 603 selected cities and towns in Central and Eastern
+Europe. Some 6000 hours of tape recordings testify to the variety of
+language, folklore, life style, and cultural practices that characterized
+the Jewish communities prior to World War II. The resulting archive provides
+the basis for Yiddish and interlingual study and is a resource for
+anthropological, cultural and historical research. The inherent biographical
+information is a significant record of Holocaust history. 
+
+Under the acronym EYDES a group of researchers has begun to digitize the
+archive and build an indexed database. EYDES preserves this archive and
+makes it accessible electronically for query and analysis. EYDES involves a
+range of challenging research issues particular to spoken language data. In
+addition, a four tiered representation will be required: a Yiddish
+transcription, and translations into English, French and Russian. EYDES
+handles multilingual representations, access methods, methods of
+transliteration, multi alphabetic management, and meets cataloguing/indexing
+challenges. It is realized by the collaboration of various cultural and
+academic institutions, drawing on the expertise of their specialists. 
+
+
+Framework and Issues
+
+1. The Blind Spot in the European Eye
+
+Yiddish language and literature flourished in Europe during in the first
+half of this century and had a remarkable impact on the surrounding cultures
+despite intense pressure resulting from economic hardship and the
+nationalization of coterritorial cultures. An education system existed which
+supported kindergartens, primary and secondary schools, along with their
+respective umbrella organizations, vocational schools, teachers' seminars,
+theologi-cal and academic institutions.  In the midst of the European
+modernist national literatures, Yiddish literature came to fruition in this
+century and enjoyed an international reputation.  Yiddish theater developed
+with great impetus and created a linguistic standard of its own, a
+particular stage pronunciation.  A network of social institutions sustained
+daily life with children's homes, old age homes, soup kitchens and other
+support for the poor, health organizations, and workers' unions.  Reserved
+representation in parliaments and city councils , social clubs, sportclubs ,
+cultural organizations and political parties were the pillars of
+Jewish-Yiddish identity.  Throughout the centuries, Yiddish speakers were
+aware of the closeness of their language to its sister language German.  As
+a result, German cultural life drew Yiddish writers and Jewish artists and
+intellectuals like a magnet up until 1933.  These developments all came to
+an abrupt halt with the rise of German fascism. Jewish life and all its
+culture were destroyed in the Holocaust. European Yiddish with its cultural
+and religious variety, was all but obliterated on its home territory. In
+places of refuge untouched by German soldiers the Stalinist persecutions
+liquidated the last pockets of Jewish culture and made it impossible after
+1945 to reconstitute Jewish life in the Soviet controlled imperium.  The
+socio-psychological outcome of National Socialism in Germany, combined with
+pre-war anti-Semitism in Europe, together with decades of European life
+split by the Iron Curtain have erased the knowledge of Yiddish culture from
+the European mind. Since the end of World War II and the fall of the Stalin
+regime, centers of Yiddish language and literature have grown in communities
+overseas, detached from their lands of origin and from the languages with
+which they shared many centuries of coterritorial development, in the first
+instance, German and the Slavic languages. It is a paradox that in the very
+European areas with which they long shared both productive and tragic
+developments, Yiddish language and culture have been largely relegated to
+the realm of folkloristic exotica, with a touch of nostalgia and
+anachronism. This dilemma was addressed by UNESCO, in the resolution of its
+24th session, which seeks to counteract those developments and to "muster
+extra-budgetary resources for activities to preserve and promote the Yiddish
+language and culture ..."  In March of 1996 the European Council, too,
+called upon the European states to protect Yiddish language and culture and
+to foster activities which serve its cultivation. 
+
+2. The Language and Culture Atlas of Ashkenazic Jewry.=20
+
+In the 1950s, the renowned American linguist Uriel Weinreich at Columbia
+University, New York, began to realize the long harboured dream of creating
+a Yiddish language and culture atlas.  "... what is familiar in one year may
+be thrust to the brink of oblivion in the next ... What was too obvious for
+study only yesterday has suddenly become precious ....what we do not collect
+in the coming decade or so will be lost forever."  He undertook the unique
+task of reconstructing the historical Yiddish language and culture area
+after it had been dislocated and its home territory had been destroyed. Such
+a large-scale effort at conducting language and culture geography "at a
+distance" had never before been attempted. 
+
+Beginning in 1959, a group of skilled field workers in the USA and Israel
+interviewed emigrant informants, many of them survivors of the Holocaust,
+and all of them native to one of 603 cities and towns in Central and Eastern
+Europe. Between 1959 and 1972 the fieldworkers conducted interviews in
+sessions lasting over several days, thereby creating an irreplaceable
+tape-recorded archive of the living language in all its geographic
+diversity. Some 6000 hours of tape recordings, accompanied by approximately
+100,000 pages of field notes testify to the variety of language, folklore,
+life style, and cultural practice that characterized the Jewish communities
+of Central and Eastern Europe prior to World War II. In view of the fact
+that many of the people interviewed were survivors of the Holocaust, the
+biographical information which they provided must be considered a
+significant record of relevance to Holocaust history, as well. 
+
+At the heart of the inquiry, and thus of each interview, was a questionnaire
+carefully designed by Uriel Weinreich on structural principles to cover the
+main topics of the linguistic and ethnological variety in the former Yiddish
+language territory. The questionnaire guaranteed the comparability of the
+informants' answers and made it possible to elicit information on a large
+number of central linguistic and cultural phenomena. The resulting archive
+of nearly 6000 hours of taped conversation preserves the most authoritative
+testimony to Yiddish language and culture in Europe in the 20th century.  It
+provides the basis for reconstructing the genetic links between Yiddish and
+German in chronological terms, i.e. to the earliest Jewish settlements in
+the Rhine and Danube valleys.  In addition to its obvious relevance for
+scholars of linguistics - particularly Yiddishists, Germanists, and
+Slavicists - the archive also provides a unique resource for anthropological
+and historical research as well. 
+
+The LCAAJ archive thus serves a two-fold purpose: it constitutes a first
+rank monument to European heritage and an irreplaceable resource for the
+study of a life and culture that was destroyed by the Holocaust during World
+War II. This was emphasized at an international meeting of experts of the
+Israel National Commission for UNESCO which recommended the LCAAJ as a
+primary object of research. The experts consider the preservation,
+exploration and development of this archive as a key to the "sustenance and
+reclamation of the cultural values created by the Jewish communities of
+Eastern and Central Europe in the centuries before their destruction". 
+Since the spring of 1995 the archive is owned by the libraries of Columbia
+University, New York.  Columbia University is committed to the preservation
+of the 6000 hours of interviews which are stored on about 2600 reels of
+tape. 
+
+Our Answer
+
+We have decided to undertake the following: to transfer the Yiddish language
+and culture archive onto the computer, to integrate it into a communication
+network, and to make it accessible computatively. The post-Gutenberg
+attributes and advantages of the new communication media and their
+structures will be used systematically in order to reflect the manifold
+linguistic and cultural dimensions inherent in the holdings of the LCAAJ
+archive. The hitherto unparalleled degree of information presence via those
+new communication structures will be used systematically towards presenting
+the wealth of information from the LCAAJ archives in the EU states, in
+Central and Eastern Europe, at universities and in museums, in radio
+stations and newspaper offices, in publishing houses and media industries.
+We plan to make this documentation fully accessible to cultural
+institutions. Although we require the skills of linguists and computer
+specialists in order to access and process the archival materials, the
+transcribed project could not be successfully executed without the
+collaboration of museums, memorial institutions and libraries. 
+
+As a result, the LCAAJ archive is being brought to Europe and the
+collections are being processed and disseminated. In a first step, in
+cooperation with its partners, the _Foerderverein fuer jiddische Sprache und
+Kultur_ (FJSK), will create and test a prototype of the designed electronic
+archive.  In a second step, the materials from the LCAAJ archive will be
+inputted into that prototype. They will be inputted in two ways: as
+digitized speech and as transcribed speech, i.e. as written transcripts. In
+this way, the archive materials will be electronically represented.  In a
+third step, the archive materials will be electronically documented and
+'catalogued' by building various indexes. In a fourth step, the arising
+Yiddish culture database will be entered into electronic networks and by
+that be made accessible to the general public.  At the same time, special
+applications in different cultural areas (linguistics, music/entertainment,
+political education) will demonstrate the archive's relevance, importance
+and diversity.
+
+The EYDES  Idea
+
+The goals projected above require a long-range workplan which will encompass
+about 4-5 years. The following description details the first component of
+that long-range workplan. Where it is necessary, I will also outline the
+framework within which that effort will take its place. 
+
+1. The Significance of the Archive User
+
+All activities associated with the first project period are accompanied by a
+usergroup. Its role stresses the immense importance of users for our
+project, users who will realize the dissemination of the archive materials
+in the future and thereby serve as potential multiplicators of this
+initiative. To constitute the usergroup, representatives have been invited
+from various sectors: institutions devoted to secondary and tertiary
+education, political education, culture and the arts; the entertainment
+industry; institutions for the preservation of cultural heritage; academic
+institutions. At every stage of the work, the representatives are expected
+to provide the project with feed-back and advice. At the same time, the
+usergroup also serves the important function of introducing potential users
+to the computerized archive while it is being built. 
+
+2. The Original taped Interviews as a Data Base
+
+The interviews of the LCAAJ archive stored on digital audio tapes will be
+inputted as digital speech signals into a data base. In the process, the
+continuous interview from each location will be so segmented as to permit
+the user direct access (i)to all the data relating to each of the 603
+locations covered by the survey and (ii) to the responses from 603 different
+locations to each of approximately 3200 questions in the questionnaire. The
+segmentation of the data by location and by question number permits small
+and well defined units to be extracted in response to a set of linguistic
+and culture-historical questions which underlie the design of the
+questionnaire and of the entire investigation. 
+
+3. Transcription and Accessibility
+
+At the above described first level of work, easy access will be provided to
+the answers of each informant (of each location) to all questions indicated
+in the questionnaire. However, all taped materials not directly relating to
+the specifically elicited questionnaire topics will remain unidentified and
+therefore inaccessible. Each interview also has taped records of many hours
+of continuous conversation which touch upon topics of ethnographic and
+historical relevance. These discussions constitute a unique resource for the
+study of contemporary European history, cultural and settlement history,
+connections between the Central and East European territories, the history
+of emigration, and the growth and development of overseas 'colonies'
+throughout the five continents, which maintained decades-long cultural and
+economic relationships to their home territories until the latter were
+destroyed in the Holocaust. These records consist of shorter or longer
+narratives, sometimes of songs, proverbs, folk-remedies, folktales, etc. We
+estimate that a third of the tape materials consist of such materials which,
+in accordance with French tradition, we call "ethnotexts". 
+
+These data are contained in largely unstructured and freely associative
+speech passages which originated spontaneously during the course of an
+interview. While they were invited and actively welcomed by the interviewers
+and were tape-recorded in full, they were neither recorded on paper nor
+indexed in any way. They are accessible only on the tapes in the original
+sound, with no indication as to place or content. In order to provide access
+to these invaluable and irreplaceable unstructured materials and to make
+most efficient use of them, we have begun to transcribe all interviews,
+creating written records of the audio recordings. The transcription of the
+LCAAJ tapes follows the guidelines of Standard Yiddish spelling (the
+transcription of the western language varieties will provide a functional
+equivalent thereof). All spoken language that can be heard on the tapes will
+be transcribed: the speech of each interviewer and the comments of
+bystanders will be recorded in script along with the answers of each
+informant. Each text will be attributed to its respective speaker and marked
+as such. The transcribed interview records will be inputted into the
+computer along with the original sound recordings. 
+
+The transcripts in Standard Yiddish orthography will also be presented in a
+transliteration based on the Roman alphabet, so that the accessibility of
+the archive be maximized. The presentation which will follow the
+internationally used YIVO Romanization of Yiddish texts.  It can be
+generated automatically, on the basis of rules and exception files.
+
+The emerging written texts will be linked and synchronized with the
+previously structured question/ location segments of the original sound
+signals. In this way a bi-medial full text data base originates, consisting
+of spoken language and accompanying written records which are synchronized
+and referred to one another through pointers. The symbolic part of text in
+this full text data base can now be accessed as described below, using the
+general techniques of indexing and retrieval.
+
+The wordforms will be lemmatized and lexicalized, so that a new kind of
+thesaurus will emerge therefrom. This new thesaurus is then not dependent of
+the concepts used by specific academic disciplines; it is based, instead, on
+common language designations and provides optimal access to any kind of
+search process. When the outlined tasks have been carried out potential
+clients will be able to research the archive to its full extent on the basis
+of text tokens. They will not be restricted to specific, pre-structured
+concepts and to the coordinates of a scheme which was pre-designed by
+linguistic or ethnologic spealists. 
+
+In addition, we intend to translate the lexicalized documentation into
+English, French, Russian and German. Of course, we will also install the
+already existing specified indexes, i.e. the Index to the Dialectology. 
+Thus the archive can assume its innovative role and serve specific research
+purposes as well as broad educational aims in the public sector specific
+research purposes. 
+
+______________________________________________________
+End of Mendele Vol. 09.051
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://metalab.unc.edu/yiddish/mendele.html
+
+
+

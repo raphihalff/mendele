@@ -1,0 +1,174 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.237
+December 15, 1994
+
+1) Borkhes (Meylekh Viswanath)
+2) Otwock, Bereza Kartuska (Gaston L. Schmir)
+3) Otwock, Bereza Kartuska (Bob Rothstein)
+4) Otwock, Bereza Kartuska (Michael Shimshoni)
+5) Otwock, Bereza Kartuska (Michael Steinlauf)
+6) Software (Kayle Goodman)
+7) Ghooghit (Dan Leeson)
+8) Tshatshke/tsatske (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Wed, 14 Dec 94 17:16:40 EST
+From: pviswana@andromeda.rutgers.edu
+Subject: Borkhes
+
+Arre Komar writes:
+> However there was an important caveat: borkhes was explicitly and
+> exclusively milkhig.
+
+Very strange.  Isn't there a halokhe that bread may not be milkhik unless
+it is has an unusual, out of the ordinary, appearance?  Is this perhaps
+the origin of the twist?  That twist bread is originally properly
+milkhik?
+
+Meylekh Viswanath
+
+2)----------------------------------------------------
+Date: Wed, 14 Dec 1994 19:01:06 -0500 (EST)
+From: glschm@minerva.cis.yale.edu
+Subject: Otwock, Bereza Kartuska
+
+To Kathryn Hellerstein [Vol. 4.236]:
+
+Both Otwock and Bereza Kartuska were within the borders of Poland in
+1923. Otwock was a popular resort just 16 miles ESE of Warsaw. Bereza
+Kartuska, located about 58 miles WNW of Pinsk in present-day Belarus, was
+the site of a notorious concentration camp set up by the Polish
+government between the two World Wars to house political opponents of the
+regime.
+
+Gaston L. Schmir
+
+3)----------------------------------------------------
+Date: Wed, 14 Dec 1994 22:27:53 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Otwock, Bereza Kartuska
+
+1. Bereza Kartuska was in prewar Poland, but is now in
+Belarus, where it is known as Biaroza (on Russian maps:  Bereza).
+It is in the Brest _oblast'_ at 52*5' N, 25*0' E.
+
+2. Otwock is and was in Poland.  It is located some 30 km
+southeast of Warsaw.
+
+Bob Rothstein
+
+4)----------------------------------------------------
+Date: Thu, 15 Dec 94 10:48:11 +0200
+From: mash@weizmann.weizmann.ac.il
+Subject: Otwock, Bereza Kartuska
+
+I checked in my five volume 1959 (London) Times Atlas.  I found Otwock
+close to Warsaw on  the road to Lublin.  I do not know  if that is the
+one with  the hot springs.   This was surely  in Poland also  in 1923.
+There  are many  entries  of  places in  Belorus,  Ukraine and  Russia
+starting "Berez..", but  nothing exactly Bereze or  Kartuskay or their
+combination.  The closest fit could be Bereza in Belorus some 60 miles
+north-east of Brest (Litovsk) on the road to Bobruysk.  It is possible
+that before 1939 it was in Poland as it is pretty close to the present
+Polish border, and might have been taken then by USSR.  I have no easy
+way to check this.
+
+Michael Shimshoni
+
+5)----------------------------------------------------
+Date: Wed, 14 Dec 1994 18:41:30 -0500 (EST)
+From: m_steinlauf@acad.fandm.edu
+Subject: Otwock, Bereza Kartuska
+
+Both the towns you ask about were in Poland c. 1923. Otwock: resort town
+very near Warsaw. Kartusz Bereza: Pilsudski sent his political enemies to
+a concentration camp there in 1930. If you need more, I can dig out some
+maps and check further.
+
+Michael Steinlauf
+
+6)----------------------------------------------------
+Date: Wed, 14 Dec 1994 18:00:12 -0800
+From: ac939@lafn.org
+Subject: Software
+
+Ikh zukh azh mit likht a yidisher program far (1) windows (2) must have
+both cursive and block yiddish fonts (3) must appear in English, block,
+cursive, graphics on one screen (ability to manipulate within dtp.)  All
+this in trutype.
+
+Nu efsher iz do a nes un emetser vet visn fun a za bashafanesh.
+A sheynem daynk tsu di mendelyaner velkhe shikn entfer.
+
+Kayle Goodman
+
+7)----------------------------------------------------
+Date: Wed, 14 Dec 1994 18:36:56 EST
+From: leeson@admin.fhda.edu
+Subject: Ghooghit
+
+I really have to thank Dovid Braun, Khayem, and Shleyme Axelrod for
+helping me figure out that what I thought was ghooghit is really zhuzhet.
+And I was in hysterics for a full 10 minutes realizing how badly I had
+stated that word and what it was that we had to go through to get the
+sound of the word from my ear to your head.  (My wife keeps saying, "I
+told you it was "zh...")
+
+It was worth everything to have gotten this matter poked around on
+Mendele.  I'm still giggling and smiling and laughing and chortling and
+even my ear doesn't zhuzhet any longer.  You guys may not have found it
+funny, but I am absolutely exhausted from splitting my sides.
+
+However, the description of the ankle pain given by Shleyme has no
+character.  There should be a special word for an ankle pain.
+
+Dan Leeson
+
+8)----------------------------------------------------
+Date: Wed, 14 Dec 1994 22:32:09 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Tshatshke/tsatske
+
+The Polish word _cacko_ [tsatsko] is usually explained as a dialectism
+for the older _czaczko_ [chachko], variants of which exist elsewhere in
+Slavic. The etymological dictionaries treat this as coming from baby
+talk--a nursery word for 'toy'.
+
+Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol. 4.237
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,250 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.373
+March 21, 1995
+
+1) Introduction; Singer in Gaelic (Roberta Saltzman)
+2) Isaac Bashevis Singer's story (Morrie Feller)
+3) The Russian medal (Berel Leiser)
+4) The Russian medal (Paul Pascal)
+5) HaKotev software (Andrew Cassel)
+6) The Future of Yiddish (Walter Zimmerman)
+7) Marc Kaminsky's Paper on Mentsh (Louis Fridhandler)
+8) Yiddish seminar in London (Roger Harris)
+
+1)----------------------------------------------------
+Date: Tue Mar 21 10:32:10 EST 1995
+From: rsaltzma@nyplgate.nypl.org
+Subject: Introduction; Singer in Gaelic
+
+My name is Roberta Saltzman, and I'm a librarian in the Jewish Division
+of The New York Public Library. I catalog books in Hebrew and Yiddish and
+I also work at the reference desk. I've completed a bibliography of I.B.
+Singer's Yiddish works from 1960-1991, which will (I hope) be published
+this year. And this brings me to my main reason for writing, which was a
+query in Mendele Vol. 4.372.
+
+Jonathan Dembling asks about the origin of a Gaelic translation of a
+Singer story "the title of which translates into English as 'Jealousy'
+... The title could also mean 'Zeal.' I've only just started to read the
+story, but so far there is a Zalman and a Rabbi Meir in the village of
+Radoszyce." I know of no Singer story that has "jealousy" or "zeal" in
+the title, but I believe Mr. Dembling has a translation of one of the
+stories that involve Zalman the glazier (who always tells about his
+village, Radoszyce) and Meir the eunuch. I know of five stories in which
+these characters appear:
+
+1. "Dray mayses" appears in Yiddish in book form in "Der shpigl"
+(Jerusalem, 1975). It was translated into English as "Three tales" in
+"Short Friday, and other stories" (NY, 1964)
+
+2. "Mayses fun hintern oyvn" appears in book form in the collection of
+the same name (Tel Aviv, 1971) and in "Der shpigl". It was translated
+into English as "Stories from behind the stove" in "A friend of Kafka"
+(NY, 1970)
+
+3. "Tayves" appeared in the journal "Goldene keyt", no. 87 (1975), pp.
+16-26. It was translated into English as "Passions" in the collection of
+the same name (NY, 1975)
+
+4. "Tsvey hasenes un eyn get" appeared in the "Forverts" on April 24,
+1977 (pp. C1, C2 and C19). It was translated into English as "Two
+weddings and one divorce" in "Old love" (NY, 1979)
+
+5. "Moon and madness" in "The collected stories of Isaac Bashevis Singer"
+(NY, 1982). I haven't been able to identify the original Yiddish of this
+story.
+
+Of course, you need more plot details to determine which of these stories
+was translated into Gaelic, but this is a start.
+
+Roberta Saltzman
+New York, NY
+
+2)----------------------------------------------------
+Date: Sun, 19 Mar 1995 17:36:27 -0700 (MST)
+From: feller@pcef.pc.maricopa.edu
+Subject: Isaac Bashevis Singer's story
+
+Response to Jonathan Dembling.  The story appears in "The Collected
+Stories" of Isaac Bashevis Singer under the title: Passions.  Published
+by Farrar, Straus, Giroux - 1982, p.485.  I may have the Yiddish version,
+but it may take a while to locate it.
+
+Morrie Feller
+
+3)----------------------------------------------------
+Date: Sun, 19 Mar 95 19:02:48 EST
+From: leiser@pacevm.dac.pace.edu
+Subject: The Russian medal
+
+[Larry Rosenwald:]
+
+The "accent" marks you referred to in your posting concerning the medal
+you are trying to decipher are commonly used to indicate abbreviations
+and numbers.  I 'm at a loss to explain the first set of characters (non
+vov lamed resh vov), but the rest is fairly straightforward:
+
+The second word is certainly Cheshvan.  This leads me to wonder:  Could
+the first word be alef lamed resh ches?  This would stand for "Or lerosh
+chodesh," the day before Rosh Chodesh.  Or if the first letter could be
+ayin, it would be "Erev Rosh Chodesh," the day or evening before Rosh
+Chodesh of the month of Cheshvan.
+
+The next "word" is easy:  It's a date, using the numerical equivalents of
+the letters: tav (400), resh (200), kaf (20) zayyin (7) = 627.  The
+millennium is customarily omitted, since it hasn't changed in a sakh
+yoren.  So the year is 5627, or 1866-67 in the common calendar.
+
+And the last word is Slutsk (Pol. Sluck), a town in the area of Minsk in
+Belorus.  It was occasionally part of Lithuania, at other times part of
+Russia, and during some periods under the Radziwills.  Among its more
+notable figures were Yosef Baer Soloveichik, a renowned rabbi, and many
+Hebrew and Yiddish writers and prominent members of the haskalah and
+Khibat Tzion movements.  According to the Encyclopedia Judaica (vol. 14,
+pp. 1682-83), there was a Jewish settlement there from about 1583.  Its
+ghetto was completely liquidated by the Nazis in 1942, and in 1970, very
+few Jews lived there and there was "no semblance of Jewish life."
+
+In any event, the medal evidently commemorates something that occurred in
+Slutsk in Cheshvan, 1866-67.
+
+Berel Leiser
+
+4)----------------------------------------------------
+Date: 19 Mar 95 23:07:10 EST
+From: 75332.2735@compuserve.com
+Subject: The Russian medal
+
+The town inscribed in the Russian medal is definitely Slutsk, which is my
+mother's birth place and which I visited last summer.  It is 101 km south
+of Minsk, with co-ordinates of 53 degrees 01' N./ 27 degrees 33' east.
+The Yizkor book of Slutsk makes one mention of a Liberman, but only in
+the index of the (small) English section only--a Bluma Liberman--but for
+some reason the name does not appear on the page referred to.
+
+Paul Pascal
+Toronto
+
+5)----------------------------------------------------
+Date: Sun, 19 Mar 1995 19:36:12 -0500
+From: cassel@libertynet.org
+Subject: HaKotev software
+
+A friend demonstrated for me some Hebrew-Roman bilingual word-processing
+software called HaKotev, for Windows. While not supporting Yiddish
+specifically (no tsvey-vovn, pasekh-tsvey-yudn, etc.), it was quite
+versatile, allowing the creation of side-by-side columns and switching
+back and forth between left-to-right and right-to-left. Anyway, I decided
+to buy a copy. But the company's listed number (in Provo, Utah) was
+disconnected. Does anyone know if they are in still in business, or
+whether the software is still available?
+
+Andrew Cassel
+Elkins Park, PA
+
+6)----------------------------------------------------
+Date: Mon, 20 Mar 1995 14:17:22 -0500 (EST)
+From: zimmerma@lib.uwo.ca
+Subject: The Future of Yiddish -- Statistics and Opinions Needed
+
+I am a university reference librarian trying to help out a student
+interested in the future of Yiddish.  In particular, she wants statistics
+on the numbers of speakers/writers of Yiddish and is also interested in
+your opinions on the future of the language.  People can either post
+(with the shames' permission) to this group and/or may e-mail me at
+zimmerma@lib.uwo.ca with their (1) personal opinions or (2) citations to
+not-too-obscure journal references or other bibliographic citations she
+might want to use.
+
+Walter Zimmerman
+
+7)----------------------------------------------------
+Date: 20 Mar 95 16:16:24 EST
+From: 74064.1661@compuserve.com
+Subject: Marc Kaminsky's Paper on Mentsh
+
+A dank Zachary Baker far der dermonung vegn dem referat fun Marc
+Kaminsky: Discourse and Self-Formation: The Concept of *Mentsh* in Modern
+Yiddish Culture (4.371).  Ikh leyen es yetst.  Araynzapn di bagrifn iz a
+bisl shverlekh ober der mekhaber makht klor etlekhe protim fun mayne
+eygene iberlebungen.
+
+Louis Fridhandler
+Irvine, CA
+
+8)----------------------------------------------------
+Date: Mon, 20 Mar 1995 23:39:08 +0000 (GMT)
+From: rwsh@dircon.co.uk
+Subject: Yiddish seminar, London, England, August 1995
+
+                       The Spiro Institute
+                            presents
+                   A Yiddish Summer Experience
+                   ---------------------------
+
+The first Spiro Institute Yiddish Summer Experience will take place
+between Monday 14th August and Friday 25th August 1995.
+
+The Spiro Institute's Yiddish "Ulpan" is the first of its kind in this
+country. It involves not only the teaching of the Yiddish language, but
+also lectures on the Bible, Yiddish film and music as well as lectures on
+Yiddish folklore in English.
+
+The eminent lecturers will include:
+
+Ofra Elyagon - writer and journalist,
+Professor Dov Noy - Professor of Jewish Folklore at Hebrew University,
+Moshe Shidletski - musicologist with particular expertise in
+  Yiddish music and folk songs who has produced music programmes for
+  Kol Yisrael,
+Lea Szlanger - actress, singer and broadcaster,
+Dr. Kobi Wietzner - lecturer at Bar Ilan and Tel Aviv University
+  who specialises in the works of Sholem Aleichem, as well as Yiddish
+  theatre and films.
+
+The cost of the Yiddish Summer Experience is #125 (GBP125). The evening
+programme which will include concerts and theatrical performances will be
+open to those not participating in the day programme.
+
+For further information please telephone +44 (0)171 431 0345. The Spiro
+Institute, The Old House, c/o King's College London, Kidderpore Avenue,
+London NW3 7SZ.
+
+Roger Harris
+
+______________________________________________________
+End of Mendele Vol. 4.373
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+0	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

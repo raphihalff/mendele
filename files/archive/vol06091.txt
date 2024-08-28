@@ -1,0 +1,173 @@
+Mendele: Yiddish literature and language
+
+______________________________________________________
+Contents of Vol. 6.091
+November 10, 1996
+
+1) Yiddische Tageblatt (Celia Bergoffen)
+2) Yiddish writers in Winnipeg (Goldie Morgentaler)
+3) "Shlof mayn kind" (David Smith)
+4) _In Their Footsteps_ by Pearl Krupit (Marjorie Schonhaut Hirshan)
+
+1)----------------------------------------------------
+Date: Wed, 6 Nov 1996 10:51:45 -0500 (EST)
+From: bergoffn@is2.nyu.edu
+Subject: Yiddische Tageblatt
+
+Dear Yiddish Scholars:
+
+I am an archaeological consultant researching a property on the Lower
+East Side of Manhattan that was formerly the site of a Russian Bath
+house and possibly a mikveh, though this remains to be proven. The topic
+turns out to be even more interesting than anticipated, as little is
+known about the relationship between the Russian (steam) bath and the
+mikveh, either architecturally or socially. At least, little has been
+recorded on the subject in English. Alas, I do not know Yiddish,
+although I can read Hebrew characters and have a good command of German.
+
+There are a number of Yiddish avenues which I wish I could pursue, and
+wonder whether anyone on this list could help me.
+
+First, has anyone done research using the Yiddische Tageblatt or the
+Morgn Zhurnal, or any other late 19th-early 20th c. (1887-c. 1920s/30s),
+orthodox Yiddish newspaper, & can tell me whether bath houses/Russian
+baths were advertised in there? A Ladino reader kindly sent me
+references to bath house ads in the Ladino press ca. 1916, but I wonder
+whether the Russian-bath-cum-mikveh facility was also usual in the
+"Yiddish" community. I suppose it was, but I would like proof, ideally,
+a bath house ad listing its facilities and specifically mentioning a
+mikveh using the word "mikveh" and not some euphemism. Of course, an ad
+for the "Allen Street Bath," at no. 5 Allen St. (not the public bath!)
+the one would solve all my difficulties.
+
+I also understand that there are a number of references to the "mikveh
+lady" in Yiddish literature. I would be most interested in any literary
+references to the mikveh from the period ca. 1880-1920's/30's that might
+reveal attitudes about this institution and in particular, descrip-
+tions of the physical layout of the bath/mikveh.
+
+Thank you.
+
+Celia Bergoffen
+New York University
+
+2)----------------------------------------------------
+Date: Thu, 7 Nov 1996 10:45:44 -0500
+From: 105341.3550@compuserve.com
+Subject: Yiddish writers in Winnipeg
+
+For an article on Yiddish literature in Canada, I am seeking information
+on Yiddish literary activity in Winnipeg during this century. If anyone
+has information about Yiddish writers who lived in that city, or about
+Yiddish cultural life there, including theatre, newspapers, literary
+journals, etc. I would appreciate knowing about it. You can contact me
+privately if this is not of general interest.
+
+Goldie Morgentaler
+Montreal, Canada
+
+3)----------------------------------------------------
+Date: Fri, 8 Nov 1996 16:51:08 -0600 (CST)
+From: emerald@lark.cc.ukans.edu
+Subject: "Shlof mayn kind"
+
+I'm interested in learning more about the various songs that have been
+popular under the title "Shlof mayn kind."  The lullaby I recall from my
+childhood is apparently the less common of the two well-known versions
+of this song -- a left-wing version, discussed by Ruth Rubin in Voice of
+a People, which emphasizes the untershid between rich and poor.  Thus
+far, though Rubin gives the music for this version, I haven't been able
+to find a recording (and if anyone knows where to look for one I'd be
+ap- preciative).  Of the second main version of this song, with lyrics
+by Sholem Aleichem, there are several readily available recordings.
+
+Meanwhile, I've recently run across a third song with the same opening
+refrain in Szmerke Kaczerginski's Lider fun Getos un Lagern (New York,
+Cyco-Farlag, 1948).  This is a Warsaw ghetto lament for children who are
+too young to know the insults and injuries that the world has in store
+for them, with a call for revenge...
+
+If anyone knows more about these songs, or their interconnections, or
+about obscure recordings I could track down, I'd be grateful to hear
+what you can tell me.  Thanks for your help,
+
+David Smith
+University of Kansas
+
+4)----------------------------------------------------
+Date: Sun, 10 Nov 1996 09:45:30 -0500
+From: shirshan@aol.com
+Subject: _In Their Footsteps_ by Pearl Krupit
+
+Reading Perl's book, the nostalgic journey back in time recalled to me
+the concepts of a giant in the field of human development,  Erik
+Erikson, winner of the Pulitzer Prize and National Book Award. Erikson
+categorized  a brilliant system of  eight stages of psychosexual
+development, and names the final stage of psychic health "generativity"
+which is the concern in guiding the next generation. It includes
+productivity and creativity in handing down the values of our life's
+experiences. Perl rings a bell in both counts.
+
+As Perele shares her memories of love of her bobe, her immigrant parents
+who intensely filled her with love and Yiddishkeyt, her fears for her
+family trapped in war-torn Russia, I felt we might have exchanged
+families and still felt very much at home.
+
+I also must admit az ikh bin gezesn un hob gekhlipet at her account of
+her role as representative to the Moscow International Book Fair of
+1987, of the hunger of Russian Jews for di oysyelekh, of their thirst
+for a yidish vort, of Jews who came from all parts of the Soviet Union,
+some even traveling for days, to see a Yiddish book, to stroke its
+binding, because a Yiddish book is sacred to them.
+
+More of us should "bear witness" to our past as Perl did so
+intelligently and well in this book of memories. Generativity creates
+the shine in the goldene keyt for our kinder un kind'skinder.
+
+Marjorie Schonhaut Hirshan
+Boynton Beach, Florida
+
+______________________________________________________
+End of Mendele Vol. 6.091
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

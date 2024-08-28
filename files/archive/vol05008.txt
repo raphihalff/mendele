@@ -1,0 +1,164 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.008
+May 19, 1995
+
+1) Introduction (Henny Lewin)
+2) Trip to Lithuania (Henny Lewin)
+3) Miyes, miyeskeit (Paul Ritterband)
+4) Miuskeit (Michael Shimshoni)
+5) Melupm (Dovid Braun)
+6) Russian-Yiddish dictionary (Jack Feldman)
+
+1)----------------------------------------------------
+From: hlewin@polyglot.uvm.edu
+Date: Wed, 17 May 1995 19:21:35 -0400EDT
+Subject: Introduction
+
+I was born in Kovno to Yone and Gite (Salat)  Wisgardisky. We went into
+the Kovner ghetto when I was 1.5 years old. I was hidden by my parents in
+the apartment and 2 years later smuggled out to their Lithuanian friends.
+Luckily both parents survived  and we were reunited . We were in a D.P.
+camp in Germany several years, lived in Israel for four years and came to
+Montreal in 1953. I went to a Hebrew High and spoke Yiddish at home. I
+also studied Yiddish and Hebrew at the United Jewish Teachers Seminary. I
+came to the USA in 1963. I teach Hebrew and Yiddish at the University of
+Vermont and am director of Hillel and the  Jewish Action Coalition.
+
+Henny Lewin
+
+2)----------------------------------------------------
+From: hlewin@polyglot.uvm.edu
+Date: Wed, 17 May 1995 20:12:21 -0400EDT
+Subject: Trip to Lithuania
+
+I am going back to Lite for the first time  and am very apprehensive
+about it. I plan to fly to Riga where my daughter is spending the  year
+and from there on to Vilne and Kovne (my birth city) .It is the Jewish
+historical places that interest me. I plan to go to the 9th fort were my
+paternal grandparents and other relatives were killed, to where the
+ghetto was, etc.  I would very much like to track down the family of
+Yonas Stankiewitz,  the rightious gentiles, who had harbored me as their
+own child and  with whom we lost contact long ago.
+
+I also plan to travel to Shilel, the Lithuanian shtetl where my mother
+was born (it is near Meml)  and where my maternal grandparents were
+buried . I do not speak  Lithuanian or Russian but do speak Yiddish and
+German .
+
+Does anyone have any suggestions or contacts in order to make this a more
+successful "expedition"?
+
+A hartzikn dank.
+
+Henny Lewin
+
+3)----------------------------------------------------
+Date: Wed, 17 May 1995 20:18:31 EST
+From: uap@cunyvms1.gc.cuny.edu
+Subject: Miyes, miyeskeit
+
+See the Hallel, based on psalms "The stone which the builders rejected [ma'asu
+habonim] has beccome the cornerstone".
+
+Paul Ritterband
+
+4)----------------------------------------------------
+Date: Thu, 18 May 95 12:03:34 +0300
+From: mash@weizmann.weizmann.ac.il
+Subject: Miuskeit
+
+Berel  Leiser  (Mendele  5.007)  writes  about  Miuskeit  and  related
+subjects to which out of my ignorance I have nothing to contribute.  I
+just wish to point out that his guess at the end:
+
+>The Hebrew origin of these terms is quite simple:  The root is mem, alef,
+>samekh.  The word "ma'as" and its many derivatives appear frequently
+>throughout the Tanakh, always with the implication of despising,
+>rejecting, or repudiating som ething or someone.  So far as I can
+>determine, the Biblical uses of the word ar e all verbs, never nouns or
+>adjectives.
+
+is only almost correct.   By my Even Shoshan dictionary I was directed
+to Eikha (Lamentations?) 3,45 where it appears as a noun.   I have not
+checked in a Bible Concordance if there are further occurrences in the
+form of a noun or adjective.
+
+Michael Shimshoni
+
+5)----------------------------------------------------
+Date: Thu, 18 May 1995 01:57:54 EDT
+From: dovid@mit.edu
+Subject: Melupm
+
+I have forgotten (or maybe I never knew) what the dot towards the middle
+of the Hebrew vav is called *in Hebrew* (in Yiddish we call it a
+melupm-vov, as has been noted).  The nekuda is definitely not referred to
+as a dagesh when it abuts the vav.
+
+But here's a note on the Yiddish word.  Aside from the Yiddish spelling
+mem-lamed-vov-pey-nun for the word in question, there's another spelling
+that is probably truer to the etymology of the word:
+mem-lamed-alef-pey-vov-mem. As a Hebrew/Aramaic compound, I'd read it
+[melo' pum] which means 'fullness of mouth', i.e. apparently referring to
+the glide /w/ or the vowel /u/.  If this is indeed where the word comes
+from, then the former spelling reflects a partial loss of common
+knowledge of the word's etymology -- it was felt to be of Hebrew/Aramaic
+origin (hence the not completely phonemic spelling) but the exact
+spelling was lost.  (In other cases, a word not of H/A origin at all has
+been 'felt' to be of H/A origin and thus receives an etymologically
+unjustified non-phonemic spelling, such as _kundes_.)
+
+I hope a Hebrew grammarian pipes up with more precise information.
+
+Dovid Braun
+
+6)----------------------------------------------------
+Date: Thu, 18 May 1995 13:57:21 -0700
+From: feldman@math.berkeley.edu
+Subject: Russian-Yiddish dictionary
+
+This is a little off the point, but:
+
+Perhaps 20 years ago I saw, at the UCBerkeley library, ona pile of
+books-for- disposal, a Russian-Ukrainian-Yiddish mathematical dictionary.
+I could have bought it, but didn't, God knows why, and the opportunity
+passed. Has anyone else ever heard of or seen such a dictionary?
+
+Jack Feldman
+
+______________________________________________________
+End of Mendele Vol. 5.008
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,201 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.035
+June 30, 1995
+
+1) Introduction and query (Norman Savitt)
+2) The denigration of Yiddish (Paul Ritterband)
+3) Translating Yiddish (Laurie Hollander)
+4) Translating Yiddish (Morrie Feller)
+5) More tuml on Tevye/Tovye/Tovya (Harvey Spiro)
+
+1)----------------------------------------------------
+Date: Fri, 30 Jun 1995 09:56:46 -0500
+From: normans@escape.com
+Subject: Introduction and query
+
+My name is Norman Savitt and for the last two months I have been
+forwarding printed copies of Mendele at the eager request of my parents,
+Isaac Savitky and Sara Berman, who although not yet official members of
+the computer revolution have been enjoying this list none the less. They
+both were born and lived in a shtetl called Slonim on the Russian-Polish
+border from the 1920's till the war, speaking yiddish, polish, russian
+and some ukranian.
+
+During the war they, unfortunately unlike most of their families, were
+able to escape to Russia. Afterwards they lived in Germany, France and
+Cuba, where I was born. They each speak many languages fluently and are
+familiar with many cultures but consider yiddish their main spiritual
+core. I also occasionally forward printed copies to my friend Tuli
+Kupferberg, who also grew up with yiddish as his first language but in
+the New York City of the 1920's and 30's. One of the original Beat poets,
+he is also an acomplished cartoonist and songwriter often using
+traditional melodies. He also is an avid collector of yiddish songs,
+poetry and prose.
+
+My own knowlege of yiddish is quite limited to tidbits from my parents
+and from what I can glean off Mickey Katz records, which I find quite
+amusing despite a limited understanding.
+
+My mother asks: "Does someone know the origin of the yiddish expression
+"Lakhn mit yashtcherkes"? I know it means "laugh with lizards" but why?"
+
+Thanking anyone who cares to respond in advance,
+
+Norman Savitt
+
+2)----------------------------------------------------
+Date: Wed, 28 Jun 1995 16:49:58 EST
+From: uap@cunyvms1.gc.cuny.edu
+Subject: The denigration of Yiddish
+
+Most frequently, Yiddish is made to be cutsie or simplly vulgarized by
+ignorant persons looking for a cheap laugh. In the history of Yiddish
+among the Jews we find a far more painful sort of phenomenon. Two
+examples will suffice. When the great 19th century Jewish historian
+produced his multivolume history of the Jews, he refused to allow it to
+be translated into Yiddish. Second, Harry A. Wolfson, the late master of
+the field of Jewish of philosophy, published an article in the Menorah
+Journal in which he bitterly mocked Yiddish, Yiddishists and their claims
+to legitimacy. For both and additional instances, see Ritterband and
+Wechsler, Jewish Learning in the Universities, 1994, Indiana.
+
+Paul Ritterband
+
+3)----------------------------------------------------
+Date: Wed, 28 Jun 95 17:17:34 -0400
+From: laurie@silvertone.princeton.edu
+Subject: Translating Yiddish
+
+As a perennial beginner in Yiddish, I would be strongly in favor of a
+less ambitious approach to computerized Yiddish to English translation
+(than the ones described in earlier postings on this subject).
+
+Digitize a couple of dictionaries so that I can sit at a computer with a
+text I'm working on translating, type in a word I don't know (in Hebrew
+characters, of course), and have the computer return all the English
+equivalents.  A windowed version would be nice.  I'd like to be able to
+type in a tof and have the window fly to the beginning of the tof
+section, then type in the next letter and automatically jump ahead, etc.
+Anybody with some familiarity with standard Mac and PC applications can
+easily imagine how to implement the software I'm describing.
+
+Any takers out there?
+
+For the more ambitious programmer:  provide a cross-reference, for words
+whose usage is idiomatic, of examples in literature.
+
+Laurie Hollander
+
+4)----------------------------------------------------
+Date: Wed, 28 Jun 1995 21:31:27 -0700 (MST)
+From: feller@indirect.com
+Subject: Translating Yiddish
+
+I can identify with the problem that David Sherman mentioned in Mendele
+5.033.  I have had the experience of struggling to decipher the script of
+more than one letter like the ones David describes.  But one has to
+remember that is was somewhat remarkable for someone of our grandparents
+or great-grandparents generation to be literate enough to correspond in
+Yiddish. I had a student who brought me excerpts  from the autobiography
+her grandmother had hand written; it was even more remarkable for a woman
+to have done it.
+
+With respect to David Lechner's comments on machine translation (same
+Mendele number), the samples I have seen of translations from Spanish and
+from Hebrew to English were quite impressive.  Has anyone had experience
+with these or similar programs?
+
+What prompted me to raise this question in the first place was the fact
+that Fishl had received an impressive response to his request for
+translators.  This did seem to indicate that it might be desirable to
+have a computer-aided translation program for Yiddish.
+
+Morrie Feller
+Phoenix
+
+5)----------------------------------------------------
+Date: Thu Jun 29 12:35:17 1995
+From: hjs@nrc.gov
+Subject: More tuml on Tevye/Tovye/Tovya
+
+Some more tidbits on the "proper" pronunciation of the name. Perets wrote
+a story entitled "Zibn gute yor," often translated as "Seven years of
+plenty."  The protagonist shares a moniker with Sholem Aleikhem's famous
+milkhiker -- or does he??
+
+My oldest version of the Perets story appears in volume 12 of
+Folkstimlikhe Geshikhten, published by Farlag Yidish, NY, 1920. The name
+is spelled "tes-vov-vays-yod-hey."  (It should be noted that text in this
+book does not adhere fully to YIVO standard; for example, the word "Yor"
+(years) in the title is spelled "yod-komets alef-hey-reysh.")
+
+Moving to 1947, a volume entitled Peretz in a YIVO Bilingual Series,
+edited by Sol Liptzin, calls the character "Tovye" in English, with the
+same Yiddish spelling as the prior volume.
+
+In 1984, Congress for Yiddish Culture issued a volume of Perets'
+Folkstimlikhe Geshikhten, using again the same Yiddish spelling with the
+vov.  Thus, seemingly (at least for this story), the name is uniformly
+spelled with a vov in the US in this century.
+
+Yet, in a 1985 reprint of a 1972 English book by Liptzin, History of
+Yiddish Literature, Liptzin refers to the protagonist in that story as
+"Tevye."  Is this a misprint, or were the two names considered
+interchangeable?
+
+As an aside, the 1990 tapes of Sholem Aleikhem's "Tevye" by the National
+Yiddish Book Center, read by Shmuel Atzmon, pronounce the name "Tevye"
+throughout, and spell the name without the vov.
+
+Does anyone have copies of either story in either a European (or Latin
+American) printing, or printings from earlier than 1920?
+
+Harvey Spiro
+Vienna, Virginia
+
+______________________________________________________
+End of Mendele Vol. 5.035
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,266 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.269
+January 9, 1995
+
+1) Greenberg on synagogues (Ted Steinberg)
+2) Alte zakhn (Shleyme Axelrod)
+3) Southern California calendar (Hershel Stillman)
+4) Nasalization and -nen verbs (Mikhl Herzog)
+5) Sholem-Aleykem's early language bias (Louis Fridhandler)
+6) The honorific "Reb" (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Sun, 8 Jan 1995 2:24 pm EST (19:24:26 UT)
+From: steinberg@fredonia.edu
+Subject: Greenberg on synagogues
+
+I found Bernard Greenberg's note on synagogues very interesting and
+helpful. There is nothing brutal about remembering those synagogues when
+six million people died.  Remembering everything about those people is
+like creating a memorial.  I want to know as much as I can about their
+lives.  That desire, in part, is what brought me to Yiddish.  If others
+have knowledge about other areas of their lives, especially relating to
+Yiddish, I would love to hear about it.
+
+Ted Steinberg
+
+2)----------------------------------------------------
+Date: Sun, 08 Jan 1995 15:18:43 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Alte zakhn
+
+In the 1930s-'40s in the East New York-Brownsville neighborhoods of
+Brooklyn, "junkmen" used to buy old clothes, carrying their purchases in
+large burlap sacks on their backs or loaded onto two-wheeled pushcarts.
+(Some larger-scale entrepreneurs had horse-drawn wagons, across which
+ropes carrying one or two large cowbells were strung; these fellows also
+bought or scavenged old furniture, appliances [e.g., ice-boxes] and
+hardware.)  The cries I remember offered a good deal in the Depression
+era:  "Ay kesh kloz!"  ["I cash clothes!"], and my favorite illustration
+of the ability in Yiddish to generate endearing forms of ordinary
+adjectives, "Altinke zakhn, nayinke gelt!"
+
+Shleyme Axelrod
+
+3)----------------------------------------------------
+Date: Sun, 8 Jan 1995 12:28:17 -0800 (PST)
+From: durian@coyote.csusm.edu
+Subject: Southern California calendar
+
+Everyone in Southern California,or even elsewhere, is invited to a
+discussion of the future of the Jewish language and culture at a meeting
+of the Society for the Preservation of Yiddish (SPY) at the Temple Solel
+at 552 S El Camino Real, Encinitas, CA 92024 on January 10th ,12;30
+P.M..(619 436-0654).Speakers will include a rabbi on internet ,a retired
+IBM engineer and a Yiddishist who has taught many languages from  New
+York to Israel to China.
+
+Hershel Stillman
+
+4)----------------------------------------------------
+Date: Sun, 8 Jan 95  16:14 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Nasalization and -nen verbs
+
+For Dovid Braun:
+
+More on -nen verbs
+
+Another aspect of the "n"/"n-dropping" phenomenon that may be relevant to
+the "-nen" verbs:
+
+I'm not certain of the extent of this in Western Yiddish but, where
+"n-dropping" occurs in Central Yiddish, it is often accompanied by the
+nasalization of shwa. I'll represent it as [@N]. Thus _mame_ [mam@N]
+would have the same structure as, for example, _kimen- [kim@N] (much like
+English _law_ and _lore_ in "r-dropping" varieties). Word final shwa [-@]
+thus = [-@n].
+
+More than that, very often any sequence of shwa+consonant may equal
+shwa+N+consonant: [@C] = [@NC]. You'll recognise the "n- less" variants
+WY [sha:l@t] and regional EY [tsholt] (= tsholnt < calentem) as reflexes
+of this phenomenon.
+
+Now, unfortunately for the theory, we don't find a variant *kim@n@n.
+Still, from what I've described, it's possible to account for variant
+infinitives of the type _harg@n_ and _harg@n@n_, no?
+
+Add to this the following Central Yiddish forms that I have recorded;
+sporadically: [pomindorn] 'tomatoes', [spodink] as in _drey nisht keyn
+spod@k_, [druint] 'wire', [ri:ink] 'calmly'; frequently: [nu:int] =
+Standard Yiddish _not_ 'seam'; even [aru:N] < aru(p) in [aru:Ngayn] =
+_aropgeyn_.
+
+Native Yiddish speakers from Lodz can provide live evidence of some of
+these features.
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: 08 Jan 95 16:42:31 EST
+From: 74064.1661@compuserve.com
+Subject: Sholem-Aleykem's early language bias
+
+A bit of Yiddish cultural history:
+
+"What is, what is not, what may become, and what may not become Yiddish?"
+I suspect these questions never bothered people who depended on it to
+make it through their daily lives.   Then along came the Yiddish writers
+and they had some decisions to make in their multilingual environment.
+Mendele Moykher Sforim was a pioneering genius in Yiddish writing, but I
+have no idea whether he worried _much_ about those issues.  He probably
+did.  At some point the specific questions must have occurred to him.  On
+the other hand, Sholem-Aleykhem most certainly wondered about the issues,
+and acted on some of his answers.  Things change, decisions evolve.  His
+ultimate decisions as to language usage do not reflect his early
+inclinations as evidenced in a letter of his youth.
+
+When he was only 20, while still tutor to Olga Loyev (his future wife) at
+the Loyev farming estate, he responded to a letter from a relative on his
+mother's side.  He was already determined to become a writer, but then,
+he embraced Hebrew and rejected Russian.
+
+It is written in the flowery style fashionable then for letters in
+Hebrew.  I translated this from the Yiddish translation provided in Dos
+Sholem-Aleykhem Bukh, p. 24.
+
+To Hirsh Weisbord, from Sofievka (Ukraine), August 13, 1879
+
+My dear kinsman, honored and trusted by all!  Many thanks for your letter
+that I hold dear.  However, I shall not deny nor hide under my tongue,
+that you have made me cover my face in shame by writing to me in Russian.
+I myself, I admit, have a thousand shares in this tongue.  I squandered
+almost all my time on it at school.  After that, I labored hard to
+finally make it my own forever; but more beloved is Hebrew, the holy
+tongue, mother of all tongues, daughter of the holy God.  Many children
+of Israel with sharp and clever minds, have abandoned her, to our shame
+and disgrace.  She, the holy tongue, has run off from them clutching her
+head, lamenting day upon day, "Woe to them, to my children who have
+abandoned me in my old age...."
+
+[Interesting psychological issues here.]
+
+Things change.  He became a writer of Hebrew, Yiddish and Russian.
+Russian became the language of his home.  His grandchildren (perhaps his
+children, too) had to learn Yiddish as a second language.  There is no
+mention of Yiddish in this letter.
+
+Later, he fell in love with Zhargon.  Two or three more letters in
+subsequent postings with some of Sholem-Aleykhem's thoughts.
+
+Louis Fridhandler
+
+6)----------------------------------------------------
+Date: Sun, 8 Jan 1995 22:12:21 -0500
+From: zellig@aol.com
+Subject: The honorific "Reb"
+
+I received a warm note from new Mendelyaner Jeff Zucker (Canada).  Among
+other things he wrote that he was in somewhat of a quandary about the
+opening salutation.  "Should I address you by your academic title? Too
+stiff!  Of course, your first name seems better, but I should prefer "Reb
+" to show some koved" [homage].
+
+He continued:  "I seem to have heard, however, that in some secular
+circles the use of "Reb" is frowned upon on account of its supposed
+religious connotation."
+
+My answer:
+
+Khaver, if you wish, is koved enough,  or just plain Zellig.
+
+As to your concern that "Reb" carries a religious connotation, this is
+only correct in a cultural-historical context, but not when applied in a
+strictly secular sense and time frame.
+
+Take the term  "si'yem," for instance.  It used to mean the end of a
+cycle of learning, or reading, of a set of holy books, but now it has
+been given a totally new, secularized meaning as an academic graduation
+at the end of a program of Yiddish courses.
+
+While the term leads the memory back to its origin and evokes a
+historical sense, its meaning has been expanded and given a new, modern
+sense, new wine in an old vessel.
+
+Similarly, with other terms or concepts previously strictly contained
+within the religious or historical spheres.
+
+The 4th of July in the United States may be said to be *der yontef fun
+amerikes umophengikayt*.
+
+The fighters of the Warsaw ghetto are often referred to as the modern
+khashmenoim, after Bar Kokhba and his five sons who lead the revolt
+against the Roman authorities in the second century, B .C.
+
+Thus verbal renewals of meanings forge a mental _linkage_ between past
+generations and the now.  Isn't this in some way related to the concept
+of "hemshekh" (continuity)?  To the meaning of "di goldene keyt" (the
+golden chain)?
+
+About the honorific "Reb:"  In my personal life I am proud to be able to
+call two people in our secular world with this title (always with the
+first name only):
+
+1.  Reb  Mordkhe (Shaechter), a _yidish yid_ par excellence, a walking
+thesaurus of Yiddish, old and new, a tireless guardian of Yiddish, Itsik
+Manger laureate, writer and teacher, author of numerous books about
+Yiddish, and chief editor of the literary-language quarterly _Afn Shvel_.
+
+2.  Reb Zalmen (Sol Steinmetz), a genuine _yidisher yid_ in all respects,
+a true khoyveyv yidish.  While totally immersed professionally in English
+and other foreign language dictionaries, he treasures the connection to
+and tradition of Yiddish.  In his conversations in Yiddish, he is given
+to throw in a Hebrew or Aramaic word for the sake of expanding a concept
+in a new-old light, and occasionally even uses a "maymer khazal" -- a
+saying from the Talmudic or Mishnaic sages, of blessed memory).  He is,
+of course, the author of the book _Yiddish and English:  A Century of
+Yiddish in America.  In our secular world I think of him as a rarity.
+
+I feel that in these two cases some specific reasons justify my calling
+them, proudly, with this honorific:  my deep and total respect for their
+learnedness, and, especially, the strong bond between us:  our exalted
+and unconditional love for Yiddish.
+
+I think that we should, individually and collectively, be very, very
+selective before we confer in our secular world the honorific "Reb" lest
+by overuse of this title its locution will wear down, its shine
+tarnished, and its value, literally, reduced.
+
+Zellig Bach
+
+______________________________________________________
+End of Mendele Vol. 4.269
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

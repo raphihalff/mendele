@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.234
+February 20, 1997
+
+1) The death of Leo Rosten (Dan Leeson)
+2) Al kheyt (Khane-Faygl Turtletaub)
+3) Place names (Joachim Neugroschel)
+4) Some websites for Yiddishists (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Thu, 20 Feb 1997 09:04:50 EST
+From: leeson@aspen.fhda.edu
+Subject: The death of Leo Rosten
+
+I regret to announce the death of Leo Rosten as posted today in an
+extensive obituary in the New York Times.  Mentioned with great fervor
+was his wonderful "The Joys of Yiddish," a joyous book if there ever
+was one.
+
+Dan Leeson
+Los Altos, California
+
+2)----------------------------------------------------
+Date: Thu, 20 Feb 1997 13:35:17 +0100
+From: doctorkf@gte.net
+Subject: Al kheyt
+
+Vegn Mekhl Asheri's entfer [6.231]: Ikh meyn az m'zogt klapn al kheyt
+nisht shlogn al kheyt.  M'shlogt kapores.
+
+Khane-Faygl Turtletaub
+
+3)----------------------------------------------------
+Date: Thu, 20 Feb 1997 12:47:55 -0500 (EST)
+From: achim1@cris.com
+Subject: Place names
+
+In the discussion of place names, there's been a confusion of two
+things: an actual change of name as opposed to the names for the same
+place in various languages. Castle Garden was replaced by Ellis
+Island,just as Constantinople was replaced by Istanbul in 1452.  But
+the city known as Lodzh in Yiddish has always been called Lodz
+(pronounced "woodzh") in Polish.  The Yiddish and German names did not
+disappear in their respective languages, they were simply not official
+terms.  The only time the city's name was actually changed was during
+the German occupation in World War II, when the conquerors renamed it
+Litzmannstadt (after a German general who had distinguished himself
+with the usual atrocities during World War I).  In fact, it was called
+Litzmannstadt even in a secret journal kept by German-speaking Jews in
+the Nazi ghetto in Lodz.
+
+Similarly, the city known as Lwow in Polish has always been called
+LEmberik by Jews:  note that the Yiddish name is tri-syllabic even
+though the misleading spelling Lemberg is simply a straight
+transcription of the German name Lemberg (not Lemburg!).  The various
+names exist simultaneously in various Languages, and as long as you
+know what's meant there shouldn't be any problem.  (If you do enjoy
+such confusions, try hitching through, say, Belgium:  for every
+village you wander into, the Flemish name is totally different from
+the French name!)  Problems arise only when you have to translate
+geographic names:  presumably in talking about Jewish life in
+Czernowitz, it's best to use that name (the Czernowitz Conference)
+rather than the Romanian term.  It gets tricky when cultures
+intersect.  Sacher-Masoch (yep, the Austrian baron and German-language
+writer who gave us the word "masochism") also wrote several volumes of
+stories about Jewish life in and around his home town Lemberg/Lemberik/
+Lwow/Lviv.  Which form should one use in English when translating his
+works?
+
+Further complications arise in English because it tends to use the
+(Norman) French forms of geographic names:  e.g., "Milan" for
+"Milano", "Moscow" for "MoskvA".
+
+While Yiddish and Ladino use the Hebrew forms for Israeli cities, e.g.
+Yerushalayim, the latter has been truncated to Salem in America. just
+as well:  or would you rather talk about the witches of Jerusalem?
+
+There are certain Eastern European villages that were founded and
+named by Jews--so their Yiddish names should certainly enjoy the
+prestige of seniority.  But I'm sure the Polish or Ukrainian
+government won't get around to using the Yiddish names all that soon.
+
+Finally, there's the contrast between the local Yiddish name and the
+standard Yiddish name:  Bohemia is called "Beymen" in standard Yiddish
+(from German "Boehmen"), but the local Jews there called it "Peymen."
+The same holds true for the German city of Munich: English uses the
+French form, standard German uses Muenchen (from the Latin word for
+"monks"), but the Munich dialect uses "Minge"--and Italians call it
+Monaco, or more precisely "Monaco di Germania" to distinguish it from
+Grace Kelly's principality.
+
+In various Slavic cities such as Lwow or Lodz, it's not the name
+that's changed--it's the dominant culture.  The official name is
+determined by whichever language group happens to be in charge.  The
+various names have usually existed as long as the various languages in
+those places.
+
+Yiddish often uses some form of the German name for a Slavic place:
+e.g. "Varshe" (from German "Warschau" as opposed to Polish "WarszAwa".
+So I can understand that a Pole might resent a Yiddish place name,
+say, Lemberik, which, to Polish ears, sounds too much like the German
+name. If you feel like using the Yiddish form in English, just explain
+to an outsider that it's not the German form and that in fact Lemberik
+was once as much a Jewish city as a Polish or Ukrainian (Ruthenian) or
+even Austrian one.  And if you're talking about Kant, I don't see any
+problem in calling his native city Koenigsberg instead of the current
+Kalinograd.
+
+Yiddish speakers in Canada refer to their current country as
+"KanAde"--but that's because the name was taken over from Polish
+"KanAda" long before any Jews arrived in North America.  All I ask is
+that if you're using the Jewish name for "Lemberg" please make it
+tri-syllabic:  "LEmberik".  (Incidentally, Paul Celan's most famous
+poem, "Todesfuge"--Death Fugue--was inspired by a newspaper account
+describing the final liquidation of the Nazi Ghetto of Lemberik/
+Lemberg/Lwow/Lviv.  Celan himself pronounced it "Lemberg" since he
+wrote in German.)
+
+Joachim Neugroschel
+
+4)----------------------------------------------------
+Date: Thu, 20 Feb 1997
+From: nmiller@mail.trincoll.edu
+Subject: Some websites for Yiddishists
+
+While the World Wide Web is mostly junk, hoopla and tararam there
+_are_ a comparatively small number of useful sites and some of them
+are becoming daily more useful.  Others, let us hope, may follow suit.
+Here are three.
+
+The Virtual Shtetl, conducted by Iosif Vaisman.  Indispensable.
+
+  http://sunsite.unc.edu/yiddish/
+
+Another is Refoyl Finkel's with among other things his "Yiddish
+typewriter and spelling checker" that enables one to type a document
+in Romanized Yiddish and to wind up with one in Hebrew characters.
+(If I'd used it in transcribing the selection from Chaim Grade, I
+could have avoided a few mistakes.)
+
+  http://www.cd.engr.uky.edu/~raphael/yiddish.html
+
+Now from quite a different quarter comes a very rich lode of Yiddish
+documents: the Library of Congress, which has made available 77
+unpublished Yiddish playscripts (out of a much larger 1200 or so that
+were registered) are now available for viewing and downloading.
+Amerike!
+
+  http://lcweb2.loc.gov/ammem/vshtml/vsyid.html
+
+Don't expect a new Euripides or Racine.  These are as we used to say
+shmates shbshmates, potboilers of no literary value. Most are
+hand-written and hard to decipher.  (There's a typewritten one by Boris
+Thomashevsky.)  Nevertheless, for anyone with any interest at all in
+the New York Yiddish theatre, popular culture or language this is a
+gold mine.  And presumably there's a lot more that may yet come our
+way.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 6.234
+

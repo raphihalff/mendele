@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.071
+July 30, 1995
+
+1) Yiddish nowadays (Miriam Isaacs)
+2) An index for Mendele (Morrie Feller)
+3) An index for Mendele (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Sun, 30 Jul 1995 11:14:30 -0400 (EDT)
+From: miriamis@gwis2.circ.gwu.edu
+Subject: Yiddish nowadays
+
+I have done some study of Yiddish among the haredim in Israel, which
+inspired me to pay attention to the use of Yiddish in Boro Park and
+Williamsburg. The use of the language and the user's proficiency is quite
+variable, from what I have heard and in Williamsburg there is a
+tremendous amount of mixing of Yiddish and English, with errors. But as
+others have commented, errors are offset by the fact that the speakers
+are actively using the language. In the study of language acquisition-
+and language deterioration, error analysis is an important indicator of
+what it happening to a language. What I found in Israel among the Yiddish
+using haredim is a pattern in which parents have chosen to go back to
+Yiddish and consciously speak a flawed Yiddish, Hebrew being the language
+they are most comfortable in, for ideological reasons.  Perhaps this is
+happening in New York too. This bodes well for the revival of the
+language. the other kind of flawed Yiddish is the variety where it is
+fading into disuse and that is mainly in the secular Yiddish world, as we
+all know. To counter this it is necessary to promote "real" use of the
+language. Even on this network I find myself writing more comfortably in
+English, even though I am bilingual, because I imagine that more readers
+will understand and because I am not comfortable with the conventions of
+the phonetic transcriptions, though I will make an effort. My Yiddish is
+galitzianish, and I like it that way. I find it awkward, in latin
+letters, to sound litvish, but I can try. In terms of error correction,
+the best way is to model the correct forms back to the speaker
+unobtrusively, but to remember that dialect differences are not errors.
+True errors are rules of English or some other language that are
+superimposed onto Yiddish.
+
+Miriam Isaacs
+
+2)----------------------------------------------------
+Date: Fri, 28 Jul 1995 18:10:28 -0700 (MST)
+From: feller@indirect.com
+Subject: An index for Mendele
+
+Ever since I have been a Mendelnik (almost a year), I have been telling
+my friends what a wonderful source for Yiddish related topics it is.  I
+have pointed out the fact that much of the information on Mendele is not
+available in books or journals because it is based on personal
+experiences and remembrances.  Now, our shames has done an outstanding
+job of making all this information available in archives which can be
+accessed in several ways as indicated at the end of some of the Mendele
+numbers. However, if one were interested in pursuing a single topic such
+as the origin of Yiddish, the various aspects of Sholem Aleikhem's
+writings, the meanings and usage of a particualar Yiddish word or idiom,
+the varieties of Yiddish as a function of geography, etc., it seems to me
+that an index, like the ones found at the end of textbooks, would be a
+most useful tool to accomplish this purpose.  I realize that it is easier
+to suggest an idea than it is to carry it out.  But if this could be done
+for the past five plus years, and then continued on an on-going basis,
+what an even more wonderful treasure Mendele would be!  It would be like
+the Syntopicon which Mortimer Adler created to follow any theme through
+the entire Great Books series.
+
+Morrie Feller
+Phoenix
+
+3)----------------------------------------------------
+Date: Sun, 30 Jul 1995
+From: nmiller@mail.trincoll.edu
+Subject: An index for Mendele
+
+This is a partial answer to Morrie Feller's request, partial because the
+ultra-high technicalities are beyond the abilities of a shames.  Iosif
+Vaisman and other experts are urgently invited to provide additional
+comments
+
+First of all, the functional equivalent of an index exists.  It is
+available on the Wide World Web to all users of Netscape.
+
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+It is part of Iosif Vaisman's wonderful Virtual Shtetl, the address of
+which is:
+
+    http://sunsite.unc.edu/yiddish/shtetl.html
+
+At the first-mentioned address the user can initiate a search (be sure it
+is a _whole_ word) and get back very quickly a list of the first 40
+occasions in the which the word is found.  An additional click brings up
+the file itself.  Not bad.  Even Windows-haters can come to like it.
+
+Second, it is possible _in principle_ to do the same search without
+Netscape, as long as the service provider offers Lynx.  The trouble is
+that Lynx (at least the version available to the shames on two separate
+hosts) cheerfully announces that you've discovered a bug un az es kumt
+mazeltov.  Maybe they'll fix it.
+
+Third, the Contents files that are available via the Mendele archive
+can be downloaded to the user's machine, then searched by means of
+a utility program such as grep.  There are many available in the public
+domain.  The Contents files list all of the Subject: lines since the
+first issue and were devised by Bob Rothstein, one of Mendele's prime
+benefactors.
+
+Finally, those with a large hard drive can simply store all of Mendele
+and search the files at will.  At this time, this remains the best option
+for those who have the space.  It is fast and the search procedure more
+flexible than what is currently available on the Web.
+
+As an alternative it's been suggested that Mendele on a compact disk
+would be a useful and cheap storage medium.  Same ease of search.
+
+Now let the experts speak.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 5.071
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

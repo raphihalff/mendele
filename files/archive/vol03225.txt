@@ -1,0 +1,152 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.225
+February 10, 1994
+
+1) Jewish diseases (Sander I. Gilman)
+2) Yerushalayim shel Zahav (Joyce Rappaport)
+3) Vowel indications (Martin Davis)
+4) Kleynkunst, shund (Michael Steinlauf)
+5) Wetnurses and the old Russ litlang (Jules F. Levin)
+
+1)----------------------------------------------------
+Date: Wed Feb  9 15:42:19 1994
+From: slg3@cornell.edu  (sander l. gilman)
+Subject: Jewish diseases
+
+Those who would like to read more about the myth-making surrounding
+'Jewish diseases' such as diabetes should look at my The Case of
+Sigmund Freud (Hopkins, 1993).
+
+Sander L. Gilman
+
+2)----------------------------------------------------
+Date: Wed Feb  9 16:29:50 1994
+From: "Joyce Rappaport" <rappapor@nexus.chapman.edu>
+Subject: Yerushalayim shel Zahav
+
+I can only conclude that this is a Zionist message, transmitted with
+some literary anachronism.  Since the song wasn't written until
+1967, perhaps the implication is that the dream of finding a land
+wasn't really fulfilled until then.  Do you think this  was intended
+by Spielberg?
+
+Joyce Rappaport
+
+3)----------------------------------------------------
+Date: Wed Feb  9 16:30:17 1994
+From: davism@turing.cs.nyu.edu (Martin Davis)
+Subject: vowel indications
+
+[Marnen Laibow-Koser writes:]
+
+> I have a several-decades-old Yiddish schoolbook (obviously intended
+> for English-speaking, probably bilingual, children -- I don't know
+> the title, author, or date because the cover and title page are
+> missing), and came across the following anomaly: "ay" is written
+> with pasakh-tsvey-yudn as usual, but "ey" is written not with the
+> usual two unmarked yuds, but rather with a tseyre beneath, so it
+> looks like !!. Has anybody seen this anywhere else? (This same
+> schoolbook also contains a short story with every sentence in
+> verb-first order, which I'll post here if people are interested).
+
+I have had in my possession for some 55 years a 4 volume Di Yudishe
+[sic] Folks-Geshikhte by Ben-Zvi which claims to be "nohkh der
+Folkstimlikher Geshikhte der Yuden fun H. Gretz" and to be
+"ferbessert" and brought up to date. There's no date of publication
+I can find and the history seems to end at 1900. The publisher is
+Hebrew Publishing Company on Canal Street in New York. (The English
+words in the publisher's name are spelled in Hebrew characters using
+Yiddish orthography.)
+
+The relevance is that ALL vowels are shown explicitly in the text.
+However not under the Yiddish carrier of the vowel, but instead
+under the preceding consonant. Thus "Ven" is spelled with the three
+dots under the pair of vuvs followed by the ayen-nun. In particular
+this convention is followed for pairs of yuden, the vowel sign being
+either the two dots or the horizontal line. (I've never learned the
+correct names for these.)
+
+Martin Davis
+
+4)----------------------------------------------------
+Date: Wed Feb  9 16:53:17 1994
+From: M_Steinlauf@ACAD.FANDM.EDU (Michael Steinlauf)
+Subject: Kleynkunst, shund
+
+On how to translate "kamershpil" and "kleynkunst-teater," a question
+first brought up by, I think, Shleyme Axelrod --
+
+For the latter I would suggest (following Nahma Sandrow) "Yiddish
+literary cabaret," a genre whose pioneer was Moyshe Broderzon in
+Lodz in the 1920's, and whose history remains to be written
+(although there are stirrings of interest in Poland by historians of
+the Polish equivalent (prominent in which was the Jewish
+joke-skit-shtik known as (linguists take note and help) "szmonces,"
+i.e., shmontses...)). On the general European genre there's a good
+book by Harold Segal.
+
+A good English equivalent for "kamershpil" is tougher; I'll defer to
+the bine-artistn, who, I hope, are out there somewhere...To entice
+them, and any other mevinim of Yiddish theater out into sayber-rom,
+I'll use this opportunity to ask derbay for help with descriptions
+of pre-war shund teater, a subject very difficult to come by, since
+what was there ever to "say" about it, in the old days, except that
+"shund" was..."shund"?  Yet today if instead we say "Yiddish popular
+theater," there could be a lot to say, but for the moment, tsum
+badoyrn, mainly teoretish.  References to articles, reviews,
+fiction, memoirs would be greatly appreciated, and above all, oyb
+faran emetser vos dermont zikh vi azoy me hot geshpilt shund in
+Poyln, lemoshl, mit zekhtsik yor tsurik, un volt dertsu gehat epes
+deroyf tsu zogn, volt es shoyn geven zeyer un zeyer a fargenign...
+
+Michael Steinlauf
+
+5)----------------------------------------------------
+Date: Wed Feb  9 18:33:28 1994
+From: <JFLEVIN%UCRVMS.bitnet@YaleVM.YCC.Yale.Edu>
+Subject:  Wetnurses and the old Russ litlang
+
+The wetnurse story as I recall it from previous mendeles is
+doubtless a bobbemaise.  There is no problem in explaining either
+the pronunciation of the old aristocracy, with St Pete norms or Old
+Moscow norms, or the post-1917 literary pronunciation, in terms of
+territorial dialects and dialect develop- ment in Russian.  Vowel
+reduction is found in the dialects of a large majority of Russian
+speakers, and the secondary reduction found in the narrow band of
+central dialects, includes the territory of Moscow.  Aristocrats and
+rulers everywhere often speak more like peasants than like the urban
+gentry, because they spend so much time in the country, doing
+country things like hunting. Read Tolstoy or Turgenev and you will
+see that they aristocracy didnt need wetnurses to come in contact
+with provincial dialect speech.  Besides, children do NOT pick up
+regional and social speech norms from the women who nurse them
+(unless they are lucky enough to get nursed from 10 years on up),
+but rather from the peer groups in which they are socialized AFTER
+they leave that initial maternal nest...) Shalom,
+
+Jules Levin
+
+______________________________________________________
+End of Mendele Vol. 3.225
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+

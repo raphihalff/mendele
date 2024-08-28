@@ -1,0 +1,145 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.133
+November 17, 1993
+
+1) Query (Vicki Fromkin)
+2) Ufruf (Meir David)
+3) 666 (Amitai Halevi)
+4) Jewish years and Dovid Katz (Jeremy Stern)
+5) Route 666 (Zachary Baker)
+
+1)----------------------------------------------------
+Date: Mon Nov 15 20:51:24 1993
+From: Vicki Fromkin <IYO1VAF@MVS.OAC.UCLA.EDU>
+Subject: Query
+
+how come I haven't received any messages from Mendele lately?  Where
+is everyone?
+
+Vicki Fromkin
+
+2)----------------------------------------------------
+Date: Tue Nov 16 01:24:10 1993
+From: mhd@world.std.com (Mark H David)
+Subject: _ufruf_
+
+   My original question was, why did Orthodox Jews take up "uf". I
+   cannot think of another instance of wide-spread Orthodox usage of a
+   NE Yiddish form.
+
+(1) what do you mean by "Orthodox Jews".  Is this supposed to be a
+group that does not include Litvaks?  Vos heyst?!
+
+(2) Oyf is not originally Yiddish.  It was a hack by language
+planners to have one spelling for both the preposition [AF] with the
+adverbial [UF]/[ARUF].  It's caused no end of confusion, in my
+opinion.
+
+(3) However, well-meaning native Yiddish speakers and teachers of
+Yiddish have cultivated the use of the "proper" [OYF] for so long,
+that it actually has become an authentic Yiddish form.
+
+[Well, that ought to inspire at least a bit of dialog....]
+
+Meyer
+
+3)----------------------------------------------------
+Date: Tue Nov 16 04:41:28 1993
+From: AMITAI HALEVI <CHR04HA@vmsa.technion.ac.il>
+Subject: 666
+
+In reply to Ellen Prince's query:
+
+666 = Tav-Resh-Samekh-Vav, or TaRS"U.
+Tav=400; Resh=200; Samekh=60, Vav=6
+
+Nisht tzu bedanken.
+
+Amitai Halevi
+
+4)----------------------------------------------------
+Date: Tue Nov 16 12:06:15 1993
+From: Jeremy Stern <jstern@phoenix.Princeton.EDU>
+Subject: Jewish Years and Dovid Katz
+
+Ellen's question reminds me of a problem I had when I read Katz's
+Grammar. In order to illustrate the principle of forming the Jewish
+years and vocalizing them, he chose the example of 5748, or 1987/8.
+However, whereas most Jews pronounced that year "tismakh," Katz had
+it "tashmakh." It is common to deviate from the standard
+vocalization, especially to avoid a ominous word or to change to a
+hopeful one.  In a similar vein, the year 5744 was changed to
+"tisdam" to avoid tashmad."  Does anyone remember if Israeli papers
+followed the changed form, because I know that the Orthodox world
+did so?
+
+Jeremy Stern
+
+5)----------------------------------------------------
+Date: Tue Nov 16 15:02:24 1993
+From: "Zachary M. Baker"  <BM.YIB%RLG@Forsythe.Stanford.EDU>
+Subject:  Route 666
+
+"How would 666 be represented in Hebrew alphabetic numerals?" --
+asks Ellen Prince (MENDELE 3.132).  I'm sure there will be a flood
+of responses, so let me weigh in with the answer and a
+bibliographical observation.
+
+666:  Tav - resh - samekh - vov.
+      400 + 200  +   60   +  6   = 666
+
+Alef > yod = 1 > 10;
+Kaf > tsade = 20 > 90;
+Resh > tav = 100 > 400.
+
+Hebrew dates make copious use of alphabetic numerals.  The present
+year, 5754, would properly be represented by the following letters:
+He' (+apostrophe) - tav - shin - nun - dalet.
+
+  5,000           + 400 +  300 +  50 +  4    = 5,754
+
+Usually, however, the "5,000" designator (he' + apostrophe) is
+omitted, and the date is written, e.g.:
+
+Tav - shin - nun - dalet  l[i]f[rat]"k[atan] ("according to the
+abbreviated way of writing the date").
+
+Scholars and bibliographers use sleight of hand to figure out the
+civil equivalent of an abbreviated Hebrew date, which I will now
+reveal (at pain of kheyrem):  Add 1,240 to the abbreviated date, and
+you get the equivalent C.E. year, e.g.:  754 + 1,240 = 1,994. But
+it's only 1993, you say?  Remember that Rosh Hashanah comes in
+September or thereabouts, so the first few months of 5754 actually
+fall in the year 1993, but most of the current Hebrew year will
+indeed occur in 1994.
+
+If 666 were an abbreviated Hebrew date, its equivalent civil year
+would be 1905/06.  The Library of Congress, in its wisdom, no longer
+uses Hebrew letters to represent Hebrew dates; instead, it
+"translates" them into Arabic numerals and then provides a civil
+year equivalent (if none is supplied in the work being described).
+One encounters absurdities such as the following, on a Library of
+Congress cataloging record:  Warsaw : B. Shimin, 666 [1905 or 1906].
+
+Zachary Baker, YIVO Library
+
+______________________________________________________
+End of Mendele Vol. 3.133
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+

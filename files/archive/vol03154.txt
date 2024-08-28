@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.154
+December 4, 1993
+
+1) Henry Einspruch, D.D. (Zachary Baker)
+2) Word order (Ellen Prince)
+3) Grammar and rules (Bob Hoberman)
+
+1)----------------------------------------------------
+Date: Fri Dec  3 11:15:16 1993
+From:  Zachary Baker (bm.yib@rlg.stanford.edu)
+Subject: Henry Einspruch, D.D.
+
+Seymour Axelrod asks (MENDELE 3.153) about the Yiddish New Testament
+translation, Henry Einspruch/Khayim Aynshprukh.  A brief bio-
+bibliography appears in the "Leksikon fun der nayer yidisher
+literatur" (vol. 1, cols. 77-78).
+
+Einspruch was born in Tarnow, Galicia, the child of an iron-merchant
+who is described as a learned man (lamdn) and a Sandzer Hasid.  His
+mother was the daughter of the cantor of the main synagogue in
+Jaroslaw.  In short, good yikhes. He received both traditional
+Jewish and secular education and in his adolescence gravitated
+toward the Poale Zion (Labor Zionist) move- ment, and was active
+(together with Yitskhok Shiper -- who I assume is the same person
+who later became a famous historian of Polish Jewry, also known as
+Ignacy Schip[p]er) in organizing strikes among tailors, retail sales
+clerks and "belfers" (assistants to melamdim).
+
+He emigrated to Eretz Yisrael (Ertsisroel [!]) in 1909, lived in the
+agricultural colony of Merhavia, then (1911) moved to Egypt, and in
+1913 emigrated to the U.S. (Cleveland and New York City), where he
+worked in a restaurant and an iron foundry.  Later, he moved to
+Chicago, studied at McCormick Theological Seminary; Baltimore, where
+he enrolled at Johns Hopkins; and received a doctorate (1920) from
+Gettysburg College.
+
+From 1920 onward, he lived in Baltimore. "Although E. did not
+officially convert [to Christianity], he was the leader of the
+'Lutheran Jewish Mission'," writes the anonymous bio-bibliographer.
+He wrote for the Poale Zion journal, "Der Yidisher Arbeter" (circa
+1908-09), and after 1915 wrote for missionary journals and authored
+pamphlets in Hebrew, Yiddish, Polish, Russian and English.  The
+first edition of his N.T. translation, as noted by Seymour Axelrod,
+appeared in 1941.  "He learned how to set type himself and his
+publications appear in a correct and modern Yiddish."  I do not have
+ready information regarding his presumed year or date of death. (His
+name does not appear in Berl Kagan's 1986 "Leksikon fun Yidish-
+Shraybers.") After reading the bio, I don't know what else remains
+to be said!
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Fri Dec  3 11:40:13 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: word order
+
+to jason berman and hal berman:
+
+i personally will take shleyme axelrod's sage advice and drop this
+discussion right after this final note, which is not on word order but
+on methodology, since my plea to look at the data was misunderstood by
+both of you. to get at the facts of a language, any language, one
+does NOT ask a speaker what the rules are, since that would enlighten
+us only on their METAlinguistic beliefs, not on the actual 'rules' in
+their heads that govern their linguistic production and comprehension.
+to acquire insight into those 'rules', we alas must do the research
+OURSELVES, rather than expecting our informants to do it for us, by
+COLLECTING AND ANALYZING LINGUISTIC DATA, i.e. what they in fact
+produce naturally or in a well-designed experimental context. to see,
+e.g., how the blood system works or how the human body manages to
+maintain an upright position, one does not ASK people how they do it,
+right? asking people how their linguistic system works is analogous.
+
+Ellen Prince
+
+3)----------------------------------------------------
+Date: Fri Dec  3 14:23:24 1993
+From: Robert D Hoberman <RHOBERMAN@ccmail.sunysb.edu>
+Subject: Grammar and rules
+
+	On the question of Yiddish word order, we seem to have
+accumulated a variety of contradictory observations and conclusions.
+Let me add some thoughts about methodology.
+
+	One of the most important discoveries linguists have made in
+the last few decades (I'm thinking of the work of William Labov, who
+incidentally collaborated with Uriel Weinreich and our own Mikhl
+Herzog on some fundamental work in historical linguistics [not
+particularly on Yiddish!]) is that speakers of a language do not
+reliably know what they say.  Over and over again people working on
+English and many other languages and with educated and uneducated
+speakers alike find that speakers will tell you "I never say X and
+no one I know says X and it would be silly to say X" and then you
+tape record their conversation and they say X.  And you play them
+the tape and they say "Oh, yeah, well that has a special meaning" or
+"It's very rare" or "Nu, so I say it but it's not really correct"
+and so on mit alerley terutsim.  I have a feeling that if the
+Yiddish speakers who rejected verb-first sentences took a look at
+some IN CONTEXT in stories, they would bring themselves to accept
+them as natural.  (It's worth a try.)
+
+	The fact is, native speakers' intuitions based on
+introspection is only one kind of data about their language.  As the
+people who do political polling know, you get different results
+depending on how you ask the questions, which order you ask them in,
+who the questioner is, and so on.  And if speakers are unreliable
+when they tell you "I would/wouldn't say X" they are far less
+reliable when they try to state generalizations about the language.
+Generalizations are hypotheses; they have to be checked against
+data. Introspective judgments are one kind of data; another
+extremely important source is the examination of natural samples of
+speech or writing -- samples that weren't composed for the purpose
+of grammatical analysis, but for real communication.  These two
+ALWAYS yield contradictions (this is not to say that they never
+coincide), and frequently neither one is consistent within itself.
+Which one tells you what is "grammatical" or "grammatically
+correct"?  That is a matter of definition.  The main thing is that
+it takes a lot of data, thought, work, trial-and-error, etc., to
+figure out what is going on.
+
+Bob Hoberman
+
+______________________________________________________
+End of Mendele Vol. 3.154
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

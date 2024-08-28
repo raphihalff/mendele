@@ -1,0 +1,169 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.106
+November 26, 1996
+
+1) The survival of Yiddish (Dovid Braun)
+2) The survival of Yiddish (Leah Krikun)
+3) Vi me zogt af idish "l'hitraot" (Arik Grunberg)
+4) A tikn toes (Joachim Neugroschel)
+5) Helfn vi a toytn bankes (Loretta Denner)
+6) Yiddish for kids (Leah Krikun)
+7) Yiddish children's games sources (Robert Shapiro)
+
+1)----------------------------------------------------
+Date: Mon, 25 Nov 1996 23:41:46 EST
+From: dovid@mit.edu
+Subject: The survival of Yiddish
+
+Thanks to Mechl Asheri, for an interesting posting [6.104].  His
+observations about Yiddish usage in various communities were very
+informative. Observations such as these which appear periodically on
+Mendele will some day serve as historiographic sources, given the dearth
+of description available on most of Jewish life as it is actually lived,
+not to mention the life of minority groups within klal-yisroel (and,
+further, not to mention Yiddish- speaking Jews, who all too frequently
+are assumed to be dead or near death).
+
+A criticism:  I think we may abandon the notion Asheri expresses in this
+sentence: "It must be remembered that before the Holocaust Jewish
+communities were, if not hermetically sealed off from the world of the
+non-Jews, so close to it as made little difference." The fact that some
+of the khsidim he mentioned speak to each other in Hungarian (while
+living in 1996 in New York or Israel! -- not Satmer, Ihel, Siget, or
+Klouznborg) indicates just how invalid the "hermetically sealed"
+metaphor is.
+
+Dovid Braun
+Cambridge, MA
+
+2)----------------------------------------------------
+From: lejim@netvision.net.il
+Date: Tue, 26 Nov 96 21:18:26 PST
+Subject: The survival of Yiddish
+
+I was particularly interested in Mechel Asheri's comments, which in many
+particulars were similar to the concern I "voiced" in my first
+contribution to Mendele (vol. 6.080, 15th October). I hope there will be
+more letters on this subject, as the goal of Mendelniks, in addition to
+exchanging so many viewpoints, questions, etc. is, I feel, to keep our
+beloved mameloshn alive and well, today and for years to come. I look
+forward to more mail on this subject.  A sheynem dank.
+
+Leah (Selchen) Krikun
+
+3)----------------------------------------------------
+Date: Tue, 26 Nov 1996 01:39:14 -0500 (EST)
+From: agrunb1@tiger.towson.edu
+Subject: Vi me zogt af idish "l'hitraot"
+
+Vos iz der ekvivalent funem hebreyishe vort: l'hitraot?
+
+Arik Grunberg
+
+4)----------------------------------------------------
+Date: Mon, 25 Nov 1996 16:05:26 -0500 (EST)
+From: achim1@cris.com
+Subject: A tikn toes
+
+In volume 6.105 I accidentally wrote "acusative" instead of
+"nominative." I meant to say that the _nominative_ case is used for the
+subject of a verb not for the object (in the quoted line the case should
+have been the dative).  Sorry about the typo.
+
+Joachim Neugroschel
+
+5)----------------------------------------------------
+Date: Mon, 25 Nov 1996 14:27:57 -0800
+From: ldenner@floyd.santarosa.edu
+Subject: Helfn vi a toytn bankes
+
+Yet another reading of 'svet helfn vie a toyten bankes: As I recall the
+expression, it took the form of "...vie a toyten's bankes." The possessive
+form would suggest that the bankes have been applied/belong to the dead
+person. Hence, the more conventional reading that the analogy is being
+drawn between the pointless situation in question and the effectiveness
+(ineffectiveness?) of attempting to cup a dead person.
+
+Loretta Denner
+Santa Rosa, Ca.
+
+6)----------------------------------------------------
+From: lejim@netvision.net.il
+Date: Tue, 26 Nov 96 21:10:18 PST
+Subject: Yiddish for kids
+
+1. "Telling on someone" - my husband, who was born in Cuba and whose
+family moved to Boro Park in Brooklyn when he was 11, remembers that in
+Cuba, where they spoke Yiddish at home, an un-Englishized Yiddish - the
+expression used was "ich vel oyf dir masern" (from moyser, presumably).
+I seem to recall, growing up in Winnipeg, saying "ich vel oyf dir zogn"
+- prost un poshet
+
+2. Please oyf yiddish - isn't it interesting that we have no official
+word for this - what does this say about us (please regard this question
+as rhetorical). There are, of course, in addition to Mr. Neugroschel's
+suggestions, "ken ikh", "meg ikh", and so on.  But I have to agree with
+David Herskovic's suggestion of "please", English being as widely
+understood as it is; "please" may work where other really Yiddish
+expressions fail.
+
+Leah (Selchen) Krikun
+
+7)----------------------------------------------------
+Date: Tue, 26 Nov 1996 12:17:10 -0500
+From: shapiror@ramaz.org
+Subject: Yiddish children's games sources
+
+Roman Vishniac's daughter should look into Yekhiel Shtern's book,
+Kheyder un besmedresh, published by YIVO around 1950, in the Yivo-bleter
+and then as a separate book. There is an abbreviated translation in one
+of the early volumes of the YIVO Annual.
+
+Robert Shapiro
+
+______________________________________________________
+End of Mendele Vol. 6.106
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

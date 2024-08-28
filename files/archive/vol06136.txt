@@ -1,0 +1,156 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.136
+December 12, 1996
+
+1) Spider webs (Bob Rothstein)
+2) Wallach (Bob Rothstein)
+3) Wallach / Vayishkukhayhi (Eliyahu Juni)
+4) Hermetic isolation (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Thu, 12 Dec 1996 00:18:43 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Spider webs
+
+In response to the two inquiries about spider webs:  Bernard Gershen's
+_povitinya_ (6.130) is presumably from Ukrainian _pavutynnia_, a
+collective noun meaning 'spiderwebs'.  (A single web is _pavutyna_).
+Moishe Kijak's _pantchene_ (6.132) may be a shortening of Polish
+_pajeczyna_ (with a tail on the _e_), pronounced [payenchina].
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: Thu, 12 Dec 1996 00:18:43 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Wallach
+
+I'm not sure what Zev Kesselman's Romanian-Jewish friend meant by
+"Wallach" (6.125)--although I can guess at things like 'vagabond',
+'good-for-nothing' etc.--but the term has a long and complicated
+history. There is a Balkan nationality or ethnic group known as Vlachs
+(in Albania, former Yugoslavia, etc.) or Aromanians, who speak a Romance
+language or dialect related to Romanian.  They are/were traditionally
+migrant shepherds in the Carpathian region.  The Slavic name
+_vlach_/_vloch_/_voloch_ etc. probably comes from a Germanic term
+meaning 'stranger, foreigner', which in turn comes from the name of the
+most powerful Celtic tribe in Central Europe, which was known in Latin
+as the Volcae.  The term was applied by the ancient Slavs to all their
+Romance-speaking neighbors, whence also contemporary Polish _Wloch_
+[with barred _l_] and Hungarian _olasz_ for 'an Italian'.  The Celtic
+name is also the ultimate source for the name Wallachia (the Romanian
+province), and apparently for Wales/Welsh and Walloon as well. Among the
+Slavs the ethnonym gave rise to the terms for a gelding and for the
+operation (cited by Jota Piasecki, 6.128).  In Czech _valach_ is used to
+refer to a lazy person; the etymologist Vaclav Machek attributes that
+either to the reputation of shepherds or to the sluggishness of
+geldings.
+
+Bob Rothstein
+
+3)----------------------------------------------------
+Date: Thu, 12 Dec 1996 01:45:07 -0500
+From: e.juni@utoronto.ca
+Subject: Wallach / Vayishkukhayhi
+
+[Zet: vol. 6.125, 6.128]
+
+Antshuldikt mir vus ikh hayb un mit di teme nukh vos ale hob'n's shoyn
+fargesn, ober ikh hog'halt'n in sof semester, in ikh bin geveyn zayer
+farnimen;  ober khanike iz fort nokh nisht g'endikt, in m'halt nokh
+nisht ba mikaytz.
+
+Der vallekh, in di girse vus is bay mir bakant, hayst "Voytik."  Maan
+tate maynt az s'iz a "ployni" far poylishe, dus hayst a numen far yeyder
+go, azoy vi "fonye-ganef" (lav dafke a bavuster rushe).  S'iz ayner fun
+di "schmaltzy" vertlakh vus yeyder hert in besmedresh (khotsh in tayl
+butei-midrushim), in er maynt az dert vert'l iz khotsh hindert-fiftsik
+yur alt.  (S'du owkh a girse, "velkhe yid shpilt kvitlakh khanike, hiist
+vinter".  S'hot nisht ts'tin mit deym Voytik, ober efsher hobn menshtn
+mer moyre fin hiisn vi fin haysn Voytik.)
+
+Der groyser tsimes veygn kvitlakh-shpiln hot zikh nokh nisht g'endikt:
+Nokh hant in yeshives (nisht nor bay khsiidishe) vurent min di bukherim
+far khanike, ze zoln nisht shpiln kvitlakh, az s'iz a geferlekhe zakh.
+Ober ikh mayn az a sakh bukherim voln nisht g'vist in nisht g'hert fin
+kvitlakh akhits di strashen--der tsimes iz greser vi der shpilakhts.
+Nor ayn muel hob ikh gezeyn kvitlakh in yeshive, ober hern hob ikh
+gehert fin ze guer a sakh.
+
+Heyoys ikh bin shpeyt g'kimn ts'Vayayshev, geb ikh aykh iber nokh ayner
+fin di haymishe "schmaltzy" verter, l'kuved parshas Vayigash:  VaYiGaSH
+iz rushe-tayves "Vuv [d.h. Eyrev Shabes] Yihye Gimel SHvat", in tsirik:
+"SHeyleg Gudel Yihye V'kor."
+
+Eliyahu Juni
+
+4)----------------------------------------------------
+Date: Thu, 12 Dec 1996 00:18:43 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Hermetic isolation
+
+Michael Steinlauf stated the case against any notion of the "hermetic
+isolation" of Eastern European Jews very eloquently (6.128).  I would
+add one additional example from folklore. Among the various macaronic
+songs (_mishshprakhike lider_) found in the Yiddish folksong tradition,
+there is one in which the Slavic component, which is in most examples
+Polish or Ukrainian, is Slovak.  The song is about the birth and naming
+of the prophet Samuel, but its text is clearly modeled on a Christmas
+song about the birth and naming of Jesus.  The song is thus both
+linguistically and culturally macaronic.  While one could conceive of
+an East European Jew "overhearing" a Slavic melody "at a distance" and
+appropriating it for Jewish use or borrowing Slavic words learned
+through superficial contacts, this Slovak-Yiddish song suggests a more
+intimate knowledge of Slavic culture, and religious culture at that!
+And recall that the Christian model was adapted to Jewish religious
+purposes, so that the author was presumably not an outsider to the
+traditional Jewish community.
+
+Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol. 6.136
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

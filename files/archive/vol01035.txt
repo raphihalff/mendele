@@ -1,0 +1,141 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 35
+July 2, 1991
+ 
+1) Usage (Sheldon Benjamin)
+2) Responsa (Mikhl Herzog)
+3) Usage (Yankel Kessler)
+4) Introduction (Martin Minow)
+
+1)----------------------------------------------------
+Date: Mon, 01 Jul 91 22:06:09 EDT
+From: sbenj@ATHENA.MIT.EDU
+Subject: RE: Vol 1.34 Introduction; query; response
+
+Regarding the usage of "af tsalokhes..."
+
+I had always thought that the phrase had to do with a
+particular kind of bad luck (I've always been impressed
+at how many ways one can refer to luck in Yiddish).  I
+took it to mean, no matter what you do, it still comes
+out wrong.  Something like the efforts underway in
+Boston to undo the state's fiscal problems.   
+
+2)----------------------------------------------------
+Date: Mon, 1 Jul 91  21:36 EDT
+From: ZOGUR@CUVMB.BITNET
+Subject: To all and sundry
+
+To Kessler: NO, NO, A THOUSAND TIMES NO!
+"es geyt mir in lebn"  means  'it concerns me very
+much', 'it's a matter of life (or death?)'.
+ 
+To Dave:
+
+i)"es geyt mir in lebn"  means  'it concerns me very
+much', 'it's a matter of life (or death?)'.
+ 
+ii) As Bob Berk points out, "af tselokhes/tselukhes"
+means 'for spite'. 'On purpose' is better expressed by
+"bekivn".  
+
+iii) As for patah and komets. Remember that these are
+marks on paper, not sounds. You're asking how a certain
+sound in Hebrew became a different sound in Yiddish,
+how [a] became [o/u]. Right? The answer that fits most
+cases with respect to Yiddish words of Semitic, German,
+and Slavic origin is this: both long [a:] and short [a]
+in open syllable, in all of the stock languages yielded
+[o] (in Standard and "Litvish" Yiddish) and [u] (in
+Poland and the Ukraine). As examples, think of a word
+that rhymes with "tselokhes". Got it? Also, compare
+Yiddish "zogn/zugn" with German "sagen", Yiddish
+"bobe/bube" with Slavic "babe?". Of course, there is
+also a Yiddish regional variant "babe" in Volin(?) and
+Galicia, with still another "bobe" alternant  in neigh-
+boring Podolia, Bessarabia" (where we'd expect to find
+"bube").  There ARE words that don't seem to obey this
+rule, for example, "nakhes" but, I'm getting carried
+away. If you're hungry for more, see Max Weinreich's
+"History of the Yiddish Language", Chicago, 1980.
+ 
+iv) Would you consider "al-pi-toes" 'mistakenly' a more
+suitable term for  'accidentally' in the contexts in
+which the need arises with your children?
+ 
+To Bob Berk:
+
+From UW's dictionary:
+These seem to me to be the most useful:
+chance "der traf"
+by chance "al-pi-traf"
+law of chance "der trafgezets"
+at random "af traf"
+random sample "der trafmuster"
+Have you tried Mordkhe Schaechter for a lexicon of
+mathematical terms (or are you his source?)?
+Try the YIVO library for Yiddish math textbooks pub-
+lished in pre-war Poland or the Soviet Union.
+ 
+To Nicholas Eshelman:
+
+There are a variety of Dictionary projects in the works
+but they are not simply intended as an "update" of
+Weinreich. Why dou feel it needs updating? Do you need
+more English to Yiddish or the reverse? For the latter,
+see Harkavy, 1928 (Yiddish-English-Hebrew) recently
+republished by YIVO.
+ 
+To Johan van der Auwera:
+
+I'd be pleased to learn about the varieties of Yiddish
+you encounter in Antwerp. Are variations determined by
+geographic origin only, or are they also related to
+membership in the various Hassidic groups that I assume
+are represented in the Yiddish speaking population? Can
+you tell yet?
+ 
+3)----------------------------------------------------
+Date: Mon, 01 Jul 91 22:26 PDT
+From: KESSLER <IME9JFK@UCLAMVS.BITNET>
+Subject: RE: Vol 1.34 Introduction; query; response
+
+In my family, when something was af tselokhes, it was
+to say, Up shit's creek, or down the tube, or lost and
+hopeless, ferfuhln, or ver fallen, as it were, lo st,
+goodbye. What did the speak in Bessarabia, in my fami-
+ly? Yankele  
+4)----------------------------------------------------
+Date: Tue, 2 Jul 91 06:19:45 PDT
+From: Martin Minow 02-Jul-1991 0908
+<minow@ranger.enet.dec.COM> 
+Subject: Introduction
+
+I'm Martin Minow. My Yiddish is almost, but not quite,
+non-existant (it was the language my parents spoke when
+they didn't want the kids to listen), but I did pick up
+some at an evening course at Harvard Hillel a few years
+ago.  Since my handwriting is so bad even I can't read
+it sometimes, I adapted a text editor for Yiddish
+(showing that the spirit of Krasvilevke [spelling?] is
+still alive in America).  (If anyone's interested, I do
+have software that lets you print Hebrew/Yiddish from
+an Atari PC.)
+
+During the 1960's and 1970's, I was a linguistics grad.
+student in Sweden, where I saw the disappearance of the
+formal-informal pronouns -- the recent discussion in
+Mendele on formal-informal in Yiddish sounded very
+familiar.
+
+One other thing worthy of note here: my mother's maiden
+name is Rose Mitnick.  She was in the same high-school
+class as Leo Rosten and thus appeared as the heroine in
+"The Education of H*Y*M*A*N K*A*P*L*A*N." (I'd like to
+find a copy of that book, by the way.)
+
+Martin Minow
+minow@ranger.enet.dec.com
+______________________________________________________
+End of Mendele Vol 1.35

@@ -1,0 +1,101 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.035
+June 15, 1993
+
+1) Yiddish -- The Fifteenth Slavic Language? (Ellen Prince)
+2) Yiddish -- The Fifteenth Slavic Language? (Khaim Bochner)
+
+1)----------------------------------------------------
+Date: Tue Jun 15 09:31:35 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Re: Yiddish -- The Fifteenth Slavic Language?
+
+zachary baker writes of paul wexler's claim that yiddish is
+(relexified) slavic and wonders why the professional linguists here
+haven't commented on it.
+
+first, i think there was some discussion way back--but that may just
+be a bad dream. second, when i see some content to his claims, i'll
+take them as worthy of scholarly debate.
+
+ellen prince
+
+2----------------------------------------------------
+Date: Tue Jun 15 13:07:25 1993
+From: bochner@das.harvard.edu
+Subject: Re: Yiddish -- The Fifteenth Slavic Language?
+
+Zachary Baker writes in Mendele Vol 3.034
+> speakers of what Wexler refers to as
+> Judeo-Sorbian also adopted a form of German -- or, as Prof. Neil
+> Jacobs put it to me, their Slavic language became "relexified" --
+> while retaining underlying features of their earlier language. These
+> views, summarized by Philologos and further abstracted here, were
+> given their most extensive treatment in a special issue of the
+> International Journal of the Sociology of Language (1991). (I have
+> not yet seen that issue.)
+....
+> Needless to say, such views -- expressed by a highly regarded
+> linguist -- are very controversial.  I am surprised that none of the
+> professional linguists who contribute to this forum have not
+> commented on it.  (Hint, hint...)
+
+I seem to remember Ellen Prince being eloquent on this subject some
+time ago, but perhaps that wasn't on Mendele. In any case, I'll take
+a stab at it.
+
+Disclaimer: I haven't read Wexler's work, and it's possible that the
+second and third hand reports I've heard haven't given me a fair
+impression.
+
+But the reason I haven't bothered looking up the original work is
+that it sounds too implausible to be interesting.
+
+Why? Well, let's consider briefly a real case of the scenario being
+proposed, like Albanian. As I understand it, when historical
+linguists first looked at Albanian, they thought it was a Romance
+language, because there were Latin etymologies for most of the
+vocabulary. But the grammatical patterns were very different from
+any other Romance language. And then they noticed that they couldn't
+find Latin etymologies for many of the words least likely to be
+borrowed: everyday nouns, common irregular verbs, etc. A closer look
+revealed that those words did have Indo-European etymologies, but
+could not have come from Latin. (It turns out that Albanian is a
+separate branch of Indo-European, with massive numbers of Romance
+loan words dating back to the period of the Roman empire.)
+
+And the point is that Yiddish doesn't resemble this at all. Basic
+vocabulary is overwhelmingly Germanic. Pronouns and irregular verbs
+are exclusively Germanic.  The syntax is fundamentally Germanic. The
+morphology is primarily Germanic.  Yiddish simply is not a Slavic
+language. In fact, it's a pretty typical Germanic language, more
+typical than English, I'd say.
+
+That doesn't mean that there couldn't have been some group of Jews
+who spoke a Slavic language, and later switched to a Germanic
+language, as Wexler suggests. But if so, the switch was too complete
+to call the result a Slavic language. (Something like this did in
+fact happen to the Romance predecessor of Yiddish, the source of
+words like bentshn & cholnt.)
+
+And I don't deny that there are subtle and interesting influences on
+Yiddish from Slavic. I'd like to learn more about them. But they all
+seem to be the sorts of things that can be borrowed readily under
+circumstances of extensive bi-lingualism, which we know we had.
+Frankly, Wexler's claims sound too much like the lunatic fringe (a
+regretably large part of Linguistics :-() for me to think that I
+would learn much from his work.
+
+Once while browsing the "history of Hebrew" shelves in the library.
+I came across a respectable looking book entitled "Hebrew is Greek".
+I didn't bother reading that one either ...
+
+So much for the hard-core skeptic position: anyone for the defense?
+
+-- Khaim
+
+______________________________________________________
+End of Mendele Vol. 3.035
+

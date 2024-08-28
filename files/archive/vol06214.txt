@@ -1,0 +1,239 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.214
+February 1, 1997
+
+1) yidishe kompyuter-terminologye (Freydl Cielak)
+
+1)----------------------------------------------------
+Date: Sat, 1 Feb 1997 04:25:24 -0600
+From: arele@enter.net.mx
+Subject: yidishe kompyuter-terminologye
+
+Vi azoy darf men zikh vendn in Mendele ? Mendelistn oder Mendelyaner?
+Efsher kent ir, khosheve Mendelistn, mir helfn?
+
+In di moderne tzaytn darfn mir ale kenen redn mit a yidisher "kompyuter
+shprakh".
+
+Ikh shik aykh tzu a reshime verter-terminen, vos ikh ob gefunen in
+farshidene Mendeles ontylungen un shriftn fun: Sholem Berger, Leybl
+Botvinik, Noyekh Miller, Icek Mozes, Joachim Neugroschel, un Meylekh
+Viswanath.
+
+Velkhe zaynen di korekte verter? Iz shoyn do a ofitzyeler yidisher
+verterbukh mit kompyuter-terminen ?
+
+                         * * *
+
+backspace                     der krikruker, krikklavish
+
+bit                           dos eynsl
+
+(to) bomb                     platzn
+
+byte                          dos akhtele
+
+compatible                    tsugepast(ok M)
+
+computer                      der mikrokompyuter
+
+computer science              dos compyuteray
+
+computer supply store         di compyuter-krom
+
+cursor                        der loyfer
+
+daisy wheel                   dos margaredl [! "margaritkelekh" are daisies]
+
+data                          gegebene, datn
+
+database                      di datn-baze, reshime
+
+(to) delete                   aroysmekn
+
+desktop publishing            dos compyuter-aroysgeberay
+
+desktop publishing            di aroysgeb-program / di zaytl-program
+   program
+
+directory                     der toykhn-optail haylik,optayl
+
+disk                          der disk
+
+hard disk                     groysplatte, der harter disk
+
+disk-drive                    der disk-leyener
+
+floppy disk, diskette         der baygevdisk, dos diskl
+
+dot matrix printer            pintl-opdruker
+
+(to) download a program       ariberfirn a program
+
+e-mail                        blitsbrivlekh, blitspost*, el-post*,
+                              elektronishe post*, e-post* [aroysgeredt
+                              "ayen-post"], elektronishe-briv,
+                              ee-post/eh-post, [on* mitn* artikl]
+
+emoticon/smiley               [d"h di kleyne penemerlekh vos gefinen
+                              zikh in blitsbrivlekh, bikhdey oystsudrikn
+                              emotsies, gemakht fun opruf-tseykhns;
+                              ashteyger :-), :> ua"v agev iz dos vort
+                              nokh nisht bashtimt af english afile]
+                              partsefl,peneml
+
+FAX                           telekopirer, faks
+
+floppy disk, diskette         der baygevdisk, dos diskl
+
+font                          der shrift
+
+font editor program           shrift-shaf-program
+
+font packdos                  shriftpekl
+
+(to) format a disk            tsugreytn dem disk
+
+hard disk                     groysplatte, der harter disk
+
+header                        [d"h di shures vos vern oytomatish
+                              tsugegebn tsum blitsbrivl mit ale di
+                              pitshkeves vegn der date, tsayt,ua"v] kepl
+
+hit [subst.]                  ["This site has a lot of hits"=a sakh
+                              mentshn hobn shoyn bazukt/gezen dos zaytl]
+                              bazukh, gast
+
+home page                     heymzaytl*
+
+IBM compatible                "ay-bi-em"-tsugepast
+
+icon                          dos bildl
+
+impact printer                klap-opdruker
+
+input                         dos araynvarg
+
+internet                      internetz/inter-geveb
+
+key                           der klavish
+
+to key in, to input           araynton
+
+keyboard                      di klaviatur
+
+keypunch card                 dos lekhl-kvitl
+
+to keypunch                   lekhlen [a "lokh" is a hole, right? :-)]
+
+laser printer                 lazer-opdruker
+
+link                          bund, kvetsh-bund, kvetshlekhe vort
+
+(to) load a program           araynshteln a program
+
+memory                        der zikoron
+
+memory board                  der zikoron-tovl
+
+memory card                   dos zikoron-kvitl
+
+mouse                         dos mayzl
+
+mouse pad                     der moyveg
+
+on line                       [amol hot dos af english geheysn "mitn
+                              kompyuter, elektronish"; in der
+                              internet-tekufe meynt es shoyn "geknipt(erhayt)
+                              tsu der/a kompyuter-nets"] farbunden(erhayt)*,
+                              geknipt(erhayt)
+
+operating-system              operir-sistem, arbet-sistem, onfir-sistem
+
+pen-pals                      "briv-fraynd" (di iberzetzung fun "pen-
+                              pals" iz "feder-fraynd" ober der zinen, der
+                              tzveg iz nisht klor mit dem termin)
+
+personal computer             zelbstshtendikerMikro /frayshtendiker mikro
+                              (mikrokompyuter)
+
+postage                       post
+
+printer [machine]             dos opdruker
+
+printout                      der aroysdruk
+
+program                       di program
+
+(to) program                  programirn
+
+program update                di derhayntikte program
+
+programmer                    der programirer
+
+reset key                     dos tsum-onhoyb-knepl
+
+return key                    der [nayer] shure-klavish
+
+save [a document]             oyfhitn [a dokument]
+
+screen                        der ekran
+
+server                        shames, sarver
+
+snail mail                    prost post, shleppost* ,papirene post,
+                              geveyntlekhe post, stam post
+
+software                      dos programvarg
+
+space bar                     der opruker, der shpaytzer
+
+spreadsheet                   khezhbon
+
+surge protector               der shtrom-regulirer
+
+switch                        der oys-shliser
+
+terminal                      aparat, terminal
+
+(to) update a program         derhayntikn a program
+
+URL                           vebadres
+
+visit                         bazukhn ,zen, kukn, (dos heymzaytl,dem
+                              vebplats)
+
+web                           (di) netz, (dos) geveb/n-
+
+web                           veb*
+
+web browser                   [d"h a program vos firt dem nitser durkhn veb]
+                              vebkrikher*
+
+web site                      vebsort*, vebort*, vebplats*, vebshtot [afn
+                              model fun a shtot in shul]
+
+(to) word-process             vortirn
+
+word processing               dos vortireray
+
+word processor                redakter
+
+word-processor person         der vortirnik
+
+word-processor program        der vortirer [d"h a program vos firt dem
+                              nitser durkhn veb] vebkrikher*
+
+
+                         * * *
+
+Mit grusn,
+
+Freydl Cielak
+Mexico City
+
+______________________________________________________
+End of Mendele Vol. 6.214
+

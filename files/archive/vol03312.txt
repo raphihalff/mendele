@@ -1,0 +1,131 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.312
+April 8, 1994
+
+1) Daytchmerism & "standard Yiddish" (Arre Komar)
+2) Mountain Jews of the Caucasus (Mark Southern)
+3) Introduction (Simon Dinitz)
+4) Writer from Khust (Rick Gildemeister)
+5) More on archives (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Wed Apr  6 18:18:36 1994
+From: <komar@yu1.yu.edu>
+Subject: Daytchmerism & "standard Yiddish"
+
+Re migldik and the issue of "standard Yiddish" :  I can understand the
+need to standardize if one wants to create a formal grammar and
+literature. I also understand the aversion to Germanic forms when one
+wants to create a more sophisticated vocabulary than what was available
+in proste mameloshen. I mainly object to the artificiality of the
+contortions that some people have gone through to avoid the readily
+available mameloshen term merely because they perceive it to be too close
+to German. But if you are too arbitrary and unrealistic what you will
+create will be a useless quixotic Esperanto which only some obscure
+academics might concern themselves with. It will not become a living
+language.
+
+It is true that at the beginning of this century Yiddish was threatened
+to be swallowed up by the onslaght of daytchmerisms. But the real blow to
+Yiddish that the Germans administered was done by gas chambers rather
+than by daytchmerisms. The present threat to Yiddish I find to be the
+growing influx of Hebrew based words. I believe that this can be
+documented by observing the shift in vocabulary from a 1940 issue of
+Forvets to a present one. If this is a natural evolution of the living
+language,so be it. But let us not mount the wrong ramparts if our concern
+is to preserve what's left of the language. Despite Meylekh's noble
+efforts ikh gleyb az migldik blaybt ekldik.
+
+Arre Komar
+
+2)----------------------------------------------------
+Date: Wed Apr  6 19:05:53 1994
+From: marks@cns.carthage.edu
+Subject: Mountain Jews of the Caucasus
+
+Does anyone on Mendele have any leads, ideas, knowledge or
+bibliographical pointers on the language of the Mountain Jews of the
+Caucasus - esp. from a [socio]linguistic perspective?
+
+A sheynem dank,
+
+Mark Southern
+
+3)----------------------------------------------------
+Date: Thu Apr  7 09:50:39 1994
+From: sdinitz@magnus.acs.ohio-state.edu
+Subject: Introduction
+
+A lapsed Yiddishist, I would like to return to the fold. For the record,
+Yiddish was my first tongue and, though I have had little opportunity to
+use it in the last fifty years or so, I am still very committed to its
+preservation and good health.
+
+Simon (Sy) Dinitz
+
+4)----------------------------------------------------
+Date: Fri Apr  8 09:55:50 1994
+From: EEGLC%CUNYVM.bitnet@YaleVM.YCC.Yale.Edu
+Subject: Writer from Khust
+
+The last few days have been a real tumult, and in the fray I lost a piece
+of mail directed to me about a Holocaust memoir written by a man from
+Khust, which is in Transcarpathian Ruthenia (I never know what to call
+that area). The author's name is "M.A. Stern" (verso of title page) and
+on the title page it is given in Hebrew letters as Moyshe Ari' Shtern.
+The book looks like it was privately printed, and there's no date. The
+title is: Dos kol fun blut: a megile fun yomer un shoyder--
+
+Rick Gildemeister
+
+5)----------------------------------------------------
+Date: Fri Apr  8 11:28:56 1994
+From: nmiller@starbase.trincoll.edu
+Subject: More on archives
+
+Now that Bob Rothstein has done the hard work in putting together the
+table of contents for the last 3 years, it would be a pity not to keep
+said table up to date.  Accordingly I'll try to update it once a week.
+It will be appended to CONTENTS.V3 and as already noted be available
+via anonymous ftp.
+
+I forgot to mention (because I had not yet tried it) that in addition to
+anonymous ftp all back numbers are available via gopher.  Type "gopher
+gopher.cic.net".  The menu choices for Mendele are: 2, 3, 13, 14.  A "/"
+will bring up the number you're interested in.  Very neat.  Even those
+who like your shames loathe menus can learn to live with this piece of
+software.
+
+My shutef Victor Bers is the one who discovered this gopher.  We are
+grateful to the anonymous lamed-vovnik who made it possible.
+
+A gutn Shabbes aykh.
+
+Noyekh
+
+______________________________________________________
+End of Mendele Vol. 3.312
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net

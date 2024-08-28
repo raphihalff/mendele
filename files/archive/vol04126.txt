@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.126
+October 6, 1994
+
+1) Introduction (Stuart Carlow)
+2) EL-AL's Neglect of Yiddish (Zellig Bach)
+3) Di grine kusine (Henry Baich)
+4) Yiddish Word Processor, and Davka (Stuart Carlow)
+5) Two songs transliterated (Daniella HarPaz)
+
+1)----------------------------------------------------
+Date: Mon, 3 Oct 1994 19:05:48 -0400 (EDT)
+From: scarlow@cap.gwu.edu
+Subject: Introduction
+
+I grew up in the Bronx, where Yiddish became music to my ears.  My
+grandmother spoke to me almost exclusively in Yiddish and I always
+replied exclusively in English.  Other relatives spoke to me in Yinglish.
+Today I hear it spoken rarely, making those moments even more pleasant,
+although my understanding has diminished greatly.  But who says you have
+to "understand" music?  I keep in touch through reading Mendele and
+through my brother, who is an actor with the Folksbeine; perhaps some day
+he'll also become active on Mendele.
+
+Stuart Carlow
+
+2)----------------------------------------------------
+Date: Mon, 03 Oct 94 22:53:13 EDT
+From: Zellig@aol.com
+Subject: Protests EL-AL's Neglect of Yiddish
+
+The Israeli airline EL-AL is apparently so busy with its safety
+precautions, care of its equiment, and daily schedules, that it did not
+find the time to notice the subtle changes and rapprochement towards
+Yiddish in Israel's society.  Suffice it to mention the festive Yiddish
+Day in the Kneset where many members of the parliament, including invited
+guests, among them the greatest Yiddish poet of our day, Avrohom
+Sutskever, talked about the intrinsic values for the Jewish people of the
+culture created in Yiddish.
+
+Dr. Mordkhe Shaekhter, well-known essayist, pedagogue, editor of the
+quarterly _afn shvel_, and indefatigable guardian of Yiddish, was one of
+the five recipients of this year's Itsik Manger Prize.
+
+On his return from Israel to New York on EL-AL he was offered countless
+Israeli dailies, weeklies, and other publications in Hebrew, English,
+Russian, Romanian, German, Spanish, and Arabic, but none in Yiddish.
+
+He sent EL-AL a strongly worded protest, and enumerated the wide
+selection of IsraelI publications in Yiddish that it could offer its
+passengers:  Goldene keyt, Lebnsfragn, Letste nayes, Naye tsaytung, and
+Isroel-Shtime.
+
+He asks lovers and respectors of Yiddish to lodge similar protests if
+they undergo the same experience.
+
+Zellig Bach
+
+3)----------------------------------------------------
+Date: Tue, 04 Oct 94 01:28:15 CDT
+From: hbaich%siuemus.bitnet@yalevm.ycc.yale.edu
+Subject: Di grine kusine
+
+Thanks to both Dan Leeson Bob Wilson for their words to the Grine Kusine.
+Over the sixty or seventy years since I last heard my mother sing it, I'd
+forgotten all but the first few words.  She was a grine kusine in 1914.
+But I can still close my eyes and hear her.
+
+Henry Baich
+
+4)----------------------------------------------------
+Date: Mon, 3 Oct 1994 19:19:08 -0400 (EDT)
+From: scarlow@cap.gwu.edu
+Subject: Yiddish Word Processor, and Davka
+
+Davka's 800-number is 800-621-8227.  For some reason it isn't listed with
+"800" information.
+
+A year or so ago I purchased a DOS-based Yiddish word processor from
+them, named Multiwriter.  Multiwriter apparently has the potential to
+support many many languages, one of which is Yiddish.  The Yiddish
+version is a Hebrew word processor with the addition of Yiddish
+characters, such as tsvay yuddin and pasach alef (pardon my non-YIVO
+standard spelling).
+
+It is a very simplistic DOS word processor, containing a single font and
+no spell checker; but it works and supports both block characters and
+script.
+
+Davka no longer sells Multiwriter, nor any other Yiddish word processor
+for that matter, but they gave me the number of the firm in Israel that
+does supply it (they may be the developers).  The company is Computronic
+Corp:
+
+phone 972-3-536-4383
+fax   972-3-534-3270
+
+Stuart Carlow
+
+5)----------------------------------------------------
+Date: Tue, 4 Oct 1994 10:20 EDT
+From: harpaz@binah.cc.brandeis.edu
+Subject: Two songs transliterated
+
+I am trying to help a student with pronounciation and comprehension of
+two Yiddish songs which she will perform later this semester.  The
+transliteration (the Yiddish letters are not there) is very difficult for
+me to understand.  I have figured most of it out but would appreciate any
+help offered with the following lines...
+
+1st song: "Chanson Hebraique", music Maurice Ravel
+
+?-Oif wos darfs tu Bo-nei?
+?-Kol chai-joi-du-cho...
+
+First, any ideas about Bonei?  From Aramaic as suggested by a friend of
+mine? Secondly, could the second line be "Kol Khay Yedo'ukho"?
+
+I forgot to mention that this is from the song "Meyerke mayn zun" and if
+anyone knows where I can find the Yiddish to this song it would solve my
+problem.  I haven't been able to find it anywhere.
+
+2nd song:  "L'enigme Eternelle", music Maurice Ravel
+
+?-Un as men will kennen sagen Tra la la la...
+
+This entire song is transliterated with a lot of German spelling of
+words, but this phrase is really part German, so...does anyone know what
+it is suppose to be?  The song is "freygt di velt di alte kashe, tra la
+la la....."
+
+I haven't been able to find this one in Yiddish either.  I appreciate any
+suggestions or sources!
+
+a dank!
+
+Daniella HarPaz
+
+______________________________________________________
+End of Mendele Vol. 4.126
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

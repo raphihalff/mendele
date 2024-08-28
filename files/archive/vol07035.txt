@@ -1,0 +1,129 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 7.035
+July 4, 1997
+
+1) Poetry in newspapers (Itsik Goldenberg)
+2) a query about two possibly Yiddish phrases (Larry Rosenwald)
+3) Yiddish translation of Thoreau's 'Civil Disobedience' (Larry Rosenwald)
+4) Weinreichs' phrasebook (bob berk)
+
+1)----------------------------------------------------
+Date: Thu, 3 Jul 1997 10:03:05 -0400 
+From: "Robert Goldenberg" <goldenbe@vaxxine.com>
+Subject: Poetry in newspapers
+
+In Mendele 7.030(4), Alvin Greenberg laments the days "when newspapers
+published poetry." In every other issue of Der Forverts, Chana and Yosl
+Mlotek write a 2-page column in the centrefold called PERL FUN DER YIDISHER
+POEZYE. Besides selections from the classic Yiddish poets, past and
+present, they provide interesting historical and biographical material
+about the poets. This column has been a regular feature of Der Forverts for
+well over 20 years. For this column alone it is worth subscribing to Der
+Forverts ( which all Mendelyaner who can read Yiddish should do in any
+case). From time to time, poetry appears on other pages of Der Forverts as
+well. So, we need not lament the passing of those times. We still have
+them, if we read the right newspapers.
+
+Itsik Goldenberg
+
+2)----------------------------------------------------
+Date: Thu, 03 Jul 1997 14:37:03 -0500 (EST)
+From: Larry Rosenwald <LROSENWALD@WELLESLEY.EDU>
+Subject: a query about two possibly Yiddish phrases
+
+I'm trying to figure out both the Yiddish equivalents of these two phrases, 
+and also whether they're stock phrases.
+
+The first was told to me by a friend in New York, about 30 years ago.  He had 
+grown up speaking or at any rate hearing Yiddish, and he said, "well, as they 
+say in Yiddish, where does it say in the Torah that what it says in the Torah 
+is true?"  Is that a proverbial phrase, or was he making it up to shock me?
+
+The second turns up a lot in Anzia Yezierska's _Bread-Givers_;  the heroine, 
+Sara Smolinsky, is always saying, "I want to be a person among people."  
+Again, is that proverbial?
+
+Thanks in advance - 
+Larry Rosenwald
+
+3)----------------------------------------------------
+Date: Thu, 03 Jul 1997 14:40:58 -0500 (EST)
+From: Larry Rosenwald <LROSENWALD@WELLESLEY.EDU>
+Subject: Yiddish translation of Thoreau's 'Civil Disobedience'
+
+I'm writing an essay about Thoreau's famous essay "Civil Disobedience," and 
+wondered whether that essay had been translated into Yiddish, and if so 
+whether someone could help me to find a copy.  This is not an altogether 
+casual request, though I don't think you should drop pressing work to help me;  
+the essay I'm writing is partly about the influence of the essay, and a 
+translation into Yiddish would say something about that influence.  
+Furthermore, I've often found that reading a work you know well in one 
+language in a translation into another language gives you a fresh look at the 
+text, and I'd be interested in seeing how a Yiddish translator rendered 
+Thoreau's sentences and terms.  Thanks so much, 
+
+Larry Rosenwald
+
+4)----------------------------------------------------
+Date: Thu, 3 Jul 1997 14:38:17 -0400
+From: rci@rci.rutgers.edu
+Subject: Weinreichs' phrasebook
+
+Coincidently, shortly before the brouhaha regarding this phrasebook started
+(with Al Grand's posting about Michael Chabon's review of same), I had spent 
+an hour or so casually rereading parts of that same book (nevermind why). It
+struck me then that the book is a nice source of some reasonably idiomatic
+Yiddish phrases (with English translations, of course) and also a small
+repository of useful day-to-day words, such as various kinds of foods, (and 
+`ferry' notwithstanding). I think someone wishing to improve their Yiddish 
+could do worse than take a look at this book.
+
+bob berk
+piscataway nj
+
+______________________________________________________
+End of Mendele Vol. 7.035
+
+Mendele has 2 rules:
+
+        1. Provide a meaningful Subject: line
+        2. Sign your article (full name please)
+
+Send articles to:
+    mendele@lists.yale.edu
+
+Send change-of-status messages to:
+    listproc@lists.yale.edu
+
+        a. For a temporary stop: set mendele mail postpone
+        b. To resume delivery: set mendele mail ack
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    victor.bers@yale.edu                     Victor Bers
+    iiv@mmlds1.pha.unc.edu                   Iosif Vaisman
+    nmiller@mail.trincoll.edu                Noyekh Miller
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html (with search interface)
+
+in Eastern Hemisphere
+    http://sunsite.sut.ac.jp/arch/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+    

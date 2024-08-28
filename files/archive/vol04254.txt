@@ -1,0 +1,189 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.254
+December 30, 1994
+
+1) Zmarstynov/Zamarstynow (Arn Abramson)
+2) Zmarstynov/Zamarstynow (Gaston L. Schmir)
+3) Zmarstynov/Zamarstynow (Bob Rothstein)
+4) Lern, davn and no epenthesis (Dovid Braun)
+5) Nasidale (Bob Rothstein)
+6) Tam yak tut (Bob Rothstein)
+7) Khoge (Harvey Spiro)
+
+1)----------------------------------------------------
+Date: Wed, 28 Dec 94 15:45:39 EST
+From: abramson@uconnvm.uconn.edu
+Subject: Zmarstynov/Zamarstynow
+
+To: Rita Falbel
+
+Using the Daitch-Mokotoff Soundex Coding Ssystem, I have found that your
+town is entered as Zamarstynow on p. 405 of _Where Once We Walked_ by
+Gary Mokotoff and Sallyann Amdur Sack. No latitude and longitude can be
+given because this town was not found in the gazetteers of the U.S. Board
+on Geographic Names. It is described in _The Black Book of Localities
+Whose Jewish Popuilation Was Destroyed by the Nazis_ as being in the Lwow
+region of Poland. It is  mentioned in the _Encyclopedia of Galician
+Rabbis and Scholars_. It had a  Jewish population of 2914 before the
+Holocaust.
+
+Arn Abramson
+
+2)----------------------------------------------------
+Date: Wed, 28 Dec 1994 19:30:59 -0500 (EST)
+From: glschm@minerva.cis.yale.edu
+Subject: Zamarstynov
+
+In the memoirs of Leon Wells ("The Janowska Road", Macmillan, New York,
+1963), there appears a map of Lwow indicating the location of a section
+called Zamarstynowska. The ghetto seems to have been located near this
+area and one of the streets forming the boundary of the ghetto was
+Zamarstynowska Street.
+
+Gaston L. Schmir
+
+3)----------------------------------------------------
+Date: Thu, 29 Dec 1994 21:01:31 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Zamarstynow
+
+In 4.252 Rita Falbel asked about Zamarstynov.  It was established in 1422
+by the Lemberg burgher Jan Sommerstein on the northern border of that
+city and called Sommersteinhof, later Polonized  to Zamarstyno'w.
+(Lemberg is of course the Yiddish and German [Austro-Hungarian] name for
+the city that is usually known in English by its Russian name, Lvov
+[L'vov]; the Ukrainians call it Lviv [L'viv].)  By 1930 Zamarstyno'w was
+officially part of Greater Lwo'w (as the Poles called it).  It was an
+industrial and working-class area.  During the Nazi occupation it
+constituted part of the Jewish ghetto.
+
+Bob Rothstein
+
+4)----------------------------------------------------
+Date: Thu, 29 Dec 1994 18:20:20 EST
+From: dovid@MIT.EDU
+Subject: lern, davn and no epenthesis
+
+In the words _tseykhn, ordn, latkhn_ and many, many others, an /e/ is
+inserted before the final /n/ of the stem when the inflectional ending
+/-en/ of the infinitive or of the 1st/3rd persons plural is added. So
+_mir tseykhEnen, zey latkhEnen_ etc. etc., although _ikh tseykhn, er
+latkhnt, du ordnst_.
+
+(Without linguistic analysis of the phenomenon,) the generalization is
+that when the stem of the verb ends in /n/, add /e/ before it when
+inflecting with /-en/.  But _lern, davn_ seem to be exceptions, since in
+their inflected form they are:  _lernen, davnen_. (Yes, there are those
+who say _davEnen, lerEnen_, so they have regularized these two stems.
+But I'm interested in those who have maintained the exception.)
+
+My question:  can you think of any other stems ending in /n/ in which
+/e/ is _not_ added?  My thanks in advance.
+
+Dovid Braun
+
+5)----------------------------------------------------
+Date: Thu, 29 Dec 1994 20:43:17 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Nasidale
+
+In 4.251 Howard Freedman asked about the word _nasidale_ in the context:
+"Zey geyen kayn Rakhmanov oyf der nasidale."  He had been correctly
+informed that the word involved a Slavic root meaning "sit," but that's
+only part of the story.  In Ukrainian _sidalo_ can mean "perch" or
+"roost" (e.g., for a chicken); _na sidale_ (prepositional case) would be
+"on the perch/roost" and _na sidalo_ (accusative case) would be "(on)to
+the perch/roost." So the Yiddish _oyf_ duplicates the Ukrainian
+preposition.  The joke presumably comes from the fact that _sidalo_ can
+also mean "buttocks."
+
+Bob Rothstein
+
+6)----------------------------------------------------
+Date: Thu, 29 Dec 1994 20:50:57 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Tam yak tut
+
+In 4.251 Zev Bar-Lev correctly pointed out that while _tam_ could be
+either Polish or Russian, _yak_ could only be Polish and _tut_ could only
+be Russian.  He suggested that the whole expression might work in
+Ukrainian, "which does mix Russian and Polish."  He's right that all
+three words are good Ukrainian, but saying that that language "mixes
+Russian and Polish" shows the same lack of respect that we complain about
+when its object is Yiddish.  It might be more appropriate to say that
+Ukrainian shares (through common inheritance or borrowing) some words
+with its two linguistic neighbors.
+
+Bob Rothstein
+
+7)----------------------------------------------------
+Date: Fri Dec 30 09:38:04 1994
+From: hjs@nrc.gov
+Subject: Khoge
+
+With his characteristic wink of an eye, Rick Gildemeister in Mendele
+4-247 wished us all "a gute khoge".  Abe Bloom in Mendele 4.248 asks
+about the word "khoge," wondering "Efsher iz es nit Yiddish?"  Rick
+Gildemeister (a gezunt af dayn kop!) answered in Mendele 4.252 that "the
+word is used to mean 'gentile holiday.' I'm assuming there's a connection
+to the Hebrew word 'khag' which means holiday."
+
+I've also seen the word used in Yiddish as Rick Gildemeister describes,
+in as neutral a sense as Yiddish can have in speaking of days that often
+were fraught with terror for the Yiddish-speaking community.  Although
+obviously related to the Hebrew word "khag," I guessed that Aramaic was
+the more likely direct source, because of the final "alef" instead of a
+more Hebraic "he."  So I hit the books.
+
+Jastrow's 1903 "Sefer milim," a dictionary of Talmudic and Midrashic
+Hebrew and Aramaic, lists the word, citing several midrashic sources (in
+Aramaic), with an apparent definition of "feast" or "festival."  I'm not
+a scholar, and the dictionary's annotations are (to me) cryptic, with no
+key provided.  Going to a more recent reference, Even-Shoshan's
+dictionary of modern Hebrew, "Hamilon haivri hamerukaz," defines "khoga"
+as a medieval Hebrew expression for a "gentile holiday, or non-Jewish
+"khag." Weinreich confirms the Yiddish definition of "gentile holiday."
+
+I'll leave it to others to discuss whether the use of "khoge" in Yiddish
+was generally neutral or otherwise.
+
+A gut gezunt khoge, un a zis nay yor, tsu ale Mendelyaner.
+
+Harvey Spiro
+
+______________________________________________________
+End of Mendele Vol. 4.254
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

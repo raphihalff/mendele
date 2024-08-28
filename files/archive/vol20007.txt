@@ -1,0 +1,215 @@
+﻿Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 20.007
+October 10, 2010
+
+1) ayngeshpart and learning Yiddish (Freda Hodge)
+2) ayngeshpart (Mike Hirsch)
+3) Shoemakers, Rabbis, and High Foreheads (Norman Buder)
+4) "Szal a Kakas Mar" (Perets Mett)
+5) "Der groyser verterbukh" Online (Refoyl Finkel)
+6) "Cwiszn" (Yale J. Reisner)
+7) Yiddish version of "The International" (Gila Brodsky)
+
+1)----------------------------------------------------
+Date: September 12, 2010
+Subject: ayngeshpart and learning Yiddish
+
+A gut yor tsu ale Mendele-mitglider.
+
+In response to the comments about the meaning of "ayngeshpart," I remember 
+my parents always using it to mean obstinate, immovable. As children, we 
+were often called ayngeshpart when we refused to cooperate. My father came 
+from Odessa and my mother from Lithuania, so this usage seems to have been 
+widespread.
+
+Apropos of teaching and learning the Yiddish language, here in Melbourne, 
+Australia,  there appears to be  a solid core of interest in the language. 
+This core is not huge in numbers, but a number of groups meet informally 
+just to have the opportunity of talking Yiddish. Monash University runs a 
+Yiddish course, and a number of Jewish schools offer Yiddish as a subject. 
+In 2008, I took part in a summer school Yiddish program at Tel Aviv 
+University, and there were more than a hundred students enrolled in the 
+course. They were of all ages, and from many different countries including 
+Israel itself. Everyone was immensely enthusiastic, and keen to see 
+Yiddish flourish. I found it very encouraging.
+
+Freda Hodge
+
+2)----------------------------------------------------
+Date: September 20, 2010
+Subject: ayngeshpart
+
+The expression my bubba (from Ukraine) used was akshn meshimit (stubborn 
+ox).
+
+Mike Hirsch (Shija Myer)
+
+3)----------------------------------------------------
+Date: October 4, 2010
+Subject: Shoemakers, Rabbis, and High Foreheads
+
+Shoemakers, Rabbis, and High Foreheads
+
+In his story "The Little Shoemakers," Isaac Bashevis-Singer begins to 
+describe his main character thus:   "Er iz geven, vi ale, a kleyner, a 
+diklekher, mit a breyter geler bord, mit a hoykhn shtern un tife vinklen, 
+vi s'hobn nor rabonim un shusters."  "He was, like all [of the men in this 
+family], short, chubby, with a broad yellow beard, with a high forehead 
+and deep [bald] corners, such as only rabbis and shoemakers have."
+Here are two questions, both suggested by Professor Yitshok Niborski, one 
+for those knowledgeable in Jewish folklore, one for those widely read in 
+Yiddish literature:
+
+1. Does Yiddish folklore note any such alleged similarity between 
+shoemakers and rabbis?
+
+2. Can you cite any other examples from Yiddish literature in which 
+shoemakers and rabbis are thus compared, or in which shoemakers are 
+depicted as having high foreheads or having other characteristics 
+associated with rabbis, thinkers, etc.?
+
+I am indebted to Professor Yitshok Niborski for one example of the latter 
+in Sholem-Aleykhem's story "Tsvey Toyte" -- "Two Dead Ones":
+
+"Er glet dem hoykhn vaysn shtern (ale shusters hobn hoykhe vayse shterns) 
+un redt fartrakht, mayse filozof."
+"He strokes his high white forehead (all shoemakers have high white 
+foreheads) and speaks thoughtfully, like a philosopher."
+
+Norman Buder
+
+4)----------------------------------------------------
+Date: 12 September 2010
+Subject: "Szal a Kakas Mar"
+
+The song "Szal a Kakas Mar" =  "der krayendiker han" was composed by the 
+Kalever Rebbe in Hungarian.
+
+I don't know whether there is a Yiddish version of it.
+
+Perets Mett
+
+5)----------------------------------------------------
+Date: September 21, 2010
+Subject: "Der groyser verterbukh" Online
+
+You can now find a searchable version of the 4 volumes of "der groyser 
+verterbukh fun der yidisher shprakh" at
+
+http://www.cs.uky.edu/~raphael/yiddish/searchGroys.cgi
+
+Some notes:
+
+1. The search term must be in Yiddish letters.  There are some clickable 
+letters near the
+top that you can use if you don't have a Yiddish keyboard.
+
+2. If you put diacritics on your Yiddish letters, they will be required in 
+any match, but if you leave them off, the letter will match with or 
+without diacritics.  For example, you can use a bare fey to match either a 
+rofe-fey or a pintl-fey = pey, but if you use a rofe-fey, it will not 
+match a bare fey or a pintl-fey.  You do need to distinguish final letter 
+forms from medial letter forms.  You can use two yuds, two vovs, or a vov 
+followed by a yud instead of the corresponding ligatures tsvey-yudn, 
+tsvey-vovn and vov-yud.  Or you can use the ligatures.
+
+3. My software currently limits its output to 10 matches.  It shows exact 
+matches (full words) with a yellow background and partial matches with a 
+pink background.  It expands some (but by no means all!) abbreviations to 
+fuller text with a green background.  It tries to show exactly one 
+dictionary entry per match, but the technique it uses to determine the 
+start and end of a dictionary entry is sometimes wrong.
+
+4. The groyser verterbukh usually spells words with a shtumer alef 
+whereYIVO would use diacritics such as a melupm-vov or a khirik-yud. 
+However, for citations before about 1800, it uses the original spelling, 
+whatever that may have been.  My software does not attempt to adjust 
+spelling.
+
+5. The OCR (optical character recognition) program is my own invention (I 
+sound like the white knight in Alice through the Looking Glass!).  It is 
+by no means perfect.  I hope to keep improving it, and as I do so, I will 
+every so often re-generate the data files behind the search page.
+It takes about 4 hours of computer time to generate those files.
+
+Refoyl Finkel
+
+6)----------------------------------------------------
+Date: October 6, 2010
+Subject: "Cwiszn"
+
+It might interest Mendelyaner to know that a new publication has appeared 
+in Poland. It is entitled "Cwiszn" [tsvishn - In-Between] and it is a 
+handsome, glossy, Polish-language quarterly (with short texts in Yiddish) 
+about Yiddish literature and art issued by the Shalom Foundation of 
+Warsaw. Its premier double issue is dedicated to Avrohom Sutzkever and 
+Gilles Rosier, but includes a range of topics.
+
+Its website -- also in Polish -- is at www.cwiszn.pl
+
+A hartsikn grus alemen fun varshe,
+
+Yale J. (Yekhiel) Reisner
+
+7)----------------------------------------------------
+Date: September 21, 2010
+Subject: Yiddish version of "The International"
+
+I am looking for a Yiddish version of "The International" that is not the 
+versions that I find on the internet.
+
+It was sung at Camp Naivelt - a New York camp in the 1940's - I just 
+remember the first lines which began -
+
+Der arbet iz der tags gezangen
+
+Der ruh, der troime fun der nacht..
+
+Please excuse the transliteration - I am doing the best I can to convey 
+the Yiddish...
+I would appreciate any information.
+
+Thank you.
+
+Gilda Brodsky
+______________________________________________________
+End of Mendele Vol. 20.007
+
+Please do not use the "reply" key when writing to Mendele. Instead, direct 
+your mail as follows:
+
+Material for Mendele Personal Notices & Announcements, i.e. announcements 
+of events, commercial publications, etc., always in plain text (no HTML or 
+the like) to:
+victor.bers at yale.edu (IMPORTANT: in the subject line write "Mendele 
+Personal")
+
+Material for postings to Mendele Yiddish literature and language, i.e. 
+inquiries and comments of a non-commercial or publicity nature:
+mendele at mailman.yale.edu
+
+IMPORTANT: Please include your full name as you would like it to appear in 
+your posting. No posting will appear without its author's name.
+
+Submissions to "regular" Mendele should not include personal email 
+addresses in the body of the message, as responses will be posted for all 
+to read. Please send
+postings always in plain text (no HTML or the like).
+
+In order to spare the shamosim time and effort, we request that 
+contributors adhere, when applicable, as closely as possible to standard 
+English punctuation, grammar,etc. and to the YIVO rules of transliteration 
+into Latin letters, which are explained in summary form at
+
+http://www.yivoinstitute.org/about/index.php?tid=57&aid=275
+
+All other messages should be sent to the shamosim at this address:
+
+mendele at mailman.yale.edu
+
+Mendele on the web: http://mendele.commons.yale.edu/
+
+To join or leave the list: 
+http://mailman.yale.edu/mailman/listinfo/mendele

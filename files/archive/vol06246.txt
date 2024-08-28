@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.246
+March 2, 1997
+
+1) Ende oysiyes (Rick Turkel)
+2) Ende oysiyes (A. Joseph Ross)
+3) Ende oysiyes (Sholem Yafe)
+
+1)----------------------------------------------------
+Date: Thu, 27 Feb 1997 11:42:11 -0500
+From: rturkel@cas.org
+Subject: Ende oysiyes
+
+I know I should probably stop beating a dead horse, but
+ellen prince's question in Vol. 6.243:
+
+     does anyone really think that there were non-jews in the kremlin
+     who (a) could read the hebrew alphabet and (b) gave a damn how
+     yiddish words were spelled?
+
+demands an answer.
+
+It was ellen who cautioned earlier (6.240) about "keeping our time
+frame straight."  Of course there were no "non-Jews in the Kremlin
+...," but there were plenty of _Jews_ there at the time who had been
+raised in more or less frum, Yiddish-speaking households and who were
+literate in Yiddish, from Trotsky on down.  Especially for them as
+Communists, with all their anti-nationalist rhetoric, the idea that
+Jews would maintain _any_ connection to their "antiquated" ways was
+anathema. Many of the most strident anti-smoking advocates are
+ex-smokers themselves.
+
+     or is it so upsetting that the reform came from jews, and from
+     jews who were among the most highly literate in yiddish nokh?
+
+It's not upsetting, it's just a little hard to believe that, out of
+the blue, the literati would favor excising an important cultural
+element from the language as it had been written for hundreds of
+years.
+
+     on the contrary, it's the convention that the *right wing*
+     adopted (and that survives today, at least outside the ex-ussr)
+     that needs explaining -- how religious fanaticism intruding on a
+     purely secular issue results in the failure to achieve the
+     desired logical spelling reform.
+
+As I understand it, there was little in the way of a right or left
+wing within Yiddish much before the turn of the 20th century in
+Eastern Europe.  Jewish society of that time and place was fairly
+closed; most of those who gave up any semblance of religious
+observance left the shtetl for the big city, and left Yiddish behind
+as well.  Those who continued to use Yiddish (at least the men,
+anyway) had at least some familiarity with Hebrew; that was the
+setting in which the Hebrew component of Yiddish became incorporated
+in to the language and in which the orthography as we know it in the
+West crystallized.  It seems to me that you've got it backwards - it
+was the secularists of a later time that came along and attempted to
+alter a system that had been accepted universally and had always
+served its purpose reasonably well. Even fairly uneducated women could
+read the tzena ur'ena and other such literature in the traditional
+orthography.
+
+Rick Turkel
+
+2)----------------------------------------------------
+Date: Thu, 27 Feb 1997 23:37:06 -0500 (EST)
+From: lawyer@world.std.com
+Subject: Soviet spelling "reform"
+
+Ellen Prince wonders [6.243] how the spelling reform in the early USSR
+could have been ordered from above, and thinks that this would have
+had to be done by "non-jews in the kremlin who (a) could read the
+hebrew alphabet and (b) gave a damn how yiddish words were spelled".
+
+Non-Jews?  At that time, there were Jews highly-placed in the
+Communist Party (Trotsky, for example) who could have been quite
+knowledgeable about Yiddish and had ideological reasons for ordering a
+spelling reform.  The early Communist Party, after the revolution,
+tended to think of anti-semitism as one of those Bourgeoise and
+Czarist notions that they were going to do away with. Anti-semitism
+returned later, especially under Stalin.
+
+A. Joseph Ross
+Boston
+
+3)----------------------------------------------------
+Date: Sat, 1 Mar 1997 03:18:41 -0500 (EST)
+From: lakejaffe@aol.com
+Subject: Sovetish Heymland spelling
+
+This is with reference to the Soviet style of writing Yiddish, as
+discussed by several people in Vol. 6.240.
+
+I happen to have a copy of Sovetish Heymland No. 11 dated 1965.  Words
+ending in kh use the long form, as we do. The same is true of words
+ending in m, n, f, or ts.
+
+The silent aleph is used as we do, before a vov or a yud when either
+of these would otherwise be the first letter of the word.  What's
+missing are veyz, khes, kof, sin, tof, and sof.
+
+And guess what.  It's a pleasure to read!  Many English words are
+derived from Greek, and we do quite well writing them with English
+letters.  Would anybody vote to start writing them in Greek letters?!
+
+So why can't Yiddish spell Yiddish words of Hebraic or Aramaic origin
+in Yiddish style?  It can, and Sovetish Heymland did, and -- for a
+guy like me -- it's a real pleasure! I don't have to search for the
+unfamiliar-looking words in Steven Jacobson's valuable little book!
+
+Sholem Yafe
+
+______________________________________________________
+End of Mendele Vol. 6.246
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

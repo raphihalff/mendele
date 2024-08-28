@@ -1,0 +1,241 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.139
+January 23, 1998
+
+1) "Dear Schmucko..." (Editorial, rated R)
+2) Inhalt fun naystn numer "Yugntruf" (Sholem Berger)
+3) Fisnoge, petcha, petse (Louis Fridhandler)
+4) Check UYIP Re: Yiddish Computer Program (Mark David)
+5) koch lefl (mendy cahan)
+6) Mkayim-psak zayn (Mendy Fliegler)
+7) sweater, sveter, shpenser (David Goldberg)
+8) bagel lore (Cyril Robinson)
+9) id for Yid (A. Manaser Ramer)
+
+1)----------------------------------------------------
+Date: Fri, 23 Jan 1998 10:43:18 -0500 (EST)
+From: The Editor
+Subject: "Dear Schmucko..."
+
+As a respectable media outlet with the headquarters in the United States,
+Mendele cannot stay away from the burning issues of the day. At the same time
+Mendele is not a tabloid, so in covering this topic we will strictly limit
+ourselves to the Yiddish linguistics aspect of the story.
+
+Here is the story: young public relations specialist M. allegedly addressed her
+co-worker (and possibly friend) B. in a private letter as "Dear Schmucko" (*).
+Now, "Schmucko" is not our hero's real name, it is made up using the
+anglicized form of Yiddish root _shmok_ and an endearment suffix -o. And here
+we cannont fail to see a felonious perjury against Yiddish grammar: there is
+no such suffix in Yiddish! It should have been -ele, or -chik, or even -enyu,
+but not -o (**). We hope that Mendele subscribers will join other concerned
+citizens in expressing their desire for better ways of exchanging greetings
+between consenting adults. We also suggest that every honest Mendelist, who
+has in her or his posession tapes with the recorded samples of Yiddish suffix
+usage, voluntarily submit those tapes to the special investigators for this
+case. 
+
+(*) "Dear Schmucko, thank you for being, as my little nephew said, it was
+great to meet the principal of the United States." -- Michael Isikoff, Diary
+of a Scandal, Newsweek, January 26, 1998 (http://www.newsweek.com/ or
+http://www.washingtonpost.com/wp-srv/digest/daily/jan98/21/newsweek.htm)
+
+(**) -o sounds more like an Italian (tuleyne) suffix, which suggests a
+possibility of a certain Brooklyn-originated serious conspiracy.
+
+2)----------------------------------------------------
+Date: Thu, 22 Jan 1998 17:05:12 -0500
+From: "Sholem Berger" <bergez01@mchip00.med.nyu.edu>
+Subject: Inhalt fun naystn numer "Yugntruf"
+
+In naystn numer "Yugntruf" / In the latest issue of "Yugntruf"  numer 88,
+detsember 1997
+
+Editorial: Uriel Vaynraykhs draysikster yortsayt; der forverts
+
+Gitl Shekhter-Vishvanat: shpet-zumerdiker sod (lid)
+Sholem Berger: tsharlis avanture (dertseylung)
+Leye Robinson: dos goldene bergl; a vizit fun komet (artikl)
+Sheva Tsuker: Moshe Lemster (artikl)
+Hershl Glezer: sines-khinem fun amartsim (artikl)
+Shmuel Naydorf: "The Visual Dimension" (retsenzye)
+Refoyl Finkel: dos hayzele (lid mit notn)
+Leyb Bratover: a mayse mit a flash tey (dertseylung)
+Mikhoel Bashe-Rives: a velt mit veltlekh (artikl)
+Zelig Tsumhagen: dos falshe dorf (artikl)
+
+"mame-loshn 1997"--feygl shpatsirn (artikl)
+tikn-toes
+briv fun yidishn arbeter komitet; entfer fun nationaler yidisher
+bikher-tsentrale
+
+Mitglidgelt iz $18 a yor, $20 in kanade un meksike, $22 mekhuts
+tsofn-amerike.  Far studentn umetum, $10 a yor.
+
+Sholem Berger
+
+3)----------------------------------------------------
+Date: Thu, 22 Jan 1998 18:37:42 EST
+From: Lfridhan <Lfridhan@aol.com>
+Subject: Fisnoge, petcha, petse
+
+Az me redt fun esnvarg arum a moltsayt iz avade zeyer an ongeleygter inyen.
+Iosif Vaisman git tsu a por verter fun Russell Harris (7.137, 7) vegn fisnoge
+oder "petcha" vos klingt enlekh tsu petse.  Dos vort _fisnoge_ hob ikh keynmol
+nisht gehert fun mayne eltern, un oykh nisht fun feters oder mumes.  Ikh
+gedenk dos vort petse.  (Accent on the second syllable, first e is the schwa,
+second e retains the full value of ayen.)  Der tam fun petse gedenk ikh nisht.
+Mistome hob ikh nit gegesn keyn petse (jellied calves' feet).  In mayn zikorn
+shteyt a bild.  Petse: a kalt, farglivert maykhl vos hot oysgezeyen zeyer 
+modne.
+
+Az dos vort, petse, shtamt fun terkish iz avade interesant un, far mir,
+umgerikht.  Efsher iz dos a yerushe fun amolike tsaytn ven der terkisher
+imperie hot geveltikt iber di balkanishe lender un ibern shvartsn yam.  Ikh
+shtam fun Kishinev. 
+
+[English translation]
+Talk of food around mealtime is a welcome topic.  Iosif Vaisman contributes a
+few words from Russell Harris (7.137, 7) about fisnoge or petcha which sounds
+similar to petse.  I never heard the word fisnoge from parents or uncles or
+aunts.  I remember the word petse (Accent on the second syllable, first e is
+the schwa, second e retains the full value of ayen.)  I don't remember the
+taste of petse.  Probably, I did not eat petse (jellied calves' feet).  I have
+a picture in my mind: a cold jelly that looked rather strange.
+
+That the word petse comes from Turkish is quite interesting and, for me,
+unexpected.  Perhaps it's a legacy from those times when the Ottoman Empire
+ruled over Balkan lands and the Black Sea.  I come from Kishinev.
+
+Louis Fridhandler
+
+4)----------------------------------------------------
+Date: Thu, 22 Jan 1998 22:03:19 -0500
+From: "Mark H. David" <mhd@world.std.com>
+Subject: Check UYIP Re: Yiddish Computer Program
+
+In answer to Feygl Infeld Glaser's request for a Yiddish capable word
+processor, which I think of as an issue for many people on Mendele: as
+moderator for the UYIP (Understanding Yiddish Information Processing) 
+discussion list, I am maintaining a web page with various Yiddish computer
+information.  At the top of the page, I list the various browsers and word
+processors that can handle Yiddish.  Please visit for the facts: 
+
+http://world.std.com/~yv/
+
+(Or e-mail me if you can't access this and want it sent to you.)
+
+Several firms are revising products and/or developing new products. 
+Occasionally, some products go off the market.  Checking this page from time
+to time should help you stay on track.  Of course, I'd appreciate any
+information others have, and I welcome new members to join the list to discuss
+and/or hear about all the technical developments.  The web page has
+information on subscribing. 
+
+Mark David
+Brookline, MA
+
+5)----------------------------------------------------
+Date: Fri, 23 Jan 98 04:57:39 PST
+From: mendyc@netvision.net.il
+Subject: koch lefl
+
+a propos norman fruman's "koch lefl", i am reminded of another idiomatic
+description of a meddlesome person: vu a tepl, dort a lefl.
+
+mendy cahan
+
+6)----------------------------------------------------
+Date: Thu, 22 Jan 1998 23:00:41 -0200
+From: emenems@juno.com (Mendy Fliegler)
+Subject: Mkayim-psak zayn
+
+Khaver Ramer hot mir gegebn shtik arbet [07.137]. Nu, yetst gedenk ikh az mayn
+futer hot mikh gestrashet mitn vertl ven ikh bin geven a yingl....Hob ikh es
+gefinen in "A Guide to the More Common Hebraic Words in Yiddish", compiled by
+Steven Jacobson, Fairbanks, Alaska...
+
+Es meynt azoy:_ mekayim_ - to come to pass; _pask_ - a judgement.  In other
+words: to pass judgement (on) - a warning - a 'day of judgement' for a person.
+The 'pask' terrified me!!
+
+Mendy Fliegler  
+
+7)----------------------------------------------------
+Date: Fri, 23 Jan 98 10:02:29 -0500
+From: david.goldberg@smtpgwy.mla.org
+Subject: sweater, sveter, shpenser
+
+Thanks Joachim for clearing up a long standing confusion for me. My father
+(Apt and Varshe) has always used the word shpenser for sweater (explaining
+that Spenser was a British firm that imported sweaters to Poland), and Harkavi
+defines shpenser as jacket. Probably the German use of sweater for knitted
+jacket helps explain the cross over. 
+
+David Goldberg
+
+8)----------------------------------------------------
+Date: Fri, 23 Jan 1998 09:01:19 -0600 (CST)
+From: Cyril Robinson <lunar@siu.edu>
+Subject: bagel lore
+
+I am a recent lister and hope that this post is appopriate. It involves the
+history of the bagel. It started on a trip to Beijing where I came in contact
+with a people called Urghur (Ouighour), a Turkic Muslim people, origin in NW
+China Xinjiang province. They have a bread remarkably like the bagel, same
+consistency but with a depression rather than a hole and often covered with
+sesame seeds. I subsequently visted bakers in the area. Gerdas, as this
+bagel-like bread is called are made in ovens reaching about three feet into
+the ground-- the ovens made of reed, salt, water and clay. The gerdas are
+place in circular patterns around the walls of the oven. Wood or coals are
+placed at the bottom and doused with water through the baking so that the
+gerdas are baked in steam. I also discovered there is a bagel-like bread
+called a Guangbing in Fukien province, China. 
+        
+There are interesting questions: There were many contacts between East
+European Jews and Xingiang province through the Silk Route; the only article I
+know of links the bagel to the history of the pretzel, which is also boiled;
+there are linguistic links in the work for oven, tonar, which turn up in
+variations in various languages, for example, Tandoori, and similar ovens are
+found thoughout the region. On the other hand, there are no examples, as far
+as I know, of bagel-like breads between Xingiang and Eastern Europe. Such
+"drop-offs" could be expected if there were a connection. 
+
+I am in the process of collecting papers on the subject and would appreciate
+any speculations, thoughts, stories, myths. The prime myth involves variations
+on the "invention" of the bagel by a Jewish Viennese baker as a thanks for
+Prince Sobieski's saving of Vienna from the Turks.
+
+Cyril D. Robinson
+Carbondale, IL 
+
+9)----------------------------------------------------
+Date: Fri, 23 Jan 1998 11:35:27 -0500 (EST)
+From: manaster@umich.edu
+Subject: /id/ for Yid
+
+No one seems to have answered this question.  I am not especially
+knowledgeable about the dialects in question, but yes the spelling and
+pronunciation without 'y' are features of some eastern European Yd dialects
+a   ave nothing special to do with the words for 'Jew(ish)'.  Any word
+starting with yi- should have a dialect variants with i-.  Since, as I say I
+know more of Yd dialects elsewhre (esp. Western Europe), I have put my foot in
+my mouth, someone will I am sure correct me. 
+
+A. Manaser Ramer
+______________________________________________________
+End of Mendele Vol. 07.139
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+
+

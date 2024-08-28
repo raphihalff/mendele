@@ -1,0 +1,155 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.248
+December 25, 1994
+
+1) Aphorisms (Aaron Hershkowitz)
+2) Piptishklekh, gefonfet (Abe Bloom)
+3) Khoge (Abe Bloom)
+4) When Changing a Name is a "Zgule" (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Sun, 25 Dec 1994 12:03:53 -0500 (EST)
+From: ahershko@aecom.yu.edu
+Subject: Aphorisms
+
+I have always felt that aphorisms are the distilled wit and wisdom of a
+people.  My interest, as a Social Psychologist, is not whether such
+gerneraliztion are true -- they are often wrong -- but in what they
+reveal about the concerns and interests of people in everyday life.
+Which brings me to the specific question:  Are there any books or
+compendia of Yiddish aphorisms or adages.  I should add, that it would be
+good if these were in English since my mama loshen is very rusty.
+
+To clarify my question a little, let me add that I am not talking about
+Biblical or Talmudic sayings; or the "wisdom of the Elders".  I'm more
+concrned with the typical and topical adages of everyday life.  For
+example, I remember an oft-quoted saying of my mother:  "Az men shikt a
+kats for pitter (putter?) darf men essen triken brodt."  I would be
+interested in derivations, variations, and exemplifications of such
+adages or aphorisms.
+
+Aaron Hershkowitz
+
+2)----------------------------------------------------
+Date: Sun, 25 Dec 1994 15:37:48 -0500
+From: abebloom@aol.com
+Subject: Piptishklekh, gefonfet
+
+Andrew Cassel hot geshriben in 247-9 di verter piptishklekh un gefonfet.
+
+Gefonfet is the same as "gebrumt" or in English, "muttered in his beard".
+
+The other word should be,I believe, piptshiklekh.  That would be "lots of
+little dots". , The meaning would be a lotl of little nothings, or , in some
+cases a group of little kids.
+
+Abe Bloom
+
+3)----------------------------------------------------
+Date: Sun, 25 Dec 1994 15:35:22 -0500
+From: abebloom@aol.com
+Subject: Khoge
+
+Rick Gildemeister in 247-7 wrote, "vintsht mir ale a gute khoge".
+Ich farsthtey nit vus es iz a "khoge". Efsher iz es nit Yiddish?
+
+Oich, er shreibt, "vintsht".  Ich bin hige geboren (the Bronx) un mein
+elteren kumen fun  a shtetl leben Byalistock (Grajevo), uber mir flegen
+zuggen "vinsht".  De zelbe shtetl flegt nit banutzen der lamed un flegt
+zugen verter azoy ---Lumzer -  Wumzer.
+
+Abe Bloom
+
+4)----------------------------------------------------
+Date: Sun, 25 Dec 1994 16:01:36 -0500
+From: zellig@aol.com
+Subject: When Changing a Name is a "Zgule"...
+
+"Sgule" is a Hebrew word, pronouncesd in Yiddish zgule, and means remedy,
+solution.  I wish to speak today about several such "remedial" solutions.
+
+There is a Hebrew saying "m'shane mokem, m'shane mazl" (when one changes
+his place of residence where he had bad luck, his luck will also change).
+
+Similarly, when a person is very ill and his imminent demise is feared,
+there is an orthodox tradition to change his name (often to Khayim, which
+means life, for a man; to Khaye, for a woman).  Then, when the
+malkhamoves, the Angel of Death, checks his "calling" papers before
+knocking on the door (very polite, he), and says:  "I came here for
+so-and-so (name)," he is told: "Sorry, there is no one here by this name,
+we have ---" (and he is told the *new* name.
+
+In a recent posting (4.224, p. 2) I mentioned the censorship of
+newspapers in Lithuania in the early and middle 1930's.  Herewith some
+interesting details:
+
+On March 2, 1930, the daily Yiddish newspaper *Folksblat,* with which I
+later became associated as co-editor, was closed by the censors for ten
+days for some transgression against the regime.
+
+Since the order to close the paper referred by name solely to the
+_Folksblat_, it was legalistically interpreted to mean that it can be
+published by any *other* name.  The publisher, di yidishe bildungs
+gezelshaft in lite (The Jewish Education Society in Lithuania) therefore
+continued to issue the paper each day under a *different* name, by the
+simple device of adding different adjectives to its name:  Thus on March
+3, 1930, the very day after the closing order, the closed  _Folksblat_
+became consecutively "idisher folksblat," "undzer folksblat,"  "kovner
+Folksblat,"  umophengiker, morgn, ekhter, umparteyisher, algemeyner,
+emeser, and, finally, "oyfrikhtiker Folksblat," a total of ten "new"
+names.
+
+On July 1934 the _Folksblat_ was closed again, this time for a period of
+three months.  But the paper continued to be published, as before, under
+"different" names, one week, for example, it carried the name of the day,
+thus:  erev-shabes blat, zuntik-blat, montik-, dinstik-, mitvokh-,
+donershtik-, fraytik-, and some other names "fun der haftoyre un fun der
+khad-gadye" (fictitious, unusual names). *)
+
+As we all know, censorship did not help tyrants and dictators to stay in
+power, and it too was, from a historical point of view, no more than a
+wishful _zgule_.
+
+Zellig Bach
+
+_________________
+*) Haftoyre -- selection from the Prophets read after the weekly section
+from the toyre; Khad Gadye -- one kid (a tsigele), recited at the end of
+the Passover seyder service.
+
+______________________________________________________
+End of Mendele Vol. 4.248
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

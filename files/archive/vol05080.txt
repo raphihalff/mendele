@@ -1,0 +1,156 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.080
+August 10, 1995
+
+1) Klor-vays tsigele (Andrew Cassel)
+2) Rhyming (Mikhl Herzog)
+3) A Nay Kleyd (Bernard Katz)
+4) Yiddish fonts (Brenda Fayerman)
+5) Yiddish in translation (Morrie Feller)
+6) Mock-"Yiddish dialect" pop songs (Joel Rosen)
+
+1)----------------------------------------------------
+Date: Wed, 9 Aug 1995 23:00:21 -0400
+From: cassel@libertynet.org
+Subject: Klor-vays tsigele
+
+Can anyone give me a short exegesis of the "klor-vays tsigele" motif in
+Yiddish literature? I know it shows up in lullabyes and such, but I get the
+sense it has at times been used to convey some symbolic meaning -- I'm just
+not well-read enough to know what.
+
+And on an unrelated note: In Mendele 5.072 I posted excerpts of a recent
+interview with Josef Levinson, editor of "Yerushalyim d'Lita" in Vilna. For
+anyone interested, I have now completed a translation (with great help from
+Mark Alsher and Paul Pascal) which I will be happy to email on request.
+
+Andrew Cassel
+Elkins Park, PA
+
+2)----------------------------------------------------
+Date: Wed, 9 Aug 95  23:06 EDT
+From: zogur@cuvmb.columbia.edu
+Subject: Rhyming
+
+Did Rokhl Korn rhyme _kleyd_ and _layd_?
+
+Shleyme Axelrod's transliteration of Rokhl Korn's poem reveals a problem
+that I myself continue to have with the word _layd_. He has the poet
+rhyming _kleyd_ and _layd_, but _layd_ only occurs as the first person
+singular of the verb _laydn_, i.e. _ikh layd_; it does not (i.e., "should
+not") occur as a noun.
+
+There are two related nouns in Yiddish. The one derived from the
+infinitive is _dos laydn_ (singular). Alternatively there is a singular
+_di leyd_ (to rhyme with Rokhl Korn's _kleyd_),and a plural _leydn_, as
+in the expression _in leydn un in freydn_.
+
+Mikhl Herzog
+
+3)----------------------------------------------------
+Date: Wed, 9 Aug 1995 23:42:51 -0400 (EDT)
+From: bkatz@uoguelph.ca
+Subject: A Nay Kleyd
+
+Many thanks to Shleyme Axelrod for transcribing Rokhl Korn's poem.  I
+don't have access to Ruth Whitman's anthology, however, and I find my-
+self at a loss in translating the 3rd line of the 2nd stanza and the word
+"faldn" in the 5th line.  For the latter I get "folds" but this is given
+as "falbn" in Weinreich's dictionary.  For the former I get: "And it's an
+every white-glass knot" which doesn't quite make it -- problem being the
+"every" ("yeder"), I think...  Can someone help me out?  A sheynem dank!
+
+Bernard Katz
+Guelph, Ontario
+
+4)----------------------------------------------------
+Date: Wed, 9 Aug 1995 23:10:15 -0400
+From: b.fayerman@netaxis.qc.ca
+Subject: Yiddish fonts
+
+My name is Brenda Fayerman and I am the technology coordinator at Bialik
+High School in Montreal.  We are a non-religious day school and we teach
+Yiddish as a compulsory subject (as well as English, Hebrew, and French).
+There are 700 students and Yiddish is streamed in every grade (beginner
+to advanced levels).
+
+We produce several in-house Yiddish texts and my question is:  do any
+Yiddish fonts exist?  We are currently using Hebrew fonts in Dagesh but
+we have difficulty when we want, for example, double vov or double yud
+with a patach etc.  Any help would be much appreciated.
+
+As well, I am working on integrating CD-ROM and Internet into the teaching
+of  every subject at the school.  Any advice or resources for the use of
+technology in teaching Yiddish would be very useful.
+
+Brenda Fayerman
+Montreal
+
+5)----------------------------------------------------
+Date: Wed, 9 Aug 1995 22:46:49 -0700 (MST)
+From: feller@indirect.com
+Subject: Yiddish in translation
+
+A sheynem dank to Hershl Hartman for his response (Mendele 5.078) to my
+comments about Yiddish in translation.  I agree with him that it would be
+interesting to have a survey among Mendelyaner such as the one he has
+suggested.  It would be nice if enough members of this list would respond
+to qualify as a mini-survey.
+
+In response to Miriam Isaacs (also Mendele 5.078), the readings which
+were aired on radio in Los Angeles were only in English.  The National
+Yiddish Book Center has in the past produced tapes in Yiddish which were
+read by professional actors (I have most of them), but as far as I know
+they were never read on the air.  I agree with her about the importance
+of aural comprehension, and I did make use of these tapes in teaching my
+Yiddish classes here in Phoenix.
+
+Morrie Feller
+Phoenix
+
+6)----------------------------------------------------
+Date: Thu, 10 Aug 1995 12:44:51 +0100
+From: uclhhfd@ucl.ac.uk
+Subject: Tin Pan Alley's mock-"Yiddish dialect" pop songs
+
+The question I wish to pose here does not, strictly speaking, concern
+Yiddish: indeed, it concerns an instance of the deliberate bastardization
+of Yiddish and the satirization of the language and its speakers. I am
+writing a Master's thesis on the Jewish songwriters and song publishers
+of Tin Pan Alley and the role that popular music played in the
+acculturation of Jewish immigrants to American life.
+
+Of particular interest to me are the hundreds of English-language
+"yiddisha songs" that Tin Pan Alley tunesmiths composed in the decade
+before the First World War.  These songs, written in mock-"Yiddish
+dialect" (punctuated by frequent "oys" and Yinglish malapropisms) and
+performed on the Vaudeville stage by "Hebrew Comics," enjoyed enormous
+popularity; American popular cultural legends such as Irving Berlin,
+Fanny Brice, Sophie Tucker and Al Jolson were among those that wrote and
+performed them.
+
+While their depiction of Jews is often offensive -- and their spiteful
+misuse of Yiddish undoubtably apalling to Yiddishists -- songs like
+"Abie, Take an Example from Your Fader", "At the Yiddisha Wedding Dance",
+"That's Yiddisha Love", "Yiddle On Your Fiddle, Play Some Ragtime", "I
+Want to Be an Oy, Oy, Oyviator (A Yiddisha Plea)" and "Cohen's Yiddisha
+Band" provide the historian with a fascinating glimpse of contemporary
+Jewish attitudes towards Americanization and the ways that popular music
+and theater mediated the Americanization process.
+
+I would be very grateful to any Mendele readers who might care to share
+thoughts about, or better still, recollections of, Tin Pan Alley's
+"yiddisha" song craze. My grandmother recalls seeing Sophie Tucker peform
+"My Yiddishe Momma" on vaudeville in both English and Yiddish; but I am
+interested not so much in songs like "My Yiddishe Momma" or the Yiddish
+"crossover" hit "Bey Mir Bist Du Sheyn" as I am in this genre of
+English-language, faux-"Yiddish dialect" pop songs.
+
+Joel Rosen
+London
+
+______________________________________________________
+End of Mendele Vol. 5.080
+

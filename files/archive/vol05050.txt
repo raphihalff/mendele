@@ -1,0 +1,154 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.050
+July 11, 1995
+
+1) Kroyvits (David Goldberg)
+2) Yiddish speaking jewish day schools (Helen Abeles)
+3) Teaching Yiddish to children (Marjorie Schonhaut Hirshan)
+4) Shepn un shlepn nakhes (Patty Becker)
+
+1)----------------------------------------------------
+Date: Tue, 11 Jul 95 09:12:41 EST
+From: david_goldberg@smtpgwy.mla.org
+Subject: Kroyvits
+
+Max Weinreich discusses 'kroyvits' on pages 80-81 of Shtaplen (Berlin
+1923) where [Elye Bokher is cited regarding] the acronym explanation for
+the word given by Paul Pascal is a popular misconception, and supports
+instead the other explanation Pascal refers to: that the word is a
+"corruption" of 'kroyves.'
+
+The altered pronunciation, Weinreich explains, stems from the fact that
+French speakers, among whom Yiddish speakers in Germany originate, do not
+distinguish between tsadik and sof. Weinreich translates Elye Bokher's
+words as follows: "Es iz bavust, az mir daytshe yidn kumen funem shtam
+fun di frantsoyzishe, vorem beys men hot unz fartribn fun frankraykh, in
+yor [1395], zaynen mir tseshpreyt gevorn iber daytshland. zaynen
+ibergeblibn in unzer moyl a sakh verter fun zeyer shprakh, un a zakh fun
+unz meynen, az di verter nemen zikh fun loshn koydesh, vi ikh hob gevizn
+baym vort srgns [sargenes].  ot di piyutim vern gerufn kroyves, vayl men
+dernentert zey tsu di tfiles...un makhmes di frantsoyzn sheydn nit unter
+fun a c [ts]  biz a s ... hobn mir, herndik 'kroyvis' gemeynt az zey zogn
+'kroyvits.'
+
+David Goldberg
+
+2)----------------------------------------------------
+Date: Tue, 11 Jul 1995 23:37:49 +1000
+From: abeles@ozemail.com.au
+Subject: Yiddish speaking jewish day schools
+
+I'm from Melbourne, Australia.  We have a full range of Jewish day
+schools here offering all levels of religious education but also an
+option of a full Yiddish education where I believe the children do a
+large part of their curriculum in Yiddish. This results in there being a
+full spectrum of ages in the audience at any live Yiddish theatre that
+there may be. I wouldn't suggest that the numbers are huge but we still
+have a core of Yiddish speakers here. What concerns me is that from the
+various comments I have read, it seems like our community is unusual - Is
+there elementary school education in yiddish elsewhere in the world?
+
+Helen Abeles
+
+3)----------------------------------------------------
+Date: Tue, 11 Jul 1995 14:23:15 -0400
+From: shirshan@aol.com
+Subject: Teaching Yiddish to children
+
+To Morrie Feller:
+
+A blessing on your head for thinking in terms of di kinderlekh, of
+hemshekh.
+
+I don't know the Kinderbukh you talk of, but Yosl Mlotek wrote a text for
+beginning children called "Yidishe Kinder - Aleph" which we used in the
+Arbeter Ring. Lesson 1 begins "Motele geyt in shul. Gitele geyt in
+shul...." and I always loved Mlotek for creating a first chapter for
+kinderlekh emphasizing learning and a shul, for what is more precious to
+us?
+
+I remember the first lesson for beginners in French, the shallow: Le
+crayon est sur la table. Le crayon est rouge. And the beginning La Casa
+routine of mesa, etc. to starters in Spanish.
+
+The Workmen's Circle number in New York is 1-800-922-2558. The Education
+Department is very helpful and may suggest other newer teaching aids. You
+might also ask for the Book Center which would bring you Steve Dowling,
+meshpokhe, who is on Mendele.
+
+Marjorie Schonhaut Hirshan
+North Conway, New Hampshire
+
+4)----------------------------------------------------
+Date: Mon, 10 Jul 95 18:31:28 EDT
+From: patty_becker@mts.cc.wayne.edu
+Subject: Shepn un shlepn nakhes
+
+At the urging of our shames, I wish to raise an issue regarding the verb
+'shep' and the verb 'shlep.'  This came up in connection with the term
+'sh(l)ep' nakhes.  When I was answering a response on Mendele, I defined
+nakhes partly in terms of the phrase 'shlep nakhes.'  Noyekh said that it
+was wrong and should be 'shep,' and he fixed it.
+
+Well, as I've mentioned before, I don't hear very well (a great hindrance
+in understanding and learning any foreign language, Yiddish included).  I
+thought that maybe I had always heard 'shep' but thought I heard 'shlep.'
+Then Noyekh thought that, no, maybe lots of people say 'shlep.'
+
+So that's the question of the day: is it 'shep nakhes' or 'shlep nakhes?'
+
+Whichever, it's still a wonderful term especially when you have kids who
+are the type that you can do it!  Even if my daughter (age 20) thinks I
+overdo it a bit!
+
+Patty Becker
+
+p.s. You could also transliterate shlep as 'schlep.'  What are the
+preferences on this?
+
+______________________________________________________
+End of Mendele Vol. 5.050
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

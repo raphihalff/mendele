@@ -1,0 +1,146 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 212
+April 13, 1992
+ 
+1) The YIVO system (Zev Bar-Lev)
+2) Yudel Rosenberg (Arnold J. Band)
+3) Oysnveynik (Brett Kessler)
+4) Incest taunts (Hershel Bershady)
+
+1)----------------------------------------------------
+Date: Wed, 8 Apr 92 09:03:51 -0700
+From: zbarlev@sciences.sdsu.edu
+Subject: RE: Mendele Vol 1.210
+
+on transcription, and Ellen Prince's note ("why not simply
+adopt the yivo system?"):
+
+by saying "mostly" YIVO-like, i was just hedging, not
+having the relevant books to check in the office.  i think
+my suggestion of _hh_ is unique, altho, as admitted, _kh_
+is also good.  but mostly i was just responding to a couple
+of earlier comments/questions, which seemed to come from
+further away (geographically and linguistically), e.g. on
+_sh_ vs. _sch_.
+
+i'm sure YIVO recommends _z_ as in _zeyde_; i think they
+also use _ts_ (rather than _tz_) -- if so, i agree again,
+since the alternative _tz_ is more easily confused or
+mispronounced as _z_.  like YIVO system and all other
+phonetic systems (as against Berlitz-type), i think it is
+vital not to use the idiosyncratic spellings of German (as
+for German letters S, Z, etc.) or of English (especially
+vowels).
+
+the YIVO spellings are good, although a "new tradition" for
+America, which has "traditionally" used a bizarre mish-mash
+of English and German spellings, e.g. maven, zayde;
+Chanukah, BUT cholent; zaddik/tzaddik, BUT zayde, BUT
+words/sentences transcribed German-style, e.g. sehn, zehn.
+i despair of getting ordinary American Jews to use
+phonetic/YIVO style, since they're already all too confused
+about vowels. (for them, i use a sneakier compromise
+between phonetic and Berlitz, but one that uses lots of
+diacritics, so it's not usable on e-mail.)
+
+Zev Bar-Lev
+
+2)----------------------------------------------------
+Date: Fri, 10 Apr 92 00:52 PDT
+From: "Arnold J. Band" <IMH0ORA@MVS.OAC.UCLA.EDU>
+Subject: Rosenberg
+
+For Ira Robinson:
+
+Are you aware of Eli Yasif's Hebrew study of Yudel
+Rosenberg's Golem stories with a detailed introduction and
+bibliography?  (Yasif is Prof.f Folklore at Ben Gurion
+University.
+
+Arnold J.Band, UCLA
+
+3)----------------------------------------------------
+Date: Fri, 10 Apr 92 08:50:34 -0700
+From: Brett Kessler <bkessler@hplblk.hpl.hp.COM>
+Subject: oysnveynik
+
+Zev Hochberg asks:
+
+> Does anyone know the etymology of "oysen veynik" (?)
+> meaning "by heart"? Weinreich doesn't have it ...
+
+A good kashe.  First of all, it's a word, not a phrase; the
+initial stress tells us that.  It would certainly be a
+puzzle why "out of the few" should mean "by heart"!  The
+original (and still extant) meaning of the word is
+"external" or "outside" (Weinreich).  This apparently goes
+back to the Old High German "uzzenewendiun" (with yoghs).
+Grimm (under "auswendig") gives the OHG phrase
+"uzzenewendiun theru grasceffi" as meaning "extra parietes
+comitatus", and Der groyser verterbukh gives this as an
+archaic meaning.  The "-wend-" would seem therefore to be
+an unmlauted form of "wand" (our "vant"), "wall".  I don't
+know why Yiddish lost the "d", but once it did, that left
+the vowel in an open syllable, subject to lengthening and
+diphthongization.
+
+So why does "outside" mean "by heart" or "thoroughly"?
+After all, that does seem to be the opposite of the
+metaphor we would expect -- wouldn't you think a thorough
+knowledge would extend deep into the interior of a subject,
+and not just lie on its exterior surface (= superficial)?
+Well, both Duden and Kluge state that the reference is to a
+book: if you know something by heart, you don't have to
+open the book.  You only have to look at the outside of the
+book, not its inside.  This in fact dovetails with the
+definition in the Groyser verterbukh.  I neglected to copy
+it down, but the lead definition was something like "to
+know something without having to look in a book, seyfer,
+etc."
+
+This account seems convincing to me, in the absence of a
+good Yiddish etymological dictionary (does such a beast
+exist?)  At least I hope this submission acts as a
+lightning rod for somebody with a better account.
+
+Brett Kessler
+
+4)----------------------------------------------------
+Date: 11 Apr 92 14:09:54 EST
+From: "Dr. Harold Bershady" <HBERSHAD%PENNSAS.UPENN.EDU@YALEVM.YCC.Yale.Edu>
+Subject: CURSES: UKRAINIAN/YIDDISH
+
+When my frum uncle, Dovid, became particularly incensed
+over someone he would mutter (as best as I can render
+this): "ti-yop ti-ya mat."  When I was a kid I only knew
+from context that this was a curse.  When I started going
+to high school with a large black population I began to put
+2 and 2 together.  When I asked uncle Dovid whether there
+was a black strain in the family, and explained what I
+meant, I got an embarassed laugh -- but no denial.  Later I
+hypothesized that in every society where there's an incest
+taboo that involves mothers and sons, there will likely be
+such an insulting curse.  Jews certainly have a powerful
+incest taboo, but I never heard any Jew insult another by
+calling him a mother-fucker.  Is there such an expression
+in Yiddish? In Hebrew? Or does the insult imply a violation
+of such magnitude that it is not permitted to express this
+in, as at were, one's mother tongue-- so that one uses a
+"heathen" language -- Ukrainian, I assume, in my uncle's
+case -- to refer to a barbarous person or act?  Any
+clarification (and of course examples!) would be apprecia-
+ted.
+
+Hershel Bershady, Pennsas@Upenn.edu
+______________________________________________________
+End of Mendele Vol 1.212
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+
+

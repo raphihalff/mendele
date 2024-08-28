@@ -1,0 +1,266 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.175
+March 18, 1998
+
+1) Yiddish/Russian h/g variation (A Manaster Ramer)
+2) /h/ vs. /g/ in Yiddish toponyms (David Braun)
+3) g and h (Ellen Prince)
+4) g/h (Hugh Denman)
+5) Why does Russian use G and not H? (Rick Turkel)
+6) Why does Russian use G and not H? (Bob Hoberman)
+7) kurve one last time (A Manaster Ramer)
+8) kurve (Hugh Denman)
+9) Yosef Guri's book (Morrie Feller)
+
+1)----------------------------------------------------
+Date: Tue, 17 Mar 1998 19:19:00 -0500 (EST)
+From: manaster@umich.edu
+Subject: Yiddish/Russian h/g variation
+
+I do hate to disagree with Eliyahu Juni, but I must dissent from his proposal
+that: 
+
+"The regular sound change involved, I think, is as follows:  (Some) Slavic
+languages have (or had) a voiced H, while Yiddish has a voiceless H, but no
+voiced H.  Yiddish speakers "heard" the voiced H (which is a guttural sound) 
+as /g/ (which is a voiced sound made at the back of the mouth:  same voicing,
+similar place of articulation), and thus used /g/ in place-names (and other
+words?) whose Slavic parallels had a voiced H.  They could have just as well
+substituted a voiceless /h/ for the voiced H (same place of articulation,
+different voicing)--and sometimes did, resulting in double Yiddish place-names
+(e.g. Horodne/Grodne)." 
+
+The fact is much simpler, namely, that Yiddish borrowed place names (including
+sometimes the SAME place name) from more than one Slavic language, namely,
+from Russian or Polish (which have 'g') as well as Ukrainian or Belorussian
+(which have 'h').  The example of Horodne/Grodne in fact proves this.  Note
+that the two forms do not differ just in having 'h' or 'g', but also in having
+'oro' vs. 'ro'.  This is a dead giveaway.  Polish has 'r' + vowel in words
+where Russian, Ukrainian, and Belorussian have vowel + 'r' + vowel as a very
+general rule (reflecting sound changes that took place a thousnad years ago
+give or take), e.g., Polish krowa 'cow' but Russian korova.  There hundreds of
+such examples. 
+
+Hence, Grodne is borrowed from Polish, while Horodne is from Ukrainian or
+Belorussian (since I dont remember where this town is I can't tell). 
+
+A Manaster Ramer
+
+2)----------------------------------------------------
+Date: Tue, 17 Mar 1998 22:06:15 EST
+From: David S Braun <dovid@MIT.EDU>
+Subject: /h/ vs. /g/ in Yiddish toponyms 
+
+Eliyahu Juni has said:
+
+"In most cases, Yiddish got its place-names from Russian (and other dominant
+languages), and not the other way around;  the explanation required is for why
+Yiddish replaces /g/ with /h/ in words borrowed/acquired from Russian." 
+
+The place names fraynd Fridhandler may be talking about are Belarussian and
+Ukrainian, in which case the Yiddish forms were probably taken directly from
+those languages.  Those languages have /h/ and not /g/ for the alternation in
+question.  (Chernigov, Drobogich, Gomel', Grodno, Gorodish, Nowogro'dek, etc.
+etc. all have or had /h/ and not /g/ in the local languages of the native
+Slavs.) 
+
+David Braun
+Cambridge, MA
+
+3)----------------------------------------------------
+Date: Tue, 17 Mar 1998 23:07:39 EST
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: g and h
+
+Re Eliayahu Juni's discussion of why Yiddish has /h/ in place-names
+where Russian has /g/ -- I doubt there's any sound change going on since
+we do not otherwise have g --> h (g turning into h) in Yiddish. What is,
+IMO, more plausible is that Yiddish took the place-names in question
+from Ukrainian or German (or Old Yiddish!) or some other language that 
+hadn't switched /h/ to /g/.
+
+An interesting factoid I read once is that, after WW2, just about every
+Jew named _Hitler_ changed their name, whereas few Jews named _Gitler_
+changed their name. Clearly, the sound change was long since over and
+these were perceived as two different names, just as are _Gerzog_ and
+_Herzog_ or _Gorevits_ and _Horowitz_ or _Halpern_ and _Galperin_, etc. 
+(Goffman/Hoffman? Gersh/Hersh? Gelman/Hel(l)man? Geller/Heller? Are these 
+also instances? What are others?)
+
+Ellen Prince
+
+4)----------------------------------------------------
+Date: Wed, 18 Mar 1998 15:11:51 +0100
+From: Hugh Denman <uclhhfd@ucl.ac.uk>
+Subject: g/h
+
+Why are we all making such heavy weather of this g/h issue? In essence it's as
+simple as this: East Slav has an isogloss dividing Belarussian and Ukrainian
+from (Great-)Russian. West of this line the phoneme represented by the fourth
+letter of the Cyrillic alphabet is realised as [h], east of the line as [g].
+The precise phonetic realisation of both the putative Proto-ESlav phoneme and
+the divergent outcomes in the individual languages is interesting, but
+irrelevant. Native Slav words and toponyms have the appropriate pronunciation
+depending which side of the line they are encountered. Yiddish renders such
+words with gimel or hey depending where the borrowing takes place. As for the
+'Gamburg'/'Gaml'et'-phenomenon, one needs only to reflect that written lexical
+items that travelled 'on foot' from the west swapped alphabets more or less
+where the railways change gauge and that the Cyrillic letter changed from [h]
+to [g] as it crossed the isogloss. More recently, when words travelled less
+ponderously, and Russians had an opportunity to hear the original sound they
+started transliterating it with the more closely approximating x (i.e. kh). 
+
+Hugh Denman
+
+5)----------------------------------------------------
+Date: Wed, 18 Mar 1998 12:12:15 -0500
+From: rturkel@cas.org (Rick Turkel)
+Subject: Why does Russian use G and not H?
+
+Eliyahu Juni wrote in mendele 07.171:
+
+ "In most cases, Yiddish got its place-names from Russian (and other dominant
+ languages), and not the other way around;  the explanation required is for
+ why Yiddish replaces /g/ with /h/ in words borrowed/acquired from Russian."
+
+I'm not convinced that this is really the question that needs to be asked
+here.  It's far more likely that those place names with /g/ were borrowed from
+Northern Russian or Polish, while those with /h/ came from Ukrainian,
+Belorussian, Southern Russian or possibly Slovak, all of which have no /g/
+except in borrowed words.  Of the languages in both of these groups which use
+the Cyrillic alphabet, the identical letter is used for both sounds, which
+alternate in native words.  It seems to me that this is a far simpler and more
+reasonable explanation for this phenomenon than: 
+
+ "They could have just as well substituted a voiceless /h/ for the voiced H
+ (same place of articulation, different voicing)--and sometimes did, resulting
+ in double Yiddish place-names (e.g. Horodne/Grodne)." 
+
+This latter is a perfect example.  The -oro-/ro- alternation is typical of
+native Ukrainian vs. native Polish cognates.  E.g., Ukr.  horod (town) vs.
+Pol. gro'd (castle). 
+Rick Turkel  
+
+6)----------------------------------------------------
+Date: Wed, 18 Mar 1998 14:06:09 -0500 (EST)
+From: "R. Hoberman" <rdhoberman@ccmail.sunysb.edu>
+Subject: Why does Russian use G and not H?
+
+Eliyahu Juni pointed out the the original questions was about place names
+which vary between g and h within Yiddish.  I suspect that the same place
+names vary between g and h even among non-Yiddish speakers.  Say a place
+was in or near Belarus.  Belorussian (how do you spell it nowadays?)  has
+been described as having a gh sound -- like a voiced kh -- in words that
+have g in Russian and h in Ukrainian.  So local Belarussians would say
+Ghlusk while Russians would say Glusk.  Before the Soviet regime
+Belarussian was considered a substandard form of Russian.  So would a
+Yiddish speaker say Hlusk or Khlusk to sound something like the local
+people's pronunciation of the name or Glusk to follow the Russian form?
+Maybe both.  I wonder if names of villages and towns in which Jews had
+lived for centuries varied in Yiddish in the same way as did names of
+cities, in which Jews may not have lived long at all. 
+
+Bob Hoberman
+
+7)----------------------------------------------------
+Date: Tue, 17 Mar 1998 19:33:45 -0500 (EST)
+From: manaster@umich.edu
+Subject: kurve one last time
+
+I am thrilled to hear from Ellen Prince about the Old Church Slavic
+attestation of this word, but methodologically I want to emphasize that even
+if we had no such information, the facts cited earlier by Meyer Wolf and in
+more detail by myself would be entirely sufficient to show that this canNOT be
+a borrowing from Hebrew into Yiddish.  It is of paramount importance that we
+agree to treat Yiddish etymology, like that of any other language, as subject
+to the usual linguistic principles I alluded to earlier and not to merely look
+for words than subjectively seem to sound alike.  The principle is and must be
+that there are correspondences between the sounds of an earlier and a later
+stage of a language as well as between a donor language (e.g. Hebrew) and a
+borrowing language (e.g., Yiddish) which hold true for large numbers of
+(ideally, for all) examples, and this is sufficient to make the Hebrew theory
+of kurve utterly impossible.  I know that this emphasis on linguistic methods
+may bother a lot of people, but what we have here is exactly analogous to the
+situation in any science.  Take biology.  A whale may look like a fish but it
+just isn't one.  Similarly kurve may look like some Hebrew word but it just
+isn't that word.  Biologists have methods which allow them to determine what
+the real relations are and so do linguists, and the only difference is that
+nonspecialists are educated from a very young age to accept whatever biology
+(or any natural science)  teaches (and usually on faith!) but are not taught
+to accept the results of linguistics (or of anthropology or a number of allied
+fields, though archeology for some reason IS more or less respected).  I dont
+blame any one for this state of affairs, and I do not think people should
+acept linguistic results on faith, but we have to try to make it clear that
+there is a fundamental difference between real etymology and amateur
+etymology.  I dont know how good a job I am doing of making this distinction
+clear, and I would certainly appreciate any help. 
+
+A Manaster Ramer
+
+8)----------------------------------------------------
+Date: Wed, 18 Mar 1998 16:36:49 +0100
+From: Hugh Denman <uclhhfd@ucl.ac.uk>
+Subject: kurve
+
+I am afraid this topic must fast be developing into one of those tedious sagas
+of which fellow mendelyaner have so often complained, so in responding to
+fraynd Manaster Ramer [07.171:8] I will be as brief as possible. First, I
+would like to thank him for the item of information that 'kurve' is pronounced
+[kurve] in all dialects. Unfortunately, as I said earlier, this is negative
+evidence which proves nothing. Secondly, I wholeheartedly agree with him that
+we should strive to eschew volksetymologisch guesswork and aspire to some
+degree of scientific rigour in our discussion of matters of this ilk. However,
+let us look at some of the 'premises' that he adduces in his Euclidean QED. He
+tells us that 'kurve' cannot be derived from 'qurvah', since the expected
+outcome would be '*korbe'. Furthermore, he claims, a veyz is not possible in
+this position (pace all decent Hebrew dictionaries) and he seeks to
+demonstrate the logic of his argument by adducing the analogous case of
+'Hurbah'. I won't attempt to enter into a discussion of principle, but the
+simple facts speak against him. Hebrew does have 'qurvah' with veyz, 'Hurvah'
+with veyz exists as a variant of 'Hurbah' with beyz and, as surely everyone
+knows, 'khurve' is the Yiddish outcome. Ellen Prince and Meyer-Leyb Wolf make
+a more interesting point by adducing Church Slavonic 'kuruva'. Assuming,
+however, that the not always totally reliable Skeat got this right, we have to
+remember that, however old OCSl may be, it was also remarkably pertinaceous,
+surviving in relatively active (as opposed to merely liturgical) use into the
+eighteenth century. [Even the polnoglasie could, after all, be a
+back-formation!] The fact that a language has a word does not necessarily
+imply that it had that word ab initio. And if this is indeed the origin, it is
+remarkable that Slavist etymologians don't say so.  All this having been said,
+I AM NOT trying to prove a H/A etymology, simply pointing out that the
+candidacy of such a derivation continues to stand.  Wovon man nichts weiss,
+sollte man schweigen. 
+
+Hugh Denman
+
+9)----------------------------------------------------
+Date: Tue, 17 Mar 1998 17:53:26 -1000
+From: feller@indirect.com (Morris Feller)
+Subject: Yosef Guri's book
+
+In response to Bernard Katz (07.172), my entire leyenkrayz bought Yosef Guri's
+"1,000 Yiddish Idioms".  It took two months to get it from Israel, but it was
+well worth the wait.  We were all thrilled with the beautiful way the book is
+put together, and we laughed at the many humorous drawings.  We found the
+idioms to be truly enjoyable.  This book is a real gem.  Buy it! 
+
+Morrie Feller
+Phoenix
+______________________________________________________
+End of Mendele Vol. 07.175
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+
+
+
+

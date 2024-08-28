@@ -1,0 +1,147 @@
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 23.016
+March 2, 2014
+
+1) Yiddish Romanization Tool (Refoyl Finkl)
+2) Yiddish Romanization Tool (Peter Gutmann)
+3) shabash (Elvira Groezinger)
+4) shabash (Murray Woldman)
+5) shabash (Meylekh Viswanath)
+6) shabash (Itsik Goldenberg)
+
+1)----------------------------------------------------
+Date: February 3
+Subject:  Yiddish Romanization Tool
+
+In response to Paula Grossman, who asks about Romanizing Yiddish texts:
+
+My automated tool at
+http://www.cs.uky.edu/~raphael/yiddish/makeyiddish.html has an option
+that allows you to enter text in Yiddish letters (either directly in an input box or in a file) 
+and get the equivalent in Romanized transcription.  In the first option column, choose 
+"Unicode"; in the second, choose "YIVO transcription."  If you use a file, it should be
+plain text in utf-8 encoding; my program does not understand Word formatting.
+
+If your text is not in a computer file but rather on paper, you need an optical character 
+recognition program.  I have built one, but it isn't easy enough to use for me to publish it.  
+But I have succeeded in converting some texts from the Book Center into computer files.
+
+Refoyl Finkl
+
+
+For that very purpose: Refoyl Finkel's Yiddish Typewriter:
+http://www.cs.uky.edu/~raphael/yiddish/makeyiddish.html
+
+
+2)----------------------------------------------------
+Date: February 2
+Subject: Yiddish Romanization too
+
+Dear Paula,
+
+If your material is in a format Refoyl Finkl's Yidishe Shraybmashinke understands, that 
+would be a great tool because it works both ways and can transform oysyes into letters. 
+You can check it out here:
+http://www.cs.uky.edu/~raphael/yiddish/makeyiddish.html
+
+If your material is too much to upload and convert on Refoyl's page, you might want to 
+consider downloading his superb "yidishtex" package for LaTeX and run the scripts on 
+your own machine.
+
+Best,
+Peter Gutmann
+
+[Moderator's note: Barry Goldstein and Lucas Fiszman also wrote in to recommend the 
+Yidishe Shraybmashinke.]
+
+3)----------------------------------------------------
+Date: February 3
+Subject: shabash
+
+I wonder if this is not a derivate from the Hebrew word "shibesh" to make a mistake, so 
+something by fault. It depends of course on the context.
+
+Best,
+Elvira Groezinger
+
+4)----------------------------------------------------
+Date: February 3
+Subject: shabash
+
+Tayre mentshn: Shabash is a Persian/Farsi/Indian Hindi/Urdu verbal applause heard 
+during a poetry competition, a musical performance, a sports event, anything you 
+spontaneously appreciate in a public or semi-public setting. I have been at musical 
+performances of Sufi music or qawwali concerts and at Classical Indian musical 
+performances both there and in the USA where many "Shabashes" were heard when the 
+performance of a classical Indian raga was performed and as it reached its climax of 
+excitement, again Shabash!
+
+Murray Woldman
+
+5)----------------------------------------------------
+Date: February 2
+Subject: shabash
+
+Vegn shabash: ikh meyn az s'iz fun perzish (efsher terkish).  Mir nitsn es in indiye in 
+farshidene sprakhn mitn batayt fun shkoyekh!
+
+Meylekh Viswanath
+
+6)----------------------------------------------------
+Date: February 4
+Subject: shabash
+
+In Mendele 23:12, Alexis Manaster Ramer asks about the Yiddish word shabash. In the 
+YIVO journal YIDISHE SHPRAKH XXV (1), June 1965, pp. 26-28, A. Ben Ezra's 
+article "Shabas, Shabat, Shabash" discusses this in some detail. Shabash is used in 
+klezmer-loshn, referring to a custom in Galitsye (Kroke mentioned in particular), of 
+money contributed to the klezmorim during the mitsve-tentsl. It is proposed that the word 
+derives from Persian, since the custom prevailed there and in Kurdistan. Dov Sadan 
+proposed that the word came from Ukrainian. The article includes a reference to a paper 
+on klezmer-loshn by Noyekh Prilutski.
+
+Itsik Goldenberg 
+______________________________________________________
+End of Mendele Vol. 23.016
+
+Please do not use the "reply" key when writing to Mendele. Instead, direct your mail as 
+
+follows:  
+
+Material for Mendele Personal Notices & Announcements, i.e. announcements of events, 
+commercial publications, requests to which responses should be sent exclusively to the 
+request's author, etc., always in plain text (no HTML or the like) to:   
+
+   victor.bers@yale.edu (in the subject line write Mendele Personal)  
+
+Material for postings to Mendele Yiddish literature and language, i.e. inquiries and 
+
+comments of a non-commercial or publicity nature:  
+
+    mendele@mailman.yale.edu  
+
+IMPORTANT:  Please include your full name as you would like it to appear in your 
+posting.  No posting will appear without its author's name.  
+
+Submissions to regular Mendele should not include personal email addresses, as 
+responses will be posted for all to read.  They must also include the author's name as you 
+would like it to appear.
+
+In order to spare the shamosim time and effort, we request that contributors adhere, when 
+applicable, as closely as possible to standard English punctuation, grammar, etc. and to 
+the YIVO rules of transliteration into Latin letters. A guide to Romanization can be found 
+at this site: http://www.yivoinstitute.org/about/index.php?tid=57&aid=275 
+
+All other messages should be sent to the shamosim at this address: 
+
+mendele@mailman.yale.edu  
+ 
+Mendele on the web [interim address]: https://sites.google.com/site/mendeledervaylik
+
+To join or leave the list: http://mailman.yale.edu/mailman/listinfo/mendele
+
+
+
+

@@ -1,0 +1,139 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.029
+June 17, 1994
+
+1) On Philologos and some etymologies (Edward Stankiewicz)
+2) Germans and Yiddish (Mark Devlin)
+3) Lipe Reznik (Holger Nath)
+
+1)----------------------------------------------------
+Date: Thu Jun 16 20:55:12 1994
+From: VBERS@YaleVM.YCC.Yale.Edu
+Subject: On Philologos and some etymologies
+
+Edward Stankiewicz has asked me [v.b.] to post the following:
+
+     The etymological forays of Philologos in the last issue of the
+*Forward* (June 10, 1994) are disappointing on several grounds.
+
+     First, he keeps waffling on the origin of the sub-standard Yid.
+*shmolyares* (not *shmooolyares*!) though it was correctly interpreted by
+several readers as involving the substitution of the intial *d*- in
+*dolarn* with the pejorative *shm-*.The matter would have become even
+clearer had Philologos bothered to point out the resemblance of the
+ending of this word with such sub-standard playful Yid. forms as
+*oygenes* (for *oyg* 'eyes'), *shtivalyes* (for *shtivl* 'boots'),
+*volkenes* (for *volen* 'clouds') which I wrote about in a letter to
+*Forward* on March 10, 1994.
+
+     Second, Philologos gives an incorrect account of the word *kapusta*
+which is not even Yiddish (the correct Yid. form for 'cabbage' is
+*kroyt*). As is clear by any Slavic etymological dictionary, the Polish
+and Russian word *kapusta* derives neither from the Latin *caput*
+('head') nor from the Italian *cavolo*, but is rather a blend of Italian
+*composta* (Middle High German *kumpost*) with It. *capuccio* (Middle
+High German *kappuz*).
+
+     Third, the puzzling *pachech* is obviously a phonetic distortion of
+the Yid. *parech* which in turn comes from the Polish *parch* 'a scab.'
+metaphorically used for an obnoxious, repulsive person.
+
+Edward Stankiewicz
+
+2)----------------------------------------------------
+Date: Fri Jun 17 02:03:38 1994
+From: mdevlin@acs.bu.edu
+Subject: Germans and Yiddish
+
+I hope that this response to Allan Fineberg's question will be of some
+help. Though I am not Jewish, like Allan I speak German and have (by
+marriage) many German gentile relatives.  My observations lead me to the
+conclusion that Ger- man difficulties vis-a-vis Yiddish have two sources,
+one linguistic and the other psychological.
+
+The simpler (ahem) of the two is the linguistic.  Allan rightly notes
+that Germans could probably understand a good bit of spoken Yiddish, much
+as many of them (from the Northwest, at least) can understand a good bit
+of Dutch. "German" as it is _really_ spoken almost everywhere outside of
+TV news broadcasts is, however, not one language but a sackful of very
+different dialects. I believe that Yiddish traces its Germanic roots to
+Middle German (i.e. from neither far North nor deep South), yet it
+strikes me as having elements in common with dialects from every part of
+the German-speaking map.  For instance, the hard voiced "s" ("z", really,
+though the Germans don't write it that way) is characteristic of
+middle-to-north Germany; the double negative common in Bavaria; the
+transformation of "oe" to "e" or "ey" is found in Swabian, Bavarian and
+especially Bohemian (I refer to the phenomenon seen in the Yiddish phrase
+"a sheynen dank", which Germans would write, but almost never pronounce,
+"einen schoenen Dank").  Thus, even without regard to its Slavic, Hebrew
+etc. elements, Yiddish would be "tantalizingly familiar" but also
+somewhat strange to virtually any German-speaker.  As Primo Levi
+remarked, German and Yiddish are cousins, each of which sounds like a
+parody of the other.
+
+This does not, of course, explain why Germans should show such a lack of
+cur- iosity about Yiddish.  Here we must look to the psychological.  The
+reason why Germans today might feel uncomfortable with things Jewish does
+not need to be stated.  While many (especially younger) Germans _are_
+curious about Judaism as a religion, their curiosity about Judaism as a
+culture seems limited to _German_ Judaism, and German Jews tended not to
+speak Yiddish.  Modern Germans can deal with thinking about, say, Theodor
+Herzl or Heinrich Heine (the latter _geshmat_, I realize); but thinking
+about _Yiddish_ culture forces them to confront in a very direct way the
+events of a half century past.  I am not speaking here of those Germans
+who deny or trivialize what their nation did; I am speaking of those who
+accept the truth and wish to come to terms with it. They can do so as
+long as they keep things abstract; to think too much about Yiddish
+language and culture transforms the victims of the Holocaust from a group
+numbering 6 million into six million individuals.  This can overtax the
+capacities of even a well-intended German.  What Allan suggests might be
+"misguided politeness" is rather, I believe, a misguided attempt to
+avoid the uncomfortable.
+
+As a sort of appendix, I would add that there _are_ a number of Yiddish
+words that have been borrowed into German.  The ones I am aware of are
+among those familiar to most Americans: Chuzpe, Schlamassel, Schlemiel
+(as they are spelt in German).
+
+Mark Devlin
+
+3)----------------------------------------------------
+Date: Fri Jun 17 08:53:57 1994
+From: hn6@columbia.edu
+Subject: Lipe Reznik
+
+I am looking for some information on Lipe Reznik.  He was an aspirant in
+Kiev (Filologishe sektsye) and graduated from the Institut far yidisher
+kultur in 1930.  If I remember correctly, he also was a writer. (I know
+of Shmeruk's _Jewish publication in the Soviet Union 1917-1960_
+(Jerusalem 1961).
+
+Holger Nath
+
+______________________________________________________
+End of Mendele Vol. 4.029
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

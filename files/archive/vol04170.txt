@@ -1,0 +1,173 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.170
+November 7, 1994
+
+1) Romanization (Shleyme Axelrod)
+
+1)----------------------------------------------------
+Date: Sun, 06 Nov 1994 14:00:55 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu>
+Subject: Romanization
+
+                      ROMANIZATION, YIVO-STYLE
+
+1.  What follows is a simplified version of the romanization
+(transcription) convention developed by YIVO.  It is easy to use, once
+you have gotten the hang of it--not a daunting task.  The scheme is quite
+straightforward, and it provides a uniform way to write _any_ Yiddish
+word in any Yiddish dialect; if you can say it, you can write it, and be
+sure that your readers will know just how you're saying it.  What more
+can be asked of a transcription scheme? Mendele subscribers are
+encouraged to use the YIVO system, in the interest of clear
+communication; but it is not a requirement for submissions.
+
+2.  The first column gives the names of the Yiddish letters and letter-
+combinations; the second column gives their approximate sound
+equivalents, for the most part in English; be warned that some of the
+English examples will be interpreted differently by native speakers of
+English from various dialect regions.  The third column illustrates the
+transcription with Yiddish words. (The letters in square brackets in the
+first column occur only in words derived from Hebrew or Aramaic; their
+transcription in the third column is preceded by [H].)  Writers not
+familiar with the Yiddish alphabet can ignore the first column
+altogether.
+
+3.  Note that the consonants and most of the vowels are pronounced in
+much the way that some other European languages pronounce them.  There
+are a few possible exceptions, arising out of dialectal differences.  For
+example: the Yiddish word for "good" is ALWAYS spelled giml-vov-tes, and
+the table shows that the Standard pronunciation of the vov (except when
+it's at the end of a syllable) is like the u in English "put"; so the
+Standard pronunciation is /gut/, rhyming with English "put".  But the
+dialects of many native speakers call for pronouncing this vov as /i/,
+and these speakers would say and transcribe the word as /git/; such
+variants are welcome on Mendele.
+
+4.  The diphthongs may require some thought at first; /ey/ romanizes the
+sound in "Hey!" or "grey"; /ay/ stands for the sound of the "ay" in
+"Mayan" or the "y" in "my"; and /oy/ transcribes the "oi" sound in "oil"
+or "noise" (so the familiar expression of complaint or pain or surprise
+is romanized /oy vey/, and the Standard Yiddish for "my mother" is
+written /mayn mame/.)
+
+5.  Note that the shtumer (silent) alef has no sound equivalent or
+transcription.  In Yiddish, it is written at the beginning of words
+before the vowels and diphthongs pronounced /u/, /oy/, /i/, /ey/, and
+/ay/.
+
+
+                      APPROXIMATE
+                         SOUND             ROMANIZED (TRANSCRIBED)
+LETTER NAME           EQUIVALENT                       AS
+-----------           -----------          -----------------------
+
+                 VOWELS AND DIPHTHONGS
+                 ---------------------
+shtumer alef          (silent)
+pasekh alef           a as in father       a in gas 'street'
+komets alef           o as in sort         o in yorn 'years'
+                      u as in hut          o in hot 'has'
+vov                   u as in put          u in un 'and'
+                      oo as in goo
+                        (syllable-final)   u in du 'you'
+yud          [Between i as in fit          i in tish 'table'
+                  and ee as in feet]
+                      [closer to feet]     i in zi 'she'
+tsvey yudn (2 yuds)   ey as in grey        ey in eynikl 'grandchild'
+pasekh tsvey yudn     y as in sky          ay in fayer 'fire'
+vov yud               oy as in boy         oy in moyl 'mouth'
+ayen                  e as in end          e in entfer 'answer'
+
+            CONSONANTS AND CONSONANT CLUSTERS
+            ---------------------------------
+beys or beyz          b as in ball         b in brem 'eyebrow'
+[veys or veyz]        v as in heavy    [H] v in mazl-tov 'congratulations'
+tsvey vovn (2 vovs)        "               v in vursht 'salami'
+giml                  g as in give         g in gornisht 'nothing'
+daled                 d as in done         d in dorf 'village'
+hey                   h as in hot          h in hungerik 'hungry'
+zayen                 z as in zebra        z in zumer 'summer'
+[khes]                ch as in German
+                        "achtung"      [H] kh in bokher 'young man'
+khof                       "               kh in khapn 'to catch'
+tes                   t as in time         t in tuml 'noise'
+[tof]                      "           [H] t in toyre 'Torah'
+yud (before a vowel)  y as in yet          y in yagdes 'berries'
+[kof]	              k as in kill     [H] k in kosher 'kosher'
+kuf                        "               k in kamf 'struggle'
+lamed                 l as in lake         l in luft 'air'
+mem                   m as in mark         m in mentsh 'person'
+nun                   n as in neck         n in nudnik 'bore'
+samekh                s as in self         s in samet 'velvet'
+[sin]                      "           [H] s in soyne 'enemy'
+[sof]                      "           [H] s in toes 'error'
+pey                   p as in pack         p in ponim 'face'
+fey                   f as in fence        f in frish 'fresh'
+tsadek                ts as in fruits      ts in nayntsik 'ninety'
+reysh                 r as in French       r in royt 'red'
+                        "rue"*
+shin                  sh as in show        sh in shande 'shame'
+zayen shin            s as in measure      zh in zhuk 'beetle'
+daled zayen shin      j as in jump         dzh in dzhez 'jazz'
+tes shin              ch as in chair       tsh in kvetshn 'to squeeze'
+
+* I.e., trilling either the tip of the tongue or the uvula.
+-----------------------------------------
+
+     Some General Points (adapted from Zellig Bach, Mendele 4.102)
+
+Each letter (or letter combination) in the third column has a specific
+sound. Remember that the YIVO scheme is meant to be efficient,
+unambiguous and easy to use; unnecessary letters just confuse the reader.
+
+So:
+
+1.  No double consonants; they don't tell you anything.  Write:  ale,
+alemen, bobe, feder, got [God], shabes, yidish (NOT alle, allemen, bobbe,
+fedder, gott, shabbes, yiddish).
+
+2.  Excise the puste (empty) h's, since they provide no additional
+information: No "h" after the stressed vowel in words of German origin.
+Write:  amol, yor, geyn, shteyn (NOT amohl, yohr, gehn, shtehn).  And no
+"h"s after the final vowel in words of Hebrew or Slavic origin; they
+don't add any information either. Write:  khale, kale, khevre, metsie,
+take (NOT khaleh, kaleh, khevreh, metsieh, takeh).
+
+3.  Skip the shtume (silent) e's:  Write:  bisl, fargesn, gutn, lakhn,
+zisn, shtetl (NOT bisel, fargesen, guten, lakhen, zisen, shtetel).
+
+______________________________________________________
+End of Mendele Vol. 4.170
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

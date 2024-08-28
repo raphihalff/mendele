@@ -1,0 +1,178 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.213
+January 14, 1996
+
+1) Introduction (David Jacobs)
+2) Introduction (Blossom Miller)
+3) Pluperfect (Neil Jacobs)
+4) Pluperfect (Alan R. King)
+
+1)----------------------------------------------------
+Date: Thu, 11 Jan 96 11:40:44 -0800
+From: david_jacobs@mindlink.bc.ca
+Subject: Introduction
+
+So I did not realize that I was supposed to introduce myself. I am sorry that my
+Yiddish is not up to this, I am only a beginner at Yiddish and it is for me a
+tenth language (of which I only claim fluency in the first six).
+
+So I am 47, live in Vancouver, work in a hospital and am largely an autodidact.
+I am unconventional in my views on most things. Why an interest in Yiddish. If I
+go back five generations (via Australia and England), my ancestors who I think
+came from Gostynin spoke the language, so in part it is to recover part of my
+ancestral past. Partly because the language is interesting in and of itself both
+for its idioms and for words that do not seem to translate very well into other
+languages. I am slowly working my way through Uriel Weinreich's textbook. My
+only other Yiddish books are a complete set of Shalom Aleikhem in the original.
+
+David Jacobs
+
+2)----------------------------------------------------
+Date: Thu, 11 Jan 1996 14:16:02 -0500
+From: milltax@aol.com
+Subject: Introduction
+
+Shalom Chaverim!  This is to introduce myself.
+
+I grew up in a home in Chicago where no Yiddish was spoken and always felt that
+I was missing something.
+
+For many years I was a Group Tour Co-ordinator for KLM Royal Dutch Airlines,
+organizing and encouraging Ministers to take the members of their congregations
+on a Holy Land Tour.
+
+I have returned to Yisroel 21 times since 1960 and on many occasions have felt
+the need to converse in Yiddish as a substitute for Hebrew.
+
+A few years ago I joined a Yiddish Literature Class at Santa Monica Emeritus
+College and through this group discovered "Mendele".  What a mechiah!  I signed
+on just a few months ago and think I have learned more Yiddish through your
+contributors than in the classroom.
+
+Its been a "lebideke velt far mir, und far dos, Shames, a shanem, hartzikn
+dank".
+
+Blossom Miller
+
+3)----------------------------------------------------
+Date: Thu, 11 Jan 1996 11:15:59 -0500 (EST)
+From: njacobs@magnus.acs.ohio-state.edu
+Subject: Pluperfect
+
+On Ellen Prince's mention of the pluperfect in Yiddish:
+
+I don't know when it "dates from" in Yiddish (written? spoken?).  The "extra
+gehat (German *gehabt*) construction is found in Southern German dialect speech,
+however.  Thus, see, for example, Werner Abraham's (1991) article "How much of
+the German tense system is 'Aspect' and 'Aktionsart'", in the volume
+*Perspectives on Aspect and Aktionsart:, Carl Vetters & Willy Vandeweghe (eds),
+pp. 133 - 150.  Thus, Abraham (141ff) writes in section 4 "Double perfect and
+double pluperfect in Upper German":
+
+"Upper German ( = Bavarian, Austrian, and Alemannic) provides another example of
+strict dependency upon Aktionsart and aspect.  It is a well known fact that
+preterite forms are missing in upper German (this is the so-called "Upper German
+preterite deletion").  In some rare cases, Upper German uses double preterite
+constructions; see examples in (24) and (25) ...
+
+(24)  Sie haben es auf ihn abgesehen gehabt
+(25)  Er ist schon angekommen gewesen
+
+See also Charles V. J. Russ (ed), *The Dialects of modern German: A linguistic
+survey* (1989), Stanford University Press, for examples from various Upper
+German dialects.
+
+Neil Jacobs
+
+4)----------------------------------------------------
+Date: Fri, 12 Jan 1996 17:56:40 +0100
+From: mccay@jet.es
+Subject: More on the pluperfect
+
+Since the subject of the Yiddish "pluperfect" has come up (the quotation marks
+will be justified later), I wish to throw in a couple of ideas/questions for
+those far more knowledgeable than myself to provide enlightenment on, if
+possible.  My first point addresses the original question posed by Ellen Prince
+of origins, though from a somewhat different angle.
+
+I do not have access to many Yiddish grammars and I futhermore speak as an utter
+layman, but it strikes me that the phenomenon of the Yiddish "pluperfect" tense,
+including the apparent variations (or confusions?) regarding the choice between
+auxiliaries _zayn_ and _hobn_ (for both conjugated and participial parts of the
+construction), very likely reflects Slavic influence in Yiddish.  Does anyone
+agree (or disagree)?
+
+My reason for suggesting this is as follows.  If you will kindly make allowances
+for a gross over-generalization, then perhaps I will be permitted to say that
+the "hardware" of Yiddish is Germanic while quite a bit of its "software" is
+Slavic in inspiration.  (And who knows, maybe the "operating system" is Semitic
+:-) !)  If a language is characterized by what it does with its raw material as
+much as by the identity of that material, then Yiddish is quite strongly
+Slavicized.
+
+One example, tangential to the main point here (the "pluperfect"), is the way
+Yiddish, although remaining Germanic in the way it forms the past tense with
+either _hobn_ or _zayn_ plus participle, acts more in concert with its Slavic
+neighbours in the way it has generalised just one past tense, the periphrastic
+one, eliminating the older simple past, getting rid of (this way of expressing)
+the aspectual distinction found e.g. between standard German _war_ and _ist
+gewesen_.  Yiddish has not assimilated to Slavic to the extent of generalising
+the use of the _zayn_ auxiliary here (so _ikh hob gezungen_ rather than *_ikh
+bin gezungen_), making the form closer to Germanic; yet the resulting set of
+available tenses and the values of each tense are closer to the Slavic model
+(and then there is the Slavic-style incorporation of aspectuality into the
+system, of course).
+
+Regarding the Yiddish "pluperfect", _ikh hob gehat gezungen_ etc. (with the
+variants mentioned in other recent contributions), I think there are closer
+parallels and paraphrases in Slavic languages than in German, and so am led to
+suspect that it was formed on, or at the very least re-formed according to, the
+Slavic model.  But then the question would arise, in the process of
+(re)formation, which auxiliaries the Yiddish construction should contain.
+According to the Slavic model it ought to be _zayn_ (and _geven_) throughout,
+e.g. ??_ikh bin geven gezungen_.  On the other hand, internal grammatical
+consistency within Yiddish would probably favour using _hobn_ with verbs taking
+_hobn_ in the past, e.g. _ikh hob gehat gezungen_, by extrapolation from the
+past tense model (_ikh hob gezungen_).  Thus conflicting motivations for one or
+the other formation would naturally arise.  Does that explain the variety of
+forms actually found?
+
+Next I want to ask whether someone can clarify the uses and meaning of the
+Yiddish "pluperfect".  On the one hand there is the question of how common it
+is, and related to this, of its stylistic standing.  S.A. Birnbaum (1979:269),
+for example, describes it as "not much used".  Is it possible to expand on this
+information?  Is it more common in some sorts of context than others?  Is it, by
+any chance, a feature of literary rather than colloquial Yiddish?
+
+Also, I wonder whether it might be considered in any way an artificial
+construction from the point of view of the spoken language?  If so, then
+Meyer-Leyb Wolf's statement, "Ellen Prince's question on the pluperfect... might
+better be: who decided on the form she cites and when", would make a bit more
+sense to me than otherwise.
+
+Lastly, what, I'd like to know, is the real meaning of this so-called
+pluperfect?  The label "pluperfect" seems to suggest that _ikh hob gehat
+gezungen_ means the same as "I had sung" in English.  Is that exactly right? It
+doesn´t seem to apply for some of the uses I have noticed in Yiddish literature.
+Here is one such example from Sholem Aleykhem's short story "Vekhalaklakes"
+(_Gants Tevye der milkhiker_, New York, 1937:223-230), and the same few pages
+also contain another two examples of a similar kind:
+
+"Ikh hob aykh shoyn, dakht zikh, a mol gehat gezogt, az..." which I think means
+"I think I (have) already told you...", not ??"I think I had (already) told
+you...".
+
+In such cases the so-called "pluperfect" appears to have the meaning of a
+special variant of the past tense, not of a pluperfect as normally understood.
+How common is this kind of usage, and does it too have Slavic precedents, I
+wonder?
+
+Alan R. King
+Gipuzkoa, Basque Country
+
+______________________________________________________
+End of Mendele Vol. 5.213
+
+

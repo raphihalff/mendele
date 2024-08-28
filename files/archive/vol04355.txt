@@ -1,0 +1,153 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.355
+March 7, 1995
+
+1) The YIVO find in Lithuania (Dan Leeson)
+2) Yoshe, Heshl et al. (Dovid Braun)
+3) Skotsl kumt (Leon Kestenbaum)
+4) Skotsl kumt (Bob Rothstein)
+
+1)----------------------------------------------------
+Date: Sun, 05 Mar 1995 14:50:03 EST
+From: leeson@aspen.fhda.edu
+Subject: The YIVO find in Lithuania
+
+Last night around midnight, CNN had a lengthy piece on the find in
+Lithuania and its transportation to New York YIVO.  This is not new
+because there have been several mentions of it on this board.  However,
+there was one item spoken of in the CNN report that was, to my ears,
+quite new.
+
+It was explicitly stated that only a small portion of the material was
+sent to New York and that the remainder would be kept in Lithuania and
+parceled out to YIVO in New York only when the parcel then in New York
+was returned to Lithuania.  So they describe a 10% New York, 90%
+Lithuania holding of the materials with NY's piece going back to
+Lithuania each time that NY wanted a new portion.
+
+The impression given was that NY would act as a curator, physically
+restoring, cataloging, preserving, etc. the portion then in its hands and
+then return it all to Lithuania in order to get the next piece of work.
+
+I'm not making this up, though the CNN broadcast may have done so.  Is
+this description even vaguely correct or were the facts misrepresented?
+
+Dan Leeson
+Los Altos, California
+
+2)----------------------------------------------------
+Date: Sun, 05 Mar 1995 19:30:29 EST
+From: dovid@mit.edu
+Subject: Yoshe, Heshl et al.
+
+Thanks, Elye Juni, for the remarks.  I was uncomfortable with my
+hypothesis as well (that at some point _yehoyshue_ was stressed on the
+2nd syllable). It is just that Yiddish diminutive personal names usually
+make use of the stressed syllable of the "oiginal" name, if nothing else.
+So _shie_ (and  the ensuing _shike, shitsye, shikl_) are no surprises;
+_heshl_ and _yoshe_, on the other hand, are.
+
+The same problem is seen in _iser_ (thanks, Meylekh):  from the name
+_yisro'el_ it is no surprise that the guy is called _srol, srolke,
+srulik, srultshe_, but it *is* a surprise that _(y)isro'el_ went to
+_i'ser(l)_. Bekitser, I don't what the answer is but we know what the
+question is, at least.
+
+If there was a time when _yeho'(y)shue_ was the form in Yiddish, then
+_yoshe_ and _heshl_ are explained:
+
+yeho'shue --> yo'shue --> yoshe
+
+yeho'shue --> ho'shue --> he'shl (by umlauting, as in hOr~hErele,
+gOt~gEter)
+
+I put the 2nd "y" in parentheses a few lines up because, perhaps like
+_yosef_, this khoylem-vov was (is?) dialectally pronounced [o] and not
+[oy]; that is, in "litvish" Yiddish the name is pronounced [yeysef] and
+in the other dialects (all? or only "poylish" Yiddish) the name is
+pronounced _yosef_ (and not *_yoysef_, as the general pattern would lead
+us to expect).  (Note that _yosl_ is therefore no surprise:  it derives
+from _yosef_ and not *_yoysef_.)
+
+As for ante(-ante-ante)penultimate stress, there's _kalo'nimus_,
+_ro'sheshone_ (in "litvish" Yiddish), _akha'zhvereysh_ (in my "litvish"
+Yiddish).  So they are possible, if uncommon.  How were you taught in
+kheyder to pronounce Dovidameylekh's friend's name:  [yo'ynesn] or
+[yoyno'sn/yenos'n]?  (I think both are available in the dialects.  And do
+you concur that nobody in Yiddish speaking communities -- at least the
+ones you have access to -- is actually called by this name?  If anything,
+it's _nosn_.)
+
+"Be me well and strong"
+
+Dovid Braun
+
+3)----------------------------------------------------
+Date: Sun, 5 Mar 1995 21:51:33 -0500
+From: Leon.L.M.K.Kestenbaum@Legal.sprinta1.sprint.com
+Subject: Skotsl kumt
+
+Perhaps it is time to move on, but I would like to khazer iber nokh a mol
+the expression "skutsl kumt."  Skutsl kumt is the greeting Gimpel
+recieves from his soon-to-be bride, Elke. Bashevis Singer writes "a ponim
+gevust ver ich bin, veil ze tut oif mir a kuk un zugt -- Skutsl kumt,
+r'iz du der yuldt." Saul Bellow translates this as "Evidently she knew
+who I was. She took a look at me and said 'Look who's here! He's come,
+the drip.'"  This would suggest that the expression "skutsl kumt" is: (1)
+not limited to greeting women; (2) not a reaction of surprise in response
+to a visit; and, (3) not a warm or complimentary greeting.  At least from
+the example in Gimpel the Fool, Keyle Goodman would seem to have it about
+right.  The expression connotes sarcasm, as in "look what the cat dragged
+in."
+
+Leon Kestenbaum
+Potomac, MD
+
+4)----------------------------------------------------
+Date: Sun, 05 Mar 1995 23:54:40 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Skotsl kumt
+
+The expression _skotsl kumt_ had a fairly extensive discussion in the
+(relatively) early days of Mendele.  See 1.48, 1.161 and 1.183-185 (the
+last of these with etymological proposals from _Yidishe shprakh_ and
+_Filologishe shriftn_).
+
+Bob Rothstein
+
+______________________________________________________
+End of Mendele Vol. 4.355
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,151 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.165
+December 26, 1996
+
+1) Slavic influences on Yiddish syntax (Ellen Prince)
+2) Slavic influences on Yiddish syntax (Joachim Neugroschel)
+
+1)----------------------------------------------------
+Date: Wed, 25 Dec 1996 13:13:29 EST
+From: ellen@central.cis.upenn.edu
+Subject: Slavic influences on Yiddish syntax
+
+arnie kuzmack (6.164) asks why the following aren't examples of
+slavic influence on yiddish syntax:
+
+1.  The use of zikh for first and second persons as well as third.
+
+2.  The near disappearance of perfect tenses in Yiddish.
+
+re _zikh_, i would count that as a lexical or morphological influence.
+think of 'syntax' as the constraints on the particular order and
+configuration of *word classes*. the actual words that those word
+classes are realized by would be matters of the *lexicon* or the
+*morphology*, not the syntax.
+
+re the 'near disappearance of perfect tenses', i must be missing
+something as i'm stumped as to why that would be a slavic influence at
+*any* level -- slavic (at least russian) in fact expresses past time by
+a perfect/preterite tense (_on znal/skazal_ 'he knew/said'). what
+exactly did you have in mind? is it perhaps the case that polish or
+ukrainian uses a present perfect to express past time?
+
+what i do believe *is* a slavic influence with respect to tense is the
+change from the germanic 'sequence of tense' system, where the time of
+speaking remains the reference point for all the tenses in the sentence,
+to the slavic type, where the time of each clause becomes the reference
+point for the time of the clauses embedded in it, e.g.
+
+   english/old yiddish: he said he WAS sick (at time of his speaking)
+			he said he HAD BEEN sick (before speaking)
+
+			he said on sunday that he WOULD COME yesterday.
+
+   modern yiddish/slavic: er hot gezogt az er IZ krank (at time of
+				speaking)
+			 er hot gezogt az er IZ GEVEN krank (before
+				speaking)
+
+			 zuntik hot er gezogt az er VET KUMEN nekhtn.
+
+this change i would consider *semantic* -- the *germanic forms* remained
+but lost their *germanic meanings* and came to be associated instead
+with *slavic meanings*.
+
+now, i do believe that there is a slavic-inspired change in *form* of
+the yiddish pluperfect, the one that gives us the invariant _gehat_ in
+what's left of the pluperfect (e.g. _er iz GEHAT avekgegangen_, from an
+earlier _er iz GEVEN avekgegangen_) -- i suspect this was brought about
+by the sharp drop in frequency of pluperfects after the above semantic
+change -- so the kid didn't hear enough pluperfects to figure out the
+'right' analysis. but this, if true, would be a very indirect influence
+and does not result in a slavic *form* in yiddish.
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Wed, 25 Dec 1996 14:04:12 -0500 (EST)
+From: achim1@cris.com
+Subject: Slavic influences on Yiddish syntax
+
+In regard to the question of Slavic influences on Yiddish syntax, Arnie
+Kuzmack (6,164) posits two possibilities:
+
+1.  The extension of the reflexive pronoun "zikh" to all persons
+singular and plural (and, I might add, to both the dative and the
+accusative).
+
+2.  The alleged loss of the German "perfect" tense.
+
+On the basis of linguistic evidence, I would have to disagree with both
+notions.
+
+in regard to the first idea, the extension of "zikh" is an issue in the
+lexicon, not in the syntax, since this replacement of the other set of
+reflexive prounouns (mikh/mir;  dikh/dir, etc.) altered only the word,
+but not the word order.  "Ikh dermon zikh, ikh dermon mikh"--either way,
+the reflexive pronoun is in the same position.
+
+Furthermore, the extension process actually began in German (although
+the Slavic surroundings may have further encouraged it in Yiddish):
+contrary to earlier stages of German, late medieval German began
+exclusively using "sich" in the third person--both singular and plural,
+both dative and accusative (but not genitive).  That is still the
+situation in modern German, which retains the older reflexive pronouns
+in the first and second persons, singular and plural, dative and
+accusative.
+
+As for the Yiddish extension of "zikh" to all persons and cases and to
+both numbers, we'd have to pinpoint whether it already existed in
+Western Yiddish before eastward migration.  If the extension originated
+in Eastern Europe, then, as I have said, the Slavic influence _may_ have
+encouraged a development that actually originated in medieval German.
+
+In regard to the second idea, the alleged "loss of perfect tenses":
+German has no perfect(ive) or imperfect(ive) tenses--nor has it ever had
+any.  The preterite ("Ich ging" = I went) may be misnomered
+"Perfektiv(um)" (a misleading term from Latin and French grammar), but
+its function is both perfect and imperfect--like all other German
+tenses. The preterite pretty much vanished from spoken High German (and
+by then from Yiddish) by the 1450s.  It then re-entered High German when
+Low German speakers took over the High German literary tongue and
+(re)introduced the preterite, as a bookish hypercorrection, into spoken
+German. Today, even highly educated south German speakers (including
+Austrians and Swiss) use only the composed past in their speech ("Ich
+bin gegangen"= I have gone, I went), and sometimes misuse these two past
+tenses in their writings, partly through hypercorrections (check, for
+instance the diaries of Swiss playwright Max Frisch).
+
+Since perfective Slavic tenses have one-word forms (Russian:  "Ya
+napisal" + "I wrote") the Slavic influence might have actually
+_encouraged_ the retention of a "one-word Yiddish tense"--but it didn't.
+
+The issue of "aspects"--i.e. perfective, imperfective--in Yiddish is
+very intricate and may point to a _semantic_ but not a _syntactical_
+source in Slavic.  However, even this development began in German and is
+still prevalent today:  "Ich komme" = "I come";  "Ich komme an" = "I
+arrive".  The Yiddish "aspects", which include many such prefixed verbs,
+can differ from German equivalents--but then they also differ widely
+from Slavic equivalents--which may, however, have given Yiddish speakers
+a different kind of sensitivity to aspects.  Whatever use they may have
+in Yiddish does not quite overlap with their use in medieval German or
+in the Slavic languages.
+
+One final note about the loss of one-word tenses:  Middle High German
+formed a pluperfect by adding the prefix "ge-" to the preterite: "Ich
+sanc" = "I sang"; "ich gesanc" = "I had sung."  This tense did not make
+it into modern German or into Yiddish, although both languages still
+affix a "ge-" to certain past participles.
+
+In my translation of Kafka's _Metamorphosis and Other Stories_
+(Scribner's, also out in paperback), I discuss the problems of
+translating tenses, which are intertwined with syntax in very specific
+narrative modes.
+
+Joachim Neugroschel
+
+______________________________________________________
+End of Mendele Vol. 6.165
+

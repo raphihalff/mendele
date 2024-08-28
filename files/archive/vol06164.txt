@@ -1,0 +1,134 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.164
+December 25, 1996
+
+1) Slavic influences on Yiddish syntax (Arnie Kuzmack)
+2) Slavic influences on Yiddish syntax (Ellen Prince)
+3) Yiddish palindromes (Khane-Faygl Turtletaub)
+4) Yiddish palindromes (Al Grand)
+
+1)----------------------------------------------------
+Date: Tue, 24 Dec 1996 13:57:18 -0500 (EST)
+From: kuzmack@cpcug.org
+Subject: Slavic influences on Yiddish syntax
+
+As another card-carrying non-academic, I am not sure exactly what is
+technically included in syntax, but the original assertion was that
+Slavic languages had given Yiddish vocabulary but had not influenced its
+grammatical structure.  Here are two things that strike me as possbile
+examples to the contrary:
+
+1.  The use of zikh for first and second persons as well as third.
+
+2.  The near disappearance of perfect tenses in Yiddish.
+
+Arnie Kuzmack
+
+2)----------------------------------------------------
+Date: Wed, 25 Dec 1996 01:10:01 EST
+From: ellen@central.cis.upenn.edu
+Subject: Slavic influences on Yiddish syntax
+
+meylekh viswanath (6.160) asks two questions that may be on other
+people's minds as well:
+
+first, the simple one: 'infl' is the node that dominates things like
+tense. short for 'inflection' -- but involving those inflections (and
+not just inflections) that pertain to the finite verb. sorry for not
+explaining it before.
+
+the second one, why do we say that german and dutch and old yiddish are
+'subject-object-verb' but that the verb moves into 2nd position in the
+main clause and NOT that they're 'subject-verb-object' but that the verb
+moves to the end in subordinate clauses?
+
+well, you _could_, but you'd also need a bunch of _other_ rules as well,
+to get everything in the right place:
+
+1. you'd still need a verb-second constraint since the finite verb
+in main clauses has to be in 2nd position, which may or may not be
+after the subject:
+
+[* = impossible, ungrammatical]
+
+ old yiddish: aun di zelbn hiidsn kliidr tet er an
+	      and the same heathen clothing put he on
+	     *aun di zelbn hiidsn kliidr er tet an
+	      'and the same heathen clothing he put on'
+	      [bovo 263]
+
+ german: auf diesem gebiet habe ich keine erfahrung
+         *auf diesem gebiet ich habe keine erfahrung
+	 'in this field i have no experience'
+
+2. consider main clauses with compound tenses or complex verbs --
+it's only the finite part that is in 2nd position -- the rest of
+the 'verb stuff' is at the end, following the objects, etc:
+
+ old yiddish: der duzig HUT dir laiidr diin brudr tsu tut GISLAGN
+              the hat HAS you-dative alas your brother to death HIT
+	      'that one alas killed your brother'
+	      [bovo 238]
+
+	  [see 1st example above for clause-final separable prefix:
+	    ...TET...AN 'put on']
+
+ german: viele deutsche revolutionaere SIND in den jahren 1848 und 1849
+	 nach amerika GEKOMMEN.
+	 'many german revolutionaries came to america in the years
+	 1848 and 1849'
+
+	 wir ZIEHEN diese methode der alten VOR
+	 'we prefer these methods to the old ones' [vorziehen 'prefer']
+
+(sorry for the ponderous examples! i don't know either of these
+languages and so can't make up nice simple ones but have to take
+what i find.)
+
+anyway, it's an 'occam's razor' thing -- if you say it's subject-obj-
+verb plus the verb-2nd constraint, you account for ALL the facts; if
+you say it's subj-verb-obj, you still need the verb-2nd constraint,
+_plus_ you need to stipulate a _lot_ of other rules to get it right. by
+the way, the first person that noticed this, at least in modern terms,
+was a guy jan koster working on dutch, barely 25 years ago. i guess it
+takes a few centuries for some finding, however elegant it may be, to
+make it into the language-instruction textbooks. ;)
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Tue, 24 Dec 1996 22:02:32 +0100
+From: doctorkf@gte.net
+Subject: Yiddish palindromes
+
+Far "palindrome" volt ikh forgeleygt "hin un krik vort" farshteyt zikh
+far a vort vi "bob" (beans), un "hin un krik zats" far a zats vos m'ken
+im leynen di zelbe "hin un krik," l'moshl "bobe ze bob."
+
+Khane-Faygl Turtletaub
+
+4)----------------------------------------------------
+Date: Wed, 25 Dec 1996 07:44:09 -0500
+From: savoyid@aol.com
+Subject: Yiddish palindromes
+
+In regard to my recent request for Yiddish palindromes, it occurs to me
+that I didn't indicate whether I was thinking of transliterated
+palindromes or oysyes.  The answer, of course, is that I'm interested in
+both.  But since we have not yet entered the new era wherein oysyes can
+be transmitted electronically, I'd be grateful to have palindromes in
+oysyes sent to my postal address: Al Grand 933 Lawrence Court North
+Bellmore, NY 11710
+
+And speaking of "new eras" here is a gem of a palindrome that addresses
+itself to that topic and which verges on the inspirational:
+
+"Are we not drawn onwards, we Jews, drawn onward to new era?"
+
+Al Grand
+
+______________________________________________________
+End of Mendele Vol. 6.164
+

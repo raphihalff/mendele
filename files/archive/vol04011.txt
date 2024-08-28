@@ -1,0 +1,115 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.011
+May 29, 1994
+
+1) Hebrew contraints in yiddish (Ellen Prince)
+2) Paplyonik (Dovid Braun)
+3) Hebrew words in Yiddish: Dictionary (Shleyme Axelrod)
+4) Olevasholem (Dovid Braun)
+5) Zishe (Sheldon Benjamin)
+
+1)----------------------------------------------------
+Date: Fri May 27 12:30:56 1994
+From: ellen@central.cis.upenn.edu
+Subject: hebrew contraints in yiddish
+
+hi, mikhl. i'm sure many will think i'm nit-picking, but, for the record,
+the cases you mention are instances of *lexical* influences from hebrew
+in yiddish (and would no doubt be handled as borrowings, not active
+productive constraints), not *grammatical*, where grammatical =
+syntactic. so far as i know, there are no grammatical/syntactic
+constraints in yiddish. i'm making this point only because the blurring
+of these distinctions is what has given rise to certain claims about the
+'real nature' of both yiddish and (modern) hebrew that we all know about.
+
+off to israel in a few hours--see you next week.
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Fri May 27 12:45:45 1994
+From: dovid@MIT.EDU
+Subject: paplyonik
+
+I know of _paplyonik_ from a Yiddish speaker from Suchowola, between
+Grodno and Bialystok -- a baked good, about which I don't have details at
+hand.  If I'm not mistaken, my informant referred to it in the diminutive
+only, _paplyonikl_.  Note the /l/ is the "light" l, therefore I put a "y"
+after the "l".
+
+Dovid Braun
+
+3)----------------------------------------------------
+Date: Fri May 27 12:45:56 1994
+From: PTYAXEL@ubvms.cc.buffalo.edu
+Subject: Hebrew words in Yiddish:  Dictionary
+
+Avrom-Yiyzkhok Blair asks about a source for Hebrew(-Aramaic) words in
+Yiddish.  MENDELEnik Steve Jacobson has just published a nifty "Guide to
+the more common Hebraic words in Yiddish".  It contains most of the words
+I've tested it with, though Steve of course acknowledges that it's not
+exhaustive, with 1500 entries.  You can enter it either with the
+traditional spelling or with the phonetic respelling.  $10 postpaid from
+him at PO Box 82849, Fairbanks, Alaska 99708.  [Steve's area of
+professional expertise is Eskimo languages].
+
+Shleyme Axelrod
+
+4)----------------------------------------------------
+Date: Fri May 27 12:51:58 1994
+From: dovid@MIT.EDU
+Subject: olevasholem
+
+I concur with Mikhl Herzog that the distinction between the male and
+female forms is lax, if it all available, for EEur born speakers.  My
+grandmother, well-versed in Hebrew, would sometimes correct herself
+(especially when I'd raise an eyebrow), but usually made no distinction
+between der tate olevasholem and di mame olevasholem.  When the feminine
+form _was_ used, it was [ole'yasho'lem].  The form /olevasholem/ was
+pronounced as written or, just as commonly, [alvisho'lem], so we have
+some vowel deletion and akanje going on.
+
+Dovid Braun
+
+5)----------------------------------------------------
+Date: Sat May 28 19:25:05 1994
+From: sbenj@MIT.EDU
+Subject: Zishe
+
+Jeremy Stern asked about the origin of Zishe.  This was my great
+grandfather's name.  I had always thought it related to zis but finally
+found that it probably came from Zeus.  In Russian he was actually called
+Zusya.  I haven't caught up on all of last week's Mendele postings yet.
+Perhaps there are other explanations? Our family used to believe it had
+something to do with sweetness because of the similarity to zis.  I like
+the Zeus explanation myself.
+
+Sheldon Benjamin
+
+______________________________________________________
+End of Mendele Vol. 4.011
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

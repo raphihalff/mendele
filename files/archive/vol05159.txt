@@ -1,0 +1,155 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.159
+November 1, 1995
+
+1) Hob un bin (Khayem Bochner)
+2) Dialects and standards (Khayem Bochner)
+3) Neshome keyn rozhinke (Rick Turkel)
+4) Khushim ben Dan (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Tue, 31 Oct 95 11:43:37 -0500
+From: bochner@das.harvard.edu
+Subject: Hob un bin
+
+Dan Slobin mentions some of the complexities of "haben" vs "sein" in
+German (and the Dutch equivalents), and asks how Yiddish compares in this
+regard.
+
+To the best of my knowledge, Yiddish has nothing like this at all. "Zey
+zenen getantst" sounds completely unfamiliar, and wrong, regardless of
+the intended meaning.
+
+I've checked the grammatical literature I have at hand: Zaretski(29),
+Mark(78) as well as Weinreich(68). Just about the only case they mention
+where the choice of auxiliary depends on meaning is the distinction
+between transitive and intransitive "hengen": "Dos bild iz gehangen oyf
+der vant." vs "Ikh hob gehangen dos bild oyf der vant." (And Mark points
+out that even this distinction is systematically observed.)
+
+None of them mention distinctions like those in German, even though I
+think it's safe to assume that Weinreich (and probably Zaretski & Mark as
+well) knew about those distinctions (in German).  So I think there's an
+argument 'ex silentio' that those distinctions don't exist in Yiddish;
+still, it would be nice to find some explicit discussion.
+
+As I understand it, in Yiddish the choice of auxiliary is simply a
+lexical property of a verb; the generalizations about semantics are of
+diachronic rather than synchronic significance. Zaretski puts it well:
+"Shafn spetsiele klolim vegn dem, velkhe verbn bildn di fargangenhayt mit
+'bin' ('verbn, vos bataytn bevegung', un dos glaykhe), iz tsulib dray
+tsendlik verbn nisht keday. Eynfakher iz poshet oyslernen zey." ("It
+isn't worthwhile to create special rules concerning which verbs form the
+past with 'bin' ('verbs that signify motion', etc) for the sake of thirty
+some verbs. It's simpler just to learn them.")
+
+Of course, there's no telling what might show up in the dialects. But on
+a subtle matter like this, I'd be inclined to be suspicious of the
+intuitions of anyone who's studied German ;-)
+
+Khayem Bochner
+
+2)----------------------------------------------------
+Date: Tue, 31 Oct 95 12:03:40 -0500
+From: bochner@das.harvard.edu
+Subject: Dialects and standards
+
+Two quick notes:
+
+Eliyahu Juni apparently interpreted my ending a previous note with "genug
+shoyn" as an attempt to close the discussion. My apologies to him, and to
+anyone else who understood it that way. I meant that _I_ was running on
+too long ;-)
+
+Secondly, we now have several reports of dialect intolerance from
+'yiddishists', I can't argue. Alas, I should have known. A little
+knowledge is a dangerous thing.
+
+More later, if I find the time.
+
+Khayem Bochner
+
+3)----------------------------------------------------
+Date: Tue, 31 Oct 95 15:45:00 EST
+From: rturkel@cas.org
+Subject: Neshome keyn rozhinke
+
+Daniel Soyer asked (5.158) about the above expression.
+
+My late wife's uncle uses this expression (in the form, "Un mayn neshome
+iz dokh a rozhinke?") in mock response to a perceived insult, in much the
+same way as one might say in English, "What am I, chopped liver?"  In
+other words, "Don't I count, too?"
+
+Rick Turkel
+
+4)----------------------------------------------------
+Date: Wed, 1 Nov 95
+From: nmiller@shakti.trincoll.edu
+Subject: Khushim ben Dan
+
+There's a scene in Dovid Pinski's play _Der Oytser_ in which the
+old man is playing doggo with various khevrelayt who, thinking that
+he's rich, have come for a handout (as well as drinks on the house).
+Getting no reply the biker-khoylimnik calls out: "nu, vos ligt ir azoy,
+alter khushim ben dan...?"  (Khushim is spelled khes-vov-shin-yod-mem.)
+
+I'd never heard that expression.  Harkavy (1928) and Weinreich give
+idiot, imbecile, fool.  But surely a shnorer wouldn't call his mark an
+idiot until he was sure that it was no go?  Besides, the "ben Dan"
+suggests a reference to an actual person.
+
+And such a person (khes-vov-shin-yod-mem) is indeed listed in Tanakh, in
+Divrey 1 8.8.  The only problem is that this Khushim is a woman.  Another
+Khushim (khes-shin-yod-mem; note the spelling) who is the son of Dan
+does appear in Bereshis 46.23.  But since nothing whatsoever is given
+other than the name, the question is why his name is invoked in Pinski.
+
+Rashi has nothing relevant to say (a novene) but in the Talmud we at last
+hit pay dirt.  Tractate Sota tells us (13 a) that Khushim (spelled _with_
+a vov as in Pinski) was hard of hearing!  Was that what the khevreman
+meant?
+
+Although Harkavy and Weinreich are silent, Nahum Stutchkoff (may his
+memory be blessed) is there with the goods.  According to him khushim
+means someone who's deaf.
+
+End of the quest?  Yogt nisht!  Heybt zikh ersht on di mayse.
+
+One question is how Khushim got to be deaf in the first place.  Since I'm
+already in over my head, I may as well go one step further and suggest
+a connection with the Hebrew "hushim", as in the five senses. (Stutchkoff
+by the way also lists "toyber khush".)  Since we're not primarily
+concerned with talmudic language that's of course neither here nor there.
+Except that "hushim" has the same root as the Hebrew "husham" which means
+dolt and simpleton.  Which leads to my _very_ hesitant conclusion that
+poor Khushim ben Dan has in the first place had his name manhandled and
+misspelled by the sages (no offense to their memories intended) and later
+had his name conflated with a word meaning fool.
+
+My second question asks: how many in Pinski's audience _understood_ the
+reference?  I assume more then than now, a safe guess.  But how many?  No
+theater-going _Yiddish theater_ audience in Poland and especially the
+United States (where the play was written in 1906) was likely to be
+packed with people who had ever studied Talmud at all, let alone who knew
+its (very) minor characters.  The word is listed in Harkavy (1898) only
+as the plural of "khush", sense, which suggests that the word was not
+exactly a well-known synonym for deafness.
+
+Is this then a case of Pinski flattering the pit, much as Shakespeare
+did, with allusions to things about which they knew nothing -- but
+understood the thrust just the same?  My question goes to what I consider
+to be a nostalgic (and probably false) construction of shtetl reality
+wherein everybody was steeped in learning.  I don't believe it, especially
+not of _theater_ audiences.  So the "flow" of language becomes an
+interesting subject.
+
+Now it's up to the people who know something to comment.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 5.159
+

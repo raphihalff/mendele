@@ -1,0 +1,210 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.041
+June 26, 1994
+
+1) Introduction (Peter Kluehs)
+2) Festival of Yiddish Music and Theater (Henry Mullish)
+3) Name origins (Leah Zazulyer)
+4) Re: Centre for yiddish and technologic newware (Howard Gershen)
+5) Re: Centre for yiddish and technologic newware (Daniel-Moishe Sherman)
+6) Re: Yiddish, German dialects (Yude Rozof)
+
+1)----------------------------------------------------
+Date: Sat Jun 25 14:01:29 1994
+From: pete@pko.rhein-main.de
+Subject: Introduction
+
+My name is Peter Kluehs and I live with my wife Lore (Tajbele) in
+Wehrheim, a small town in the Taunus mountains near Frankfurt am Main. I
+was accepted today to your list and I look forward to many interesting
+contacts. I am 62 and as far as I know I have no jewish ancestors.
+However, a grand-grand-grandfather of mine was called Nuernberger!?!?
+Anyway, one of my many hobbies is studying languages. When I got hold of
+Salcia Landmann's book JIDDISH, I wanted to learn as much as possible
+about this language. There is practically no literature in Jiddish
+available here, but I am listening every day to the Jiddish edizie of kol
+israel from Jerusalem on short wave.
+
+I started only a month ago on the Internet and I still have much to learn
+about the intricacies of the net. So please have patience with me.
+
+Schalom mit aich
+
+Peter Kluehs
+
+2)----------------------------------------------------
+Date: Sat Jun 25 21:20:46 1994
+From: MULLISH@ACFcluster.NYU.EDU
+Subject: Festival of Yiddish Music and Theater
+
+This is to inform all those who might be interested that the annual
+Yiddish Culture Festival will be held this year on Wednesday, July 6th,
+at 6pm at the Damrosch Park, which is located at Lincoln Center. The
+concert is sponsored by the Culture and Education Department of the
+Workmen's Circle and admission is free. If the concert is only half as
+good as the one they gave last year, you are in for a very special treat.
+
+Unfortunately, I shall not be able to attend this year. I shall be in
+Israel where I fully intend to attend the Yiddish concert on July 31st,
+as described by Leybl Botwinick's recent posting to this list.
+Incidentally, the Damrosch Park concert has a rain-date of July 27th.
+
+Enjoy,
+
+Henry Mullish
+
+3)----------------------------------------------------
+Date: Sun Jun 26 10:46:50 1994
+From: WATSON@UNO.CC.GENESEO.EDU
+Subject: Name origins
+
+A friend whose last name is Scott, has recently discovered the Yiddish
+name was Zgutt.  (Zgoot?, Sgoot?)  Other than the obvious contractions
+possible, does anyone have any light to shed on this name.  I don't know
+her region of origin.
+
+While I'm at it, interested in any feed back ( other than very helpful
+comments originally received from M. Herzog a while ago) on my family
+name: " Zazulyer." " Zazulya" is old fashioned word for cuckoo in Polish,
+Ukranian, Latvian.  Family legend has it that an ancestor/woodsman could
+imitate the bird in the forest preserve near Brest.  (vicinity
+Shershev/Pruzany).  I also understand that the old French verb for
+twittering like a bird is something like " gazoolier". This is another
+saga of an original name grossly distorted by emigration
+authorities...and rediscovered and used now by me.
+
+Thanks,
+
+Leah Zazulyer
+
+4)----------------------------------------------------
+Date: Fri Jun 24 13:03:43 1994
+From: howard@boxhill.com
+Subject: Re: A proposal
+
+Four questions about the proposal for the "Centre for YIDDISH and
+Technologic Newware":
+
+1. Who are the "many individuals and institutions around the world" who
+   have been sent your missive, and have any of them agreed to be on a
+   Board of Directors?
+
+2. What is your proposed operating budget?
+
+3. Have you obtained tax-exempt status?
+
+4. Have you contacted the ISO committee(s) concerned with
+   "internationalization" of software to put in your 2 shekels and make
+   sure that Yiddish characters are included in the list of alphabets to
+   form the basis of the new standard character coding that will replace
+   ASCII? Because before you can even think about efficient storage of
+   Yiddish media (especially print media) on electronic storage devices,
+   you'll need an internationally-accepted "mapping" of characters to
+   their representations in zeros and ones. The alternative is
+   transliteration or very-large scanned images of text, and the former
+   will defeat your purpose while the latter will defeat your budget.
+
+Howard Gershen
+
+5)----------------------------------------------------
+Date: Sun Jun 26 15:33:02 1994
+From: dave@cai.lsuc.on.ca
+Subject: Re: CENTRE FOR YIDDISH AND TECHNOLOGIC NEWWARE
+
+Where are you proposing that this Centre be located?
+
+David Sherman
+
+6)----------------------------------------------------
+Date: Sun Jun 26 17:36:17 1994
+From: jrosof@sas.upenn.edu
+Subject: Re: Yiddish, German dialects
+
+Letsns hot men geton iberredn di teme, velkhe enlekhkeytn farmogt yidish
+beshutfes mit di daytshe dialektn.  Dos bayerishe daytsh hot spetsiel
+getsoygn di interes fun di Mendelnikes.  Di onteylnemers hobn bamerkt dem
+"a" shtots "ein" vos hersht in Bayern un andere tshikavesn funem land fun
+Schloss Neuschwanstein un di Lipizaner Ferdn.  Eyn zeyer vikhtike
+enlekhkeyt hob ikh ober nisht bamerkt in di "shpaltn" fun Mendele, khotsh
+se ken zayn az ikh hob zi poshet nisht geleyent.
+
+Mit a por yorn karik hob ikh geshribn a kleyne zman-arbet vegn farsheyden
+daytshe dialektn.  Der dialekt fun Bayern un Estraykh hot gehat eyn
+spetsyel oysergeveyntlekher kharekteristik: shtots tsu nitsn "Sie, Ihr=
+Ir, ayer" vi di andere daytshn hobn di bayern genitst an eygener vort.
+Vos genoy yene verter zenen geven gedenk ikh nisht akurat, ober zey
+klingn 95% vi di yidishe verter "Ets, enker."
+
+Yene yidishe verter hot men genitst in Tsentral Yidish biz gor shpet,
+khotsh zey zenen untergegan mitn Ufkum fun der klal-shprakh.  Say vi say,
+se lozt zikh hern di etsn un enkers adayem tsvishn farsheydene khsidishe
+yidn.  Me treft zey oykhet amol in di poezye.  Se'dukht zikh ikh hob zey
+tsum ershtn mol bagegnt inem Musterverk, Mesholim ba Yidn, efsher in a
+lid fun Manger.  Ikh hob oykhet epes a gedekhenish az ikh hob geleyent
+ikh veys nisht vu az ets, enk, zaats gezint, vekhadoyme geyt tsurik tsun
+an alte indogermanisher dopelform.  Khotsh yener form iz haynt nelm
+gevorn zenen mir geblibn mit ets un enk.
+
+S'iz oykhet tshikave tsu bamerkn az in Goethe's Faust gefint men Ihr/Euer
+=yid.Ir/ayer, khotsh inem hayntikn daytsh dos kert zayn Sie/Ihr. Heyst es
+az yidish iz tsvey mol geblibn konservativer fun daysh, ershtns mit ets
+un tsveytns mit ir. Fregt zikh a frage.  Yidish zol hobn, lefi di
+lingvistishe mekoyrim genumen zayn form in Raynland oder "Loter." Veysn
+veysn mir ale az yidish iz a tsunoyfshmelts fun tsendlike dialektn mit a
+tepl eygnartikeyt dertsu.  Deriber se zol nisht zayn a surpriz vos yidish
+farmogt azoy fil verter un aspektn fun bayrish.   Mir vilt zikh ober visn
+velkhe spetsyel Raynlandishe aspektn gefinen zikh inem hayntikn yidish.
+Oyb mir kenen azoyne aspektn nisht gefinen, iz efsher zol men gor nemen
+trakhtn vegn di miglekhkeyt az der tsenter fun geboyrn vern fun der
+yidisher shprakh ligt vayter af dorem fun Loter.
+
+Nokh a kashe, efsher veyst Mikhl Herzog tsi ets oder enk hot men amol
+gekent hern in der Lite? Oyb azoy tsi veyst emetser farvos zey zenen
+dortn aropgegan?
+
+Itst a bamerkung vegn Daytshn un Yidish.  Azoy vi ikh red beyde shprakhn
+un bin amol geven a khoydesh in Daytshland mit etlekhe yorn tsurik, hob
+ikh oykh geredt mit Daytshn a bisl vegn yidish.  Mir hot zikh gefilt az
+di Daytshn viln nisht hern vegn yidish bederekh klal. Oder iz yidish
+komish, oder iz es an anderer meshugener dialekt.  A sakh mol iz men
+oykhet nisht zikher mit vos yidish teylt zikh fun ivritish. Mir dakht
+zikh az di hoypt sibes farvos daytshn hobn nisht lib tsu redn vegn yidish
+zenen tsvey: 1) Yidish klingt dialektish.  Zoln men redn vi a mentsh: rak
+un bloyz Hochdeutsh. 2) s'iz nokh tsu paynlekh tsu shmuesn vegn yidish.
+Bloyz mit fuftsik yor tsurik iz geven der Khurbn.  Der shmarts iz nokh
+frish.  Di Daytshn viln gikher redn vegn dem "Wirtschaftswunder".  Afile
+"Rechtsradikalismus" oder "Asylbewerber" zenen laykhtere inyonim tsum
+iberredn.  Yidish iz tsu perzenlekh, tsu noent tsu daytshish un nokh
+fremd.  S'iz nisht "gemuetlich."
+
+Zaats mir ile gezint
+
+Yude Rozof
+
+______________________________________________________
+End of Mendele Vol. 4.041
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

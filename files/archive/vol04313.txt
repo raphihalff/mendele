@@ -1,0 +1,180 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.313
+February 5, 1995
+
+1) Hebrew Gender/Yiddish Gender (Paul Pascal)
+2) The report too late (Shulamith Berger)
+3) Mentsh (Martin Davis)
+4) Syntax question (wh-infinitives) (Rick Turkel)
+5) Mendele who-is-who (Anno Siegel)
+6) A tchaynik hakn (Jack Feldman)
+
+1)----------------------------------------------------
+Date: 31 Jan 95 18:25:49 EST
+From: 75332.2735@compuserve.com
+Subject: Hebrew Gender/Yiddish Gender
+
+Further to the thread on the gender of 'emes', here are a couple more that have
+puzzled me:
+
+Hebrew plural / Yiddish plural
+shabatot      /  shabosim
+talitot       /  taleysim
+
+Tangentially, why is it that the plural of 'doktor' should be 'doktoyrim'?  Is
+it because the word connotes a higher education, as knowledge of Hebrew does?  I
+can't think of a less convoluted explanation.
+
+Paul Pascal 
+Toronto
+
+2)----------------------------------------------------
+Date: Thu, 2 Feb 1995 09:34:24 -0500 (EST)
+From: sberger@yu1.yu.edu
+Subject: The retort too late
+
+More, although certainly not the final word, on "the retort too late."
+In Saul Bellow's novel Herzog, the main character states: ". . . in the
+Yiddish of his long-dead mother, trepverter - words that came too late,
+when you were already on your way down the stairs."
+
+Shulamith Berger
+
+3)----------------------------------------------------
+Date: Thu, 2 Feb 95 21:12:22 EST
+From: davism@turing.cs.nyu.edu
+Subject: Mentsh
+
+Louis Fridhandler writes concerning the word "mentsh":
+
+> (Only Yiddish has such a word.)
+
+The word "Mentsch" in German has much the same meaning. When a priest in
+Mozart's "Magic Flute" says of Tamino: "Er ist ein Prinz," Zarastro
+replies: "Mehr, er ist ein Mensch."
+
+Martin Davis
+
+4)----------------------------------------------------
+Date: Thu, 2 Feb 95 23:47:24 EST
+From: rturkel@cas.org
+Subject: Syntax question (wh-infinitives)
+
+Rex Sprouse (rsprouse@indiana.edu) asks (Vol 4.293, item 2) about the
+permissibility in Yiddish of constructions like:
+
+	Ikh veys nit, vemen tsu fregn
+	Derklert mir, vi tsu shpiln in dreydl
+	Ikh freg zikh, vos tsu leyenen
+
+This sounds fine to me, but I'm not a native speaker.  However, if song
+lyrics can be considered valid evidence of native-speaker intuition, I'd
+like to submit as an example the line from "Tumbalalaika" that reads:
+
+	... vemen tsu nemen, im nit farshemen.
+
+Rick Turkel
+
+5)----------------------------------------------------
+Date: Fri, 3 Feb 95 11:51:17 +0100
+From: anno4000@w172zrz.zrz.tu-berlin.de
+Subject: Mendele who-is-who
+
+Dear Mendelniks,
+
+the who-is-who for Mendele, which has been available per ftp for a while,
+can now also be accessed via email.  This way you don't have to fiddle
+with ftp.  Also, you can selectively retrieve introductions from people
+you are interested in whithout having to download the whole file.
+Details on how to do this are included below.
+
+I apologize for another entirely technical posting.
+
+Anno Siegel
+Berlin, Germany
+
+----------------------------------------------
+Shtadlen is a service for mendele subscribers.  To use it, you send
+email to shtadlen@w172zrz.zrz.TU-Berlin.DE.  A reply is automatically
+mailed back to you.
+
+There are currently two items you can request:
+
+- This help file (which may change over time)
+- Access to the Mendele who-is-who database
+
+You specify the service you want in the subject of your mail by saying
+either of
+
+request help
+request who-is-who
+
+If the subject doesn't begin with "request" (or "Re: request") your mail
+will be ignored.
+
+If you request help, a message body is not required, but doesn't hurt.
+However, it will probably never be seen by a human reader, since
+shtadlen handles mail automatically.
+
+If you request who-is-who, the message body may or may not be left blank.
+If it is empty, you will be sent a list of all the names for which an
+introductory article currently is available (a table of contents).
+Otherwise, each line should contain the full name of a Mendele subscriber.
+You will then receive the introductions (if available) for each of these.
+A name may optionally be preceded by a number and a closing paranthesis,
+which will be ignored.  The names you get with the table of contens come
+in this format, and you can use them the way they come.
+
+Questions, suggestions etc. concerning this service should not be
+sent to shtadlen, but to siegel@zrz.TU-Berlin.DE instead.  Suggestions
+on how to make this help file clearer and more readable are especially
+welcome.
+
+6)----------------------------------------------------
+Date: Sat, 4 Feb 1995 11:42:37 -0800
+From: feldman@math.berkeley.edu
+Subject: A tchaynik hakn
+
+Dana Keren has been kind enough to provide a question which even I can
+answer: "hak mir nisht ka (= kayn) tchaynik means - literallly - bang me
+no teakettle, aand is a  way of telling someone to stop talking at me or
+nagging me about something. "vos hakstu mir a tchaynik?"
+
+Jack Feldman
+
+______________________________________________________
+End of Mendele Vol. 4.313
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

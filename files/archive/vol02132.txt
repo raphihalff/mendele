@@ -1,0 +1,208 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 132
+January 5, 1993
+ 
+1) Reflexives (Yankel Lantz)
+2) Reflexives (Yankl Matisoff)
+3) Reflexives/Yiddish goats/Ukrainian goats (Bob Rothstein)
+4) Reflexives (Moshe Taube)
+5) Annual State of the List message (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: 31 Dec 1992 23:15:34 -0500 (EST)
+From: STU_RWLANTZ%JMUVAX.bitnet@YaleVM.YCC.Yale.Edu
+Subject: reflexives
+
+Many thanks for your responses concerning my question
+involving "Dem Milners Trern."  I was, indeed, guilty of a
+misunderstanding of the lyrics when I heard "Juden" instead
+of "Yurn." I have a real problem with lyrics in any
+language.
+
+At any rate, the question of reflexives becomes even more
+interesting.  Of such things are dissertations born, I
+suppose.
+
+Yankel
+
+2)----------------------------------------------------
+Date: Sat, 2 Jan 93 17:06:46 -0800
+From: matisoff@garnet.berkeley.edu
+Subject: Reyzele dreyt zikh
+
+Khaver Khaim Bochner, in connection with a discussion on
+reflexives, quotes a line from the song Reyzele as "Gey
+zikh nokh a por mol iber" --but the way I remember it
+fromthe record is "DREY zikh nor (nokh?) a por mol iber,
+bald vel ikh zayn fray..."
+
+Yankl Matisoff
+
+3)----------------------------------------------------
+Date: 03 Jan 1993 21:16:20 -0500 (EST)
+From: rar@titan.ucc.umass.edu
+Subject:Reflexives/Yiddish goats/Ukrainian goats
+
+    The examples discussed by Messrs. Lantz, Finkel,
+Axelrod and Bochner (Mendele 130-31) warm the heart of a
+Slavist since the Yiddish _zikh_, like the corresponding
+element in the Slavic languages, has a multitude of
+functions, only one of which is the etymological, reflexive
+(object = subject) one (hence the quotation marks in my
+title).
+
+    1) In "di reder dreyen zikh" the otherwise transitive
+_dreyen_ is made intransitive and a possible object
+("someone or something turns the wheels") becomes the
+subject.
+
+    2) In "di yorn geyen zikh" the "reflexive" element is
+really dative and the line is parallel to a different line
+from "Reyzele" than the one quoted by Khaim Bochner,
+namely, "gey ikh mir a freylikher."  In both examples the
+dative (like Polish _sobie_ or Russian _sebe_) adds the
+meaning of casualness, of doing something for oneself
+without any attention or interest in what is going on
+around one.  In a song by the Russian bard Bulat Okudzhava
+a solider says, "Idu sebe, igraiu avtomatom"--"I just walk
+along playing with my machine gun."
+
+    3) When Reyzele tells Dovidl "Gey zikh nokh a por mol
+iber," she's using a "reflexive" verb _zikh ibergeyn_ 'take
+a stroll', which is not in Weinreich or Harkavy, but is in
+the _Groyser ver- terbukh_, and which is probably a calque
+from Polish _przejsc sie_ [diacritics missing] or Russian
+_proitis'_.
+
+    4) "Se davnt zikh nit" is also a Slavic-like
+construction.  I would expect that you could add a dative,
+e.g., "Mir davnt zikh nit."  Here the "reflexive" element
+serves to present the action as happening (or rather not
+happening) independently of the subject, which can only be
+expressed as someone experiencing (but not causing) the
+action:  it's not that I'm intentionally not praying, but
+that the not-praying is happening to me.
+
+    5) One of the classic examples of Slavic influence on
+Yiddish is the replacement of separate reflexive pronouns
+for first, second and third person (as in Germanic and
+Romance) by a single reflexive pronoun:  cf. French je me
+lave, tu te laves, il/elle se lave; German ich wasche mich,
+du waschest dich, er/sie wascht sich vs. Yiddish ikh vash
+zikh, du vashst zikh, er/zi vasht zikh like Polish myje
+sie, myjesz sie, myje sie. The original text of Zalman
+Shneour's "Margaritkelekh" (1909) shows the older Yiddish
+construction in the verse where the boy asks the girl if
+she's bashful/embarrassed: --Du libst mikh?  --Ikh lib
+dikh! --Du shemst DIKH? --Ikh shem MIKH! --O lib mikh un
+shem DIKH un shvayg... Most modern editions have --Du
+shemst ZIKH?  --Ikh shem ZIKH! --O lib mikh un shem ZIKH un
+shvayg... [emphasis added].
+
+
+[More about Yiddish goats]
+
+    In Mendele 110 Seymour Axelrod asked about Bernstein
+#362: "Oyf a yungn boym shpringen ale tsign" and Yitzhak
+Kertesz later suggested that the proverb may really be
+about "gentlemen, who also prefer to jump on the 'yunge
+boymelakh.'"  He may well be right, but since proverbs
+rarely have only one reading, let me propose another, based
+on international parallels.   Polish has a proverb
+(attested as early as 1527) that states that even goats
+climb or jump onto a tree that is leaning:  "Na pochyle
+drzewo kozy laza" (or:  "Na pochyle drzewo i kozy skacza").
+There are also parallels in Russian and Ukrainian.  The
+1527 attestation is from a collection of Polish proverbs
+with Latin parallels, and the Latin version for this one
+is:  "Arbore dejecta quis ligna non colligit." (With my
+minimal Latin I make of this:  "Who does not collect the
+wood of a fallen tree?").  The Oxford Dictionary of English
+Proverbs cites (2nd ed., p. 837):  "When the tree is
+fallen, every one runs to it with his axe (hatchet)," with
+parallels from classical Greek (Menander) and a variant of
+the Latin proverb just cited.  In the Kosciuszko Foundation
+Polish- English dictionary the Polish proverb cited above
+is translated 'people will walk all over you if you let
+them.'
+
+    Of course leaning trees are not young trees, but the
+Ukrainian variants do include versions with low, crooked
+and small trees as well as leaning ones.  Now what we
+really need is to find someone who actually uses the
+proverb or remembers hearing it used.
+
+
+[More about Ukrainian goats]
+
+    Reb Noyekh and Elliot Gertel (120-21) recall a
+mixed-language story about a Jew and a goat:
+
+      Panyuh maruhvoy, duh mansuh iz uhzoy:
+      Yah mahyu shookhn Heyrsh Beyruhluh
+      Tu vihn mayoot para izim.
+      Tu shtikhum krikhum nah mayu dakh.
+      Yah yeymu skazaluhm tu vihn shelakh.
+
+I was stumped by the _maruhvoy_, but finally realized that
+this is the Russian _mirovoi_ 'justice of the peace'.  So
+the Slavic component of the text is a somewhat less than
+grammatical mixture of (mostly) Ukrainian, Russian and
+Polish:  _panie mirovoi_ 'Mr. Judge', _ia maiu_ 'I have',
+_ta vin maie_ 'and he has', _na moiu dakh_ 'onto my roof'
+[incorrect feminine accusative _moiu_ for masculine _mii_],
+_ia iemu skazal ta vin_ 'I told him and he' [with what
+seems to be the Polish 1st person singular ending (_-em_)
+on the past tense form of the Russian verb _skazal_
+'said'].
+
+        Bob Rothstein
+
+4)----------------------------------------------------
+Date: Mon, 04 Jan 93 14:04:18 EST
+From: Moshe Taube <MAXUS%HARVARDA.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: Reflexives
+
+1. You misheard some of the words. It is "di yurn geyen
+zich" `the years go by' 2. The zich is not exactly
+`themselves'. It is the Dative reflexive, sometimes called
+`ethic dative' or `sympathetic dative', of the kind you
+find in : gey ich mir shpatsirn.
+
+Moshe Taube
+
+5)----------------------------------------------------
+Date: Wed, 30 Dec 92 16:24:23 EST
+From: nmiller@starbase.trincoll.edu
+Subject: State of the List
+
+A gut yor aykh alle, tayere mitarbeter un leyzer!
+
+Ikh gib do iber dem letstn khezhbn fun unzer reshime.
+
+
+            Medine             Abonantn
+            -------            -----------
+            Australie              1
+            Belgie                 3
+            Brazil                 1
+            Canada                13
+            Daytshland             4
+            Fareynikte Shtatn    175
+            Groys Britanie         4
+            Israel                16
+            Nederland              2
+            Poyln                  2
+
+                   Sakh-akl      221
+
+Nishkoshe.  Alevay voltn geveyn mer.  Ober der _iker_
+iz: men darf _shraybn_, nisht nur leyzn.  Vos zogt ir?
+
+Noyekh
+
+______________________________________________________
+End of Mendele Vol 2.132
+

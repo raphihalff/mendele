@@ -1,0 +1,154 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.347
+March 2, 1995
+
+1) Virtual shtetl on World Wide Web (Iosif Vaisman)
+2) Typefaces and databases (Andrew Cassel)
+3) Fossil words (Rick Gildemeister)
+4) Geography and pronunciation (Rick Gildemeister)
+5) Etymology (Henny Lewin)
+
+1)----------------------------------------------------
+Date: Tue, 28 Feb 1995 02:35:12 -0500 (EST)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Virtual shtetl on World Wide Web
+
+When Reb Menachem-Mendl left his native Kasrilevke and went to Yekhupets
+and other big cities, he had to write his dearly loved wife
+Sheine-Sheindl long letters on paper because there was no e-mail. Of
+course, now there is e-mail, but there is no Kasrilevke, and even
+Yekhupets, I must tell you, has changed significantly.
+
+As a remedy against historical injustice, I am announcing a Virtual
+Shtetl: Yiddish Language and Culture Home Page on World Wide Web (URL:
+http://sunsite.unc.edu/yiddish/shtetl.html).  Shtetl is under
+construction, the first phase contains Mendele and Mail-Yiddish archives
+(completely searchable soon), first chapter from Sheva Zucker's new
+textbook with the special introduction for Shtetl, links to on-line
+catalogs of libraries with large Yiddish collections, Yiddish songs
+(sheet music and recordings), paintings and drawings, recipes and other
+goodies.
+
+Plans for the nearest future: Yiddish bibliographies, list of shtetlakh
+and towns, photographs of important places, buildings, memorials. I
+invite everybody to participate in construction of the shtetl. Materials,
+ideas, suggestions, and critique are welcome.
+
+Iosif Vaisman
+
+[Yasher koyekh!  Zol zayn mit glik!]
+
+2)----------------------------------------------------
+Date: Thu, 2 Mar 1995 08:06:34 -0500
+From: cassel@libertynet.org
+Subject: Typefaces and databases
+
+The recent discussion of vaybertaytsh has me fascinated, and baffled because
+ I can't relate the terms "square letters" or "Rashi script" to anything I
+know (which ain't much, obviously) about Yiddish or Hebrew character
+typefonts. At the same time, I heartily concur with Harvey Spiro's yearning
+for something like a CD-ROM reference work. My question: has anyone explored
+the idea of a Mendele page on the World Wide Web, which might both allow
+graphic presentation of Yiddish in the original characters, and create a
+standing, accessible database that we could all use?
+
+Andrew Cassel
+Elkins Park, PA
+
+3)----------------------------------------------------
+Date: Wed, 01 Mar 95 16:06:36 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Fossil words
+
+I enjoyed reading Dovid Braun's recent posting about "fossil" words and
+phrases like af der gikh. There's one we all know, "in gantsn". But
+there's one particular one that has interested me for a long time, and
+that has to do with the presence in Yiddish of the word "heyt" as an
+independent word, as in "di heyt" and not just as a noun-forming suffix.
+I've searched various modern German dictionaries and not found it. But if
+we look further in Yiddish, we find it used in an adverbial suffix, which
+also does not occur in modern German, in words ending in -erheyt
+(shtilerheyt, gezunterheyt). It seems plausible that the "er" portion is
+a "fossil" of a German dative which was inherently adverbial and required
+no preposition ( e.g. (in) a shtiler heyt ).
+
+Another interesting one is "bay laytn glaykh," where we have an old
+dative plural suffix.
+
+Rick Gildemeister
+
+4)----------------------------------------------------
+Date: Wed, 01 Mar 95 16:40:20 EST
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Geography and pronunciation
+
+I enjoyed reading Howard Gershen's recent posting, suggesting ways to
+place people geographically by their pronunciation. I've tried it and
+been wrong many times because dialect features each have their own
+geography. If someone says "tug" instead of "tog" but says "mayn", you
+would guess that it was Southeastern Yiddish. But in Moldavian Yiddish
+you get occasional "Polish" characteristics: "Man tote ot gezugt", and
+"fin ant uen" for "fun haynt on". You have to really know a *lot* to do
+it, and you have to deal with dialect shift, as dialects widen and narrow
+certain features. As Ellen Prince explained years ago on WEVD, a
+nonstandard dialect will often be eroded by the host dialect.
+
+An interesting example that I read somewhere was that yeshives performed
+normative functions, that yeshive bakhurim would bring back styles of
+speech and inform the locals that a particular local feature was
+"hickish" (doubtless they got genudzhet a lot in school). The particular
+context was of surviving preterites, which a 19th century German would
+praise as pure and showing culture, while the local Jews would come to
+think of them as silly and not au courant.
+
+Rick Gildemeister
+
+5)----------------------------------------------------
+Date: Wed, 1 Mar 1995 17:45:30 -0400EDT
+From: hlewin@moose.uvm.edu
+Subject: Etymology
+
+One of my students is taking a linguistics course and is working on a
+presentation on Yiddish. She is interested in Yiddish  words that
+have  entered into English, the language of origin of these words,
+how they have migrated etc. Can someone please suggest books,
+articles and other resources?
+
+Henny Lewin
+
+______________________________________________________
+End of Mendele Vol. 4.347
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,239 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.369
+March 15, 1995
+
+1) Reklamele (Aren Portnoy)
+2) Yiddish on Macintosh (Meyer David)
+3) Yiddish greetings (Bob Freedman)
+4) Translating Yiddish idioms (Arnie Herschorn)
+5) Der 'Dibbuk' fun Moni Ovadia (Szalom Korbman)
+6) Homoseksuel (Meylekh Viswanath)
+7) Jewish Cultural Festival in Boston (Rokhl Bernard)
+8) Bilingual Coincidences? (Norman Fishman)
+
+1)----------------------------------------------------
+Date: Tue, 14 Mar 1995 11:57:37 -0500 (EST)
+From: ep73@columbia.edu
+Subject: Reklamele
+
+This message is being forwarded for Dr. Mordkhe Schaechter:
+
+Me' farkoyft a rizike bibliotek (toizenter egsemplarn) fun lingvistik
+(semantik, sinteks, fonetik, un azoy vayter), sotsial lingvistik,
+germanistik (spetsiel daytshe dialekt-geografie), filosofie, literatur
+kritik, leksikografie (spetsiel hebreyishe leksikografie), daytshe
+literatur un visnshaft.
+
+Oyb farinteresirt, kling on Dr. Mordkhe Schaechter: 718-231-7905. A dank.
+
+Aren Portnoy
+
+2)----------------------------------------------------
+Date: Tue, 14 Mar 1995 16:30:24 -0800
+From: mhd@crl.com
+Subject: Yiddish on Macintosh
+
+Macintosh has technology called Worldscript.  This allows for different
+scripts to be added to support the various languages.  While there are
+scripts for Hebrew, these do not support the needs of Yiddish.  They seem
+to support fairly well the needs of Hebrew, including the use of Nikud.
+
+I'm interested in approaching Apple to get them to add Yiddish support.
+If anyone cares to join me, or can update me or the group on efforts in
+this direction this far, I'd appreciate it.
+
+Until that support is added, full support for Yiddish will be done, if at
+all, in an unsatisfactory way.
+
+How is it done now?  Either (a) it's not done, i.e., you make do without
+fey-mit-a-dekhele (fey-rofe), patakh-tsvey-yodn, etc., or (b) you get a
+font that substitutes the needed Yiddish character images  for the images
+of less-often-used characters.  In approach (a), you cannot produce fully
+standard Yiddish printed documents.   Approach (b) suffers in that
+there's no official standard way to input the Yiddish characters, and no
+standard as to where the extra characters should fit into the font.
+
+I personally use approach (b).  My Yiddish fonts I bought from Mr.
+Deutsch, the zetser for the Forverts, who by the way is mentioned as one
+of the lerer for the class on Yiddish word processing at the Mameloshn
+'95 event just announced.  I can give you his name and number if you
+contact me.  I obtained it originally from Nisus.
+
+Meyer David
+
+3)----------------------------------------------------
+Date: Tue, 14 Mar 1995 19:35:27 EST
+From: rfreedman@shrsys.hslc.org
+Subject: Yiddish greetings
+
+Supplementing Khane Honig's response to mendelnik Turkel's request for
+more about "Vos Makhstu" --
+
+Ikh makh zikh nit visndik, ober di bal khoyves lozn nisht !!
+
+Bob Freedman
+
+4)----------------------------------------------------
+Date: Wed, 15 Mar 1995 09:22:17 +0500
+From: percepti@inforamp.net
+Subject: Amusing translation of Yiddish idioms
+
+Re: Amusing translation of Yiddish idioms from Rick Turkel.
+
+Yes, others have encountered the phenomenon of literal translation from
+Yiddish. The late Max Skarf, among whose admirers I count myself, was
+often an inadvertant literalist. Yiddish speakers will be familiar with
+the rhetorical question "Ich redt in der velt arayn?" ("I'm talking
+nonsense?"). Without missing a beat, Max would ask rhetorically, in
+English, "You think I'm talking in the world?"
+
+For me, Skarfisms (as they were referred to in a certain circle) enrich
+the language. I try to do it in reverse. Does anybody know how to say
+"couch potato" in Yiddish? "Geleger kartofl", of course.
+
+Arnie Herschorn
+
+5)----------------------------------------------------
+Date: Wed,  15 Mar 95 18:0:0 GMT
+From: S.Korbman@agora.stm.it
+Subject: Der 'Dibbuk' fun Moni Ovadia
+
+Vi ken men redn vegn dem khurbn? Wus ken men zogn?
+
+Moni Ovadia, in sein 'Dibbuk' spiel, farshteyt az me ken nisht dertseyln di
+broch: aber me ken es vayzn, mi ken es zingn, mi ken lozn di tsure
+shrayn un vaynen, me ken es filn.
+
+Me gibt di spil in der Parenti teater, in Milano, Italie; maistns iz es
+in Yiddish.  Oyb ir hot an occazie, geyt es zeen: es ist vert.
+
+Szalom Korbman
+Milano - Italie
+
+6)----------------------------------------------------
+Date: Wed, 15 Mar 95 13:47:15 EST
+From: pviswana@andromeda.rutgers.edu
+Subject: Homoseksuel
+
+This is a comment on Meyshe-Yankl Sweet's condemnation of Dr. Mordkhe and
+Binyumen Shekhter's compilation of yiddish terminology for some
+homosexuality-related words.  I have not read the yugntruf issue in
+question, so I depend solely on Shleyme Axelrod's posting in a previous
+mendele.
+
+Shleyme mentioned that the Shekhters excused themselves regarding the use
+of the term 'homoseksuel' by stating that there was no 'gerotener vort'
+for homosexual.  It would seem, therefore, that 'homoseksuel' was a
+reluctant choice, which would excuse awkward circumlocutions like
+homoseksualisten-bar.
+
+On the other hand, what of Meyshe-Yankl's point that the word 'freylekh'
+exists, which is used by some gays/lesbians?  I suspect that the concept
+of homosexuality is discussed not only by homosexual Yiddish speakers,
+but by heterosexual Yiddish speakers as well. Hence, it is not clear that
+the fact that 'freylekh' is used by some members of the homosexual
+community would make it a 'gerotener' _yidish_ vort.  If sufficient
+numbers of homosexuals use 'freylekh,' then it would certainly be
+appropriate to list 'freylekh' as the yiddish equivalent of homosexual/
+gay in a word-list describing that community.  It is not clear, however,
+if some use of the word 'freylekh' in the homosexual/gay community would
+make inclusion of the term in a general yiddish word list mandatory.
+
+Regarding Meyshe-Yankl's use of the word 'ukase' to describe the Shekhter
+word-list, I wonder what Meyshe-Yankl means.  My Oxford American
+Dictionary defines 'ukase' as an arbitrary order.  I very much doubt that
+Dr. Shekhter's word-lists are arbitrary, even if one might disagree with
+him on the bases on which particular words were chosen.  On the other
+hand, I have not personally discussed this particular word list with him.
+I do not know if he consulted any self-respecting gay persons either.
+
+Meylekh Viswanath
+
+7)----------------------------------------------------
+Date: Wed, 15 Mar 1995 13:53:25 -0500 (EST)
+From: dschrag@acs.bu.edu
+Subject: Jewish Cultural Festival April 2, 1995 in Boston
+
+I wanted to make any Boston area subscribers aware of a special event on
+Sunday, April 2nd, 1995.  On that day, from 2-5 p.m, Workmens Circle,
+Boston District will be sponsoring a Jewish cultural festival.
+
+The program includes: _Klezamir_, featuring vocalist Rhoda Bernard (yours
+truly), performing an exciting program of Klezmer music; Miho Sato,
+Japanese opera singer, singing in Japanese and Yiddish; Moshe Waldoks,
+Jewish humorist and author of "The Big Book of Jewish Humor"; Bonnie
+Greenberg, one of the best Jewish story tellers.
+
+In addition, the Japanese Consul General, the Honorable Nobuyaso Abe,
+will be presented with a memorial plaque recognizing the late ambassador
+Sempo Sugihara, who rescued thousands of Lithuanian Jews during the
+Holocaust.  The plaque will be presented by Professor Hillel Levine of
+Boston University.
+
+The festival will be held from 2-5 p.m. on Sunday, April 2, 1995 at the
+Cambridge Multiculural Arts Center, 41 Second Street, Cambridge, near the
+Lechmere MBTA Station.
+
+For more information, call (617) 449-1786 I hope many Mendelniks can
+attend, and I'd love to meet some of you at the Festival.
+
+Rhoda Bernard (Rokhl)
+
+8)----------------------------------------------------
+Date: Wed, 15 Mar 1995 11:03:44 -0800
+From: normf@ix.netcom.com
+Subject: Bilingual Coincidences?
+
+I don't know how contributions under the subject heading "bilingual
+coincidences" began, but perhaps multilingual is more appropriate. And
+why "coincidence"? Words of similar sound in different languages are
+likely to have common origins. How would the etymologists among Mendele
+participants account for the following?
+
+N. Rosenblatt, in Mendele Vol. 4.367, brought in "tsibele" (Yid.) and
+"cebolla" (Sp.). The onion must have been broadly known both historically
+and geographically. Note the following: "zwiebel" (Ger.), "cipolla"
+(It.), "si-pu-la" (Fin.). Furthermore, (comments from etymologists
+requested), I understand that in the evolution  and adaptation of
+languages, transposition of syllables may occur. Thus, onion is "ba-tsal"
+in Hebrew; could the ancients have used or contributed to the borrowers
+from Hebrew, the word "tsa-bal" ?
+
+Norman Fishman
+
+______________________________________________________
+End of Mendele Vol. 4.369
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

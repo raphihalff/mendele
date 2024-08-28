@@ -1,0 +1,186 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 193
+March 21, 1992
+ 
+1) Yiddish music query (Itzik Finger)
+2) Introduction (Ronald Rabin)
+3) Vaybertaytch un targum-loshn (Dovid Braun)
+4) Mostly about Purim (Dovis Braun)
+
+1)----------------------------------------------------
+Date: Thu, 19 Mar 92 10:33:19 PST
+From: jfinger@adobe.COM
+Subject: Yiddish Music Anthology
+
+I have an anthology of Yiddish music called "Yiddish
+Anthology" Vols I-IV which contains everything from Nechama
+Lifschitz to Paul Robeson(!). Where it originally came from
+I do not know, but I heard that it was from Hebrew
+University.
+
+I would love to get the original, pay the appropriate
+person rather than continue to enjoy my purloined copy,
+etc. Also, the quality on mine is pretty bad, including, I
+think, a 50 cps to 60 cps speedup that results in poor Ms
+Lifschitz sounding like a bird.
+
+Does anyone know what anthology this might be?
+
+Thanks a lot.
+
+-- Itzik/Jeff Finger --
+
+2)----------------------------------------------------
+Date: Fri, 20 Mar 1992 20:44 EST
+From: RABINRL@SNYBUFVA.BITNET
+Subject: Introduction
+
+I am Associate Professor of Communication, NY State
+University College at Buffalo.  I teach college students
+how to stand up in front of an audience and not embarrass
+themselves or the audience.  I also teach them how to
+program computers (as a secondary appointment).
+
+I grew up in a home where Yiddish was spoken, and they
+spoke it to me, but did not bother to teach it to me.  I
+learned to understand enough that I could tell if I was in
+trouble and the nature of that trouble so that I could
+refute it; but I refuted it in English. I joined the list
+to learn.
+
+Ronald Rabin
+
+3)----------------------------------------------------
+Date: Sat, 21 Mar 92 19:04:07 EST
+From: David Braun <braund@linc.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.190
+
+>
+>To Linda Feldman: the term "vaybertaytsh" refers to the
+>font/the typeface used for printing Yiddish, in contrast to
+>the square letters used for printing Hebrew. I should say,
+>"used to be used". The distinction doesn't apply any more
+>You might look at Max Weinreich's book "Di shvartse
+>pintelekh" or, for a fuller treatment, a work (date?
+>place?) by Herbert Zafron of Hebrew Union College,
+>Cincinnatti. You could write to him there.
+
+In Joshua A. Fishman's _Yiddish:  Turning to Life_ (1991,
+John Benjamins, Philadelphia) the author has an article
+which addresses the questions:  what are the reasons and
+what is the significance of the switch from printing
+Yiddish in vaybertaytsh to printing Yiddish in oysyes
+meruboes ('square letters', loshn-koydesh letters)?
+ 
+>make them uneasy. Jews often used "targum-loshn" to make it
+>impossible for gentiles -- who would understand the
+>Germanic component of Yiddish -- to grasp what they were
+>saying.
+
+"der orl iz meyvn beloshn" ('the goy understands [our
+Germanic] language [= Yiddish]') is usually the formula
+that introduces the switch into this code. But is the code
+actually called _targem-loshn_?  I think it's referred to
+as _loshn-koydesh_ (another formula, I think, is:  "lomir
+dabern loshn-koydesh").  Naturally it's not real
+loshn-koydesh.
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Sat, 21 Mar 92 19:50:35 EST
+From: David Braun <braund@linc.cis.upenn.edu>
+Subject: tikn-toes un andere zakhn
+
+--------
+1)
+tikn-toes ('errata') tsum purim-lid: 
+
+>shoyshanes-yankev 
+>tsoholo vesomeykhe
+	darf zayn:  vesomeykho
+
+>	far amolike yesurim
+>	hobn mir haynt a yonyev purim
+		darf zayn:  yontev
+
+2)
+>[Zogt der shames l'koved Purim: Darf men oykh bamerkn
+>az ven me zogt 'vu ikh ker zikh un vu IKH VEND zikh' iz
+>faran take a remez un a dervayz az fun donent vaksen di
+>fis.]
+
+mistame a fayne khokhme, nor kh'farshtey zi nit.  vos iz
+dos taytsh?  git tshuve, reb noyekh!
+
+[Entfert der shames: nisht aza groyse khokhme; dakht zikh
+mir as Sorbish un Vendish hobn eyn bubbe..un efsher zaynen
+zey nokh neyenter.]
+
+3)
+>To Noyekh and Dovid, I say:
+>
+>Do you two think this flew past the true Mendele crew,
+>without giving to them their due, too?  You do rue that
+>claim.  Chew on that.  Nu?
+>
+>'Nuff said.
+>
+>David Sherman
+
+ikh tsi tsurik, ikh tsi tsurik!  I take it back, bad
+hypothesis!  (Was this your attempt at a purim-gram, by the
+way?)
+
+ven ikh volt ober geven an akshn... I'd say that notice
+most of these /u/#-words (i.e., the /u/ is at the end of
+the word) are not nouns, so maybe it's marked with nouns?
+Or maybe ikh drey mitn grobn finger.  Be that as it may,
+what struck me and motivated me to look for an answer from
+phonology was the following:  have you ever heard
+English-speaking kids imitate Chinese? (Or, as a native
+English-speaker yourself, do an imitation of Chinese.)
+Some of the most favorite consonants are /sh/, /tsh/ and
+/j/ and as for vowels -- /u/.  (A Yiddish song which
+imitates Chinese [and would now be deemed politically
+incorrect] begins "tshing tshang tshu / ver veys vu", from
+a children's poem written by Rifke Galin.)  Somehow I feel
+the combination evokes something in English which _Joe_,
+_cat_, or _negotiate_ don't.  Something foreign, something
+marked, something je ne sais quoi.
+
+4)
+>(convert from/to Judaism); and bukh/sefer (the latter
+>referring to a religious book; are the terms mutually
+>exclusive, or is sefer a subset of bukh?).
+
+seyfer is, I guess, a subset of bukh/bikhl (in your
+dialect:  sayfer and bi:kh/bikhl) in the sense that, when
+talking about book production for example (and not
+specifying what kind of books) you'll talk about
+bikher-produktsye. Otherwise they're mutually exclusive
+(relatively speaking). If you know the book you're talking
+about is a book of a Jewish-religious nature, you'll refer
+to it as a seyfer and not a bukh/bikhl.  If you see a book
+laying on the table and don't know what it is, you'll refer
+to it as a bukh/bikhl (until someone corrects you in the
+case that it's a seyfer).
+
+With the meeting of Yiddish and Ivrit ('Modern Hebrew', as
+opposed to loshn-koydesh) in Israel, you'll often see
+seyfer and maymer ('article') used in Israeli Yiddish
+publications.  In Mod. Heb. these terms are purely secular
+as are the English _book_ and _article_, but in non-Israeli
+usage of Yiddish, they mean 'book/article of a specifically
+religious nature'.  As for seyfer, perhaps Yiddish authors
+in Israel are using it figuratively to exalt the book being
+discussed, i.e., raising it to the spiritual level of a
+religious publication.  But maymer (Mod. Heb. maamar) is
+used in reference to any newspaper/magazine article, no
+matter what its subject matter or importance.
+
+Dovid Braun
+______________________________________________________
+End of Mendele Vol 1.193
+

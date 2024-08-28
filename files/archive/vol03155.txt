@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.155
+December 4, 1993
+
+1) Yiddish New Testament (Ellen Prince)
+2) Word order again (Khaim Bochner)
+3) Ferz/posuk (Marnen Laibow-Koser)
+4) Book by Bettina Simon? (Bob King)
+5) Rules, verb order, linguists (Neakh Zide)
+
+1)----------------------------------------------------
+Date: Fri Dec  3 11:40:13 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: yiddish new testament
+
+first, thanks to shleyme axelrod for discreetly correcting my
+rendition of the title of the einspruch n.t., der brit khadoshe.
+second, bizarre as it may seem, the 'jews for jesus' and 'messianic
+jews' seem to think that there is STILL a public out there that can
+read the n.t. only in yiddish and that is a candidate for
+conversion. the edition i have can currently be had for the asking
+from the local 'messianic jews' establishment. go figure.
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Fri Dec  3 15:46:06 1993
+From: bochner@das.harvard.edu
+Subject: Word order again (sorry)
+
+Hal Berman writes:
+> My brother's comments about word order were based on
+> Weinreich because that is the rule.
+
+Weinreich does NOT agree with you. Please see page 122 of "College
+Yiddish", which I quoted in an ealier message.
+
+If you want to believe that neither Weinreich, nor Mark, nor
+Birnbaum, nor any of the linguists in this audience can tell the
+difference between natural speech and artificial literary
+pretensions, that's your right.  But please do not misrepresent the
+opinions of those who disagree with you.
+
+With respect to consulting other speakers: this is of course the
+right thing to do. But it has be done with some sophistication. The
+meaning of this construction is such that it is rarely natural to
+use it just out of the blue. For instance, the last sentence on page
+136 of "College Yiddish" is "Hobn es di tsvey brider gekoyft." Out
+of context that sounds terrible.  But in the context of the story it
+sounds fine to me, and I'd be willing to bet it sounds fine to most
+other mendelnikes.  Here are the first two paragraphs of the story:
+
+A mol zaynen geven tsvey brider, yidishe bal-melokhes. Zey hobn
+shver gearbet un gut fardint. Eyn mol hot a raykher man in der
+shtot, vu zey hobn gevoynt, gevolt farkoyfn eyns fun zayne groyse
+hayzer. Keyner fun di kristn in shtot hot nit gehat genug gelt tsu
+koyfn dos hoyz.  _Hobn_ es di tsvey brider gekoyft. (page 137)
+_Hobn_ di kristn gezogt: "Zet, yidn nemen shoyn vider undzere
+zakhn!" un zey hobn bashlosn tsu nemen nekome in di tsvey brider.
+_Hot_ men untergevorfn lebn hoyz fun di brider a toytn un men hot
+gezogt, az di yidn hobn umgebrengt a krist tsu nitsn zayn blut oyf
+peysakh. Men hot di brider arayngezetst in tfise.
+
+Notes:
+1) My apologies if I made any mistakes in transliterating.
+
+2) 3 sentences in a row begin with verbs.
+
+3) I notice he uses "man" for (English) 'man'. "Raykher man" in this
+   meaning doesn't sound as odd to me as "a man" does.  Do others
+   share this feeling?
+
+4) If Weinreich's elementary textbook is too literary for you, take
+   a look at "Royte Pomerantsn" (by Olshvanger?). It's neither
+   literary, nor pretentious, nor standard Yiddish. It's certainly
+   colloquial.
+
+If I get a chance over the weekend, I'll dig up some examples from a
+tape I made of my mother a few years back.
+
+Khaim
+
+3)----------------------------------------------------
+Date: Fri Dec  3 16:53:21 1993
+From: laibow@brick.purchase.edu
+Subject: Ferz/posuk
+
+Reuven Rachlin says:
+:
+: In connection with his interesting posting about the Yiddish New
+: Testament, Jeremy Stern asks whether there is a Yiddish word for
+: "verse" ther than "posuk" (pl. "p'sukim").  "Ferz" (pl. "ferzn")
+: has, I believe, the same meaning, but is obviously cognate to the
+: German "Vers(e pl.)."
+
+Possibly, but I doubt it. German "Vers" is, I believe, one of those
+cases where German "v" is not pronounced as "f", and my guess is
+that it would have come into Yiddish as "Vers" or "Verz". Anybody
+out there know for sure?
+
+Marnen Laibow-Koser
+
+4)----------------------------------------------------
+Date: Fri Dec  3 23:08:25 1993
+From: "Bob King - ligi355@utxvms.cc.utexas.edu"
+Subject: Book by Bettina Simon?
+
+	Does anyone out there know where I can buy, repeat, BUY, a
+copy of Bettina Simon, Jiddische Sprachgeschichte:  Versuch einer
+neuen Grundlegung, 1988, published somewhere in what was then East
+Germany?
+
+	(Confession:  I checked this out of the university library
+last spring for a course I taught on history of Yiddish, lost it,
+and now the library wants me to replace it.
+
+	No respectable offer refused.
+
+Bob King
+
+5)----------------------------------------------------
+Date: Sat Dec  4 07:02:10 1993
+From: grgg@midway.uchicago.edu
+Subject: rules, verb order, linguists
+
+I  admire - support but stay away from - Ellen Prince's mission to
+the rule-happy but text-aversive. Add Jerry (Jerrold) Sadock of the
+University of Chicago to her list of linguists who have done and are
+doing serious work in the area.
+
+Neakh / Norman Zide
+
+______________________________________________________
+End of Mendele Vol. 3.155
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

@@ -1,0 +1,159 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.291
+March 27, 1996
+
+1) Mumps (Dovid Braun)
+2) Roykh and ruakh (Rita Falbel)
+3) Charlotte Yiddish Institute (Daniel M. Pransky)
+4) Sholem Aleichem Institute (Menachem Young)
+5) "Fishke the Lame" in English translation (Hershl Hartman)
+6) Yiddish fonts on Hebrew Windows (Daniella HarPaz)
+
+1)----------------------------------------------------
+Date: Tue, 26 Mar 1996 17:34:27 EST
+From: dovid@mit.edu
+Subject: Mumps
+
+a modne frage, ober dokh:
+
+tomer kent ir yidish fun der heym, veyst ir vi me ruft af yidish di krenk vos
+heyst of english _mumps_?  (kh'bet aykh:  kukt *nit* arayn in verterbukh --
+mit verterbikher bin ikh shoyn aleyn farzorgt.) oyb ir dermont zikh vi me zogt
+es / vi me hot es gezogt ba aykh, zayt azoy gut un entfert mir perzenlekh:
+dovid@mit.edu. a groysn dank foroys!
+
+dovid braun
+Cambridge, MA
+
+2)----------------------------------------------------
+Date: Tue, 26 Mar 1996 15:51:37 -0500
+From: rfalbel@mail.med.cornell.edu
+Subject: Roykh and ruakh
+
+I remember a phrase like "er varft zikh vi a rikh", relating to someone having
+a tantrum.  Can anyone enlighten me about whether this is the same word or a
+completely different one.
+
+Rita Falbel
+
+3)----------------------------------------------------
+Date: Tue, 26 Mar 1996 20:15:03 EST
+From: tjja70d@prodigy.com
+Subject: Charlotte Yiddish Institute
+
+The Charlotte Yiddish Institute announces its 18th (Chai) season at the
+glorious Wildacres Retreat, Little Switzerland, NC, a mountain top conference
+center of 1400 acres set in the heart of the Blue Ridge Mountains of Western
+North Carolina, elevation 3300 ft,. August 15 - 18, 1996.  Featuring:  Dr.
+Chava Lapin, lecturer; Zalmen Mlotek and Michael Altpert,
+artists-in-residence.
+
+To add your name to the Charlotte Yiddish Institute's mailing list please
+write to:
+
+The Charlotte Yiddish Institute/JCC
+Shalom Park
+5007 Providence Rd.
+Charlotte, NC  28226
+
+Daniel M. Pransky
+
+4)----------------------------------------------------
+Date: Wed, 27 Mar 1996 11:14:00 -0500
+From: moyng2626@aol.com
+Subject: Sholem Aleichem Institute
+
+Sholem Aleichem Institute was founded 70 years ago in 1926 in Detroit,Michigan
+to support and conduct an Yiddish secular shule. The shule ,zum badoyern, is
+no longer in existance,but the organization is still active. It provides
+Yiddish and Jewish programs to the community on a regular basis. On its
+seventieth anniversary the Institute is having a gala celebration and reunion
+on Saturday,October 19,1996.
+
+In order to contact them the Institute is requesting names and addresses of
+all former students, their children, friends and members living anywhere in
+the world. Please send information to:
+
+Sholem Aleichem Institute
+24901 Northwestern Highway,Suite 313B
+Southfield,MI 48075
+Phone (810) 352-6852 or
+e-mail: MoYng2626@AOL.com
+
+A hartsikn dank un a zisn Pesakh.
+
+Menachem Young
+
+5)----------------------------------------------------
+Date: Tue, 26 Mar 1996 23:28:13 -0500
+From: hershl@aol.com
+Subject: "Fishke the Lame" in English translation
+
+In response to Mark Shechner's query (Vol. 5.287), Mendele's novella appears
+in Gerald Stillman's English translation in Marvin Zuckerman, Gerald Stillman,
+Marion Herbst, eds., "Selected Works of Mendele Moykher-Sforim," Malibu, CA,
+Joseph Simon Pangloss Press, 1991.
+
+Hershl Hartman
+
+6)----------------------------------------------------
+Date: Wed, 27 Mar 1996 13:01:02 -0500 (EST)
+From: harpaz@binah.cc.brandeis.edu
+Subject: Yiddish fonts on Hebrew Windows
+
+I just received and installed "Kabbalah Yiddish", a collection of Yiddish
+fonts that work in Hebrew Windows and Microsoft Word in Hebrew.  They are very
+nice and seem to work well.  The only think I would like that it doesn't have
+is "tvey yudn," "pasekh tsvey yudn" is, however, there.  The fonts cost $89.
+If you would like to know more about my experience with them or with Hebrew
+Windows/Word, etc. please contact me directly so as not to over-clutter
+Mendele.
+
+Daniella HarPaz
+
+______________________________________________________
+End of Mendele Vol. 5.291
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

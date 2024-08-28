@@ -1,0 +1,160 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.086
+August 18, 1995
+
+1) Nota Bene [correction] (Zachary Baker)
+2) Hebrew Word Processors for Yiddish (Avrom Yitzkhok Blair)
+3) Yiddish fonts (Rudi Roth)
+4) Oxford summer school problems (Rudi Roth)
+5) Iosif Vaisman's Virtual Shtetl (Morrie Feller)
+
+1)----------------------------------------------------
+Date: Sun, 13 Aug 95 16:44:41 PDT
+From: bm.yib@rlg.stanford.edu
+Subject: Nota Bene (correction)
+
+In an earlier posting (5.084), I wrote, "As a word processor, Nota Bene
+is far from perfect -- no spell check..."  In my haste, I neglected to
+qualify that.  I should have written "no *Yiddish* spell check"; N.B.
+does have an English spell check and the Lingua manual states that
+"optional spelling dictionaries are available for a number of European
+languages (French, Spanish, Italian, and German).  Additional
+dictionaries are under development."
+
+A few years ago, there was talk at the National Yiddish Book Center, of
+developing a Yiddish spell check for Nota Bene, but I believe that idea
+is not being pursued at present.
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Mon, 14 Aug 1995 16:46:25 -0400 (EDT)
+From: ablair@magnus.acs.ohio-state.edu
+Subject: Hebrew Word Processors for Yiddish
+
+I have tried a number of WP's for Hebrew to be used for Yiddish,
+including an add-on to Word Perfect, which I found to be, at best,
+horrible.
+
+The most satisfactory program, and the one that I am using now is Dagesh,
+made by Kivun (Jerusalem), and distributed by Davka, 7074 N.Western
+Avenue; Chicago, IL phone: 1-800-621-8227.  Call and ask for their
+catalogue.
+
+Dagesh has all the nekudos (althgough the pasakh in pasakh tvay yudn is
+slightly off center, it really looks OK.  It is not perfect, as it is
+quirky and cranky, especiaal when you try to mix 2 or more languages, but
+it is the best I've seen.  If there is another that is better, please let
+me know so I can give it a whirl.
+
+Allan (Avrom Yitzkhok) Blair
+
+3)----------------------------------------------------
+Date: 17 Aug 95 13:13 GMT
+From: rothr@infomail.infonet.com
+Subject: Yiddish fonts
+
+In complement to the information on Yiddish fonts and the request from
+Brenda Fayerman, I can now confirm that the macro's I made earlier in
+WinWord6 using the WinGreek 19 shareware now work very well and allow any
+Yiddish character combination (in addition to the standard hebrew
+character combinations already available in Wgreek). In fact I assigned
+most of the specific Yiddish signs, including correct spacing of double
+yud with patach, as TTF's (True type fonts allowing correct screen views
+and printing) and gave them a keyboard assigment that is quite logical.
+It is a-"home-made" solution for which you need Wingreek 19, but useable
+for anyone that accepts to learn a little on macro's in WinWord6 and I
+could send the WinWord6 template on a diskette or upload it somewhere if
+there is interest.
+
+The only drawback I have is that the end of line or carriage return you
+need some attention to avoid that the next word comes on the previous
+line instead of the next, but with my speed of typing (slow) this does
+not involve too much effort.
+
+The major advantage is that it is using an existing wordprocessor (one of
+the 2 most important for the moment) and allows any other kind of
+operation with it.
+
+Rudi Roth
+Belgium
+
+4)----------------------------------------------------
+Date: 15 Aug 95 10:54 GMT
+From: rothr@infomail.infonet.com
+Subject: Oxford summer school problems
+
+I wonder if some Mendelniks have been at the Oxford Summer school this
+year.
+
+I registered for a 2 weeks (on 4) of their yiddish summer course as well
+as a two weeks room at a college for me and my wife (she wanted to
+improve her english at another school over there). Unfortunately, due to
+some health conditions popping up, it was advisable, to stay close to our
+home base and I cancelled the course one month before my arrival.
+
+Big was my surprise to recieve ar only reaction one month later to have
+my Visa card and my bank account debitted for an amount of USD 3000, that
+was the double of what I asked for. I spent hours on the phone as well as
+several faxes around to correct the situation on the bank, Visa etc...
+
+However, I was not finished regarding surprises: the Yiddish Institute
+refused to refund any money for the 2 weeks, because they pretended they
+had to pay the rooms at the colleges, and refused me to give any
+assistance on that matter. I had according to them to accept this as a
+"fait-accompli", which involves they still claim me an amount of USD 2000
+for no services neither goods rendered. Faxes, telephone, neither
+registered letters did not help.
+
+The advance I paid to another institute in Oxford for my wife's english
+course was fully refunded, without any queries from my side.
+
+Without wanting to go in more details about the serious financial
+problems and embarassements I had over the last two weeks with my Visa
+card, bank account and subsequent problems with several payments blocked
+(this all due to the completely wrong non-authorised debit by Oxford
+Institute for Yiddish studies from my Visa account), I would like to
+receive by E-mail some feedback from those mendelniks that attended the
+course.
+
+I still hope that the above problem is only an organisationnal problem of
+them in running this course for the first time and will therefor be
+corrected and that I do not need to make use of the documents and the
+full legal file I have build up mean-while.
+
+I must also confess that after E-mailing with some mendelniks, I found
+out that there has been a lot of correspondence going on about the
+Oxford institute before I joined Mendele. I regret not having checked it
+before, because that could have avoided these problems. I would also not
+have posted on Mendele the dates and information about the course if I
+had known there was some contention about the institute.
+
+Anyhow and thanks to this experience, in the future, I will refrain going
+to "exotic" places for doing yiddish and stay very quietly at the
+University of Brussels continuing the normal course and the
+financially-save summer events.
+
+Rudi Roth
+Belgium
+
+5)----------------------------------------------------
+Date: Sun, 13 Aug 1995 12:12:28 -0700 (MST)
+From: feller@indirect.com
+Subject: Iosif Vaisman's Virtual Shtetl
+
+Back in Mendele 5.071, Noyekh mentioned Iosif Vaisman's Virtual Shtetl,
+and he told how wonderful it was.  I am here to second that motion.  I
+accessed it, and I can truly say that every Mendelyaner with access to
+Netscape, or any other gateway to WWW, should by all means visit this
+remarkable site.  My thanks to Noyekh for bringing it to my attention. In
+case you don't have the address handy, it is:
+http://sunsite.unc.edu/yiddish/shtetl.html
+
+Morrie Feller
+Phoenix
+
+______________________________________________________
+End of Mendele Vol. 5.086
+

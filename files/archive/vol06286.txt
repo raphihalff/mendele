@@ -1,0 +1,158 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.286
+April 15, 1997
+
+1) Yiddish in Hebrew letters (Morrie Feller)
+2) The study of Askenaz (Miriam Isaacs)
+3) Nivl-pe (Les Train)
+4) Yidishe lider (Raphael Finkel)
+
+1)----------------------------------------------------
+Date: Mon, 14 Apr 1997 16:25:34 -1000
+From: feller@indirect.com
+Subject: Yiddish in Hebrew letters
+
+In response to David Lidsky (6.285), I, too, would like to be able to
+send and receive Yiddish written with Hebrew characters.  I have the
+Nisus Hebrew program, and I am also on the Mikhtav list.  I receive a
+Hebrew post every day with a summary of news from Ha'aretz.  Other
+posts by individuals also come in.  And I have the capability of
+sending Hebrew messages.  But there is a problem.  All the Hebrew that
+you see has absolutely no sign of a Hebrew vowel.  In order to write
+standard Yiddish, one needs to use Hebrew vowels.  The current system
+does not have this capability, but according to a past notice from
+Yankl Halpern, such a system is being worked on.  If he sees this
+post, perhaps he would honor us with a brief report on the progress
+being made.
+
+Morrie Feller
+Phoenix
+
+2)----------------------------------------------------
+Date: Mon, 14 Apr 1997 20:42:45 -0400 (EDT)
+From: miriamis@gwis2.circ.gwu.edu
+Subject: The study of Askenaz
+
+Ikh vil tsugebn tsu Dovid Roskies' forshlag [6.285] far Ashkenaz
+Studies, ober... ober vos hengt in "ober". Akhutz di Yidishe shprakh
+un yo Rashi, darf men oykh nisht fargesn az men muz zikh farnemen mit
+di lebns fun di froyen -- nutzndik di ale naye forshungen vegn
+froyenslebn in Ashkenaz. Ikh bin maskim mit Roskies az mir Yidishistn
+kenen zikh nisht nor grundn in di shprakh aleyn - akhutz di lingvistn-
+unzere dikhters un tuers hobn genutst a sakh shprakhn ober zay hobn
+gehert tsu eyn folk.
+
+I would concur with David Roskies remarks of Vol 6.285 with respect to
+the concept of Ashkenazi studies as articulated by those at Ohio
+State. What I would suggest with respect to Roskies' ordering of
+Rashi, Musarists etc. is that his five part suggestion for what would
+be required of such studies is lopsided unless it includes attention
+to the thoughts, lives and contributions of the women of Ashkenaz. I
+would add the works of many contemporary scholars of that subject and
+of course Gluckl of Hameln. Such studies would not limit us to one
+language, since the Ashkenazi people were and are quintessentially
+multilingual and wrote and spoke in numerous languages.
+
+Miriam Isaacs
+
+3)----------------------------------------------------
+Date: Tue, 15 Apr 1997 00:47:46 -0400 (EDT)
+From: ltrain@chass.utoronto.ca
+Subject: Nivl-pe
+
+Since itis well-documented and accepted that Yiddish by and large
+retains the intensive/pointed forms of the bgd-kpt  letters in its
+borrowings from Hebrew words and phrases (see Mordkhe Schaechter's
+Laitish Mame-Loshn), the question becomes: how did nivl pe break from
+the paradigm? After all, dibbik isn't ever attested as divik,
+diber/diburim is never heard as div- etc.
+
+Perhaps the answer lies in dissimilation, that is, the influence of a
+certain letter  in a certain position of a word, on another similar
+letter in the same word. Thus, to break up the string of bilabials
+(b's) one (the first) is transformed to a v. This is not an uncommon
+phenomenon. Shamash in hebrew becomnes shamis,
+shorser<>shorsher<>sorser ('mediator', again from the hebrew), *popul-
+becomes bovl, etc.
+
+Les Train
+
+4)----------------------------------------------------
+Date: Tue, 15 Apr 1997 16:04:32 -0400 (EDT)
+From: raphael@cs.uky.edu
+Subject: Yidishe lider
+
+Khaver Bob Freedman hot gezamlt iber di yorn a gevaldike kolektsye
+yidishe lider.  er hot zikh bamit arayntsushraybn ale protem in zayn
+datn-baze. dort shteyt, lemoshl, der zinger, der mekhaber, di ershte
+shure, der nomen fun lid.
+
+letstns hot er geshonken di gantse kolektsye in a bibliotek (U Penn,
+mistome), un mir geshikt disketn mit der datn-baze.  iz hob ikh
+geleygt arayn in a datn-baze vos men ken adurkhbletern mit a
+vebs-bleterer.
+
+der vos farinteresirt zikh in yidishe lider ken zikh venden tsu
+
+	http://www.cs.uky.edu/raphael-cgi-bin/yidsong.cgi
+
+---
+
+Bob Freedman has built over the years an enormous collection of
+Yiddish song. He has kept a database with all sorts of details, such
+as the singer, the author, the first line, and song title.
+
+He recently gave the entire collection to a library (I think U Penn)
+and sent me the database on diskettes.  I have made it available for
+Web search.
+
+If you are interested, follow the URL shown above.
+
+Raphael Finkel
+
+______________________________________________________
+End of Mendele Vol. 6.286
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

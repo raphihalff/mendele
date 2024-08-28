@@ -1,0 +1,136 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.130
+November 12, 1993
+
+1) Introduction (Heather Edgar)
+2) Oyfruf (Pe'rets Mett)
+3) The extra n-sound (Eliyahu Ahilea)
+4) Change of address (Mottel Lakin)
+5) Etemology (Arthur Komar)
+
+1)----------------------------------------------------
+Date: Sat Nov  6 19:26:00 1993
+From: heather edgar <ASHJH@asuvm.inre.asu.edu>
+Subject: Introduction
+
+I am a second generation american of mostly Austrian heritage.
+My parents spoke yiddish around the house, but I never really picked it up
+as a second language.  I was just hoping to learn something by just sitting
+back and listening. So that's my general "hello" to everyone.
+
+Heather Edgar
+
+2)----------------------------------------------------
+Date: Wed Nov 10 10:22:37 1993
+From: P.Mett@open.ac.uk (Percy Mett)
+Subject: oyfruf
+
+Jeremy Stern [Mendele 3.128] writes:
+
+>One question I have is why Orthodox people generally call the
+>pre-marriage calling to the Torah an "ufruf".  I would have expected
+>the more common "oyf" prefix (more common in America).  By the way,
+>Yekkified Jews do say "Aufruf."
+>
+
+The pronunciation =ufruf= is not "Orthodox". It is the litvishe
+pronunciation. In poylishe yidish 'oyfruf' is pronounced =awfreef=
+as it is spelt (=aw= being one of the ways of pronouncing khoylem).
+One would therefore "expect" the pronunciation =oyfruf= [as spelt]
+by litvaks. Since litvaks pronounce 'oyf' as =af= it is perhaps not
+surprising that 'oyfruf' undergoes a change in pronunciation. I
+believe it is a frequent phenomenon for common words to have an
+irregular pronunciation. (No doubt we shall hear from the linguists
+on this.)
+
+BTW the (a?) litvishe pronounce the word 'aroyf' as =aruf=. This
+confused me no end when I first came into contact with it, as it is
+so similar to 'arop' (which I am used to hearing as =arup=.
+
+As to =aufruf=, perhaps someone can tell me: is it a Germanised
+pronunciation of a yidish word or is it a genuine usage in W yidish?
+
+pe'rets mett
+
+3)----------------------------------------------------
+Date: Thu Nov 11 09:38:39 1993
+From: BRAHA@LIB.HAIFA.AC.IL
+Subject: the extra n-sound (and pronunciation in general)
+
+The letter was written by Dr. Eliyahu Ahilea. As he does not have
+access to e-mail i send it.
+
+I have been following with interest many of the discussion in the
+mendele correspondence. I would like to offer my guess as to what
+causes the "creeping -in" of an n-sound (or nasalization) into some
+words or names, like "manse" or "mainse" instead of "maise", or
+"Yankev" instead of the original name "Yaakov". ("Maise" comes from
+Hebrew word "maasiya" - a tale, usually meaning a "tall tale").
+
+In polish language sometimes the n-sound is dictated not by the
+letter n but by a sign (like the french cedille) under the preceding
+vowel, like in Walesa (pronounced "valensa", or rather more like
+"va-wensa"), Czestochowa (pronounced "chenstokhova"), Zajac
+(pronounced "zayontz").etc. this polish characteristic probably got
+into Yiddish words, including  (as above) words originated in
+Hebrew. Another possible influence of polish on Yiddish may be the
+changing of the "o" sound into "u" (or "oo"), like in "vos" becoming
+"vus". An o with an accent in polish - like Lwow, Piotrkov, Krakow -
+should be pronounced more like u. As for different pronounciations
+of sounds in Yiddish depending on, for example, geographic origin,
+these have no doubt been listed and tabulated in various
+publications. In the entry "Yiddish" in the Encyclopaedia Hebraica
+(in Hebrew) ther is even a  "map" with a diagram of different
+pronounciations of one word as an example ("nadan" - dowry). the
+references of this entry are the well known YIVO-Blaeter and the
+books by Weinreich (alone) and Herzog & Weinreich.
+
+Eliyahu Ahilea
+
+4)----------------------------------------------------
+Date: Thu Nov 11 10:34:47 1993
+From: mlakin@acpub.duke.edu (Martin  Lakin)
+Subject: change of address
+
+Unfortunately, Duke university is diddling around with its computer
+system and for a complete Komputer kalyiker like me, that is a
+katastrophie, vie men zogt oif Yiddish. So please take note of my
+new address for all internet mail und az dos vet zein der ergster
+vos vet mir bafallen, bit ich gor nit aza umgliklicher mentsch. A
+geroos alemen und men zol nor bleiben gezundt, Omein v, omein!!
+
+Mottel Lakin (mein "fun heintonike address: mlakin@acpub. duke.edu)
+
+5)----------------------------------------------------
+Date: Thu Nov 11 15:34:17 1993
+From: "Dr. Arthur Komar" <komar@yu1.yu.edu>
+Subject: etemology
+
+A klayne frage far a graysen khokhem:
+
+Gibt es an untershied tsvishen "leyzen" un "leynen"? "leyzen" iz
+bashtimt fun daytch. Vuhin kumt dos vort "leynen"? Darf men dos nor
+banutsen ven men zogt "leynen toyre", un farvos?
+
+Un aykhet farvos gibt es azoyfil briefelakh oyf english do, un azoy
+vintsig oyf yiddish? Gevalt!
+
+Arthur Komar
+
+______________________________________________________
+End of Mendele Vol. 3.130
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files

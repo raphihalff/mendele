@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.046
+June 10, 1995
+
+1) Kroyvets (Bernard S. Greenberg)
+2) Kroyvets/kroyvoys (Eliyahu Juni)
+
+1)----------------------------------------------------
+Date: Sun, 9 Jul 1995 13:57:10 -0400
+From: bsg@basistech.com
+Subject: Kroyvets
+
+I had always assumed that Mr. Krawitz down the hall was merely the Polish
+Jewish version of Mr. Schneider (Pol., "krawiec", tailor). Is there
+something hidden or clever going on here in the history of this name, or
+is this a red herring...
+
+Bernard S. Greenberg
+
+2)----------------------------------------------------
+Date: Mon, 10 Jul 1995 05:32:12 -0400
+From: ao107@freenet.carleton.ca
+Subject: Kroyvets/kroyvoys
+
+In volume 5.040, I wrote that "kroyvets" is a corruption of the Hebrew
+word "kroyvoys".  In vol. 5.043, Paul Pascal and Mikhl Herzog sent in
+alternative etymologies:  Paul suggested it is an acronym of the posuk
+'Koyl Rino Vishuo B'oholey Tsadikim', and Mikhl cited the _Tishbi_, who
+says it has a Romance derivation.  Both of these responses surprised me:
+I have always seen and heard "kroyvets" and "kroyvoys" used
+interchangeably (in speech and writing), and never doubted the
+connection.  The only difference I noticed was that "kroyvets" was
+treated as a singular noun, while "kroyvoys" was treated as a plural noun
+(but not as a plural adjective--evidence that it's Yiddish and not
+loshnkoydesh?)
+
+I got curious, so I did what any thoroughly lazy researcher does in such
+situations:  I asked someone else who knows more about it, in this case
+my father.  He said that "kroyvets" is a corruption of "kroyvoys", and he
+has also heard them used interchangeably.  (Yes, I was careful not to
+load the question.)  He then went and found me lots of info on names for
+piyutim (mostly from that gem of a collection, _Oytser Yisroel_).
+
+The _Tishbi_ quotes the acronym which Paul mentioned;  he also says it's
+a popular mistake (an early example of folk reanalysis?) and asserts that
+it's a corruption of "kroyvoys".  He explains the etymology of "kroyvoys"
+as follows:
+
+The piyutim are recited by the khazn;
+
+The khazn is/was formally called up to the 'omud' (similarly to the way
+Ashkenazim call up to the bime for aliyes);
+
+The khazn is known as the "koreyv", because he is called up with the
+commandment "krov"--'come near';
+
+Since the piyutim are recited by the "koreyv", they are called "kroyvoys".
+
+(A side note on the commandment "krov":  similarly, in the Ashkenazi
+nusakh for calling up the first oyle, the gabbai says ". . . koyheyn
+krov, ya'amoyd khloyne ben shmeruk hakoyheyn. . .")
+
+[Oytser Yisroel doesn't mention Romance sources at all;  I haven't seen
+the Tishbi in the original.]
+
+Oytser Yisroel also quotes another etymology from Avudraham, who says
+that "kroyvoys" are named for Rabi Aleksandro Krovo or Kroyvo, who is
+mentioned in a medresh as being the author of many of them.
+
+I still have no clue as to why the name "kroyvoys" applies specifically
+to the piyut for Purim, or why Purim's piyut should have a special name.
+
+I have never come across the usage of "kroyvets" to refer to a makhzer
+(mentioned by Reb Mikhl).  In fact, I have never come across "kroyvets"
+except in the phrase "kroyvets/kroyves l'pirem" or in a Purim-related
+context.  (I have also never heard the pronunciation "payet" for
+"piyet".)
+
+There are also a bunch of other names for specific piyutim:
+
+"Oyfanim" (sing. "oyfn") are piyutim inserted in k'dusha d'sidra (the
+middle of the brokhe of "yoytser ham'oyroys") before the words
+"vho'Oyfanim v'khayoys hakoydesh" (the connection here should be clear).
+
+("Yoytser" originally referred to a piyut inserted in the first brokhe
+before kriyas shma, "yoytser ham'oyroys,' and was subsequesntly applied
+to any piyut inserted in shakhris or khazoras ha-sha"ts.  See vols. 5.040
+and 5.043.)
+
+A "Zulas" is inserted in the middle of the brokhe after shma ("go'al
+yisroel") at the words "ein lonu oyd eloykim zulosekho selo". ('zulas'
+plus possessive = 'zulosekho').
+
+A "Seyder" is a piyut which explains something in order, e.g. the "seyder
+ho'avoydo" for Yom Kipur, which delineates the Yom Kipur service in the
+Beys Hamikdosh.
+
+A "Pizmon" is any piyut which has a chorus or a refrain.  (Supposedly
+from a Greek root involving the consonants p,z,m, used in Targum as a
+translation for the word "Vaya'an"--'and [he] answered'.)
+
+[There are also other names for piyutim based on their structure, such as
+"shniyo", "shlishiyo", and "shalmoynis", but I don't think they were a
+part of everyday speech.]
+
+I seem to remember "pizmen" making its way into some Yiddish idioms with
+a different meaning, but I can't remember them offhand.  I imagine the
+others were occasionally borrowed by Yiddish speakers, but I don't think
+they became independent of their original meanings, the way "yoytsres"
+and "pizmen" have.  Has anyone come across them outside their direct
+reference to piyutim?
+
+My apologies to those for whom this discussion has strayed too far from
+Yiddish into loshn hakoydesh.  (Having spent an inordinate amount of
+effort trying to make it to those parts of "Ashkenaz" that were just
+before and just after Shabbes, and sorely regretting the fact that some
+very interesting events were held at times when anyone Orthodox couldn't
+be there, I needed quite a bit more to consider it 'even' :-).
+
+Eliyahu Juni
+
+______________________________________________________
+End of Mendele Vol. 5.046
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

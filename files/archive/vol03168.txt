@@ -1,0 +1,145 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.168
+December 15, 1993
+
+1) A little more on word order (Reyzl Kalifowicz-Waletzky)
+
+1)----------------------------------------------------
+Date: Tue Dec 14 15:59:29 1993
+From: Roslyn Kalifowicz-Waletzky <0005943838@mcimail.com>
+Subject: Re: a little more on word order
+
+        All those who disagree with the Bermans, please forgive me
+for taking a little more time to embellish on a point about word
+order to any other lurking beginners still confused by all this
+arguing. Since I got an expected "unfriendly" letter from one
+Berman (among several thank you notes), I figure they may be other
+people out there who also still don't get it.  Yesterday's letter
+from Marnen Laibow-Koser proves that.  So bear with me while I
+reproduce an edited copy of parts of my personal response to Jason
+Berman.
+
+        "I spent the time writing that Mendele essay, not only
+because the argument has created too much confusion and needless
+animosity (on- and off-line), but because I recognize that
+ayngeshpartkayt.  It reminds of the dead-end conclusions I sometimes
+fell into at the beginning of my Yiddish teaching career (1971) when
+I tried to fit my dogmatic reading of Weinreich's stated rules to my
+own native Yiddish, because I began teaching Yiddish a year and a
+half before I formally studied Yiddish linguistics. (That as well as
+this whole discussion here would make an interesting
+psycholinguistic study.)  Then I finally got to question my teacher
+Mordkhe Shaechter about terms like "always", "sometimes", "only in
+some dialects", etc. in "College Yiddish".   So my writing is partly
+out of sympathy for a kind of blind aynkeshpartkayt about some
+linguistic issue I remember once falling into myself in the early
+1970's.
+
+        The issue here is really a semantic quibble, but of the type
+that completely thwarts correct classification and the nature of two
+very important categories at hand, namely, what is correct Yiddish
+and what isn't.  You are obviously not a linguist and that's
+perfectly o.k.  I never primarily identify myself as one despite my
+degree.   But I will try to reclarify one small point again.
+
+        My husband tells me that, for at least the last 30 years,
+linguists have understood that what is out of the norm is not
+necessarily outside of grammar.  Bill Labov's milestone study about
+Black English being a non-standard rather than a substandard dialect
+is what honed this point home.  Although we are comparing 2 very
+different things, the argument here reminds me of that substandard
+vs. non-standard issue.  Your statement that verb-first sentences
+are out of the norm is correct.  The verb position is without
+question out of the norm and that is what makes it special,
+different or, to use a linguistic term. "marked".  But what you
+don't understand is that the difference between such sentences and
+normal word order sentences is not random.   When you claim that it
+is ungrammatical, you imply that the word order is random.  The
+verb-first sentences cited to you still conform to very strict
+rules.  And those rules are part of the repertoire available within
+the normal, regular rules of Yiddish grammar. An out of the norm
+Yiddish sentence can have scores of possible variations (look at
+lesson 11 and see how you can jumble all the sentence units). But
+the point is that of all possible combinations, only one is
+possible.  The verb is limited to only one alternate position and
+everything else in that sentence, e.g., pronouns, subject phrase,
+object, nisht, etc., still has to follow the rules of normal word
+order.   Those rules are very strict and no "poetic license" is
+allowed here.  Poetic license in poetry, for example, gives you many
+more variations than mere inverted word order.  On a continuum of
+grammatical rules, inverted word order is to be found right next to
+regular word order and poetic license is on the opposite end.
+
+        While poetic license may include inverted word order, it
+isn't limited to it.  Poetic license may operate outside of Yiddish
+grammar. Perhaps putting it this way may help.  As a category,
+inverted word order is an overlapping category that falls into the
+category of Yiddish grammar and into the category of poetic license.
+While poetic license may borrow inverted word order, inverted word
+order resides within the category of Yiddish grammar and not in the
+category of poetic license.
+
+        You have often called use of this word order a deviation
+from natural speech and as such it is/should be considered
+creativity.  I say yes; this linguistic feature is itself without
+doubt a very skillful, clever, and creative narrative and rhetorical
+device.  Its use, however, is so commonplace in both colloquial
+speech and narrative forms that it alone does not render discourse
+"artistic" or "creative".
+
+        I DO understand your concern about Yiddish students no
+longer taking normal word order seriously when they see the kind of
+argument many of us are making here.  But I would not make it if I
+thought a beginner student could not handle hearing about it at the
+point of Lesson 11 with the proper explantion.  The fact is that
+there are more permissible types of verb-first constructions than
+imperatives and questions.  Producing these kinds of sentences in
+their CORRECT CONTEXT is more difficult than you realize, but I
+assure you that you could recognize incorrect word order from the
+grammatically correct verb-first sentences that we are talking
+about.  I would not teach this use to first-year students but I
+would not hesitate to point it out either at the proper occasion.
+
+BTW:   Although he has long left linguistics, my husband is still
+considered THE expert on Yiddish syntax.  In fact, I was recently
+told that the whole reading list for a course on Yiddish syntax at
+Hebrew U. 2 years ago consisted of one item-- his "Topicalization"
+article.  He has looked over everything I have written on this topic
+on Mendele, and he has corrected very little.
+
+Nu, ikh hob geton mayns un mer ken ikh nisht.
+
+--------------------------------
+
+I just read in a TV listing that there is going to be a program
+about the history of Yiddish tonight on PBS-Channel 13 at 8:00 PM
+New York time. Check you time slots.
+
+Reyzl
+
+______________________________________________________
+End of Mendele Vol. 3.168
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

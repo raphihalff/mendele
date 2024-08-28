@@ -1,0 +1,156 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.155
+December 21, 1996
+
+1) Slavic influences on Yiddish syntax (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Fri, 20 Dec 1996 20:40:44 EST
+From: ellen@central.cis.upenn.edu
+Subject: Slavic influences on Yiddish syntax
+
+n.b. for those who do not care about the technicalities of
+yiddish grammar, please do not read -- or else do not kvetsh. ;)
+
+for those that do care, great! and please feel free to chime in -- i
+address what follows to the two people whose posts i'm answering, but
+i'm really speaking to whoever is interested and would appreciate
+feedback/input. thanks.
+
+dovid braun mentions multiple wh-fronting as an example of slavic
+influence on yiddish syntax. dovid, glad you brought this up. have you
+by any chance worked on this? several years ago i tried to -- the only
+naturally-occurring token i've ever found was olsvanger's 'zi veyst nit
+ver mit vemen es shlogt zikh' so i tried to elicit some others from two
+yiddish speakers. more precisely, i translated some simple examples of
+multiple wh-fronting in slavic from papers by catherine rudin on
+bulgarian and tina kraskow on russian. both yiddish informants rejected
+them outright. i don't remember them exactly but they included things
+like 'vu ver iz gegangen?' 'ver vos vet esn?' 'ver vemen ken?', with all
+permutations of the wh-words. are these ok, in your opinion? in any
+event, i concluded that the situation in yiddish is not clear but that
+it doesn't seem to be a direct syntactic borrowing of the slavic
+situation. btw, both informants (one from lithuania, like olsvanger, the
+other from romania) found olsvanger's sentence fine but parsed it as a
+conjoined subject, the kind with 'mit' instead of 'un' -- which, btw,
+_is_ a from a slavic influence, but at the lexical level. anyway, i'd be
+very interested in seeing/hearing about anything you've done on this --
+interesting topic!
+
+meyer leyb wolf would like to know why the following are not
+examples of slavic influence on yiddish syntax:
+
+>1. The position of the reflexive pronoun after the infinitive verb when
+>the verb is the subject of the sentence 'bodn zikh nokh heyser arbet iz
+>a mekhaye" is like Polish, but unlike German.
+
+german, like old yiddish but not like modern yiddish, is 'sov' -- the
+normal word order is subject-object-verb. now this is partly masked in
+main clauses because german also has a 'verb-second constraint' -- in
+german, the tensed verb must move into second position in main clauses.
+if you look at german subordinate clauses, you'll see the sov word
+order. you'll even see traces of it in main clauses if you look at a
+complex tense -- only the tensed part is in second position, the
+participle is clause-final. now consider that the reflexive pronoun is
+like an object -- so its normal position is before the verb. so an
+infinitive would be 'reflexive - verb'. ok, so far so good. now to
+modern yiddish. modern (eastern) yiddish is svo -- subject verb object.
+(plus of course it has the verb-second constraint on top of that, plus
+it has extended that verb-second constraint into subordinate clauses.)
+this means that you'd expect to find the reflexive, which is a kind of
+object, following the verb, including the verb in its infinitive form.
+so there's no need to invoke slavic -- it follows from the general word
+order facts of yiddish. oh, don't be misled by the fact that object
+pronouns often occur _before_ participles in yiddish, e.g. ikh hob _im_
+gezen. this is a fairly common phenomenon -- in germanic as in many
+other languages -- of 'light' things moving up, often called
+'clitic-climbing'.
+
+btw, the change in yiddish from sov to svo word order may have been
+influenced by slavic -- but it would be a slow and indirect influence.
+but it may have been independent -- the same exact changes took place in
+the scandinavian languages (danish, swedish, norwegian, icelandic) and
+in english, without any help from slavic. in fact, the odd men out are
+modern german and dutch -- the only two major germanic languages that
+are still sov. in any event, i heartily recommend beatrice santorini's
+dissertation, a study of the generalization of the verb-second
+constraint to subordinate clauses in yiddish with the cooccurring change
+from sov to svo (univ. of pennsylvania, 1989 -- and not my student, btw,
+so i have no axe to grind, tho i do have a lot of nakhes from her ;) ).
+
+>2. The use of "negative" clauses of purpose after certain verbs, e.g.
+>'ikh hob moyre, dos kind zol nit veynen' -- I'm afraid the child might
+>cry  -- is again like Polish, but unlike German.
+
+well, this could also be -- and probably has been -- attributed to
+french, where you get the same thing (j'ai peur que l'enfant ne pleure).
+what we would need to see is whether it occurs in old yiddish
+(pre-slavic contact) and whether it occurs in bavarian german or other
+germanic varieties.
+
+on the subject of negation, yiddish has 'negative concord' -- keyner hot
+keynem keynmol nit gezen 'no one ever saw anyone' -- which i've seen
+attributed to a borrowing from polish. unfortunately, bavarian german
+ALSO has negative concord (as do many nonstandard english dialects, btw
+-- it's clearly well-entrenched in germanic). and we find negative
+concord in old yiddish, before slavic contact.
+
+the whole issue of negation in yiddish is very interesting and cries out
+for research.
+
+>3. Regionally, negative imperatives are formed on the pattern 'nit
+>veyn', like Polish, but unlike German (and the rest of Yiddish).
+
+again, we'd have to look at old yiddish and the relevant germanic
+varieties before concluding a slavic provenance. in modern terms, one
+would say that the verb is not raising in these cases. we'd want to see
+if there are other instances of where no verb raises or if this is
+unique. btw, you can say 'nem!' and 'du nem!' and 'nem nit!' and 'nit
+nem!' and 'du nem nit!' -- can you also say 'du nit nem!'? if not, maybe
+it's just a verb phrase without an 'infl' node at all, in which case the
+_model_ may have been slavic but the _actual syntax_ would be just a piece
+of what they already had. in any event, it's a nice topic for study.
+
+speaking of imperatives, do you know of a possible analog in slavic for
+the yiddish double imperative, e.g. gey veys, kumt est? am i correct
+that these can't be negative? i mean, can you say 'nit gey tants' or
+'gey nit tants' or 'gey tants nit'? i've been able to get informants to
+accept an imperative followed by an infinitive when it's negative --
+'gey nit tantsn' -- but not a negative double imperative. is that
+correct? that double imperative is a very curious construction, for
+sure...
+
+finally, i should add that that i _do_ believe there is a lot of slavic
+influence in yiddish syntax -- but i think that the influence worked to
+increase the frequency of certain native germanic yiddish forms, which
+then may have had an effect on how the next generation construed the
+grammar. for instance, i have a hunch (unprovable so far) that the weird
+pluperfect 'ikh bin gehat gegangen' results from a reanalysis of the
+original 'ikh bin geven gegangen/ikh hob gehat geredt' as containing an
+invariant particle 'gehat' -- _because_ the frequency of pluperfects
+dropped very low after yiddish borrowed the _semantics_ of the slavic
+tense system -- suddenly pluperfects were hardly needed so the kid
+hardly heard any and so didn't have enough 'data' to get the 'right'
+analysis. as minor support i offer the following tidbit: there are a
+grand total of 6 pluperfects in the entire royte pomerantsn (181 pp.)
+but several on nearly _each page_ of the early 16th century (pre-slavic
+contact) bove bukh...
+
+anyway, that's one way i believe slavic influenced yiddish syntax, but
+it's not the way that people usually cite. another way would be the
+possible scenario i hinted at for the 'nit veyn' case -- take the slavic
+form as a model or goal and see how close you can get using
+_yiddish/germanic_ syntax -- but here in fact there's no _formal_ change
+(tho there'd probably be a change in the frequency of the yiddish form
+chosen for the new 'work').
+
+sorry for the verbosity -- you happened to hit on my great passion (as
+you knew you would ;) ).
+
+Ellen Prince
+
+______________________________________________________
+End of Mendele Vol. 6.155
+

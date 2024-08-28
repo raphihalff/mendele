@@ -1,0 +1,185 @@
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 22.001
+May 25, 2012
+
+1) "poyer" (Jules Levin)
+2) Yiddish for "know it all" (Barbara Krasner)
+3) rebbe (Norbert Hirschhorn) 
+4) gimze (Yankl Falk)
+5) Vestiges of progressive voicing assimilation in NEY (Joshua Lebenswerd)
+6) "ruf mikh nar un gib mir lekakh" (Ruth Murphy)
+7) Yiddish Spell Check (Refoyl Finkel)
+8) "Vi shver s'iz tsu gleybn" (Rukhl Schaechter) 
+9) "Tsistsilist" (Veronica Belling)
+
+1)----------------------------------------------------
+Subject: etymology of "poyer"
+Date: April 27
+
+What is the etymology of "poyer" for "peasant"?
+Seems more Slavic than either Germanic or Hebrew.
+
+Jules Levin
+
+2)----------------------------------------------------
+Date: April 26
+Subject: Yiddish for "know it all"
+
+I am writing a novel that takes place in a shtetl on the road between Warsaw and 
+Bialystok in 1919. I'm looking for the Yiddish equivalent of "pompous ass" or "know-it-
+all." Any suggestions?
+
+Barbara Krasner
+
+3)----------------------------------------------------
+Date: May 24
+Subject: rebbe
+
+Yiddish dictionary on line, citing YIVO standards, spells the Hasidic rabbi as "rebe," 
+http://www.yiddishdictionaryonline.com/ while Wikipedia uses "rebbe." 
+http://en.wikipedia.org/wiki/Rebbe_%28disambiguation%29
+Please, which is correct? A non-Jewish friend of mine read "rebe" as "reeb"
+
+Cheers,
+Norbert Hirschhorn
+
+4)----------------------------------------------------
+Date: April 24
+Subject: gimze
+
+Earlier today, Gloria Berkenstat Freund posted a question to the Mendele Personals list, 
+but the answer is of general linguistic interest.  Gloria wrote:
+
+I am translating an article from the Kurow Yizkor Book. There is a reference to "leder 
+gimzes." The phrase appears in a paragraph about a "Polish shoemaker who agreed to hide 
+Jews in exchange for 10 "leder gimzes." Does anyone know what a leather "gimze" is?
+
+In "Jews and Shoes" (Oxford, UK: Berg, 2008), Edna Nahshon defines "gimze" as "thin 
+and supple goat hide... Gimze, which was very pliable and expensive, came in brown and 
+black." [95]  For European shoemakers, gimze was "[t]he most expensive leather for 
+uppers." [97]
+
+I found another clue in the soc.genealogy.jewish archives (14 Nov 2011): 
+"Gimze" is a regional Yiddish variant for the German gemze but is not standard Yiddish.
+
+And Gemze?  It's the German name for the wild European antelope better known to us 
+by its French name (chamois).  But so far as I know, not related to Gomez (gam zu 
+l'tovah).
+
+Yankl Falk
+
+5)----------------------------------------------------
+Date: May 25
+Subject: Vestiges of progressive voicing assimilation in NEY
+
+EY famously employs the "Slavic" habit of regressive voicing assimilation in obstruent 
+clusters.
+NEY is described as having an even more pervasive application than other EY dialects, 
+namely assimilation also applies across word boundaries: "host genug" "hozd genug" etc.
+Interestingly, the word /nito/ "absent," a contraction of /nit do/ "not here," seems to 
+demonstrate progressive, rather than regressive, assimilation. /nit/ is also a NEY lexical 
+item, cf. nish (mostly non-NEY).
+Maybe there are more examples, but this is likely a vestige of a time when yiddish 
+employed a different phonology.
+This should be looked into.
+
+Josh Lebenswerd
+
+6)----------------------------------------------------
+Date: May 15
+Subject: "ruf mikh nar un gib mir lekakh"
+
+Tayere leyeners,
+
+I was wonder if anyone recognizes the expression "ruf mikh nar un gib mir lekakh" as a 
+song, probably from right around the turn of the century? Do you know which one? I 
+looked on the internet but didn't find anything. The line is from the play "Mirele Efros," 
+written about 1898. Here is the text it appears in: 
+
+Hannah Devoire: Afilu in der linker peyah ligt es mir nisht. Vi zogt men: ruf mikh nar un 
+gib mirlekakh. . . Ikh vil zen beser di kallah-matones. Ir hot tzugezogt dimentene 
+oyeringlekh, mit a brosh, mit a bronzshelet, nomikh akorsht zen. . . ir meynt nisht, az ir vet 
+opkumen mit shieh-pieh.
+
+I'd appreciate any suggestions! Also, I've seen various translations for "lekakh" (cinnamon 
+cake, honey cake). Any thoughts on this word?
+
+A sheynem dank,
+Rus (Ruth Murphy)
+
+7)----------------------------------------------------
+Date: May 24
+Subject: Yiddish Spell Check
+
+A more feature-filled spell checker I have built is at
+http://www.cs.uky.edu/~raphael/yiddish/checkSpellUTF.cgi 
+
+Refoyl Finkel
+
+8)----------------------------------------------------
+Date: April 29
+Subject: "Vi shver s'iz tsu gleybn"
+
+The poem George Sacks is looking for is a Holocaust song called "S'vet Zikh fun Tsvaygl 
+Tseblien a Boym." Lyrics: Sh. Katczerginski. Music: A. Volkoviski.
+The words and transliteration appear in Gottlieb and Mlotek's *25 Ghetto
+Songs.*
+
+Rukhl Schaechter
+
+9)----------------------------------------------------
+Date: May 23
+Subject: "Tsistsilist"
+
+Hi there,
+
+In a Yiddish book I am translating, "Mayn Lite" by Solomon Buirski, published in 1976 
+in South Africa, but referring to the years 1902-1911 in Lithuania, they use the word 
+(noun) "Tsistsilist" for somebody who has become a free thinker or apikoros. On a google 
+search the word "Tsitsilist" appeared in the online English translation of the Yizkor Bukh 
+for Nowy Sancz on the Jewishgen.
+
+
+What would b a good English equivalent for "Tsitsilist" and what is the derivation of the 
+word? I know what immediately comes to mind is the German/Yiddish word for a 
+woman's breast. However, a friend of mine wondered if there could be any connection 
+with the word "zeteticist," meaning a skeptic, which entered the English and other 
+European languages from the Greek?
+
+Veronica Belling
+______________________________________________________
+End of Mendele Vol. 22.001
+
+Please do not use the "reply" key when writing to Mendele. Instead, direct your mail as 
+follows:  
+ 
+Material for Mendele Personal Notices & Announcements, i.e. announcements of events, 
+commercial publications, requests to which responses should be sent exclusively to the 
+request's author, etc., always in plain text (no HTML or the like) to:  
+ 
+   victor.bers@yale.edu (in the subject line write Mendele Personal)  
+ 
+Material for postings to Mendele Yiddish literature and language, i.e. inquiries and 
+comments of a non-commercial or publicity nature:  
+ 
+    mendele@mailman.yale.edu  
+ 
+IMPORTANT:  Please include your full name as you would like it to appear in your 
+posting.  No posting will appear without its author's name.  
+Submissions to regular Mendele should not include personal email addresses, as 
+responses will be posted for all to read.  They must also include the author's name as you 
+would like it to appear.
+ 
+In order to spare the shamosim time and effort, we request that contributors adhere, when 
+applicable, as closely as possible to standard English punctuation, grammar, etc. and to 
+the YIVO rules of transliteration into Latin letters. A guide to Romanization can be 
+found at this site: http://www.yivoinstitute.org/about/index.php?tid=57&aid=275 
+ 
+All other messages should be sent to the shamosim at this address: 
+mendele@mailman.yale.edu  
+ 
+Mendele on the web: http://mendele.commons.yale.edu/
+
+To join or leave the list: http://mailman.yale.edu/mailman/listinfo/mendele

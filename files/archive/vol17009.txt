@@ -1,0 +1,165 @@
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 17.009
+September 2, 2007
+
+1) tsholnt (Martin Jacobs)
+2) tsholnt (Amitai Halevi)
+3) -lekh (Hugh Denman)
+4) -ekh ( Joachim Martillo)
+5) krasny bilet (Gerry Kane)
+6) krasny bilet (David Spodick)
+7) loksh (Jules Rabin)
+8) loksh (Mel Comisarow)
+
+1)----------------------------------------------------
+Date: August 7, 2007
+Subject: tsholnt
+
+Just to add to Dr. Glasser's etymology of "tsholent": The word would not be
+derived directly from the Latin "calentem," but rather by way of a French
+derivative from the latter, since it begins, not with /k/, as in Latin, but
+with /tsh/.  "C" before "a" regularly became "ch" in French (pronounced
+/tsh/ in Old French, in Modern French /sh/); thus "canis" > "chien,"
+"cattus" > "chat," "caput" > "chef."
+
+Martin Jacobs
+
+2)----------------------------------------------------
+Date: August 12, 2007
+Subject: tsholnt
+
+Commenting on my suggestion that "petsha" may be a corruption of the French
+"pied chaud" (heated foot), in analogy to the more familiar derivation of
+"cholent" from "chaud lent" (slowly heated), Hershl Glasser rejects the
+former in favor of Max Weinreich's derivation from the Latin "calentem"
+"(approx.) being heated,", and adds: "to prove that "petsha" derives from
+"pied chaud," you would have to explain, for example, why the final /o/
+sound in French yields /a/ in Yiddish."
+
+Not being a philologist, I do not presume to "prove" anything. However, I
+can't see why transformation of  the "ca" in "calentem" to "cho" in
+"cholent" is any more (or less) reasonable than that of "chaud" in "pied
+chaud" to "tsha" in "petsha," which - for all I know - may well have been
+pronounced "petsho" several hundred years ago.
+
+Hershl Glasser  is certainly right in arguing that "you cannot ascertain an
+etymology merely from a chance phonetic resemblance," but isn't it equally
+true that you cannot reject an etymology merely from a chance phonetic
+variation?
+
+Amitai Halevi
+
+3)----------------------------------------------------
+Date: August 24, 2007
+Subject: -lekh
+
+re: Felicitas Payk's query concerning the diminutive plural suffix "-lekh"
+[17.006:8], the simple answer is that the Slavic and Semitic components are
+not involved here. The suffix is totally Germanic and exists to this day in
+certain Bavarian dialects.
+
+Hugh Denman
+
+4)----------------------------------------------------
+Date: August 7, 2007
+Subject: -ekh
+
+-ekh is a plural ending in Franconian and related dialects of German.
+Probably, it is related to a plural form that is something like -es because
+s and some sort of aspirated consonant often interchange in Indo-European
+languages. In Slavic languages we often come across instrumental plurals
+like -ych/-ich which are probably related to Latin dative/ablative in -is.
+In Ostjiddisch one might speculate that the Slavic plural forms in -
+ych/-ich might have reinforced an imported Franconian ending.
+
+Joachim Martillo
+
+5)----------------------------------------------------
+Date: August 8, 2007
+Subject: krasny bilet
+
+Vegn Krasny bilet:  I know it in two meanings:  a)  in the modern sense of
+the red ticket for a soccer infraction and b) as a "scarlet letter"= a
+ticket given to prostitutes by the authorities.
+
+Gerry Kane
+
+6)----------------------------------------------------
+Date: August 8, 2007
+Subject: krasny bilet
+
+I don't have anything solid, but I can think of 2 aspects of the term which
+I think have been unconsidered:  (1) "Krasny Bilet" as "Red Card" might
+refer to membership card in the Communist Party.  (2) "Krasny" (in Russian
+and in Slovak, at least) means both "red" and "beautiful."  Also, what
+other meaning exist for "bilet"? In French (billet) and Russian (bilyet),
+it could mean "ticket."  Looking forward to some Mendelyaner's solution(s).
+Keep up the good work.
+
+David Spodick
+
+7)----------------------------------------------------
+Date: August 19, 2007
+Subject: loksh
+
+Regarding Mike Hirsch's comment (July 20) on "loksh": in  my own experience
+with Litvishe kitchen-Yiddish, the word "loksh," in reference to persons,
+appeared only in conjunction with  "lang," as in "Er is geven a lange
+loksh."  In my family's lingo, I took "lange loksh" to be the equivalent of
+American "string bean," to describe a tall, skinny fellow.  I never heard
+the word "loksh" used as a substitute for "an Italian" (as Mike Hirsch
+reports).  That usage, bv  the way -- a national food substituting for
+personhood -- is similar to an earlier American usage, "Kraut" (cabbage)
+for "(a) German."  Not pretty in the latter case, and maybe not in the
+former case, either ("spaghetti" as an epithet for "Italian").  And then
+there's "frog" for the French.
+
+Does anyone know of any Yiddish food words that are used in reference to
+ourselves, generically?
+
+Jules Rabin
+
+8)----------------------------------------------------
+Date: August 17, 2007
+Subject: loksh
+
+On July 20, Mike Hirsch asked wether a loksh was a slang term for Italian
+in Philadelphia.  Well, lokshn (literally noodles in Yiddish) was a slang
+term for Italians in New York City, in Toronto and in Alberta. So I assume
+that this usage was universal in English-speaking North America. I don't
+know about Mexico or Quebec.  This usage was part of New World Yiddish.
+Quoting directly my father, "When we were in Russia, we didn't even hear of
+Italians."
+
+Mel Comisarow
+______________________________________________________
+End of Mendele Vol. 17.009
+
+
+Please do not use the "reply" key when writing to Mendele. Instead, choose
+one of these, as appropriate:
+
+   Material for postings to Mendele Yiddish literature and language:
+
+      mendele@lists.yale.edu
+
+   Material for Mendele Personal Notices & Announcements:
+
+victor.bers@yale.edu (in the subject line write Mendele Personal)
+
+   Other messages to the shamosim: mendele@lists.yale.edu
+
+
+   Address for the list commands: listproc@lists.yale.edu
+
+To signoff from the list, email to listproc@lists.yale.edu with the
+following request:
+
+                 signoff MENDELE
+or
+                 unsubscribe MENDELE
+
+
+Mendele on the web: http://shakti.trincoll.edu/~mendele/index.htm

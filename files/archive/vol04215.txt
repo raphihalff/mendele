@@ -1,0 +1,168 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.215
+December 5, 1994
+
+1) Nishdogedakht (Izaly Zemtsovsky)
+2) Dialectics (Arre Komar)
+3) Getting the word out (Brian Zumhagen)
+
+1)----------------------------------------------------
+Date: Sun, 4 Dec 1994 19:49:19 -0600
+From: kunanbay@facstaff.wisc.edu
+Subject: Nishdogedakht
+
+It was so popular among so-called Belorussian Jewry! I well remember from
+my family (descended from Vitebsk region) the only pronunciation without
+'sh', i.e. 'nidogidakht'. Frankly, I 'm in using this word up today just
+in such form. I remember one day in St.Petersburg when a friend of mine
+(he is from Litvaks, I guess) answered me about one new Soviet opera
+abruptly and capaciously: "Nidogidakht!" At once it became clear this
+music not for us...
+
+Izaly Zemtsovsky
+
+2)----------------------------------------------------
+Date: Sun, 4 Dec 1994 21:01:54 -0500 (EST)
+From: komar@yu1.yu.edu
+Subject: Dialectics
+
+In the discussion re what authority decides proper usage if not the
+average native speaker, most languages have an advantage over Yiddish.
+This is due to the fact that they have or have had in their past a
+national state which sanctioned one particular dialect over all others.
+Thus was established the "correct" usage. This applies not only to
+vocabulary and spelling but also to grammatical rules. Yiddish was never
+so blessed (or cursed, depending on your viewpoint). There seems to be a
+self styled academy growing in the American Universities, but it seems
+that they may be divorced from the surviving speakers of the living
+language, the Hasidim. Has anyone looked into the Hasidic press to see
+the degree to which their usage agrees or disagrees with the language
+being taught in the Universities? And if they differ does it become a
+question of right vs. wrong? And if so, who is to decide?
+
+Some dialect questions:
+
+Ikh bin gegangn  or  ikh hob gegangn ? (I prefer the former but have
+heard dialects in which the latter is consistently employed.)
+
+Ikh lib dikh  or  ikh lib dir  or  ikh hob dikh lib  or ikh hob dir lib?
+(Note: I'm quite familiar with proper German gramatical usage, but does
+that make it the "correct" Yiddish usage? Remember, the Germans have been
+blessed by having a national state.)
+
+Other dialect items:
+
+I have been informed that in the area around Lodz there existed prior to
+WWII the first person dual nominative form  oon (as opposed to enk). Can
+anyone confirm this? If so how would the verb decline?
+
+tshatshke vs. tsatske
+
+Clearly these are dialect distinctions in pronunciation. However it his
+been my experience in my parents' dialect to hear it pronounced both
+ways, with a resulting distinction in meaning and/or usage:
+
+Vos far a tshatshke hostu gekoyft?  (i.e. worthless trinket)
+Oy iz zi a tsatske!  (i.e. sarcastic implication of nastiness)
+
+Is this distinction recognized by anyone else out there?
+
+Tsi es git emetsn vos (or ver)...  vs.  Tsi 'siz faran emetsn vos (ver) ....
+vs.... Tsi 'siz emetsn vos (ver) ...
+
+I notice that the faran usage seems to be prefered here, however many
+Yiddish speakers that I've met find it redundant or even puzzling. And
+certainly I don't find agreement on vos vs. ver even though the latter is
+more logical.
+
+Finally, on a some what different issue, transliterated spelling: Clearly
+with with the varied dialects there can be no agreement on standardized
+spelling. I feel rather comfortable with the Yivo sheme currently being
+promoted. However there are aspects of the Soviet scheme which  are
+superior, e.g. x vs. kh, c vs. ts, c^ vs. tsh. (In Chinese Pinyin they
+have adopted the x and c usage, which makes it almost half of mankind
+|-). )  Any thoughts?
+
+Arre Komar
+
+3)----------------------------------------------------
+Date: Sun, 4 Dec 1994 22:19:21 -0500
+From: branstone@aol.com
+Subject: Getting the word out
+
+In response to my posting about media attention for Mendele, Louis
+Fridhandler wrote to me:
+
+"I dare say a few selected interviews in depth with some Mendelniks might
+turn up some extremely interesting stories, dramatic sagas perhaps. We
+are a varied lot.  All are united by this love for a culture (language
+and literature) mauled by history.
+
+One phenomenon I find especially interesting is the number of non-Jewish
+Mendelniks who have developed both facility and love for Yiddish.  There
+is one even in Germany.
+
+In a movie set in Montreal, "Lies My Father Told Me," a little boy asks
+his Zeyde, "Do you believe in miracles?"  His Zeyde replies (without
+skipping a beat), "No, but I rely on them."  The internet itself is a
+miracle.  The survival of Yiddish is a special one.  Yiddishists still
+rely on miracles. The irony is that Yiddish culture has been mainly a
+secular enterprise.
+
+The focus of a radio program need not be on the internet itself, but on
+the fact that the internet has functioned to bring together widely
+scattered devotees of Yiddish.  Generally they don't live close enough to
+form a critical cultural mass.  They are too dilute.  The internet in
+this case does something out of the ordinary."
+
+I couldn't agree with him more. For this reason, I would like to call
+upon Mendelniks to e-mail me personally with your Mendele tales... how
+you got turned on to Mendele, why it's important to you, what your level
+of ability is. Please write even if you are new or have a low level of
+Yiddish ability (like me). I would like very much to put together a story
+for the print media, in addition to radio. If any of you live in the San
+Francisco Bay Area, or in Boston, I could perhaps do live interviews with
+you.
+
+Note: Anyone who would like to be interviewed or to submit writings to me
+needs to be comfortable with the idea that they may be aired publicly. We
+can discuss this on an individual basis, as well.
+
+Brian Zumhagen
+
+______________________________________________________
+End of Mendele Vol. 4.215
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

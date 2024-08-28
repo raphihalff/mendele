@@ -1,0 +1,126 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.136
+November 19, 1993
+
+1) Leyenen/lezn and Standard Yiddish (Bob Hoberman)
+
+1)----------------------------------------------------
+Date: Thu Nov 18 12:16:02 1993
+From: Robert D Hoberman <RHOBERMAN@ccmail.sunysb.edu>
+Subject: Leyenen/lezn and Standard Yiddish
+
+My Litvishe parents differentiate leyenen and lezn as Khayim Bochner
+described: me' leyent di teyre in shul, me' lezt a bukh.  (Ikh veys
+nisht, tsi leyent men a seyfer oder lezt men.)
+
+Here's a related question: a student whose parents' Yiddish uses
+lezn (pronounced leyzn) asked me what the past participle of it was,
+and I wasn't sure, so I went to look it up in Weinreich.  What do I
+find there?  No definition or grammatical information, but only a
+cross-reference to leyenen and the little wedge symbol that means
+"inadmissible in the standard language." I find that very sad.  With
+the dwindling human resources that Yiddish still has, can we afford
+to throw anything away?  Does anyone else feel that way? Even more
+so the little black dot (blackball) that means "of doubtful
+admissibility in the standard language"--"a sofek tsi derlozlekh in
+der klal-shprakh."  To me those are about the saddest words ever
+written about Yiddish.  They imply that someday someone will decide
+whether to accept the word, and that their decision will affect the
+usage of a substantial community of Yiddish-users (not just
+students).  It's clear that even now the standards of standard
+Yiddish have little influence on many, perhaps most, of those who
+speak, write, and publish in Yiddish nowadays, that most of them are
+far more influenced by the need for cohesion of their particular
+communities, and probably by a need to differentiate themselves from
+all others in language as in dress and customs.  Could Weinreich
+really not have seen this?
+
+I feel the same way about standardizing Yiddish spelling.  I don't
+think it's necessary, for two reasons:
+
+	1.  Not all languages have fully uniform spelling in
+practice, as we English speakers (and speakers of many other
+European languages) feel is the sine qua non of a "real" language.
+In modern Hebrew, for instance, there is quite a lot of variation in
+the use of vav, yud, and alef to indicate vowels. Nearly everyone
+(but not 100%) agrees in principle on "ktiv male", "full spelling",
+which uses "extra" vavs and yuds that would not be in the word if
+vowel dots were used, but the details in practice differ.  (For
+instance, shulkhan 'table' is written shin-vav-lamed-khet-nun in
+"full spelling", but in "lacking spelling" lacks the vav and has in
+its place a kubuts [three diagonal dots] under the shin]; mikhtav
+'letter' usually lacks a yud even in "full spelling", but I've seen
+a yud in it in some respectable publications.) Although there is a
+standard issued by the Hebrew Language Academy (and changed several
+times in the last 40 years), far from everyone adheres to it; not
+even all schools.  Each newspaper has its own policy, and you will
+frequently see a word spelled differently (in respect to vav, yud,
+and alef) between a headline and the body of an article.  To take a
+different example, Dutch has "reformed" its spelling several times
+within living memory, so that a Dutch friend in his 40's tells me
+that his parents spell some words differently from him while
+nowadays again slightly different rules are taught in school.  In
+Chinese there are many unofficial variant characters in use, even
+within the PRC, not to mention Taiwan and Hong Kong.
+
+	2.  No orthography is designed chiefly for learners of the
+language; writing systems are for people who already know the
+language.  Therefore, it is not necessarily of the highest priority
+for Yiddish spelling to indicate the pronunciation.  Given the
+dialect variation, there are several approaches that are used in
+languages around the world: (a) select one dialect as the standard,
+and make the spelling system fit it, ignoring the other dialects;
+(b) develop a system that, while it does not fit the phonetics of
+any one dialect, provides a form from which the various dialectal
+pronunciations can be deduced, in most cases; this is the case in
+the writing system used by modern Christian speakers of Aramaic
+(Syriac), and much less neatly by English; (c) develop a system that
+is maximally simple, even if two or more sounds are written
+indistinguishably, so that it can be easily learned by anyone
+regardless of dialect.  The YIVO spelling of Yiddish is pretty much
+on model (a), with a bit of (c).  Not a bad choice, considering the
+alternatives (write the vowels according to proto-Yiddish?!).
+
+	3.  The urge for further standardizing Yiddish spelling
+presupposes that there is a community of users whose lives would be
+made easier, and especially that there is a population of children
+who will achieve their dominant literacy in the language.  But
+nowadays there's next to no-one who reads and writes more in Yiddish
+than in any other language.  Even for those who read Yiddish the
+most, the majority of what they read was written earlier than the
+modern standard spelling or by people who ignore it.   And this will
+always be the situation from now on!  Any Yiddish student has to
+become comfortable with various styles of spelling.  So, to my mind,
+the sooner and more they see variation the better.  How should they
+be taught to write?  Might as well be the YIVO standard, but let's
+not get hot under the collar about it.
+
+I hope I haven't made myself persona-non-grata in Yiddish circles.
+I know a lot of people feel strongly about these things, even
+dedicate their lives to them.  I hope I haven't offended anyone.
+
+So, what IS the past participle of lezn?
+
+Bob Hoberman
+
+______________________________________________________
+End of Mendele Vol. 3.136
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

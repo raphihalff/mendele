@@ -1,0 +1,135 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.162
+December 10, 1993
+
+1) Af, uf, oyf (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Fri Dec 10 09:09:59 1993
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: Af, uf, oyf, etc.
+
+Time to talk about the word or words spelled OYF. Again a word of
+caution. My keyboard prevents me from using a number of diacritics
+which would make reading easier, question marks, etc. Please bear
+with me.
+
+To account for the, Litvish, i.e. Lithuanian//Belorussian situation
+which distinguishes two functions for the form or forms in question,
+we are compelled to consider the possibility of two historically
+different etyma. The Soviet spelling system distinguishes ALEF FEY,
+the preposition in AFN TISH from the verb complement ALEF, VOV, YUD,
+FEY in UFSHTEYN, the so called separable prefix of German grammar.
+For now, I will avoid the complication which UFRUFN introduces.
+
+In the Northern Ukraine, Volhynia, more or less, the two functions
+are also distinguished as AFN TISH but IFSHTEYN and, perhaps, a more
+southerly neighbor, OFN TISH and IFSHTEYN. neighbor.
+
+IF is a very specific regional anomaly to which I will return. It
+would complica the issue to deal with it now except to say that its
+form, together with the persistence of the differentiation, point to
+the essentially Litvish origin of t of its distribution. More later.
+
+In ALL other areas, the two functions are served by identical forms.
+In Alsace, UF. In Kurland, AUF. In Hungary and the Carpathians, OUF.
+In a narrow area between Poland and Lithuania, OYF. In Poland and
+the Southern Ukraine, OF. NOTE WELL that this OF is NOT the same as
+the OF which is paired with IF more to the Ukrainian North.
+
+Now to the history. We must have recourse to the facts of German.
+Modern German, in which both functions are served by the single form
+AUF does not provide an answer. As for a possible historical
+distinction in function it is not clear whether medieval German
+provides an answer either. BUT, medieval German DOES provide
+alternate forms which may have been regionally differentiated. My
+pocket Lexer lists OUF and UF, the latter with a length mark. It
+might be instructive to look first at the general development of
+Yiddish word that are cognate with these Medieval German vowels.
+
+1. MG OU corresponds to the vowel in Standard Yiddish LOYFN, KOYFN,
+OYG, BOYM, hence, possibly  OYF. However, these are words with
+Litvish variants LEYFN, KEYFN, EYG, but NOT EYF, and Western Yiddish
+LAAFN, KAAFN, AAG.
+
+2. MG long U corresponds to the vowel in Standard Yiddish HOYZ,
+MOYZ, BOYKH, hence OYF as well.
+
+BOTH groups can yield a legitimate OYF variant although, in the
+absence of Litvi EYF, OYF cannot be traced to group 1. It is
+evident, though, that OYF, where it does occur in the language is,
+historically justified, however much the Standard spelling obscures
+the regional complexities.
+
+In fact, group 2 can account for ALL the Yiddish variants, EXCEPT
+where the two functions are formally differentiated. I return to
+these now. Consider Lithuanian//Belorussian AFN TISH but UFSHTEYN.
+
+UFSHTEYN is group 2, along with (largely Belorussian) HUYZ, MUYZ,
+BUYKH. AF is either a rare Westernism (from MG OU) , along with say
+LAFER, i.e. LOYFER, the bishop in chess, or a derivative of
+neighboring Kurlandish AUF, by means of the neutralization of the
+monophthong//diphthong distinction before the labial F, parallel to
+the similar development before the labial M in such wo as
+Lithuanian//Belorussian KAM, RAMEN, OPSHAMEN (elsehere OY, OU, O).
+Not so simple, right.
+
+Anyway, to the South of AFN TISH, UFSHTEYN, we find AFN TISH,
+IFSHTEYN in an area in which the vowel in the verb complement UF had
+already merged with historical U in RUFN, KUMEN, etc. Hence, Litvish
+UFRUF and in Volhynia, IFRIF. I doubt very much that there is a form
+UFRIF, although I stand ready to be corrected.
+
+This leaves us with OFN TISH and IFSHTEYN further South ans, still
+further SOUTH, OFN TISH and OFSHTEYN. The latter is easily derived
+from the MG OU form, as I think Ive shown. Of the former pair,
+IFSHTEYN needs no further comment. OFN TISH, however, does. In this
+area, it is derived from its northern neighbor AFN TISH by the same
+change that yields TOTE, MOME, HONT, KOLT VOSER and, in this area
+BOBE, NOT BUBE as in  Poland, more clues to the relative chronology
+of change, not only among different vowel groups but also among
+different words in the same group.
+
+It will occur to some of you that I have not addressed all the
+issues involved. I have not considered UF in Alsace, but I want to
+see if I can find more Western Yiddish material before I try. I have
+not addressed the discrepancy betwee OF and OFN but HUZ, MUZ, BUKH
+in the Southern Ukraine. This may have to be dealt with in terms of
+individual word history.  I intend to return to the quest once I
+have fuller and more precise maps in hand. These maps are scheduled
+for Volume V of the Atlas, az me vet derlebn. I am still working on
+Volume III which takes me abroad for ten days this afternoon. I look
+forward to finding you comments when I return on December 20th.
+Volume II, by the way, is in press and should see the light of day
+in the Spring.
+
+A gut yontef to all of you.
+
+Mikhl Herzog.
+
+______________________________________________________
+End of Mendele Vol. 3.162
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

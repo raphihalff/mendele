@@ -1,0 +1,177 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.138
+November 20, 1993
+
+1) Froy un mentch (Hershl Berman)
+2) 2nd sentence unit (Hershl Berman)
+3) Past participle of leyzn (Marnen Laibow-Koser)
+4) Standards--spelling (Khaim Bochner)
+5) Standards--vocabulary (Khaim Bochner)
+
+1)----------------------------------------------------
+Date: Fri Nov 19 12:11:55 1993
+From: Hal Berman <hberman@edu.uwo.ca>
+Subject: froy un mentch
+
+I take exception to Khaim Bochner' use of the above terms.  A mentch
+is a person, not a man. The correct term is Froy un Man.
+
+Hershl Berman
+
+2)----------------------------------------------------
+Date: Fri Nov 19 18:17:48 1993
+From: Hal Berman <hberman@edu.uwo.ca>
+Subject: 2nd sentence unit
+
+Shleyme Axelrod:
+
+I'm afraid there are always exceptions to the rule. in:
+
+	Der Man zet a ber. Git er a geshray.
+
+The only reason that you can put Git in the position it's at is
+because it is modified by the previous sentence. The correct
+grammatical structure for the second sentence is:
+
+	(to) git er a geshray (where the "to" is optional, but if
+                                not there, it is implied).
+
+	You cannot start off with the verb on its own. It's all in
+        Weinreich.
+
+Hershl
+
+3)----------------------------------------------------
+Date: Fri Nov 19 16:58:20 1993
+From: laibow@brick.purchase.edu
+Subject: Past participle of leyzn
+
+Robert Hoberman asked what the past participle of leyzn is. As I
+said in my intro to this list, my Yiddish isn't that great, but my
+German's pretty good. In German, the past participle of lesen is
+gelesen (if I'm not mistaken). "Ikh hob geleyzn" sounds plausible to
+me; any comments?
+
+Shalom,
+Marnen Laibow-Koser
+
+4)----------------------------------------------------
+Date: Sat Nov 20 00:01:10 1993
+From: bochner@das.harvard.edu
+Subject: standards -- spelling
+
+Bob Hoberman writes:
+> I feel the same way about standardizing Yiddish spelling.  I don't
+> think it's necessary
+
+Sough, hau due ioo leik itt wenn eye speal inglisch foni? Ignoring
+standards makes things a bit harder to read, doesn't it?
+
+Sure there's variation in Hebrew spelling. There is in English
+spelling too. I was furious when a highschool teacher took off a
+point because I prefer "grey" to "gray". And they taught me
+"travelling", but nowadays they seem to be teaching "traveling".
+ugh. But that doesn't mean English doesn't have spelling rules.
+
+What's so great about not being able to tell whether some one means
+"leyb" (lion) or "layb" (flesh)? "geyn" (infinitive) or "geyen"
+(1st/3rd pl.)? Different dialects pronounce these words differently,
+but they all distinguish them. Why shouldn't we be able to tell them
+apart in writing without guessing? In the usual edition of Sholem
+Aleykhem you can't even tell "a" from "eyn". (They couldn't write
+"a", of course, since there's no such word in German ...)
+
+Sure, to read literature you need to learn to cope with all the
+crazy spellings you'll encounter, but that doesn't mean you
+shouldn't know a system, and see those other things as variations
+(or aberrations ;-).
+
+As far as I'm concerned, the idea that it doesn't matter how you
+spell Yiddish is a reflection of the old-fashioned notion that
+Yiddish isn't _really_ a language. And that's indefensible.
+
+One more anecdote:
+
+My mother and her sisters normally speak Yiddish to each other.
+Certainly not Polish. After all Yiddish is their first language, and
+Polish is their second (and English is their fourth). They only
+speak Polish to keep my generation from understanding.
+
+And they all read and write Yiddish. Or at least they know how.
+
+But when they write to each other, they write in Polish. Why?  Well,
+they went to Polish speaking schools. And got drilled on things like
+spelling, punctuation, etc. And even though they complain about the
+difficulty of expressing themselves in Polish after all these years,
+they still find it easier to do that than to write in Yiddish, and
+have to think about how to spell each word ...
+
+Khaim
+
+5)----------------------------------------------------
+Date: Fri Nov 19 23:14:39 1993
+From: bochner@das.harvard.edu
+Subject: standards -- vocabulary
+
+Let's make sure we distinguish two things here: disagreeing with
+particular opinions about standards, and disagreeing with the idea
+standardization in general.
+
+Is "vinde" just as good a "Yiddish" word as "fentster"? Is "kitshen"
+just as good as "kikh"?
+
+Or how about the lovely "briefenshteler" style of 100 years ago: Is
+"broytigam" just as good Yiddish as "khosn"? Is "hokhtsayt" just as
+good as "khasene"?
+
+OK, those are extreme examples. But the point is that a word doesn't
+automatically become Yiddish just because some one, somewhere, once
+used it in an (otherwise) Yiddish sentence. After all, there are
+Yiddish words I use in English sentences when I think the people I'm
+talking to will understand, but that isn't enough, in itself, to
+make them English words.
+
+Do you really think it was a great loss when the 'purists' condemned
+"hokhtsayt" as "daytshmerish"? I don't.
+
+So I hope we agree that it is sometimes useful to draw a line.
+
+Of course, that doesn't mean it's easy to draw the line; in fact my
+guess is that you can almost never do it without offending some one.
+In the case of "lezn" I'm inclined to agree that Weinreich went too
+far. But I'm still glad that he gives his stylistic recommendations,
+instead of accepting everything uncritically.
+
+In fact, I guess that's the point. Words _don't_ all have the same
+status. Some are slang (like "vinde"), some are pretentious (like
+"hokhtsayt"), some are humorous (like "pitshevke"). If the
+dictionary doesn't tell you this, it isn't telling you the whole
+story. Probably no one is completely satisfied with the way
+Weinreich treated the large grey area. But I think it's silly to say
+that he should have ignored the whole problem.
+
+By the way, I would say the past participle of "lezn" is "gelezn".
+
+Khaim
+
+______________________________________________________
+End of Mendele Vol. 3.138
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

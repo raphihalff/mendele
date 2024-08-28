@@ -1,0 +1,180 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.368
+March 14, 1995
+
+1) Vilna ghetto library (Zachary Baker)
+2) A por kurtze frages (Sholem Berger)
+3) Yiddish Mac software (Hershl Hartman)
+
+1)----------------------------------------------------
+Date: Mon, 13 Mar 95 15:04:20 PST
+From: bm.yib@rlg.stanford.edu
+Subject: Vilna ghetto library
+
+REGULAMIN FUN LEYENZAL IN VILNER GETO [English translation follows]
+
+1.  Fun leyenzal kenen genisn ale aynvoyner fun geto on untersheyd
+        fun elter.
+2.  In leyenzal ken men nit kumen mit eygene bikher.
+3.  Der tsugang fun leyener tsu di bikher-politses is farbotn.
+4.  Leyener kenen bakumen far eynmol tsvey bikher un baytn biz 3
+        mol a tog.  Visnshaftler kenen bakumen bikher vifl zey darfn.
+5.  Kinder-leyener vert aroysgegebn nor eyn bukh un gebitn nor biz
+        2 mol teglekh.
+6.  Kinder-leyener vern aroysgegebn bikher nor fun reshimes
+        bashtetikte fun zeyere lerer.
+7.  Bikher fun leyenzal vern nit oysgeborgt.
+8.  Visnshaftler kenen in spetsyel-noytike faln mit der derloybnish
+        fun farvalter bakumen oysgeborgte bikher.
+9.  Bashteln a bukh fun biblyotek ken men nor biz halb 4 n.m.
+10. Dos leyenen ken forkumen nor bay tishn.
+11. Shmuesn tsvishn zikh vi oykh leyenen hoykh iz farvert.
+12. Shpatsirn ibern zal iz shtreng farbotn.
+13. Oyf di bikher tor men nit makhn key shum bamerkungen.
+14. Dos bukh darf men haltn reyn, nisht kneytshn un nisht flekn
+        di zaytlekh.
+15. Baym avekgeyn muzn di bikher un prese ibergegebn vern dem
+        amtirndikn bibloytekar.
+16. Oyb men vil a bukh opleygn oyf etlekhe teg darf men es meldn
+        dem biblyotekar.
+
+Vilne-geto Yuli 1942           Farvalter H. Kruk
+
+REGULATIONS FOR THE VILNA GHETTO READING ROOM
+
+1.  The Reading Room may be used by all residents of the ghetto
+        regardless of age.
+2.  Do not bring your own books into the Reading Room.
+3.  Access to the bookshelves by readers is prohibited.
+4.  Readers may receive two books at a time and exchange them up to
+        3 times daily.  Scholars may receive as many books as they need.
+5.  Children may receive only one book and exchange it up to 2
+        times daily.
+6.  Children may receive books only on the basis of lists approved
+        by their teachers.
+7.  Books may not be borrowed from the Reading Room.
+8.  Scholars may in special circumstances, with the Manager's
+        permission, borrow books.
+9.  Books may be requested from the Library only until 3:30 p.m.
+10. Reading may be done only at the tables.
+11. Conversing and reading aloud are not permitted.
+12. Walking around the room is strictly forbidden.
+13. Do not write any comments on the books.
+14. Books must be kept clean; do not fold them and do not stain
+        their pages.
+15. Upon leaving, books must be given to the librarian on duty.
+16. If you want to reserve a book for a few days you must inform
+        the librarian.
+
+Vilna Ghetto, July 1942         Manager H. Kruk
+
+Dina Abramowicz is in the process of writing an article about the above
+regulations.  (She worked in the Vilna Ghetto library.) Among her
+preliminary comments are the following:
+
+The regulations were written in the period of relative lull in the
+deportation "actions," a little more than a year before the final
+liquidation of the Ghetto, in September 1943.
+
+The regulations reveal the following circumstances:
+
+(1) Crowdedness of the ghetto quarters.  The Reading Room was for both
+the children and the adults.  Since the children were the most eager part
+of the ghetto readership for obvious reasons, some restrictions had to be
+imposed on them, so as not to overwhelm the room.  The regulation of
+careful handling was partially directed at them.
+
+(2) Scholars were the privileged group:  They were allowed an
+unrestricted number of books, and the emphasis on "quiet" (not talking,
+not walking around) was for their sake.  They were also allowed to take
+books "home."
+
+(3) The restricted access to the book shelves could be explained by the
+fact that the ghetto books were irreplaceable and the books could be used
+for other than reading purposes (i.e., as fuel, because of the scarcity
+of this commodity in the ghetto).
+
+(4) Regulation no. 2 prohibits bringing one's own books to the reading
+room.  This was because certain types of literature, such as communist or
+Soviet books were considered dangerous, since the Nazis could make sudden
+inspections at any time.
+
+The librarian on duty in the Reading Room was Khaykl Lunski [former
+librarian of the Strashun Library -- Z.B.].
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Mon, 13 Mar 1995 07:58:58 -0800 (PST)
+From: zdb@cco.caltech.edu (Zackary Dov Berger)
+Subject: A por kurtze frages
+
+Ikh volt gevolt konstruktirn a heym=zayt (zogt men dos?) af yidish, mit
+emesdike yidishe oysyes.  Vi azoy dergreykht men dos? (Kh'hob zikh
+gestaret oystzugefinen yidishe oysyes afn internet, un kh'hob in gantzn
+nisht matzliekh geven.) Ikh zog a dank in forois far ayer hilf.
+
+A tzveyte frage: vos trakht ir fun "Di Pen" (Oksforder pres)? Ikh ver
+zeyr nispoel fun zayn hoikher literarisher kvalitet.  Der zhurnal hot
+energie, a zeltener fenomen tzvishn yidishe publikatzies.
+
+Sholem Berger
+
+3)----------------------------------------------------
+Date: Mon, 13 Mar 1995 13:15:40 -0500
+From: hershl@aol.com
+Subject: Yiddish Mac software
+
+In addition to Garry Margolis' suggestion of Nisus, there's a shareware
+desk accessory called BackEdit that can prepare text in Yiddish for
+cut/pasting into such word processing programs as MacWrite and Word.
+Using any Hebrew/Yiddish font, BackEdit switches the cursor from
+left-right to right-left and back again, permitting insertion of a
+Yiddish phrase, sentence or paragraph in the midst of a Roman alphabet
+document. It's hardly sophisticated, e.g., when running in right-left
+mode, one must use the "return" key as one would on an electric
+typewriter at the end of each line. It can do the job, though, on a
+non-Nisus-encompassing budget. I'll be glad to provide a copy to the
+Warsaw Jewish Historical Institute and additional information to anyone
+by phone or fax at 310-473-4323, by mail at 3142 S. Bentley Ave., L.A. CA
+90034 or Hershl@aol.com. BackEdit is produced by ZeyDad Software, with
+which I'm involved with my eydem dem computer meyvin.
+
+Hershl Hartman
+
+______________________________________________________
+End of Mendele Vol. 4.368
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

@@ -1,0 +1,172 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.321
+February 13, 1995
+
+1) Introduction (Michael Kleiner)
+2) The Oxford Yiddish program (Itsik Payne)
+3) Why study Yiddish? (Marjorie Schonhaut Hirshan)
+4) Mentsh (Ellen Prince)
+5) Mentsh (Michael Steinlauf)
+
+1)----------------------------------------------------
+Date: Sat, 11 Feb 1995 21:14:47 -0500 (EST)
+From: mkleiner@astro.ocis.temple.edu
+Subject: Introduction
+
+I am Michael Kleiner of Philadelphia, Pa. I was raised a secular Jew,
+attending the Jewish Children's Folkshul. I also taught there for five
+years. During the '80s, early '90s, I was active in the Congress of
+Secular Jewish Organizations (CSJO), particularly around young adult and
+continuity issues. I was on conference planning committees, delivered a
+couple of speeches, facilitated some workshops and handled publicity when
+the conferences were held in Philadelphia in 1988 and 1993. I know that
+at some of those early conferences I met Miriam Jerris.
+
+After a number of years as a journalist and public relations person, I
+returned to school and will receive a master's degree in educational
+media from Temple University in August. The program has allowed me to be
+very creative with a number of projects. During the fall semester, I had
+a course on Designing Instructional Resources, in which the students had
+to write a teacher's guide/curriculum or training manual on a topic of
+their choice, and produce the media -- videos, slide shows, overhead
+transparencies -- to complement the instruction. I chose Eastern European
+Jewish Immigration 1881-1924. I produced a slide show, which included my
+mother singing in Yiddish. This project showed a progression from my
+shule days.
+
+As a student, the teacher had us interview our grandparents who were
+immigrants. When I taught the course in 1987, I had the students
+interview immigrants, but we put together a slide show with music and the
+students presented the reports at the closing assembly. That was before I
+knew of educational media and how to do it right. In my teacher's guide,
+I also have the students doing interviews with an end product of a video
+or slide show or CD-ROM.
+
+Although I don't know Yiddish, I am interested in the culture, music and
+literature. I also recognize the language's importance. In 1969-70, our
+family spent a year in Norway. We also traveled in Europe. Wherever we
+came into contact with the Jewish community, it was my mother's Yiddish
+that enabled us to communicate (with the possible exception of Norway,
+where they knew English). My mother translated for us. We learned a great
+deal about the experiences of people during WWII. My grandmother spoke a
+lot of Yiddish. My aunt is translating Yiddish material for a man who is
+writing a book about a righteous Gentile.
+
+Michael Kleiner
+Philadelphia
+
+2)----------------------------------------------------
+Date: Fri, 10 Feb 1995 20:11:16 -0500 (EST)
+From: jmpayne@magnus.acs.ohio-state.edu
+Subject: The Oxford Yiddish program
+
+For B. Adler:
+
+The story I've heard is a little different from Ellen Prince's. There was
+a conflict between the director of the Postgraduate Hebrew Centre and
+Dovid Katz, one which resulted in Katz' resignation and his subsequent
+forming of the Oxford Institute for Yiddish Studies. The Hebrew Centre
+retaliated by hiring a chartered accountant to investigate financial
+misconduct by Katz et al, an investigation which turned up no such wrong
+doing. Having spoken with Peter da Costa, director of the Postgraduate
+Hebrew Centre three weeks ago, and having been told by him that there
+would probably not be summer program (something that was patently untrue,
+as Marie Wright of the Yiddish Institute informed me; the Yiddish
+Institute's summer program was fairly well in place by that time), it
+seems to me that a lot of this boils down to that tired old battle
+between the Hebraists and the Yiddishists. This is especially true when
+one considers the output of the Yiddishists at Oxford versus their
+Hebraist counterparts. Mostly this battle is annoying and typically
+divise of the Jewish Studies movement. Clearly Yiddish is still
+considered by many to be the bastardized German of Mendelssohn. Its a
+wonder anything gets done. . .
+
+This is the story as I've heard it. Other Mendelniks will probably chime
+in with their interpretations/ideas.
+
+Itsik Payne
+
+3)----------------------------------------------------
+Date: Sat, 11 Feb 1995 08:39:40 -0500
+From: shirshan@aol.com
+Subject: Why Study Yiddish?
+
+Matt Dailey has lifted Mendele to new heights. We soar on his words - oyf
+odler fligl.
+
+Would that we could bestow goldene margaritkelekh for words on Mendele
+that are too precious to be contained only within our family; his words
+are so uplifting, so moving, it makes one ponder how to share them with
+the world, how to distribute them on the wind. I shall read them proudly
+at our Yiddish Club meeting this week, and I forecast that many members
+will shed a tear of appreciation.
+
+I am honored that Matt is on our network.
+
+Marjorie Schonhaut Hirshan
+Boynton Beach, Florida
+
+4)----------------------------------------------------
+Date: Sat, 11 Feb 1995 18:02:14 EST
+From: ellen@central.cis.upenn.edu
+Subject: mentsh
+
+to: louis fridhandler
+
+granted it's not technically one word but the english complex noun _human
+being_ has the same sense as _mentsh_ ('decent, ethical person').
+
+ellen prince
+
+5)----------------------------------------------------
+Date: Sun, 12 Feb 1995 11:44:47 -0500 (EST)
+From: m_steinlauf@acad.fandm.edu
+Subject: Mentsh
+
+In response to Louis Fridhandler's search through other languages for an
+approximation to the Yiddish mentsh, the Polish word czlowiek (pronounced
+chwoviek) is pretty similar, carrying all three of the meanings Louis
+lists for mentsh. Even more interesting is comparing the connotations of
+the Yiddish mentshlekhkayt and the Polish czlowieczenstwo. While they
+seem to be a reasonably close fit, it should not surprise us that the
+Polish seems to emphasize the component of dignity most, while the
+Yiddish that of compassion.
+
+Michael Steinlauf
+
+______________________________________________________
+End of Mendele Vol. 4.321
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

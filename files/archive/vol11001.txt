@@ -1,0 +1,251 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 11.001
+May 15, 2001
+
+1) First ten years (Iosif Vaisman)
+
+1)----------------------------------------------------
+Date: May 15, 2001
+From: Iosif Vaisman <iiv@ibiblio.org>
+Subject: First ten years
+
+Ten years ago 22 enthusiasts of Yiddish and of the internet (the latter
+was hardly referred to by this word at that point) received an email
+that read:
+
+| Mendele: Yiddish literature and language
+| Contents of Vol. 1 no. 1
+| May 15, 1991
+|
+| Date:   Wed, 15 May 91
+| From:   Noyekh Miller (nmiller@trincc.bitnet)
+| Subject: Oyfn rekhtn fus
+|
+| At last Mendele is ready to go public.  We have as of today a total
+| of 22 subscribers (list on demand) and a very good roster it is.
+| And while we're neither in Czernowitz or Vilna we may be at the start
+| of something that none of us might have thought possible 10 years
+| ago. Let us hope so.
+|
+| Noyekh Miller
+
+Rekhtn fus s'iz take geveyn! And not only this. We all should be
+thankful for Noyekh's vision and perseverance, for Victor Bers'
+tireless work behind the scene, for dedication and support of all the
+subscribers. Today, Mendele is in the beginning of its second decade.
+Ten years is an extremely long period on the Internet time scale,
+especially for an enterprise without a budget and staff, without any
+institutional support or any formal organization behind it.  Thousands
+of Internet projects, big and small, did not make it past their first,
+or second, or fifth anniversary. Mendele did not just survive, it has
+grown and matured. Mendele established itself as a respectable
+electronic publication, which is listed and cataloged by a number of
+major libraries and library consortiums around the world. It serves as
+a valuable resource for students and scholars and as a source of
+enjoyment for all subscribers.
+
+Mendele's tenth birthday is a convenient occasion to recall its
+history, as well as the history of the Yiddish internet in general. The
+story below is not complete. I apologize if I missed any important
+events or people and would greatly appreciate all additions and
+corrections, that will be incorporated into the future versions.
+
+Personal email was the first truly popular application of
+computer-mediated communication. In the 1980s, it was complemented by
+group communication in the form of mailing lists and Usenet newsgroups.
+The first generation of the Internet users, which consisted mostly of
+computer professionals and aficionados, scientists and engineers
+quickly realized that new media can be quite useful beyond the regular
+working hours. The growing Usenet was expanding into various subject
+areas, including religion and culture. Before long, there were active
+Jewish groups on the Net, including net.religion.jewish, and later,
+soc.culture.jewish and soc.genealogy.jewish.
+
+While the messages on Yiddish-related topics started appearing in the
+general Jewish Internet media from the mid-80s, the first online public
+forum dedicated exclusively to Yiddish was created in October of 1988
+by David Sherman from Toronto. A Yiddish mailing list (or mail.yiddish)
+was issued in digest form and gradually attracted a relatively diverse
+audience. The contributions to the list were written in English or
+transliterated Yiddish and covered a fairly broad range of topics,
+including reports of Yiddish events, songs, jokes, and news.
+
+By the early 90s, several important developments affected the landscape
+of the Net. An increasing number of academics in humanities and social
+sciences were becoming email users, which prompted a need for a more
+scholarly media. In 1991, Noyekh Miller, a veteran mail.yiddish
+subscriber organized a list named after Mendele Moykher Sforim. For
+several months, Mendele and mail.yiddish peacefully coexisted, but
+eventually most mail.yiddish subscribers switched to Mendele and
+mail.yiddish became inactive. For the next ten years Mendele was
+steadily growing. It reached 500 subscribers in 1994, 1000 in 1996,
+1500 in 1998, and 2000 in 2000.
+
+To provide better channels for the different types of materials,
+Mendele created two spin-off publications, The Mendele Review and
+Mendele Personal Notes and Announcements. The Mendele Review (TMR) is a
+literary supplement to Mendele edited by Leonard Prager. TMR publishes
+book reviews, bibliographies, fiction, and literary criticism.
+Mendele Personal Notes and Announcements present a different facet of
+the Mendele community:  materials of local and regional interest -
+festivals, concerts, exhibits, personal classifieds.
+
+Mendele is a truly international community. As of today, we have 2,100
+subscribers living on six continents, approximately two thirds of them
+in the United States. (The exact numbers are unknown, because it is
+difficult to attribute correctly addresses in .com, .net, and .org
+domains. The numbers below reflect only the respective country domains
+-- .ca, .il, .de, .nl, etc. The actual number of subscribers from some
+countries is significantly higher.)
+
+                1993   1998   2001
+
+Canada           19     73     76
+Israel            8     61     69
+Germany           3     45     55
+UK                4     22     31
+Netherlands       2     26     27
+Italy             -     10     26
+France            -     12     22
+Australia         3     17     21
+Argentina         -     11     17
+Russia            -      4     14
+Hungary           -     11     10
+Switzerland       -      9      9
+Poland            3      7      9
+Austria           -      5      9
+South Africa      -      3      8
+Japan             1      7      8
+Sweden            -      6      7
+Belgium           -      2      7
+Spain             -      -      7
+Brazil            -      6      5
+
+Total            319   1700   2087
+
+Country domains with less than 5 subscribers include China, Croatia,
+Czech Republic, Denmark, Estonia, Finland, Hong Kong, Iceland,
+Luxembourg, Mexico, New Zealand, Slovakia, South Korea, Taiwan, Turkey,
+and Uruguay.
+
+When Mendele started ten years ago, all but one of the 22 subscribers
+were affiliated with the US universities.  Since then their portion in
+the list has been steadily declining. Today, only 434 (21%) of all
+subscribers have e-mail addresses in the .edu domain (plus several
+hundred at foreign universities).  Harvard and New York University
+boast the largest teams - 18 Mendelyaner each. They are followed by
+Stanford (17), Berkeley (16), U. of Michigan (15).  U. of Chicago, U.
+of Maryland, MIT, Ohio State, U. of Pennsylvania, U. of Texas (11
+each), UCLA, Columbia, and Yale (10 each). More than 100 other campuses
+around the world have fewer than 10 subscribers.  Universities outside
+the US with more than 10 subscribers include U. of Toronto and Hebrew
+U. (both 13).
+
+One of the problems of Yiddish communication on the Internet from its
+early days was the rendering of Yiddish letters. In late 80s and early
+90s most Internet users were working on the terminals that supported
+only a single character set. The only way to display Yiddish letters on
+the non-Hebrew ASCII terminal was to "draw" them using several ASCII
+characters for each letter. The first program for converting
+transliterated Yiddish text into a "real" Yiddish, "yidtype", was
+written by Refoyl Finkel in summer of 1991. This program was designed
+to enable communication in Yiddish by e-mail and in principle could
+have served this purpose; however, more practical applications for
+Yiddish email did not appear until a later time.  "Yidtype" gradually
+evolved into "Yidishe Shraybmashinke", a wonderful tool that permits
+composing Yiddish text in different formats by entering a
+transliteration through the Web interface.
+
+In the late 90s, several programs using proprietary formats supported
+Yiddish e-mail, none of them gained wide popularity. Real progress in
+Yiddish computer communication is becoming possible only now, with the
+advent of Unicode, an international standard for multilingual text
+encoding. Mark David and a group of enthusiasts loosely organized
+around his mailing list UYIP (Understanding Yiddish Information
+Processing) played a great role in ensuring correct and full
+representation of Yiddish in the Unicode standard and in convincing
+Microsoft to support Yiddish in its browser and e- mail client. Current
+versions of Microsoft Internet Explorer and Microsoft Outlook support
+Yiddish encoding and are supplied with the fonts that contain most
+Yiddish letters and ligatures. These popular programs made possible the
+creation of the "real" Yiddish Web pages, including interfaces to the
+databases and other applications with interactive features. One of the
+examples of such development is the online catalog of the British
+Library. British Library is the first major library in the world that
+converted the bibliographic records of Yiddish books into Unicode
+format, making them available for display in a standard browser.
+
+One of the earliest Yiddish collections on the Net was started by Ari
+Davidow in December of 1988 within the framework of the WELL virtual
+community. The Yiddish resource databank was created as part of WELL's
+online reference library.  Access to the resource was limited to WELL
+members only. In May 1991 Noyekh Miller started archiving the
+newly-created Mendele mailing list. In addition to Mendele issues, the
+archive contained other documents, e.g. Noyekh Miller's own translation
+of Jacob Pat's "Shmuesen mit Yiddishe Shrayber".  For several years the
+scope and usability of Yiddish archives remained limited.  Only the new
+technologies that enabled global navigation of information space
+radically changed the situation.
+
+The first serious attempt to collect and classify Yiddish resources was
+launched in 1993 by Shtetl, the major Yiddish navigation site and
+virtual library of the Internet. Shtetl contains a large list of links
+to the Yiddish web sites around the world as well as its own collection
+with many thousands documents on Yiddish language, literature, culture,
+and history. Shtetl is a popular site - in 2000 it has been visited by
+more than 100,000 web surfers and the rate of access is growing. The
+dynamics of the monthly access to Shtetl (number of unique visitors and
+number of pages served) is shown in this table:
+
+   Visitors  Hits
+
+Jul 1996  1168   10382
+Jan 1997  2179   26262
+Jul 1997  2009   29128
+Jan 1998  3495   72089
+Jul 1998  2149   63987
+Jan 1999  6746  137169
+Jul 1999  6983  153990
+Jan 2000  7687  197178
+Jul 2000  8143  209762
+Jan 2001  9316  300049
+
+Conventional media is making inroads into the digital age as well. Der
+Yidisher Tam-Tam, published bimonthly in Paris, was the first Yiddish
+newspaper on the Internet. Bavebter Yid is a quarterly Yiddish literary
+journal . Forverts publishes some of its materials on the web. Forvets
+Sho, a weekly radio program on WEVD produced by Boris Sandler is
+broadcasted on the internet for more than a year.  Another Yiddish
+radio weekly, The Yiddish Voice, has a longer history - it was a
+pioneer of the Internet Yiddish radio. At least three other Yiddish
+radio programs: from Australia, Canada, and Israel are available to the
+listeners worldwide.
+
+Every year brings more good news.  Yiddish education on the Internet is
+making first steps:  two projects were launched recently in Florida and
+Germany. Onkelos project - the first full text library of Yiddish
+classics is acquiring more and more works.  All these resources, old
+and new, professional and amateur, multimedia and interactive, make the
+Internet, a world wide shtetl of our days, a truly exciting place for
+the lovers of Yiddish.
+
+Iosif Vaisman
+
+[An earlier version of this paper was presented at the International
+Symposium on Yiddish Culture in Paris in June 2000]
+______________________________________________________
+End of Mendele Vol. 11.001
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://www.mendele.net
+http://ibiblio.org/yiddish/mendele.html
+
+
+
+

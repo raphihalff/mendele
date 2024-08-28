@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.163
+November, 1994
+
+1) Yiddish grammar (Zev bar-Lev)
+
+1)----------------------------------------------------
+Date: Tue, 1 Nov 94 15:52:15 PST
+From: zbarlev@zeus.sdsu.edu
+Subject: Yiddish grammar
+
+it is interesting to see the issue of grammar debated, if not hotly, then
+at least with some persistence, with someone bringing up the issue
+periodically. of the various bulletin-boards i am on for different
+languages, nowhere else do i see this issue discussed in this way.  hhas
+vehhalila that i should observe that it is a siman of the unique status
+of yiddish that such a question should be debated.  (please don't anyone
+correct my spellings:  i was using hebrew, not yiddish.  it is unlikely
+that i would ever dare use yiddish here, even without the grammar
+discussions.)
+
+i admit that i have heard discussions and angry observations about
+rampant ungrammaticality.  when i once gave a paper at an arabic
+conference, i could take comfort in the fact that, however many errors in
+my samples, the egyptian press had just been thoroughly condemned for the
+low level of their arabic!
+
+indeed, speakers of arabic typically hold foreigners to a "higher"
+standard: we should speak (real) arabic, even though they can't, due to
+the unfortunate accident of their having been born many centuries after
+Mohammad!  even the best informant of modern arabic that i ever found,
+could do no better than to say "yes, that's how we say it, although it's
+not arabic".  i once offended an arab terribly by misspelling a word in a
+quote from the qur'an -- i tried to assure him that i am liable (sp?) to
+misspell in any language, no matter how "holily" (stet) i regard the
+text.
+
+i once had a serbian teacher who said, about some construction: "now make
+sure you don't say this, because serbians do all the time."  i had
+thought i was there to learn how to talk like serbians, but i quickly
+found out the truth!
+
+i heard one counter-person at Jack-in-the-Box correct another for putting
+a preposition at the end of a sentence.  (it was probably a particle,
+however, not a preposition.) is that a rise in cultural level?
+
+in all my many e-mail conversations, only one has ever commented on my
+avoidance of capitals -- and i believe that was on an Learning-Disability
+bulletin-board.  LD people sometimes have terrible trouble spelling --
+but perhaps i was not exhibiting the "acceptable" kind of misspellings by
+not capitalizing.
+
+i still mention to my linguistics classes my grandmother's comment that
+yiddish wasn't a language, but "just something we speak". (i judge the
+quality of the class by how many laugh.)  she was curious that, when i
+did a sort of junior field-method research, at some young age, on her
+yiddish, that i could write yiddish without using the alphabet!  (i don't
+remember whether i used real IPA or some makeshift substitute.)  i enjoy
+teaching people about dialects with the example that yiddish is no more a
+dialect of german than german is a dialect of yiddish.
+
+the most interesting discussions of grammaticality, perhaps, take place
+about esperanto, where people sometimes feel they have a right to invent
+their own dialect during the first months of study.  after all, there are
+so few native speakers, it's easy to be an authority.
+
+but, to return (at last) to yiddish, this is the only language where
+norms of transcription are discussed -- with one exception:  i'm now
+having such arguments on chinese e-mail.  the mainland chinese, it
+happens, have invented a romanization, and now teachers are more and more
+thinking that any other system should be verboten. (in case this sounds
+like a yiddish word: i mean the Gm one.)
+
+one scholar has proposed that the chinese romanization should be a proper
+system just like english spelling, so that any homonymous words should
+have a different spelling, like "dam" and "damn" (his examples).  other
+chinese teachers i know resist the idea that any other transcription
+should ever be used with students, whatever the difficulties, e.g. qi is
+pronounce chee, cong is pron. tsong.  i can't help feeling that the issue
+goes, for many, beyond classroom convenience, and that indeed they want
+chinese to have a proper spelling system, where you have trouble looking
+words up in a dictionary (as if character dictionaries weren't bad
+enough), and -- best of all -- you can mark students down on their
+compositions for spelling!
+
+apart from spelling, i notice on this bulletin board, instead of a
+discussion about what are the norms, or even about how few people observe
+the norms nowadays, we have a discussion about whether the norms should
+be followed, or whether "we" should be tolerant.  the many people who
+know the language informally and partially (i don't even include myself
+in this number), it seems, are going to be urged to use YIVO grammar and
+lexicon -- even if they have to take courses.  and even speakers of
+"non-standard dialects" should be -- what, ostracized? made to feel
+guilty?
+
+old standards are silly enough -- people who insist on a pseudo-biblical
+pronunciation in preference to daily speech in hebrew, or the example of
+arabic mentioned earlier.
+
+languages other than yiddish with new standards have the decency to get
+confused about what these standards are, if not to argue about them.  for
+example, the serbo-croats publish (or used to publish) a whole periodical
+or so on correct serbo-croat.  only in yiddish, it appears, can we expect
+people to take the initiative on their own.
+
+in case a conclusion is desired, let me opine that a thorough
+"prescriptivism" (standarization, etc.), while it may get mixed reactions
+from native speakers of a language (some will think it nitpicky, others
+will think it's the height of morality), can have a disastrous effect on
+learners, non-native speakers, and even exiled native speakers of a
+language: they quickly see that their efforts aren't good enough, and
+they quickly stop speaking.
+
+zev bar-Lev
+
+______________________________________________________
+End of Mendele Vol. 4.163
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

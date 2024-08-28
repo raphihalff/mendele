@@ -1,0 +1,137 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.179
+November 13, 1994
+
+1) Yiddish script & YIVO (Arn Abramson)
+2) /redt/ and /bistu/ (Arn Abramson)
+
+1)----------------------------------------------------
+Date: Sat, 12 Nov 94 21:22:02 EST
+From: abramson@uconnvm.uconn.edu
+Subject: Yiddish script & YIVO
+
+Two postings of the last few days, one by Dovid Braun and one by Meylekh
+Viswanath, touch on old questions in the development of writing systems as
+to how much linguistic information should be captured by the orthography.
+Thus, some argue, contrary to the spelling reformers, that in English it
+is good to keep the letter G in the word "sign," which is pronounced the
+same as "sine," in order to show the relationship with "signify,
+signal,"etc. but not with "sine." But I do not mean to get into a
+discussion here about the fit between English orthography and English
+speech. Let us turn to Yiddish.
+
+Dovid reminds Shleyme and me about the possibility of the same letter
+occurring twice in a row in YIVO transcription when two morphemes abut,
+the first ending in the same consonant as the one at the beginning of the
+second. He is right; that is the practice; however, it should be
+understood that the point taken from an earlier discussion by Zellig Bach
+is also right. All the examples used by us for the forbidding of two
+consonant letters in a row were, in fact, single morphemes: ale, bobe,
+Got,etc. (An exception is "Yiddish," which is Yid + the ish suffix;
+however, the suffix does not begin with /d/ or any other consonant.) In
+the stored version of our FAQ, then, Shames Noyekh ought to add something
+like this: "If, however, two meaningful elements within a word
+(morphemes) come together such that the first one ends and the second one
+begins with the same consonant, the letter for that consonant occurs
+twice in a row." Dovid's examples could be given.
+
+At the same time, I wonder about Dovid's remark, "even though, in fact,
+the consonants are pronounced as if only one were present." Does he mean,
+e.g., that in "onnemen" the speaker does not normally remove the tip of
+his tongue from the upper gum ridge (alveolar ridge) after saying "on"
+and then put it back to say "nemen," he is surely right, but it is my
+impression that the /n/ is significantly longer in, say, "Er vil onnemen"
+than in "Er vil yo nemen." (If my examples are unidiomatic, forgive me;
+the phonetic point is still valid as long as my obssrvation is correct.)
+In some languages consonant length--or gemination-- has a distinctive
+function even within the word, as in Italian, Finnish, and Estonian. In
+their use of roman script, the orthographies of these languages use
+double letters in such cases. My point here, then, is that if I, a
+non-native speaker of Yiddish, am right in my phonetic observation, there
+is all the more reason to incorporate Dovid's addition in our notes.
+
+Meylekh's question is relevant to this discusson. He writes,"Ikh vil ober
+visn, zugt men take 'redt' tsi 'ret?'" Obviously, the answer is that one
+pronounces the word /ret/. The roan spelling "redt" is a real
+_transliteration_, i.e., a conversion letter by letter, from the Yiddish
+spelling reysh-ayen-daled-tes. On the one hand, the spelling "ret" would
+be phonetically clear and would not have confused Reb Maylekh; on the
+other hand, the spelling, much as in the case of English "sign," has the
+possible virtue of reminding us that it is part of the conjugation of the
+verb /redn/ 'to speak.' If I had written Shames Noyekh's remark, quoted
+by Meylekh, "azoy redt men!," I would have written "ret," but this seems
+not to be the convention.
+
+Curiously enough, there are instances in which the morphemic or lexical
+information is not preserved in the writing. On this board I have seen
+"bistu" for /bis du/ 'are you (fam.).' It also occurs in Yiddish script
+in the equivalent way way: beyz-yud-samekh-tes-vov! the rendition "tu"
+must be meant to reflect the lack of a contrast between /d/ and /t/
+immediately after /s/ and the impression that the consonant is more like
+a /t/ than a /d/. (Leigh Lisker remarked on this in a posting some time
+ago . No one  responded.) Compared with the writing of "redt," this is
+paradoxical. Why not preserve the information that it is the pronoun
+"du"?
+
+Again, I ask, as I did in my recent remarks on Hebrew quotations in
+Yiddish as contrasted with integrated Hebrew-Aramaic loanwords, whether
+one of our professional Yiddishists might comment.
+
+Arn Abramson
+
+[The stored version of the FAQ will be appropriately amended.  nm]
+
+2)----------------------------------------------------
+Date: Sat, 12 Nov 94 21:42:04 EST
+From: abramson@uconnvm.uconn.edu
+Subject: /redt/ and /bistu/
+
+Just after sending my long comment on Dovid Broun's comment and Meyelekh
+Viswanath's question, I read Mikhl Herzog's explanation about the
+practice of preserving morphological information in YIVO orthography
+--and, I guess, in Yiddish script. He is a distinguished Yiddishist, and
+I accept his answer with pleasure, but I would like hime to comment on
+the paradox of the spelling /bistu/ for the expression /bis du/ 'Are you
+(fam.).' In my comment sent out a little while ago,I said that this
+surely violates the principle Mikhl mentions. The absence of a space for
+a word-break in that spelling does not help me,since it is generally true
+in running speech, in language after language, that there need not be,
+and there usually is not, any phonetic sign of a word boundary.
+
+Arn Abramson
+
+______________________________________________________
+End of Mendele Vol. 4.179
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

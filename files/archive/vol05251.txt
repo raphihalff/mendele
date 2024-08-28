@@ -1,0 +1,189 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.251
+February 12, 1996
+
+1) Englishisms in Yiddish (Ellen Prince)
+2) Khasidish or misnagdish (Ellen Cassedy)
+3) Khasidish or misnagdish (Eliyahu Juni)
+4) The Yiddish canon (Ellen Prince)
+5) The Yiddish canon (David Goldberg)
+
+1)----------------------------------------------------
+Date: Sun, 11 Feb 1996 15:09:58 EST
+From: ellen@central.cis.upenn.edu
+Subject: Englishisms in Yiddish
+
+zellig bach proclaims that '[we] must now, before it is too late, put up clear
+and firm barriers against the flood of Englishisms that threaten to water down
+and corrupt correct Yiddish.'
+
+1. what does 'our' authority to erect 'barriers' derive from?
+2. what is 'correct yiddish' and how did you come to discover it?
+3. how much exactly do you think the contemporary yiddish speech community will
+   obey our 'barriers'?
+
+inquiring minds want to know...
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Sun, 11 Feb 1996 22:17:40 -0500
+From: cassblum@aol.com
+Subject: Khasidish or misnagid
+
+Has anyone else noticed the similarity between "Der rebbe elimeylech" and "Old
+King Cole"?  Merry old soul, fiddlers three,etc.
+
+Ellen Cassedy
+Bethesda, MD
+
+3)----------------------------------------------------
+Date: Mon, 12 Feb 1996 01:41:14 -0500
+From: e.juni@utoronto.ca
+Subject: Khsidim and misnagdim
+
+Koydem kol, miz ikh ets beytn mkhile, az ikh bin nisht g'veyn du in ikh
+honisht ontayl g'nimn in Mendele di letste pur vokhn.  Ikh hom'kh iberg'tsoygn
+fin Tronte ts'Nu York, ts'lernen in Yeshive Universite of ayn semester;  khbin
+geveyn zayer farnimen derfar.  Ikh hob a gantse g'nize fin Mendele, in ikh hof
+iberts'kiken als vus ikh hob avekg'laykt in'm ven ikh'l hubn mer tsyat;
+dervaal, vel ikh mikh mishn in hayntige inyunim.  Khiil toykhaz yoyshvey
+ploshes ;-}.
+
+Reb Hershl Hartman and Reb Anno Siegel wrote (v. 5.248) about misnagdishe
+songs which satirize khsidim (in reply to a post by Reb Zellig Bach in v.
+5.246).  Hershl said he "always understood that almost _all_ Yiddish folksongs
+that refer to the rebe and/or his khsidim/khsidimlakh are misnagdish satires
+of khasidism,"  and asked to hear from our musicologists, one of whom I am
+not.  But what I can attest to is that although I know quite a few Yiddish
+songs used in the contemporary Yiddish-speaking khsidishe community, none of
+them refer to a rebbe or to khsidim.  (I don't know of any Yiddish songs used
+in the non-khsidishe chareidi community, and even by the khsidim, they're not
+as common as they once were.)
+
+Anno brought up two specific songs (in addition to the one under discussion,
+"sha shtil"):  "un az der rebbe zingt", and "un az der rebe elimeylekh".  I
+recently had a short exchange with Reb Noyekh about these songs, though I did
+not bring it up on Mendele.  What follows is what I said, and one detail that
+I remember from his response.
+
+Long ago, my father taught me "un az der rebbe zingt" under the title "un az
+der rebe tantst", and said it was a maskilishe (not misnagdishe) parody of
+khsidim.  He had a final stanza in which the verb was replaced with the
+phoneme "ah" (un az der rebe ah!), which was supposed to be the height of the
+parody--if the rebe expresses wonder, the khsidim will too, without thinking.
+I'm not sure, but I think some of the verbs were not exactly the same for the
+rebe and the khsidim--un az der rebe est, fresn ale khsidim (possibly implying
+that khsidim use their rebe as a justification for behaving boorishly or
+improperly).
+
+The second song, "Un az der rebe Elimeylekh", I learned from secular sources.
+I am convinced that it is not of khsidishe origin, for a number of reasons.
+The strongest is that the rebe in question, Reb Elimeylekh of Lizhensk, is
+never referred to by his full name among khsidim--he is always called "der
+rebe Reb Maylekh" (even among khsidim who would normally pronounce it
+"Meylekh"), or by the title of his seyfer, "der noyam elimeylekh."  (This
+could be explained away by the requirements of rhyme and meter, but I don't
+think that's what's going on.)
+
+Another reason, though not as strong, is that der rebe reb Maylekh is one of
+the most important giants of khsides, and is spoken of in only the most
+reverent of terms--only the Besh"t is treated much more reverently--and I
+can't imagine someone khsidish writing a song about him which portrayed him as
+even semi-human.  His brother, der rebe reb Zishe of Anipoli, who was much
+more folksy and down-to-earth, would have been a more likely candidate.  And
+the song has always struck me as irreverent--it reminds me of the nursery
+rhyme about old King Cole.
+
+If I recall correctly, Reb Noyekh replied to me that he didn't perceive the
+song as irreverent at all, and that it seemed to him to be showing the rebbe
+as being human, not some removed mystic vus fliit in him'l.  (Did I get that
+right?  Please correct me if not.)  Anno said something similar.  I can hear
+the tayne, but I think Reb Maylekh is the wrong address for it.  The only way
+I could see it would be if it was written by non-khsidim who were not
+intending to mock, and picked a famous rebbe without realizing that they were
+picking the wrong one for the image they wanted.
+
+Eliyahu Juni
+
+4)----------------------------------------------------
+Date: Sun, 11 Feb 1996 23:22:20 EST
+From: ellen@central.cis.upenn.edu
+Subject: The Yiddish canon
+
+meyer wolf, what a list! question: are any of those already in electronic
+form? (i mean the modern stuff -- i know lots of the old stuff is.) as i think
+i've mentioned, beatrice santorini and i have (laboriously) gotten two works
+into electronic form, olsvanger's _royte pomerantsn_ and hirshbeyn's _grine
+felder_. i know they're not on your list but, if you'd like them for the
+collective effort, just say the word. and we'd both be _very_ grateful for new
+stuff!
+
+ellen prince
+
+5)----------------------------------------------------
+Date: Mon, 12 Feb 96 09:41:46 EST
+From: david.goldberg@smtpgwy.mla.org
+Subject: The Yiddish canon
+
+Meyer Wolf's preliminary list towards describing a Yiddish canon reminds me
+that there was another list that the early editors of the Groyser Verterbukh
+prepared which Mendelyaner might find interesting. The list included about
+2600 books (including journals, collections, multi volumed complete works)
+from which citations were drawn in the Verterbukh.  I've lost track of the
+list since the time that I worked for the Verterbukh, but it gave a great
+sense of the breadth of the literature (as well as some specialized, authentic
+but non literary sides of the language, such as technical manuals and
+professional publications like _Der yidisher farmer_) rather than just
+pointing out the high spots.  Efforts to delimit the canon take the chance of
+missing important voices. Meyer, do you know what happened to the files from
+the Verterbukh's bibliography project?
+
+David Goldberg
+
+______________________________________________________
+End of Mendele Vol. 5.251
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

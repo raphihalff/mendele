@@ -1,0 +1,166 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.026
+July 2, 1996
+
+1) Avraham Burg entfert (Refoyl Finkel)
+2) _Tam-Tam_ (Khayem Bochner)
+3) _Tam-Tam_ (Pierre Lewis)
+
+1)----------------------------------------------------
+Date: Mon, 1 Jul 1996 09:35:13 -0400 (EDT)
+From: raphael@cs.uky.edu
+Subject: Avraham Burg entfert
+
+ikh hob geshikt a blitsbrivl avraham burgn benegeye vi er firt zikh mit yidish
+in yisroel.  ot iz zayn entfer.
+
+     Thank you for your e-mail regarding Yiddish and the World Zionist
+     Organization. The WZO has, for many years been a tremendous
+     supporter, both morally and financially, of the World Council for
+     Yiddish by providing them with office space, electricity and
+     services at absolutely no charge. This is a significant point that
+     has been omitted from most "open letters" and other publications
+     relating to the subject.
+
+     The World Council for Yiddish was given ample notice in order to
+     find alternative office space and to make their arrangements.
+     Regarding the allocation to the Council-the Council will no longer
+     be receiving an automatic allocation, but it is certainly welcome
+     to apply for WZO funding just like any other public body.
+
+     Sincerely,
+
+     Avraham Burg
+     Chairman of the Executive
+     Office of the Chairman
+
+Refoyl Finkel
+
+2)----------------------------------------------------
+Date: Tue, 02 Jul 96 09:53:05 -0400
+From: bochner@deas.harvard.edu
+Subject: _Tam-tam_
+
+A hartsikn yasher-koyekh di aroysgebers fun Tam-Tam!!  U, va, s'iz sheyn!
+
+Since there have been a couple of complaints about their use of pdf
+format, let me comment briefly. Adobe Acrobat (the program that reads
+and displays pdf format) is available for free on all major platforms.
+(Yes, unix too, if you're using X windows. And if you aren't using X,
+how are you going to display Hebrew characters?) And using this format
+we get to see an exact duplicate of the beautifully laid-out printed
+version. If there's another platform independent, freely available
+format that can duplicate these results, I'd like to hear about it.
+
+Now that I've seen it, my problem is figuring out how to send a
+money-order in francs so I can subscribe. Even if it's available for
+free on the Net, I want to subscribe to give them the financial support.
+
+A couple of technical tips: it's laid out for paper that's larger than
+American 8.5x11, probably A4 size. So if you just print it, you lose the
+bottom lines of each page. In Acrobat it's easy to tell it to scale it
+down to 90% when printing, and that way it prints nicely on American
+paper.
+
+And be careful if you're using a Mac, _and_ you have the Hebrew Language
+Kit installed. Unfortunately the HLK interferes with the way that
+Acrobat tries to display the Hebrew characters, producing garbled output
+(and running very slowly besides). If you disable WorldScript using the
+Extension Manager, and restart your Mac, Acrobat should be able to
+display the file nicely. (If there's a way to deal with this without
+rebooting the Mac, I'd like to hear about it.)
+
+Finally, the first of the three issues currently on-line doesn't seem to
+down-load correctly, at least on Unix. Maybe they'll be able to fix
+this, but in the meantime, start with the second and third issues.
+
+Khayem Bochner
+
+3)----------------------------------------------------
+Date: Tue, 2 Jul 1996 13:08:00 -0400
+From: lew@nortel.ca
+Subject: _Tam-Tam_
+
+Excepting Mendele of course, this has got to be one of the most
+interesting Yiddish I've seen on the net so far. And on the Web to boot.
+
+They chose PDF which some have questioned. PDF is available for Windows,
+for MACs, and for four Unices (Sun, HP, SGI, AIX). That certainly still
+leaves some folks out, but is not quite as bad as Windows only...
+
+PDF is huge, granted, but the files are quite a bit more compact than
+the other alternatives I know of (postscript, and, for the same quality,
+GIFs).
+
+Once HTML really supports R2L scripts and non latin characters, and once
+browsers than can do same are widespread, and once fonts are available
+without much trouble, then HTML should be a *much* better medium. I
+don't see that happening for some time yet.
+
+With PDF, I didn't have to load any fonts from anywhere, it just worked
+first time (I had previously installed acroread of course, but hadn't
+used it for anything but English so far). It works because PDF carries
+the fonts within itself (which explains the file size). It also
+obviously deals with R2L, but I know not how. And the print quality is
+just great.
+
+With respect to using transliteration instead, well, I can certainly
+read transliteration with much less effort, but how could I object to
+using Yiddish letters (on Mendele or elsewhere)? After all, proficiency
+in reading Yiddish the way it has been printed for 1000 years is
+certainly valuable and worth a bit of effort. It's the one thing I
+really miss on Mendele: real oysyes.
+
+And could a Yiddish periodical get away ("politically") with publishing
+in Latin letters? That's fine for us Mendelyaner, given all the
+technical problems, but for a publication?
+
+Pierre Lewis
+Montreal
+
+______________________________________________________
+End of Mendele Vol. 6.026
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

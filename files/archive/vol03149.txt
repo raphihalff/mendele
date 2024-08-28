@@ -1,0 +1,127 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.149
+November 30, 1993
+
+1) Arre Komar's kluge verter (Mottel Lakin)
+2) More on verb-first construction (Marnen Laibow-Koser)
+3) Sch and sh (Meylekh Viswanath)
+4) Talmud on cd-rom (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Mon Nov 29 11:43:04 1993
+From: Martin  Lakin <mlakin@acpub.duke.edu>
+Subject: Arre Komar's kluge verter
+
+I find myself in reluctant agreement with Arre Komar in his
+understanding of the shift to Hebraization of names in modern Jewish
+History and in particular post Holocaust Zionism. There is certainly
+an element of what was called "Shlilat HaGaluth" or negation of
+everything that smacked of Eastern European Shtettledom and YIddish
+was certainly one of those things. "Self Hatred" it may be called,
+but here I differ somewhat. It was rejection of the former helpless,
+ingratiating, dependent image of Jews in favor of (yes! "the warrior
+image") a fighting pioneer who could create his/her own circumstances
+far more than brethern who remained in Europe.
+
+It reminds one of the bitter fight between Bund (Arbeiter Ring) and
+Zionists. YIddish got a "rep" for being the ghetto tongue, whereas
+Hebrew was of course the aristocratic language of the "proud heri-
+tage".  Of course reflection makes one aware of how jingoistic it
+all is, but then so is the bottom line of identity.
+
+Mottel Lakin
+
+2)----------------------------------------------------
+Date: Mon Nov 29 14:27:29 1993
+From: laibow@brick.purchase.edu
+Subject: More on verb-first construction
+
+I spoke with my father (a native Yiddish speaker) about the
+verb-first construction; he said that aside from questions (Fort er
+in arbet?) he could only remember its use in a literary context. He
+couldn't recall hearing it in conditionals, but he hasn't actually
+had a conversation in Yiddish in years, so I wonder......
+
+Marnen Laibow-Koser
+
+3)----------------------------------------------------
+Date: Tue Nov 30 13:24:56 1993
+From: meylekh viswanath (viswanath@draco.rutgers.edu)
+Subject: sch and sh
+
+Leigh Lisker writes:
+
+>As someone said, sch introduces a "superfluous" letter where sh is
+>presumably unambiguous (given the absence of aspirated s, except
+>across word boundary, this side of Korea).
+
+I know of one place this side of Korea, where 'sh' is not pronounced
+as in YIVO transcription.  In Czech, e.g. 'na shledanou' means
+something like 'goodbye.'  The 'shl' combination in the beginning is
+pronounced as an 's' sound followed by an 'h' sound followed by an
+'l.'
+
+Meylekh
+
+4)----------------------------------------------------
+Date: Tue Nov 30 14:42:30 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: talmud on cd-rom
+
+
+From: newsbytes@clarinet.com
+Newsgroups: clari.nb.apple
+Subject: English Language Talmud On CD-ROM 11/29/93
+Keywords: Bureau-WAS
+Date: 29 Nov 93 20:52:55 GMT
+
+WASHINGTON, DC, U.S.A., 1993 NOV 29 (NB) -- While the Bible and
+related religious documents have long been available in electronic
+format, the massive, 5,000-page Talmud containing Judaic law and
+commentary, has not been widely available. Now, Chicago, Illinois-
+based Davka, in cooperation with the Institute for Computers in
+Jewish Life, has published English and Hebrew versions of the Talmud
+on an Apple Mac-compatible CD-ROM.
+
+Besides making the documents more widely available, the electronic
+version of the Talmud, which includes Rashi's commentary in Hebrew,
+as well as the respected Soncino English translation in addition to
+the original Hebrew, is also fully indexed. The company claim that
+this allows the programs to be searched electronically using a bi-
+lingual search engine using just a word or two.
+
+Both versions of the text can be displayed simultaneously and
+scrolled together and there is also a topic index as well as the
+full-text search capabilities.
+
+The Macintosh CD-ROM is priced at $299.
+
+(John McCormick/19931129/Press Contact: Davka - 312-465-4070)
+
+ellen prince
+
+______________________________________________________
+End of Mendele Vol. 3.149
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+

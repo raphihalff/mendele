@@ -1,0 +1,177 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.302
+May 14, 1997
+
+1) Pronunciation reversals (Marjorie Schonhaut Hirshan)
+2) Sherlock Holmes af Yiddish (Iosif Vaisman)
+3) Frequency of letters in Yiddish (Refoyl Finkel)
+4) Lipography (Andrey Bredstein)
+5) Kemp Hemshekh (Elye Palevsky)
+6) Yiddish and khurbn (Elye Palevsky)
+
+1)----------------------------------------------------
+Date: Tue, 13 May 1997 10:51:42 -0400 (EDT)
+From: shirshan@aol.com
+Subject: Pronunciation reversals
+
+The replacement of the English sound, "w",  with tzvey vovn in Yiddish
+makes it appear understandable and logical that native Yiddish
+speakers might not have found it in their articulative skills to
+pronounce "w" when speaking English, hence, saying "vot" for "what",
+or "ven" for "when", etc.
+
+Who can explain their reversal of the "w" and "v" in their English
+pronunciation - vest as west,  very as wery, etc.
+
+Marjorie Schonhaut Hirshan
+
+2)----------------------------------------------------
+Date: Tue, 13 May 1997 13:33:48 -0400 (EDT)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Sherlock Holmes af Yiddish
+
+[see 6.301]
+
+I believe that there are many Sherlock Holmeses in Yiddish, including:
+
+Artur Konan Doyl, Oysgevehlte ertsehlungen (Varsha: J. Goldfart, 1923)
+Vol.1. Fantazie un wirklichkeit
+
+Artur Konan Doyl, Der grester detektiv, an intersanter shtudyum fun
+oyserardentlikhe menshlikhe fehigkeyten (Nyu York : Hibru Poblishing
+Kompani, 1928).
+
+The latter was translated by David Moses Hermalin (1865-1921), quite a
+prolific writer in many genres and translator of Shakespeare, Swift,
+Maupassant, Zola, Tolstoy, Boccaccio, Goethe, and others. Does anybody
+know a source for his (Hermalin's) biography?
+
+Iosif Vaisman
+
+3)----------------------------------------------------
+Date: Tue, 13 May 1997 14:31:31 -0400 (EDT)
+From: raphael@cs.uky.edu
+Subject: Frequency of letters in Yiddish
+
+[see 6.301]
+
+ikh hob a zibetsik kompyuter-tekes mit yidishe tekstn; sakh hakl an
+erekh elf toysnt verter.  ot iz a reshime fun di oysyes mit a tsol vi
+oft zey gefinen zikh in yene tekstn.
+
+Here's a list of Yiddish letter frequencies culled from about 11,000
+words in about 70 files.
+
+	tof 16
+	melupn-vov 26
+	sin 28
+	veys 35
+	kof 45
+	pintl-yud 110
+	langer-tsadik 111
+	langer-fey 133
+	khes 180
+	sof 299
+	shlos-mem 323
+	pey 353
+	tsadik 361
+	khof 398
+	vov-yud 412
+	langer-khof 465
+	pasakh-tsvey-yud 535
+	tsvey-yud 540
+	fey 782
+	tsvey-vov 833
+	kuf 863
+	zayen 875
+	samekh 917
+	shin 946
+	beys 968
+	hey 973
+	gimel 1132
+	mem 1140
+	komets-alef 1226
+	daled 1480
+	nun 1608
+	shtumer-alef 1649
+	pasakh-alef 1650
+	vov 1651
+	lamed 1811
+	tes 2186
+	langer-nun 2357
+	resh 2526
+	yud 3435
+	ayin 3491
+
+Refoyl Finkel
+
+4)----------------------------------------------------
+Date: Wed, 14 May 1997 01:35:02 +0400
+From: anbredstein@glas.apc.org
+Subject: Lipography
+
+Estelle Souche asks about texts in Yiddish with missing letters
+[6.301:8]. Staytsh! It used to be very common in the old literature.
+Any taytsh-khumesh has hundreds of such lipograms: the word _vos_ for
+example can be spelled 'tsvey vovn - samekh', _der_ - 'daled - reysh',
+etc. Of course, there are vowel signs, but they have nothing to do
+with it, since you can found them even when the word _der_ is spelled
+'daled - ayen - reysh'.
+
+Those who write 'fonetish' or 'sovetish' (like I do), can find such
+lipograms in many modern books as well - we consider all the words of
+Hebrew origin, written in Hebrew, to be spelled with missing letters.
+
+Andrey Bredstein
+
+5)----------------------------------------------------
+Date: Wed, 14 May 1997 11:41:57 -0400 (EDT)
+From: epalevsky1@aol.com
+Subject: Kemp Hemshekh
+
+siz kiday tsu dermonen az fun hemshekh iz aroysgekumen der ershter
+shtudir klas fun dem banaytn yidishn lerer seminar in nu york. shpeter
+zaynen mir gevorn di lerers in di nokh farblibene yidish-veltlekhe
+shuln un oykh geshafn naye shuln far di eygene kinder. a teyl fun undz
+hobn zikh oykh derkrokhn tsu di hekhere fentseter fun yidish-kateres
+in di universitetn. Tsvishn di ershte aktivistn un redaktorn fun
+"yugntruf" zaynen oykh geven hemshekhistn. L'rov zaynen di kinder,
+helfers un firers geven fun di mishpokhes fun khurbn lebngeblibene vos
+tsuzamen hot men geshafn a min inzl fun normalitet far di vos hobn
+durkhgemakht hitlers sheva midurey gehenim un far di kinder vos hobn
+zikh gehodevet afn  amerikaner  bodn nor mit an inerlekher psikhologye
+fun a geratevetn. Shpeter zaynen oykh tsugekumen kinder fun di yidishe
+shuln vos di eltern hobn gevolt yidish nit oys yoitse vegn, oder vos
+zaynen geven ideyish noent dem bund  oder vos hobn prost poshet zikh
+nit gekent derloybn dem skhar limud fun di raykhere kinder kolonyes.
+b'meyle hobn zikh tsugeklept tsu der khalastrye oykh andere khevre un
+siz gevorn a yeysh, a pozitsye far yidish in amerike.  gelebt hot ser
+"hemshekh" fun 1959 biz  (oyb ikh hob nit keyn toyes) 1978.
+interestant volt geven tsu visn vifl mendelyaner es hobn gehat epes a
+shtikl shaykhes mit "hemshekh"  Agev shpilt nokh alts di zelbe role
+der "skif" lager in melburn afstralye.
+
+Elye Palevsky
+
+6)----------------------------------------------------
+Date: Wed, 14 May 1997 12:02:03 -0400 (EDT)
+From: epalevsky1@aol.com
+Subject: Yiddish and khurbn
+
+Louis Fridhandler's note [6.297] regarding the skip of "zog nit
+keynmol" struck a painful chord.  Our son Sholem had to argue with his
+teachers in the Solomon Schecter School over his assertion that "shir
+hapartizanim" was written and sung by our kidoyshim in Yiddish.  At
+the otherwise very moving Memorial in Miami Beach, the piped in music
+of partisan and  ghetto songs is in Hebrew translation. Hebrew
+revisionism and triumphalism has no place  in the honest struggle to
+fashion authentic and creative Jewish identity. It is a khilel ha'am
+vis-a-vis khurbn.
+
+Elye Palevsky
+
+______________________________________________________
+End of Mendele Vol. 6.302
+

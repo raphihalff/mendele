@@ -1,0 +1,299 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.189
+April 26, 1998
+
+1) yidish af yidish (Noyekh Miller)
+2) farshidens (Isak Shteyn)
+3) b'revach (Yosef Gilboa)
+4) b'revach (Michoel Ronn)
+5) "beth, resh,  vav, vav alef, khof sofit" (Gilad J. Gevaryahu)
+6) ployneste (Joachim Neugroschel)
+7) the _-te_ suffix (Mikhl Herzog)
+8) Ployneste (Shleyme Axelrod)
+9) ployne(ste) (Paul Pascal)
+
+1)----------------------------------------------------
+Date: Wed, 22 Apr 1998 14:08:31 -0400
+From: "N. Miller" <nmiller@trincoll.edu>
+Subject: yidish af yidish
+
+Here's a suggestion for those Mendelists who prefer to read Yiddish in
+Yiddish, particularly when it comes to something like The Mendele Review,
+which in Leonard Prager's knowing hands has become such a treasure. 
+
+This is what I did.
+
+1. From the pages of the most recent issue I _copied_ a few paragraphs,
+2. opened up Refoyl Finkel's yidishe shraybmashinke
+
+http://www.cs.uky.edu/~raphael/yiddish/makeyiddish.html
+
+3. and _pasted_ what I'd copied into the box.
+4. I added only one line of instructions at the very start (see below).
+5. I chose PDF as the format I wanted and pressed "Do It".
+6. The shraybmashinke did its part, converted the text into Yiddish, then
+automatically brought up Acrobat Reader (free for the asking: if you haven't
+got it, now's your chance.) 
+
+http://www.adobe.com/prodindex/acrobat/readstep.html
+
+And that's it.  You can even print the result with a laser printer. 
+Beautiful. If you'd like to try for yourselves, copy the paragraphs below
+beginning with the line "\jerusalem{2000}". 
+
+The point of the exercise is to remind Mendelists that they can do the same
+with Yiddish that shows up in the pages of Mendele.  Provided of course that
+what's written follows the YIVO standard.  A neat example of how technological
+innovation constrains choice.  Ober nisht dos bin ikh oysn.  Zayt mir gezunt. 
+
+Noyekh Miller
+
+=================
+\jerusalem {2000}
+
+63 / in april 1881 hot zikh oyfgehoybn in dorem-rusland di
+pogrom-khvalye, fun velkher es hobn gelitn derhoypt di oremste shikhtn
+fun der yidisher bafelkerung. dos hot gemuzt shteln unter a gefar di
+ekzistents fun goldfadns teater. goldfadns teater, vos hot ale mol gehat
+
+di lebedikste baheftung mit di oremste shikhtn, hot glaykh gemuzt
+derfiln di ongekumene faroremung un ruinirung fun di yidishe masn.
+
+afn dorem iz nit geblibn keyn ort farn yidishn teater. goldfadns trupe
+tsit zikh iber in yene gegntn, velkhe zaynen geven mer gezikhert fun der
+
+pogrom-khvalye, un in yuli 1881 zeen mir shoyn goldfadns trupe in
+peterburg. mir veysn shoyn, az peterburg hot fun lang on gehat a
+bazunder tsutsiung-kraft far goldfadenen. goldfadn hot nit umzist azoy
+gegreyt zikh tsu zayne gastroln in peterburg. fun danen, fun peterburg,
+iz in yener tsayt gegangen durkh der rusish-yidisher prese yener
+yidishlekh-aristokratisher "bon-ton," far velkhn es hobn azoy oft gemuzt
+
+yoytse zayn nit nor der yidisher teater, nor oykh di yidishe literatur.
+
+2)----------------------------------------------------
+Date: Sun, 19 Apr 1998 16:14:55 EDT
+From: shteyn@juno.com (Isak Shteyn)
+Subject: farshidens
+
+Khushive Mendelianer,
+   
+Koydem-kol, a gur faynem yasher-koyekh tsu Feygl Infeld Glezer far gebn di
+standartizirte transliteration fun yidish mit lateynishe oysijes.  Khotsh ikh
+wart oyf der minit ven mir veln kenen zikh farshtendigen oyf yidish mit
+yidishe oysies. Nor bis ahin, lomir khotsh shraybn oyf a standartnem oyfn. 
+   
+Mikoyexh yidish vi a gehayme shprakh. Gedenk ikh in yidishe kleytn vi men fleg
+handlen oyf borg, hot men zikh banutzt mit a min zhargon khutze yidish
+polovine (helft) loshn-koydesh, der goyisher koyne zol nisht farshteyn, vi
+folgend: a betiakh= a guter tzoler; belam=oyf borg (rushey teyves fun beloy
+mues); mues khitindiker=a kabtzen wus koyft far nedoves geld (muos Khitin).
+   
+Shlemiel is sinonim mit shlimazel; un shlimazel kumt mistome fun shlim
+(shlekht)  mazel (glik), in der folksshprakh hot zikh eyn m oyfgegesn. 
+   
+Der oysdruk khone un khone-beyle far an umerlikher froy is ungenemen in
+yidish. 
+   
+Oyf di fragen "vus makht ihr,vus makhst du, vus makht a yid" zaynen di
+entfern: ikh makh zikh nit visendik; fun a laybl broyt an okraytshik (fun a
+gantz broyt-a reyftl); mir lebn un Got mutshet zikh; ikh makh a gutn ayndruk;
+kayn bris nit; borukh hashem; ikh makh mit di hend; fun a lefl a krizhik(a
+rund breytl aroys tzu varfn oyf dem a mamalige); ikh makh mit di lipn; geld
+fun tinef; tinef fun geld; ikh makh mit di zayten; shoyn khasine gemakht in
+umgang in Bukovina, Basarabia, Ukraina, Rusland, efsher in gantz
+Mizrekh-Eyrope. 
+   
+Enlekh zaynen di entfern oyf "vus hert zikh?" men golt zikh un men shert zikh;
+fun oyvn shit zikh, fun hintn molt zikh; loy s'hert zikh (a perefrazirung
+fun'm seksten gebot loy sirtzakh = zolst nit hargenen); men razirt zikh un men
+shert zikh un der moyekh kert zikh; vus men redt; as men shtinkt on, hert
+zikh; di velt kert zikh; men zogt a lign un men shvert zikh. 
+    
+Shmuesn kumt mistam fun ivrit: shmuot = nayesn.
+     
+Odom a mentsh un katshke rik zikh vert genutzt in Mizrekh-Eyrope vi a
+fargleikh as afilu a mentsh mit vintziger mayles farshteyt oykh epes un kon
+oykh epes. 
+     
+Men nutzt in Bukovina dos vort grays say far a tues say far an altn man.
+Harkavi brengt nor grayz mit a zayen far a feler. Grays=an alter man kumt
+mistam fun daytsh. 
+
+Oyf oysdrikn di hartkeyt fun vinter, nutzt men in der filshprakhiger Bukovina
+aza vertl: "shvat nie svat(mekhutn), mart nie brat, uder nie bruder und april
+tut vas er vil". 
+     
+Der oysdruk "glitshn zikh oyf'n ayz" meynt a geferlekhe unternemung.
+     
+Yaknehuz iz a ivrit abbreviation far yayin (vayn), kiddush, neyr (likht),
+havdole, zman (tsayt). 
+
+Ahora iz mistam a git-oyg, oyf nit tsu zogn a shlekht oyg.
+    
+Grishe is russish far Gershon. A grishe is a froy, velkhe hot gekrugn a get
+(divorce).
+     
+Hesse-bet is fun ivrit hesev-bet, oyf velkhn men shpart (lent) zikh un baym
+seder.
+     
+Ya-tebe-dam is oyf etlekhe slavishe shprakhn a droung, un badayt "ikh vel dir
+gebn"! 
+
+Mit der tsayt is es gevorn sinonim far a takif, eyner far vemen me darf moyre
+hobn. 
+      
+Nisht gestoygn-nisht gefloygn, meynt a lign, vos shtaygt nit(barg arof) un
+flit nit. 
+      
+Rikhtig-"ployneste" meynt a vayb, un kumt fun ivrit ploni vus meynt der un
+der, NN, un dos vord gefint zikh in Harkavi farn yor 1988 oyf zayt 372. 
+       
+Mayn shayle fun vanen nemt zikh "haytukhn" un vos dos batayt, leyg ikh nokh a
+mol for di khushive Mendelianer, heyoys keyner hot mir oyf ir nit geentfert.
+       
+Blaybt gezund un hot a gringen zumer.       
+
+Isak Shteyn
+
+3)----------------------------------------------------
+Date: Thu, 23 Apr 1998 11:28:58 -0700
+From: AJ Gilboa <bfgilboa@weizmann.weizmann.ac.il>
+Subject: b'revach
+
+Rita Falbel asked about an unknown word [07.188]. 
+
+It sounds to me as if her grandfather was transliterating the Hebrew word
+b'revach (beis reish vov (vov) ches), meaning "abundantly" or "with ease".
+Since Hebrew words are usually spelled in their original spelling when
+imported into Yiddish, either he was unaware of the source or he assumed that
+the reader might be unaware, and considerately spelled it phonetically. 
+
+By the way, how does one spell "af ts' lochis" in Yiddish? As far as I know,
+this is a "hybrid" of "af" (Hebrew) "tsu" (Germanic) "l'hach'is"  (Hebrew).
+Does one spell "lochis" lamed heh khaf 'ayin yod samech? 
+
+Yosef Gilboa
+
+4)----------------------------------------------------
+Date: Thu, 23 Apr 1998 07:29:26 EDT
+From: chromelion@juno.com (Michoel Ronn)
+Subject: b'revach
+
+It is a misspelling of the word "b'revakh," which means "in abundance."  The
+word is spelled in Hebrew as beys, reish, veis, ches. 
+ 
+Yours Truly, 
+Michoel Ronn
+
+5)----------------------------------------------------
+Date: Thu, 23 Apr 1998 14:04:59 EDT
+From: Gevaryahu <Gevaryahu@aol.com>
+Subject: "beth, resh,  vav, vav alef, khof sofit"?
+
+Rita Falbel asks (07.188) about the meaning of "beth, resh, vav, vav, alef,
+khof sofit" which 'usually follows sentiments like "Hashem zol vayter helfen
+az mir zollen hoben parnosse" '. 
+
+The abbreviation "bet, resh, vav, resh, vav, khet" though not exactly the one
+questioned but probably a first cousin of it, means: "berov rakhamav
+ve'khasadav"; which typically will follow the name of God and it literally
+means "in the abundance of His grace and charity". 
+
+Gilad J. Gevaryahu
+
+6)----------------------------------------------------
+Date: Thu, 23 Apr 1998 09:19:58 -0400 (EDT)
+From: ACHIM1 <Achim1@cris.com>
+Subject: "ployneste"
+
+I was rather surprised by Harvey Spiro's desgination of the suffix "te" in
+"ployneste" as being of Slavic origin.  so far as I know, there is no Slavic
+component language of Yiddish that contains the feminine suffix "te."  Yiddish
+linguists generally see it as probably deriving from the Aramaic suffix
+spelled "tov-alef" as opposed to the Yiddish spelling "tes-ayin".  This
+Semitic origin is bolstered by the fact that the feminine suffix "te" is, with
+very few exceptions, normally added to masculine Yiddish words of
+Hebrew-Aramaic derivation: i.e. "balegole-te" "khaver-te" etc.  An interesting
+exception is "poyer-te"--"poyer" presumably coming from German (cf. modern
+German "Bauer," English "boor," Afrikaans "Boer" etc.).  However Yiddish
+treats "poyer" virtually as a Hebrew borrowing:  the plural being "pOyerim,"
+so that the (presumably) Aramaic suffix "te" fits in with that usage.  (The
+fact that the plural stresses the first syllable rather than the penultimate
+is mirrored by the identical first-syllable stress in "bOkherim.")  Harvey
+Spiro may have been misled by the Yiddish feminine ending "ke", which is
+certainly of Slavic origin. 
+        
+Incidentally, both Yiddish and German have a special term for a feminine noun
+based on a masculine noun (such as "master-mistress" in English).  The German
+term is "das movierte Femininum" and the Yiddish term--visibly taken over from
+German--is "der movirter feminin".  There's no equivalent term in English, so
+far as I know.  Or does anyone know of one? 
+                                        
+Joachim Neugroschel
+
+7)----------------------------------------------------
+Date: Thu, 23 Apr 1998 09:54:24 -0400
+From: "Mikhl Herzog" <mherzog@bestweb.net>
+Subject: the _-te_ suffix.
+
+Several correspondents suggest that Yiddish _ployniste_ consists of the Hebrew
+origin feminine _ploynis_ + a suffix _-te_, ostensibly, of German or Slavic
+origin. Not likely! German? Can someone cite examples FROM German? Slavic?
+Aren't you confusing it with agentive feminine _-ke_:  _lererke_,
+_shnayderke_, _shoykhetke_, etc? 
+
+If we examine the distribution of the -_te_ suffix in Yiddish, we find that it
+occurs ONLY with words of Hebrew origin: _ployniste_, _makahateneste_,
+_tsadeykeste_, _negideste_ (in each of these cases, it's a pleonastic suffix;
+i.e., it duplicates an already occurring feminizing morpheme);_gvirete_,
+baleboste_, _roshete_, _mekhutnte_, _katsevte_, _ganevte_(in these cases, it's
+simply added to the masculine);  others? 
+
+I'd feel safer if the Semitists among us were to take it from here.
+
+Mikhl Herzog
+
+8)----------------------------------------------------
+Date: Thu, 23 Apr 1998 11:48:35 -0400 (EDT)
+From: Seymour Axelrod <ptyaxel@acsu.buffalo.edu>
+Subject: Ployneste
+
+My embarrassed thanks to those who responded to my inquiry.  _Ployneste_ does
+indeed appear both in Harkavy (1898, 1928)  and in Weinreich, but not where I
+thought it would be, i.e., not beginning with pe-lamed-vov-YUD-nun...; as in
+the Hebrew _ploni_, there is no yud between the vov and the nun.  I should
+have read further.
+
+Shleyme Axelrod
+Buffalo, New York
+
+9)----------------------------------------------------
+Date: Thu, 23 Apr 1998 22:43:38 -0400 (EDT)
+From: Pascal <path@interlog.com>
+Subject: ployne(ste)
+
+In response to a request on the origin of _ployneste_, Kenneth Wishniac
+speculates that the male form, _ployne_, or _ploni_ in Hebrew (and Aramaic, I
+believe, since this was Talmudic/Gemaraic usage to start with)--is cognate
+with the Arabic _fulan_, and that it therefore probably has a proto-Semitic
+root.  Myself, I had mused that Ploni was of Roman origin, Greco-Roman names
+being common in the Talmud, even for rabbis.  Ploni was, I imagined, a
+truncated Apollonius. 
+
+Paul Pascal
+Toronto
+______________________________________________________
+End of Mendele Vol. 07.189
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+

@@ -1,0 +1,148 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 7.007
+May 22, 1997
+
+1) More on romanization (Bob Poe)
+2) Yiddish literature in romanized form (Klaus Woerle)
+3) What's that song? (Lisa Tomlinson)
+4) Versions of "Papirosn" (Lisa Tomlinson)
+5) Lufmentsh and Menakhem-Mendl (Louis Fridhandler)
+
+1)----------------------------------------------------
+Date: Wed, 21 May 1997 17:27:51 -0400
+From: poe@ekbos.com
+Subject: More on romanization
+
+Now that this issue has been reopened again (and addressed by Zellig
+Bach), I would like to push it just a bit farther.
+
+I am not trying to challenge the YIVO system here; I would just like
+to understand the origins of the system a bit better.  The immediate
+focus here was the suggestion to write "ah", etc., instead of the
+standard "a".  The argument was that this spelling would appear more
+phonetic to an English-speaking reader, who (without the "h") might
+mispronounce "shames", for instance, as "sheymz".  I agree that this
+argument should be rejected, on the grounds that English spelling
+conventions have no bearing on Yiddish.  In fact, I doubt that the
+inventors of the YIVO system even considered this argument.
+
+On the other hand, it was once common to insert the "h" in Yiddish
+Romanizations, on the model of *German* spelling.  In fact, the whole
+apparatus of German spelling conventions has been used for Yiddish,
+probably on the basis of the close historical origins of these two
+languages.  But here too the practice should be (and was) rejected
+(along with "sch-" and all the other Germanisms).  After all, Yiddish
+has its own spelling conventions that evolved over centuries in the
+Hebrew alphabet and are quite independent of German.
+
+Nonetheless, the German "h" after a vowel serves a useful purpose: to
+distinguish long vowels from short.  Wasn't it once common, prior to
+modern spelling reforms, for Yiddish writers to use the Hebrew letter
+hey in just this way?  Now the standard spelling, in both alphabets,
+is based on the standard pronunciation, which (from what I have read
+on this list and elsewhere) is somewhat synthetic, but largely based
+on the NEY (litvish) dialect.  Now I am not very familiar with that
+dialect, but I know that the short-long distinction is quite important
+in CY (Polish) and SEY (Ukrainian) dialects.  So I have always been
+quite surprised that the standard spelling does not make this
+distinction.  For example, "zun" is spelled the same, whether it's
+"der zun" or "di zun".
+
+So my question is:  is the short-long distinction really lost in NEY,
+as spoken colloquially by native speakers?  Or was it simply ignored
+in the definition of the standard language?  And was there controversy
+over this question at the time?
+
+Bob Poe
+
+2)----------------------------------------------------
+Date: Thu, 22 May 1997 15:34:44 +0200
+From: klaus.woerle@klinik.uni-regensburg.de
+Subject: Yiddish literature in romanized form
+
+As a novice to the subject, I would like to know whether there is any
+Yiddish literature (especially poetry) available in romanized form
+(Latin characters).
+
+Any hint to books or Internet ressources is highly appreciated. Thank
+you very much for your help!
+
+Klaus Woerle
+
+3)----------------------------------------------------
+Date: Wed, 02 Apr 1997 10:03:26 -0700
+From: ltomlins@direct.ca
+Subject: What's that song?
+
+In the movie "Yidl mitn Fidl" immediately following the wedding scene,
+there is a scene where the escaping bride performs with the musicians.
+
+The words of the song are something like (please forgive all the
+errors):
+
+        Oy, hert zikh ayn mayne libe mentshn
+        Oy, hert zikh tsu atsinder, tsu mayn troyrik lidl
+        Fun ale mentshn zog ikh, aza groysen veytik
+        In aza kleyne, kleyne fidl.
+
+Does anyone know more about this song?  What is its name? Is it a well
+known folk song or was it written specifically for the movie?  If it
+is original, who are the writers?
+
+Our band, Macedonian Mazl-Tov is interested in recording a version of
+this song and we need to find out as much information about its source
+as we can.
+
+Please help.  Many Thanks.
+
+Lisa Tomlinson
+
+4)----------------------------------------------------
+Date: Wed, 02 Apr 1997 10:09:01 -0700
+From: ltomlins@direct.ca
+Subject: Versions of "Papirosn"
+
+We are trying to track down some information about the famous Yiddish
+song "Papirosn".
+
+Apparently the song is based on some Russian folk melody, which one?
+We think that a famous Yiddish actor, Yablokoff, brought it to
+America. But then, did he also write the Yiddish lyrics (A kalte
+nakht...)? Are there alternative Yiddish lyrics to this song?
+
+Our search through SOCAN (the Canadian Composers association) shows 4
+public domain versions of Papirosn and 2 versions licensed to
+Yablokoff.  Which is which?
+
+Can anyone shed light on the history of this song?
+
+Many Thanks
+
+Lisa Tomlinson
+
+5)----------------------------------------------------
+Date: Thu, 22 May 1997 12:04:44 -0400 (EDT)
+From: lfridhan@aol.com
+Subject: Lufmentsh and Menakhem-Mendl
+
+Mechl Asheri (7.005, 1) claims that the name Menakhem-Mendl was not
+associated with the idea of the luftmentsh.  For readers of Sholem
+Aleichem, since 1892, more so in 1903 until now (but not in 1888), the
+name Menakhem-Mendl evoked the archetypal luftmentsh.  I was obviously
+talking (7.004, 5) about the world of Yiddish literature (rarely
+discussed, it seems, these days in Mendele), while (I assume) Mechl
+Asheri wrote of the world of Lubavitch and other religious movements.
+I must accept his facts as correct no doubt, but they hardly relate to
+my subject matter.
+
+Incidentally, I suggest to him we owe each other the common  courtesy
+of spelling each others' names correctly.  Mine is spelled
+Fridhandler.
+
+Louis Fridhandler
+
+______________________________________________________
+End of Mendele Vol. 7.007
+

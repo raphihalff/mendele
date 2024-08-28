@@ -1,0 +1,136 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.027
+June 6, 1993
+
+1) Taking stock (Yitzhak Kertesz)
+2) Shprechvertlech (Pinyeh Weichsel)
+3) Farfrorene dativn (Ellen Prince)
+4) Translation costs (Victor Bers)
+5) Nekhtiker tog (Arnold Kuzmack)
+
+1)----------------------------------------------------
+Date: Fri Jun  4 17:34:46 1993
+From: "Yitzhak Kertesz" <BM.LBH%RLG.bitnet@YaleVM.YCC.Yale.Edu>
+Subject:   Taking Stock
+
+In my attempt to observe all Jewish holidays in Sivan, it is time to
+admit my sin. Out of ignorance I wasn't aware of Yossi Galron's
+bibliography of Sadan's writings. Being somewhat familiar with Yossi's
+other works, I have no doubts that this one is also very useful and
+thorough. And because many of Sadan's articles appeared in widely
+unknown Israeli journals and newspapers, such a bibliography is
+extremely important.
+
+But when I dream, I don't like to be limited. What I had in mind is a
+complete index to all Sadan's works. Just the two books that are most
+important for my interest (Ka'arat egozim and K. tsimukim) contain about
+2000 items, and I would estimate, about 500 footnotes. That means 500
+topics, hundreds of quotes, references to other books, people,
+expressions, words, etc., an incredible wealth of information. From the
+technical aspect, with the help of a computer, this wouldn't be too
+complicated. One wouldn't even need a highly paid programmer (right,
+Khaim? ;-)
+
+I agree with Zachary's miser (sorry, musar 3.17) that it is up to US to
+make mendele more diversified. Let me point out, though, that it is more
+interesting to read about literature, rather than complaints about the
+lack of such postings. It is somewhat peculiar that Zachary did not post
+similar encouragement on the now defunct Jewish Librarian network
+(Hasafran), or perhaps we will have to wait until he becomes the
+president of the association, so that he could use the power of his
+office to get people (sorry, librarians) motivated?
+
+Yitzhak Kertesz
+
+2)----------------------------------------------------
+Date: Fri Jun  4 17:49:09 1993
+From: Paul Weichsel <weichsel@symcom.math.uiuc.edu>
+Subject: Shprechvertlech
+
+A small contribution to the treasury from the (ever-dimming) memory of
+my youth.
+
+1.	My mother was fond of saying to a dinner guest who was not
+pulling his weight in consuming sufficient food: es, es, m'vet saiy vi
+saiy zogen az d'ost gegesen.  (eat, eat, we'll say that you ate whether
+you do or not)
+
+2.	My father was a playful apikoris.  There is a whole literature
+of willful mistranslations from the Tanach and the liturgy.  His
+favorite was: b'li rayshees, b'li tachlees, dos heyst: es fangt zich nit
+awn un es lozt zich nit oys. The hebrew: "b'li rayshees, b'li tachlees"
+( without beginning, withoutend) is from Adon Olom (if I recall
+correctly) and refers to the infinitude of the almighty.  The Yiddish
+"translation" reads "it doesn't begin and it doesn't end", meaning it is
+completely invalid.
+
+Pinyeh Weichsel
+
+3)----------------------------------------------------
+Date: Fri Jun  4 18:12:48 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: re: farfrorene dativn
+
+[Shleyme Axelrod writes:]
+
+>I don't know what might
+>qualify as frozen; but when my mother would ask her loudmouthed
+>brother-in-law, "ir vilt efsher a shtikl frukht?", he'd bellow, "a
+>krankn fregt men, a gezuntn git men!"
+
+re _es vet helfn vi A TOYTN BANKES_ being 'frozen', i agree that
+syntactically it's alive and kicking--the syntactic form is gapping (cp.
+english 'john ate fish and mary meat'), plus the very common yiddish
+subject-postposing:
+
+es vet helfn vi bankes helfn a toytn ->
+es vet helfn vi bankes       a toytn ->
+es vet helfn vi              a toytn bankes
+
+ellen prince
+
+4)----------------------------------------------------
+Date: Sat Jun  5 08:57:48 1993
+From: Victor Bers <VBERS@YaleVM.YCC.Yale.Edu>
+Subject: Translation costs
+
+Translation prices: $15 a page is not too much. That's what I paid three
+years ago to graduate students for translating my lectures into French.
+$15/hour was what graduate students in computer sciences were being paid
+for programming, students in psychology for testing. "Kissing through a
+handkerchief," as I.B. Singer called translating, is a task of
+comparable difficulty.
+
+Victor Bers
+
+5)----------------------------------------------------
+Date: Fri Jun  4 17:43:15 1993
+From: lkuzmack@sytex.com 
+Subject: Nekhtiker tog
+
+In Mendele 3.020, Hershel Bershady lists the well-known phrase
+
+> 2) nekhtiger tog (tuhg) -- literally, yesterday's day, meaning,
+> impossible.
+
+I have always wondered about the literal explanation "yesterday's day".
+Why should this mean anything bad? Yesterday was no worse or better than
+any other day.
+
+I'd like to propose, for your reactions, an alternative: that "nekhtik"
+is derived from "nakht" (night), so the meaning is "a day like night", a
+dark day, not really a day at all.
+
+Aside from making more sense, it is grammatically preferable. The suffix
+"-ik" usually brings an umlaut in the preceeding vowel, as in
+makht/mekhtik, rekht/rikhtik, etc., when it transforms a noun into an
+adjective.  (Does anyone know of any exceptions?) An adjective derived
+from nekhtn using -ik would be *nikhtik.  (Actually, I guess it would be
+nekhtndik.)
+
+Arnold Kuzmack
+
+______________________________________________________
+End of Mendele Vol. 3.027

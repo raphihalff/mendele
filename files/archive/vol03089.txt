@@ -1,0 +1,130 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.089
+August 23, 1993
+
+1) Yiddish orthography (Khaim Bochner)
+2) Yehupets (Zachary Baker)
+3) Introduction (Paul Ritterband)
+4) Pronouncing songs (Daniel Moishe Sherman)
+
+1)----------------------------------------------------
+Date: Fri Aug 20 13:36:30 1993
+From: bochner@das.harvard.edu
+Subject: Yiddish orthography
+
+Bob "Nissen" Goldberg writes:
+> The older orthography used in the dailies DER TOG and FORVERTS had
+> some advantages over YIVO orthography in this regard.   For example,
+> as I recall, the dipthong ayin-hey was used in places where I would
+> say "ey" but that are now spelled with just an ayin, e.g., lehbn ->
+> lebn.
+
+Well, I don't have old copies of the Forverts on hand, but in the
+old orthography as I'm familiar with it (as in the usual edition of
+Sholem Aleykhem's collected works, for instance), this just isn't
+true. Would that it were!
+
+I don't recall _ever_ seeing "lehbn" or "gehbn", even though these
+words have long "e:" or "ey" in most dialects. Why weren't they
+written that way? Because they aren't written with an "h" in German.
+
+Similarly, Nissen points out that spelling "ihr" with a "h" supplies
+a hint that this word has a long vowel, unlike the short vowel of
+"mit". True. But "ihm" was also written with a "h", even though no
+Yiddish dialect I've heard uses the same vowel in "ihr" and "ihm".
+(My dialect has "eym" as a variant, but that's another matter.)
+
+And again, this same long vowel was spelled yud+ayin in "liebe".
+Another hint. But "zieben" was written the same way, and it
+certainly doesn't have that long vowel.
+
+Examples are endless.  The point is that the old orthography, as it
+was practised, didn't attempt to reflect the sounds of spoken
+Yiddish of _any_ dialect. It was designed, by maskilim who hated
+Yiddish, to resemble standard German as closely as could be done
+with Hebrew letters.
+
+Nissen is right that you could, in theory, design a system that
+reflected a broad base of dialects. But it wouldn't be the old
+system, it would have to be a completely new creation. Good luck
+getting anyone to use it!
+
+The current orthography takes a lowest common denominator approach,
+discarding the vowel distinctions that not every one makes. I'd love
+it if we had a richer system, but look at how hard it is just to get
+everyone to write the pasekh to distinguish "ay" from "ey". I'm
+afraid that if they had held out for a richer system, we'd still be
+stuck with the old chaos !! :-(
+
+-- Khaim
+
+2)----------------------------------------------------
+Date: Fri Aug 20 16:14:41 1993
+From:  Zachary Baker (bm.yib@rlg.stanford.edu)
+Subject:  Yehupets
+
+Speaking of supposedly fictitious place names, I have often wondered
+about the etymology of Yehupets, the Kiev stand-in portrayed in
+Sholem Aleichem's works that has been transmogrified into (or was
+this its original connotation?) the equivalent of "the sticks."
+
+Anyway, Ivan/John/Yohanan Petrovsky, of Kiev, hypothesizes that the
+name Yehupets derives from Ukrainian "[Y]Ehipet," meaning "Egypt" --
+with Kiev perhaps signifying the fleshpots thereof. I am no
+Slavicist, so I leave it to the likes of Robert Rothstein to shoot
+down this theory.
+
+Incidentally, in my "Responsa" column for the 1986-87 issue of
+"Judaica Librarianship" (vol. 3, no. 1/2; pp. 133-134), I discussed
+the following question that had come my way:  "Where are Kasrilevke,
+Boiberik, and Yehupetz [sic] located?"  This is NOT the definitive
+discussion of the issue, however, as Prof. Avraham Nowersztern
+tactfully pointed out to me a few weeks ago.
+
+Zachary Baker, YIVO Library
+
+3)----------------------------------------------------
+Date: Sun Aug 22 20:46:05 1993
+From: uap@cunyvms1.gc.cuny.edu
+Subject: Introduction
+
+[I'm] a sociologist of the Jews located at the City
+College and Graduate Center of CUNY. I have just completed a vlume
+on the evolution of Jewish Learning in American Universities and am
+now working on population history of NY Jews.
+
+Paul Ritterband
+
+4)----------------------------------------------------
+Date: Mon Aug 23 02:44:54 1993
+From: dave@cai.lsuc.on.ca (David Sherman)
+Subject: Re: pronouncing songs
+
+We have the same problem at home, though it's unrelated to
+transliteration or orthography.
+
+When teaching songs to our kids, I put them into our dialect.  Since
+my in-laws are from Staszow (Poland), the vowels are what's commonly
+referred to as "southern" pronunciation.
+
+[This next part gets a little difficult to describe; I'm using YIVO
+transcription below to show pronunciations.]
+
+So we teach the kids "Ofn pripetchik brent a fayerl, un in shtib iz
+HAYS" (not "heys").  And so on, rhyming with alef-BAYS.  Fine.
+
+... gedenkt zhe tayere, vus ir larnt [sic] DU, Zug zhe nokh a mol,
+un take nokh a mol, kometz alef ... what? U?  That rhymes, but we
+don't say kometz-alef U, we say kometz-alef O.  Even though we read
+many (not all) words that contain kometz-alef as "u".
+
+So we seem to be stuck with saying kometz-alef O and not rhyming.
+Comments?
+
+David (Daniel Moishe) Sherman
+
+______________________________________________________
+End of Mendele Vol. 3.089
+

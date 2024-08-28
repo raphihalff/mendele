@@ -1,0 +1,153 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.116
+September 30, 1994
+
+1) Rov vs. Rabay (Jeremy Stern)
+2) Rov vs. Rabay (Yude Rozof)
+3) Pomegrantes (Yude Rozof)
+4) Pomegrantes (Margaret Mikulska)
+
+1)----------------------------------------------------
+Date: Thu, 29 Sep 1994 18:28:45 -0400 (EDT)
+From: jstern@phoenix.princeton.edu
+Subject: Rov vs. Rabay Redux
+
+Actually, the Rov-Rabay story is more complex.
+
+The Forverts will call any modern rabbi "Rabay." This would include just
+about any rabbi outside of the Yeshiva world. So, a modern Orthodox rabbi
+would also not be a "rov."
+
+This distinction is itself problematic. What ultimately determines if you
+are a "rov" is whether you can "paskn shayles," that is, render a
+decision about Jewish law. At the same time, even in English, the term
+"rov" has certain connotations, especially compared to rabbi. For
+example, I could not call the rabbi of my synagogue (which is Orthodox)
+"rov"--it would sound facetious. Yet if I wrote in loshn koydesh or
+Yiddish about him, I would no doubt use "rov".
+
+Would you call Rov Moshe Feinstein "Rabbi?" Or Rabbi Alexander Schindler
+"rov"?
+
+Jeremy Stern
+
+2)----------------------------------------------------
+Date: Thu, 29 Sep 1994 20:08:57 -0400 (EDT)
+From: jrosof@sas.upenn.edu
+Subject: Rov vs. Rabay
+
+In Vol. 4.114, Shloyme-Khayem Cohen brought up the distinction made in
+Yiddish between Orthodox and non-Orthodox rabbis in their titles.  He
+noted that in the Yiddish Forwards, Orthodox rabbis are titled Rov, eg.
+Forwards contributor Harov Arn Ben-tsien Shurin. Rabbis of other
+denominations on the other hand are labeled "Rabay so and so."  The
+contributor called for end to the distinction, which he felt to be
+anti-Orthodox.
+
+I whole-heartedly agree with the need to dispense with such distinctions,
+but it is a fallacy to view the current distinction as anti-Orthodox.
+Leheypekh!  Quite the contrary!  The offended party here is non-Orthodox
+Judaism.  The traditional Ashkenazic term for a rabbi is rov (Sephardim
+call their rabbis H.akham (related to Yiddish khokhem)). My
+great-grandfather olevasholem was Harov Yude.  When Judaism began to
+develop in different directions in the period of the Enlightenment or
+Haskole, Orthodox Jewry drew back first from Reform or Neolog Judaism,
+and then later from its offspring, Conservative Judaism, and still later
+Reconstructionist Judaism.  Just as the Orthodox learned to distinguish
+in the realm of kashrus and conversion, so too they developed distinct
+terminology lehavdl, to divide between their own clergy and the suspect
+liberal rabbinate.  The Yiddish speaking world was a predominantly
+Orthodox preserve, liberal Judaism being a mainly Central European and
+North American phenomenon.  The Yiddish language came to reflect the
+Orthodox distinctions, importing a German word, Rabiner, to title the
+Reform and later Conservative rabbis.  Liberal Jews were in fact
+sometimes called Daytshn (Germans), recalling the western source of their
+Judaism.  It is not improbable that liberal Jews initially even liked the
+newfangled language and the connection with the west.  Nonetheless, the
+Orthodox ultimately sought to gain a monopoly over the traditional
+Yiddish title of respect for a rabbi, rov.  Unfortunately our press
+reflects this distinction until today.  It is dubious that liberal Jewish
+rabbis ever stressed a distinction themselves.  I assume that
+Conservative rabbis are buried under gravestones with their names
+preceded by Harov. Nothing else would be fitting, as Conservative Judaism
+is a halachically bound continuation of traditional judaism, although it
+is more liberal in its inclination to interpret the law to meet new
+realities than is Orthodoxy.  It is true that the Conservative laity is
+less rigorous than the movement's principles would suggest, but this is a
+different matter. I imagine that today's Reform rabbis also use ha-rav on
+their gravestones.
+
+The distinction would be very hard to obliterate.  Both Hebrew and
+Yiddish insist on gender endings and female rabbis are hard to accomodate
+linguistically.  A rebetsin is the WIFE of a rabbi, and a rabanit in
+Hebrew is also the wife, and not the rabbi.  As far as I know, modern
+Hebrew has no word for a female Rabbi.  Yiddish does have one such word,
+rarely used: rabinershe.  As soon as we use this form, we must use its male
+complement, rabiner.  The problem is, the Orthodox could never
+countenance calling their clergy rabiner, when the good old word is rov.
+Thus neither rov (applicable only to men) nor rabiner is acceptable to
+all denominations.  In American Yiddish the only compromise would be to
+use Rabay for all rabbis, as in English, but this is an English
+expression. Yiddish ought to be able to furnish a native term for this
+basic Jewish concept which would satisfy all parties both in the
+English-speaking world and beyond.  In the mean time it's hard to see an
+easy way out.
+
+Yude Rozof
+
+3)----------------------------------------------------
+Date: Thu, 29 Sep 1994 20:08:57 -0400 (EDT)
+From: jrosof@sas.upenn.edu
+Subject: pomegranates
+
+Dan Leeson (Vol. 4.114) noted that the Yiddish for orange is pomerants
+and inquired what would then be pomegranate.  A little history: I believe
+that the word pomerants enterd Yiddish via Polish.  In any case it seems
+to me that the source of the word is the Italian pomme d'arancia, or
+something close to that.  The latinate word means "orange fruit." Thus
+pomerants means orange. Frequently marants is used instead of the source
+word pomerants.  By way of contrast, the word in German is Orange or
+Apfelsine.  The Yiddish for pomegranate is milgroym.  The German word is
+Granatapfel.  I would like to know: is milgroym inherited from a Slavic
+base?
+
+Yude Rozof
+
+4)----------------------------------------------------
+Date: Fri, 30 Sep 94 00:12:09 EDT
+From: mikulska@faust.princeton.edu
+Subject: pomegranates
+
+Der milgroym.  I wonder if it's related to "groyp", "graypl" (granule,
+grain of cereal, pellet), just like "-granate" in "pomegranate" comes
+from the Latin "granatum" (full of seeds), "granus ("seed").
+
+Margaret Mikulska
+
+______________________________________________________
+End of Mendele Vol. 4.116
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

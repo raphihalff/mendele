@@ -1,0 +1,335 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 12.013
+February 19, 2002
+
+1) Dictionnaire Yiddish-Francais (Hugh Denman)
+2) Aron Tseytilns poem (Laura Mincer)
+3) how is "lamed yod" pronounced? (Andrew Firestone)
+4) a folkloristishe frage (Yael Chaver)
+5) Dogma or semantics? (Claus Buryn)
+6) lullaby (Michael Teitelbaum)
+7) translation software (Marcelo Goland)
+8) Seeking a reference (Irwin Lebow)
+9) "Ester di Manilke(?)" (Mikhoel Ron)
+
+1)----------------------------------------------------
+Date: Sat, 21 Dec 2002 09:00:41 -0500 (EST)
+From: Hugh Denman <h.denman@ucl.ac.uk>
+Subject: Dictionnaire Yiddish-Francais
+
+There has recently been some not terribly well informed discussion on
+our sister mailing-list UYIP re Yiddish dictionaries. It occurs to me
+that perhaps it would not be entirely amiss if I were to repeat here
+what I said there:
+
+Of course, the current state of Yiddish lexicography is not overly
+felicitious. In addition to the works mentioned by colleagues [i.e.
+Weinreich (1968), Harkavy (1928/ 1988), Niborski (1997) etc.] it is
+often necessary to have recourse to the various
+"component-dictionaries", i.e. dictionaries of Hebrew, Aramaic, Middle
+High German, Polish and particlarly Ukrainian, as well as to the four
+existing volumes of the _Groyser verterbukh_, but I am very surprised
+that so far nobody has mentioned that the situation has recently been
+substantially improved by the appearance of Yitskhok Niborski's
+_Dictionnaire Yiddish-Francais_, Paris: Bibliothäque Medem, 2002,
+632pp. [ISBN: 2-9511372-7-3], Euros 32.00 [h.b.], which with its 37,000
+lemata has now (for more than six months already) become undoubtedly
+the finest single-volume Yiddish dictionary in existence, despite the
+fact that unfortunately it does not incorporate 100% of the lemata and
+all the rich phraseology to be found in his earlier _Verterbukh fun
+loshn-koydesh shtamike verter in yidish_, Paris, Bibliothäque Medem,
+1997, 306pp. [ISBN: 2-9511372-0-6]. Naturally, for English (or any
+other language)-Yiddish Uriel Weinreich (1968) remains unsurpassed,
+even allowing for M. Tsanin, _Fuler hebreish-yidisher verterbukh_, Tel
+Aviv: H.Leyvik Farlag, 1983, 888pp.
+
+As I wrote to a friend recently, "Niborski and his co-author Bernard
+Vaisbrot (with the assistance of Simon Neuberg) have done exactly what
+many of us have been advocating for years. They have created a
+dictionary which combines the philological virtues of Weinreich with
+the breadth of vocabulary of Harkavy, Niborski's own dictionary of
+Hebraisms, Stutshkov's _Oytser_ and material from the _Groyser
+verterbukh_.
+        
+The next stage would be to do the same thing in English, but on an even
+larger scale, by taking more material from the _Groyser_ (and its
+archive) and inviting people who have been annotating their
+dictionaries for decades to submit material. In addition more citations
+of usage from authors' works (as already in the _Groyser_) should be
+included. The resultant work could be in two volumes, be called the
+_Kurtser_ and play a role corresponding to the _Shorter OED_.
+Pipe-dreams, I suppose."
+
+p.s. Both the Niborski dictionaries are available direct from the
+Bibliothäque Medem, 52 rue RenÇ-Boulanger, 75010 Paris, 
+tel: +1 48 03 20 17, fax: +1 42 02 17 04, e-mail: 
+<medem@yiddishweb.com>
+
+Hugh Denman, 
+London
+
+2)----------------------------------------------------
+Date: Thu, 24 Oct 2002 10:10:36 -0400 (EDT)
+From: "Laura" <laura.q@tin.it>
+Subject: Aharon Tseytlns poem
+
+Dear Mendelianer, dear friends,
+
+Who can help me? I am writing a chapter on Yiddish and Jewish-Polish
+literature in Poland for a new History of Polish Literature to be
+published in Italy by Einaudi. I need the Yiddish version of some lines
+of the famous poem by Aharon Tseytln "Once upon a time in Poland"  
+(1946), that I know only in the Polish translations. In English it
+could roughly sound as "It has been a long time ago/in a certain
+country/a long long time ago/Once upon a time, in Poland" (The Polish
+translation is: "Bylo to dawno temu/w jakies krainie,/bardzo dawno
+temu/kiedys w Polsce"). I need also the exact Yiddish quotation of the
+famous 'slogan' by Sholem Ash, "Vistula speaks Yiddish to me". Thank
+you in advance for your help - A sheynem, a groysem dank!
+
+Laura Mincer, 
+Rome
+
+3)----------------------------------------------------
+Date: Sun, 17 Nov 2002 00:18:22 -0500 (EST)
+From: "Andrew Firestone" <afire@tpg.com.au>
+Subject: how is "lamed yod" pronounced?
+
+Dear friends, 
+
+Would "lialke" be pronounced identically if written "lalke"? ie is the
+orthography a pre-YIVO historical accident only? Or is it to indicate a
+softer L sound than otherwise? A friend has suggested moreover, that
+the yod is sometimes used to show accent, eg, kapelie, not
+pronunciation. Your comments would be appreciated.
+
+Andrew Firestone
+Melbourne Australia
+
+4)----------------------------------------------------
+Date: Mon, 18 Nov 2002 21:56:16 -0500 (EST)
+From: "Yael Chaver" <ychaver@socrates.Berkeley.EDU>
+Subject: a folkloristishe frage
+
+Tayere Mendelyaner,
+
+Does anyone know the Yiddish parody (sung in my family) on the part of
+the Passover Seder that is based on Psalm 115, which mocks the idols?  
+The parody starts with the first Hebrew line "eynayim lahem ve'lo
+yir'u"  (they have eyes but do not see), then translates "oygn hobn zey
+un zeen nit," then mocks: "oy iz tsu zey un vey iz tsu zey, a blindn
+getshik hobn zey."  As the Hebrew continues, mentioning ears, mouth,
+nose -- the Yiddish follows derisively: "a toybn getshik... a shtumen
+getshik... a fonfevatn getshik."  I am looking for a source or
+documented tradition.  Any tips would be greatly appreciated.
+
+A sheynem dank alemen,
+
+Yael Chaver
+
+5)----------------------------------------------------
+Date: Fri, 29 Nov 2002 08:16:54 -0500 (EST)
+From: "L.M.B." <troia@wxs.nl>
+Subject: Dogma or semantics?
+
+The Yiddish 'apikoyres' is a sad figure, despite his epicurian origin.
+Being an 'apikoyres' in the nineteenth century meant that one was
+attracted to the ideas of the 'haskole' movement that one was a
+'maskl', a believer in enlightment, western education. During the
+second half of the nineteenth century being married to an 'apikoyres'
+provided a woman with grounds for getting a 'get', a divorce.
+
+Hebrew and Yiddish dictionaries appear to side against the 'apikoyres'.
+Though several Yiddish dictionaries agree that an 'apikoyres' is merely
+a free-thinker or an atheist, others insist that he is a heretic.
+
+The standard defenition of a 'heritic' does not square with the meaning
+'freethinker' or 'atheist'. For someone who abandons a faith or a
+religion, English uses the word 'apostate'.
+
+However, Hebrew and Yiddish dictionaries agree that an apostate is a
+'meshumed', while a meshumed is someone who has converted to another
+religion, notably the Christian religion.
+
+I wonder how this change in meaning, whereby an apostate became a
+heretic came about.
+
+Toe illustrate the problem I give what I have found on the subject in
+several dictionaries:
+
+Ben-Yehuda's Pocket Engl.-Hebr.; Hebr.-Engl. Dictionary
+Engl.-Hebr.:
+apostasy: kfirah; hamarat dat
+apostate: mumar; kofer
+heresy: kfirah
+heretic: kofer
+atheism: kfirah, epikorsut, shlilat elhim
+atheist: kofer, epikoros
+
+Hebr.-Engl.
+kfirah: cub; denial; atheism
+hamarah: change; apostasy
+mumar: convert, apostate
+kofer: unbeliever, atheist
+
+meshumadut: apostacy
+meshumad: apostate
+shmad: religious persecution; apostacy
+shmad: to be destroyd
+shimed: to force to convert
+
+epikorsut: atheism, heresy
+epikoros: atheist, freethinker, heretic
+
+minut: heresy, sectarianism
+min: kind; sex, gender; sectarian; heretic
+
+kafran: denier, lier
+
+Niborski:
+apikorses: fraydenkeray; skeptitsizm; nisht-orthodoksishe oder
+nisht-ongenumener meynung.
+apikoyres: yidische fraydenker, nisht gleybiker yid; skeptiker
+
+mumer: meshumed, getoyfter, yid vos hot ongenumen dem kristlekher
+gloybn.
+koyfer: nisht gleybiker, got farleykener, ateist
+meshumed:yid vos hot ongenumen a fremden gloybn, optriniker, oysvarf,
+shlekhter mentsh.
+shmad: aribergang fun a yi tsum kristlekhn gloybn, dos toybn zikh;
+optrinikeyt, heretishkeyt
+shmadn (zikh): bakern (zikh) tsum kristlekhn gloybn
+
+Tsanin (Yid.-Hebr.; Hebr.-Yid.):
+apikoyres: koyfer, epikoros, min, kafran
+
+epikorsut: frayzinikeyt
+epikuros, apikoros: frayziniker; koyfer beiker
+
+Weinreich:
+apostasy: shmad
+apostate: meshumed; mumer
+heresy: herezie, apikorses
+heretic: heretiker, apikoyres
+freethinker: fraydenker
+atheism: ateizm
+atheist: ateist; koyfer-beiker
+
+apikorses: heresy
+apikoyres: heretic
+
+Harkavy
+apostate: meshumed; geshmadt
+heretic: apikoyres
+free-thinker: fray-denker
+
+apikoyres: heretic, unbeliever, free-thinker
+
+Webster:
+epicure: 1. a person who enjoys and has a discriminating taste for fine
+food and drinks. 2. [Archaic] a person who is especially fond of luxury
+and sensuous pleasure.
+
+Epicurian: a follower of Epicurus or his philosophy.
+
+Epicurus: 341?-270 B.C.; Greek philosopher; founder of the Epicurian
+school, which held that the goal of man should be a life of calm
+pleasure regulated by morality, temperance, serenity, and cultural
+development.
+
+apostasy: an abandoning of what one has believed in, as a faith, cause,
+principles, etc. apostate: a person guilty of apostasy; renegade.
+
+heresy: a) a religious belief opposed to the orthodox doctrines of a
+church; esp. such a belief specially denounced by the church; b) the
+rejection of a belief that is part of the church dogma. 2. any opinion
+(in philosophy, politics, etc.) opposed to official or established
+views or doctrine. 3. the holding of any such belief or doctrine.
+heretic: a person who professes a heresy; esp. a church member who
+holds beliefs to church dogma.
+
+Oxford:
+apostasy: Abandonment of religious faith, vows, principles, or party
+apostate: (One) guilty of apostasy.
+
+heresy: Opinion contrary to the orthodox doctrine of the Christian
+Church, or to the accepted doctrine on any subject. heretic: holder of
+an onorthodox opinion (orig. in the matter of religion).
+
+Claus Buryn.
+
+6)----------------------------------------------------
+Date: Sat, 30 Nov 2002 23:04:26 -0500 (EST)
+From: Michael Teitelbaum <teitelbaum@pol.net>
+Subject: lullaby
+
+Hi,
+  
+I'm trying to find a recording of a Yiddish Lullaby my parents used to
+sing to me, for my 2 year old daughter.  Unfortunately, I don't know
+what it's called.  Phonetically, it begins:  I le loo le, mein
+gedoo-le, shlof ze aygaloch tzu
+  
+If you can be of any help, I would greatly appreciate it.
+
+Michael Teitelbaum, 
+NY
+
+7)----------------------------------------------------
+Date: Tue, 3 Dec 2002 12:57:37 -0500 (EST)
+From: Marcelo Goland <mgoland_2000@yahoo.com>
+Subject: translation software
+
+I am looking for a software for translating yiddish to english, does
+anybody know if there is one on the web?
+
+Thank you,
+
+Marcelo Goland
+
+8)----------------------------------------------------
+Date: Fri, 6 Dec 2002 12:16:07 -0500 (EST)
+From: IrwinLe@aol.com
+Subject: Seeking a reference
+
+I am seeking a reference to a short story in which the "hero" is a man
+whose main role in his shtetl is to receive the aliyah in which the
+tochechah (Parashat Ki Tavo) is read.  The man leaves town and the
+townspeople are in a quandry.  If you are familiar with this story, I
+would appreciate the title and author.
+
+Irwin Lebow 
+Chevy Chase, MD
+
+9)----------------------------------------------------
+Date: Fri, 6 Dec 2002 14:44:21 -0500 (EST)
+From: "M. Ronn" <netronn@hotmail.com>
+Subject: "Ester di Manilke(?)"
+
+Khosheve Mendlistsn:
+
+Kh'zukh dem taytch fun a vort vos kh'hob gefunen in der avtobiographye
+fun a yidn fun Tiraspol, vos iz gevezner Khersoner gubernye un hart
+lebn Besarabye. Er shraybt vegn eymetsn vos me flegt onrufn "Ester di
+manilke"  (oder monilke, munlke, manlke, un azoy vayter) -- oysgeleygt
+mem-alef-nun-yud-lamed-kuf-ayen. Tomer veyst eymetser dem taytsh, zayt
+mir azoy gut un shikt mir tsu, akhuts tsu der grupe, a blitspostl
+oykhet.
+
+Ayere,
+
+Michoel Ronn (Mikhoel Ron)
+______________________________________________________
+End of Mendele Vol. 12.013
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://www.mendele.net
+http://ibiblio.org/yiddish/mendele.html
+
+

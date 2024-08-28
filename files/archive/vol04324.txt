@@ -1,0 +1,189 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.324
+February 14, 1995
+
+1) Nisht geshtoygn nisht gefloygn (Ronald Florence)
+2) Dovid Katz (Ellen Prince)
+3) A bit more re: mentsh (Louis Fridhandler)
+4) L'koved khoydesh Oder (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Tue, 14 Feb 1995 11:25:51 -0500
+From: ron@mlfarm.com
+Subject: Nisht geshtoygn nisht gefloygn
+
+I'd welcome help with a literate translation into English of the Yiddish
+expression in the subject line -- `nisht gestoygn nisht gefloygn.'  My
+grandmother used it to mean that something was ridiculous, roughly,
+`without head or tail.'  Vladimir Jabotinsky, perhaps with the same
+intent, used the expression to describe the first British scheme for the
+partition of Palestine in 1937.
+
+Ronald Florence
+
+2)----------------------------------------------------
+Date: Tue, 14 Feb 1995 13:31:54 EST
+From: ellen@central.cis.upenn.edu
+Subject: Dovid Katz
+
+in the course of a long and intense phone call from marie wright at
+oxford yesterday, i agreed to post a statement she would send me. the
+following paragraph is what was faxed to me three hours later:
+
+---------
+I misunderstood about the situation at Oxford. I would like to apologise
+to all the people concerned, the Oxford Institute for Yiddish Studies and
+in particular to Dr. Dovid Katz. I am genuinely sorry for any distress
+caused by my misinformed statements.
+---------
+
+and below is the guardian article that my (mis)information came from:
+
+---------
+
+The Guardian, Wednesday, Dec. 21, 1994
+
+Oxford centre suspends Yiddish academic accused of defamation and
+misappropriation of funds
+
+[by] Michael Simmons
+
+Dovid Katz, director of Yiddish at the Oxford Centre for Hebrew and
+Jewish Studies, was suspended on full pay yesterday accused by the
+centre's governors of misappropriating funds and defaming fellow
+academics.
+
+Dr. Katz, an American, has been a member of the independently-funded
+centre for 17 years. It has 10 Fellows on its teaching staff, and is
+associated with Oxford University, sharing lecturers and courses.
+
+The centre's governors have accused Dr. Katz, aged 38, of opening
+unauthorised bank accounts and taking expenses without approval. He said
+yesterday the charges were "rubbish." He said they would destroy Yiddish
+studies at Oxford, and would discredit an Institute for Yiddish he is
+setting up.
+
+"The governors are now complaining about all the things they were
+thrilled about for 17 years and which the centre's founder, David
+Patterson, once described as its crowning achievement," he said.
+
+However, officials at the centre said yesterday: "We are talking about
+sizable sums of money" and claimed that Dr Katz, whose salary is L30,000
+a year, faced charges that were prima facie of "a serious nature".
+
+The dispute also involves Marie Wright, a non-Jew who was responsible for
+coordinating the centre's Yiddish programme until her resignation in
+October.
+
+The governors had issued a writ against her, which has subsequently been
+discharged, questioning the use of the centre's funds and documents.
+
+It is believed L34,000 has been "frozen" in specified bank accounts by
+the governors.
+
+Mrs Wright, who now runs an Oxford Yiddish publishing house -- the
+biggest in the world outside Israel -- described the suspension of Dr
+Katz yesterday as an attack by "a wealthy establishment on a fledgeling
+institute which has so much to offer."
+
+As well as stunning many of the Oxford colleges which include Jewish
+studies in the courses they offer, the dispute has rocked the Jewish
+community.
+
+While the philosopher Sir Isaiah Berlin has praised the centre as being
+"for all non-barbarians and for the rebuttal of barbarian tendencies
+wherever they exist", others have not been so sure.
+
+Teaching staff at the centre have been dismayed by the increasing
+influence of business personalities, who make up about a third of its
+ruling governors.
+
+They include the board's chairwoman Dame Shirley Porter.
+
+----------
+
+ellen prince
+
+3)----------------------------------------------------
+Date: 14 Feb 95 13:35:23 EST
+From: 74064.1661@compuserve.com
+Subject: A bit more re: mentsh
+
+Thanks to Ellen Prince and Michael Steinlauf (4.321) for expanding the
+discussion on "mentsh." I can cite no evidence, but my hunch is that the
+exhortation, "Nu, zay a mentsh!" has had great survival value for Jews
+down the centuries.  No doubt, the same idea has operated constructively
+for other groups.  This became a foreign body to be rejected in the minds
+of authoritarians and their supporters.  Being arrogantly supercessionary
+is not compatible with being a mentsh.
+
+_Human being_ can carry some of the same force as mentsh in certain
+contexts, but I would add an e in most contexts.  _Humane being_ (more
+colloquially, a humane person) is more like it. When it can be said that
+"Fun im oder fun ir iz take oysgevaksn a mentsh" then a good deal of
+character building has been accomplished.  We are all born human beings,
+but it takes time and work at building a strong and admirable character
+structure to be considered humane.
+
+Louis Fridhandler
+
+4)----------------------------------------------------
+Date: 14 Feb 95 16:37
+From: nmiller@mail.trincoll.edu
+Subject: L'koved khoydesh Oder
+
+Many years ago my friend Hershl Bershady told me of his plans to develop
+a glossary of Yinglish.  The general idea was that many English words
+took on new life if pronounced with the stress on a later syllable.
+Thus: farFETCHED.  I think some interloper or other picked up on the idea
+and made a mint out of it but I hold that Hershl is the true inventor.
+
+Anyway, for close to 25 years I've been trying to come up with khotch
+one word to add to his list.  My friends, I have it.  I found it
+yesterday in a seed catalog.  The plant is astralagus membranaceus,
+otherwise known as milKVETCH.
+
+How do I know that it belongs?  Here's the description in part:
+
+        tonifies the spleen, especially in cases of fatigue
+
+Freyg ikh aykh, tayere fraynt mayne, nisht azoy?
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 4.324
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

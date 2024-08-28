@@ -1,0 +1,231 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.069
+July 22, 1994
+
+1) Buenos Aires Update (Zachary Baker)
+2) Introduction (Nathan Kravetz)
+3) Ven shraybt men <ey>; taykh; Hebrew ascii (Peter Kluehs)
+4) Skverer Chassidim (David Sherman)
+5) What is YIVO's new address? (Kathryn Hellerstein)
+6) French, Yiddish and Rashi (Bob Werman)
+
+1)----------------------------------------------------
+Date: Thu, 21 Jul 94 16:43:47 PDT
+From: BM.YIB@RLG.Stanford.EDU
+Subject: Buenos Aires Update
+
+I continue to receive information directly from Argentina, relating to
+the explosion that demolished the AMIA building, which housed the
+Argentine YIVO.  (I have not, however, had direct contact with YIVO
+representatives in Buenos Aires.)
+
+Readers of the NY Times have noted that in today's (7/21/94) issue there
+is an article by James Brooke, in which the following statement is made:
+
+"Also spared was the largest library of Jewish rare books in Argentina,
+maintained by the Yivo Institute on the fifth floor of the building...
+But the mutual aid society's archive of community records, dating to
+1894, was destroyed."
+
+Brooke also notes that war crimes documents were NOT located at 633
+Pasteur, and hence were also untouched by the explosion. (Speculation
+runs rampant, regarding those responsible for the massacre.  It runs the
+gamut from Hizbollah cells operating out of Brazil and Paraguay, to
+diehards opposed to the Arab-Israeli peace negotations, to Nazis in
+Argentina.  Crews of Israeli rescuers are on site, along with
+investigators from intelligence agencies.)
+
+Not having visited 633 Pasteur, I do not know exactly where the 100,000
+volumes of the YIVO library were shelved.  The YIVO offices, classrooms,
+reading rooms and gallery were on the 3rd floor -- the equivalent, in
+North American terms, to our 4th floor -- and it is possible that stack
+areas were indeed located one flight up.  The Buenos Aires YIVO
+maintained both a non-circulating research collection and a lending
+library (a 1968 description reports that there were 50,000 volumes in the
+former section, and 20,000 in the latter).  It was -- and one hopes still
+is -- the largest collection of printed Judaica in Latin America.  Not
+all, or even a majority of this library was (is?) in Yiddish.  Still, it
+was (is?) certainly one of the world's great repositories in that
+language.  Time will tell, exactly what has survived of that major
+library.
+
+In Friday's English and Yiddish "Forward," there are articles on the
+bombing, as well as quotes from the nonagenarian former director of the
+Buenos Aires YIVO, Shmuel Rozhanski (Samuel Rollansky).  In the English
+"Forward," he is quoted as saying, "Tsu vos hob ikh gedarft dos
+iberlebn?"  (Do I need to survive all this?)  In the "Forverts," he
+plaintively comments, "Nishto keyn verter farn groysn farlust.  Kh'hob
+'zoykhe' geven baytsuzayn mayn eygene levaye." (No words can describe
+this great loss.  I have 'privileged' to witness my own funderal.)
+
+Several lists of wounded, dead and missing persons have come my way. As
+if it made the slightest bit of difference, I have heard insensitive
+comments to the effect that "at least" most of the names on the lists of
+wounded and dead were not Jewish.  Well, by way of "compensation," most
+of those identified as missing ARE Jewish. There were 76 names of missing
+persons in a list released yesterday by the DAIA.  Many, perhaps most of
+those still unaccounted for are likely buried under the rubble of 633
+Pasteur.
+
+For those who are interested, a "Disaster Relief Fund for Argentina" has
+been established by B'nai B'rith International.  Contributions may be
+sent to the attention of Mr. Kent E. Schiner, International President,
+B'nai B'rith International Headquarters, 1640 Rhode Island Ave., N.W.,
+Washington, DC 20036.  Please note on checks that contributions are to be
+earmarked for that Fund.
+
+Once a clearer picture emerges, I have no doubt that there will be a
+coordinated effort to reconstitute (to the extent possible) the library
+of the Buenos Aires YIVO.  The Archives are gone forever, and the human
+cost of course dwarfs the damage to the books and files that have been
+destroyed.
+
+Zachary Baker
+
+2)----------------------------------------------------
+Date: Thu, 21 Jul 1994 13:18:20 -0700
+From: ac655@lafn.org
+Subject: Introduction
+
+Nathan Kravetz, retired professor, Lehman College, CUNY, now in the SF
+Valley of LA.  I'm a Yiddish reader, Krumer speaker of the Galitzianer
+variety, once  writer!  What is the MENDELE group about?  I'm also editor
+(Borgo Press) of the series on Judaica and the Holocaust.
+
+Nathan Kravetz
+
+3)----------------------------------------------------
+Date: 21 Jul 1994 21:15:00 +0200
+From: pete@pko.rhein-main.de
+Subject: ven shraybt men <ey> / viasoy taykh / hebrew ascii?
+
+Sholem aleykhem!
+
+Agew, hobt ir aykh gedakht, vos far a meshugene frage fregt der daitsh,
+kon er nisht lernen yidish on regln? Mistome es iz mamesh nisht faran
+keyn regl far di ortografye fun asa verter. (mayn brivl fun 15tn July).
+
+Itst vel ikh aykh fregn a laykhtere frage: kent ir mir zogn, viazoy
+badayt dos yidishe vort TAYKH <river> un nisht a kleyne osere? Taykh
+shtamt on sofek fun dem daytshishn vort Teich=little lake or pond. Efsher
+hot men getrakht, ven men shvimt in a taykh vet zayn veyniker sakonedik?
+
+Ikh volt gevolt kenen a kompyuter baln vos farnemt zikh mit Hebrew Kermit
+un veys, tsi un wu es zenen faran yidishe textn in hebreishe oysyes. In a
+mail-box in Tel-Aviv ikh hob gefinen a min ASCII code far iwrit vos zet
+oys azoy:
+
+     +-----------------------------+
+-----+ July 14.    \oFD| Vbg yfkb +-----------------------------------(
+ 7)--
+     +-----------------------------+
+
+.800 MB \Fo Gkd BBS -d nV \knnod \n`|kyd  .\oFD| Vbg yfkb Ey\`d
+  \oFDd nV dkdD \`k d|d d|`i\n \`v{n lkn`ok lkVD\VDd ,Eo `Do
+ .VESA Local Bus  y| lF (8 ms) kdD G`d Vbgd yfkbdV db|`Fd nni|
+    ...\oFDn lonV Uploads -n dv{D kIG ,l`yD ykvfD VkVo `kVoF eG
+
+Ikh dakht zikh, mit a transliteratye program zol men kenen baytn di ascii
+oysyes tsu hebreishe. Veys emetzer epes fun dosiken inyen?
+
+Blaybt gezunt alemen!
+
+Peter Kluehs
+
+4)----------------------------------------------------
+Date: Thu, 21 Jul 94 23:31 EDT
+From: dave@cai.lsuc.on.ca
+Subject: Skverer Chassidim
+
+To Peyrets Mett:
+
+I stand corrected.  I didn't realize that the Skverer were a distinct
+sect of Chassidim, but of course that makes sense.  Of course, the
+Yiddish tapes they produce are widely sold in the seforim stores in Boro
+Park, and so are accessible to the gamut of Chassidim and other
+"black-hat" Yiddish speakers.
+
+David Sherman
+
+5)----------------------------------------------------
+Date: Fri, 22 Jul 1994 00:59:38 -0400 (EDT)
+From: khellers@sas.upenn.edu
+Subject: Re: what is YIVO's new address?
+
+This is  addressed to Zachary Baker:
+
+Are you allowed to divulge to the world at large what YIVO's new address
+is/ will be?  When will the actual move take place?  Zol zayn mit mazl!
+
+Kathryn Hellerstein
+
+6)----------------------------------------------------
+Date: Fri, 22 Jul 94 13:10 +0300
+From:RWERMAN@vms.huji.ac.il
+Subject: French, Yiddish and Rashi
+
+Harold L. Orbach writes about the institutionalization of French in the
+Sixteenth Century with late confirmation lasting into the Nineteenth
+Century.  I am reminded that some Mendele readers may not know that
+medieval French is a poorly documented language; little written material
+remains in that language.  Latin was used by most clergy who represented
+a majority of the alphabetic population in the middle ages.  What
+material remains is frequently balladic, often based on translations from
+the Latin, as the poem, the _Aenaus_.
+
+The _le'azim_ [glosses, lamed - eyin - zayin; an abbreviation of lashon
+am zar[a] or language of the goyim] used by Rashi [more than 700!] in his
+commentary on the Tanach and even more in his commentary on the Talmud
+and to a lesser extent in Rashbam, his grandson's commentary on the
+Tanach, are a major source of medieval French, not infrequently appearing
+two to four centuries before other manuscript evidence of the words in
+question.
+
+This custom of using local languages to explain difficult language in
+Hebrew and Aramaic is not confined to that time or to French.  I am
+currently amusing myself with Venetian comments in a sixteenth century
+Hebrew manuscript.
+
+I highly recommend:
+
+*Foreign Words in the Bible Commentary of Rashi*, 360 pp. by the late
+Joseph Greenberg, privately published and available from the widow at 41
+Ussishkin Street, Jerusalem I-92463, Israel.
+
+Closer to Yiddish, perhaps, Rashi, as Greenberg pointed out, used several
+dozen non-French le'azim, including Middle High German le'azim [e.g.,
+brimmen, bruederschaft, durchbrechen, entwerfen, funke, gebrueder,
+greber, houf, merkatzen, negel, puken, schafreite, segel, sigel, spangen,
+steinboc, stoeszel, vlos, wendelstein].  And Judaio-Provencal?  That too:
+alhendra, budecas.  And a handful of other languages too, including
+Ladino and Arabic.
+
+__Bob Werman
+
+______________________________________________________
+End of Mendele Vol. 4.069
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

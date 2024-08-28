@@ -1,0 +1,216 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.006
+May 26, 1996
+
+1) Introduction (Herbert Megel)
+2) I.B. Singer's _In My Father's Court_ (Marion Aptroot)
+3) Sholem Aleichem reading available for download (Mark H. David)
+4) A blat Mendele (Peter Kluehs)
+5) Yiddish desktop software (Michael Zylberman)
+6) Robeson in Yiddish (Marjorie Schonhaut Hirshan)
+
+1)----------------------------------------------------
+Date: Thu, 23 May 1996 14:29:09 -0400
+From: hmegel@tso.cin.ix.net
+Subject: Introduction
+
+As an introduction, I was brought up at the periphery of the 'Borscht Belt' in
+a little town called Kerhonkson, New York in Ulster County during the period
+between the two World Wars. My father bought a hotel called the Granite
+Orchard Hotel. It had an orchard and the ground upon which it stood was
+granite rock. My Grandparents, who spoke no English, lived with us.  My parents
+were the breadwinners and my grandparents raised me.  Yiddish was my first
+language. It was during these formative years that Yiddish played a most
+important role in my life.  I remember the bonfires where we roasted
+marshmallows and sang Yiddish songs; I remember the mock marriages in which
+the bride was a male that looked eight months pregnant, the groom was a pretty
+girl wearing a mustache, the wedding party was cross-dressed and my
+Grandfather was the rabbi who performed the wedding ceremony in Yiddish; I
+remember the Black singer wearing a red shirt and blue bandanna who sang songs
+in impeccable Yiddish; I remember the actors from Second Avenue who would
+perform in the round reciting Yiddish poetry and performing short plays after
+which they passed the hat; and I remember being excited when the hotel booked
+Aaron Lebedoff and his rendition of Romania, Romania.
+
+I am recording these memories for my grandchildren and would appreciate
+hearing from anyone who lived through that period and went to a hotel, rooming
+house (kokhaleyn} or bungalow colony and has a story to tell.
+
+Herbert Megel
+
+2)----------------------------------------------------
+Date: Thu, 23 May 1996 15:46:52 -0400 (EDT)
+From: aptroot@husc.harvard.edu
+Subject: I.B. Singer's _In My Father's Court_
+
+Ikh hob nor vos bakumen a naye zamlung dertseylungen fun Yitskhok Bashevisn,
+ayngezamlt un mit an araynfir fun Khone Shmeruk, tsugegreyt tsum druk durkh
+Vera Solomon.
+
+_Mayn tatns bez-din shtub_ iz aroys in der oysgetseykhnter serye fun
+yidish-opteyl fun der hebreisher universitet in yerushalayim (in yivo-oysleyg
+un mit a glossar fun verter vos me ken nit gefinen in di verterbikher fun
+harkavin un vaynraykhn). der farlag iz: magnes pres, yerusholayim.
+
+I have just received a new collection of stories by Isaac Bashevis Singer in
+Yiddish. The stories in _My Father's Court_ have been selected by Khone
+Shmeruk, emeritus professor of Yiddish Studies in Jerusalem. He has also
+written the introduction (printed in Yiddish and English). The volume has been
+edited by Vera Solomon (in YIVO-spelling). The glossary provides a list of the
+words and expressions that cannot be looked up in the Yiddish-English
+dictionaries of Weinreich and Harkavy.
+
+This book is part of the excellent series "Yiddish Literature" published by
+the Yiddish Department at the Hebrew University and I.L. Magnes Press,
+Jerusalem.
+
+Marion Aptroot
+
+3)----------------------------------------------------
+Date: Fri, 24 May 1996 00:33:06 -0400
+From: yv@world.std.com
+Subject: Sholem Aleichem reading available for download
+
+The Yiddish Voice radio show in Boston is pleased to make available to the
+general public, via the internet, the recording of Sholem Aleichem reading
+excerpts from "If I Were Rothschild" and "A Happy Holiday" ("ven ikh bin
+rotshild" and "a freylekher yontev"), which were  originally published on '78
+RPM disks over 75 years ago.  We obtained our copy from the YIVO Institute
+(New York) Sound Archive.  We arranged for it to be professionally digitally
+remastered, and aired it on our program, 1 May 1996, in honor of Sholem
+Aleichem's yortsayt.
+
+To hear the recording, you need to point your web browser to
+
+	http://world.std.com/~yv/
+
+You will also need the RealAudio player, which is available for PCs and Macs
+from
+
+	http://www.realaudio.com/
+
+We hope to bring more exciting Yiddish sounds via our web site in the near
+future.  We hope you enjoy this important link to the past.  We would also
+appreciate your comments and feedback; see our web site for full contact
+information.
+
+Mark (Meyer) H. David
+
+4)----------------------------------------------------
+Date: 24 May 1996 19:53:00 +0200
+From: pete@pko.rhein-main.de
+Subject: A blat Mendele
+
+leyendik mit a sakh hanoe dem yidishn don quijote fun mendele moykher sforim,
+dem *seydn fun der yidisher literatur* un avade oykh dem ov fun undzere
+khevraye, dakht zikh mir, az s'vet nisht shatn arayntsuleygn in undzer
+post-kestl arayn a por shures funem dozikn verk. kh'hof az ir vet oykh hobn a
+bisl fargenign fun undzere parshoynen binyomin (don quijote) un senderl
+(sancho panza).
+
+        - herst du, binyomin! - hot senderl gezogt, nokhdem vos er hot farrisn
+dem kop un gekukt oyf di moyern mit derekh-erets, - ikh meyn, binyomin, dos iz
+epes a stambul!
+
+        - gey shoyn, gey, narele, vi kumt es tsu stambul? - hot binyomin
+gemakht mit aza mine glaykh vi er iz a stambuler a gebirtiker, - stambul,
+narele, hot tov"kuf (=500, maskem zelig bach?) mol tov"kuf gasn, itlekhe gas
+hot tov"kuf mol tov"kuf fuftsn- tsvantsik- oder efsher draysik- gorndike
+hayzer un in itlekhs hoyz voynen tov"kuf mol tov"kuf mentshn! du meynst, az du
+bist shoyn fartik? neyn, vart nor, vart, narele eyner, haynt zaynen nokh do
+kleyne gasn, yurdikes, katshenivkes, motshenivkes, piskes, yarn un padoyln
+kekhoyl-hayam!
+
+        - ay, ay, ay! - hot senderl gemakht far groys vunder - s'iz dokh epes
+gor a shrek, kh'lebn, aza groyse shtot! nor ikh bet dikh, binyomin, fun vanen
+kumen es ot-di ale groyse shtet? mentshn zoln zikh tsunoyfshtikn in eyn ort un
+lign eyner iber dem andern, glaykh vi di velt iz veynik un nishto mer keyn
+erd! es muz dokh avade drinen epes zayn, vos mentshn dervaytern zikh fun der
+erd un viln alts flien in himl, in di hoykhe, hoykhe fentster. zol es efsher
+zayn deriber, vos dem mentshns neshome vakst fun himl, makhmes dem zit es im,
+nebekh, alts aroyf, aroyf, un er hot zeyer shtark heyshek oystsushpreytn di
+fligelekh un zayn alts fun oybn? vos zogn dertsu epes dayne khakronim,
+binyonim?
+
+peter kluehs
+wehrheim, germany
+
+5)----------------------------------------------------
+Date: Sun, 26 May 96 21:16:33 1100
+From: mzylberm@ozemail.com.au
+Subject: Yiddish desktop software
+
+Since the demise of the ostralishe yiddishe nayes last year a group of
+enthusiasts including myself have been preparing a new Yiddish publication to
+be called Oyfs Nay. We have however a technical problem. We require a desktop
+publishing program to produce the paper. Dagesh and similar are wordprocessors
+and are not suitable for what we want to do. We are aware of a Hebrew version
+of Quark Express for Macintosh. However we are seeking IBM PC based software.
+
+Michael Zylberman
+
+6)----------------------------------------------------
+Date: Sun, 26 May 1996 12:00:00 -0400
+From: shirshan@aol.com
+Subject: Robeson in Yiddish
+
+In the newsletter distributed by the Circle of Yiddish Clubs, an umbrella
+organization for the Yiddish Clubs of South Florida, the following item of
+interest appeared:
+
+"A restored recording of a 1949 Moscow concert by the late American singer,
+Paul Robeson, recently discovered in the Soviet Union, is being released on CD
+in the U.S. and Europe. Robeson ended the concert, which was held during the
+height of Stalinist anti-Jewish persecution, with a passionate appeal against
+anti-Semitism, with a song he sang in Yiddish to a surprised and reportedly
+moved audience."
+
+Marjorie Schonhaut Hirshan
+Boynton Beach, Florida
+
+______________________________________________________
+End of Mendele Vol. 6.006
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

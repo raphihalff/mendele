@@ -1,0 +1,159 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.242
+February 26, 1997
+
+1) Ende oysyes (Hershl Hartman)
+2) Final consonants in Yiddish (Joachim Neugroschel)
+3) Bney Odom (Ron Robboy)
+4) Yidish un yidishkayt (Meylekh Viswanath)
+
+1)----------------------------------------------------
+Date: Wed, 26 Feb 1997 02:48:04 -0500 (EST)
+From: hershl@aol.com
+Subject: Ende oysyes
+
+I have always considered the Soviet attempt to eliminate the final
+(shlus) letters as of a piece with the "phoneticization" of
+Hebrew-element words, including replacing the sof with a samekh, as in
+emes: ayin-mem-ayin-samekh. The goal in both cases, I believe, was not
+as dramatic as a political assault on Hebrew, religion and Zionism,
+although all that was on the Soviet political agenda long before the
+State of Israel came into being.
+
+Rather, the goal was educational: to simplify the learning process by
+eliminating the final form of a few consonants and making uniform the
+spelling protocol of all the words used in Yiddish, regardless of
+their origins.
+
+My impression is based on two observations.
+
+First, if political ends were the motive, Soviet-style orthography
+would have been rigidly adopted by Yiddish-writing Communists
+worldwide. In fact, pro-Soviet Yiddish newspapers, journals and books
+stuck with traditional (pre-YIVO) orthography, even as they
+re-published the writings of Soviet authors. In such reprintings, the
+traditional orthography was restored.
+
+Second, the "phonetic" spelling of Hebrew-origin words was not limited
+to Soviet practice. In this country, I have spoken with many graduates
+of the thoroughly anti-Soviet Yiddish shuln of the Workmen's
+Circle/Arbeter Ring who also did not learn to spell Hebrew-origin
+words in their original form. I've been told of a photograph taken at
+a WC/AR shule in the midwest in the 30s or 40s, where children held up
+alphabet placards that spelled out "shabes":
+shin-alef-beyz-ayin-samekh.
+
+Hershl Hartman
+
+2)----------------------------------------------------
+Date: Wed, 26 Feb 1997 10:30:12 -0500 (EST)
+From: achim1@cris.com
+Subject: Final consonants in Yiddish
+
+In regard to certain final consonants in Yiddish:  the gender of the
+letters in the Yiddish alphabet is feminine both in Harkavy and in
+Weinrich's "College Yiddish".  However, in Weinreich's Yiddish-English
+Dictionary, the descriptive (Yiddish-English) portion indicates both
+the feminine and the masculine gender, while the prescriptive
+(English-Yiddish) portion doesn't mention the letters at all.
+
+The gender makes a difference in another name for the final tsadik:
+"shlekhte(r) tsadik".  In this case "shlekht" has the older secondary
+meaning of "straight"--which is still preserved, figuratively or
+literally, in a number of German words and expressions:  schlecht und
+recht, schlechterdings, schlechthin, schlechtweg, etc.  And the German
+adjective "schlicht" means "plain, simple" (cf. the English cognate
+"slight").
+
+Harkavy lists the second meaning of "shlekht" in a separate entry,
+implying that this adjective still exists beyond the letter name
+"shlekhte(r) tsadik".  However, according to Mordkhe Shekhter, the
+meaning "straight, etc." never occurs in modern Yiddish (beyond the
+name of the final tsadik) and he has never found it in older Yiddish.
+
+Back to the gender:  the pun makes sense only if "shlekhter tsadik" is
+masculine;  if it's feminine, then the pun is (even) feebler while the
+use of the word "shlekht" to mean straight might imply a wider usage
+beyond this term.
+
+As for the noun "ende": it came in from modern  German "das Ende" (as
+you can tell by the final ayin), but is limited to hopelessly
+Germanicized Yiddish.  Before posting it on Mendele [6.238], the
+writer should have checked the various Yiddish dictionaries.  Harkavy
+lists it and indicates an -s plural (as opposed to the German -n
+plural), which indicates a certain degree of acceptance in Yiddish.
+Weinreich doesn't even mention "ende" but lists "di end" in both parts
+of his dictionary, though labeling it "of doubtful admissibility"--i.e.
+daytshmerish.  To head off any die-nightmarish war, I don't much care
+which words one uses;  in this case I'm perfectly content with
+"shlos-mem" and, in other contexts, with "ek" and "sof".  I'm glad to
+see, however, that Weinreich accepts "endglid" (limb, extremity) and
+"endung" (grammatical ending) as well as some other cognates.  "Endik"
+however is a "turkey" (it's a variant of "indik").
+
+Joachim Neugroschel
+
+3)----------------------------------------------------
+Date: Tue, 25 Feb 1997 19:46:10 -0800
+From: rrobboy@cts.com
+Subject: Bney Odom
+
+As to the engaging question of what the chicken must be thinking
+during the Bney Odom [6.227-34, 6.238], I suspect we will never have a
+definitive answer.  But if the question is what Sholem Aleichem
+thought the chicken must be thinking, I suggest turning to his story
+"Kapores" (1903), in Book 1 of his _Maysyes far yidishe kinder_
+(Folksfond oysgabe, tsveyte oyflage, 1918, pp. 113-126).
+
+The chickens have had enough.  "A sof!  Oys kapores!" came the cry.
+They call a general strike.  Did I say strike?  "Ayn emese milkhome!"
+(p.119) But following the bloodletting, war must inevitably give way
+to negotiated settlement. This process Sholem Aleichem spells out in
+detail.
+
+After flatly rejecting a proposal by the balebatim that the chickens
+be represented by a delegation of turkeys, ducks, and geese, the
+chickens place the principal issue on the table:  vu shteyt dos
+geshribn? -- where is it written that Jews must shlogn kapores? (p.
+122)  Difficult as these fundamental matters of recognition are,
+however, the nuts-and-bolts issues of implementation call for even
+greater flexibility and creativity.  For though it may be that during
+Bney Odom the chicken is "held still, as opposed to the circular
+motion made later," as David Herskovic wrote [6.230], the chickens
+themselves obstinately link the two in negotiations, and a key feature
+to the eventual settlement -- this is clearly a make-or-break issue --
+is that "b'shas shlogn kapores un zogn 'Bney-odom' zol men nisht
+dreyen mit di oyfes meshugenervayz..." (p. 125)
+
+The outcome?  Chickens, Sholem Aleichem says, are still slaughtered
+and plucked, cut up and cooked, then covered in sauce and brought to
+the table. But no more shlogn kapores, and no more Bney Odom.
+
+There is a limit.
+
+Ron Robboy
+
+4)----------------------------------------------------
+Date: Tue, 25 Feb 1997 04:51:37 -0500
+From: viswanat@pacevm.dac.pace.edu
+Subject: Yidish un yidishkayt
+
+Mechl Asheri writes [6.228]: "you can have Idishkayt without Idish,
+but you can't have Idish without Idishkayt".
+
+I'd go further.  If Yiddish is not a Jewish language, what's the big
+deal about it?  Why bother to keep it and speak it?  We don't have
+other means of communication?  And further, removing it from
+Yidishkayt will change the language and it's gayst.  I personally
+don't see anything to write home about in recent developments where
+more and more non-Jews are learning Yiddish, if their involvement will
+further reduce the Jewish component of Yiddish (aside from the fact
+that my mother couldn't care two hoots about the matter).
+
+Meylekh Viswanath
+
+______________________________________________________
+End of Mendele Vol. 6.242
+

@@ -1,0 +1,189 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.151
+October 24, 1994
+
+1) Rote brik (Dan Leeson)
+2) Transliteration (Meylekh Viswanath)
+3) Yekes - mir zenen do! (Meylekh Viswanath)
+4) Tekhnishe inyonim (Meylekh Viswanath)
+5) "Mazshge", a vort? (Daniella HarPaz)
+6) The Mechitza of Iron (Henry Mullish)
+
+1)----------------------------------------------------
+Date: Sun, 23 Oct 1994 13:53:03 EDT
+From: leeson@aspen.fhda.edu
+Subject: Rote brik
+
+Does anyone have knowledge of any humorous or subtle meaning of this
+expression.  A genealogic colleague who lives in Texas said that, when he
+was a kid, whenever this phrase was used it was the signal for a great
+deal of laughter from the adults in the room.
+
+I know of no particular humor within it and ask the Mendelniks if it
+contains a secret about which I know nothing.
+
+rote brik
+
+Dan Leeson
+
+2)----------------------------------------------------
+Date: Mon, 24 Oct 94 14:05:19 EDT
+From: pviswana@andromeda.rutgers.edu
+Subject: transliteration
+
+Sam Kowarski says:
+> A thought on transliteration: the problem would be moot if we could find
+> a way to use the native alphabet when we wrote yiddish. On computers it
+> shouldn't be too hard. Where are the yiddish speaking computer mavens?
+
+Such software exists and has been implemented for Tamil; so I am sure it
+is possible for Yiddish.  With Tamil, three or four lines are used to
+reproduce a single line.  Thus, if we wanted to write khof, we would
+have:
+
+             _____
+                   \
+                   |
+                   |
+            ______/
+
+This took five lines, but I haven't thought it out fully; somebody with
+more effort may be able to do it in three lines, and better. I can refer
+people to the appropriate persons who did it for Tamil; I am sure they
+would be willing to lend their knowledge.
+
+Meylekh Viswanath
+
+3)----------------------------------------------------
+Date: Mon, 24 Oct 94 14:05:19 EDT
+From: pviswana@andromeda.rutgers.edu
+Subject: Yekes - mir zenen do!
+
+There are a couple of other humorous explanations for the origin of the
+term.
+
+One, Adam was a yeke, and as prrof, we have hashem saying in bereishis,
+3:9 And the Lord God called unto Adam and said unto him, Where art thou;
+the hebrew for the last three words is ayeka!
+
+Two, hashem himself was a yeke.  In shmos 3:14, when moshe rabeynu asks
+hashem how he should justify to the Israelites his attempt to take over
+the leadership, hashem tells him: 'And God said unto Moses, I AM THAT I
+AM.' Tell them 'I AM sent me.'  The words 'I AM THAT I AM,'if read in
+Hebrew with the substitution of 'y' for 'h' as is customary in saying out
+the different names of hashem as in 'elokim,' reads yeke asher yeke, or
+The yeke that I am, indeed the yeke that I am!
+
+Meylekh Viswanath
+
+4)----------------------------------------------------
+Date: Mon, 24 Oct 94 14:05:19 EDT
+From: pviswana@andromeda.rutgers.edu
+Subject: Tekhnishe inyonim
+
+> So if
+> you live in NYC, Boston, St. Louis, Houston, San Antonio, Austin, Atlanta,
+> Phoenix, and just about anywhere in California you can get fast unlimited
+> service with full Internet access for under $20 a month.  Write for details.
+
+ikh bin farinteresirt, un efsher a sakh andere mentshn; volt geven
+kday aribergebn di protim af mendele, meyn ikh.
+
+Meylekh Viswanath
+
+[Zogt der shames: the information is too long and of too little interest
+for most subscribers to justify including it in Mendele.  A simple note
+will do the trick.  nm]
+
+5)----------------------------------------------------
+Date: Mon, 24 Oct 1994 14:53 EDT
+From: harpaz@binah.cc.brandeis.edu
+Subject: "Mazshge", a vort?
+
+Is anyone familiar with the word "mazshge" in Yiddish?
+Used in a friends family in the middle of an English
+sentence "...to mazshge something up..." ie., to mix it up.
+...or, "that's mazshgeed...".
+
+Any suggestions? Is this simply a case of oystrakhtn a vort?
+
+Daniella HarPaz
+
+6)----------------------------------------------------
+Date: Mon, 24 Oct 1994 15:21:50 -0400 (EDT)
+From: mullish@acfcluster.nyu.edu
+Subject: The Mechitza of Iron
+
+For those of you who managed to read last Saturday's New York Times, you
+will know with great sorrow of the passing of the much loved and admired
+Reb Shlomo Carlebach, who has entertained millions of us with his
+heavenly music for the last 35 years or so. His funeral was held
+yesterday and an outside service was held for him outside of his
+synagogue on West End Avenue in New York City. The police had blocked off
+the streets in the immediate neighborhood to enable the vast crowd to be
+accommodated in the street. It rained during the service but it was
+difficult to distinguish the rain drops from the tear drops.
+
+After a moving and well-deserved service during which many passionate
+speeches were given by friends and family members it was announced that
+Shlomo was to be buried in Israel and his body was to be taken directly
+after the service to Kennedy Airport for transfer to an El Al plane. Four
+buses were provided for anyone who felt the need to accompany him on his
+last journey. Needless to say, the busses were filled in no time at all
+and under police escort all the way to the airport we accompanied Shlomo.
+
+What was so remarkable to me was the journey to the airport. All the way
+people in the bus sang Shlomo's melodies between their profuse tears.
+Many of the melodies I instantly recognized but there were so many I had
+never heard before. Someone remarked that this was probably the first
+time that Shlomo had arrived at the airport in time.
+
+At the airport the crowds were loathe to take their leave of the revered
+rabbi. The coffin was transported up a ramp to the Customs Hall at Gate
+7, with his followers and friends gently touching the hearse for as long
+as they could. Miraculously two lit candles appeared on the concrete
+posts leading to the ramp. Throughout the vigil Shlomo's songs were sung.
+When the moment arrived to finally take leave of the coffin, the people
+simply refused to budge. The policemen had no choice but to bring down
+the steel shutters.
+
+May he rest in peace; shalom to you Shlomo, you will be forever
+remembered with love.
+
+Henry Mullish
+
+______________________________________________________
+End of Mendele Vol. 4.151
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

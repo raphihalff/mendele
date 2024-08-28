@@ -1,0 +1,201 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.084
+August 13, 1995
+
+1) Klor-vays tsigele (Iosif Vaisman)
+2) Nota Bene [Yiddish software] (Zachary Baker)
+3) Mock Yiddish (Art Sheppard)
+4) Korn's _A nay kleyd_ (Bernard Katz)
+5) Hot vs cold compresses (Dan Leeson)
+6) Translating Yiddish (Morrie Feller)
+7) Vakatsye (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Fri, 11 Aug 1995 14:45:07 -0400 (EDT)
+From: iiv@mmlds1.pha.unc.edu
+Subject: Klor-vays tsigele
+
+According to Marvin Caplan ("Raisins and almonds" - Goldfaden's glory. in
+Judaism: A Quarterly Journal of Jewish Life and Thought, Spring 1993,
+v42, n2, p193-200):
+
+ The white kid is surely kin to the kid of the final seder song, Had Gadya.
+ That kid is the embodiment of Israel, whom God the Father buys for two
+ zuzim -- which stand for the two tablets of the covenant, or, in other
+ interpretations, for Moses and Aaron.
+
+Interestingly, Caplan's article starts from:
+
+ ...               Yet it is hard to imagine a song whose words are more
+ likely to offend contemporary Jewish sensibilities than that beloved and
+ quintessential Yiddish lullaby, "Rozhinkes mit Mandlen (Raisins and
+ Almonds)."
+
+ Do the people who clamor for it at bar mizvahs and weddings and other
+ Jewish social functions know of what they are singing as they join in on
+ its melting, lovely chorus? Are they aware of what comes after the
+ chorus? Most likely not. Do the artists who sing the song at these
+ affairs know all the words? Perhaps they do. And, if they do, you may be
+ sure that they generally have the good sense not to sing more than the
+ first verse. Even the first and best known verse may sound a little
+ strange to Jewish ears today...
+
+(Cited from the electronic version of journal in Expanded Academic ASAP,
+InfoTrac EF Family of Databases)
+
+Iosif Vaisman
+Chapel Hill, NC
+
+2)----------------------------------------------------
+Date: Fri, 11 Aug 95 12:54:35 PDT
+From: bm.yib@rlg.stanford.edu
+Subject: Nota Bene [Yiddish software]
+
+I am surprised that in all of the discussion that I've read on Mendele,
+over the years, regarding Yiddish fonts and word processors, I don't
+recall ever seeing mention made of the Nota Bene word processing program,
+which includes Yiddish on its Lingua add-on program.  The default Yiddish
+keyboard is the one familiar to users of the old Royal manual
+typewriters, and characters can be added to the keyboard, representing
+(for example) the YIVO diacritics for letters such as "fe" and "veyz."
+
+As a word processor, Nota Bene is far from perfect -- no spell check,
+some directionality problems when using Latin and Hebrew alphabets
+together, etc.  The program "feels" like an English word processor, to
+which Hebrew and Yiddish have been added as options.  Still, it does the
+trick for me, and that includes producing indexable bibliographies in
+Yiddish (with the help of an experienced Nota Bene programmer).
+
+Nota Bene has reached version 4.2.  Users know that it's not easy to
+learn, and the company that created and markets it has gone through
+various gilgulim (including near bankruptcy).  In addition to Hebrew and
+Yiddish, NB Lingua also handles Cyrillic and Greek.
+
+Zachary Baker
+
+3)----------------------------------------------------
+Date: Fri, 11 Aug 1995 12:21:23 -0700
+From: spaceman@gn2.getnet.com
+Subject: Mock Yiddish
+
+I have been reading with great interest the commentary on "mock yiddish"
+and would like to make the following observation.
+
+What ever happened to our ability to laugh at ourselves and with
+ourselves? There was a time, not to long ago, when dialectic humor of any
+kind was just that, humor. It  would appear  as if we must all be
+"politically correct" and take offense at everything that doesn't seem to
+be the correct usage. Must everything we say be taken as a racial slur to
+someone?
+
+It is wrong to be cruel to people through ethnicity, but we all need to
+retain our sense of humor and balance. If Buddy Hackett can do a Yiddish
+commercial for Dannon Yogurt, in New York City, it is humor not a racial
+slur or a mocking of things Jewish. Even Uncle Sam recognizes that we
+have to answer to a "Higher Authority".
+
+Art Sheppard
+
+4)----------------------------------------------------
+Date: Fri, 11 Aug 1995 18:22:36 -0400 (EDT)
+From: bkatz@uoguelph.ca
+Subject: Korn's _A nay kleyd_
+
+I thank Shleyme once more for his comments.  I missed the "button" dis-
+tinction completely.  I think the problem (for me) with that line is not
+only the "a" but the "s'iz a" phrase as a whole.  Ruth Whitman ignored
+this verb construction in her translation and chose instead to focus on
+"flist" as the verb for the entire last part of the poem.  I admire her
+translation, though it does raise a few questions for me.
+
+She uses "but" for "nor", when I would prefer "only".  For me this is
+more in keeping with the difference that I percieve as the lower inten-
+sity of "nor" compared with "ob  er", which I find closer to the English
+"but". I also would prefer to translate each of Korn's "un" conjunctions
+at the begining of the 2nd and 3rd lines in the 2nd stanza.  The repe-
+tition in English, as in the original, adds something -- certainly
+lengthening the 2nd, line is preferable imo.  Finally (the poem is so
+beautifully simple that it is worth this discussion), the last line:
+"farshteynert un shver" has a finality and weight in the Yiddish, esp.
+following the 3 preceding lines, that is not quite captured by Whitman's
+translation -- "heavy as a stone" -- though she comes very close to it. I
+would prefer the more literal translation: "petrified and heavy".
+
+Bernard Katz
+Guelph, Ontario
+
+5)----------------------------------------------------
+Date: Fri, 11 Aug 1995 17:16:42 EDT
+From: leeson@aspen.fhda.edu
+Subject: Hot vs cold compresses
+
+I so very much enjoyed the story that Andrew Cassel told of the Dr. and
+the Feldsher who prescribed opposite treatments, one suggesting warm
+compresses and the other cold.  I had a vision of the final line based on
+an old Yiddish joke that deals exactly with such a case, but Andrew did
+not come out with that line.  Actually, it was a straight ending.
+
+But here is the joke:
+
+A man goes to the doctor with pains in his stomach.  The doctor tells him
+to put warm compresses on it.  The patient goes home and does just that.
+The pain gets worse.  After several hours he can hardly stand it any
+longer.  His wife is so sick of him complaining that she tells him to put
+cold compresses on it.  He does.  He gets better almost at once.
+
+Angry, he goes back to the Dr. who gave him the advice of warm
+compresses, explains what happened and states that only cold compresses
+made him feel better.
+
+"Cold compresses???  Who told you cold compresses," said the Dr.
+
+"My wife to me cold compresses, that's who!!!"
+
+The Dr. then said, "That's funny, my wife told me warm compresses!!"
+
+Dan Leeson, Los Altos, California
+
+6)----------------------------------------------------
+Date: Fri, 11 Aug 1995 21:37:27 -0700 (MST)
+From: feller@indirect.com
+Subject: Translating Yiddish
+
+In answer to Marti Krow-Lucal (Mendel 5.083), I have always felt that the
+best way to get the "feel" of a foreign language is to read bi-lingual
+versions with the foreign language and English on facing pages.  To this
+end I have accumulated a fair number of dual language books in various
+foreign languages such as Spanish, French, German, Russian, etc.  In the
+Yiddish classes which I have taught, all readings were in Yiddish with
+facing English translations - some of which I had to do myself.  There
+are a number of dual language, Yiddish-English books which I have in my
+library such as: "Peretz" (Sol Liptzin, YIVO); "I.L.Peretz, Selected
+Stories" (Eli Katz, Zhitlowsky Foundation); "An Anthology of Modern
+Yiddish Poetry" (Ruth Whitman, October House); "Onions and cucumbers and
+plums - 46 Yiddish Poems" (Sarah Zweig Betsky, Wayne University Press);
+"The Penguin Book of Modern Yiddish Verse" (Howe, Wisse and Shmeruk,
+Viking); "Words Like Arrows" (Shirley Kumove, Warner Books).  Also, of
+course, there are separate English translations which can be held side by
+side with the Yiddish versions.  I don't believe in "making Yiddish a
+kind of holy tongue that must not be translated", I just would like to
+see the Yiddish along with the translation.
+
+Morrie Feller
+Phoenix
+
+7)----------------------------------------------------
+Date: Sun, 13 Aug 1995
+From: nmiller@shakti.trincoll.edu
+Subject: Vakatsye
+
+M'hot amol farlangt baym shames az er zol medie zayn dem oylem eyder er
+farlozt di redaktsye, kdey m'zol zikh nisht ergern umzist.  Nu, zayt
+visn, tayere fraynt, az er fort avek af a 3-4 teg.  Mir'n zikh zeyen
+mirtseshem dem 18ten.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 5.084
+

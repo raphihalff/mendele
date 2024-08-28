@@ -1,0 +1,156 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.214
+February 5, 1994
+
+1) European Jewry (Ellen Prince)
+2) Purim in Rome (Dan Kirschner)
+3) Khazars (Mark Flumerfelt)
+4) Strong Yiddish verbs (Khayim Bochner)
+
+1)----------------------------------------------------
+Date: Thu Feb  3 15:50:44 1994
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: European Jewry
+
+your question is far from elementary--in fact, it's very
+controversial! the official weinreichian story is that jews migrated
+from the northeast of france into the german rhineland, from where
+they spread throughout german-speaking territory and ultimately east
+to slavic/baltic-speaking territory. then there is a more recent
+(and, imho, more plausible) story argued by bob king that they came
+up into bavaria from the south, then moved east. (hopefully, bob
+will tell us the details himself and correct me if i'm wrong). oh,
+there's also a farkakte theory put forth by arthur koestler about
+mass conversions to judaism of the khazars, but, so far as i know,
+there is not one shred of linguistic evidence for it and all the
+linguistic evidence imaginable against it.
+
+re the 'european' genes in great evidence among european jews, my
+own personal hunch, which i have no direct evidence for, is that it
+was primarily men who did the migrating, taking local wives into
+their communities after migration. this would explain why such basic
+mother-child terms in eastern yiddish are from slavic, e.g. tate,
+bobe, zeyde. (max weinreich notices this with some embarrassment and
+suggests jewish children got them from slavic maids. this would be
+the world's first known instance of maids having an impact on their
+masters' language. besides, how many jews had maids?) furthermore,
+we know that it was entirely male migration in the case of the jews
+of india, and yet these communities have managed to keep a strictly
+jewish identity to the present day--so we know it's possible.
+furthermore, this is a very common pattern in many other groups,
+e.g. norsemen settling iceland, who apparently stopped off in
+ireland and took irish wives. furthermore, it would suggest a
+motivation for the word order changes in eastern yiddish (almost
+identical to the changes in icelandic!), but that's more than you
+want to know. finally, this would also show us that the
+well-attested exogamic inclinations of jewish men is not of recent
+vintage. (tee hee, just kidding. well, sorta kidding...)
+
+the only alternative hypothesis that comes to mind is much less
+plausible, imho, i.e. massive instances of rape of jewish women by
+non-jews. of course, this sort of thing is attested in the
+african-american community but what i know of the social structure
+of the european jewish community is totally different--jews were
+never slaves of europeans and did not typically live in their houses
+as servants and concubines. (free association: in the early '60s,
+when malcolm x visited brooklyn college, some fool in the audience
+asked why he persisted in calling himself black when in fact he was
+very light-skinned. malcolm x replied: 'just because your
+great-great-grandfather raped my great-great-grandmother, it doesn't
+make me any less black.') btw, note that, if it were jewish men
+impregnating weinreich's slavic maids in large numbers, the
+offspring would have been largely raised as slavs, not jews, and
+thus couldn't account for the genetic makeup of today's european
+jews.
+
+in any event, i personally find your questions fascinating and far
+from elementary! perhaps someday genetic studies will give us some
+answers...
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Fri Feb  4 09:00:47 1994
+From: dkirsch@amy.tch.harvard.edu (Dan Kirschner)
+Subject: Purim in Rome
+
+Can any mendeleniks suggest an interesting shul in Rome where Purim
+could be celebrated.  I expect to be in Italy during the week of Feb
+21, and would like to experience the Italo-Yiddishe way for Purim.
+If there are "better" shuls in Venice or Florence, please advise.
+Thank you.
+
+Dan Kirschner
+
+3)----------------------------------------------------
+Date: Fri Feb  4 13:25:40 1994
+From: Mark Flumerfelt <MARKF@VM1.YorkU.CA>
+Subject: Khazars
+
+Ted Steinberg's question about the origins of East European Jewry
+reminds me of a dilemma I had after reading Arthur Koestler's book
+The Thirteenth Tribe. I re ad it while I was in high school and I
+thought Koestler presented an interesti ng case but I could not
+understand why the Jews of Eastern Europe spoke Yiddish instead of
+Khazarian (I assume that was the name of their language).  Koestler
+never really addressed this issue.  Upon further reflection, and
+after reading another book on the subject by Dunlop, I came to the
+conclusion that Koestler's entire theory was bunk.
+
+Mark Flumerfelt
+
+PS - I am no authority on Russian history but was there not also a
+"Judaizing" sect in Russian during the 16th or 17th century.
+
+4)----------------------------------------------------
+Date: Sat Feb  5 13:11:43 1994
+From: bochner@das.harvard.edu
+Subject: Re: strong Yiddish verbs
+
+Steve Jacobson writes:
+> Does anyone know of a published (or unpublished) alphabetized list
+> of past participles of strong Yiddish verbs which have vowel changes
+> from the infinitives?
+
+Birnbaum's "Yiddish: A Survey and a Grammar" has a pretty nice list,
+pages 276 - 281. It organized by type of vowel change, instead of
+alphabetically, but pages 284 - 286 have an alphabetical index of
+the sort you're looking for.
+
+>  but the onlylist I
+> know of which seems to aim at comprehensiveness is in a Russian
+> Yiddish grammar published a couple of years ago.
+
+Birnbaum doesn't say anything explicitly about comprehensiveness,
+but he's got a lot of interesting dialect forms, as well as other
+forms that aren't familiar to me.
+
+His transliteration is rather hard to get used to, but if you look
+at the Yiddish rather than the transliteration, it's pretty clear.
+
+Khayim
+
+______________________________________________________
+End of Mendele Vol. 3.214
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+

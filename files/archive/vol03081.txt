@@ -1,0 +1,162 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.081
+August 16, 1993
+
+1) Shnipishok (Rick Turkel)
+2) Yivo transcription for lyrics (Ellen Prince)
+3) Transcription vs. transliteration (Zachary Baker)
+
+1)----------------------------------------------------
+Date: Mon Aug 16 10:34:47 1993
+From: rmt51@cas.org (Rick Turkel)
+Subject: Shnipishok
+
+Neakh Zide wrote, in mendele 3.056 (sorry, but I've just caught up
+after being ridiculously behind in my reading for the past few
+weeks), to ask about the place name Shnipishok.
+
+I remember my father-in-law a"h, a shtarker litvak, using this name
+in much the same way that my southern-Polish family used Patshutsh
+(Paczucz?), i.e., to refer to somplace far away.  The latter is a
+real place, but far distant from Bendin (Bedzin), whence my
+grandparents came.  I always assumed Shnipishok was a real place,
+but since I've also heard (and used) 'Yenemsvelt' in this context
+and recently heard 'Kenishkakn' from a friend in Detroit (I was
+driving at the time, and nearly hit a tree!), I'm not really sure.
+These kinds of terms tend to be pretty local - obviously, no one
+from near Patshutsh would use that name to refer to someplace far
+away.  Ver veyst, maybe they said Bendin.
+
+Rick Turkel
+
+2)----------------------------------------------------
+Date: Mon Aug 16 12:14:27 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Yivo transcription for lyrics
+
+i think one could be in favor of a standard (e.g. yivo)
+transliteration orthography for general prose purposes and still use
+a more sound-based one for lyrics and poetry and any other situation
+where the intent was to convey a regional dialect. what would you do
+if your group could actually read yiddish? the problem would be the
+same, of course.
+
+the whole issue of what dialect is used for artistic performance in
+yiddish is a very interesting one. as i understand it, the theatre
+ignored the newly proclaimed standard, so prilutski came out with a
+'compromise'--a second standard dubbed 'teater-yidish', which, so
+far as i can tell, is identical to the voliner yidish that the
+actors were using anyway! i guess he wanted to be sure to find a
+standard that would be accepted. :) the reference is:
+
+Prilutski, N. 1927. Di yidishe bineshprakh. Yidish Teater 2.129-44.
+
+btw, i was told by the singer emil gorevits that, as late as the
+early 1970s, it was FORBIDDEN to use any dialect other than standard
+yiddish in the yiddish state theatre in moscow. (and we can't blame
+the kremlin for this bit of totalitarianism!)
+
+what is to me very amazing is that just about everyone DID finally
+adopt either standard yiddish or teater-yidish in performance, with
+a very few exceptions. most of the exceptions involve some sort of
+mockery or else special uses of nonstandard regional dialects for
+certain songs only (shartse karshelekh is typically sung in central
+'galits' yiddish; moishe oysher uses his native southeastern 'tote-
+mome lushn' for certain southeastern songs, as do the barry sisters,
+etc. i'm not counting isa kremer, who always sang in 'tote-mome
+lushn', since she'd reached stardom before the standards were
+proclaimed.) the only real exception i know of was a singer named
+sarah gorby, who sang EVERYTHING, including
+serious/romantic/high-falutin' songs, in her native 'tote-mome
+lushn'. i actually did a study charting her use of the dialect in
+recordings over a 40-yr period, the results of which were that she
+clearly was trying to hold on to it but that it was slipping away in
+spite of her intentions, no doubt due to all the subtle and
+not-so-subtle pressures to avoid stigmatized dialects (she was
+living in france and recording there, in south america, and in
+israel). i can give you some references, if it interests you.
+
+-----------------------------------
+to cary, on spitting three times:
+
+they don't spit three times only in chicago! i was raised in
+brooklyn with the knowledge ( :) ) that spitting three times (or at
+least making a ritualized spitting movement and sound, which i've
+always rendered as 'ptui ptui ptui') is an effective means of
+warding off a 'nehore' (or 'canary', in my native yinglish). it
+follows 'kinehore', as in 'oy, azoy sheyn kinehore ptui ptui ptui!'
+
+-------------------------------------
+to beatrice and others, on -ian:
+
+one problem with the -yan of grubyan being cognate of the suffix in
+oxonian etc is the stress: it's grubYAN, whereas one would expect
+GRUByan if it were a suffix, no? if it's germanic, it would
+presumably have to be a compound noun to get that stress (hence my
+folk etymology making it akin to french grosjean); you guys have
+convinced me that it's slavic. anybody know the slavic etymology?
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Mon Aug 16 12:52:11 1993
+From:  BM.YIB@RLG.STANFORD.EDU (Zachary Baker)
+Subject: Transcription vs. transliteration
+
+Bob Goldberg's comments in MENDELE 3.080 reveal a common
+misapprehension of the difference between transcription (represent-
+ing the vsoundsv of a language) and transliteration
+(representing the vspellingv of a language written in a
+non-Roman alphabet). When one is citing a Yiddish source in, say, a
+bibliography, or when one needs to romanize a headline in a Yiddish
+newspaper, the proper approach is to "transliterate" -- and
+regardless of how the author or the romanizer pronounces the words,
+the accepted Yiddish transliteration scheme is the YIVO standard.
+
+I should add that, when used in this way, the YIVO system is
+actually an amalgam of transliteration (for the non-loshn-koydesh
+elements of the language) and transcrip- tion (for loshn-koydesh
+elements).
+
+The YIVO system may also be used for the purposes of pure transcrip-
+tion (perhaps with a note indicating that the transcription is based
+on a particular dialect of Yiddish).  Indeed, the example given by
+Bob Goldberg ("Ba mir bisti git, ba mir hosti 'it'") is perfectly
+compatible with vtranscriptionv of Yiddish according to the YIVO
+system.
+
+I might add that, for the purposes of bibliographical citations, I
+really do object to those who "improve" the romanization by turning
+"idish" (when it's spelled with an alef) into "yidish." True
+transliteration, as I say, is intended to represent the spelling
+used in the cited source.
+
+The problem with certain other Yiddish transcription systems (e.g.,
+those used by professional linguists), for now at least, is that
+they cannot be used in electronic forums such as MENDELE.  But that
+is a technical obstacle only, as far as I'm concerned.  The
+inability of this medium to display the symbols used in linguistic
+transcription serves as an argument (for the time being) to rely on
+the YIVO system, whether used for transliteration or transcrip- tion
+purposes.
+
+I'm sure this is all as clear as mud.
+
+Zachary Baker, YIVO Library
+
+______________________________________________________
+End of Mendele Vol. 3.081
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@yalevm.ycc.yale.edu
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@starbase.trincoll.edu
+
+Please sign your articles.
+

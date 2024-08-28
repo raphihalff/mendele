@@ -1,0 +1,163 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.204
+November 29, 1994
+
+1) Offers of help (Dan Slobin)
+2) Offers of help (Yude Rozof)
+3) Offers of help (Miriam Halkin)
+4) A biographical note about Mendele (Zellig Bach)
+
+1)----------------------------------------------------
+Date: Mon, 28 Nov 1994 17:57:47 -0800
+From: slobin@cogsci.berkeley.edu
+Subject: Offers of help
+
+To Louis Fridhandler:  The "fierce resentment" engendered by Zellig
+Bach's proposal was not to the offer of help, which anyone desiring help
+could appreciate, but to the proposal that a "minyen" be empowered to vet
+all submissions to Mendele for orthographical purity.  Even though
+content would not be at issue, the reminder of the czars' "dozvoleno
+tsenzuroyu" struck me as the wrong kind of control to impose on what is,
+for all intents and purposes, a simple series of conversations between
+like-minded people.  Just as we (hopefully) do not correct our friends'
+grammar and pronunciation in the course of conversation, I believe that
+we should not impose ourselves as teachers in the course of an
+electronically-transmitted written conversation.
+
+In the interests of friendship and mutual respect, I suggest that the
+purists keep their criticisms to themselves, and that members of the
+Mendele community who fear that they will be impugned for their
+orthography and grammar turn to members of the self-appointed minyen for
+help before joining the conversation.
+
+In the meantime, heartfelt thanks to Zellig Bach for his knowledge,
+advice--and great stories!
+
+Dan Slobin
+
+2)----------------------------------------------------
+Date: Tue, 29 Nov 1994 00:30:34 -0500 (EST)
+From: jrosof@sas.upenn.edu (Jeremy S Rosof)
+Subject: Zelig
+
+Ikh meyn az Fraynt Bakh iz a giber yidish un mir darfn im dankn un loybn
+vos er hot zikh gemeldet frayvilik oystsubesern dos yidish af mendele.
+Ikh farshtey ober gants gut di gefiln fun di vos viln nisht az andere
+zoln ibershraybn zeyer yidish.  Fun desthalbn leyg ikh fir az di vos viln
+lernen zoln opshikn zeyer post koydm tsu Zelign un di vos nisht iz nit!
+Azoy arum iz tsu hofn az yeder eyner vet zayn tsufridn, un mir'n hobn an
+oysgetseykhnte miglekhkeyt zikh tsu lernen eyner funem tsveytn a laytish
+mame-loshn.  A shekoyekh oykhet tsu Fraynt Fridhandler vos hot derklert
+az er iz greyt onteyltsunemen in a tsukunftiker red-kolegye.
+
+Yude Rozof
+
+3)----------------------------------------------------
+Date: Tue, 29 Nov 1994 13:50:54 +0200 (EET)
+From: mhalkin@lib.haifa.ac.il
+Subject: Zellig Bach's offer
+
+I too was surprised at the resentment aroused by Zellig Bach's sugges-
+tion that those Mendelniks who so wish could have their Yiddish texts
+reviewed before publication. As I understood it, this would be a service
+available to those who want it, and not one imposed on those who don't.
+
+I'm a beginning Yiddish student who is just starting to be able to dope
+out Yiddish texts in Mendele. It would be a comfort to me to know that
+these texts are for the most part free of glaring grammatical or
+syntactic errors - errors which at my stage of the game I can't always
+identify on my own. Zellig Bach's kind offer would ensure the reliability
+of Mendele as a vehicle for learning without inhibiting Mendelniks who
+wish to express themselves in mame loshen, and it should be appreciated
+as such.
+
+Miriam Halkin
+
+4)----------------------------------------------------
+Date: Mon, 28 Nov 1994 20:57:40 -0500
+From: zellig@aol.com
+Subject: A biographical note about Mendele
+
+Maurice Samuel wrote (_In Praise of Yiddish_, p. 117):
+
+"In his boyhood [Mendele] was shanghaied by a master-beggar, who
+exhibited him as an _ilui_ (a scholar-prodigy.)"
+
+Mendele was reputed to know by age 10 the entire _tanakh_ by  heart.
+
+I was intrigued by the term "shanghaied" and checked this particular
+detail in the _lexikon fun der nayer yidisher literatur_, published by
+the alveltlekher yidisher kultur kongres, N.Y. (vol. VI, 1965).
+
+The 17-tear-old Mendele was fascinated by the stories of a local beggar
+who traveled in his horse-drawn wagon from one Jewish community to
+another.  In these stories Jewish life in Lithuania, Podolye, and other
+parts of South Russia was attractive enough to catch Mendele's fancy, and
+he joined him on his next trip.  It was apparently also a means of
+breaking away from a highly impoverished home with six siblings and a
+widowed mother.
+
+The name of the beggar was "avreml der hinkediker" who later became the
+prototype and main character of Mendele's famous work _Fishke der
+Krumer_.
+
+Mendele partook in the food that the beggar managed to scrounge together,
+and they slept in synagogues, naturally free of charge.
+
+In one town the beggar tried to marry Mendele off to a daughter of a rich
+man who was a "balebos" in the literal meaning of the words "ba'al
+ha'bayis" because he was, indeed, the owner of a house.  The beggar hoped
+to receive a pretty penny as marriage broker.
+
+Mendele's refusal to go through with this plan immensely angered the
+beggar, and he started to pressure him into paying for "transportation
+and upkeep" going back to the start of the trip.
+
+Fate smiled upon Mendele.  Several weeks later he managed, during one of
+the trips, to come across a distant relative who, when heard of the young
+man's plight, met the beggar's demand and thus paid "ransom" for
+Mendele's freedom.
+
+Zellig Bach
+
+[Good things often arrive in bunches: Zellig's post was preceded by a
+_very_ long post by Michael Honey concerning his geneological research
+into Mendele's family (he's a plimenik).  Due to its length the text
+will be available in "zipped" form via anonymous ftp as soon as a few
+technical matters are straightened out. nm]
+
+______________________________________________________
+End of Mendele Vol. 4.204
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

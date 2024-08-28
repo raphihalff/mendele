@@ -1,0 +1,171 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.266
+March 6, 1996
+
+1) Sholem-Aleykhem's _Kenig Pik_ (Part 2) (Leonard Prager)
+
+1)----------------------------------------------------
+Date: Tue, 13 Feb 96 21:42:39 IST
+From: rhle302@uvm.haifa.ac.il
+Subject: Sholem-Aleykhem's _Kenig Pik_
+
+                                2
+
+We can now return to the Goodblatt manuscript of _Kenig Pik_ and try to
+identify it as closely as posslble.  Sholem-Aleykhem spoke of a revised
+edition of the play sent to _Der groyser kundes_.  On examining the play
+printed in that journal [3:6 (February 10, 1911), 8-10; 3:7 (February 17,
+1911), 8-10], we find that it is virtually identical with that of the
+Goodblatt manuscript.  This is important in understanding the textual history
+of _Kenig Pik_.  There is every reason to believe that the revised edition
+represents the author's last word on the play and has priority over earlier
+variants in a critical edition of Sholem-Aleykhem's works (such as was
+planned, with its center at the Hebrew University, but apparently has been at
+least temporarily abandoned).  Moreover, the Goodblatt manuscript is almost
+certainly the copytext for the revised version published in _Der groyser
+kundes_.  The manuscript is also more complete than the printed version (e.g.,
+it recovers the interesting line, "guryeve kashe, telyatshene nozke _ _
+pfui!," which would otherwise be lost __ see footnote 15).
+
+The Sholem-Aleykhem Archives has a typescript of _Kenig Pik_, which is dated
+January 21, 1911 and which is stamped with the Russian censor's seal.  This is
+apparently the copy submitted for permission to publish the play separately
+and it corresponds exactly to the Familyen-biblyotek edition of Warsaw, 1912.
+This editlon is also that of the twenty-eight-volume Folksfond Edition (New
+York, 1917-1923), from which many later editions (including the Ikuf edition,
+1952-1959) derive. With minor differences pointing to regional variants (e.g.
+_nit_ / _nisht_), the Warsaw 1912 typescript and the Folksfond versions are
+also identical with the edition which appeared in the _Yudishe ilustrirte
+tsaytung_ [No. 50 (December 30. 1910), 11-12].  To summarize, there are two
+basic versions, the original represented by (1) the typescript (probably typed
+by Berkovitsh directly from Sholem-Aleykhem's manuscript or a copy of it) and
+a number of editions identical to it and (2) the revised version, represented
+by the Goodblatt manuscript and the _Groyser kundes_ edition virtually
+identical to it.  The Goodblatt manuscript contains the work of two copyists
+employed by Sholem-Aleykhem to copy his original manuscript together with
+last-minute corrections and additions characteristically made by the author in
+red ink.  One of the copyists may have been working from dictation (as
+indicated by his unusual spelling of the word _kloymersht_).(12)
+
+The Goodblatt manuscript of _Kenig Pik_ belonged to the late Rabbi Morris
+Solomon Goodblatt (HaRov Moyshe-Shloyme Gutblat), a native of Mlawa, Poland
+(and thus a _landsman_ of Yoysef Opatoshu) who lived in New York between 1911
+and 1927, when he moved to Philadelphia.  He was well acquainted with Moyshe
+Nadir, who was a good friend of Sholem-Aleykhem; according to an
+unsubstantiated family tradition it was from Moyshe Nadlr that Rabbi Goodblatt
+bought the manuscript.  In addition to being a friend of Sholem-Aleykhem,
+Moyshe Nadir worked for _Der Groyser kundes_.  The Goodblatt family has also
+ralsed the possibility that the manuscript was purchased from Opatoshu and not
+from Nadir.  In any event, the tradition, which related to a manuscript, would
+not have been perpetuated had there not been some basis for it.
+
+The manuscript, however, 1s not a holograph.  One could call it a _merograph_
+-- a manuscript partly in the hand of the author.  When we look at the first
+page of the Goodblatt manuscript, we see an asterisk in red ink which directs
+us to a two-line insertion, a1so in red ink, that runs down the length of the
+rlght-hand margln.  It reads "Di uffirung fun dizn eynakter in nyu-york iz
+ibergegebn funem oytor oysshlislekh tsu di progresiv dramatik klub" ('The
+production of thls one-acter 1n New York is transferred by the author to the
+Progressive Dramatlc Club exclusively').(13) The identical footnote appears in
+the printed _Der groyser kundes_ edltion of _Kenig Pik_.(14) It is logical to
+infer that the newspaper copied the footnote from the Goodblatt manuscript,
+which served as its copytext.  As mentioned above, one of the lines omitted in
+the newspaper can be restored only through the Goodblatt manuscript.(15)
+
+Zilbertsvayg may not have found a record of a _Kenig Pik_ performance, but
+Sholem-Aleykhem assigned the play's New York production rights to the amateur
+repertory theater, the Progressive Dramatic Club (which apparently showed
+interest) because he regarded the script as playable. We do not know,
+unfortunately, know whether or not the amateur group, which had regular play
+readings as well as public performance, staged the play.  The Russian-language
+elements of the play would not have created problems, since the audience and
+actors of the Club were largely Russian Jews.  When the Yiddish repertory was
+exhausted, the Club performed Chekhov one-acters in Russian.  This is not the
+place to discuss Sholem-Aleykhem's relations with the amateur group, which in
+1909 successfully staged his _Tsezeyt un tseshpreyt_.  More germane to my
+purpose here is that Sholem-Aleykhem changed the text in order to make it more
+lively and, thus, more stageworthy.  Nothing is more characteristic of our
+author _ _ and nothing more important for his editors to keep in mind _ _ than
+his constant revision of his work, even after publication.  This is well
+known, of course, but we need to keep it fresh in our minds.
+
+A parallel to what I believe occurred with _Kenig Pik_ is explained by
+Sholem-Aleykhem himself in his introduction to the second edition of _Tsezeyt
+un tseshpreyt_:  "Mit eynike yor tsurik hot zikh gedrukt fun mir a felyeton in
+der _Yidisher folkstsaytung_ unter dem nomen _Tsezeyt un tseshpreyt / bilder
+funem yidishn lebn_.  Hagam di dozike bilder zenen geshribn in a dramatisher
+forem, dokh hot zikh mir afile nit gekholemt, az ikh vel amol zoykhe zayn tsu
+zen zey ufgefirt af der stsene.... itst, ba der tsveyter oyflage, tsum uffirn
+zi af der yidisher bine, hob ikh zi genumen tsu oysbesern."  ('Several years
+ago a feuilleton of mine entitled _Scattered and Dispersed / Scenes of Jewish
+Life_ appeared in the _Yidishe folkstsaytung_ ('Jewish People's Newspaper')
+Though these scenes are written in dramatic form, I never even dreamed that I
+would ever live to see them produced....  Now, for the second edition, with
+staging in the Yiddish theater in mind, I have begun to improve the
+play.')(16)
+
+Berkovitsh tells us that "Gants oft flegt er far zayn arbet haltn an
+ibershrayber...  Ba vikhtike verk iz dem ibershrayber oysgekumen tsulib di
+oysbeserungen un baarbetungen eyn zakh ibertsushraybn etlekhe mol. Un ersht
+nokh dem, az di zakh iz shoyn geven avekgeshikt in der redaktsye arayn, flegt
+Sholem-Aleykhem zikh nemen zipn di kopye, vos er hot ibergelozt far zikh,
+oyszukhn naye stilistishe oder vezntlekhe khesroynes un farvarfn di redaktsye
+mit briv un telegrames vegn tikunim 1nem manuskript, eyder es geyt in druk.
+Tsu dem tsvek hot er in yeder redaktsye zikh oysgekukt a noentn ufmerkzamen
+mentshn, vemen er hot gekont ontroyen aza shlikhes."  ('Sholem-Aleykhem quite
+frequently employed a copyist....  The latter often had to recopy important
+works several times.  Even after the work had been dispatched to an editor,
+Sholem-Aleykhem would go through hls manuscript with a flne-toothed comb,
+finding stylistic or substantive faults and start bombarding the editor with
+letters and telegrams to make last-minute corrections.  For this purpose, in
+every editorial office he sought out an attentive person to whom he could
+entrust these last-minute changes'}.(17)
+
+Leonard Prager
+
+______________________________________________________
+End of Mendele Vol. 5.266
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

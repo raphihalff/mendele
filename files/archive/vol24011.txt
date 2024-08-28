@@ -1,0 +1,113 @@
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 24.011
+April 23, 2015
+
+1) Children's story (Paula Grossman) 
+2) OCR of the complete works of Sholem Aleichem (Refoyl Finkl)
+3) klug bilet (Arele Viswanath)
+4) nervous hoolelia (Amy Kaufman)
+5) Table of contents for Sholem Aleichem (Refoyl Finkl)
+
+
+1)----------------------------------------------------
+Date: March 19
+Subject: Children's story
+
+A few years ago I came, when surfing on children's literature, I came across a story about a lantern-man. He walked the street and lit the lamps of the town. It was a beautiful story and also nicely illustrated in a 40’s-50's style. I ave looked through all the children's books at the Yiddish Book Centre without success. Does anybody recognize the story?
+
+Paula Grossman
+Stockholm
+
+
+2)----------------------------------------------------
+Date: March 19
+Subject: OCR of the complete works of Sholem Aleichem
+
+I'm looking for more proofreaders for my OCR version of the complete works of Sholem Aleichem: 
+
+http://www.cs.uky.edu/~raphael/yiddish/searchSholem.cgi 
+
+At present, about 6% of the entire corpus has been proofread by at least one editor, thanks to a small crew of 8 active editors. I have done some proofreading myself; it's actually a lot of fun. Anyone can try out the editing tools; only registered editors can save their edited text. The editing tools include a form for requesting editor status. 
+
+I have also added a "read" feature: You can see any page, whether proofread or not, in any of four forms: original scan, OCR version (as currently proofread), OCR version with mouse-over word translations, and transliteration into Roman letters. 
+
+I plan to add a table of contents [see post #5 below]; for now, the best way to find a favorite text is via the search facility. You can also go to a random page, and once you are reading any page, you can easily go backward or forward one page and switch between reading and editing modes. 
+
+I'm open to suggestions on improvements; many of the current features are in response to suggestions.
+
+3)----------------------------------------------------
+Date: March 29
+Subject: klug bilet
+
+tayere mendelyaner,
+
+Is anyone familiar with the phrase "klug bilet"? It apparently means "very clever". Google Books returns a single hit:
+
+"un do iz meyern oysgekumen tsufelik zikh tsu trefn mit a yingl in zayn elter. a shnayder-yingl, ober klug — bilet."
+
+I am curious to know the etymology of this phrase, as well as its pronunciation--which of the words receives the primary stress?
+
+a sheynem dank,
+Arele Viswanath
+
+
+4)----------------------------------------------------
+Date: April 14
+Subject: nervous hoolelia
+
+Tayere mendelyaner,
+
+I am catching up on my 1990s pop culture, watching the first season of The West Wing television series on DVD. In one episode, the character Sam Seaborn, who is not supposed to be Jewish as far as I can tell, uses the expression "nervous hoolelia." No one, including the two Jewish characters (Toby and Josh) seems to have ever heard that word. Sam says, "It may just be a word my mother made up." Well, my mother's been using that expression since I can remember, and I always thought it was Yiddish. No?
+
+A dank in advance,
+Amy Kaufman
+US
+
+[The moderators point Ms. Kaufman to http://www.jewish-languages.org/jewish-english-lexicon/words/1368]
+
+
+5)----------------------------------------------------
+Date: April 21
+Subject: Table of contents for Sholem Aleichem
+
+I have now set up a table of contents for the complete works of Sholem Aleichem, pointing to the OCR version and, where available, to sound files of actors reading selections. 
+
+The search page at http://www.cs.uky.edu/~raphael/yiddish/searchSholem.cgi points to the table of contents. 
+
+A marvelous team of proofreaders has now completed editing 13% of the entire corpus. Come join the team! 
+
+If you know of other online recordings, please let me know. 
+
+Special thanks to Eliezer Niborski for assistance in completing the table of contents. 
+
+Refoyl
+
+
+______________________________________________________
+End of Mendele Vol. 24.011
+
+Please do not use the "reply" key when writing to Mendele. Instead, direct your mail as follows:  
+
+Material for Mendele Personal Notices & Announcements, i.e. announcements of events, commercial publications, requests to which responses should be sent exclusively to the request's author, etc., always in plain text (no HTML or the like) to:   
+
+   victor.bers@yale.edu (in the subject line write Mendele Personal)  
+
+Material for postings to Mendele Yiddish literature and language, i.e. inquiries and comments of a non-commercial or publicity nature:  
+
+    mendele@mailman.yale.edu  
+
+IMPORTANT:  Please include your full name as you would like it to appear in your posting.  No posting will appear without its author's name.  
+
+Submissions to regular Mendele should not include personal email addresses, as responses will be posted for all to read.  They must also include the author's name as you would like it to appear.
+
+In order to spare the shamosim time and effort, we request that contributors adhere, when applicable, as closely as possible to standard English punctuation, grammar, etc. and to the YIVO rules of transliteration into Latin letters. A guide to Romanization can be found at this site: http://www.yivoinstitute.org/about/index.php?tid=57&aid=275 
+
+All other messages should be sent to the shamosim at this address: 
+
+mendele@mailman.yale.edu  
+ 
+Mendele on the web [interim address]: https://sites.google.com/site/mendeledervaylik
+
+To join or leave the list: http://mailman.yale.edu/mailman/listinfo/mendele

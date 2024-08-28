@@ -1,0 +1,175 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.376
+March 27, 1995
+
+1) Jewish Studies on the Internet (Leslie Train)
+2) Feyder-Fraynt (Avrom Yitzkhok Blair)
+3) Kegln spiln aktivitet (Ruvn Millman)
+4) Warsaw Ghetto Uprising (Shoshana Balaban-Wolkowicz)
+5) Yiddish Voice Talk Radio for Boston (Mayer David)
+
+1)----------------------------------------------------
+Date: Wed, 22 Mar 1995 16:52:47 -0500 (EST)
+From: ltrain@epas.utoronto.ca
+Subject: Jewish Studies on the Internet
+
+I am writing to invite all interested parties to subscribe to the
+electronic periodical, _ Jewish Studies Judaica eJournal _, the only
+on-line publication devoted to on-going research and current events in
+Jewish Studies.
+
+Published a number of times a month, the JSJeJ features conference
+announcements, job postings, research notes, and collaboration requests
+in academic Jewish Studies. The JSJeJ is jointly published by the Shamash
+Project and the H-Net Project and has affiliations with a number of
+academic associations and organizations.
+
+Subscription to the journal is free, simply send a message to:
+                listproc@shamash.nysernet.org
+
+The message should read:
+
+		subscribe jewstudies your name
+
+The journal also maintains an extensive gopher and web presence which
+includes back issues, information about academic programs at various
+universities, and a number of other services.
+
+	For gopher users, try gophering to:
+	shamash.nysernet.org and looking in the Academic Jewish Studies menu.
+	For Web users, try:
+	http://shamash.nysernet.org/~ajhyman/jsjej.html
+
+Leslie Train
+
+2)----------------------------------------------------
+Date: Wed, 22 Mar 1995 17:39:35 -0500 (EST)
+From: ablair@magnus.acs.ohio-state.edu
+Subject: Feyder-Fraynt
+
+Tayere feyder-fraynt:
+Our project seems to be moving along nicely, but I'm getting almost zilch
+feedback.   So, all of you Feyder-Fraynt out there, please let me know if
+your Feyder-Fraynt has contacted you yet. Please let me know how your
+experience is coming along.  Reply to me at my home base:
+ablair@magnus.acs.ohio-state.edu
+
+Allan (Avrom Yitzkhok) Blair
+
+3)----------------------------------------------------
+Date: Wed, 22 Mar 1995 23:00:01 GMT
+From: roland.millman@weiser.com
+Subject: Kegln spiln aktivitet
+
+Zuntig dem 2tn April, 1:30n"m spilt men kegln mit Yugntruf (Yugnt far
+Yidish).  Me treft zikh bay "Bowlmor Lanes" 110 University Place glaykh
+lebn 12te gas in der "Village" in Manhattan.  Nemt der Lift.  Me veln
+trogn undzer "Yidish" hemdelakh ir volt undz kenen derkenen.
+
+Es kost $3.25 a spil far jede parshoyn mit nokh $1.00 af dingen a por
+kegln shikh (me tor nisht geyn on kegln shikh).
+
+Kling Ruvn on tsu gebn an RSVP baym (718) 237-0961. Der telefon fun
+Bowlmor iz: (212) 255-8188.
+
+Mendelnikes: oyb ir kenen kegln verter far undzer kegln terminologie
+reshime...zay azoy gut, shik zey mir vi gikh vi meglekh!
+
+Ruvn Millman
+
+4)----------------------------------------------------
+Date: Thu, 23 Mar 95 20:21:04 PST
+From: shoti@eworld.com
+Subject: Commemorate the Warsaw Ghetto Uprising
+
+Ir vert ale farbetn:
+
+Wednesday, april 26, 5p.m
+at the Brotherhood Synagoge
+28 Gramercy Park South, NYC
+
+Speakers: Ruth W.Messinger  (Manhattan Borough President).
+Auschwitz 50 years later = told by survivors: Shoshana Kalish & others.
+Shifra Lerer & Avi Hoffman = readings.
+Susan Goldberg = songs of the ghetto. Cantor Harry Feinberg,  Jewish
+Philarmonic Chorus.
+Itche Goldberg,  chair.
+
+Organized by The Committee to Commemorate the Warsaw Ghetto Uprising.
+
+Shoshana Balaban-Wolkowicz
+
+5)----------------------------------------------------
+Date: Fri, 24 Mar 1995 05:02:15 -0800
+From: mhd@crl.com
+Subject: Yiddish Voice Talk Radio/Boston Hebrew College/1995 Haskura
+
+A quick announcement for Boston area Yiddish radio listeners, and
+interested others.
+
+Recent events have moved us to rather hurriedly put together a rather
+exciting event: the first all-Yiddish talk radio show in
+we-don't-know-how-long.  (Ever?  Can Yiddish radio historian Henry
+Saposnik or anyone else fill us in?)
+
+Details: Wednesday, March 29, 1995, 7:30 - 8:30 p.m.
+The Yiddish Voice, WUNR 1600 AM, Boston
+
+The subjects relate to what many perceive as the de-Yiddishization and
+de-Urbanization of the Boston Yiddish community.  Questions we're asking:
+Should Hebrew College move to Newton?  (They've announced that they
+will.) Should there be a Yiddish Speaker at the 1995 Haskura (Annual
+Holocaust Memorial)?  (The planners have announced that there will not be
+one this year, for the first time ever.) Are these questions related?
+
+Hasia Segal will give an editorial on the subject.  We are inviting
+spokespersons from Hebrew College and the Boston Jewish Community
+Relations Council (JCRC) to respond (translation will be provided by us).
+
+Boston area listeners: please call in!  Here are numbers to try:
+367-8456, 367-8895, 367-8992
+
+If this is successful, we hope to have a call-in show again, and let us
+hope on a happier occasion, OMEN!
+
+For information by phone, not to call in, call me at (617) 738-1870, or
+send email to The Yiddish Voice at yv@world.std.com.
+
+Meyer (Mark David)
+
+______________________________________________________
+End of Mendele Vol. 4.376
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

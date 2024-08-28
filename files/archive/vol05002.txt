@@ -1,0 +1,174 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.002
+May 15, 1995
+
+1) Other Yiddish Internet groups (Marvin Friedman)
+2) Genendel (Rick Gildemeister)
+3) Translation grants (Les Vogel)
+4) Yiddish in _The Economist_ (Sheine Mankovsky)
+5) Yiddish theater (Harold Black)
+
+1)----------------------------------------------------
+Date: Mon, 15 May 1995 02:18:28 -0400
+From: marvinf629@aol.com
+Subject: Other Yiddish Internet groups
+
+In the May 5 Forward, there was an article by Tom Teicholz on Jewish
+information available through the Internet.  Among others, the article
+refers to the Yiddish Voice of Brookline, Mass,  the Virtual Shtetl
+(University of North Carolina) and YIVO on-line.
+
+If anyone has the specific Internet addresses for these lists, and any
+comments about any of them, I'd be interested.  Surprisingly, the article
+did not mention Mendele.
+
+Marvin Friedman
+
+2)----------------------------------------------------
+Date: Mon, 15 May 95 08:39:02 EDT
+From: eeglc%cunyvm.bitnet@yalevm.cis.yale.edu
+Subject: Genendel
+
+I poked around in the archives to find the beginning of the discussion of
+Genendel. Since there are so many different spellings, I can't be sure
+how far back the discussion goes, and whether what I heard as the
+explanation has already been mentioned.
+
+Gnendl, I read somewhere, comes from a Germanic word gnanne, which is
+supposed to mean "grandmother". The logic behind naming a girl Gnendl is
+the same as that of the male "Alter". You want to draw the evil eye away
+from the child by fooling it that it is in fact old. Azoy iz geven di
+mayse, ober di gantse megileh geyt efsher vayter. Dos zenen mayne poshete
+oreme verter vegn der boben.
+
+Rick Gildemeister
+
+3)----------------------------------------------------
+Date: 15 May 1995 08:58:08 EST
+From: vogel@mail.loc.gov
+Subject: Translation grants
+
+     Came across this post in another capacity and couldn't resist
+sharing it with the hevreh-leit on Mendele who may wish to pursue it.
+Unfortunately I can neither vouch for its accuracy or offer additional
+information.
+
+Les Vogel
+___________________________
+
+              NATIONAL ENDOWMENT FOR THE HUMANITIES
+                  DIVISION OF RESEARCH PROGRAMS
+                      TRANSLATIONS PROGRAM
+
+
+The Division of Research Programs of the National Endowment for the
+Humanities welcomes applications for translation projects. Translations
+grants support individual or collaborative projects to translate into
+English works that provide insight into the history, literature,
+philosophy, and artistic achievements of other cultures.  The Endowment
+welcomes print and electronic publications that make available to
+scholars, students, teachers, and general readers the thought and
+learning of both ancient and modern civilizations.
+
+Translations supported by the Endowment provide introductions and
+explanatory annotations that clearly establish the historical and
+intellectual contexts of the work.
+
+Awards in the Translations Program are made for up to three years and
+usually range from $30,000 to $150,000, depending on the scope and
+magnitude of the project.
+
+The new deadline is JULY 1, 1995, for projects beginning no earlier than
+May of the next year.
+
+For application material and further information, write or call:
+
+Translations Program
+Division of Research Programs, Room 318
+National Endowment for the Humanities
+1100 Pennsylvania Ave., N.W.
+Washington, D.C.   20506
+
+Tel: 202-606-8207
+Fax: 202-606-8204
+E-mail: khansen@neh.fed.us
+
+An overview of programs at the Endowment is available at the Endowment's
+home page on the Internet: http://www.neh.fed.us. Translations grant
+applications are not presently available over the Internet, and NEH will
+NOT accept grant proposals sent through the Internet.
+
+4)----------------------------------------------------
+Date: Mon, 15 May 95 09:49:07 EST
+From: sheine_mankovsky@cclink.metrodesk.metrotor.on.ca
+Subject: Yiddish in _The Economist_
+
+A colleague brought to my attention an article which appeared in the May
+6, 1995 edition of The Economist entitled "Jerusalem on the Amur" on
+Birobidzhan.
+
+The article refers to Yiddish as "the Eastern European Jewish
+folk-language written in Hebrew characters".
+
+What is a folk-language?  Is Yiddish a folk-language?
+
+Thanks for any clarification which might be offered.
+
+Sheine Mankovsky
+
+5)----------------------------------------------------
+Date: Mon, 15 May 1995 14:02:12 -0400
+From: hb0001@epfl2.epflbalto.org
+Subject: Yiddish theater
+
+Herman Yablokoff's English version of his autobiography has just come off
+the press. It is called, "Der Payatz." (The Clown). It chronicles his
+early years in Grodno, his rise to fame in the Yiddish theater. He was
+the author of the haunting song, "Papirosn." Another song of his, "Shveig
+Mein Hartz," was plagiarized into the hit song, "Nature Boy."
+
+He was the only performer to entertain in the displaced persons camp
+after WWII. He details his travels there under the auspices of the
+American Joint Distribution Committee.
+
+A beautifully written book available from Bartleby Press; 11141 Georgia
+Ave.; Silver Spring, MD 20902.
+
+Harold Black
+
+______________________________________________________
+End of Mendele Vol. 5.002
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

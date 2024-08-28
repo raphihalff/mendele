@@ -1,0 +1,139 @@
+______________________________________________________
+Contents of Vol. 3.245
+February 24, 1994
+
+1) Yiddish CD (Mark Flumerfelt)
+2) Yiddish writers and gentiles (Mark Flumerfelt)
+3) The name for 'yiddish' in other languages (Ellen Prince)
+4) A gut verterbuch (Jay Lee)
+5) Yiddish transliteration (Marnen Laibow-Koser)
+
+1)----------------------------------------------------
+Date: Tue Feb 22 23:59:04 1994
+From: Mark Flumerfelt <MARKF@VM1.YorkU.CA>
+Subject: Yiddish CD
+
+Ted Steinberg mentioned a CD entitled "Voices of the Ghetto--Le 19
+Avril 1943." Would anyone be able to tell me how I could purchase
+this CD?  I live in Toronto.
+
+Mark Flumerfelt
+
+2)----------------------------------------------------
+Date: Wed Feb 23 00:06:35 1994
+From: Mark Flumerfelt <MARKF@VM1.YorkU.CA>
+Subject: Yiddish writers and gentiles
+
+Sean Martin asked for suggestions on Yiddish works which depict
+Poles.  I am presently reading (in English) a collection of short
+stories by Yaacov Zipper entitled The Far Side of the River.  Many
+of the stories in this volume examine Polish attitudes towards Jews.
+There is a particularly beautiful tale, called Light in the
+Darkness, which tells the story of a gentile hearth-keeper, named
+Mikolai, who continues his duties in the shtetl after all the Jews
+have been removed.  May I also suggest a story entitled White
+Challah (I don't remember the author's names) which offers a subtle
+portrait of a Polish (or possibly Russian) anti-semite.
+
+Mark Flumerfelt
+
+3)----------------------------------------------------
+Date: Wed Feb 23 15:02:51 1994
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: the name for 'yiddish' in other languages
+
+to: Anatole Beck
+
+like you, i grew up hearing yiddish called 'jewish' (nyc) and only
+learned that it's called 'yiddish' (by some people) as an adult.
+btw, i've never seen it called 'juif' in french, but no doubt
+because my interactions with it in french are only of the 'learned'
+type, where yidish, yiddisch, yiddich, yiddish... seem to be used.
+
+but i have a question: WHY do we call it 'yiddish'?!? it's the only
+language i can think of whose name in english is simply borrowed
+rather than translated. after all, we don't call french 'francais'
+or japanese 'nihongi' (?)... of course, language names get borrowed
+when there is no translation (swahili, dyirbal, wolof...), but the
+yiddish name for itself, yidish, certainly has a translation,
+'jewish'. is this simply another avoidance of the j-word in english
+(cp. hias, ym/ywha...)?
+
+ellen prince
+
+4)----------------------------------------------------
+Date: Wed Feb 23 17:15:12 1994
+From: "Jay M. Lee" <JMLEE@ucs.indiana.edu>
+Subject: a gut verterbuch, zai azoi gut
+
+	I work at a university library and soon we will be adding a
+number of Yiddish books to our collection.  It will be my job to
+process them and we have no Yiddish dictionaries in the office.  I
+was hoping you could point me toward a good one.  The two I am
+considering are Weinreich's Eng./Yid. Yid./Eng. (YIVO-McGraw Hill:
+1991; $45.00) or Harkovy's Yid./Eng. (Shalom: [19--?]; $35.00).
+
+	Does anyone have a preference, or another suggestion?
+
+	A sheinem dank,
+
+	Jay Lee <jmlee@ucs.indiana.edu>
+
+(nokh a feigele)
+
+5)----------------------------------------------------
+Date: Wed Feb 23 17:15:22 1994
+From: laibow@brick.purchase.edu
+Subject: Yiddish transliteration
+
+[Anatole Beck asks about a genuine transliteration scheme.]
+
+How about something like this?
+
+shtumer-alef      '              tsvey_yudn        ii
+pasakh-alef       a              pasakh-tsvey_yudn ii
+komets-alef       o              kaf               k
+beyz              b              khaf              k_ (x?)
+veyz              b_             lamed             l
+giml              g              mem               m
+dalet             d              nun               n
+hey               h              samekh            s
+vov               u              ayin              e
+melupm-vov        u_             pey               p
+tsvey_vovn        v (vv?)        fey               f (p_?)
+vov-yud           uy (oy?)       tsadik            c
+zayin             z              kof               q
+khes              h_             resh              r
+tes               t              shin              w (x?)
+yud               i              sin               w_ (?)
+khirek-yud        i_             tof               t
+                                 sof               t_
+
+Shalom,
+
+Marnen Laibow-Koser
+
+______________________________________________________
+End of Mendele Vol. 3.245
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Mendele: Yiddish literature and language
+

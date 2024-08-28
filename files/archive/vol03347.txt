@@ -1,0 +1,167 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.347
+May 12, 1994
+
+1) Ladino/Spanish :: Yiddish/German (Bob Hoberman)
+2) Oyver botl (Bob Werman)
+3) Oyver botl (Zachary Baker)
+4) Oyver botl (Zev bar-Lev)
+5) Gedemft (Martin Davis)
+6) Culinary terms (Jay Fleischer)
+7) More Culinary queries (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Wed May 11 17:00:46 1994
+From: RHOBERMAN@ccmail.sunysb.edu
+Subject: Ladino/Spanish :: Yiddish/German
+
+Recent comments by Marion and Rick on the mutual perceptions of German
+and Yiddish speakers reminds me of an anecdote about Ladino (Judezmo).  I
+don't remember the source, though I might be able to dig it up if
+anyone's interested.
+
+There was a large Ladino-speaking community in Salonika, Greece, and they
+were unaware of the existence of a whole non-Jewish Spanish world.  This
+must have been some generations ago.  Apparently there were many Jewish
+longshoremen in Salonika.  One time a ship from Spain docked there, and
+the word flew out among the Jews of Salonika that there was a whole ship
+manned entirely by Jews in town!
+
+Bob Hoberman
+
+2)----------------------------------------------------
+Date: Wed May 11 18:26:06 1994
+From: RWERMAN%HUJIVMS.bitnet@YaleVM.YCC.Yale.Edu
+Subject: Oyver botl
+
+[Rick Gildemeister (Vol.3.346) writes about oyver/eyver:]
+
+>Could it be that the
+>meaning is something like a limb, which is designed to be a
+>functioning part becomes a "drag" when it's "botl"? Useless
+>appendage might be a translation; albatross around one's neck.
+>Someone please correct me; this is only what I've inferred from
+>my experience with the expression.
+
+First of all, ever or ayver or eyver or oyver, is an organ in Hebrew and
+frequently a limb.
+
+Next, there are two [at least] meanings to botel, bateyl, botl, in
+Hebrew, one is unemployed, inactive or a wastrel; the other is void, in
+legal cases, as a document is batel.
+
+Finally, MASH [my colleague from Weizmann] is quite correct in
+identifying the expression as taken from Ethics of the Fathers [Pirke
+Avot] where i provides a description of an hundred year old. "A 100 year
+old is as if he were dead and _over and batel_ from this world." [5:24]
+
+I thought that his identification would be recognized and accepted but I
+overestimated the readers who continue to belabor this point, as well as
+heirat and other old stories.
+
+The bet tet lamed word is not always pejorative; its derivative batlan,
+unemployed, is used in the Talmudic definition of a city, where 10 such
+men are needed to attend a synagogue and by some accounts 120 such to
+define a city.  These unemployed men were considered free to study, a
+higher occupation than work.
+
+__Bob Werman
+
+3)----------------------------------------------------
+Date: Thu May 12 10:09:09 1994
+From: BM.YIB@RLG.Stanford.EDU
+Subject: Oyver botl
+
+With all of the exchanges concerning this very common expression during
+the last week or two, I'm surprised that no one (at least not so far as I
+recall) has sent in the dictionary spelling and definition:
+
+'ayin-vov-veyz-resh - beyz-tes-lamed Defined by Uriel Weinreich,
+adjectivally, as "senile," and as a noun, "dotard."
+
+The Hebrew root 'ayin-bet-resh = to pass (over).  (Yiddish oyver zayn =
+to transgress, trespass, violate.) Botl, in Yiddish, among other things,
+means "void." Alcalay's Hebrew-English dictionary lists the expression
+'over u-batel = senile, good for nothing, in a state of mental decay, non
+compos (L[atin]), superannuated.
+
+In standard Yiddish, oyver ('ayin-vov-veyz-resh) has NO connection with
+eyver (alef-veyz-resh; "limb [of a body]").
+
+Zachary Baker
+
+4)----------------------------------------------------
+Date: Thu May 12 11:50:57 1994
+From: zbarlev@zeus.sdsu.edu
+Subject: Oyver botl
+i'm pretty sure this is just Hebrew "over batel" -- /over/ = "he passes",
+/baTel/ "non-functioning, cancelled, unemployed".
+
+/ever/ "limb" wouldn't give Yiddish /oy/.
+
+Zev bar-Lev
+
+5)----------------------------------------------------
+Date: Wed May 11 23:08:20 1994
+From: davism@turing.cs.nyu.edu
+Subject: gedemft
+
+Mikl Herzog asks about "gedemft". My mother used the term "gedemft
+flaysh" to mean pot roasted beef.
+
+My mother was a Lodzer.
+
+Martin Davis
+
+6)----------------------------------------------------
+Date: Thu May 12 12:07:08 1994
+From: Jay=Fleischer%Policy%MCU@smtpgw.mcu.gov.on.ca
+Subject: Culinary terms
+
+"gedempt" in my home referred to meat that was cooked in a stew like
+manner. The cooked meat [usually brisket or chuck] was called "gedempte
+fleisch" and was absolutely delicious - a zoy vee piter in der mol arein!
+
+Jay Fleischer
+
+7)----------------------------------------------------
+Date: Wed May 11 17:43:27 1994
+From: ZOGUR@CUVMB.CC.COLUMBIA.EDU
+Subject: More Culinary queries
+
+Can a Slavist provide a Slavic etymon for Yiddish "preglen" along with
+whatever Slavic meaning variants occur? Again, thanks in advance.
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 3.347
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

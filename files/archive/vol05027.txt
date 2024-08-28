@@ -1,0 +1,274 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.027
+June 19, 1995
+
+1) Lobbes (Hershl Berman)
+2) Yiddish in Halifax (Michael Falk)
+3) The name Tevye (Dovis Braun)
+4) Oyfn Pripetshik (Rick Turkel)
+5) Oyfn Pripetshik and zshe (Morrie Feller)
+6) Oyfn Pripetshik and Wexler (Arre Komar)
+7) Syllabus for Yiddish literature in translation (Daniella HarPaz)
+8) A sakh (Zev bar-Lev)
+
+1)----------------------------------------------------
+Date: Sun, 18 Jun 1995 17:22:35 -0400 (EDT)
+From: berman@phobos.senecac.on.ca
+Subject: lobbes
+
+In response to Mr. Mullish:
+
+The term lobbes is indeed used in North America.  My grandfather used to
+claim when I was young that there was one running around inside me,
+although 20 years laterhe thinks it may be gone. Of course we live in
+Canada, so it could be a commonwealth thing.  Of course, he is from
+Poland, so I suspect that it is a common enough term. I'm surprised no
+one in New York knows it...
+
+Hershl Berman
+
+2)----------------------------------------------------
+Date: Sun, 18 Jun 95 20:58:00 EDT
+From: falkm@imb.lan.nrc.ca
+Subject: Yes, there is Yiddish in Halifax!
+
+Jonathan Dembling asked (Mendele 5.026) about Yiddish activity in
+Halifax. I am pleased to answer that there is indeed an active Yiddish
+club here, meeting weekly from September to June.  The current secretary
+is my wife, Lilian Falk (who, incidentally, recently took early
+retirement from the English Department at Saint Mary's University largely
+to be able to pursue her special interests, one of them being Yiddish).
+Several club members are from the Sydney-Glace Bay area, so that further
+contacts should be easy to establish.
+
+For more information, either of us can be reached by e-mail and also by phone
+at 902-422-5173.
+
+Mit hartsike grisn,
+
+Michael Falk
+Halifax, Nova Scotia
+
+3)----------------------------------------------------
+Date: Mon, 19 Jun 1995 00:24:24 EDT
+From: dovid@MIT.EDU
+Subject: toyvye, tuvye, tevye, teve, tevl, tevke
+
+With regard to the Tevye issue, all of the above are Yiddish names.
+_Tevye_ is spelled tes-veys-yud-hey, possibly because of a folk etymology
+relating it to the name written tes-vov-veys-yud hey (and pronounced
+[tuvye] and [toyvye].  Mordkhe Schaechter has hypothesized (I don't
+remember the written source -- for that matter, I'm not even sure whether
+it's written) that _tevye_ in fact has nothing to do with the other two
+forms.  Instead, he suggests that it is a diminutive form of the Yiddish
+name _dovid_.
+
+"The diminutive of _dovid_?!" you might ask.  "Meshuge mayne sonim?!"
+Well, here's the story:  we know that in Western Yiddish voicing of stops
+in certain positions lost contrastiveness -- in non-linguists' terms that
+are relevant to this case:  the sounds [t] and [d] sounded the same at
+the beginning of words, so that _tank_ and _dank_ are indistinguish- able
+(probably pronounced [tank]).  Thus, /dovid/ is rendered as [tovid].
+Diminutives in this dialect are generally *not* with [l] as in the
+Yiddish most of us are familiar with (e.g. tish ~ tishl ~ tishele) but
+with [Cye] where, by the symbol "C", I mean the German ich-Laut (the
+sound which corresponds to the letters "ch" in the German word _ich_ --
+as opposed to the sound in Yiddish, which we transcribe as "kh" in
+_ikh_).  For those dialects, it's [tishCye].  (This diminutive form made
+it into some of Eastern Yiddish as well, e.g. the Be,dzin area of Poland
+-- see Max Wein- reich's _History of the Yiddish Language_ for details.)
+The [o] in _dovid_ underwent a vowel alternation that is typical in
+Yiddish diminutiv- ization and pluralization, namely [o] --> [e], as in
+kop ~ kep ~kepl		top ~ tep ~ tepl	tokhes ~ tekheser ~
+tekhesl Put 'em all together and you've got _dovid + Cye_ --> [tevCye].
+For most of eastern Yiddish, the sound [C] is unavailable and it drops
+out, so [tevCye] --> [tevye].  Voila`!  Anyway, such is the hypothesis.
+
+It would be interesting to find out (and if you know yourself, or have a
+reliable traditional khazn, for instance, please ask and then let us
+know): What is the _ufruf-nomen_ (the name by which someone is called to
+the _toyre_ for an _alie_ 'aliyah') of someone named _tevye_?  "Yaymoyd
+tevyo/tuvyo/toyvyo/ dovid ben X"????
+
+I think that in Modern Hebrew, Sholem-Aleykhem's _tevye_ became _tuvya_
+based on the belief that _tevye_ is a related (but "mangled") form of the
+Biblical name tes-vov-veys-yud-hey.  Under the assumption that _tevye_ is
+a Biblical name, it was further assumpted that this must be the Hebrew
+name with the vov and the name with the vov, furthermore, must be
+pronounced [tuvya'] in Hebrew.  Shtelt zikh a kashe:  why [tuvya'] and
+not [tovya']?  The answer may be:  of the two names, at least one -- the
+former -- is/was widely familiar to the Eastern European Jews who
+initiated Modern Hebrew, i.e. from the Yiddish name _tuvye_.  I don't
+know how widespread the name _toyvye_ is/was, but I personally have never
+run across it.  (Perhaps [toyvye] is specifically the name of the
+Biblical characters and of them only, whereas _tuvye_ and _tevye_
+are/were contemporary personal names).  So now here's yet another
+question for the readership and for your to ask your Yiddish-speaking
+acquaintances:  do you know of any people by the name of _toyvye_?
+
+As for the way the Ukrainians refer to Tevye, viz. [tevel], I think this
+is no more than a Ukrainian pronunciation of the Yiddish [tevl], which,
+as noted above, is one of the forms of the name.  (Why they should use a
+different form from that which Tevye calls himself is still puzzling to
+me, however.)
+
+Whether _tevye_ is related to _dovid_ or not, Sholem-Aleykhem nonetheless
+probably thought (or thought that his readers would think) that the name
+_tevye_ is indeed derived from the two Hebrew roots tes-(vov)-veys
+(meaning: 'good') and yud-hey (meaning:  'God'):  no matter how God or
+the world messes with Tevye, Tevye's credo remains that "God is good".
+
+Dovid Braun
+
+4)----------------------------------------------------
+Date: Mon, 19 Jun 95 09:59:34 EDT
+From: rturkel@cas.org
+Subject: Oyfn Pripetshik
+
+Szalom-Lew Korbman asked in Mendele 5.026 about the words to _Oyfn
+Pripetshik_.  I'm not sure I understand the nature of his first question.
+I've always taken it at face value - a fire burns in the fireplace and
+warms the room.  I don't see it necessarily as anything sentimental, it's
+just an excuse for a rhyme with alef-beys.  I doubt that it has anything
+to do with the Pripyat' River, where, I think, people might be more
+likely to say "hays" rather than "heys."
+
+As for "zhe," it's of Slavic origin.  It's used as an emphatic particle
+in most of the Slavic languages in pretty much the same way as it is in
+Yiddish.
+
+zayt zhe gezunt un shtark.
+
+Rick Turkel
+
+5)----------------------------------------------------
+Date: Sun, 18 Jun 1995 16:39:05 -0700 (MST)
+From: feller@indirect.com
+Subject: Pripitshek and zshe
+
+In response to Szalom-Lew Korbman's request (Vol.5.026), ten years ago
+when visiting Tsfat in Israel, we toured a synagogue, and the shamos who
+was taking us around pointed to a large, metal box.  It was about 6'
+long, 2' wide, and 30" high.  He said: "You have heard about a
+pripitshek? _This_ is a pripitshek!"  Apparently a small fire was lit
+inside the box, and then the students would lie on top to keep warm.
+
+With respect to the word "zshe", in Mordkhe Schaechter's "Yiddish II",
+p.100, "zshe" is listed as a modal particle.  It meaning, depending on
+context, is "so" or "then".  I don't see why it has to be used only with
+a command.  How about: "Vozshe vilstu ton?" - "What, then, do you want to
+do?", and the like?
+
+Morrie Feller
+Phoenix
+
+6)----------------------------------------------------
+Date: Mon, 19 Jun 1995 15:09:30 -0400 (EDT)
+From: komar@yu1.yu.edu
+Subject: Pripetchik + Wexler
+
+I too often wondered about the association between Pripetchik and the
+Pripet marshes of Russia. I assumed that it referred to a village in that
+region. Is that in fact so?
+
+As to zhe, we have been through that on Mendele some time ago. It is an
+emphasizer of Slavic origen.  Thus "gedenk kinderlakh" would gloss
+"remember children" while " gedenk zhe kinderlakh" would become "
+remember then children" or "remember now children."
+
+I want to raise a question of a deeper and perhaps more controversial
+sort for our Khokhonim. Despite the rather conspicuous and dominant
+relationship between Yiddish and German, i gather that a thesis was
+presented by Wexler that Yiddish is really a Slavic language which was
+"relexified" into German. Is there any merit to that point of view, or is
+it just narishkayt?
+
+Arre Komar
+
+7)----------------------------------------------------
+Date: Mon, 19 Jun 1995 10:01:58 -0500 (EST)
+From: harpaz@binah.cc.brandeis.edu
+Subject: Syllabus for Yiddish literature in translation
+
+Khaveyrim,
+
+In onheyb funem letstn semester hob is gefregt etlekhe frages veygn
+lernen yidishe literatur af english (s'heyst ibergezetste). Etlekhe
+mentshn hobn geshikt briv tsu mayn perzenlekhn adres ful mit interesante
+eytses un derklerungen.  A por fun zey hobn gebetn ikh zol zey shikn a
+"syllabus" nokhn semester.  In mitn semester hob ikh gehat a komputer
+problem un a sakh "e-mail files" zaynen itst "nit mit undz".  Oyb di vos
+hobn gevolt a syllabus veln nokh a mol shikn a brivl mit a bakoshe un an
+adres vel ikh in gikhstn shikn a kopiye.
+
+Friends,
+
+In the beginning of last semester I asked several questions about
+teaching Yiddish lit. in translation.  Several people sent me letters at
+my personal e-mail address, full of interesting suggestions and comments.
+A few of these  people requested that I send them a syllabus after the
+semester.  In the middle of the semester I had a computer problem and
+many e-mail files are off in never-never-land.  If anyone is still
+interested I am happy to send them a copy if they would only send a
+request to my e-mail address, including their snail-mail address (regular
+postal address).
+
+zayt ir ale gezunt,
+Daniella HarPaz
+
+8)----------------------------------------------------
+Date: Mon, 19 Jun 1995 10:55:22 -0700
+From: zbarlev@mail.sdsu.edu (Zev bar-Lev)
+Subject: a sakh
+
+sakh is hebrew for "sum", esp. as in sakh ha-kol "sum of all -- sum
+total".
+
+zev bar-Lev
+
+______________________________________________________
+End of Mendele Vol. 5.027
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

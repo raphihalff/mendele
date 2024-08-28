@@ -1,0 +1,325 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.169
+March 14, 1998
+
+1) "Datshmerish toyg nit" on The Mendele Review (Itsik Goldenberg)
+2) Why does Russian use G and not H and kurve (Ellen Prince)
+3) Russian substitution of 'g' for 'h' (A Manaster Ramer)
+4) Yiddish toponymy (Zachary M. Baker)
+5) Transliteratsye boygn and Yidishe Klangen (Feygl Infeld Glezer)
+6) Moyshe Pinchevsky (Shaya Mitelman)
+7) Pintshevskiy's bibliography (Andrey Bredstein)
+8) grayz (Meyer-Leyb Wolf)
+9) Morgen Frayhayt (Hershel Goodman)
+
+1)----------------------------------------------------
+Date: Mon, 9 Mar 1998 10:10:22 -0500
+From: "Robert Goldenberg" <goldenbe@vaxxine.com>
+Subject: "Datshmerish toyg nit" on The Mendele Review
+
+The article by Max Weinreich on The Mendele Review:  "Daytshmerish toyg nit,"
+opens an issue that has its parallel in YIVO orthography. Both were non-issues
+amongst my extended family and their yiddish-speaking neighbours, friends and
+acquaintances when I was a youngster. I recall few litvaks amongst them, and
+what Weinreich frowns upon was the norm in our circle. I remember my rebbe in
+kheyder hassling me when I left out a shtumer alef while committing to writing
+the imaginary letters he was dictating. All those now-unacceptable
+daytshmerishe verter were the only words we heard and knew for those terms.
+Mind you, my rebbe was from Austria-galitsye, so what can you expect? Litvaks
+were considered to be snobs, not to be emulated, even though they were
+deferred to as kluge yidn.  I remember my father mentioning the local tailor,
+as poor as the galitsiyaner un rumeynisher amongst whom he lived, with unusual
+deference and respect because he was a litvak, but the way the taylor spoke
+was nit far undz gedakht. i.e. respect him because he, like litvaks in
+general, was clever and scholarly, but he talks funny. 
+
+Weinreich's article is not proste yidish, and for readers like me it takes a
+lot of time and effort to glean its full content. For me, the subject is
+interesting enough to merit the time involved.
+
+I wonder if Mendele is the place to post words or expressions in articles like
+this that one cannot find in the usual verterbikher. Those of us who live in
+isolated communities with no native yiddish speakers to consult might find
+this helpful, but I'm not sure that this is the right forum.  Things could
+easily get out of hand if mendelyaner were to post long lists of words and
+expressions they need translated. Perhaps there are mendelyaner willing to
+help some of us with such things without actually involving the list as a
+whole. Any thoughts or ideas about this? 
+
+Itsik Goldenberg
+Fort Erie, Ontario, Canada
+
+2)----------------------------------------------------
+Date: Mon, 09 Mar 1998 21:03:16 EST
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Why does Russian use G and not H and kurve
+
+L. Fridhandler asks why Russian has /g/ where German/Yiddish/English have /h/
+and 'what linguistic principle (if any) does this obey or illustrate'. 
+
+The 'why' question I'll leave to the historical mavens but the second question
+does indeed have an answer -- the linguistic principle at issue is precisely
+the one that Manaster Ramer and others have been talking about for the past
+few months -- the *regularity of sound change*. That is, when a speech
+community 'hears' a sound as something else -- or hears one thing and
+'repeats' it as something else -- they do not do it in isolated words but
+rather across the board. For some reason, Russian speakers at some point
+started 'hearing' /h/ (which doesn't occur in Russian) as /g/ or at least
+wound up saying /g/ when attempting to reproduce the foreign (for them) sound
+/h/. Btw, _Hamlet_ in Russian is, predictably, _Gaml'et_. 
+
+This is a really big principle, btw -- the basis of historical linguistics.
+And it was discovered/formulated in the 19th century.
+
+Meyer Wolfe raises questions for Hugh Denman's suggestion of a Semitic source
+for _kurve_, excellent ones IMO. While I don't have answers to his questions
+(don't know what 'whore' is Bulgarian, etc), I can offer the following from
+Skeat's Etymological Dictionary of the English Language: 
+
+WHORE, sb. (Scand.) (The _w_ is unoriginal.) Middle Eng. hore. Icelandic hora,
+an adulteress, fem. of horr, an adulterer; Danish hore, Swedish hora + Dutch
+hoer, German hure, Old High German huora; Gothiic hors, masc., an adulterer.
+Allied to Polish kurwa, Church Slavonic kuruva, an adulteress;  Latin carus,
+loving; Welsh caru, to love; Old Irish caraim, I love. (Proto- Indo-European
+root *KAR.) 
+
+So I think it's safe to say that there's no basis for assuming a Semitic
+origin. 
+
+Ellen Prince
+
+3)----------------------------------------------------
+Date: Tue, 10 Mar 1998 08:59:54 -0500 (EST)
+From: manaster@umich.edu
+Subject: Russian substitution of 'g' for 'h'
+
+Louis Fridhandler notes that Russian often uses 'g' for foreign (including
+Yiddish) 'h' and asks "What linguistic principle (if any) does this obey or
+illustrate?  I am especially interested in how it affects the sounds and
+spelling of Yiddish words (including place names) in the various pronunciation
+styles of Yiddish." 
+
+As far as I know, there is nothing special about Yiddish in this context. 
+Russian uses 'g' for 'h' in words and names taken from all kinds of languages. 
+However, it also sometimes uses 'kh', and the latter is what Russians
+pronounce in place of 'h' when speaking English, German, etc.  The 'kh' usage
+is also much more recent than the 'g' one.  As to the origin of the 'g' usage,
+it appears to come from southern Russian dialects, which have a sound we may
+symbolize as 'gh' in place of 'g'.  Thus to Southern Russian speakers the
+letter 'g' actually has the sound value 'gh' and not 'g'.  As for 'gh', it is
+the voiced equivalent of 'kh'.  (To tell if a sound is voiced or not, say it
+alound with your hands firmly over your ears.  If you hear a distinct buzzing
+sound, it is voiced.  Otherwise, it is voiceless.  If you do this with 'z' and
+'s', you will find that 'z' is voiced, but 's' is voiceless.  Likewise, 'zh'
+is voiced, but 'sh' is voiceless.  'kh' is voiceless, and Yiddish has no
+voiced 'gh', and neither does English, but many languages do, incl. southern
+Russian. 'gh' in turn is at least as similar in sound to 'h' as 'kh' is, maybe
+more so, and so it is a good choice to substitute for 'h' in a language that
+has no 'h' sound.  The southern pronunciation probably used to be much more
+widespread than it is today, and there were a few words where even northerns
+used the southern pronunciation, esp. in words of religious terminology. 
+
+So what this whole story illustrates is that the way languages represent
+foreign sounds usually starts out by choosing the phonetically closest sound
+available in your own language (although the notion of phonetic closeness has
+never been properly defined!).  But then it is quite common for a tradition to
+develop of substituting your sound X for foreign sound Y even when the
+phonetics changes (as a result of sound change over time or because of shift
+from one dialect to another, as in the case before us) and makes no sense any
+more.  In other words, languages often develop purely TRADITIONAL rules for
+substituting foreign sounds.  This is what we have in Russian when 'g' is used
+for 'h', while the increasingly frequent use of 'kh' instead represents the
+tendency to 'fix' things by using the sound which is the closest phonetically
+to the 'h' sound in the currently dominant northern pronunction. 
+
+A Manaster Ramer
+
+PS. The competing substitutions of 'k' and 'h' for Yiddish, German, Hebrew,
+etc. 'kh' (= 'ch') in English may be a similar case, but I have not studied it
+in detail. 
+
+4)----------------------------------------------------
+Date: Tue, 10 Mar 1998 07:38:16 -0500 (EST)
+From: Zachary Baker <yivo1@metgate.metro.org>
+Subject: Yiddish toponymy
+
+Probably the best discussion of Yiddish toponymy in Eastern Europe is the
+article by Edward Stankiewicz, "Yiddish Place Names in Poland," in vol. 2 
+(pp. 158-181) of The Field of Yiddish. 
+
+Zachary M. Baker
+
+5)----------------------------------------------------
+Date: Mon, 9 Mar 1998 21:14:22 -0500
+From: yiddish1@juno.com (Feigl I Glaser)
+Subject: Transliteratsye boygn and Yidishe Klangen.  
+
+1) Ikh hob nekhtn farefntlekht in Mendele dem shlisl tsu Yidishe klangen un
+transliteratsye.  Iz arayngefaln a fardrislekher toes. Vel ikh prubirnhaynt
+farbesern: Vi ken zayn andersh.  Yesterday, I posted on the Mendele E-mail the
+Key to Yiddish sounds and transliteration.  Unfortunately, I noticed a
+mistake. So I will try to correct it here: 
+ 
+        SH is like SH in SHORT (not like S in PLEASURE)
+
+2) Ikh halt nit az es iz di tsayt eyn libhober fun Yidish zol kritikirn andere
+vos viln az Yidish zol lebn un oyflebn.  Ober abisele yoysher.  Gevise
+mentshn, vos hobn take groys visn un a sach baygetrogn tsu farshpreytn dos
+Yidishe vort, fardinen dem shtekn vos zey hobn gepasknt az m'darf zogn AF (nit
+OYF), shraybn FINEF (nit FINF), TSUN (onshtot TSU oder TSUM), FIRSHTOT
+(onshtot FORSHTOT), SHTREKHELE (onshtot SHTRAYKHELE), un dos alts in nomen fun
+LAYTISH YIDISH. 
+         
+Dos zelbe iz binoygeye daytshmerizmen.  S'iz emes, az gevise daytshmerizmen
+griltsn in di oyern, azoy vi bite (far zayt azoy gut), tante (far mume),
+denken (far trakhtn), aaz"v. Ober, vi mayn amoliker lerer minkof fun yidishn
+lerer seminar hot zikh anumlt oysgedrikt: "mikh art nit vos ir zogt als (far
+vi), afile ven ir volt aroysgekukt fun a "vinde" volt mikh nit geart. Abi ir
+redt a gutn, daytlekhn Yidish un ayer zats iz gut geboyt -- kumt aykh a yasher
+koyekh. 
+
+Ikh bin shtark far an aynhaytlekhn Yidish.  Un zikher -- far di ongenumene
+gramatishe takones funem aynhaytlekhn Yidishn oysleyg -- vos zaynen
+oysgehamert gevorn durkh di "Yivo" forsher un "tsisho" lerer in Poiln beis der
+goldener tkufe fun Yidish --un zaynen ad hayom farblibn di rayelste mekoyrim
+far Yidish reders, Yidish leyeners un Yidishe shrayber. Oyb es vet oyfkumen a
+nayer dor Yidish keners, veln zey bimeyle shafn naye shprakh formen.  Ober
+m"darf dos oyf zey nit aroyftsvingen un me darf zayn obyektiv vos shaykh
+dyalektn.  Nor di litvakes hobn gezogt AF, a GERUS, ad"gl.  Mistome hot men in
+Besarabie gezogt FIRKUMEN, FIRLEYGN, FINEF, FERTSETN (nisht FERTZNTN) aaz'v.
+ober mir gefelt dos nit. 
+
+Un ver zogt, az Alt-Yidish iz davke beser Yidish?  Un ver zogt es az
+araynbrokn mer Slavishe, Englishe un Hebreishe oysdrukn iz beser vi di
+"daytshmerizmen"  vos zaynen gevorn ongenumen durkhn klal? Linguistn kenen nor
+forshlogn shprakh, lerer lernen shprakh un der hamoyn redners bashlist. 
+
+A dank far gibn mir di gelegnhayt aroystsuzogn mayne gedanken.
+
+Mit frayndlekhe grusn,
+Feygl Infeld Glezer
+
+6)----------------------------------------------------
+Date: Mon, 9 Mar 1998 23:11:54 -0500
+From: Serge Mitelman <simitelman@pol.net>
+Subject: Moyshe Pinchevsky.
+
+Der artikl yz genemen fyn der "Rossiyskaya evreyskaya entsiklopediya"
+(rislendishe idishe entsiklopediye), Epos, Moskve, 1995, b.2, z.387, yn
+yztsinoyfgeshtelt fyn Kh.Beyder (a vertlekhe iberzetsing):
+
+"Pinchevsky, Moyshe Yakovlevich (1894, Telenesht, Uriver uyezd, Besaraber
+guberniye, - 1955), a shraber. Ot bakimen a traditsionele idishe religieze
+bilding (khinekh?). Ot tsikh gelernt yn yeshive yn Odes. Fyn 1913 - yn
+Argentine. Iz gearbet als a shvartsarbeyter yn Buenos-Ayres, a lerer yn a
+idisher koloniye, ot tsikh ymtrugn iber deym lond. Di ershte virshes af idish
+ot er publikirt yn 1913. Yn 1918 ot er arusgelozt yn Buenos-Ayres zan ershtn
+bikh "Tsvit". Ot arusgetreytn mit artiklen, dertseylingen, lider yn di
+periodishe oysgabes. Ven er ot tsikh ymgekert kin Eyrope, ot er gevoynt yn
+Daychland, Belgiye, Rumenye (Basarabye?), fyn 1926 - yn FSSR. Er ot gedrikt
+zane verk yn idishe bleter yn zhurnaln, ot arusgegibn etlikhe bikher: "
+Dertseylingen"(1919), "Fir poemes" (1920), "Dys leybn yn toyt fyn Vilyam Svet"
+(1941). Mekhaber fyn der libreto farn balet "Dus bochandl" (1935). Yn
+idishe, ukrainishe yn risishe teaters zenen geveyn geshtelt Pinchevskis
+pyeses: "Gedekte kortn" (1930), "Git deym forgong" (1931), "Eldorado"
+(1936), "Kolya" (1937), "Ikh leyb" (1947) yn ondere. Yn 1949 er yz geveyn
+arestirt; yz geshtorbn yn lager." 
+
+Di merer teyl fyn di politishe asurim zenen geveyn amnistirt teykif nukh
+Stalins toyt (1953-1954). Nor a teyl fyn zey zenen nokh geveyn af "poselenye"
+byzn 1955. Ekh meyn, az ir vot gekont bakimen merer informatsiye, oyb ir vot
+kontaktirt Khaim Beyder (Bensonhurst, Brooklyn), velekher ot gearbet mit di
+arkhivn fyn di represirte idishe sovetishe shrabers, tsi Ikhil Shraybman
+(Keshenev), - zey beyde obn gekont zan bakent mit Pinchevski. Akhits deym,
+Boris Sandler ot tsekh farnemen mit di doles fyn di represirte besaraber
+idishe shrabers (yn, vi bavist, er ot veygn zey ungeshribn a bikhl ). 
+
+Agev, zan intervyu mitn kinstler Leonid Pinchevsky (fyn Belts) yz geveyn
+farefntlekht yn Forverts mit a khoydesh tsirik, s'yz ober a farshpreyter
+familye. Yn tsiletst, an onderer "emshekh dor" idisher shraber - Mekhl
+Felzenbaum -aleyn shtamt fyn Telenesht.
+
+Ayer-getrayer,
+Shaya Mitelman.
+
+7)----------------------------------------------------
+Date: Wed, 11 Mar 1998 00:46:01 +0300
+From: "Andrey Bredstein" <anbredstein@glas.apc.org>
+Subject: Pintshevskiy's bibliography
+
+Additional Moyshe Pintshevskiy's bibliography:
+
+Geklibene lider, poemes un mayselekh. - Kiev, 1940.
+Der bashtan: a piese-maysele far kleyne kinder. - Kharkov, 1935
+Di gliklekhe, vos hobn derlebt: dertseylungen. - Kiev, 1938.
+Yure: a maysele far kinder. - Kharkov-Odes, 1936.
+Dos lebn un der toyt fun Vilyam Sven: poeme. - 1-er teyl. - Kiev-Kharkov, 1935
+Der Lenin-bliml: mayselekh far kleyn un far groys. - Kiev-Lvov, 1940.
+Fun friling biz friling: lider. - Kiev, 1938.
+
+Andrey Bredstein
+
+8)----------------------------------------------------
+Date: Mon, 09 Mar 1998 21:48:50 -0800
+From: Meyer Wolf <wolfim@idt.net>
+Subject: grayz
+
+In Mendele Vol 07.165, Mikhl Herzog refers us to an earlier discussion in
+Mendele on the origin of this word. I apologize for putting him through the
+mill again; but that discussion was curiously incomplete. Blame the shames,
+who was good enough to direct us to the relevant numbers of Mendele. 
+
+Herzog defended the etymology which holds that grayz is derived from Hebrew
+gri'es (giml-reysh-yud-ayen-vov-sof), which he attributes to Dov Sadan, but
+was actually first suggested by Zunz. Herzog explains the vocalic development
+as follows (following M. Weinreich?): 
+
+"long [i] in medieval German is realized as [ay] in Yiddish (vayn, tsayt,
+mayn, etc.). The correspondence between [ay] in grayz and [i] in gri'es fits
+that development." 
+
+This is however not the whole phonological story: vayn, etc. had single
+stressed vowels followed by consonants; *gri:'es had an additional unstressed
+vowel -- so we would expect the outcome to be something like *grayes. And the
+final consonant also requires some explanation -- how did the final /s/ get
+voiced to /z/? 
+
+It looks like some pretty fancy inguistic footwork is needed to defend this
+etymology, which is also not semantically straightforward (as earlier Mendele
+critics pointed out)  -- Hebrew-Aramaic _gri'us_ means 'diminution' or 'low
+quality', not 'mistake'. 
+
+Meyer-Leyb Wolf
+
+9)----------------------------------------------------
+Date: Tue, 10 Mar 1998 21:17:16 +0100
+From: harold goodman <hrpharold@erols.com>
+Subject: Morning Freiheit.
+
+I am interested in making contact with anyone having issues of or information
+relating to the Yiddish daily Morgen Frayhayt ( Morning Freiheit). I imagine
+that some former readers, staff and afficionados are still around but I don't
+know where to start in order to contact them. Any suggestions? I hope to write
+a brief history on this major Yiddish newspaper and its contributions. 
+
+A hartsiken dank.
+
+Hershel Goodman
+______________________________________________________
+End of Mendele Vol. 07.169
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+ 
+
+
+

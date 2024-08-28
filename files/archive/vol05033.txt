@@ -1,0 +1,171 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.033
+June 28, 1995
+
+1) Pronouncing "Tevye" (Harvey Spiro)
+2) Pronouncing "Tevye", fil (Dovid Braun)
+3) Translating of Yiddish (David Sherman)
+4) Translation programs (David Lechner)
+
+1)----------------------------------------------------
+Date: Tue Jun 27 10:17:10 1995
+From: hjs@nrc.gov
+Subject: Dzigan's pronunciation of the name "Tevye"
+
+In Mendele 5.030, Bob Werman comments on the apparently Hebraicized
+pronunciation ("Tovya") of the name Tevye that was used by the well-known
+Yiddish comic Szimon Dzigan when he performed in Israel.
+
+> On the other hand, Shimon Dzigan, in Israel after the second war
+> is uncomfortable with this pronounciation ...
+
+My guess is that Dzigan was responding to the rather precarious position
+of Yiddish in "ertsisruel," the promised land, where Yiddish was at best
+barely tolerated until very recently.
+
+Bad enough that this incorrigible ghetto Jew should speak the language of
+galut in the proud land of khalutzim, to a roomful of vuz-vuzim who can't
+even speak Ivrit. At least he knew enough to sprinkle his Zhargon with
+lots of modern Hebrew vocabulary, and he corrected his pronunciation of
+names like Tovya to their "proper Hebrew form."   Besides, what did that
+guy "Shalom Aleichem" know about Hebrew?   :)  :)
+
+Although the term "political correctness" may be new, the concept is old.
+
+Harvey Spiro
+Vienna, Virginia
+
+2)----------------------------------------------------
+Date: Tue, 27 Jun 1995 17:41:11 EDT
+From: dovid@mit.edu
+Subject: Tevye, fil
+
+Responses to Bob Werman and Arre Komar:
+
+Bob, which Dzigan recording were you referring to (i.e. where is it that
+he calls Tevye [toyva])?  And Did you mean the spelling t-o-y-va or was
+this a typo?  (The only possibility for a male's name that looks like
+this is toyvye.  _toyve_ is a 'favor'.  And no native Yiddish word ends
+in the sound [a] -- well, maybe two or three very uncommon ones.)
+
+Arre Komar, I've never encountered the distinction that you mentioned
+between _fil_ and _a sakh_ and have never seen such a distinction
+discussed in Yiddish linguistic literature.  Your feeling that there is
+such a distinction probably comes from your knowledge of English.  By the
+way, I'm confused as to what sound the "h" in _fihl_ (your spelling) has.
+Please explain.
+
+Zayt mir ale gezunt un shtark--
+
+Dovid Braun
+
+3)----------------------------------------------------
+Date: Tue, 27 Jun 95 13:22:01 EDT
+From: dave@cai.lsuc.on.ca
+Subject: Translating of Yiddish
+
+I don't think a computer program to translate from Yiddish is going to
+help much.  Most Yiddish texts that people are trying to get translation
+help from seem to be letters written by their great-grandparents and the
+like.  A computer will only help you once the information is already
+digitized and the alphabetic content is known.
+
+I find the wide range of Yiddish scripts fascinating.  I suppose it's not
+really any different than the wide range of English scripts; it's just
+that I'm so familiar with English that I can read most people's writing.
+An old Yiddish letter, on the other hand, can vary from clear to totally
+unintelligible (where I can barely make out a letter of the alef-bays).
+Has there been much written on Yiddish cursive styles?  Do they follow
+regional patterns, for example?  (Will Mikhl Herzog give us an Atlas of
+Yiddish script styles? :-)
+
+David Sherman
+Toronto
+
+4)----------------------------------------------------
+Date: Tue, 27 Jun 1995 18:28:30 -0500 (CDT)
+From: lechner@jcl.lib.ks.us
+Subject: Translation programs
+
+My knowledge of Yiddish is still so rudimentary as to be almost
+non-existent (although I find I am understanding more and more of what I
+have read here on Mendele, for which I thank all of you most heartily).
+I have, however, worked as a professional translator of German (to/from
+English) on occasion and have also worked with Swedish and Norwegian, so
+perhaps I can speak on the question of machine, or computer-assisted,
+translation.
+
+There is a great deal of study being done at many universities to perfect
+such automatic translation, but at this stage, the researchers are still
+looking for a modern day philosopher's stone. It is fairly easy to create
+software which will match words between two languages; the problems creep
+in when the two words have differing ranges of meaning and choices have
+to be made.
+
+The next major hurdle is dealing with the different syntax in the two
+languages and recognizing and allowing for idioms.  German's "Man kauft
+keine Katz im Sack" doesn't make too much sense as "don't buy a cat in a
+sack" but has the same sense as "don't buy a pig in a poke" (whatever a
+"poke" is :) and assuming the idiom `flies' in one's regional variety of
+English.
+
+I know a lot of people hold great hope for machine translation, but at
+this point -- at least in my experience -- for anything other than the
+simplest of tasks and sentences, it requires nearly as much time for
+cleaning by a human post editor as would be required to have the job done
+solely by a human translator.
+
+Again, I realize that others may have higher opinions of machine
+translation, and I do _not_ mean/wish to set off a flame war, but this is
+my honest reaction to the notion of computer translated Yiddish.  And
+thanks again to all of you who so regularly share your love of and
+expertise in Yiddish!
+
+David Lechner
+
+______________________________________________________
+End of Mendele Vol. 5.033
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

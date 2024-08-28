@@ -1,0 +1,135 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.174
+December 19, 1993
+
+1) Incorrect citation (Ellen Prince)
+2) Tante/Mu(h)me/Vetter/Base/Cousin(e) (Margaret Mikulska)
+3) Daytshmerish, Yiddish, & Jewish German (Neil Jacobs)
+
+1)----------------------------------------------------
+Date: Sat Dec 18 17:38:41 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: incorrect citation
+
+To: Marnen Laibow-Koser
+
+>As Ellen Prince said
+>so beautifully, we must sing to keep the language alive: too much
+>rigidity will kill Yiddish.
+
+i'm afraid you have me confused with someone else. languages remain
+alive so long as they have a speech community that grows up speaking
+them as a native language. i doubt that your singing will keep
+yiddish alive, and i can assure you that mine would only make it
+want to die faster... :)
+
+btw, what i DID say is that yiddish grammar is no 'looser' than any
+other. and that includes german. if you have evidence to the
+contrary, i'd love to see it.
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Sun Dec 19 00:39:08 1993
+From: Margaret Mikulska <mikulska@faust.Princeton.EDU>
+Subject: Tante/Mu(h)me/Vetter/Base/Cousin(e)
+
+> From: laibow@brick.purchase.edu
+>
+> I don't know how many Mendelnikes know this, but "Tante", "Muhme",
+> "Onkel", and "Vetter" (German spellings) are *all* German kinship
+> terms. There would be nothing particularly unusual about this,
+> except that in German "Vetter" and "Muhme" mean "cousin"! (I think
+> "Vetter" is usually, but not exclusively, male; I'm not sure about
+> "Muhme".) Anybody know how this shift in meaning came about?
+
+I know of no source, alive or printed, according to which "Muhme"
+means "cousin" in German.  Two old-fashioned and even obsolete terms
+are "Vetter" (male) and "Base" (female); modern German uses
+"cousin/cousine". "Muhme" can be traced back to Middle High German
+("muome") and even Old High German ("muoma") and was originally a
+term of endearment for mother, and subsequently for the mother's
+sister.  Around 1700, under the influence of French, the French word
+"tante" replaced "Muhme". Interestingly, "tante" comes from a Latin
+word for the _father's_ sister. In any case, there was no shift of
+meaning you're asking about.
+
+-Margaret Mikulska
+mikulska@astro.princeton.edu
+
+3)----------------------------------------------------
+Date: Sat Dec 18 22:59:04 1993
+From: Neil G Jacobs <njacobs@magnus.acs.ohio-state.edu>
+Subject: Daytshmerish, Yiddish, & Jewish German
+
+The recent discussion found in Mendele concerning daytshmerish has
+been interesting.  Concern over the issue of New High German
+influence on Yiddish is not new, as pointed out by others in this
+current discussion (citing, e.g., Max Weinreich's article from the
+1930s).  Linguistically, Yiddish and German clearly have enough "in
+common"--enough of a resemblance, for whatever historical
+reasons--that Jews and non-Jews have long been concerned with issues
+of "why A is/isn't more/less like B" (on history of Yiddish
+linguistic scholarship, see Borokhov 1913, or Max Weinreich's
+dissertation, recently brought out in published form thanks to Prof.
+Frakes).  In some of the recent Mendele debate, there is argument
+over what is "really Yiddish", what is "really" daytshmerish, etc.
+It is important, I believe, to keep in mind that there are several
+issues at work here:  linguistic registers of individuals and speech
+communities, geographically-patterned variation, and time frame,
+etc. Furthermore, the issue of written vs. spoken language can also
+be important; Max Weinreich (1928, "Di yidishe shprakhforshung in
+17-tn yorhundert", in *Tsaytshrift*) notes a difference in the
+amount of German influence in written documents versus what must
+have been the spoken Yiddish of the time.
+
+It may also be fruitful for us to distinguish between borrowing of
+New High German elements into Yiddish, versus the process of
+language attrition in post-Haskole Western Yiddish.  I am scheduled
+to present a paper on this point at the upcoming LSA meeting in
+Boston (title of paper:  "Borrowing vs. language shift among
+19th-century Yiddish speakers").  Basically, I try to use the model
+of Thomason and Kaufman (1988) to distinguish between the massive
+influx of New High Germanisms into Jewish speech in the 19th century
+in the West vs. in the East.  In the case of Western Yiddish, Jewish
+speakers' increasing use of Germanisms was part of a process of
+language shift (WY > German), whereas, the daytshmerish in EY was
+*borrowing*, and part of a process of language consolidation,
+expansion, etc.  According to Thomason & Kaufman, language shift and
+borrowing leave behind different types of identifiable linguistic
+residue. I think this to be, at least to some extent, at least part
+of the total picture we are all after.  A few articles of value are:
+Lowenstein (1979) "The Yiddish written word in 19th century Germany"
+(Leo Baeck Yearbook, 1979), Shpirn (192-6-?) "Di yidishe shprakh in
+ungarn"), and Y. Matras (1991, ZDL) on Jewish German of the
+"Judendoerfer".  Also:  Anton Ree's 1844 work on Jewish German
+speech, discussed as well in Max Weinreich, and elsewhere.
+
+Neil Jacobs
+
+______________________________________________________
+End of Mendele Vol. 3.174
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+

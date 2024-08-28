@@ -1,0 +1,142 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.075
+August 12, 1993
+
+1) Beheyme (Ellen Prince)
+2) Yiddish font (Gurion Hyman)
+3) Semantics of O'GUL & HOIL (Gurion Hyman)
+4) Thanksgiving (David Sherman)
+5) Second International Yiddish Club Conference (Fishl Kutner)
+
+1)----------------------------------------------------
+Date: Mon Aug  9 17:51:05 1993
+From: "Ellen F. Prince" <ellen@central.cis.upenn.edu>
+Subject: Beheyme
+
+re arnold kuzmack's question about _beheyme_:
+
+as for the gender-marking of the yiddish term, it was used for both
+males and females where i come from and i don't remember any
+connotation of fatness. it was more or less a synonym of _grubyan_
+(_grobyan_?), except that the latter was used for males only, as i
+recall. i'd love to hear something about this term, btw--is it the
+yiddish version of french _grosjean_ 'fat john'? (interestingly,
+neither _grubyan_ nor _grosjean_ have anything to do with fatness
+either--just crudeness and ignorance.)
+
+ellen prince
+
+2)----------------------------------------------------
+Date: Tue Aug 10 12:08:24 1993
+From: Avi_J._Hyman@magic-bbs.corp.apple.com
+Subject: Yiddish font
+
+In the past I have mentioned that I created a Yiddish font for the
+MAC. Several people have written me for a copy of same, but
+unfortunately, my home node does not allow me to send attached files
+through the gateway. Therefore, if you want a FREE copy of my font,
+please send me a MAC disk with a stamped self-addressed envelope,
+and I'll mail it back to you with pleasure.
+
+Gurion Hyman
+38 Avenal Drive, Toronto, Ontario, Canada M6C-1V4
+
+3)----------------------------------------------------
+Date: Tue Aug 10 10:31:13 1993
+From: Avi_J._Hyman@magic-bbs.corp.apple.com
+Subject: semantics of O'GUL & HOIL
+
+	While working on my Etymological Dictionary, I came across a
+curious semantic problem. The word I was researching came from the
+Yiddish-English-Hebrew Dictionary by Alexander Harkavy, 4th edition,
+1928. It is the Yiddish word "O'GUL" (p.3) [ the ' marks stress on
+following syllable] and the meaning given is "wholesale". This comes
+from either Russian "o'gulom" which means "wholesale; pell-mell; in
+a heap", or Polish "o'gol" Tthe whole, total, at large; general,
+commonU. These are derived from the Indo-European root *qoil-,
+meaning "whole, complete; sound, healthy".
+
+	Some other derivatives from this root are [forgive the lack
+of diacritics]: Old Indian (Sanskrit) kalyah ThealthyU; sarva-
+Twhole; every, (pl.) allU. Old Slavic (Church-Slavic) celu Twhole,
+complete, sound, unharmedU; celiti Tto healU.  Greek ka'los Thealthy
+> beautifulU; 'holos TwholeU. Latin salvus (early) TwholeU,
+(usually) Tsafe, well, soundU. Old High German, Middle High German,
+Modern German heil Tcomplete, whole, healthyU.
+
+	There is another group with the meaning of Tbare, baldU
+which, my sources indicate, are also derived from the same root.
+Some examples are: Old Indian ati-kulva-, Tentirely baldU; khalati-,
+Tbald-headedU. Avestic kaurva- TbaldU. Lettish kails Tbare; baldU.
+Old Slavic golu TbareU.  Russ 'goliy TbareU; ogol'yatU, ogo'li:tU
+Tto strip, expose, lay bareU. Polish goly TbareU. Czech ho'ly.
+Yiddish HOIL TbareU; GOLN (ZIKH) Tto shaveU. Latin calvus TbaldU.
+Old High German kalo. Middle High German kal. Ger kahl. Old English
+calu Tbare, baldU.
+
+	I would appreciate it very much if anyone could present a
+plausible semantic connection between these two meanings: (1)whole,
+complete, healthy, and (2) bare, naked, bald. (I have been offered
+the following: one can tell if an individual is healthy only when
+s/he stands uncovered, e.g. Greek athletes who competed naked in the
+games and gymnasia in ancient times).
+
+Gurion Hyman <Avi_J._Hyman@magic-bbs.apple.copr.com>
+
+4)----------------------------------------------------
+Date: Tue Aug 10 12:36:41 1993
+From: dave@cai.lsuc.on.ca (David Sherman)
+Subject: Thanksgiving
+
+> From: WALDOKS@BINAH.CC.BRANDEIS.EDU
+> Dos heysst az
+> men gibt a klorer blick oyf dem Amerikanisher Thanksgiving zeyt men
+> az di Pilgrims hobn mistomeh gepravet Thanksgiiving nisht sof
+> November , ober Sukkes zayt.
+
+I don't know how the U.S. Thanksgiving ended up in November, but
+ours (Canada) is in October -- typically around Sukkes-tsayt indeed.
+
+David Sherman
+
+5)----------------------------------------------------
+Date: Wed Aug 11 10:52:16 1993
+From: Philip Kutner <fishl@well.sf.ca.us>
+Subject: Second International Yiddish Club Conference
+
+Toronto has accepted the offer to host the Second International
+Yiddish Club Conference to be held October 7-10, 1994.  This is over
+the Canadian Thanksgiving and the U.S. Columbus Day Weekend.
+
+After the highly successful First Conference at the U of MD over the
+last Memorial Day Weekend, the Committee of the 4 Yiddish Club
+Newsletters in North America and an independent representative met
+to charter the direction of the newly-formed group.
+
+Bess Shockett will be heading the conference.  Her husband Barry is
+the editor of Dos Bletl, the newsletter of the Friends of Yiddish.
+When the international Yiddish Club Conference Committee visited
+Toronto, they stayed at the hotel and visited the University
+facilities of the Ontario Institute for the Study of Education where
+we will be staying and holding the sessions and workshops.
+
+Convenience to the subway, museums, boutiques and major sight-seeing
+locations make this an excellent choice for participants whose
+traveling companion may not wish to spend the entire time at the
+conference.
+
+There will be a major effort to attract even younger participants by
+having workshops and sessions on computers and offering baby-
+sitting for couples needing this service.  There also will be a
+greatly expanded vendor presence and sessions on intermediate and
+advanced Yiddish.
+
+Details will be posted on Mendele as plans evolve.
+
+Fishl
+
+______________________________________________________
+End of Mendele Vol. 3.075
+

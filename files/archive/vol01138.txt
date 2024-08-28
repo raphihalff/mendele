@@ -1,0 +1,140 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 138
+January 19, 1992
+ 
+1) Pronunciation (Hershel Bershady)
+2) Yankev and manse (Khayim Bochner)
+3) Yiddish textbooks (Khayim Bochner)
+4) Yiddish in Egypt (Aren Abramson)
+
+1)----------------------------------------------------
+Date: 06 Jan 92 23:47:53 EST
+From: "Dr. Harold Bershady" <HBERSHAD@PENNSAS.UPENN.EDU>
+Subject: PRONUNCIATION
+ 
+Re. Mendele vol. 1.132: Bob Goldberg's query on clues to
+pronunication via rhymes in songs:
+
+As kids we used to sing:
+
+Oy khanuke, oy khanuke
+A yontif, a sheyner
+A lustike, a frelikhe
+A brokh of deine beyner...
+
+"We" came from a little town near Kiev -- Sokolifke.
+According to my rela- tives, the town numbered no more than
+200 souls.  But the Sokolifke cemetery in Buffalo -- a city
+which apparently remains the mecca of former native
+Sokolifke rs -- contains several hundred graves of original
+Sokolifkers.  No Sokolifker I know would claim to be a
+Galitzianer or Litvack -- heaven forfend!  They all say
+they're "Ruhshshish."  The point of this little story is:
+who knows how widespread this particular haccent is?  Or
+exactly what kind?  Bob's bube, from noy Shtot near Krakow,
+seems to share many similarities of accent with my fami-
+ly.  There are a few differences.  My bube used to say -- I
+reproduce this pho- netically rather that orthographiucally
+-- mawe-mehle, taw-tehle, not mamele, tatele.  Kayn-e-hora,
+bubele, etc., seems to capture Sokolifke sprakh.
+
+Hershel
+
+2)----------------------------------------------------
+Date: Fri, 10 Jan 92 15:40:39 -0500
+From: bochner@das.harvard.edu
+Subject: RE: "yankev, manse"
+
+Berl Hoberman writes in Mendele Vol 1.131 
+> So are we back to square one for Yankev, ma:nse?
+ 
+Well, since the subject has come up again, I'll write what
+I was thinking before, but didn't get around to writing
+before.
+
+I don't think the phonology of pharyngealization in Semitic
+has anything to do with this. Why?
+
+1)  These "intrusive" [n]s occur in the environment of 3
+    loshn koydesh consonants: ayin, aleph & he. Ayin was
+    originally a pharyngeal glide, but aleph (glottal stop)
+    and he (ordinary [h]) were not.
+
+2)  The one other consonant that was originally pharyngeal
+    is khes. To my knowledge, the "intrusive" [n] never
+    shows up in words with khes.
+
+So I think that pharyngeality is a red herring. (Vi zogt
+men "red herring" oyf yidish?)
+
+What ayin, aleph & he have in common? Well, he as often
+become silent in loshn koydesh words, while ayin and aleph
+have become silent everywhere (ignoring the fact that
+they're used to spell vowels in non-loshn koydesh words).
+
+So I think the answer is more likely to have something to
+do with the phonetics of vowel coalesence or compensatory
+lengthening than with pharyngeality.
+
+-- Khayim
+
+3)----------------------------------------------------
+Date: Fri, 10 Jan 92 15:58:03 -0500
+From: bochner@das.harvard.edu
+Subject: RE: textbooks
+
+micah@vax135.att.com writes in Mendele Vol 1.130 
+> do you know sources for learning Yiddish, i.e. good books
+> to learn it from?  at the risk of alientating myself so
+> early,  i'd like to find one which does not have an
+> anti-religous stance; sorry if this terminology is
+> offensive.  thanks. /m
+
+I haven't seen any other replies, so I'll give it a stab;
+It's hard to answer without knowing your language-learning
+background.
+
+The best reference for beginners in U. Weinreich's "College
+Yiddish". The main problem with it as a textbook is that it
+presumes a good deal of familiarity with grammatical
+terminology: back when it was written, most college
+students had had a year or two of Latin. Many people
+nowadays have trouble with this; if you don't, I recommend
+this book.
+
+The easier books I'm familiar with are particularly good
+for people who start out without already knowing the
+aleph-beys, but that's not likely to apply to you if you're
+religious. For the record (and from memory): 1) "Learning
+Yiddish in easy Stages" by Marion Herbst (??). 2) a booklet
++ cassette combination by Yudel Mark (the title escapes
+me). 3) "The Yiddish Teacher" an old (30's) book whose
+author escapes me.
+
+I hear that Sheva Zucker is writing a new textbook, and I
+have high hopes for it, but as far as I know it isn't
+available yet.
+
+With respect to religion, the only book I know that
+mentions an explicit attempt to avoid being offensive is
+Schaechter's "Yiddish II". I don't think any of the books
+are openly hostile; while I can't judge what you might find
+offensive, I know observant Jews who teach from "College
+Yiddish" without discomfort.
+
+-- Khayim
+
+4)----------------------------------------------------
+Date: Thu, 16 Jan 92 13:17:38 EST
+From: Aren Abramson <ABRAMSON@UCONNVM.BITNET>
+Subject: RE: Mendele Vol 1.134
+
+I too would like to hear abouty the Jewish community in
+Egypt.
+
+Aren
+
+______________________________________________________
+End of Mendele Vol 1.138
+

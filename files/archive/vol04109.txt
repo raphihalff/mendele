@@ -1,0 +1,177 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.109
+September 22, 1994
+
+1) Introduction (Mendy Fliegler)
+2) Introduction (Marcia Gruss Levinsohn)
+3) ALA/LC Romanization of Yiddish (Zachary Baker)
+4) Transliteration (Louis Fridhandler)
+
+1)----------------------------------------------------
+Date: Tue, 20 Sep 94 23:34:37 EDT
+From: sroolik@aol.com
+Subject: Introduction
+
+Ich hays Mendl Fliegler. They call me Mendy. I am an engineer retiree
+from the Fed. Gov't. But my background in  Yiddish originates when I came
+to the US in 1937 from Honduras, my birthplace, when I only spoke Spanish
+and Yiddish. Spanish disappeared when I learned English. I was a student
+in the Sholem Aleichem Folkshule Drei, while growing up on a poultry farm
+in Central New Jersey. Marvelous teachers, Schegloff, Chanukov, etc.,
+came from New York and stayed over at various farms and taught the
+language, theater, history, poetry, etc., at the community center on
+weekends. I graduated at 13. My folks and I, un die schaynim all spoke
+Yiddish to each other. A mix of Galitz, Litvakish, some literary, etc.
+The farmers were a mix of Linke, Rechte, Refugees, Spinoza-ites,
+Dahtchen, Socialists, un zo veiter. Sometimes a Republican!
+
+Yetzt vil ich mit eich redn. Die shprach shpringt arois fin mein
+moyach/kop, gradeh yetzt ven ich bin shoin tzvay un zechtzig yuhr alt.
+Ich ken eich afileh zugen vie a shpin voint--oif a povetinyeh!!!
+
+Hots alle a zies yuhr un a shaynem sikkes.
+
+Mendy Fliegler
+
+2)----------------------------------------------------
+Date: Tue, 20 Sep 1994 23:52:13 -0400 (EDT)
+From: mashinke@wam.umd.edu
+Subject: Introduction
+
+I am thrilled to have finally arrived on Mendele's list. My formal
+studies in Yiddish started in 1983 at YIVO's Columbia Univ. summer
+program.  Currently I'm studying Yiddish at the University of Maryland
+with Dr. Dorothy Bilik, at the DCJCC leyen krayz with Dr. Max Ticktin,
+and a small group of lovers of Yiddish.  Adrienne is already on Mendele.
+As you can see, Adrienne, I finally made it! My husband, Meyshe, and I
+hold a class, Mishpokhe Yiddish, for 3 to 7 year olds, in our home.
+Parents and/or grandparents are encouraged to participate.  We present
+Yiddish stories, (puppet shows), for children 3 to 93 years young.  "s'is
+take a mekhaye." yidn, zayt bagrist.  a gut yom tov.  a gut yor.
+mashinke
+
+Marcia Gruss Levinsohn
+
+3)----------------------------------------------------
+Date: Tue, 20 Sep 94 16:20:27 PDT
+From: BM.YIB@RLG.Stanford.EDU
+Subject: ALA/LC Romanization of Yiddish
+
+There has been some discussion on MENDELE lately, regarding libraries'
+practices in Romanizing Yiddish.  Those who are familiar with the YIVO
+standard for the Romanization of Yiddish are often startled to see (for
+example) "mekhaber" transliterated in library catalogs as "meh.aber," or
+"zhargon" as "zshargon."  These spellings are not, however, the caprice
+of an ignorant cataloger (though some of us may indeed not know Yiddish
+well); rather, they represent the systematic application -- or
+occasionally, misapplication -- of what is best known in the trade as
+ALA/LC [=American Library Association / Library of Congress] Romanization
+of Yiddish.
+
+ALA/LC Romanization is intended to be a *transliteration* (not a
+transcription) scheme.  In other words, it represents the letters that
+appear on a printed page, and not the sounds with which those letters are
+normally associated. Librarians transliterate (rather than transcribe)
+Yiddish for bibliographical purposes:  Transliteration ideally should be
+"reversible"; when one sees the title "Der yud" in a library catalog it
+signals to the researcher that the original spelling is daled-ayin-resh
+yud-vov-daled -- even if it is actually pronounced "Der yid."
+Transcription has its place, but bibliographical accuracy (one of the
+principal raisons d'etre for library catalogs) demands transliteration.
+
+ALA/LC bases its Yiddish transliteration on the YIVO standard, but is far
+from identical to it.  That is because Yiddish is treated as a subset of
+Hebrew-alphabet transliteration as a whole (just as ALA/LC
+transliterations of languages using the Cyrillic or Arabic alphabets
+conform to overall rules affecting those alphabets, albeit with
+modifications).  In ALA/LC Romanization, each Hebrew letter is
+represented by a distinctive symbol, as mandated by the Library of
+Congress' "Hebraica Cataloging Manual."   H.es is distinguished from
+khof, kaf from k.uf, s'in [accent aigu after "s"] from samekh, s`ov
+[accent grave after "s"] from samekh, t.es from tov.  Zayin-shin is
+represented by z+sh (zsh), rather than zh.
+
+ALA/LC Romanization of Yiddish works reasonably well from the
+transliteration perspective, as long as one avoids Yiddish words deriving
+from the language's loshn-koydesh component.  There is a tendency in the
+library world to strain toward reversibility, yielding such bizarre
+Romanizations as "s'imh.eh" (for simkhe) -- whereas a Hebrew book with
+the identically spelled word in its title would have it Romanized
+"s'imh.ah," according to current library practices.  ALA/LC Romanization
+has been particularly problematic in the area of Hebrew personal names.
+Take, for example, the name Rokhl Boymvol.  As long as the author resided
+in the former Soviet Union, her first name was spelled
+resh-komets-alef-khof-lamed -- and was transliterated Rokhl.  But as soon
+as she moved to Israel, her books began to appear under the spelling
+resh-h.es-lamed, and her name was transliterated Roh.el. Thus, ALA/LC is
+not a pure transliteration scheme, but a mixed,
+transliteration/transcription scheme (not a happy situation).
+
+The point of all this is that there IS a method to the madness of ALA/LC
+Romanization, even if that system ultimately is a bit of a "plonter."
+
+Zachary Baker
+
+4)----------------------------------------------------
+Date: 21 Sep 94 12:45:32 EDT
+From: 74064.1661@compuserve.com
+Subject: Transliteration
+
+My comments are not meant to suggest any alteration in the rules of
+transliteration now practiced in Mendele.  I appreciate the logic (see
+Zellig Bach in 4.102 for some of the rules), and the benefits of
+consistency.  But, an observation:
+
+I learned transliteration from Weinreich's "College Yiddish" and from
+Weinreich's English-Yiddish, Yiddish-English dictionary.  There, upper
+case letters are used except when a combination of letters was needed to
+transliterate a single Hebrew character.  For shin, the transliteration
+was Sh.  For a khes or a khof, Kh was used.  J is rendered DZh.  A couple
+of examples: To render the Yiddish word meaning "to hear out," the
+prescribed transliteration is OYSHERN.  For "to cut out with scissors,"
+the transliteration is OYSShERN.  Clarity is served.
+
+This is perhaps a point overfine, but I see another advantage in using
+the system used by Weinreich.  In writing in English about Yiddish
+literature, italics are often used for quotations in Yiddish.  It has
+seemed to me useful to reserve italics for the more familiar uses:
+emphasis, foreign languages other than Yiddish, titles, etc.  The upper
+case system immediately signals that those passages are Yiddish, not any
+_other_ language.  For distinguishing Yiddish quotations (from intermixed
+italicized Russian, Ukrainian, Polish or German), a format reserved for
+Yiddish might be helpful.
+
+This applies mainly to the printed page.  I don't suggest any alteration
+in Mendele (considering custom and the limitations imposed by modem
+communication), but my comments do contain a question: Why has an
+integral part of the system in Weinreich been abandoned?
+
+Louis Fridhandler
+
+______________________________________________________
+End of Mendele Vol. 4.109
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+

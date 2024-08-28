@@ -1,0 +1,179 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.006
+May 24, 1994
+
+1) Introduction (Larry Rosenwald)
+2) Verb-Adj vs. Adj-Verb word order (Dovid Braun)
+3) The stem construction (Dovid Braun)
+
+1)----------------------------------------------------
+Date: Mon May 23 11:35:20 1994
+From: lrosenwald@wellesley.edu
+Subject: Introduction
+
+My name is Larry Rosenwald, and I teach English at Wellesley College.
+I've probably corresponded with some of you, during the time when I was
+co-editor of a prospective Schocken anthology of American Yiddish prose.
+(The anthology is on hold, by the way;  I don't know what plans Schocken
+has for it.)  I learned my Yiddish from Pearl Kahan, at the University of
+Chicago; I've done a little translating (a story by I. J. Singer) and
+some teaching of Yiddish material.
+
+Two questions, one general and one specific.
+
+1) I'm working on a big project I call Multilingual America, on scenes of
+language and dialect contact in American writing.  I'd like there to be a
+chapter on Yiddish as an example, neither typical nor unrepresentative,
+of what happens to immigrant languages in America.  I have some sense of
+what English texts are central for me;  but I'd appreciate any
+suggestions of Yiddish texts that reflect on, or portray, the relations
+between Yiddish and English in America.
+
+2) I had a student this last semester working on Yiddish who did a
+translation of a Peretz story called "A Khanike-Lempl."  In that story
+there's a phrase about someone eagerly seizing something "vi tsu/oyf [I
+can't remember and have no access to the book at the moment] a heysn
+poplinik."  I can't find poplinik, either in my dictionaries or through
+consultation with Slavicist colleagues.  Anyone know the word or the
+phrase?
+
+A sheynem dank,
+
+Larry Rosenwald
+
+2)----------------------------------------------------
+Date: Mon May 16 20:57:41 1994
+From: dovid@MIT.EDU
+Subject: Verb-Adj vs. Adj-Verb word order
+
+A slightly belated answer to Holger Nath:
+
+This is how I (at least currently) see the situation (in very general and
+crude terms):  adjectival phrases, like noun phrases and adverbial
+phrases, can be scrambled in Yiddish if their content is not focused.  By
+scrambling I mean movement of a constituent to a non-base-generated
+position following the tensed verb.  In your (a)-sentence (slightly
+modified):
+
+a. s'iz gegangen a shpreyregn.  azoy vi er hot nit gehat ken shirem iz er
+nas gevorn
+
+since the rain was going on for a while (as per the first sentence), the
+fact that the guy is getting wet is not new information -- speaker may
+imply and hearer may infer that, standing in a drizzle without an
+umbrella, one will get wet.  In (b):
+
+b. beshas er iz gegangen af der gas hot zikh plutsem ongehoybn a shturem,
+iz er gevorn nas
+
+the fact that the guy got wet IS new information:  from the context we
+don't have reason to believe necessarily that he got wet, because the
+strom had just begun and the guy might have taken out an umbrella,
+might've run for shelter, etc.  Compare:
+
+c. s'iz geven a sheyner tog.  di zun hot geshaynt.  bin ikh mir
+aroysgegangen fun shtub un mit a mol bin ikh gevorn nas.  imetser hot af
+mir oysgegosn an emer mit vaser!
+
+		vs.
+
+d. ...aroysgegangen fun shtub un mit a mol bin ikh nas gevorn. ...
+
+Methinks (c) is awkward, infelicitous.  Do native speakers with very,
+very fine judgments concur?
+
+As for nekome nemen vs. nemen nekome, I think the difference is that the
+first is a "periphrastic" verb and the second isn't.  Periphrastics have
+fixed word order, e.g. ikh vel morgn khasene hobn *ikh vel morgn hobn
+khasene So there would be two dictionary entries: 1. [nekome nemen] --
+periphrastic verb ex.:  ikh vel in im nekome nemen 2. [nemen] + [nekome]
+-- verb + complement (idiomatic expression) ex.:  ikh vel in im nemen
+nekome If nekome in #2 is scrambled for discourse-pragmatic reasons, it
+looks like #1.
+
+If the compilers of the Russian-Yiddish dcitionary meant something by the
+apparent distinction that you cite: blednet'	BLAS VERN poblednet'
+VERN BLAS this is quite insightful.  But isn't the order inconsistent?
+You gave another example: krepnut'	VERN SHTARKER okrepnut'	SHTARKER
+VERN In the case of blas vern, the order Adj. + Verb is associated with
+the Russian imperfective form, but in the case of shtarker vern, that
+same Yiddish order is glossed with the Russian perfective form (if I'm
+right that okrepnut' and poblednet' are perfective -- my knowledge of
+Russian is minimal).
+
+Incidentally, the last living editor of the Russian-Yiddish Dictionary
+died just recently, Moyni Shulman.  See obituary on last page of Forverts
+of three (?) weeks ago.
+
+David Braun
+
+[This post and the one that follows were delayed in transmission. nm]
+
+3)----------------------------------------------------
+Date: Mon May 16 21:18:52 1994
+From: dovid@MIT.EDU
+Subject: The stem construction
+
+A belated answer to Beatrice Santorini:
+
+A _makh_ is a physical gesture, a gesticulation.  The use is quite
+general, as opposed to the English counterparts -- a wave [of the hand]
+(a makh mit der hant), a wag [of the tail] (a makh mitn ek/veydl).  All
+derived from makhn mitn ek, makhn mit der hant, makhn mit di zaytn (one
+of the humorous an- swers to "vos makhstu?").  So the sentence from
+_Grine felder_,
+
+	me tor nisht a makh ton mitn hant af a dorfmentshn
+
+means:  'One shouldn't dismiss a villager' (as in the idiomatic
+expression:  avekmakhn X mit der hant -- 'wave away, dismiss somebody').
+
+In instances of the so-called stem construction, there is indeed
+variation possible wrt whether the stem preceds or follows ton/gebn.  I
+think, however, that there is NO variation wrt possible orders for
+invariants which are composed of stem+particle; i.e. (a) and (b) are
+possible, but only (c) and not (d) is possible: (a) er hot a
+zog/shprung/... gegebn/geton (b) er hot gegebn/geton a zog/shprung/...
+(c) er hot gegebn/geton a shray oys/shtey uf/... (d) *er hot a shray
+oys/shtey uf gegebn/geton So there's a lot of explaining to be done.
+Incidentally, I changed your _gebn a geshrey oys_ to _...a shray oys_,
+which is also fine, just to be consistent with the other stems given.
+_geshrey_ is an interesting case of a non-stem which can have the stem
+construction apply to it.
+
+Somebody who is more versed in Yiddish historical linguistics than I:
+what's the story behind the vowel shift in _shray_ --> _geshrey_?
+
+Dovid Braun
+
+______________________________________________________
+End of Mendele Vol. 4.006
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line.
+	2. Sign your article.
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+

@@ -1,0 +1,156 @@
+______________________________________________________
+Contents of Vol. 3.243
+February 23, 1994
+
+1) Introduction (Odem Vaytman)
+2) Kein bischen Risches (Yitzhak Kertesz)
+3) Speech synthesis (Arn Abramson)
+4) Vos zol m'heysen a "gay" af yidish? (Meyshe-Yankel Sweet)
+
+1)----------------------------------------------------
+Date: Mon Feb 21 18:19:18 1994
+From: Adam Whiteman <74031.775@CompuServe.COM>
+Subject: Introduction
+
+Sholem aleykhem alemen.  Do shraybt Odem Vaytman (Adam Whiteman) fun
+Nyu York. Mit tsvey vokhn karik hobn mir - tsum sof - gekeyft a
+modem nokh kimat 8 yor arbetn mit kompyuters un yidish.
+
+A bisl vegn zikh.  Ikh veyn in Nyu York mit mayn vayb Perl (Paula)
+Teitelbaum un unzere tsvey tekhter - Shifra un Leah.  Mir firn a
+yidish redndike huys un zenen activ in der Yidish Lige, Yugntruf un
+Pripetshik.  Fun fakh bin ikh a kredit analitiker far Moody's
+Investors Service mit a spetsialitet fun finansn fun aeroportn.
+Farshteyt zikh, az aeroport finantsn un idish xobn nit kin sakh
+beshutves eyner mitn tsvetyn ober .... in October hob ikh hob zikh
+getrofn mit eyne fun di directorn fun di Montrealer aeroportn, vos
+vayzt uys iz a Vilner yid!
+
+A por mentshn hobn geredt vegn di Yidishe kompyuter terminen vos
+mirn gedrukt in Yugntruf mit a por yor karik.  Ikh bin greyt
+tsuneyfzamlen yener grupe tsu arbetn af E-Mail terminen.  Zayt azey
+gut un shikt tsu di terminen vos ir vilt faryidishn un ayere
+firleygn.
+
+Vegn Dona Dona - in November bin ikh gezesn in der kretchme in der
+Delhi Oberoi Hotel in India.  Tsvishn di lider vos der pianist hot
+geshiplt - merstns fun zey nit zeyer gutgeshpilt - iz geven Dona
+Dona.
+
+Letste Nayes - Mit a tsvey vokhn karik hobn mir geleynt in Forverts
+az di tsaytung Letste Nayes halt zikh baym farmaken.  Vos iz di
+letste nayes vegn Letste Nayes?
+
+Mit dem endikt zikh mayn debyut.  Ikh kuk aruys af a fule
+interesante shmusn.
+
+Odem Vaytman
+
+2)----------------------------------------------------
+Date: Mon Feb 21 18:59:02 1994
+From: "Yitzhak Kertesz" <BM.LBH@RLG.Stanford.EDU>
+Subject: Kein bischen Risches
+
+Dr. Herzog,
+
+adjectives in Aramaic are normally in the "QAttil" form, so much so,
+that there is a yod indicating the short i (Qattiyl).
+
+TzAddik, CHAkkim, SAggiy (numerous), and many more, including
+RAshshi'a: that is resh-patach-shin (dagesh)-chirik-ayin-chataf
+patach. See: Beyer, Klaus 'Die aramaeischen Texte vom Toten Meer'
+Goettingen: Vandenhoeck & Ruprecht, 1984, p. 435.
+
+The feminine form adds -tav-kametz-aleph/hey (depending on orthogr.)
+CHakkimtah, Tzaddiktah, Rashshi'a:tah see also Levy's Talmudic
+dictionary.
+
+in Hebrew, of course, the feminine of rasha' is re:sha'ah Levy
+mentions "malkhut hare:sha'ah"
+(resh-sheva-shin-kometz-ayin-kometz-hey)
+
+2. re: Mechutantah
+
+my question is, how do you know that this is Hebrew with Aramaic
+ending, and not straight Aramaic? i.e. How else would be: mechutenet
++ -ah (def. article)
+
+On the other hand, according to Levy, the entire mechutan business
+is "spaetrabbinisch" which is his way of saying post-Talmudic, or
+medieval. Thus, I think, it can be anything.
+
+Yitzhak Kertesz
+
+3)----------------------------------------------------
+Date: Mon Feb 21 23:49:55 1994
+From: "Arthur S. Abramson" <ABRAMSON%UCONNVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: Speech synthesis
+
+To: Michael Braten
+
+The DECTALK program available for ENGLISH is possible because of
+years of research into the acoustic analysis of English speech, the
+testing of perceptual hypotheses by means of synthetic speech, and
+the development of rules for the synthesis of intelligible English
+speech. I am not aware that anyone has done this for Yiddish. One
+scientist, Dr. Asher Laufer of the Department of Hebrew Language,
+The Hebrew University of Jerusalem, is the only one I know about who
+has done extensive work on the synthesis of modern Hebrew. Perhaps
+he can tell you whether such a system is available for practical
+use. I don't have his e-mail address here at home or in my computer
+directory. I may be able to get it for you tomorrow.
+
+Arn Abramson
+
+4)----------------------------------------------------
+Date: Mon Feb 21 23:52:02 1994
+From: msweet@facstaff.wisc.edu
+Subject: Vos zol m'heysen a "gay" af yidish?
+
+It's puzzled me for quite a while that there still seems to be no
+contemporary term for gay/lesbian people in Yiddish.  The Forverts
+still uses "homoseksualist", which has the same negative (i.e.,
+medicalized, distancing) connotations as "homosexual" does in
+English.  Most languages that I know of have dealt with this problem
+either by just adopting the English word, with perhaps a twist of
+spelling (e.g., gai in French), translated it (khush in Hindi), or
+used an already existing native word for gay person (flikker in
+Dutch, schwul in German).
+
+In Yiddish "gey" is already a commonly used verb form, which
+complicates matters.  How about either a translation "a freylikher",
+or the good old (American?) Yiddish "feygele"?  Although used
+contemptuously for the most part, it could certainly be proudly
+reclaimed, like "queer"--it's a nice image, and the diminutive gives
+it an affectionate sound.  Does anyone know the etymology of this
+word, or seen it used in Yiddish literature? Anyway, appreciate
+people's comments and suggestions--if we get a consensus, we can
+submit it to the Yiddish Academy (YIVO?, Morkhe Schaekhter?).
+
+By the by, any other gay/les/bi Yidishistn out there?  Love to hear
+from any "freylikhe khaverim". Meyshe-Yankl (Michael Sweet)
+
+______________________________________________________
+End of Mendele Vol. 3.243
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Mendele: Yiddish literature and language
+

@@ -1,0 +1,200 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.160
+December 9, 1993
+
+1) Inverted word order (Reyzl Kalifowicz-Waletzky)
+
+1)----------------------------------------------------
+Date: Wed Dec  8 12:09:55 1993
+From: Roslyn Kalifowicz-Waletzky <0005943838@mcimail.com>
+Subject: Inverted word order
+
+Shleyme Axelrod described the verb argument well when he wrote:
+
+ >The issue now appears to be definitional, so why not drop it?  There is
+ >unlikely to be agreement between the two sides on exactly what is meant
+ >by "rule", "exception", "license"--perhaps even by "all", "always" and
+ >"never".
+
+        There is certainly a lot of confusion here about this issue
+and the present stalemate I think is only aggravating things for
+more than just the neophytes on Mendele.   Let's see if we could
+straighten it out before we drop it.
+
+        In the "Synopsis of Grammar" of College Yiddish on P. 330,
+Weinreich names the word order he describes in Lessons 1 and 11 as
+"normal word order".  That's the primary rule of the inflected verb
+being in second position that the Berman brothers are talking about.
+But the issue here is that there are alternate correct word order
+constructions besides questions and imperatives in Yiddish which
+Weinreich unfortunately does not make explicit in College Yiddish.
+
+        It's understandable that he avoided discussing such
+constructions in a primer on the fundamentals of Yiddish. What's
+unfortunate is that when he does present inverted word order (the
+name this feature has been given) in non-interrogative or imperative
+sentences on P.122, it is most unclear and unspecific.  Khaim keeps
+on correctly citing the consecutive word order presentation on
+p.122, and even lesson 15's samples of such correct constructions,
+but the point is not coming across because Weinreich, the Master for
+everyone today, didn't make it explicit there.
+
+        People around YIVO have always complained about problems in
+College Yiddish, and here is one of them.  First off, the problem is
+that when he discusses consecutive word order, he presents 2 cases
+simultaneously--the double independent clause sentence and the
+single clause sentence.  His only reference to sentences with the
+verb in the initial position is found in the example sentence, i.e.,
+"hob ikh gevart oyf im" but the explanatory paragraph talks only
+about the second clause in the above double-claused sentences.
+
+        Furthermore, citing 3 variations of the question "bistu
+gekumen" (which automatically has inverted word order anyway) on
+that page doesn't clarify when the question "bistu gekumen?" means
+"You came?" and when "Bistu gekumen?" means "So you came?" since
+both Yiddish sentences look exactly alike. Giving the English
+translation of inverted word order, namely, "So I waited for him."
+is not enough to understand how and why the sentences are
+constructed the way they are in the sample reading of Lesson 15.
+
+        For literal minded people, I guess Weinreich needed to have
+said clearly that here is another legitimate example of inverted
+worder order along with questions and imperatives.  My goal here is
+really not to tear down College Yiddish, which I love, but citing
+P.122 as a place where it is clearly explained doesn't really work.
+
+        The real problem in the discussion here may be that the
+nature of colloquial and narrative speech are not understood.
+These have their own features and markings.   These markings are not
+incorrect or ungrammatical or even manifestations of poetic license,
+away from "regulations".  They are different, not better or worse,
+from normal word order and they serve important functions for a
+variety of narrative and rhetorical strategies. That is, they have
+their own grammar just as questions and imperatives do and that
+grammar is part of the whole picture of Yiddish syntax.
+
+        Sentences with the verb in initial position is one of the
+prominent features of colloquial and narrative speech.  Der
+poshetster folksmenmentsh uses it thousands of times every day.  If
+you call it "an exemption from grammatical rules", then you don't
+understand it, native speaker or not. Native speakers don't have to
+understand it. They just have to produce it. And the ability to
+produce it requires what Weinreich could not teach in College
+Yiddish, and that is intonation.
+
+        As long as he kept to discussions of normal word order,
+intonation can be fudged along. The teacher in class easily provides
+the examples. When it came to questions, Weinreich later wrote an
+article about the the rise-fall intonation feature of Yiddish
+questions, but avoided discussing the issue in that chapter I think
+because he could not yet render or demonstate it in a textbook.
+That's what he left for the teacher and the street where Yiddish
+intonation patterns abounded in the late 1940s.  Imperative
+intonation is similar to English's. So that's an easy one. But the
+intonation of inverted word order is the other ingredient in these
+constructions and impossible to explain in a textbook then.
+
+        What throws the Bermans is the fact that the sample
+sentences here and other texts are being read and and not heard.
+Intonation is what carries it and what renders the preceding
+sentence as a modifier of the verb in such sentences we are talking
+about-- what lets it make sense.   The role of intonation is even
+clearer when we find a group of such verb-first sentences in the
+middle of a narrative.  As Khaim quoted Yudl Mark, "Keynmol shtelt
+men nit stam azoy dem beygevdikn teyl fun verb oyfn same ershtn ort.
+Faran in dem shtendik a gevise kavone ...Reyshis-kol trefn mir es --
+bay a lebendikn dertseyln ..."
+
+        You need the live narrator because (s)he will provide the
+music/ intonation part of the structure of that narrative.  Why the
+Bermans are "tuning out" the music native speakers have in their
+head when they see such sentences within their appropriate context,
+eyn got veyst.
+
+                If the Bermans think that these constructions are
+only literary, then how about certain forms of the conditional?
+Weinreich speaks only of regular word order construction in his
+discussion of the conditional. But how about this everyday
+conversation,
+
+  Mame:  Moyshe, Dovid vil geyn in te'ater un ikh hob nisht keyn gelt.
+  Tate:  Vil er geyn, zol er aleyn batsoln.
+
+        Ain't nothin' literary about this conversation.  When you
+look at the sentence "Hobn es di tsvey brider gekoyft." out of
+context, your conclusion should be that this is a sentence from a
+story, from a narrative, either someone is telling of some actual
+event or telling a story.  Just because it has been cited in a book
+doesn't make it only literary.  S'iz dokh a folksmayse!!!   That
+story begins with "A mol is geven..."  An oral telling that's been
+written down.
+
+        As for the claim that "to" (tes komets aleph), is implied in
+such sentences.  That is not correct despite the fact that "to" is
+also translated in Enlish as "so".  What is implied in inverted word
+order construction is the word "iz".  Quite often you will hear a
+speaker insert this word at the beginning of such sentences and
+sometimes not.  But "iz" is what is always implied.
+
+        As for asking native speakers directly about their speech,
+Ellen's and Bob's postings remind me of a great story I'll share
+with everyone.  At some gathering of linguists for the discussion on
+the standardization of Yiddish and the issue of the choice
+pronounciations of the word "ikh", someone turned around to the
+great linguist and Galitsyaner Birnbaum and said to him, "But you
+use "yakh?"  Birnbaum, with mouth agape, in a room with so many
+Litvaks, fiercely protested, "Yakh zug yakh? Yakh zug nisht yakh."
+My point is you can't directly ask even a great linguist about his
+own speech, shoyn opgeret fun a folksmentsh.
+
+        Weinreich didn't have time to show all the syntactic
+possibilities available to "dem lebedikn dertsyeler", but just
+because he didn't get to it in his prolific but short 41 years
+doesn't mean it doesn't exist.  Even Mordkhe Schaechter didn't get
+to write about inverted word order in his "Yiddish Tsvey".
+
+        For those not willing to try reading the Yiddish scholarly
+writings on this issue cited by Khaim, an excellent English language
+analysis of this is available in the article by Josh Waletzky called
+"Topicalization in Yiddish" in "The Field Of Yiddish", Vol.4.  I
+should note that one of Josh's many informants for what was then a
+senior thesis at Harvard was Abe Igelfeld, then down the road at
+M.I.T.  My husband long ago left linguistics for film directing so
+this is no plug for his career.  I wish I could get him to come on
+here himself.  He says that the prime source for material on this
+issue is Zaretsky's writings (available at YIVO).
+
+        Jason and Hal Berman: We have some printouts from the
+"Topicalization" article. I'll be happy to send you a copy if you
+e-mail me your snail-mail address.
+
+Reyzl Kalifowicz-Waletzky
+
+______________________________________________________
+End of Mendele Vol. 3.159
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+
+
+
+
+

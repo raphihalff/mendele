@@ -1,0 +1,88 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 50
+July 25, 1991
+
+1) Yidtype (Raphael Finkel) 
+2) Fayvish (Noyekh Miller)
+3) Isaac Bashevis (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Wed, 24 Jul 1991 18:04 EDT
+From: BERK@ZODIAC.BITNET
+Subject: RE: Vol 1.45 Yiddish type
+ 
+>/* yidtype.c  --  A program which generates ASCII
+based Yiddish text.  */  
+
+would some tayere neshome explain what one is to do
+with (or about) this program listing for yiddish type
+(yidtype.c) contained in vol 1.45? a dank. borok
+
+2)----------------------------------------------------
+Date: Wed, 24 Jul 1991
+From: Noyekh Miller
+Subject: Fayvish
+
+[As shames of these pages, I'm disappointed at the
+seeming lack of interest in Mikhl Herzog's question:
+what well-known English word is derived from borekhAbe? 
+This will not do, my friends: lovers of the language as
+I know you to be--and mayvinim to boot--there should
+have been a flood of answers. Nu, meyle, maybe you were
+all on vacation.  So the game is still open.]
+
+Ot dos iz di kashe mayne:
+
+Fayvish.  First of all, following Harkavy and Even-
+Shoshan,  I assume that it and Faybush (as well as
+Fayvel) are  the same.  I've also always assumed that
+the name is derived from Phoebus Apollo.  In fact I've 
+used it for years as an example of how difficult it is
+for people of one period (even when they "share" the
+"same" "tradition"--all such words being suspect) to
+sort out what went on in another... Ober nisht dos bin
+ikh oysn.
+
+Comes Max Weinreich and, completely ignoring this
+etymology, asserts that the name is from the Latin
+Vivus and is therefore a relexification of Chaim.  
+
+Now this may have the unintended effect of making
+Fayvish more acceptable among those who are put off by
+a Jew named for a Greek god.  Ober epes klingt es
+nisht, it doesn't ring true, because all the Fayvishes
+I've known (2) and the Americam Philips (a half-dozen
+at least) get themselves called to the Torah by the
+singular 'Jewish' name of Shrage; and Shrage as Even-
+Shoshan and every other authority will tell you is the
+Aramaic for light.  Not a Chaim in a carload.  But
+Weinreich, who surely knew this, pays no attention. 
+Instead, in a brief note, he agrees that Shrage means
+light but claims that it's an Aramaic relexification
+for Uri (my light).  In brief, while everyone  else
+says Fayvish=Phoebus=Shrage, Weinreich says Fayvish=
+Vivus=Chaim and Shrage=Uri.
+
+Now I was brought up in the shadow of another Max
+(Weber) and just  as I can't imagine criticizing him
+lightly I'm leery of saying a krum vort about the other
+M.W.  
+
+So who will solve this retenish?
+
+Noyekh
+
+3)----------------------------------------------------
+Date: Wed, 24 Jul 1991
+From: Noyekh Miller
+Subject: Isaac Bashevis
+
+Isaac Bashevis is dead.  When Sholem Aleichem died in
+1916 the grief was for a friend.  Singer was not so
+much a friend (he knew too many of our secrets for
+that) as, together with Chaim Grade, our last link. 
+We've always lived in the past and now we are the past. 
+               
+______________________________________________________
+End of Mendele Vol 1.50

@@ -1,0 +1,147 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.301
+March 25, 1994
+
+              A gutn zisn freylikhn yontef aykh alle!
+
+                       Noyekh Shames
+
+1) Periphrastic verbs (Yonah Moshe Lakin)
+2) Shlekhte gramatik (Moyshe-Zekharye Beker)
+3) Vayter migldik (Arre Komar)
+4) Salte noces (Dan Leeson)
+5) Sarg/sargenes, [z]/[s] (Molly Diesing)
+
+1)----------------------------------------------------
+Date: Thu Mar 24 15:11:03 1994
+From: <J4NB@MUSICB.MCGILL.CA>
+Subject: Periphrastic verbs
+
+To answer your question Jeremy, from what I have learned from my Yiddish
+course I am taking now, ich bin zich moyde would seem to be the correct
+answer.  Our teachers explains this as such: When conjugating verbs, any
+"attachments", whether it be the reflexive zich, pronouns or the such,
+they should follow the active verb in the sentence.  Thus in this case
+the active verb is bin and so the zich should follow the bin.  So if my
+logic is right, if you put the same sentence into the past tense you
+should have the following: ich bin zich geven moyde.
+
+Yonah Moshe Lakin
+
+P.S. I may be wrong.
+
+2)----------------------------------------------------
+Date: Thu Mar 24 15:41:05 1994
+From: <BM.YIB@RLG.Stanford.EDU>
+Subject: Shlekhte gramatik
+
+Shraybndik af english, halt ikh zikh far a shtikl medakdek.  Deriber kent
+ir zikh forshteln af vifl ikh shem zikh derfar vos in mayn letstn onzog
+hob ikh gehat a groysn toes mit mayn mutershprakh. Geshribn hob ikh azoy:
+"... those MENDELnikes who, like I, are passionately attached to this
+nation's fourth largest city," ober farshteyt zikh az rikhtik darf men
+shraybn oder "like me" oder "as I am."  Ikh bet bay ale mekhile un
+kh'vintsh aykh alemen a zisn peysakh.  (Nu, un vos shaykh mayn yidish bet
+ikh bemeyle mekhile.)
+
+Moyshe-Zekharye Beker, o.b.v [oykh bakant vi] Zachary Baker
+
+3)----------------------------------------------------
+Date: Thu Mar 24 16:12:33 1994
+From: <komar@yu1.yu.edu>
+Subject: Vayter migldik
+
+Meylekh asks for documentation on the use of migldik in written and or
+sopken Yiddish, implying  that such documentation would settle the issue
+under dispute between the usage of migldik vs. the usage of ekldik. But
+it seems to me that he is missing the point or origen of the discussion.
+I don't believed that anyone asserted that migldik could not be regarded
+as a Yiddish word. The point was that it was very rare, in fact not even
+listed as such in Harkavy. the common, proper Yiddish word was ekldik.
+Someone then complaind that ekldik should be regard as a daytchmerism and
+that migldik was preferable. It was at that point that the obscurity of
+migldik was pointed out.
+
+In fact I find that that has frequently been the pattern of the
+discussions with those who are militantly opposed to perceived
+daytchmerisms.  Someone writes in to Menedle using proper Yiddish and a
+militant rushes in to say that it is incorrect, me tor nisht! One should
+rather use some obscure slavic or hebrew or italian synonym. When its
+obscurity is pointed out, and the standard nature of the original version
+is emphsized, the reply invariably is that the variant is not as obscure
+as all that so why should there be an argument.  Why indeed?
+
+Arre Komar
+
+4)----------------------------------------------------
+Date: Mar 24 16:19:57 1994
+From: leeson@cedar.fhda.edu
+Subject: Salte noces
+
+I am probably going to open mouth and insert foot, but judging from a
+conversation already in progress when I joined it, it seemed to me that
+someone was trying to find out what salte noces are.
+
+They are cheese kreplach.
+
+Now if the discussion was about the derivation of the words from
+middle-Indo-Serbo-Crotation, I apologize for misunderstanding what the
+discussion was about.  However, if I am right, I have a recipe for them
+in a Jewish cookbook that refers to them by that name.
+
+Am I in trouble?
+
+Dan Leeson
+
+5)----------------------------------------------------
+Date: Thu Mar 24 16:46:04 1994
+From: Molly Diesing <md20@cornell.edu>
+Subject: Sarg/sargenes, [z]/[s]
+
+Mikhl Herzog writes in response to Marnen Laibow-Koser:
+
+> The connection of German "Sarg" to Yiddish "sargenes" is only a visual
+> one. The word-initial German sibilant is [z], spelled "s". Yiddish has
+> both [z] and [s] in word-initial position BUT, with the exception of
+> "say" (as in "say vi say" and "saydn" 'unless', ONLY initial [z] occurs
+> in words of German origin. Ergo, Yiddish words with initial [s] cannot be
+> of German origin, however much they might appear to be. For example, try
+> your hand at Yiddish "soldAt" 'soldier' and "samet" 'velvet'.
+
+The [z] pronounciation of word-initial "s" in German holds for most of
+the northern dialects, but in many southern dialects (such as spoken in
+Bavaria and Austria) word-initial "s" is in fact generally pronounced
+[s]. "Sarg" would be pronounced with an [s] in these dialects, so the
+connection may not be merely visual. The Austrian dialects in particular
+share other phonological features with Yiddish, such as unaspirated
+[p,t,k] in positions where they would be aspirated in the northern
+dialects of German.
+
+Molly Diesing
+
+______________________________________________________
+End of Mendele Vol. 3.301
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net

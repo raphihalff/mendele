@@ -1,0 +1,150 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.168
+December 27, 1996
+
+1) Slavic influence on Yiddish syntax (Joachim Neugroschel)
+2) Slavic influence on Yiddish syntax (Meyer-leyb Wolf)
+3) Slavic influence on Yiddish syntax (Joachim Neugroschel)
+4) From Yiddish to other languages (Bob Werman)
+5) Yiddish in colleges (Miki Safadi)
+
+1)----------------------------------------------------
+Date: Thu, 26 Dec 1996 12:25:11 -0500 (EST)
+From: achim1@cris.com
+Subject: Slavic influence on Yiddish syntax
+
+Re:  Ellen Prince's suggestion (6.165) that Slavic usage may have
+affected the tenses in indirect Yiddish speech, i.e. "Er hot mir gezogt
+az er iz krank":
+
+Actually, that usage must have originated in German, which still
+practices it today (like Yiddish and the Slavic tongues).  The sole
+difference is that in German you have two choices:
+
+the more bookish subjunctive:  "Er hat mir gezagt, dass er krank _sei_"
+or:  "Er hat mir gesagt, er sei krank.
+
+the more colloquial:  "Er hat mir gesagt, dass er krank ist."
+
+The rule in German is the same as in Yiddish, most Slavic languages, and
+some medieval English:  the tense of indirect discourse is the same as
+that of direct discourse (except that, as I've said, literary German
+puts the tensed verb in the subjunctive.
+
+The modern English practice is the same as that of the Romance
+languages, and I suspect that it may have been taken over from French:
+"He said he _was_ sick" = "Il a dit qu'il _etait_ (past imperfect)
+malade".
+
+Yiddish has far, far fewer tenses than German and certainly than English
+or Romance, so it has to husband them very carefully.
+
+Joachim Neugroschel
+
+2)----------------------------------------------------
+Date: Thu, 26 Dec 1996 13:22:08 -0500 (EST)
+From: wolfim@chelsea.ios.com
+Subject: Slavic influences on Yiddish syntax
+
+The use of zikh for first and second persons as well as third is not
+universal in Eastern Yiddish -- many native Yiddish speakers use the
+accusative and dative forms of the personal pronouns, e.g. "Ikh vash
+mikh". So if Slavic influence is at work here, how come it affects some
+speakers but not others? Moreover, while the universal zikh users are
+quite happy with 'er hot zikh gekoyft a hoyz', Polish has 'kupil sobie
+dom' = er hot im gekoyft a hoyz -- so even in the third person "Slavic"
+doesnt always provide a model for undifferentiated zikh.
+
+It strikes me that the appeal to Slavic influence in the case of zikh
+raises more questions than it answers.
+
+Meyer-leyb Wolf
+
+3)----------------------------------------------------
+Date: Thu, 26 Dec 1996 18:32:02 -0500 (EST)
+From: achim1@cris.com
+Subject: Slavic influence on Yiddish syntax
+
+In regard to the issue of Slavic influence on Yiddish, there's one
+area in which Slavic affected Yiddish by _reenforcing_ the latter's
+syntax rather than altering it--specifically, the second position of the
+verb.
+
+Both Yiddish and German tend to put the verb in second place
+within a main clause.  But when asking a question without an interrogative
+word, the two languages go their separate ways:
+
+German:  "Sprichst Du russich?" (= "Do you speak Russian?") The tensed
+verb is in_first_ place.
+
+Yiddish: "Tsi redtste rusish?" The tensed verb is in _second_ place
+because Yiddish requires the word "tsi" at the start of such a a
+yes-or-no question.
+
+Tsi, however, is part of the Slavic component, cognate with "czy" in
+Polish and parallel with "li" in Russian:  "Li govorish po-rusky?
+
+(In German you can ease the abruptness of the question by adding an
+non-translatable adverb like "etwa" or "denn" or even "eigentlich" after
+the pronoun:
+
+"Sprichst Du denn russisch/Sprichst Du eigentlich russisch?" But the
+verb remains in first place.
+
+I find it mesmerizingly bizarre that a Slavic borrowing actually helped
+Yiddish _maintain_ its syntactic character.
+
+A connected issue is the inflection of a question: In an English
+question, the voice always goes up:  "Where are you going?" but in
+German the voice rises only if there is no interrogative word:
+
+"Wohin gehst Du?"  The voice goes down on the last word, but "Sprichst
+Du denn russisch?"  The voice does up.
+
+In Yiddish, the voice seems to go up at the end of every question, but I
+wonder if there are regional differences. Can any natural speaker tell
+me if any question in any Yiddish dialect has a downward inflection?
+
+Joachim Neugroschel
+
+4)----------------------------------------------------
+Date: Thu, 26 Dec 96 12:08 +0200
+From: rwerman@vms.huji.ac.il
+Subject: From Yiddish to other languages
+
+Not only do the missionaries work by translating their texts into
+Yiddish, but they have also bothered, in times past, to translate
+Yiddish texts, mostly into Latin, in order to better understand the
+beliefs of the poor benighted Jews.
+
+Golda Werman, my wife these many years, writes about this phenomenon in
+two chapters of her book _Milton and Midrash_, 1995 [I dare not give
+more details.  Otherwise this posting will be rightly placed in one of
+the Notices issues]. She deals with the 17th century translation of the
+_Tsena Rena_ into Latin at length and other works more briefly.
+
+Bob Werman
+
+5)----------------------------------------------------
+Date: Thu, 26 Dec 1996 12:56:51 -0700
+From: msafadi@ucla.edu
+Subject: Yiddish in colleges
+
+Stanley Werbow (Mendele Vol 6.163) bet a reshime fun kolejn un
+universitetn vos lernen Yiddish. Mir vos entfern him muzn zayn
+forzikhtik mit der informatsie.  L'moshl, me zogt az in UCLA s'iz doh a
+program in Yiddish (durkh dem opteyl fun germanishe shprakhn un
+literatur).  Ober merstns, me leynt ibergezetzte literatur un diskutirt
+es af english. Far a yor iz dokh geven a kors in Yiddish loshn, ober nor
+far unheybers, un ikh hob gehert, az es vet nit zayn keyn kontinuitet.
+Ba mir, heyst dos nisht keyn program in Yiddish.  Fun der ander zayt, in
+University of Judaism (Los Angeles) iz dokh an emeser program in Yiddish
+loshn vos iz mamshikh yor nokh yor.
+
+Miki Safadi
+
+______________________________________________________
+End of Mendele Vol. 6.168
+

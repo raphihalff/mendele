@@ -1,0 +1,161 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.182
+December 4, 1995
+
+1) Hebrew terms in Yiddish (Shleyme Axelrod)
+2) Hebrew terms in Yiddish (Henry Srebrnik)
+3) Library of Congress romanization of Yiddish (Zachary Baker)
+4) A vort vegn dorem-afrikanish (Joseph Sherman)
+5) Judeo-German vs. Yiddish (Leonard Mathless)
+
+1)----------------------------------------------------
+Date: Mon, 04 Dec 1995 10:47:57 -0500 (EST)
+From: ptyaxel@ubvms.cc.buffalo.edu
+Subject: Hebrew terms in Yiddish
+
+Morrie Feller (5.180) asks about lists of Hebraisms in Yiddish.  Two
+readily available collections are
+
+1.  Steven A. Jacobson (a Mendelyaner),  "A guide to the more common
+Hebraic words in Yiddish", 3rd ed., 1994.  This book lists alphabetically
+according to their traditional spelling about 2000 hebraisms, together
+with their phonetic Yiddish respellings (following the YIVO orthography)
+and their English glosses.  A second section lists the same expressions
+alphabetized by the phonetic respelling, together with the traditional
+spelling and the glosses. Available from Steven Jacobson, P.O. Box 82849,
+Fairbanks Alaska 99708.
+
+2.  Nakhman Krupin,  "Hantbukh fun hebreizmen in der yidisher shprakh",
+1957. This book lists hebraisms and their phonetic respellings (no
+English).  There is also a brief section on words having hebraic roots
+and non-hebraic prefixes or suffixes (e.g., _shadkhn, shadkhnte,
+shadkhenen zikh..._), and finally examples of the use of hebraisms by _di
+klasiker_ and others.  Available from the Jewish Book Center of the
+Workmen's Circle, 45 East 33 St, New York NY 10016.
+
+My own early Yiddish education gave short shrift to
+_loshn-koydesh_-derived lexicon, and I've found both the Jacobson and the
+Krupin quite useful in playing catch-up.
+
+Shleyme Axelrod
+Buffalo, New York
+
+2)----------------------------------------------------
+Date: Sun, 03 Dec 1995 15:15:49 -0400 (AST)
+From: hsrebrnik@upei.ca
+Subject: Hebrew terms in Yiddish
+
+Morrie Feller asks for a reference to a book listing Hebrew words used in
+Yiddish. The _Verterbichel fun hebrayishe-yidishe verter_, by Yacov Levin
+(New York: Cyco Froyen Central, 1958) is one such book.
+
+Henry Srebrnik
+
+3)----------------------------------------------------
+Date: Sun, 3 Dec 95 16:52:53 PST
+from: bm.yib@rlg.stanford.edu
+Subject: Library of Congress romanization of Yiddish
+
+In remarking upon the variant spellings of Shmuel Rozhanski's (Samuel
+Rollansky's) name that he has encountered in library catalogs -- Shmuel
+Rozshanski and Shemu'el Rozshanski -- Ron Robboy [in 5.181] has stumbled
+across two Library of Congress practices that are at variance with
+standard ("YIVO") romanization.  The first has to do with the
+romanization of the letter combination zayin+shin.  YIVO romanization
+transcribes it "zh," while the Library of Congress approaches it from the
+standpoint of transliteration (letter-by-letter) and the resulting
+romanization is "zsh."
+
+That at least is understandable and on a certain level defensible. But
+what is absolutely indefensible is the Library of Congress's insistence
+that Yiddish names of Hebrew origin be romanized as if they were modern
+Israeli names.  "Shmuel" is a form that has been superseded by
+"Shemu'el"; many more examples could be cited, including some egregious
+howlers.  The Library of Congress has codified this practice in its
+"Hebraica Cataloging" manual, and librarians that produce cataloging in
+an online environment are obligated to follow this rule, which was
+unsuccessfully contested in 1985 (a year before the publication of
+"Hebraica Cataloging") by the Association of Jewish Libraries' Cataloging
+Committee.  The same committee, at my request, has submitted a memo to
+the Library of Congress, urging that this policy be reconsidered.
+
+Library of Congress romanization practices for other Yiddish words of
+Hebrew/Aramaic origin conform more closely to standard practices (with
+some variation), e.g., "emes" and not "emet."
+
+If you feel strongly about this issue, you may (if a U.S. resident) write
+your Member of Congress -- although I doubt that he or she will be much
+exercised by it.
+
+Zachary Baker
+
+4)----------------------------------------------------
+Date: Mon, 4 Dec 1995 09:23:16 GMT + 2:00
+From: 071jos@muse.arts.wits.ac.za
+Subject: A vort vegn dorem-afrikanish
+
+I should like to thank Ron Robboy very much for having called attention
+[5.181] to the late Shmuel Rozhansky's important volume on
+_Dorem-Afrikanish_ in his invaluable Musterverk  series. I am, of course,
+intimately familiar with that volume, and fully agree that it makes a
+magnificent contribution towards putting South African Yiddish literature
+in its proper literary perspective. What I should have made clear, and
+actually meant to say, in my tribute to the memory of the late Professor
+Liptzin, is that his work on our Yiddish literature was the most
+important to date in _English_. Hence I take this opportunity to reply to
+Ron Robboy through the open columns of Mendele, rather then privately,
+lest, kholile, Mendelyaner should take me for an amerats in regard to my
+own country's Yiddish heritage, khas vesholem!
+
+What may be of further interest to Mendelyaner is the fact that the
+entire Musterverk series was funded by Joseph Lifshitz through the the
+fund he specifically established for this purpose. His name and
+sponsorship is acknowledegd throughout the series. The importance of this
+fact for us in South Africa is that the late Joseph Lifshitz was a
+wealthy South African diamond dealer, passionately devoted to Yiddish
+litearture and culture. It is therefore a great source of pride to the
+few of us Yiddish scholars left here that South Africa was once a
+significant force in both the the production and promotion of Yiddish
+culture. Our Yiddish monthly (later quarterly) Yiddish journal _Dorem
+Afrike_ ran uninterruptedly from 1948 to 1993, and attracted
+contributions from Yiddish writers all over the world. Complete sets of
+this journal -- now regrettably very rare -- are much sought after by
+libraries in the United States.
+
+My own resaerch in South African Yiddish literature has to date resulted
+in two volumes of translations into English, with critical introductions
+and notes, published here in South Africa. I regard my work as just
+beginning. Hence the importance to me of the work of the late Professor
+Liptzin and the late Shmuel Rozhansky, z"l.
+
+I am grateful indeed for the opportunity, offered by Ron Robboy's
+thoughtful response, for me to keep South African literature at least on
+the fringes on the literary consciousness of the wider world of Yiddish
+scholarship.
+
+Joseph Sherman
+
+5)----------------------------------------------------
+Date: Mon, 4 Dec 95 08:00:55 PST
+From: bm.ynh@rlg.stanford.edu
+Subject: Judeo-German vs. Yiddish
+
+Being a subscriber for somewhat over a year, I have not seen a dis-
+cussion on Mendele of this subject [cf. 5.178] except for a mention in a
+posting of last week. My interest in having this issued aired stems from
+both scholarly and professional concerns.  Apropos of the latter, the
+Library of Congress does not recognize Judeo-German as an independent
+entity but refers from it to Yiddish. Does this mean that Moses
+Mendlessohn's famous "Be'ur" is written in Yiddish and not German that
+has been transliterated into Hebrew letters? I would like to know if
+there are clear lines of demarcation between the two and what are the the
+linguistic issues involved.  Would a full-scale discussion of these
+issues on Mendele be appreciated by other subscribers?
+
+Leonard Mathless
+
+______________________________________________________
+End of Mendele Vol. 5.182
+

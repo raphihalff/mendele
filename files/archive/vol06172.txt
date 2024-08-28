@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.172
+December 29, 1996
+
+1) Slavic influence on Yiddish syntax (Bob Rothstein)
+2) Slavic influence on Yiddish syntax (Ellen Prince)
+3) Question intonation (Arn Abramson)
+
+1)----------------------------------------------------
+Date: Sat, 28 Dec 1996 00:02:14 -0500 (EST)
+From: rar@slavic.umass.edu
+Subject: Slavic influence on Yiddish syntax (non-technical)
+
+Those Mendelyaner who chose not to follow the linguistic discussion
+about Slavic and Yiddish syntax missed (at least) two important general
+points made by Ellen Prince and others.  The first is that not every
+phenomenon that is present in Yiddish and Slavic, but not in German, is
+necessarily due to Slavic influence.  Before jumping to conclusions one
+needs to look at older Yiddish (before massive contact with Slavic) and
+also at the developments in other Germanic languages and dialects.
+
+The second point is that outside influences (e.g., of Slavic on Yiddish)
+may come in the form of encouraging developments that were already
+inherent in the influenced language.  This seems to be at least part of
+the story of the development of verbal pre- fixation in Yiddish. (For
+some more details, see my "Yiddish Aspectology," a review article
+occasioned by the 1986 publication of Mordkhe Schaechter's
+groundbreaking 1951 dissertation, _Aktionen im Jiddischen_, in _Studies
+in Yiddish Linguistics_, ed. Paul Wexler [Tubingen, 1990].)
+
+P.S. On "Slavic" vs. "Slavonic":  The former is the preferred version in
+the United States; the latter, in the United Kingdom and, I believe, in
+Canada.  Thus the _Slavic and East European Journal_ is published in the
+US, while the _Slavonic and East European Review_ appears in England,
+and the origin of _Canadian Slavonic Papers_ should be obvious.  One odd
+subregularity:  the earliest written Slavic is referred to as "Old
+Church Slavonic" by Harvard-trained Slavists (and their students, and
+their students' students) but as "Old Church Slavic" by Yale-trained
+Slavists (and their students, and their students' students).
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: Sat, 28 Dec 1996 15:16:25 EST
+From: ellen@central.cis.upenn.edu
+Subject: Slavic influence on Yiddish syntax
+
+thanks to joachim neugroschel for correcting my error that german was
+like english with respect to 'sequence of tenses' -- _very_ interesting
+to me to learn that it is not!  question to joachim or other german
+speakers: how would you say the following in german?:
+
+	when i was a child, i always knew when i was going to get sick.
+	i thought you wouldn't come back. (but you came back!)
+
+also, what do you think of this line from remarque's _all quiet on the
+western front_ in the original german and in (singer's) yiddish
+translation? my german isn't even good enough to be called 'terrible' ;)
+but it looks as tho the german has a past tense where yiddish has the
+present tense, no? does this sound stilted in the spoken language?
+
+	'wir mussten erkennen, dass unser alter ehrlicher WAR als
+	das ihre...' (impropylaeen-verlag, berlin, 1929, p. 18)
+
+	'mir hobn gemuzt aynzen, az in undzer elter IZ men erlekher,
+	vi in zeyern.' (kleckin, warsaw, 1929, p. 23)
+
+	'we had to recognize that our generation WAS more to be
+	trusted than theirs.' (little brown & co, boston, 1929, p.10)
+
+re joachim's point about the verb-second constraint in the
+interrogative, several comments are in order. first, i believe that both
+german and yiddish have a 'verb-first' order in the interrogative -- the
+verb-second constraint is strictly for declaratives. second, the
+position of _tsi_ 'if/whether' in yiddish is generally construed as the
+same position as the other question words, e.g. _ver_ 'who', _vos_
+'what', etc, a position that is outside the clause proper and that
+doesn't count as 'initial field'. (in modern syntax, it's called the
+'complementizer' position.) e.g.:
+
+	tsi redt er rusish? 'does he speak russian?'
+	ver redt rusish? 'who speaks russian?'
+	farvos redt er rusish?... 'why is he speaking russian?'
+
+the 'out of the clause' position is more easily observable if we look at
+indirect questions, which are declaratives and which (in yiddish) obey
+the verb-second constraint:
+
+     ikh veys nit tsi er redt rusish. 'i don't know if/who/why...'
+     	          ver es redt rusish.
+		  farvos er redt rusish.
+
+     ikh veys nit tsi dort redt er rusish. 'i don't know if/who/why...there'
+		  ver dort redt rusish.
+		  farvos dort redt er rusish.
+
+(this is more or less the same position that other 'complementizers'
+occupy, e.g. ikh hof AZ er vet kumen 'i hope he comes', ...KEDEY er zol
+kenen zen '...so that he can see', dos bukh VOS ikh leyen 'the book i'm
+reading', a simen AZ ikh bin a nar 'a sign that i'm a fool'.)
+
+so again i think the only influence of slavic here is lexical -- yiddish
+borrowed the polish yes/no question word _tsi_ -- but it fit it in to
+its germanic syntax.
+
+re reflexives, i'm grateful to meyer-leyb wolf for pointing out that
+polish doesn't use a reflexive for _er hot zikh gekoyft a hoyz_ --
+_kupil sobie dom_. wow, _sobie_ sure _looks_ reflexive to me -- but what
+do i know? (do you or does anyone know what IS the 3rd pers singular
+reflexive form in polish? it's really unusual for a language to have
+_any_ reflexive forms and not use them for the 3rd person, which is why
+i'm particularly interested.)
+
+ellen prince
+
+3)----------------------------------------------------
+Date: Sat, 28 Dec 1996 17:52:53 -0400
+From: abramson@uconnvm.uconn.edu
+Subject: Question intonation
+
+The several participants in the discussion over the possible Slavic
+influence on Yiddish syntax have been very interesting and informative.
+With all respect to Joachim Neugroschel's prowess as a translator, I am
+puzzled by his statements on intonation [6.168].
+
+He says, "A connected issue is the inflection of a question: In an
+English question, the voice always goes up; 'Where are you going?' but
+in German the voice rises only if there is no interrogative word."
+Actually, we have statistical data on the matter for spoken English
+which indicate that the situation is similar to what he describes for
+German. Questions like "Where are you going?" and "What is he doing?"
+are likely to have a falling intonation at the end unless certain
+special affects are being conveyed. For example, "What is he doing" at a
+higher voice register with a rise in pitch at the end may indicate that
+the speaker didn't quite hear what had just been said.
+
+Without an interrogative word, e.g., "You're coming?," a sentence can be
+said with a rising pitch to show that it is not a statement.
+Superficially, one might say that it is a question, but, if so, it is a
+question conveying surprise or skepticism or the like. Of course, if it
+is worded "Are you coming?," an ordinary downward pitch movement, as for
+a statement, is quite normal; nevertheless, here too one can use a
+rising inflection, perhaps coupled with an overall higher voice
+register, to signal various attitudes of the speaker.
+
+Joachim also says about Yiddish, "In Yiddish, the voice seems to go up
+at the end of every question, but I wonder if there are regional
+differences." I must say that my own experience with a scattering of
+native speakers does not support his assertion. That is, except for the
+detailed shapes of the intonation contours, the "rules" may be be rather
+similar to the ones I have outlined for English. I hasten to add that
+his question about regional dialects is reasonabale and relevant, as it
+is for any language. Indeed, it is easy  to observe intonational
+differences between American and British English.
+
+Perhaps Mikhl Herzog's data base contains information on varieities of
+intonation contours over the territory of Yiddish.
+
+Arn Abramson
+
+______________________________________________________
+End of Mendele Vol. 6.172
+

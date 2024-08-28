@@ -1,0 +1,134 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 144
+January 23, 1992
+ 
+1) Visn/kenen and eyn hore (Ellen Prince)
+2) Yiddish text (Raphael Finkel)
+3) Bar and bal (Melekh Viswanath)
+4) Various (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: Wed, 22 Jan 92 10:50:07 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.143
+
+>From: gensym!mhd@harvard.harvard.edu
+>Subject: visn v. kenen  &  lebm v. voinen
+>
+>I've been noticing in talking to people who came in the
+>last few years from the former USSR to Boston that they
+>"confuse" visn (to know a fact) and kenen (to know, as in
+>to be aquainted with, and also to know a language).  The
+>same thing happens with lebm (to live, as in to be alive)
+>and voinen (to live, as in to dwell).
+
+if i remember correctly, know (someone) and know (that...)
+have the same stem in russian, whereas know (a language)
+has a different stem. so russian cuts it up differently
+from yiddish, a plausible cause for confusion in
+bilinguals. similarly, live/voynen and live/lebn have the
+same stem in russian, as i recall.
+
+>From: Raphael Finkel <raphael@ms.uky.edu>
+>Subject: eyn hore?
+>
+>A vilde batref:  "keyn eyn hore" hot nit keyn "nit" vayl
+>"eyn" hert zikh oys vi "eyn" vos meynt aleyn "nit" of
+>loshn-koydesh.  Gramatish iz dos nit, ober efshr?
+
+except that the 'eyn' here is from hebrew ayin 'eye'.
+nice try.
+
+2)----------------------------------------------------
+Date: Tue, 21 Jan 92 19:19:28 GMT
+From: Raphael Finkel <raphael@ms.uky.edu>
+Subject: Yiddish text
+
+I have a working, pretty good version of a package that
+allows you to type a file of Yiddish in
+Yivo-transliteration and get a TeX output file (a .dvi
+file) that can be converted to postscript (and I assume to
+other things) and print.  It can also be used for Hebrew
+(with all vowels), although that is not its intent.
+
+This package uses the hclassic font developed by Joel M.
+Hoffman and the ivd2dvi program that comes with recent TeX
+distributions.  I can make the whole thing (including font
+and ivd2dvi, which I had to modify) available for anyone
+who wants.  It runs on Unix.
+
+I don't read this newsgroup, so I will not see replies sent
+to the group.  I can be reached at raphael@ms.uky.edu or
+raphael@ukma.bitnet.
+
+If there is enough demand, I will make a public ftp file on
+s.ms.uky.edu
+called
+pub/unix/yiddishtex.tar.Z
+
+3)----------------------------------------------------
+Date: Wed, 22 Jan 1992 14:21 EDT
+From: VISWANATH@DRACO.BITNET
+Subject: RE: Mendele Vol 1.142
+
+first of all, I would like to express my appreciation to
+Moishe-Nussen. Although I am unused to his transliteration,
+it does have the benefit of somehow bringing the scene
+alive in my mind!
+
+Second, vus meynt noyekh?
+
+What would you suggest as an appropriate methodology for
+coining new yiddish words?  re bal shmoys and bal oyfes,
+they sound more like somebody with a lot of names and a
+birdkeeper respectively.  Are not bar and bal restricted in
+how they may be used to coin new words? melekh
+
+4)----------------------------------------------------
+Date: Wed, 22 Jan 1992
+From: nmiller@trincc
+Subject: Various
+
+Mark David:
+
+I'm not absolutely sure I understand your question, but
+here's what I think is going on.
+
+1. As you say, voynen un lebn(1) translate as dwell and
+live.  Men lebt in a land un me voynt in a hoyz.
+
+2. Lebn(2) is the same as the less-used nebn (cf. ModG
+neben) and means near.
+
+3. Lebm may be a contraction of lebn(2) dem.  Mayn shviger
+voynt lebm Rebben.
+
+Query 1:
+
+Zog ikh maynem a shokhen: "zetst zikh avek".  Makht er (dos
+iz take haynt gesheyen) "vos gor avek?  me darf zogn 'zetst
+zikh anider'".  Zog ikh to zikh: mistome a Poylisher.
+Ikh'll nokhfregn bay di ayzerne kep.
+
+Would Mikhl or someone please sort this out?
+
+Query 2:
+
+I was thinking about Glikel Hamel's Yiddish the other day
+but when I went to look for it I found only the modern
+Yiddish 'translation' in the Musterverk series.  So where
+did I read the original?  Is it in a collection?
+
+Melekh:
+
+In what sense are the bal/bar constructions restricted?  If
+I can say bal guf and bal agule, surely I'm not limited to
+the half above the gartel.  What I'm after is a bit of
+playfulness and even self-mockery.  That makes Yiddish
+Yiddish.
+
+Noyekh
+______________________________________________________
+End of Mendele Vol 1.144
+

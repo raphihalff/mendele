@@ -1,0 +1,148 @@
+
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 13.037
+May 3, 2004
+
+1) Yiddish on a Mac (Perets Mett)
+2) Yiddish on a Mac (Itzik Nakhmen Gottesman)
+3) Yiddish on a Mac (Abigail Wood)
+4) tokhekha (Irwin Lebow)
+5) gogl mogl (Ruben Frankenstein)
+6) khazer un iberkhazer (Zulema Seligsohn)
+7) khazer un iberkhazer (Berish Goldstein)
+8) enge benge (Sylvia Liff)
+
+Visit Mendele on the Web: http://www.mendele.net
+
+1)----------------------------------------------------
+Date: April 27, 2004
+From: p.mett@open.ac.uk
+Subject: Re: Yiddish on a Mac
+
+Hershl Hartman wrote:
+
+     "If you know of anyone who wants to write in Yiddish on a Mac and
+     doesn't already have one that's Yiddish-capable, they should move
+     quickly to find the last of the previous generation eMacs."
+
+Quite unnecessary.
+
+borekhashem m'ken shraybn of yidish nitsndik Melel far Mac OS (mek os?) X.
+akhuts dem iz melel biliger vi Nisus writer
+
+Not only is Mac OS X compatible with Unicode - there is also Mellel, a
+Unicode-savvy word processor which handles Yiddish nicely. Mellel 1.7.5 is
+available a shareware from
+http://www.redlers.com/download/mellel/mellel175.dmg.sit
+
+Perets Mett
+
+2)----------------------------------------------------
+Date: April 27, 2004
+From: gottesman@yiddish.forward.com
+Subject: Re: Yiddish on a Mac
+
+According to Mr. Deutsch at the Yiddish Forward newspaper - Mac OS X (10.3)
+supports right to left including Yiddish. In fact, Yiddish produced via OS X
+is fully interchangable with the Yiddish written on PCs. For more
+information contact Martin Deutsch at deutsch@yiddish.forward.com
+
+Itzik Nakhmen Gottesman
+
+3)----------------------------------------------------
+Date: April 27, 2004
+From: a.c.wood@soton.ac.uk
+Subject: Re: Yiddish on a Mac
+
+Re. Hershl's message: I'm not a Nisus user, but do have an OS X Mac: it
+might be useful to add that OS X has a built-in capacity to simultaneously
+run OS 9 (it's called Classic), and so far I've had success with getting
+non-OS X compliant software to run on my new Powerbook in the Classic
+environment. This may be a solution for the time being?
+
+NB in OS X itself (including in Mail, which I'm using to write this email)
+the language support seems to work well - you can change instantly between
+English and Hebrew, the latter automatically going R-L, and the 'extra'
+Yiddish characters are included in the character set.
+
+Abigail Wood
+
+[The moderator should have pointed out at the very start of this thread that
+there exists a list given over to just such questions: http://www.uyip.org/]
+
+4)----------------------------------------------------
+Date: April 30, 2004
+From: irwinle@cs.net
+Subject: tokhekha
+
+Can someone refer me to a Yiddish story about a man whose function in life
+was to received the aliyah when the tokhekha (the list of curses) is read
+from the Torah?
+
+Irwin Lebow
+
+5)----------------------------------------------------
+Date: April 30, 2004
+From: ruben.frankenstein@orient.uni-freiburg.de
+Subject: Re: gogl mogl
+
+Bernard Kouchel who initiated the first discussion about Gogl-mogl 6 years
+ago brought himself the explanation given by Alexander Harkavy:
+
+     "Gogl-mogl - Egg-flip. a strong drink mixed with eggs and naft.
+     ("naft" = Petroleum). (Yiddish-english-hebrew dictionary, by Alexander
+     Harkavy.
+
+     [I wonder what 'petroleum' was used, perhaps mineral oil???[BK]]"
+
+I hope in the meantime he relized that the hebrew NFT is not "Naft" -
+Petroleum but "Nofet" - the hebrew word for liquid honey.
+
+Ruben Frankenstein
+
+6)----------------------------------------------------
+Date: April 30, 2004
+From: zrls@rcn.com
+Subject: Re: khazer un iberkhazer
+
+zeyer a groysn dank di shrayber fun Italie af zehr satirishe briv un nokh
+ingantsn af yidish, zu velkher ikh ken nor tsulegn e si non e vero, e ben
+trovato.
+
+Zulema Seligsohn
+New York City
+
+
+7)----------------------------------------------------
+Date: May 4, 2004
+From: bag@shore.net
+Subject: Re: khazer un iberkhazer
+
+uva! bravo Marishe Romano-Cufaron un Daniela Mantovan-Kromern far zeyere
+klore un kluge verter (in dem inyen fun "iberkhazern in Mendele 13.036).
+
+Berish Goldstein
+
+
+8)----------------------------------------------------
+Date: May 4, 2004
+From: zansyliff@aol.com
+Subject: Rhyme inquiry?
+
+ My father (born in Odessa and arrived in US 1906) sometimes recited a
+Yiddish rhyme beginning with the words '"enge benge".  I don't recall the
+rest of the words.  Is anyone familiar with these words or the full rhyme. I
+am also curious about its origins and meaning.
+
+Sylvia Liff
+
+______________________________________________________
+
+End of Mendele Vol.13.037
+
+Address for the postings to Mendele: mendele@lists.yale.edu Address for the
+list commands: listproc@lists.yale.edu
+
+

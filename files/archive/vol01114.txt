@@ -1,0 +1,96 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 114
+November 26, 1991
+ 
+1) Feminine suffixes (Ellen Prince)
+
+1)----------------------------------------------------
+Date: Mon, 25 Nov 91 23:24:43 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.112
+
+>From: nmiller@trincc
+
+>I recently referred to a neighbor who is married to a
+>judge, and the word I used was /judgekhe/.  
+
+i shall leave it to the true mavens to answer your
+questions in detail but i can tell you this--while a
+language may have a whole bunch of ways for doing things,
+the relevant thing here being forming feminine nouns from
+masculine ones, it's often (usually) the case that, at any
+point in time, only one of the ways is 'live' or, as it's
+technically called, 'productive'. thus, while yiddish has
+feminine nouns in -in, -te, and -ke, the -ke form seems to
+be the productive one these days. whence judgeke. (you do
+mean judgeke, not judgekhe, right? and you'd say it with
+three syllables, right?)
+
+as an example from english, consider all the ways of
+forming nouns from adjectives: -ity (intensity, vanity,
+solemnity), -ise (expertise), -th (width, length, breadth,
+health (from hale), wealth (from weal)), -ce (succulence,
+indolence), etc etc. but only -ness is productive. so
+imagine a new adjective, let's say fo, meaning 'false'.
+what would you predict the noun would be? not foity or
+foise or foth, right? but fo-ness sounds fine, right?
+likewise note that 'candor' is becoming 'candidness' even
+as i type. that's productivity. (maybe your grandchildren
+will say 'a thing of beautifulness is a joy forever'...)
+
+some other little comments:
+
+>Since /ke/ is also a diminutive  (kleyninke), is its
+>use in referring to women belittling?  Or would it be
+>better to say that it's a _familiar_ suffix and used as
+>a social leveller?  Hence benkerke and presidentke.
+
+i think the suffix in kleyninke is -inke, not -ke. they're
+possibly related but they're not the same. so -ke shouldn't
+be deemed belittling. but go know what some people feel
+belittled by...
+
+>2.  What of the /te/?  It too seems to be replacing
+>some older words or at least sharing space with them 
+>(shokhente as well as shkheyne) but in other cases it
+>would appear to be old (gabete, khazente).  Is it used
+>only with Hebrew nouns (areyliste)?
+
+-te is allegedly aramaic, which probably explains its
+occurrence with semitic nouns. (tho i imagine baleboste was
+created in yiddish, tho entirely out of semitic elements.)
+
+>Finally, once we've settled all these questions, why is
+>nogoodnik Yinglish but judgekhe Yiddish?
+
+here's a stab at an answer: nogoodnik filled a gap in
+english. judgeke doesn't fill a gap--english has judge and
+doesn't require agentive nouns to have feminine endings in
+order to be applicable to females. so english needs judgeke
+like a hole in the head. and yinglish is, after all, a
+dialect of english. yiddish, on the other hand, does
+require that agentive nouns applied to females be marked as
+female. so judgeke fills a gap in yiddish (once judge is
+borrowed into yiddish, that is).
+
+of course, this is all on the assumption that your judgeke
+is a female judge. if it's the judge's wife, then maybe it
+does fill a gap in english? my shaky intuitions tell me
+it's more possible as a yinglish word if it means judge's
+wife than if it means female judge. but i'm not sure.
+
+one final free association. the -nik suffix is simply
+something that makes nouns in slavic. in yiddish, however,
+it makes agentive nouns only--people who do something. (one
+exception is tshaynik, but that was presumably borrowed in
+toto from slavic, not formed in yiddish.) anyway, when you
+see a word with -nik in english, if it's a nonhuman, e.g.
+sputnik, you know it's borrowed directly from slavic. if it
+is a human agent, e.g. beatnik, refusenik, allrightnik,
+nogoodnik, it's probably from yiddish (or from some
+yiddish-influenced english speaker).
+
+______________________________________________________
+End of Mendele Vol 1.114
+

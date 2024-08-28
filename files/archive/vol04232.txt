@@ -1,0 +1,182 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.232
+December 13, 1994
+
+1) Russian/Yiddish `r' (Rick Turkel)
+2) Russian/Yiddish `r' (Jay Lee)
+3) Russian/Yiddish `r' (Reuven Rachlin)
+4) Russian/Yiddish `r' (Bob Poe)
+5) Jewish accent in Russian (Zev bar-Lev)
+6) Pronouncing "geooghit" (Dan Leeson)
+
+1)----------------------------------------------------
+Date: Mon, 12 Dec 94 22:20:03 EST
+From: rturkel@cas.org
+Subject: Russian/Yiddish `r'
+
+In mendele 4.230, Ben Alpers asks about the origin of the Russian
+euphemism "one who mispronounces 'r'" for a Jew.  This is a genuine
+linguistic phenomenon which I have personally observed.  This is a long
+one, so please bear with me.
+
+I used to work with a man who was born in Harbin, China, of Russian
+parents who had left Odessa after the 1905 revolution.  His native tongue
+was Russian, but most of his education was in Hebrew (he left China for
+Israel in 1949, at the age of 11).  His Russian was always respected by
+recent immigrants from the former Soviet Union despite his occasional
+antiquated usage, although I noticed a distinct Yiddish accent to it
+(which he always denied, naive informant that he was), primarily from the
+uvular 'r' about which Ben wrote.
+
+My personal theory was that his family (and many others in the expatriate
+community in Harbin), being native Yiddish speakers, retained the uvular
+'r' in their Russian.  In his case, I'm certain that it was reinforced by
+his subsequent acquisition of Hebrew.
+
+On the other hand, most of the recent immigrants from the former Soviet
+Union are two or three generations away from native Yiddish speakers, so
+the dominant "Russian" 'r' comes through loud and clear.  (As we all
+know, Yiddish culture was suppressed in much of the Soviet Union, and few
+recent immigrants from there, except for those who came from the Baltics
+and certain parts of Belarus and the Ukraine, are native Yiddish
+speakers.)
+
+It would be interesting to research this question in present-day Latvia
+and Lithuania, which were independent between the World Wars and where
+there was a thriving Yiddish educational establishment through the
+1930's.
+
+Zayt mir ale gezunt un shtark.
+
+Rick Turkel
+
+2)----------------------------------------------------
+Date: Mon, 12 Dec 94 15:47:00 EST
+From: jmlee@ucs.indiana.edu
+Subject: Russian/Yiddish `r'
+
+What first came to my mind was that Lenin dropped his r's, thus
+Revoliutsiia became Evoliutsiia.  This is the only case I can think of
+where the letter r is "mispronounced."  If this is the origin of the
+slur, then it could be an insinuation that Lenin and his Bolsheviks were
+some sort of Zionist plot, using Lenin's characteristics to denigrate
+Jews.
+
+Jay Lee
+
+3)----------------------------------------------------
+Date: Mon, 12 Dec 1994 17:31:41 -0500 (EST)
+From: rachlin@panix.com
+Subject: Russian/Yiddish `r'
+
+I cannot answer Mr. Alpers' inquiry about the prevalence of a guttural
+"r" among Russian Yiddish speakers.  However, I do recall learning long
+ago from an unrecalled source, that a frequent "humorous" (yeah! sure!)
+method of determining whether a Russian was Jewish was to ask him to
+recite in Russian "na gor'ye ararat'ye" (On Mount Ararat).  The repeated
+voiced gutturalized "r"s would presumably be a shibboleth that would
+identify the Jew and would sound bizarre enough to assure the speaker's
+status as the butt of those making the inquiry.
+
+Reuven Rachlin
+
+4)----------------------------------------------------
+Date: Mon, 12 Dec 94 17:45:57 EST
+From: poe@keps.com
+Subject: Russian/Yiddish `r'
+
+My mother, who was from [the] Ukraine, pronounced her `r's in Yiddish in
+the usual way--i.e., with the back of the tongue raised.  (Is this called
+`retroflex'?  We need help from a phonetician!)  In fact, when she said
+`dortn', the `r' became unvoiced and came out much as if the word were
+spelled `dokhtn'.
+
+She was sent to Russian school for a while as a child and achieved some
+fluency in that language, probably with a relatively correct Russian
+accent, but she had forgotten most of this by the time I was adult enough
+to talk to her about it.  She remembered very vividly, however, that,
+during pogroms, people were asked to pronounce words with `r's in them,
+and that this test was used to distinguish the Jews from the others.
+(The others, in this case, were usually Ukrainians, rather than Russians,
+but that probably didn't matter to the validity of the test.)  It seems
+to me that my mother pronounced her `r's very differently in the few
+words of Russian that she remembered than she did in Yiddish.  I wonder,
+actually, whether the *real* test was the pronunciation of the soft, or
+palatalised, `r'; I think this would be hard even for an Italian or Pole
+to get right, whereas they would probably have little problem with the
+hard Russian `r'.
+
+Bob Poe
+
+5)----------------------------------------------------
+Date: Mon, 12 Dec 1994 15:26:35 -0800
+From: zbarlev@mail.sdsu.edu
+Subject: Jewish accent in russian
+
+while awaiting replies of others on the subject of russian vs. yiddish
+/r/, i thought i might mention that the usual "Jewish accent" in russian
+is mostly a matter of intonation, a more musical intonation, not of a
+typical Yiddish variety, but actually morte of a lilt, perhaps "more
+russian than russian".
+
+zev bar-Lev
+
+6)----------------------------------------------------
+Date: Mon, 12 Dec 1994 14:42:55 EST
+From: leeson@aspen.fhda.edu
+Subject: Pronouncing "geooghit"
+
+David Brown asks me how to pronounce geooghit.  I am not sure that I can
+do that, but I'll give it a try anyhow.
+
+The first sound "ge" has no equivalent sound in English but I think of
+the French name "Gigi" with a soft "G."  Another is as in the French word
+"rouge" or "mirage" or as in the English word "vision." In my dictionary,
+the phonetic  symbol is zh with a curved line underneath.
+
+Combine that with "oogh" to get "geoogh."  The beginning "ge" sound that
+I have described above is how "geoogh" ends.  The final letters "....it"
+are as written with no mystery.
+
+Thus "geooghit" is the word describing a pain in the ear.
+
+I never realized how difficult it is to describe a sound only with words.
+
+Dan Leeson
+
+______________________________________________________
+End of Mendele Vol. 4.232
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

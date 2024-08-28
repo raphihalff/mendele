@@ -1,0 +1,134 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.033
+June 13, 1993
+
+1) Books/noyekh and grayzn/freezing (Mikhl Herzog)
+2) The husband of rabbi (Walter Zimmerman)
+3) Yiddish in the DC area (Arnold Kuzmack)
+
+1)----------------------------------------------------
+Date: Thu Jun 10 10:40:03 1993
+From: ZOGUR@CUVMB.Columbia.edu
+Subject: Books/noyekh and grayzn/freezing
+
+BOOK NEWS
+
+"The Field of Yiddish, Fifth Collection", Northwestern University
+Press and YIVO, has now appeared. Edited by David Goldberg. It looks
+like a beautiful job.
+
+Volume II of the "Language and Culture Atlas of Ashkenazic Jewry",
+primary editor Andrew Sunshine, will appear in the Fall. Max
+Niemeyer Verlag, Tuebingen.
+
+"FROZEN DATIVES"
+
+Of the sort that have been offered, see Weinreich, s.v. "harts" for
+numerous expressions. Note the distinction between "a klap ton in
+harts" and "a klap ton in hartsn".
+
+I wonder if the concept "frozen" is better applied to expressions
+whose origins are opaque. Try "skotsl kumt", for example, or
+"mishteyns gezogt".
+
+NOYEKH MIT ZIBN GRAYZN
+
+Eli Katz: Some belated comments on the expression "Noyekh mit zibn
+grayzn".
+
+     1. Your interpretation of its MEANING is correct, of course.
+The question of its origin is less unambiguous. I think there's a
+discussion of it among Dov Sadan's treasures. (Can anyone out there
+confirm this?) He attributes its origin to the manner in which
+children were taught to write--by joining a specified number of
+little circles ("krayzn") set out on a page.
+
+     For nun, three "krayzn"; thus  .:
+     For khes, four "krayzn"; thus  ::
+
+In all, "noyekh mit zibn krayzn".
+
+     Assuming that he is correct, we'd have to explain the change
+from "krayzn" to "grayzn" either as a result of the loss of the
+practice itself, leading to a reinterpretation of the unfamiliar or,
+to some phonological factor. Of the latter, the only one I know,
+that might be invoked, is the (essentially) Alsatian Yiddish merger
+of "k" and "g" before "r". It yields variants like "holegra:sh" for
+general Western Yiddish "holekra:sh" ('a naming ceremony'), "greyn"
+for (otherwise) WY "kreyn", EY "khreyn"), "grimzl" (and "frimzl")
+for (otherwise WY "krimzl", EY "xremzl"), "yagres", elsewhere
+"yakres" ('scarcity').
+
+     2. I venture forth on the word "grayz" again. The last time I
+did it, the long knives were waiting for me, but I'm feeling brave.
+
+     Whence the word "grayz" ('error') itself? Unless there's
+someone out there who knows better, I don't think we can find either
+a Slavic or a German cognate (much as it "looks" like it might be of
+German origin). If it were German, we'd expect to find a medieval
+German variant in long "i:"; cf. Yiddish "tsayt, raybn, mayn", etc.
+Is there one?
+
+     Here again, I think it was Dov Sadan who offered a Hebrew
+source, with (long?) "i" (at least "i" in open syllable): the word
+"giml, reysh, yud, ayin, vov, sof", griut (cf. garua 'bad'). I have
+no trouble with whatever shift in meaning may be involved here but
+the presumed phonological development does present a problem. The
+long "i:" to "ay" is the rule but, NOT in the Hebrew component. What
+do you think?
+
+     3. Aside from that, I've been musing on the phonologically
+anomalous Yiddish name "Feygl", whence "Feyge" (Central Yiddish
+"Faygl"/"Fayge"). Shall I go on or would you like to play with it a
+bit?
+
+Mikhl Herzog
+
+2)----------------------------------------------------
+Date: Fri Jun 11 09:26:54 1993
+From: Walter Zimmerman <zimmerma@lib.uwo.ca>
+Subject: The Husband of Rabbi
+
+Nenry Breitrose in Mendele 3.032 asks the question of how to address
+the husband of a rabbi.  If I'm not mistaken, a recent issue of
+Moment has the answer and it's "Rebbets" or maybe it was spelled
+"Rebbetz," I'm not sure.  My library doesn't carry this wonderful
+periodical so I can't check it right now.  If I'm right about the
+source, it's probably the May, June or July issue, 1993.  Perhaps
+someone can check it and send the correct spelling.
+
+Walter Zimmerman
+
+P.S.  If David Roskies is on the Mendele list, would he please
+contact me at his earliest convenience.  Danke.
+
+3)----------------------------------------------------
+Date: Fri Jun 11 17:50:50 1993
+From: lkuzmack@sytex.com
+Subject: Re: Yiddish in the DC Area
+
+In Mendele 3.032, Diane Valsamis asked about Yiddish activities in
+the DC area.  I responded to her privately but would also like to
+make the information available to the list.
+
+The Washington, DC area, including suburban Maryland and Virginia,
+has many Yiddish activities and classes, most under the auspices of
+or connected with Yiddish of Greater Washington.  We put out a
+bilingual newsletter every two months except during the summer.
+
+I would like to invite any Mendelniks in the DC area (or outside it,
+for that matter) to e-mail me their mailing address to receive
+several complimentary copies of our newsletter.  We hope  that local
+people with an interest in Yiddish will join.
+
+The next newsletter will appear in early September and will include
+a listing of Yiddish classes in the area.  (I maintain the mailing
+list and produce the Yiddish portion of the newsletter.)
+
+Arnold Kuzmack
+
+______________________________________________________
+End of Mendele Vol. 3.033
+

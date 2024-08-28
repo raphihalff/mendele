@@ -1,0 +1,147 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.248
+February 11, 1996
+
+1) Introduction (David Robboy)
+2) Khasidish or misnagdish (Hershl Hartman)
+3) Khasidish or misnagdish (Anno Siegel)
+4) Composite tenses/moods (Dovid Braun)
+5) Prefiksen un sufiksn (Keyle Goodman)
+6) Adjectives on -lr and -rn (Anno Siegel)
+
+1)----------------------------------------------------
+Date: Sat, 10 Feb 96 14:23:41 PST
+From: robboy@ssd.intel.com
+Subject: Introduction
+
+Like many Mendele correspondents, I had grandparents whose native language was
+Yiddish, my parents spoke it fluently, and no one taught it to me.  What can
+you do, siz Amerika.  So I don't know from pluperfect. I work as a software
+engineer at Intel Corp. in Beaverton, Oregon, and it is a pleasure to have the
+messages from Mendele coming in among my work mail.  My main connection with
+Yiddish right now is that I lead a group that sings show tunes from the
+Yiddish theatre. We're finding ourselves surprisingly in demand (it doesn't
+hurt we don't charge anything).  We have performed for elderly audiences, and
+the outpouring of emotion was overwhelming.  Another interesting phenomenon is
+that people spontaneously give me cassettes, copies of things their parents
+had, so I am amassing a collection of Yiddish music without trying.  People
+seem to have an urge to archive these things.
+
+David Robboy
+
+2)----------------------------------------------------
+Date: Fri, 9 Feb 1996 15:10:16 -0500
+From: hershl@aol.com
+Subject: Khasidish or misnagdish
+
+Zellig Bach (V 5.246) proposes that the folk song "sha, shtil, makht nit kayn
+gerider" is misnagdish (anti-khsidish) in origin.
+
+I have always understood that almost _all_ Yiddish folksongs that refer to the
+rebe and/or his khsidim/khsidimlakh are misnagdish satires of khasidism. What
+say the musicologists among us?
+
+Hershl Hartman
+
+3)----------------------------------------------------
+Date: Sat, 10 Feb 1996 21:36:37 +0100
+From: anno4000@lublin.zrz.tu-berlin.de
+Subject: Khasidish or misnagdish
+
+In 5.246 Zellig Bach brings up the question whether the song _Sha sthil_ is
+indeed a khasidic song, or if it's a misnagdish parody.  Apart from this one,
+this question has bothered me about at least two more songs, which have been
+handed around as "khasidish music", namely _As der rebe eylimeylekh_ and _As
+der rebe zingt_.
+
+In fact, the latter bears the mark of a parody so much, it first made me think
+about the other two.  It's gist ist, whatever the rebe does, the khasidim
+follow suit. When he sings, they sing, 'lalala lala', when he sleeps, they
+sleep, 'khrrr khrrr', when he dances, they dance 'hop hey', and so on, faster
+and faster.
+
+As for _As der rebe eylimeylekh_ (iz gevorn zeyer freylekh), I believe it's
+genuine (not that a parody isn't genuine in its own right).  The idea for the
+tsadik to be very human, able to be freylekh, talking and joking and drinking
+with his khasidim, is a frequent topos in khasidic folklore.
+
+_Sha stil_ is the one I am the least decided about.  Its first two verses
+(when the rebe dances, the walls, or the table, dance along) work both ways.
+The third, however ("az der rebe zingt dem heylikn nign, bleybt der sotn a
+toyter lign") feels utterly senecere.  Unless the word "heylik" has a
+christian undertone, which I'm not sure about.
+
+I'd like to hear opinions.
+
+Anno Siegel
+Berlin
+
+4)----------------------------------------------------
+Date: Fri, 09 Feb 1996 15:33:07 EST
+From: dovid@mit.edu
+Subject: Composite tenses/moods/...
+
+My recent contribution on the pluperfect (which wasn't really on the
+pluperfect) had a typo in it which made one piece of information
+unintelligible.
+
+The composite conditional I was taking about should be of the form:
+
+	ven ikh zol geven gevust
+	ven ikh volt geven gevust
+
+with the reading 'if I knew' and not necessarily 'if I had known'.  _gehat_
+cannot be used in this construction, if I've understood it correctly, be it in
+the context of _hobn_ verbs or _zayn_ verbs.
+
+If I've made any mistakes, perhaps Reb Noyekh could give us a couple of
+examples of the construction in his native Yiddish.
+
+Dovid Braun
+Cambridge, MA
+
+[Ven der shames volt geven gevust az in zayne puste reyd gefint zikh aza
+onshikenish vi a "pluperfect" volt er shoyn lang gehat oyfgehert.  Er iz nokh
+bay der madrege vu men vundert zikh ersht az redn redt men proze. nm]
+
+5)----------------------------------------------------
+Date: Fri, 9 Feb 1996 14:38:05 -0800
+From: ac939@lafn.org
+Subject: Prefiksen un sufiksn
+
+Fraynd Mendelyaner.  S'iz mir naygerik tsu visn vifil prefiksen un sufiksn ken
+men tsulegen tsu a verb.  Lmoshl "shteln".  S'ken zayn tsushteln, farshteln,
+shtelung, forshtelung, un azoy vayter. Efsher iz do a bukh vos git aroys a
+reshime fun verbn un nutsn dos vortsl tsu farbreytn verbn.
+
+A dank foroys.
+
+Keyle (Kay) Goodman
+
+6)----------------------------------------------------
+Date: Sat, 10 Feb 96 15:54:56 +0100
+From: anno4000@w172zrz.zrz.tu-berlin.de
+Subject: Adjectives on -lr and -rn
+
+To Dovid Braun:
+
+They are few and far between in the smallish dictionary I checked. I find none
+on -rl.  Besides "modern", there is "umgern" (unitentional), but this can only
+be used adverbally. The same goes for "farayorn" (last year), which may also
+be thought of as derived, albeit in a rather non-standard way.  "Farloyrn" is
+clearly derived from "farlirn", though its meaning of "flustered, bewildered"
+isn't readily found from the root word.
+
+Finally, there is a small class of adjectives that describe the material of
+which something is made: "futern", "gendsern", "hobern", "korn", and
+"rindern".  These all derive from a root noun by attaching all or part of
+"-ern".  So "modern" remains the only undisputable case.
+
+Anno Siegel
+Berlin
+
+______________________________________________________
+End of Mendele Vol. 5.248
+

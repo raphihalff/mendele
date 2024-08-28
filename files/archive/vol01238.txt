@@ -1,0 +1,135 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 238
+May 3, 1992
+ 
+1) Various (David Sherman)
+2) Yiddish word processing (David Sherman)
+
+1)----------------------------------------------------
+Date: Sun, 3 May 92 2:03:00 EDT
+From: dave@cai.lsuc.on.CA
+Subject: RE: Mendele Vol 1.218 and Vol1.228
+
+1. I've just caught up on about 40 back issues of Mendele,
+having been rather busy for a while.  I'll refrain from
+adding my recipe for matzo-brau, but can anyone comment on
+why I grew up knowing it as matzo-brau while I see it
+referred to on MENDELE as matzo-brie (presumably pronounced
+bry)?
+
+2. > In this connection, I can mention that my mother, who
+> really knew no German, never hesitated to speak it; her
+> "German" was Yiddish with the consonants (especially the
+> "l") pronounced in something like the German manner.
+
+Lots of people do this with languages that are close. I can
+get by passably in Spanish by speaking Portuguese with
+certain standard vowel and consonant shifts.
+
+At the Homowack (resort in the Ketskills) a couple of years
+ago, I listened to one of the maids chatting with a janitor
+while they were working.  She was from Brazil and speaking
+Portuguese; he was from elsewhere in Latin America (I
+forget where) and was speaking Spanish.  Neither made the
+slightest attempt to modify their dialect to make it closer
+to the other language.  But they seemed to communicate just
+fine.
+
+3. > Name: Yitzhak Kertesz
+> Current interest: origins of the words "schlemiel" and
+>           "shlimmazal".
+
+I'd like to hear more about this.  I know what Shlemiel
+comes from shlumiel ben tsurishaday, in the Torah; and
+shlimazl, I presume, is a contraction of shlekht + mazl.
+Can you tell us more?
+
+4. Re Yidlish:
+
+I recently saw the film "Mame-Loshn", which describes the
+history and current status of Yiddish (quite well, I
+thought). In one clip, a speaker points out three words
+that he's always thought sounded more Yiddish than English.
+I forget who the speaker was.
+
+the words are:
+- svelte
+- epic
+- fermented
+
+David Sherman
+
+2)----------------------------------------------------
+Date: Sun, 3 May 92 2:31:00 EDT
+From: dave@cai.lsuc.on.CA
+Subject: RE: Mendele Vol 1.236
+
+Re word-processing in Yiddish:
+
+I use a Macintosh.  I don't need to write more than a word
+or two in Hebrew or Yiddish very often, but I recently had
+to do an article for Yugntruf.
+
+I didn't want anything that would "take over" my Mac, since
+I use it (heavily) for my real work, which is writing.
+(Canadian tax law, if you must know.)  I didn't want
+anything with keycaps that would muck up my Mac keyboard;
+nor did I want to learn the Hebrew typewriter layout.  But
+I did have a few fonts lying around, including one called
+Vilne that's a Yiddish font, quite close to the YIVO
+transcription.  And, I can type YIVO-transcription Yiddish
+pretty fast, since I type in English all the time and I've
+written a fair bit azoy oyfn post-rshime.
+
+So, taking a cue from the program Raphael Finkel designed
+for UNIX a year or so ago, I wrote a program in Hypercard
+to do what I want.  (Hypercard comes with every Mac.)  I
+created two fields, one with a normal English font and one
+with the Vilne font with right-justified margins.  I type,
+with YIVO transcription, into the first field.
+
+Then I click a button to run a program I wrote in Hypertalk
+that (1) converts the letters so they come out right for
+Yiddish; (2) reverses the order to read right-left; and (3)
+does line breaks every N characters so the lines come out
+right.  Then it puts the output into the second field, and
+it comes out perfectly.
+
+The conversion program does things like insert an alef
+before certain initial vowels; convert "sh" to "w" (used by
+the Vilne font for shin); change m to M for lange-mem when
+it's at the end of a word, and so on.  Most of the letters
+don't need conversion; e.g., u->vav, e->ayin,
+o->kometz-alef are how the Vilne font is set up.
+
+The only stuff I have to think about when typing is
+Hebrew-origin words, which end up looking weird in the
+English form.  Aside from those words, which are relatively
+few at least in my dialect, my submission to Yugntruf looks
+just like something that would appear in MENDELE in the
+original, and comes out in perfectly-spelled Yiddish when
+converted.
+
+The program is crude, but it does exactly what I need.  It
+has the advantage that you can write the original text
+using whatever word-processor you want, and then convert
+the whole thing when you're done.  It's no Nisus, but if
+anyone wants it, let me know.  As far as I know, the Vilne
+font, which I got from a friend a couple of years ago, is
+public domain. (It's also pretty ugly; I'd be happy to see
+a replacement.)
+
+David Sherman
+dave@lsuc.on.ca
+
+______________________________________________________
+End of Mendele Vol 1.238
+
+Submissions: mendele@vax1.trincoll.edu
+
+Business: nmiller@vax1.trincoll.edu
+
+Please sign your articles.
+

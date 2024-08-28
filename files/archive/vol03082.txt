@@ -1,0 +1,140 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.082
+August 17, 1993
+
+1) YIVO transcription (Arn Abramson)
+2) Standardized transcription (Howie Aronson)
+3) Cultural Borrowings/Sukkah lights (Moshe Waldoks)
+4) Motl Grubyan (Yossi Galron)
+5) Grubian (Moshe Taube)
+
+1)----------------------------------------------------
+Date: Mon Aug 16 23:59:21 1993
+From: "Arthur S. Abramson" <ABRAMSON%UCONNVM.bitnet>
+Subject: YIVO transcription
+
+I have just read, with much sympathy, Nissen Goldberg's plaintive
+note in Vol. 3.080. Of course, we want to be able to represent the
+various dialects of Yiddish in roman transcription. (By the way, I
+regret the continuing confusion of transcription and translitera-
+tion; they are not the same!) What puzzles me, as one who is far
+from being a scholar in Yiddish linguistics, is why Nissen sees a
+problem in the Yivo transcription system. Am I wrong in understand-
+ing that it can be used without much trouble to represent the
+various regional and social accents of Yiddish. Hasn't Nissen
+himself demonstrated that by writing both oyf and af, etc.? That is,
+we must distinguish between a regrettable practice, on the one
+hand, of assuming that any Yiddish text, including song lyrics,
+must be writen in Standard Yiddish only, and, on the other hand,
+the aability of the Yivo transcription to handle other accents and
+dialects.
+
+   When Nissen writes, "Ba mir bisti sheyn," is he not writing a
+form of Southern Yiddish in Yivo transcription.
+
+   As a phonetician, I cheerfully manage, both for narrow phonetic
+transcription and for broad "phonemic" transcription, to get along
+pretty well with the phonetic alphabet of the International Phonetic
+Association, of which I am, of course, a loyal member, but I know
+that the special non-roman letters and diacritics of this system are
+impractical for widely based publications,so I cheerfully accept the
+Yivo system in the absence of anything that I know to be better.
+Another of our members recently commented that we should view
+writing Yiddish in a conventional roman orthography just as we do
+writing, say, French or Polish in roman script, each according to
+its own orthographic rules. The only emendation needed to that, in
+the case of Nissen's complaint, is that the possibility of writing
+non-standard dialects or accents is important; happily, the Yivo
+TRANSCRIPTION enables us to do that better, if my knowledge of
+Yiddish serves me well enough, that the orthographic rules of
+English enable authors or scholars to write regional or social
+variants of that language. Witness the orthographic contortions that
+novelists and the like go through, with misleading results, in an
+attempt to do that. (Note, by the way, that a TRANSLITERATION system
+simply can not handle this, since it is simply a set of rules for
+going, letter by letter, from one alphabet to another.)
+
+Arn Abramson
+
+2)----------------------------------------------------
+Date: Mon Aug 16 23:38:02 1993
+From: hia5@midway.uchicago.edu
+Subject: Standardized transcription
+
+Bob Goldberg complains about the "standardized" (YIVO) transcription
+of Yiddish.But the YIVO transliteration is a one-to-one Latinization
+of the Hebrew letters used to write Yiddish. It really doesn't
+reflect any dialect, since, e.g., transliterating giml-vov-tes gives
+a sequence of letters "gut," which just as giml-vov-tes is
+pronounced either /gut/ or /git/. But to -transliterate-
+giml-vov-tes as "git" is impossible--giml-yod-tes is /git/. I can't
+see any reason to oppose the YIVO transliteration. As for the YIVO
+orthoepy--it's wierd. I know of no other language where the only
+acceptable stage pronunciation (a Southern Yiddish) is diametrically
+opposed to the "literary norm," self-proclaimed by YIVO. As a
+Litvak, I'm very happy that YIVO arbitrarily chose basically a
+Litvak norm for their "literary norm." And as a teacher of Yiddish
+I'm even happier, because, unfortunately, there is -no- way of
+arriving at a stage pronunciation (Galitsyaner yidish) from the
+orthography.
+
+Howie (Itsik-Ayzik) Aronson
+
+3)----------------------------------------------------
+Date: Fri Aug 13 10:58:57 1993
+From: WALDOKS@BINAH.CC.BRANDEIS.EDU
+Subject: Cultural Borrowings/Sukkah lights
+
+Zum ersthens- Not only is the Christmas/sukkah light an interesting
+phenomenon, but I am also intirgued with the fact that many of the
+Jewish groups who adamantly retain dress codes of an earlier era
+consciously (beyond the requirements of tzinies- are rapidly
+adopting American food culture- The retainig of the strieml and
+spodik is important, but we all need glatt kosher moo goo gaipan-.
+Cholent many be Jewish soul food, but kosher fast food (with all its
+mediocrity) is on the rise. Wouldn't you have expected to see
+franchises of Cholent Express and the Gala (p'scha) Gallery. Hiner
+Fislech Delight and Helzele Take-Away. What does preserving a
+cultural heritage mean for the glattniks. zveytns- I have discovered
+the perfect sukkah light- they are strings of lights that come in
+the shapes of fruits and vegatables. they look great and drive the
+wasps, bees, and squirrels mishigeh.
+
+mit kovid
+
+Moshe Waldoks
+
+4)----------------------------------------------------
+Date: Mon Aug 16 22:57:43 1993
+From: "Joseph (Yossi) Galron" <JGALRON@aleph.lib.ohio-state.edu>
+Subject: Motl Grubyan
+
+In response to Dovid N. Miller's posting about Motl Grubyan, I would
+like to mention that according to Berl Kagan's (z"l) *Leksikon fun
+Yidish-shraybers* (1986), Motl Grubyan was born in the Ukraine 1909,
+and died February 9th, 1972 in Moscow.
+
+Joseph (Yossi) Galron
+
+5)----------------------------------------------------
+Date: Tue Aug 17 09:32:29 1993
+From: Taube Moshe <taube@HUM.HUJI.ac.il>
+Subject: grubian
+
+On the etymology of grubian. Vasmer's Etym. Dict. of Russian
+mentions, without preference, the possibility of derivation from
+the Slavic adj. `grubyj' as well as the possibility of a loan from
+German `Grobian' (first attested in 1494 in S. Brant's
+Narrenschiff), which is in German a jocular derivation a la Latin,
+`grobianus'from `grob'. Polish `grubian' too is considered to be a
+borrowing from German. The Yiddish word, then seems to be a
+borrowing from Slavic of a word which possibly was earlier borrowed
+into Slavic from German (notwithstanding the place of the accent).
+
+Moshe Taube
+
+______________________________________________________
+End of Mendele Vol. 3.082
+

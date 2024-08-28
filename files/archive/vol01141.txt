@@ -1,0 +1,171 @@
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 1 no. 141
+January 20, 1992
+ 
+1)  Geven un geveyzn (Ellen Prince)
+2)  Yiddish textbooks (Martin Minow)
+3)  Yiddish in Cairo (Dovid-Gavriel Hirsch)
+
+1)----------------------------------------------------
+Date: Sun, 19 Jan 92 14:13:32 EST
+From: Ellen Prince <ellen@central.cis.upenn.edu>
+Subject: RE: Mendele Vol 1.140
+
+in response to dave:
+
+re the idea about geveyzn at the end of the verb phrase and
+geven in the middle, that's a nice project! i believe old
+yiddish had only geveyzn, and we know that old yiddish was
+verb final. it would be interesting to check on the rise of
+geven, whether it occurred only medially, i.e. where it was
+destressed, as yiddish became verb-medial. beatrice, do you
+have an undergraduate who needs a little topic? the data
+you got already...
+
+re the lack of negative concord in kenehore as a result of
+the fact that it's not a full sentence, sorry, but modern
+yiddish has negative concord in simple noun phrase or
+adverbial utterances (in contrast to french, black english,
+piedmontese...):
+
+ver iz gekumen?
+keyner nisht/*keyner.
+
+vemen host du gezen?
+keynem nisht/*keynem nisht.
+
+ven host du dos gezen?
+keynmol nisht/*keynmol.
+
+(the '*' means 'does not occur'.)
+
+so it looks like david braun's explanation is still the
+most plausible: kenehore must have been frozen way back in
+old yiddish, before yiddish acquired negative concord.
+(there's phonological evidence for that, as well.)
+
+re dort being from der ort and tsurik from tsu rik, that's
+extremely plausible, but it should be noted that it would
+have happened way back in germanic, long before the birth
+of yiddish. (however, analogous developments that i
+believed happened in yiddish are drerd, from der erd, and
+staytsh, from dos taytsh.)
+
+>There are a couple in English, incidentally, that sort of
+>caught me by surprise when I first noticed them.
+>"painstaking" is, of course, pains + taking, but there's a
+>tendency to think of it as pain + staking, which doesn't
+>contribute anything to the meaning. Second, "dishevelled"
+>is from the French deshabille', and is dis-helleved, not at
+>all related to the dish.
+
+ah, here's a nice illustration of the difference between
+the methodology of folk etymology and of historical
+linguistics. dave's note that dishevel comes from
+deshabille surprised me, since that's not how those sounds
+should have developed (given how they developed in other
+english words borrowed from french). so i looked it up and
+in fact it's not related to deshabille. here's what
+webster's third says:
+
+dishevel: back-formation from disheveled disheveled: middle
+english discheveled, transitive participle of middle french
+deschevele', from old french, past participle of
+descheveler, to disarrange the hair, from dis- + cheveler
+(from chevel, hair of the head, from latin capillus).
+
+go know...
+
+2)----------------------------------------------------
+Date: Sun, 19 Jan 92 16:52:50 EST
+From: Greater East Coast Co-prosperity Sphere 19-Jan-1992 1646
+ <minow@ranger.enet.dec.COM>
+Subject: RE: Mendele Vol 1.138
+
+In Mendele Vol 1.138, Khayim Bochner refers to "The Yiddish
+Teacher" as a possible textbook. Here's a reference:
+
+        The Yiddish Teacher
+	author: Hyman E. Goldin
+	copyright 1939 Hebrew Publishing Company
+	ISBN 0-88482-687-2
+
+The publisher's address is 100 Water Street, Brooklyn NY
+11201.
+
+It's a basic "Learn the fundamentals of Yiddish" -- there
+are some 60 short lessons, each with a vocabulary, a few
+paragraphs of text, and some "translate into Yiddish" or
+"translate into English" exercises. Harvard Hillel used it
+for an introductory adult-education course. The vocabulary
+index has about 400 words.
+
+It should be suitable as an adult education textbook, with
+a competent instructor of course, but I wouldn't recommend
+it -- by itself -- as either a self-study book (little
+exposition) or as a college textbook.
+
+Martin Minow
+minow@ranger.enet.dec.com
+
+3)----------------------------------------------------
+Date: Sun, 19 Jan 92 18:24 PST
+From: "David Hirsch, Bibliographers Group" <ECZ5HIR@MVS.OAC.UCLA.EDU>
+Subject: Yiddish in Cairo
+
+I am really excited to see the interest in Yiddish in
+Egypt. I would have written sooner, but I have been on
+jury duty.
+ 
+I can add a few bits of information to Yuda-Leyb's list on
+Yiddish theater actors and actresses in Cairo. Rose Klein
+was the person that I was closest to in Cairo. SHe was
+actually Rose Weiss-Klein. Born in Cairo in 1909. Later
+married Abraham Belahovsky. Abraham died in 1977 or 1978.
+Rose remained in Cairo until late 1981/1982 when she
+emigrated to Isrel. She died in Tel Aviv in Spring 1989.
+The Peindrik sisters emigrated to the United States. At
+least one of them was living in Cleveland as late as 1983.
+ 
+I am quite familiar with the Ashkenazi synagogue in Cairo.
+After it was burned down in 1945 it was reconstructed in
+1952. The Ashkeanzi community held separate services until
+1967 by which mose Ashkenazim had left  Cairo. They then
+attended services at the main downtown Cairo synagogue on
+Adli Street. The Ashkenazi synagogue has been closed since
+1967. It is in fair condition. The Gan Yeladim imediately
+adjacent to the building was in poor condition in 1983 and
+I expect it may have been demolished by now.
+
+re: Yiddish printing in Egypt, I have seen books printed
+by the Farag Mizrahi press in Alexandria, but cannot
+remember the titles. There was an Imprimerie Moscovitch in
+the Jewish Quarter (Haret al-Yahud) Aside from the theatre
+programs ( I have a few myself from Cairo and Alexandria)
+the only other printed Yiddish I am familiar with is
+Yiddish/French sheet music and a broadside here and there
+advertising a visiting cantor for the holidays.
+
+re: Jewish life in Egypt in general, ther are perhaps
+50-75 Jews left in Cairo and approximately the same number
+in Alexandira. The average age is over 70. Maybe one or
+two intermarried Jews left in Port Said. There were still
+at least 14 synagogues standing in Cairo and suburbs when
+I left in 1983, not including 2 Karaite synagogues.
+Alexandria had three remaining that I am famil iar with.
+Port Said, one...just a shell. Mansoura one... used as a
+mattress storage facility.
+
+The Jewish community in Egypt was very diverse. Sephardim
+came from all over the Ottoman empire and Ashkenazim from
+all over Europe. Even a couple of immigrants from the
+United States! I probably have more information on the
+individual actors Yuda-Leyb has mentioned and will try to
+dig it up.
+ 
+          Dovid-Gavriel Hirsch
+
+______________________________________________________
+End of Mendele Vol 1. 141
+

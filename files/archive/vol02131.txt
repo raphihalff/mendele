@@ -1,0 +1,165 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 2 no. 131
+December 30, 1992
+
+1) Dem milners trern/pozharne (Raphael Finkel)
+2) Reflexives/Dem milners trern (Shleyme Axelrod) 0
+3) Reflexives (Khaim Bochner)
+4) Beginnings (David Neal Miller)
+5) Emet/emes (Arn Abramson)
+
+1)----------------------------------------------------
+Date: Tue, 29 Dec 1992 11:48:20 EST
+From: Raphael Finkel <raphael@ms.uky.edu>
+Subject: Dem milners trern/pozharne
+
+Zikher veln a sakh leyeners kenen entfern af dem freg.  Der
+rikhtiker strof iz:
+
+        di reder dreyen zikh
+        di yorn geyen zikh
+
+vu 'zikh' meynt 'fun zikh aleyn' oder 'on keynems gehilf'.
+nokh a moshl:
+
+        esn est zikh, trinken trinkt zikh
+        vos zol men ton az se davnt zikh nit?
+
+Af poylish, meynt 'pozarny' 'sreyfedik', un 'pozorny' meynt
+'afn ershtn blik, ober b'emes nit'.  A 'pozar' iz0 a sreyfe
+(fun a hoyz, tsufelik (nit bemeyzid)).
+
+Raphael Finkel
+
+2)----------------------------------------------------
+Date: 29 Dec 1992 15:41:52 -0500 (EST)
+From: Seymour Axelrod <PTYAXEL@ubvms.cc.buffalo.edu>
+Subject: Reflexives/Dem milners trern
+
+Yankel Lantz (Mendele 2:130):  Jan Bart's pronunciation of
+*yorn/yurn* ("years") may have thrown you off.  In the song
+*Dem milners trern*, the recurrent lines are
+
+	Di reder dreyen zikh,
+	Di yorn geyen zikh,
+	Ikh bin shoyn alt un grayz un gro.
+
+So it's not Jews who go, or pass, it's years.  The song is
+by Mark M. Warshawsky (*Afn pripetshik* is also his), and
+is included in *Mir trogn a gezang* ("The new book of
+Yiddish songs"), edited by E.G. Mlotek and published by the
+Workmen's Circle.
+
+But the use of reflexives in Yiddish IS interesting, so
+interesting that there is no doubt a scholarly literature
+on the topic.  My own favorite: Nu, vos hert zikh?
+
+Shleyme Axelrod
+
+3)----------------------------------------------------
+Date: Tue, 29 Dec 92 18:04:37 -0500
+From: bochner@das.YCC.Yale.Edu
+Subject: RE: reflexives
+
+Yankel Lantz writes:
+> song, but it has a line which goes "Die raeder drehen sich;
+> die Juden gehen sich/Ich bin schoin alt un greis un gru."
+> I think it's called "The Miller's Sorrow," or something
+> like that.
+> At any rate, I'm intrigued by the reflexive verb "to go."
+> The wheels turn themselves.  Ok, no problem.  But "die
+> Juden (he really says Juden, not Jiden) "go themselves" seems
+> a little strange.
+
+First, listen again: I bet he's saying "yurn" (for
+klal-shprakh "yorn", 'years').  At least that's the way it
+goes in the versions of "Dem milners trern" that I've seen.
+
+As for the "reflexive": it's a fairly common colloquial
+construction. It isn't a normal reflexive, of course.  My
+understanding is that in some cases it contributes a sense
+of casualness: compare the line "Gey zikh nokh a por mol
+iber" in "Reyzele".
+
+But I don't really understand what it contributes in "di
+yorn geyen zikh". It sounds funny to me without the "zikh",
+but that might just be because of familiarity with the
+song.
+
+I'd appreciate other peoples opinion on this: does it sound
+alright to say "di yorn geyen" instead of "di yorn geyen
+zikh". Does it mean something different?
+
+-- Khaim Bochner
+
+4)----------------------------------------------------
+Date: Wed, 30 Dec 92 7:05:17 EST
+From: David Neal Miller <dnmiller@magnus.acs.ohio-state.edu>
+Subject: Beginnings
+
+Beginnings
+ 
+To mark the beginning of the/their new year, and in
+response to the high earnestness of the conference season,
+I'd like to propose a diversion of the sort some of us once
+played as graduate students. Specifically, I'd like to
+suggest that as many of us as find the idea appealing post
+their favorite--or, alternatively, least
+favorite--beginnings of Yiddish literary works, sans
+attribution. Others could cite the sources, post
+counter-candidates for canonization on MENDELE, or complain
+about the waste of bandwith.
+ 
+David Neal Miller (at the MLA)   miller.3@osu.edu
+
+5)----------------------------------------------------
+Date: Wed, 30 Dec 92 11:36:24 EST
+From: Arn Abramson <ABRAMSON%UCONNVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: Re: emet/emes
+
+To Sigrid Peterson:
+
+    Perhaps a better Hebraist than I will answer your
+question.  In the meantime let me try. In spite of its
+superficial appearance with the Massoretic pointing, 'emet
+is apparently not a segolate noun. The segol under the
+'alef is a so-called khatef segol ("fleeting segol") that,
+were 'alef not a letter representing one of the "guttural"
+consonants,would be a schewa. This spelling, then, stands
+for a normal noun with the stress on the last syllable,
+and so we hear it even in modern Israeli Hebrew. As for
+the stress on the first syllable in the haftara bnlessing
+mentioned by Peterson, I wonder whether it is not
+something dictated by the customary chant, at least in
+some Jewish traditions. That is, it is governed by the
+rhythm.
+
+Arn Abramson
+
+______________________________________________________
+End of Mendele Vol 2.
+
+If your message is intended for MENDELE, please write to:
+
+                 mendele@vax1.trincoll.edu
+                          or
+                 mendele@yalevm.ycc.yale.edu
+
+If your node is Bitnet-only and is not connected to the Internet,
+please send your message to:
+
+                 mendele@trincc
+                          or
+                 mendele@yalevm
+
+If you want to discuss personal business or have a shmues with
+the shames, please write to:
+
+                 nmiller@vax1.trincoll.edu
+                          or
+                 nmiller@trincc
+
+Please sign your articles.
+

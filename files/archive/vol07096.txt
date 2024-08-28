@@ -1,0 +1,232 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 07.096
+November 3, 1997
+
+1) yidishe shraybmashinke (Refoyl Finkel)
+2) Yiddish Voice Radio Features Singer Perl Teitelbaum, Wed, Nov 5 (Mark David)
+3) Parshe-fun-der-vokh reshime (Sholem Berger)
+
+1)----------------------------------------------------
+Date: Mon, 3 Nov 1997 14:50:00 -0500 (EST)
+From: Raphael Finkel <raphael@cs.uky.edu>
+Subject: yidishe shraybmashinke
+
+far di vos viln nitsn di yidishe shraybmashinke
+(http://www.cs.uky.edu/~raphael/yiddish/makeyiddish.html) oder vos viln
+araynklapn tekstn tsulib mendele loyt dem yivo-transkriptsye standard, ot
+zaynen etlekhe klolem.
+
+If you want to use the Yiddish Typewriter or enter text for MENDELE according
+to the YIVO transcription, here are some guidelines.
+
+Yivo transcription format uses the following consonants:
+
+	b g d h v z kh t y l m n s f p ts k r sh tsh zh dj
+
+and the following vowels:
+
+	a e i o u oy ay ey
+
+In particular, don't use "tz" for tsadik; use "ts".  Don't use "j" for 
+a yud (as in German) or as a khof (as in Spanish).  The combinations "ay" and  
+"ey" and "oy" should not be replaced by such forms as "aj" and "ei". 
+Don't use capital letters except for the first letters of Hebrew proper names
+(like Refoyl and Binyomen).
+
+You can use the | character as a nonprinting character to circumvent usual
+orthography rules. For instance, write "oys|heyln" instead of "oysheyln" to
+avoid the "sh" turning into a shin; write "elt|stn" instead of "eltstn" to
+avoid the "ts" turning into a tsadik.  It is not necessary to say "t|sh" when
+you mean "tsh".  If you really need a vov at the start of a word, you can use
+"|u".   
+
+If you want a compound built on a Hebrew root, separate the Hebrew root
+from prefixes and suffixes by |.  For instance, "farkholemt" should be
+written "far|kholem|t" so that the Hebrew lookup succeeds.  Many Yiddish verbs
+from Hebrew have an extra "en", as in "harg|enen" and "ganv|enen".  Even though
+the words "*harg" and "*ganv" don't exist, use these pseudo-roots as in the
+previous sentence.
+
+If you have a number, write it forwards (1997, not 7991).  This rule also
+holds for numbers with embedded punctuation, all of which is treated as a
+region of left-to-right text within the normal right-to-left rendition of
+Yiddish (such as 5-17-1997).
+
+If you need a Hebrew word, spell it phonetically.  Unaccented vowels often
+should be spelled with an "e", as in "borekh", "bimkem", "maskem". If the
+spelling checker accepts your input, it should be spelled fine in the
+output.  If you have misspelled slightly, the spelling checker will suggest a
+substitute.  Otherwise, mail will be sent to the maintainer, and the word
+should appear shortly on the spelling list.  If you need Hebrew before then,
+or if the word you want is unlikely to be used in standard Yiddish texts
+(such as Biblical quotations), you may use the following letters:
+
+	aleph	#
+	veys	B
+	khes	H
+	kof 	K
+	ayin	e
+	sin 	Q
+	sof 	T
+	tof 	W
+
+If you are using the Yiddish Typewriter, then you can insert TeX commands to
+control the output somewhat.  These commands must be on lines by themselves;
+they all use the \ character, and any line with one of those characters is
+not processed by the other software.
+
+Here are some of the available TeX commands:
+	(1) To change font: \font{n}
+	where "font" can be any of these:
+		jerusalem (handsome angular line form)
+		deadsea (standard book form)
+		calig (nice calligraphic form)
+		frank (somewhat blocky book form)
+		telaviv (OK thick line form)
+		classic (ugly prayer-book form)
+		oldjaffa (ugly thin line form)
+	and "n" is the size.  You can currently use 1000, 1500, or 2000.
+
+	(2) English inserts should be on lines by themselves, surrounded by
+	\english{}.
+
+	(3) You can force a new line by \\ and a new paragraph by inserting
+	a blank line.
+
+The Yiddish Typewriter gives you options for output style.
+
+If you ask it to check your spelling, it will compare each word with a
+spelling list.  The list currently contains about 8,000 words, counting all
+grammatical forms as separate words.  This list has been assembled by hand.
+In the future, I hope to generate it from roots using morphological rules
+appropriate to Yiddish.  Then all forms of each word will be represented.  As
+it stands, you will often find words flagged as misspelled that are just
+unusual forms of words that are already known. For instance, "farzikhert" is
+in the list, but "farzikherte" (an adjective meaning "insured" in the plural
+form) is not (yet).
+
+Most users first check their spelling and then ask for a GIF image.  The
+result will show on your web browser, but won't be particularly high
+quality.  It is a picture of a fairly low-resolution rendering of the text
+you have specified.
+
+PostScript gives you a much higher quality image.  But to see it, you either
+need a PostScript viewer (standard on Unix, available via a link on the
+Typewriter web page for PCs) or a PostScript printer (more expensive than
+usual printers).
+
+If you have the Hebrew Language Option for either Macintosh or MS-Word, you
+can select one of those output forms and see your text in whatever font you
+have loaded.  Unfortunately, I don't know of any fonts for these platforms
+that contain all the Yiddish symbols (such as pasakh-tsvey-yud), so you might
+not be satisfied with the results.  Complain to your font manufacturer.
+
+If your browser supports Unicode with the full bidirectional algorithm and
+Hebrew/Yiddish font (only the Tango browser comes close at the moment), you
+can select UTF-8 format, which is a standard encoding of Unicode.  Unicode
+should be the wave of the future; it will theoretically support texts in any
+language or mixture of languages.  If your browser doesn't support Unicode,
+complain.
+
+Please direct any suggestions and questions to me.
+
+Refoyl Finkel
+
+2)----------------------------------------------------
+Date: Mon, 3 Nov 1997 23:47:11 -0500
+From: "Mark H. David" <mhd@world.std.com>
+Subject: Yiddish Voice Radio Features Singer Perl Teitelbaum, Wed, Nov 5
+
+Yiddish Voice Radio Features Singer Perl Teitelbaum
+Introduces the New Recording of Yiddish Children's Songs
+
+The Yiddish Voice, a Yiddish-language weekly radio show, will feature an
+interview with Perl Teitelbaum on its upcoming show, Wednesday, November 5,
+from 7:30 to 8:30 p.m on WUNR 1600 AM in Boston, Mass.
+
+Perl Teitelbaum, a native speaker of Yiddish who was born in Poland and
+immigrated to the US as a teenager, has been performing as a Yiddish singer
+for several years.  She was prominently featured along with other young
+musicians on the recording "Zumerteg: 20 New Yiddish Songs", featuring
+songs by the poet Beyle Schaechter-Gottesman.
+
+Her latest recordings appear on the "Di Grine Katshke" ("The Green Duck"),
+a new CD recording and songbook produced by Living Traditions, Inc.  The
+recording of "Di Grine Katshke" includes 25 Yiddish children's songs about
+animals, and features, in addition to Teitelbaum's, performances by such
+leading Yiddish singers and klezmer musicians as Lorin Sklamberg, Adrienne
+Cooper, Henry Sapoznik, Jeff Warschauer, and Lauren Brody.
+
+In the interview, Teitelbaum discusses the history of the project to produce
+"Di Grine Katshke", as well as some background on the songs included.  She
+also talks about her experience as both a teacher of Yiddish language to
+adults and as a mother of Yiddish speaking children, both of which activities
+served to motivate her involvement in the project.  In addition to the
+interview, several selections from "Di Grine Katschke" will be played, with
+introductions by  Teitelbaum.
+
+The Yiddish Voice, which began broadcasting in July, 1994, features music,
+poetry, comedy, interviews, news, commentary, and announcements of current
+events, all of it in the Yiddish language.
+
+For further information, mail, telephone, or email to:
+
+Mark David
+The Yiddish Voice
+WUNR Radio International
+160 N. Washington Street
+Boston, MA  02114
+Phone: (617) 738-1870
+Email: yv@world.std.com
+Web: http://www.yv.org/
+
+For "Di Grine Katshke"
+Lorin Sklamberg
+Living Traditions, Inc.
+430 West 14th Street, Suite 514
+New York, NY  10014
+Phone: (212) 691-1272
+Fax: (212) 691-1657
+Email: livetrads@aol.com
+
+3)----------------------------------------------------
+Date: Mon, 3 Nov 1997 15:07:27 -0500
+From: "Zackary Berger" <bergez01@mchip00.med.nyu.edu>
+Subject: Parshe-fun-der-vokh reshime
+
+Dos iz di tsveyte meldung, vayl efsher zaynen do Mendelyaner vos hobn nokh
+nisht gehert dervegn.  
+
+S'iz tsurik mit etlekhe khadoshem oyfgekumen af der velt a reshime far 
+azelkhe, vos viln arumredn di parshe fun der vokh--af mame-loshn, farshteyt
+zikh.  Es darshnt yeder vokh an anderer onteyl-nemer--s'bateylikn zikh say
+ekspertn, say proste yidn.
+
+Balonem, lozt mikh visn.
+
+This is the second notice, since maybe there are those who didn't get the 
+first.
+
+For several months now a group of people have been writing and distributing
+droshes on the parshe of the week--in Yiddish, of course.  We switch off
+writing, so that everyone gets a chance.
+
+Interested people should let me know.
+
+Sholem Berger 
+Nyu-york
+______________________________________________________
+End of Mendele Vol. 07.096
+
+Address for the postings to Mendele: mendele@lists.yale.edu
+Address for the list commands: listproc@lists.yale.edu
+
+Mendele on the Web:
+
+http://mendele.commons.yale.edu
+http://sunsite.unc.edu/yiddish/mendele.html
+
+
+

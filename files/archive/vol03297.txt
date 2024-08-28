@@ -1,0 +1,176 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 3.297
+March 23, 1994
+
+1) Migldik (Meylekh Viswanath)
+2) Introduction (Rick Gildemeister)
+3) Sources of current "natural" Yiddish (David Sherman)
+4) Reflexive periphrastic verbs (Jeremy Stern)
+5) Jewish lists (Hope Ehn)
+
+1)----------------------------------------------------
+Date: Tue Mar 22 13:51:48 1994
+From: VISWANATH@draco.rutgers.edu
+Subject: Migldik
+
+Dovid's statement re: "loy _shomati_ eyno rayo" is on the mark.  However,
+I was somewhat disappointed.  I don't see people on the other side of the
+argument being convinced.  They might very well say to Dovid: your
+statement is no proof that migldik was used by yenem's bobe, either.  The
+question is, what do we assume as a null.  The matter would, however, be
+comparatively settled if someone could give cites from, say literature of
+the last century where 'migldik' was used, or better still evidence of
+its use in spoken yiddish.
+
+Meylekh
+
+2)----------------------------------------------------
+Date: Tue Mar 22 14:33:47 1994
+From: <EEGLC%CUNYVM.bitnet@YaleVM.YCC.Yale.Edu>
+Subject: Introduction
+
+I come from a Hanseatic Protestant family that established themselves
+about 150 years ago in Chile and Peru. My family was very involved in the
+Peruvian foreign service, and my grandfather represented the Peruvian
+government in Berlin up to World War II; it was there that my father was
+exposed to Yiddish.
+
+When I was 14, I discovered Yiddish and have been fascinated with the
+language ever since. People tell me I talk like a Litvak, probably
+because I learned the pronunciation of the literary standard. I also
+speak the stage standard and code-switch a lot back and forth, lemoshl: I
+always say "shteytl" instead of shtetl, but I always say "nokh" not nukh.
+
+Anyway, my father would give me samples of words he heard in Berlin. I
+pooh poohed his knowledge for the longest time, until I got interested in
+Mayrev Yiddish. It turns out that my father was right after all. For
+example, in Eastern (standard) Yiddish one says "revekh", and further
+South the pronunciation "reyvekh" was common. What my father learned was
+"rebakh" (note the b), which I found listed in a Juedisch-Deutsch text.
+
+Mayrev Yiddish is my current passion. Also, we talk a lot about Daytsh-
+merizmen; it worked both ways. Mayrev Yiddish crept into Dutch (sjofel =
+schoufel, meaning shabby) and into German (akhlen, to eat) and "Juss"
+meaning "ten"; the latter must be very old, old enough to have predated
+the Highland shift of final t to s.
+
+One final anecdote; my father had an uncle in Germany who spoke fluent
+Yiddish. He made up pet names for everyone. My father, now Enrique (we
+Hispanicized our names in solidarity with the Allies) was called
+Heinrich then, and his uncle called him Henekh; so if I have a Yiddish
+name, that's it (though we followed the German Christian minhag lehavdl
+of naming kids after their fathers).
+
+I look forward to being a member of Mendele.
+
+Rick Gildemeister
+
+3)----------------------------------------------------
+Date: Tue Mar 22 14:48:34 1994
+From: dave@cai.lsuc.on.ca
+Subject: Sources of current "natural" Yiddish
+
+Arre Komar mentions the existing communities that speak Yiddish and
+wonder what kinds of Yiddish they use today:
+
+> It is the duty of the academic to go out in the real world to learn
+> what is happening out there rather than theorizing in an ivory tower.
+
+If you're looking for source material and do not have an easy entree into
+the Chassidic world for field work, there are many cassette tapes
+available today, aimed at kids, which you could use for resources. Any
+seforim store in Boro Park has them. (Eichler's on 13th Ave. is just one
+example.)  The speakers aren't using Yiddish in any self-conscious way --
+they're using it to communicate with their target audience.  We have a
+number of them (our kids enjoy them). There's a bit of English vocabulary
+dropped in, though not an overwhelming amount.  The groups producing the
+tapes are, I believe, generally Satmar Chassidim, and the accent (vowel
+shifts etc.) is a Southern Yiddish.  Sample titles you could look for
+include Der Alef-Bays Velt; Di Mitsve Kaytl; Avremeleh (a series with 4
+tapes so far); Ikh Bin Alt Dray Yur.  Of course, the content is generally
+religious and mitzvah-oriented.
+
+Our son goes to a Lubavitch cheder, where, ironically, he's one of only 2
+boys in a class of 17 who actually speak Yiddish fluently.  But the
+teachers use quite a bit of Yiddish in class, and the Lubavitch
+pronunciation is, of course, a "Russian" Yiddish. Again, there is
+recorded material around which any interested researchers could study.
+(Recordings of the Lubavitcher Rebbe might be difficult to work with,
+since he uses a vast quantity of Hebrew vocabulary in his talks.  The
+"sichos" directed to women more "pure" Yiddish, however.)
+
+David Sherman
+
+4)----------------------------------------------------
+Date: Tue Mar 22 16:14:26 1994
+From: <jstern@phoenix.Princeton.EDU>
+Subject: Reflexive periphrastic verbs
+
+A quick shayle concerning Yiddish verbs:
+How are reflexive periphrastic verbs conjugated in the present tense.
+So, would it be
+
+ikh bin zikh moyde
+or
+ikh bin moyde zikh
+
+for the verb zikh moyde zayn?
+My ear tells me the former, but I am not sure.
+
+Jeremy Stern
+
+5)----------------------------------------------------
+Date: Tue Mar 22 17:15:33 1994
+From: <ehn@world.std.com>
+Subject: Jewish lists
+
+Last night,l I discovered an E-mail list for Jewish music. It's
+apparently a new list, as it seems to have only 20 members so far. But if
+people log on and use it, it will grow. The list is called
+"jewish-music."
+
+To subscribe, address E-mail to <listserv@israel.nysernet.org>. The
+message should say: SUBSCRIBE JEWISH-MUSIC Your Name   . The list address
+for posting is <jewish-music@israel.nysernet.org>.
+
+I have been trying to track down and verify all E-mail lists for
+classical music, early music, musicology, and ethnomusicology. This is
+the only list I have found related to Jewish music. There is a newsgroup,
+called "alt.music.jewish"; this list does not appear to be an echo of the
+newsgroup. I can't be sure about that, as I am still working on verifying
+mailing lists and thus have not had time to check out the newsgroup.
+
+I have discovered what appears to be the "mother lode" of Jewish lists.
+When I sent the command LIST to <listserv@israel.nysernet.org>, I got
+back a list of about 75 Jewish lists run from that listserv. The message
+also included 71 lists run from other srvers, including MENDELE and the
+lists at the jerusalem1 system in Israel. Happy hunting!
+
+Hope Ehn
+
+______________________________________________________
+End of Mendele Vol. 3.297
+
+To subscribe, send SUB MENDELE FIRSTNAME LASTNAME to:
+
+                   LISTSERV@YALEVM.YCC.YALE.EDU
+
+Mendele has 2 rules:
+
+	1. Provide a Subject: line.
+	2. Sign your article.
+
+Send submissions/responses to:
+        mendele@yalevm.ycc.yale.edu
+
+Other business:
+        nmiller@starbase.trincoll.edu
+
+Anonymous ftp archives available on:
+        ftp.mendele.trincoll.edu
+        in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net

@@ -1,0 +1,213 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 4.192
+November 21, 1994
+
+1) Introduction (Jonathan Dembling)
+2) Minkhe (Arn Abramson)
+3) Bistu (Mikhl Herzog)
+4) Addendum re red and redt = ret (Mikhl Herzog)
+5) Bistu (Anno Siegel)
+6) Morpheme integrity and -stu (Dovid Braun)
+7) Morpheme integrity and ni(sh)to (Dovid Braun)
+8) "Distinguishing" homonyms (Mikhl Herzog)
+
+1)----------------------------------------------------
+Date: Sun, 20 Nov 1994 23:25:14 -0500 (EST)
+From: bruce@ksgbbs.harvard.edu
+Subject: Introduction
+
+Sholem aleichem.  Mayn nomen iz Jonathan Dembling un ikh bin nay tsu
+"Mendele".  Ikh voyn in Somerville, Mass.  Ikh red nor a bisl yidish -
+ikh lern zikh itst.  Ikh red oykh geylish (fun shotland) un a bisl
+niderlendish un daytsh.  Ikh bin zeyer gliklekh az men ken do shraybn af
+yidish!  Tsi zaynen klasn af yidish lebn Boston?  Oder andere mentshn vos
+veln mit mir redn?
+
+Jonathan Dembling
+
+2)----------------------------------------------------
+Date: Sun, 20 Nov 94 22:12:55 EST
+From: abramson@uconnvm.uconn.edu
+Subject: Minkhe
+
+I have just read my last contribution in, I think, vol.4.191. Before one
+of our Hebraists jumps on me, let me hasten to say that in my little
+table of loshn koydesh terms in Yiddish script and YIVO spelling, I left
+a letter out of the entry mem-nun-khes-hey for Yiddish /minkhe/
+'afternoon service.' I failed to write the final /hey/.
+
+Arn Abramson
+
+3)----------------------------------------------------
+Date: Sun, 20 Nov 94  23:26 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Bistu
+
+Arn Abramson:
+
+With respect to your query concerning the pre-standardization writing of
+"bistu", I am forwarding a message which Anno Siegel was good enough to
+send me. If, indeed, the practice is as early as the 15th century, the
+form is surely a derivative of "bis + du", however much the synchronic
+form "bist" plays a part in our synchronic perceptions. This doesn't
+address the issue of consistency in present-day practise.
+
+As an aside, note also the Litvish form "binste": "fun vanen binste?"
+"ikh bin fun Yehupets, un du? fun van binstE?" (or "un du fun vanen
+binst?")
+
+Mikhl Herzog
+
+4)----------------------------------------------------
+Date: Mon, 21 Nov 94  10:42 EST
+From: zogur@cuvmb.columbia.edu
+Subject: Red and redt = ret
+
+Arn Abramson: Incidentally, the contrast between such pairs as red/ret
+which persists in Central Yiddish, illustrates stankiewicz's caution tha
+the presumed word-final voicing neutralization in CY is constrained by
+part of speech. It occurs in substantive but not in verbs and
+adjectives.
+
+Mikhl Herzog
+
+5)----------------------------------------------------
+Date: Mon, 21 Nov 1994 10:05:08 +0100
+From: anno4000@w172zrz.zrz.tu-berlin.d400.de
+Subject: Re: Bistu
+
+Since the subject came up again in Arn Abramson's article in 4.191,
+
+I'd like to share a data point.  Forms like "bistu", "hastu" for "bist
+du", "hast du" were quite common, if not standard, in older forms of
+written modern German.  They are, for instance, often seen in Martin
+Luthers writings, so I guess these forms came about at least as early as
+the 15th century.  Other monosyllabic verbs were treated similarly, such
+as "weistu" for "do you know" and, strangely "wiltu" (not "wilstu") for
+"do you want".  I can't say when these forms disappeared from high
+German; they still survive as "haste", "biste" etc. in some dialects,
+Berlin for one.
+
+Anno Siegel
+
+6)----------------------------------------------------
+Date: Mon, 21 Nov 1994 02:38:56 EST
+From: dovid@mit.edu
+Subject: Morpheme integrity and -stu
+
+As with Arn Abramson, other pressures have prevented me from commenting
+on the _bistu, hostu_ riddle earlier.  (I wonder if the pressures were
+the same?)
+
+I think there isn't anything more to be said about the -stu issue than
+"morpheme integrity is violated in this case" and it's probably (one of
+the) only ones in the system we're talkiong about (namely, that of the
+_Takones fun yidishn oysleyg_, commonly known as "YIVO-oysleyg").
+
+One commonly sees the spelling _volst_ (i.e., vov-alef-lamed-samekh-tes),
+but the correct (according to the Takones) spelling is _voltst_ (i.e.
+with a final sequence of tes-samekh-tes).  The former spelling reflects
+the actual pronounciation, which in turn reflects the rule "delete a
+stem-final /t/ when it is followed by the morpheme /st/".  In spoken
+Yiddish you actually hear [volst] for orthographic _voltst_, [arbest] for
+orthographic _arbetst_, [trakhst] for orthographic _trakhtst_.
+Nevertheless, the spelling preserves the stem-final t.  So too when
+stem-final -st meets the superlative morpheme -st; thus _dreyst_ 'bold'
+must be written _dreystst_ (e.g. shimen iz geven a dreyster held, nor der
+dreystster fun zey alemen iz geven ruvn), although the two forms are
+actually pronounced the same, viz. [dreyster].
+
+With regard to the pronunciation of _redt_ vs. _ret_:  I was recently
+told by a native speaker of English that he feels a difference in the
+pronunciation of the /m/ in _lamb_ and _slam_.  The /m/ in the latter
+word, he claimed, was "softer".  The intuition mentioned with reference
+to _redt_ and _ret_ probably falls under the same category.
+
+Dovid Braun
+
+7)----------------------------------------------------
+Date: Mon, 21 Nov 1994 03:48:57 EST
+From: dovid@mit.edu
+Subject: Morpheme integrity and ni(sh)to
+
+Morpheme integrity is violated in _ni(sh)to'_, also.  Note that this is
+in contrast to _ni(sh)t do_, where both words are stressed.  In
+_ni(sh)to'_, only the second syllable can ever receive stress.
+
+Dovid Braun
+
+8)----------------------------------------------------
+Date: Sun, 20 Nov 94  23:26 EST
+From: zogur@cuvmb.columbia.edu
+Subject: "Distinguishing" homonyms
+
+Conducting Atlas interviews yields an endless supply of "mayses". In
+trying to elicit the gender of the word for 'border', we'd ask "vi hot
+geheysn di linye vos tseteylt eyn land fun a tsveytn. Normally, the
+definite article plus the word "grenetz" would emerge. If the question
+wasn't clear, we'd offer the word in English, Hebrew, or whatever. One
+informant insisted that the word border was "vald". After eliciting the
+word for 'nose', say "di nuz/nuis" we'd ask for the plural, only to hear
+"barinc iz dus nish geveyn. Veye hot den mer vi ayn nuis? Er hot a nuis
+in zi hot a nuis!.
+
+We confronted people with rhymes and homynyms--same or different? In
+Podolia Bessarabia, where "a"-words are frequently realized with "o"
+(tote, mome, vold, voser), people rendered the English sentence 'I touch
+the pot' as something like "ekh ti a top dem top". Asked then whether
+"top" and "top" were the same, the answer was invariably and
+emphatically, "neyn, 'ekh ti a top' iz dokh 'ekh ti a TOP', n 'a top' iz
+dokh 'a TOP'. Clearly differentiated, no?
+
+A reverse phenomenon, in a similar vein: You will recall the linguist's
+famous problem "one phoneme or two?",  often illustrated by the Polish
+distinction between the pair "trzy" 'three' and "czy" 'whether' (Yiddish
+interrogative "tsi"). The teacher in my one semester of Polish at
+Columbia (a native speaking Pole who shall remain nameless) insisted that
+they were homonyms while repeating and obviously distinguishing them
+every time he said them. When I insisted that I could hear the
+difference, he defied me to take a test. When I hit the target every
+time, he said, in desperation "OK, I'll ask my wife". She, perhaps to her
+regret, sided with me.  He went down claiming she couldn't be trusted
+because she was "too literate", she knew the difference in spelling.
+
+I don't know what her fate was, but the episode made me uncomfortable
+enough to keep me from returning for a second term.
+
+Mikhl Herzog
+
+______________________________________________________
+End of Mendele Vol. 4.192
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+A Table of Contents is now available via anonymous ftp, along with weekly
+updates.
+
+Anonymous ftp archives available on:
+          ftp.mendele.trincoll.edu
+          in the directory pub/mendele/files
+
+Archives available via gopher on:
+        gopher.cic.net
+
+Send articles to:
+        mendele@yalevm.ycc.yale.edu
+
+Send change-of-status messages to:
+        listserv@yalevm.ycc.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To unsubscribe kholile: unsub mendele
+
+Other business:
+        nmiller@mail.trincoll.edu
+
+
+

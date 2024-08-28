@@ -1,0 +1,199 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 5.154
+October 29, 1995
+
+1) Hob un bin (David Herskovic)
+2) Hob un bin (Dan Slobin)
+3) Hob un bin (David Sherman)
+4) Zhargon (Louis Fridhandler)
+5) Asch's God of Vengeance (Hershl Hartman)
+
+1)----------------------------------------------------
+Date: 25 Oct 95 14:15:40 EDT
+From: 100114.750@compuserve.com
+Subject: Hob un bin
+
+This is a message I received regarding my recent query:
+
+   ... I presume that it works the same way in Yiddish as it does in
+   German, and that is the following:
+
+   In forming the past tense, use a form of "to be" (zenen) for verbs of
+   motion and being. All other verbs take a form of "to have" (hobn).
+   Thus: Ikh bin gegangn, ikh bin geforn, ikh bin gekummen, ikh bin
+   gevezn, but ikh hob gezen, ikh hob a briv geshikt, etc.
+
+   As for geshlofen, I think you should say ikh hob geshlofen, not ikh
+   bin.
+
+David Herskovic
+
+2)----------------------------------------------------
+Date: Thu, 26 Oct 1995 12:40:35 -0700
+From: slobin@cogsci.berkeley.edu
+Subject: Hob un bin
+
+Part of the confusion in applying hobn and zayn is that the
+category of transitivity, as shown by modern linguistics, is not
+absolute.  That is, a verb can be more or less transitive.  Typically, in
+Germanic languages, participles with _have_ refer to activities without
+focus on the resultant state, while participles with _be_ can have
+end-state focus. Both perspectives can be taken with the same verb, for
+example, compare, in German:  Er _ist_ nach Wien gefahren (`he _is_ to Vienna
+ridden' =he rode to Vienna) versus Er _hat_ gut gefahren (`he _hat_ good
+ridden' =he drove well). The form with _ist_ (=sein) is resultative:  he
+ends up in Vienna; the form with _hat_ (=haben) describes an ability,
+without an endstate.  The Berkeley Germanic linguist, Tom Shannon,
+characterizes _be_-auxiliary verbs as being low in transitivity, referring
+to:  "single participant, perfective predicate denoting beginning or end
+point of a change which the patient-subject (non-volitionally) undergoes
+and which is not (conceived of) as brought about by another agent-like
+entity."  By contrast, _have_-auxiliary verbs are high in transitivity and
+report situations in which an agent-subject is in control.  Here are
+other examples of the two perspectives, _have_ and _be_, in German and Dutch.
+I'd be interested in knowing how Yiddish compares in this regard.
+
+German:
+Viele Leute _haben_ getanzt. (`Many people danced.'
+Die Kinder _sind_ nach draussen getanzt. (`The children
+	danced to-outside')
+
+Dutch (works the same way):
+Vele mensen _hebben_ gedansd.
+De kinderen _zijn_ naar buiten gedansd.
+
+Durative:
+	German: Es _hat_ heute nacht gefroren.
+	Dutch: Het _heeft_ vannacht gevroren.
+		(`It froze tonight.')
+Result:
+	German: Das Wasser _ist_ zu Eis gefroren.
+	Dutch: Het water IS tot ijs gevroren.
+		(`The water froze to ice.')
+
+Note how the choice of auxiliary, in the same construction, can mean
+either durative activity or perfective result in this Dutch pair:
+	...dat ik naar Delft gewandelt _heb_
+		(`...that I _was walking_ to Delft')
+	 ...dat ik naar Delft gewandelt _bin_
+		(`...that I _arrived_ in Delft')
+
+There are, of course, more complexities.   Also, the situation was
+similar in Middle English, and there are comparable contrasts between
+_have_ and _be_ auxiliaries in French and Italian.  If there are linguists on
+Mendele who want to discuss _hobn_ and _zayn_, I'd enjoy going on with the
+discussion.
+
+Dan Slobin
+
+3)----------------------------------------------------
+Date: Fri, 27 Oct 95 0:23:10 EDT
+From: dave@cai.lsuc.on.ca
+Subject: Hob un bin
+
+Actually, for those who have studied French the hobn/zayn distinction is
+almost identical in Yiddish as in French. I haven't done a detailed
+analysis, but in general the words in French that use past perfect "je
+suis..." instead of "j'ai..." are the ones that use zayn in Yiddish.
+E.g., je suis alle'e / ikh bin gegangen.
+
+As to the dialect differences described by Rick Gildemeister re
+hobn/hubn: for us, it isn't "ikh hob / mir hobn", but "ikh hob /
+intsotme". I think Mikhl Herzog has noted in the past that this usage is
+fairly common among Southern Yiddish ("Polish" Yiddish).
+
+David Sherman
+
+4)----------------------------------------------------
+Date: Thu, 26 Oct 1995 20:12:39 -0400
+From: lfridhan@aol.com
+Subject: Zhargon
+
+Hurling epithets can't bruise, hurling epitaphs will.
+
+The learned Mikhl Herzog wrote (no doubt while tired) that Sholem
+Aleykhem did not call himself a _zhargonisher shrayber_ on his epithet
+(meaning epitaph).  True but Sholem-Aleykehm wrote of himself _do ligt a
+yid a posheter, geshribn yidish-taytsh far vayber_.  He died in 1916.
+However a previous version included in a Nov. 23, 1905 letter to his
+son-in-law has a fourth line: _do ligt a zhargonist, a shrayber. I'm sure
+he was suggesting a tragic irony (that adequate recognition of Yiddish
+literature was lagging), not a disparagement of _yidish_..
+Sholem-Aleykhem was fully aware and proud of his great ability as a
+Yiddish stylist.  One cannot be a proud _stylist_ in a medium one
+disparages or disprespects.  Sholem Aleykhem meant no disparagement of
+Yiddish on his epitaph or anywhere else.  At the same time he admired
+European standards of literature and tried to emulate the great writers
+(Gogol, Dickens, Wells, etc).
+
+Mikhl Herzog is probably right that Philologus doesn't _get it_.  He
+seems not able to pick up irony.  Irony is therefore dangerous.  Many
+take it as straight, often engendering wild misunderstanding.
+
+Louis Fridhandler
+
+5)----------------------------------------------------
+Date: Fri, 27 Oct 1995 17:45:53 -0400
+From: hershl@aol.com
+Subject: Asch's God of Vengeance
+
+Just to set the record straight, lest literary/theatrical gods take
+revenge for mis-reading Asch's landmark 1907 work, here is the short
+summary of the play as it appears in Sol Liptzin's  _A History of Yiddish
+Literature_:
+
+    The international vogue of Asch's...play, _God of Vengeance_, was
+    given impetus by Max Reinhardt's production in Berlin's Deutsches
+    Theater, with Rudolf Schildkraut in the main role of Yankel (sic)
+    Shapshovitch, the keeper of a brothel. As the father of a daughter
+    whom he tried to preserve from the immoral atmosphere on the lower
+    story of his house, Yankel ordered a Torah scroll to be written and
+    placed in her room on the upper story. He hoped that the Torah's
+    purity would ward off impurity from her. But the God of Vengeance,
+    whom he feared, could not be bribed and brought retribution upon the
+    sinner. When Yankel discovered that his daughter too had succumbed to
+    the infernal temptations from which he drew his sustenance, he raged
+    against the God who punished children for the sins of parents and he
+    hurled God's Torah from the upper story down to the abode of sin and
+    horror.
+
+    When Asch first read this unpublished play to (Y.L.) Peretz, he was
+    advised to burn it despite its fine literary qualities. when it was
+    played in German, Polish, Russian, French, English, Italian and
+    Danish versions and published in the original Yiddish, Peretz
+    reviewed it as a fine literary work by a flaming talent but also
+    pointed out its shortcomings...
+
+It should be noted that Liptzin's abbreviated summary errs, too, in
+implying that Shapshovitch's daughter, Rivkele, has turned to
+prostitution. Rather, she is attracted to a young "employee" of her
+father's, Manke, in a scene described by Itche Goldberg ("undzer
+dramaturgiye") as "eyne fun di zeyer knape shilderungen fun lezbisher
+libe in der yidisher literatur, (vos) farmogt a zeltn tsartn un poetishn
+otem in zikh--one of the very few depictions of lesbian love in Yiddish
+literature (that) possesses a rare tender and poetic breath."
+
+Note, too, that it is not so much to protect his daughter-- whom he
+regularly beats--that Shapshovitch ("der feter"--the 'uncle') pays for
+the writing of a Torah scroll, but to buy respectability for himself in
+the community--akin, perhaps, to the the recent donation of $5 million by
+the Milken family to a Jewish day school in Los Angeles that will now
+bear the name of Michael Milken. (Wonder what the God of Vengeance would
+say to that?)
+
+Finally, it should be noted that the play was staged repeatedly in
+Yiddish, from its first production in New York in 1907 to its performance
+in the Warsaw Ghetto, and that, in addition to the arrest and trial of
+the New York English-language cast, a Hebrew version was banned in
+pre-Israel Palestine.
+
+Hershl Hartman
+
+______________________________________________________
+End of Mendele Vol. 5.154
+
+
+
+

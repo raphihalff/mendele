@@ -1,0 +1,163 @@
+
+Mendele: Yiddish literature and language
+______________________________________________________
+Contents of Vol. 6.166
+December 26, 1996
+
+1) Black English and Yiddish (Aren Portnoy)
+2) Mikhnosaim/mikhnatayim (Chaim H. Friend)
+3) Mikhnosaim/mikhnatayim (Sema Chaimovitz Menora)
+4) Achron's "Stempenyu" (Dan Leeson)
+5) How many colleges teach yiddish (Karen Sulkis)
+
+1)----------------------------------------------------
+Date: Wed, 25 Dec 1996 10:55:10 -0400
+From: ep73@columbia.edu
+Subject: Black English and Yiddish
+
+Does the current brouhaha regarding the the Oakland California school
+board's decision to declare black English a language sound at all
+familiar to Mendelyaner interested in attitudes toward Yiddish? For
+those unfamiliar, the school board in Oakland, California, a heavily
+black district, declared what they called "Ebonics," or, what is more
+commonly known as black English, a second language, ostensibly to
+procure federal funding to use it for teaching purposes. Black leaders
+such as Jesse Jackson and the NAACP have declared that "it is _not_ a
+language." Jackson went so far to call the decision a "disgrace."
+
+From what I understand about black English, in addition to containing
+unique appropriations of standard English vocabulary, it also employs
+grammatical structures indigenous to West African languages.
+
+I don't know enough about it to determine whether or not it constitutes
+a "language," however, hearing the news report sure brought to mind
+attitudes toward Yiddish.
+
+Aren Portnoy
+
+2)----------------------------------------------------
+Date: Wed, 25 Dec 1996 19:25:54 -0500
+From: chfriend@aol.com
+Subject: Mikhnosaim/mikhnatayim
+
+[This thread has been discussed under another rubric, the most recent
+being 6.162. nm]
+
+The reference to the question as to the correct or incorrect way of
+pronoucing "michnatayim" (the modern Israeli version in popular use), or
+"michnosayim", (the European version), is _no_ indication of one being,
+or not being, a "yiddishist". This is a hebrew word brought into the
+language of yiddish. A true Yiddish linguist would say, "hoyzn", for
+pants. Right?? Hot mir a guten tog!
+
+Chaim H. Friend
+Walnut Creek, CA
+
+3)----------------------------------------------------
+Date: Wed, 25 Dec 1996 15:04:19 -0500
+From: lights4607@aol.com
+Subject: Mikhnosaim/mikhnatayim
+
+This is to let Rick Turkel (vol.6.162) know that  he's not the only
+modern Hebrew speaker out there among the mendleyeners. I too was taken
+aback by Iosif Vaisman's reference to Sholem Aleikhem's  mentioning
+"mikhnatayim" as the modern Hebraist's pronounciation for pants (which
+is, correctly, mikhnasayim with a samech, not a tof) as opposed to the
+Yiddishist's use of "mikhnosaim." I tend to agree with Arnie Kuzmack
+(also vol 6.162) that S.A., in a humorous vein, was mocking  modern
+Hebraic pronounciation of Yiddish words (of Hebraic origins), or even
+more so, deriding those not so knowledgable Hebrew speakers who might
+conceivably confuse the samech with the tof(sof).
+
+Sema Chaimovitz Menora
+
+4)----------------------------------------------------
+Date: Wed, 25 Dec 1996 17:53:22 EST
+From: leeson@aspen.fhda.edu
+Subject: Joseph Achron's music with a Yiddish flavor
+
+Ron Robboy [6.162] comments on discovering some violin music of Joseph
+Achron with Yiddish printed within the performance parts.  I also had
+the same experience with Achron, though in a different work.
+
+I was once asked to take part in a music festival at which music with a
+Yiddish flavor was to be the centerpiece.  And I chose three works to
+play.  One was Prokoffiev's "Overture on Yiddish Themes" (and that is
+the correct title, not the often used "Overture on Hebrew Themes") for
+clarinet, string quartet, and piano.  Wonderful piece.  I had played it
+many times but never in the context of a music festival devoted to
+Yiddish. The tunes sound very Yiddish but are not.  They are all
+composed pieces.
+
+And since we had this strange combination of instruments available, I
+took out a work that I had had for a long time, Joseph Achron's
+"Kindersuite," a work with a number of short movements with titles in
+Yiddish.  Lovely work.
+
+Finally, we decided to use some of the Yiddish songs of Simeon Bellison,
+one of which ("Bobe mayses") was a perfect encore.
+
+But the hit of the evening was, without question, the Achron.  It
+is so rarely played and so very interesting.
+
+I thank Ron Robboy for reminding me of that special event.
+
+Dan Leeson
+Los Altos, California
+
+5)----------------------------------------------------
+Date: Thu, 26 Dec 1996 08:31:27 +0000
+From: karen@edunetics.co.il
+Subject: How many colleges teach yiddish
+
+I don't have a definitive answer [see Stanley Werbow's query (6.163)]
+for exactly which and how many colleges teach yiddish. I can only offer
+that U.C. Berkeley does. Or at least it did 10 years ago. Through the
+Department of German Language and Literature, no less. Hope this helps.
+
+Karen Sulkis
+
+______________________________________________________
+End of Mendele Vol. 6.166
+
+Mendele has 2 rules:
+
+	1. Provide a meaningful Subject: line
+	2. Sign your article (full name please)
+
+Send articles to:
+    mendele@yalevm.cis.yale.edu
+
+Send change-of-status messages to:
+    listserv@yalevm.cis.yale.edu
+
+        a. For a temporary stop: set mendele nomail
+        b. To resume delivery: set mendele mail
+        c. To subscribe: sub mendele first_name last_name
+        d. To unsubscribe kholile: unsub mendele
+
+Other business:
+    nmiller@mail.trincoll.edu
+
+              ****Getting back issues****
+
+1. Anonymous ftp archives are available.
+
+ftp ftp.mendele.trincoll.edu
+    in the directory pub/mendele/files
+
+    A table of contents is also available, along with weekly updates.
+
+2. Mendele archives can also be reached as follows:
+
+via WWW:
+    http://sunsite.unc.edu/yiddish/mewais.html
+
+via gopher:
+    gopher://sunsite.unc.edu/11/../.pub/academic/languages/yiddish/mendele
+
+via ftp:
+    ftp://sunsite.unc.edu/pub/academic/languages/yiddish/mendele
+
+
+

@@ -1,0 +1,192 @@
+
+Mendele: Yiddish literature and language
+____________________________________________________
+
+Contents of Vol. 15.018
+July 11, 2005
+
+1) Soviet orthography (Bob Rothstein)
+2) Soviet orthography (Dovid Braun)
+3) Soviet orthography (Joel Maxman)
+4) Yosele Klezmer (Felicitas Payk)
+5) parkh revisited (Felicitas Payk)
+6) shtadlen (Meyer Wolf)
+7) Yiddish in Los Angeles (Lori Cahan-Simon)
+8) Yiddish in Los Angeles (Noyekh Miller)
+
+1)----------------------------------------------------
+Date: July 11, 2005
+Subject: Re: Soviet orthography
+
+Two footnotes to Lucas Bruyn's comment (15.017)"that the Soviet orthography
+of non-Hebrew Yiddish words is basically the same as the Standardized YIVO
+Orthography and that the Soviet spelling of Hebrew words according to the
+phonemic system is identical to the system used in Weinreich's dictionary."
+
+1. Among the minor differences between the Soviet and YIVO standards are
+   a. The prefix or particle spelled alef-vov-yud-fey in the latter is in
+the former spelled to reflect the pronunciation [uf], while the preposition
+with the same YIVO spelling is spelled in the Soviet standard to reflect
+the pronunciation [af]. This distinction corresponds to the YIVO orthoepic
+(pronunciation) standard rather than to the widespread spelling
+pronunciation of [oyf] for both prefix and preposition.
+
+   b. The preposition spelled in the YIVO standard to reflect the
+pronunciation [bay] is spelled to reflect the pronuncation [ba] in the
+Soviet standard.
+
+2. "[I]s identical to the system used in Weinreich's dictionary" could be
+reformulated slightly more precisely to read "is based on the same
+orthoepic standard reflected in the transcriptions in Weinreich's
+dictionary."
+
+Bob Rothstein
+
+2)----------------------------------------------------
+Date: July 11, 2005
+Subject: Re: Soviet orthography
+
+Lucas Bruyn's statement below is quite incorrect:
+
+"For clarity I would like to remark that the Soviet orthography of
+non-Hebrew Yiddish words is basically the same as the Standardized YIVO
+Orthography and that the Soviet spelling of Hebrew words according to the
+phonemic system is identical to the system used in Weinreich?s dictionary."
+
+Some differences that come to mind:
+
+diacritic marks on the letters (in Soviet system:  total absence of _pasekh
+alef_; presence of _khirek_ under _yud_ when representing UNstressed /i/
+abutting a vowel as in _aviatsye_ -- the first yud has a _khirek_; absence
+of _rofe_ over fey);
+
+deletion of root-initial _shtumer alef_ when "converb" preceeds root (e.g.,
+_tsu+ayln_ is written without an alef);
+
+phonetic spelling of prepositions _ba, af_ and of "converbs" _uf,
+fanander_;
+
+deletion of double consonants when they'd otherwise appear as a result of
+prefixation (_on+nemen_ is rendered: onemen, _far+ratn_ is rendered:
+faratn);
+
+spelling of adverbial stock phrases as one word (_ineynem [without a second
+alef!), inderfri [not the noun], inovnt, mitamol, fundosnay_ etc.)
+
+Dovid Braun
+Cambridge, MA
+
+3)----------------------------------------------------
+Date: July 11, 2005
+Subject: Re: Soviet Orthography
+
+In the Yiddish Forverts published this past Friday is an article about
+Jews in Russian Asia.  A photo of a monument to Sholem Aleichem shows his
+name spelled in Soviet Yiddish Orthography:
+shin kometz-alef lamed ayin mem (not shlus-mem)
+alef lamed tzvey-yudn khes ayin mem (again, no shlus-mem)
+
+Joel Maxman
+NYC
+
+4)----------------------------------------------------
+Date: July 11, 2005
+Subject: Yosele Klezmer
+
+I am searching for a poem with the title "Yosele klezmer". I don't know
+the author, but I do know that it can be found in a Hebrew book about
+klezmer life by Stutchewsky, which was printed in Israel in 1959. If
+anyone can provide the words of this poem for me, I would be most
+grateful. You can either write to the list, or to me personally.
+
+Thanks in advance.
+
+Felicitas Payk
+Hannover, Germany
+felicitas.payk@t-online.de
+
+5)----------------------------------------------------
+Date: July 11, 2005
+Subject: parkh revisited
+
+A few weeks ago, I submitted a posting asking about the use of "parkhes"
+and "parkhim" in Zachary Baker's post in Mendele (Vol. 15.011). I wanted
+to know whether the suffixes "es" and "im" were both used as plural
+suffixes, or whether "parkhes" denotes the infection and "parkhim" is
+referred to those infected.
+
+I'd be happy if someone could clarify this for me.
+
+Felicitas Payk
+Hannover, Germany
+
+6)----------------------------------------------------
+Date: July 11, 2005
+Subject: Re: shtadlen
+
+Midrash l'Pirkey-Avot by Anshl Levi is a manuscript written in Italy in the
+year shin-lamed-tet (circa 1579). It was brought to press in the volume:
+
+Yaacov J. Maitlis
+An Old Yiddish Midrash to the Chapters of the Fathers
+Jerusalem, 1978
+
+The author is an Italo-Ashkenazic Jew and the text is written in Western
+Yiddish and incorporates many Italian elements.
+
+In it we find the verb mishtadl zayn and the noun mishtadlonim (twice).
+Like many other words in the text, these words are pointed.
+
+Meyer Wolf
+
+7)----------------------------------------------------
+Date: July 11, 2005
+Subject: Yiddish in Los Angeles
+
+Here is an update on a new program to teach Yiddish in the L.A. Jewish day
+schools and a link to a story that the LA Times published prominently on
+July 7th.
+
+http://www.latimes.com/news/local/la-me-yiddish7jul07,1,4131140.story?coll=la-headlines-california+
+
+Lori Cahan-Simon
+
+8)----------------------------------------------------
+Date: July 11, 2005
+Subject: Re: Yiddish in Los Angeles
+
+Friends of Yiddish everywhere have reason to rejoice at the news that
+Yiddish will be taught in 3 Los Angeles high schools.  The program will be
+administered by an organization called Yiddishkaytla.  Knowing nothing
+about them, I decided to look up their web page, http://yiddishkaytla.org/.
+The first thing that struck me about their logo--which includes the legend
+'a revolution in Yiddish'--was that of the five Yiddish words there was
+something wrong with four of them.
+
+I chose one of them, a word written 'avada', and wrote to yiddishkaytla
+asking why not 'avade' as is given in Weinreich and in Niborski's
+_verterbukh_.  An unsigned answer came back promptly. Here it is in full:
+
+     We tested it and found people were pronouncing the second 'a' in 'avade' as
+     a long 'a' sound.
+
+     'avada' got us closer to where we wanted to be.
+
+After recovering from that I wrote again but there have been no further
+replies.  Maybe they're out buying a copy of Weinreich.  Maybe they're out
+doing (rakhmone litslan) more testing.
+
+Noyekh Miller
+
+______________________________________________________
+End of Mendele Vol. 15.018
+
+
+Please do not use the "reply" key when writing to Mendele. Instead,
+choose one of these two:
+
+
+Messages for posting on Mendele Personal and other
+messages to the shamosim
+
+ 
