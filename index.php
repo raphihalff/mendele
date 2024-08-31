@@ -123,7 +123,7 @@
         		}
     	    ?>
     	    <div class="nav">
-                <a href="" class="prev">previous issue</a><span class="hide">|</span><a href="<?php echo 'mendele_files/vol' . sprintf('%02s', $vol) . sprintf('%03s', $no) . '.txt'  ?>" download>download issue</a><span class="hide">|</span><a href="" class="next">next issue</a>
+                <a href="" class="prev">previous issue</a><span class="hide">|</span><a href="<?php echo 'files/archive/vol' . sprintf('%02s', $vol) . sprintf('%03s', $no) . '.txt'  ?>" download>download issue</a><span class="hide">|</span><a href="" class="next">next issue</a>
             </div>
         </div>
     <?php } else { ?>
